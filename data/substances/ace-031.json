@@ -1,0 +1,131 @@
+{
+  "slug": "ace-031",
+  "url": "https://dopamine.club/substances/ace-031/",
+  "scrapedAt": "2026-02-12T16:05:20.903Z",
+  "title": "ACE-031",
+  "description": "ACE-031 is a soluble activin receptor type IIB (ActRIIB) fusion protein that binds to myostatin and related negative regulators of muscle growth, promoting skeletal muscle development. Originally developed for treating muscle-wasting diseases like Duchenne muscular dystrophy, it works by blocking the inhibitory signals that limit muscle mass accrual. Clinical trials were discontinued due to safety concerns, though the compound demonstrated significant muscle-building effects in early studies.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "A single ascending-dose study of muscle regulator ACE-031 in healthy volunteers",
+      "summary": "Single-dose ACE-031 treatment in healthy postmenopausal women resulted in statistically significant increases in total body lean mass (3.3%) and thigh muscle volume (5.1%) at day 29, with mean half-life of 10-15 days and generally well-tolerated side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23169607/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Myostatin inhibitor ACE-031 treatment of ambulatory boys with Duchenne muscular dystrophy: Results of a randomized, placebo-controlled clinical trial",
+      "summary": "Randomized, double-blind trial of ACE-031 in boys with Duchenne muscular dystrophy evaluated safety as primary objective with secondary objectives including efficacy measurements, administered subcutaneously every 2-4 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27462804/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Administration of a soluble activin type IIB receptor promotes skeletal muscle growth independent of fiber type",
+      "summary": "ACE-031 treatment in mice for 28 days increased body weight by 16% and muscle wet weights by 26-46%, with fiber cross-sectional area increases of 22-28% in both type I and type II fibers, demonstrating fiber-type independent muscle growth.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20466801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Emerging drugs affecting skeletal muscle function and mitochondrial biogenesis - Potential implications for sports drug testing programs",
+      "summary": "Review identifying ACE-031 among compounds under preclinical and clinical investigation for skeletal muscle function that could potentially be misused by athletes for performance enhancement, necessitating anti-doping monitoring.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26842585/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Limited user discussion exists specifically about ACE-031, with one biohacker expressing interest in comparing the peptide form to more expensive follistatin gene therapy. The user reported gaining 2kg of muscle in 30 days, though acknowledged gene therapy showed more permanent results."
+  },
+  "effects": [
+    {
+      "label": "Rapid Results:",
+      "description": "Clinical evidence shows measurable muscle mass increases within 29 days of single-dose administration"
+    },
+    {
+      "label": "Fiber-Type Independent:",
+      "description": "Unlike selective myostatin inhibition, ACE-031 increases both type I and type II muscle fiber cross-sectional area equally"
+    },
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Pharmacokinetic studies demonstrate linear increases in efficacy with dose escalation from 0.02-3 mg/kg"
+    },
+    {
+      "label": "Clinical Trial Limitations:",
+      "description": "While showing promising muscle-building effects, clinical development was discontinued due to safety concerns in DMD trials"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Dosing:",
+      "description": "Studies used single doses ranging from 0.02-3 mg/kg administered subcutaneously"
+    },
+    {
+      "label": "Treatment Frequency:",
+      "description": "Clinical trials administered doses every 2-4 weeks rather than daily"
+    },
+    {
+      "label": "Optimal Dose Range:",
+      "description": "3 mg/kg single dose showed the most significant muscle mass increases in healthy volunteers"
+    },
+    {
+      "label": "Duration:",
+      "description": "Animal studies used 28-day treatment periods, while human trials evaluated single-dose effects over 29 days"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Commonly reported injection site erythema in clinical trials"
+    },
+    {
+      "label": "Development Discontinued:",
+      "description": "Clinical trials were halted due to unspecified safety concerns in DMD patient population"
+    },
+    {
+      "label": "Limited Long-term Data:",
+      "description": "No extensive human safety data exists beyond short-term single or multiple dose studies"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "In healthy volunteers, acute side effects were minimal at lower to moderate doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Experimental Status:",
+      "description": "ACE-031 is not commercially available and clinical development has been discontinued"
+    },
+    {
+      "label": "Research Use Only:",
+      "description": "Primarily discussed in context of research peptides and experimental biohacking rather than legitimate therapeutic use"
+    },
+    {
+      "label": "Alternative Approaches:",
+      "description": "Users mention follistatin gene therapy ($25k) as a more permanent but expensive alternative to peptide administration"
+    }
+  ],
+  "related": [
+    {
+      "name": "ACE-083",
+      "slug": "ace-083"
+    },
+    {
+      "name": "FOLLISTATIN 344",
+      "slug": "follistatin-344"
+    },
+    {
+      "name": "GDF-11",
+      "slug": "gdf-11"
+    },
+    {
+      "name": "GHRELIN",
+      "slug": "ghrelin"
+    },
+    {
+      "name": "MODIFIED GRF 1-29",
+      "slug": "modified-grf-1-29"
+    }
+  ]
+}

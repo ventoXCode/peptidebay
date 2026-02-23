@@ -1,0 +1,151 @@
+{
+  "slug": "astragaloside-iv",
+  "url": "https://dopamine.club/substances/astragaloside-iv/",
+  "scrapedAt": "2026-02-12T16:05:56.632Z",
+  "title": "ASTRAGALOSIDE IV",
+  "description": "Astragaloside IV (AS-IV) is a cycloartane-type triterpene saponin extracted from Astragalus membranaceus, a traditional Chinese medicinal herb. It works through multiple mechanisms including anti-inflammatory pathways (TLR4/NF-κB inhibition), antioxidant activity (Nrf2 activation), neuroprotection, and modulation of cellular signaling pathways (SIRT1/P53, Akt/GSK3β). Primarily used for immune support, neuroprotection, metabolic health, and as an adaptogenic compound.",
+  "categories": [
+    "Adaptogen"
+  ],
+  "research": [
+    {
+      "title": "Astragaloside IV ameliorates Parkinson's disease by inhibiting TLR4/NF-κB-dependent neuroinflammation",
+      "summary": "AS-IV demonstrated neuroprotective effects in Parkinson's disease models by suppressing neuroinflammation through inhibition of the TLR4/NF-κB signaling pathway, suggesting potential therapeutic applications for neurodegenerative conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40449268/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Astragaloside IV Ameliorates Streptozotocin Induced Pancreatic β-Cell Apoptosis and Dysfunction Through SIRT1/P53 and Akt/GSK3β/Nrf2 Signaling Pathways",
+      "summary": "AS-IV protected pancreatic β-cells from damage and dysfunction by activating SIRT1/P53 and Akt/GSK3β/Nrf2 pathways, demonstrating anti-diabetic effects through anti-oxidant, anti-inflammatory, and anti-apoptotic properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35046684/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Astragaloside IV Alleviates Depression in Rats by Modulating Intestinal Microbiota, T-Immune Balance, and Metabolome",
+      "summary": "AS-IV showed antidepressant effects by modulating gut microbiota (increasing beneficial bacteria like Lactobacillus), regulating Th17/Treg immune balance, and altering metabolic pathways, demonstrating the gut-brain axis connection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38064688/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Astragaloside IV as a novel CXCR4 antagonist alleviates osteoarthritis in the knee of monosodium iodoacetate-induced rats",
+      "summary": "AS-IV demonstrated anti-inflammatory effects in osteoarthritis by acting as a CXCR4 antagonist, suggesting potential applications for joint health and inflammatory conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36403512/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Astragaloside IV Treats Parkinson's Disease by Regulating the Proliferation and Differentiation of NSCs through the SHH-Nurr1 Pathway",
+      "summary": "AS-IV enhanced neural stem cell proliferation and differentiation into dopamine neurons via the SHH-Nurr1 pathway, supporting potential therapeutic use for Parkinson's disease through neuroregeneration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39257865/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alleviative effects of astragaloside IV on cyclophosphamide-induced oxidative damage and immunosuppression in tilapia",
+      "summary": "AS-IV demonstrated protective effects against chemotherapy-induced oxidative damage and immune suppression, showing antioxidant and immunomodulatory properties that could support overall immune function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36368505/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of astragaloside IV on the proliferation and osteogenic differentiation of human jaw bone marrow mesenchymal stem cells in vitro",
+      "summary": "AS-IV promoted proliferation and osteogenic differentiation of jaw bone marrow mesenchymal stem cells, suggesting potential applications in bone regeneration and healing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40817916/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-anxiety and antidepressant-like effects of astragaloside IV and saponins extracted from Astragalus spinosus against the bisphenol A-induced motor and cognitive impairments",
+      "summary": "AS-IV showed anti-anxiety and antidepressant effects in a toxicity-induced model, improving motor and cognitive function while reducing neurochemical disturbances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33666843/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users show limited direct discussion of Astragaloside IV itself, though related adaptogens and longevity supplements receive mixed reviews. Most users focus on more mainstream supplements, with astragalosides being mentioned primarily in research contexts or comprehensive supplement stacks rather than standalone use."
+  },
+  "effects": [
+    {
+      "label": "Research Quality:",
+      "description": "Multiple peer-reviewed studies demonstrate consistent benefits across various organ systems and conditions, with mechanisms well-characterized"
+    },
+    {
+      "label": "Bioavailability Considerations:",
+      "description": "Content varies significantly based on source material, with periderm containing 8-fold higher concentrations than xylem tissue"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Often works best when combined with other astragalus compounds or as part of comprehensive adaptogenic protocols"
+    },
+    {
+      "label": "Traditional Use Validation:",
+      "description": "Modern research supports traditional Chinese medicine applications for Qi tonification and immune enhancement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Range:",
+      "description": "Studies typically use 10-50 mg/kg in animal models, translating to approximately 100-500mg for human equivalent doses"
+    },
+    {
+      "label": "Extraction Standards:",
+      "description": "Quality varies by extraction method and source tissue, with standardized extracts preferred for consistent dosing"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits appear to require consistent use over weeks to months rather than acute dosing"
+    },
+    {
+      "label": "Form Considerations:",
+      "description": "May be more effective when taken as part of whole Astragalus root extract rather than isolated compound"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Research literature shows minimal adverse effects at standard doses in both animal and limited human studies"
+    },
+    {
+      "label": "Immune Modulation Caution:",
+      "description": "May interact with immunosuppressive medications due to immune-enhancing effects"
+    },
+    {
+      "label": "Source Quality Issues:",
+      "description": "Contamination or inconsistent potency in commercial products can lead to unpredictable effects"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with medications metabolized through pathways affected by astragalus compounds"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Market:",
+      "description": "Available as part of Astragalus root extracts and standardized astragaloside products, though isolated AS-IV is less common than whole herb preparations"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Significant variation in astragaloside content based on plant part used (periderm vs. xylem), processing methods, and manufacturer standards"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARIKON MUSHROOM",
+      "slug": "agarikon-mushroom"
+    },
+    {
+      "name": "ASHITABA",
+      "slug": "ashitaba"
+    },
+    {
+      "name": "ASTRAGALUS",
+      "slug": "astragalus"
+    },
+    {
+      "name": "ANDROGRAPHIS",
+      "slug": "andrographis"
+    },
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    }
+  ]
+}

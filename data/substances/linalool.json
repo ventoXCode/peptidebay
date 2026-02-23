@@ -1,0 +1,137 @@
+{
+  "slug": "linalool",
+  "url": "https://dopamine.club/substances/linalool/",
+  "scrapedAt": "2026-02-12T16:09:13.040Z",
+  "title": "LINALOOL",
+  "description": "Linalool is a naturally-occurring monoterpene alcohol found abundantly in essential oils, particularly basil, lavender, and coriander. It acts as a GABA-A receptor modulator and possesses anti-inflammatory, antioxidant, anxiolytic, and neuroprotective properties. Primarily used for its calming effects, it is commonly consumed through essential oil inhalation or herbal supplements containing linalool-rich plants.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Recent updates on bioactive properties of linalool",
+      "summary": "Comprehensive review showing linalool exhibits anticancer, antimicrobial, neuroprotective, anxiolytic, antidepressant, anti-stress, and organ protective activities through multiple mechanisms including oxidative stress modulation and anti-inflammatory pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34559193/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Linalool: Therapeutic Indication And Their Multifaceted Biomedical Applications",
+      "summary": "Review demonstrating linalool's therapeutic attributes including anti-nociceptive effects, anxiolytic properties, and behavioral modulation in dementia patients, with applications in various formulations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38701841/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Olfactory Stimulation with Volatile Aroma Compounds of Basil Essential Oil and Linalool Ameliorates White Fat Accumulation and Dyslipidemia",
+      "summary": "Study showing that inhalation of basil essential oil (rich in linalool) reduced white fat accumulation and improved lipid profiles in chronically stressed rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35565890/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effect of Ocimum basilicum L. and Its Main Ingredients on Respiratory Disorders",
+      "summary": "Review of basil and linalool showing therapeutic effects on respiratory disorders including COPD, asthma, bronchitis, and lung cancer through anti-inflammatory and immunomodulatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35046824/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Linalool in chronic diseases: A comprehensive review of its pharmacological potential and delivery aspects",
+      "summary": "Comprehensive review of linalool's therapeutic potential across chronic diseases, examining its pharmacological mechanisms and optimal delivery methods for clinical application.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40695378/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report strong positive experiences with linalool-containing supplements, particularly holy basil and lavender, for anxiety relief and stress reduction. Most users find the calming effects noticeable and helpful, though some report potent sedating effects requiring careful dosing."
+  },
+  "effects": [
+    {
+      "label": "Rapid Onset:",
+      "description": "Effects are typically noticed quickly, with users reporting benefits within 20 minutes of inhalation or shortly after oral consumption"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Effectiveness varies significantly with dosage; lower doses provide calming without excessive sedation, while higher doses can be overwhelming"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Some users find the effects too potent or sedating, requiring adjustment of dose or timing to avoid daytime drowsiness"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Multiple linalool-containing supplements (lavender, coriander, basil) may work together, though users are cautious about excessive combined dosing"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Essential Oil Inhalation:",
+      "description": "20-minute inhalation sessions used for stress and metabolic benefits; small amounts (few drops) can be very potent"
+    },
+    {
+      "label": "Capsule Form:",
+      "description": "Holy basil (tulsi) taken twice daily in standardized capsule form for ongoing anxiety management"
+    },
+    {
+      "label": "Titration Recommended:",
+      "description": "Users suggest starting with minimal doses due to potent effects, especially with concentrated essential oils"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Often taken before bed due to sedating effects; daytime use requires lower doses to avoid impairment"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Excessive Sedation:",
+      "description": "Most commonly reported issue, with users describing overwhelming drowsiness if dose is too high"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Some users report headaches as a side effect, particularly with higher doses"
+    },
+    {
+      "label": "Estrogenic Effects:",
+      "description": "Lavender noted to have potential estrogenic activity, with caution advised for testosterone-dominant individuals"
+    },
+    {
+      "label": "Operating Impairment:",
+      "description": "Users warn against driving or operating machinery until effects are known due to significant sedating properties"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Multiple Forms Available:",
+      "description": "Accessible as essential oils (lavender, basil), herbal supplements (holy basil/tulsi capsules), and standardized extracts (Silexan for lavender)"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users note importance of quality control for essential oils due to adulteration concerns and variable linalool content between products"
+    },
+    {
+      "label": "Common and Legal:",
+      "description": "Widely available over-the-counter in various forms; holy basil is particularly accessible and commonly used in Indian traditional medicine"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "HAWTHORN",
+      "slug": "hawthorn"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    }
+  ]
+}

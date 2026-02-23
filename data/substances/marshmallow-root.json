@@ -1,0 +1,125 @@
+{
+  "slug": "marshmallow-root",
+  "url": "https://dopamine.club/substances/marshmallow-root/",
+  "scrapedAt": "2026-02-12T16:09:27.518Z",
+  "title": "MARSHMALLOW ROOT",
+  "description": "Marshmallow root (Althaea officinalis L.) is a medicinal plant containing mucilaginous polysaccharides that form a protective film on mucous membranes. The root extract has demonstrated anti-inflammatory, anti-oxidative, and cytoprotective effects on epithelial cells and macrophages in laboratory studies. Traditionally used for centuries to treat respiratory irritation, cough, and mild gastrointestinal discomfort.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Anti-inflammatory and Anti-oxidative Effects of Phytohustil and Root Extract of Althaea officinalis L. on Macrophages in vitro",
+      "summary": "Marshmallow root extract protected human macrophages against oxidative stress, reduced inflammatory cytokines (IL-6, IL-8, TNF-α), and decreased ROS production while maintaining cell viability and migratory capacity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32210831/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Aqueous extracts and polysaccharides from Marshmallow roots: Cellular internalisation and stimulation of cell physiology of human epithelial cells in vitro",
+      "summary": "Marshmallow root polysaccharides stimulated epithelial cell viability and were internalized into cells, while forming bioadhesive layers on fibroblasts, with gene expression analysis showing up-regulation of cell adhesion proteins and growth regulators.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19833188/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Phytochemical Characterization of Low Molecular Weight Constituents from Marshmallow Roots and Inhibiting Effects of the Aqueous Extract on Human Hyaluronidase-1",
+      "summary": "Marshmallow root aqueous extract demonstrated inhibitory effects on human hyaluronidase-1 enzyme, which may contribute to its anti-inflammatory properties and mucous membrane protective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28128955/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Marshmallow root receives limited direct discussion in user communities, with most mentions appearing in broader herbal remedy contexts. Users seeking natural anti-inflammatory and gut health solutions show interest, but specific experiential reports are scarce compared to other supplements."
+  },
+  "effects": [
+    {
+      "label": "Immediate Relief:",
+      "description": "Provides quick soothing effect on irritated mucous membranes upon contact"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Often works better in combination with other herbal remedies for respiratory and digestive issues"
+    },
+    {
+      "label": "Traditional Validation:",
+      "description": "Long-standing use supported by modern in vitro research showing cellular mechanisms"
+    },
+    {
+      "label": "Targeted Action:",
+      "description": "Most effective for localized irritation rather than systemic inflammation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Tea Preparation:",
+      "description": "Commonly used as herbal tea for throat irritation and cough relief"
+    },
+    {
+      "label": "Age Restrictions:",
+      "description": "Suitable for adults, adolescents and children over 3 years for respiratory issues; adults and adolescents over 12 for digestive complaints"
+    },
+    {
+      "label": "Duration:",
+      "description": "Recommended for short-term use (1 week maximum) unless symptoms persist"
+    },
+    {
+      "label": "Extract Forms:",
+      "description": "Available as dry extracts, liquid extracts, syrups, and raw polysaccharide preparations"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Toxicity:",
+      "description": "Generally well-tolerated with few reported adverse effects in clinical use"
+    },
+    {
+      "label": "Ethanol Considerations:",
+      "description": "Alcohol-based extracts restricted to adults only due to ethanol content"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Mucilage may affect absorption of other medications when taken simultaneously"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Rare cases of allergic response in individuals sensitive to Malvaceae family plants"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Wide Availability:",
+      "description": "Commonly found in herbal tea blends, throat lozenges, and cough syrups"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Recognized by European Medicines Agency for traditional herbal medicinal use"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Frequently combined with other respiratory herbs in commercial formulations"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "l-theanine",
+  "url": "https://dopamine.club/substances/l-theanine/",
+  "scrapedAt": "2026-02-12T16:09:06.113Z",
+  "title": "L-THEANINE",
+  "description": "L-Theanine is an amino acid found primarily in tea leaves that promotes relaxation without sedation. It increases alpha brain waves, enhances focus when combined with caffeine, and supports calm, clear-headed mental states.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "l-Theanine: An astounding sui generis integrant in tea",
+      "summary": "L-theanine offers potential health benefits including anti-stress and neuroprotective effects with modulation of anti-neoplastic agents.",
+      "url": "https://doi.org/10.1016/j.foodchem.2017.09.046",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "L-Theanine and Immunity: A Review",
+      "summary": "L-theanine enhances immune function, reduces immunosuppression, and serves as an immunomodulator for inflammation management.",
+      "url": "https://doi.org/10.3390/molecules28093846",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "l-Theanine Activates the Browning of White Adipose Tissue Through the AMPK Axis and Ameliorates Diet-Induced Obesity",
+      "summary": "L-theanine triggers white adipose tissue browning and reduces diet-induced obesity by enhancing thermogenesis.",
+      "url": "https://doi.org/10.2337/db20-1210",
+      "source": "(American Diabetes Association)"
+    },
+    {
+      "title": "l-Theanine reduces psychological and physiological stress responses",
+      "summary": "L-theanine intake decreases stress responses through inhibition of cortical neuron excitation during acute stress.",
+      "url": "https://doi.org/10.1016/j.biopsycho.2006.06.006",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "L-theanine: an astounding sui generis amino acid in poultry nutrition",
+      "summary": "L-theanine demonstrates antioxidant, growth-promoting, immune-boosting, and anti-stress benefits in poultry applications.",
+      "url": "https://doi.org/10.1016/j.psj.2020.07.016",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "L-theanine relieves symptoms in patients with schizophrenia: an 8-week, randomized, double-blind study",
+      "summary": "L-theanine augmentation of antipsychotic therapy improves positive, activation, and anxiety symptoms in schizophrenia.",
+      "url": "https://doi.org/10.4088/JCP.09m05324gre",
+      "source": "(Journal of Clinical Psychiatry)"
+    },
+    {
+      "title": "l-Theanine regulates glucose, lipid, and protein metabolism via insulin and AMP-activated protein kinase signaling",
+      "summary": "L-theanine regulates metabolism in rats through insulin and AMPK signaling mechanisms.",
+      "url": "https://doi.org/10.1039/c9fo02451d",
+      "source": "(Royal Society of Chemistry)"
+    },
+    {
+      "title": "Psychotropic effects of L-theanine and its clinical properties",
+      "summary": "L-theanine demonstrates promising therapeutic potential for managing anxiety disorders and stress.",
+      "url": "https://doi.org/10.1016/j.phrs.2019.104395",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "L-theanine in the adjunctive treatment of generalized anxiety disorder",
+      "summary": "L-theanine showed limited efficacy for anxiety reduction but may improve sleep satisfaction in those with insomnia symptoms.",
+      "url": "https://doi.org/10.1016/j.jpsychires.2018.12.014",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "An overview of biological production of L-theanine",
+      "summary": "Bacterial enzymes demonstrate potential for producing L-theanine for human health and food applications.",
+      "url": "https://doi.org/10.1016/j.biotechadv.2015.04.004",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Widely praised for its calming effects without drowsiness. The combination with caffeine is a popular starting nootropic stack. Very well-tolerated with minimal side effects."
+  },
+  "effects": [
+    {
+      "label": "Caffeine Synergy:",
+      "description": "Most popular use is with caffeine for focused energy."
+    },
+    {
+      "label": "Fast Acting:",
+      "description": "Effects typically felt within 30-60 minutes."
+    },
+    {
+      "label": "Consistent Results:",
+      "description": "Reliably produces calming effects."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "100-400mg daily."
+    },
+    {
+      "label": "With Caffeine:",
+      "description": "Common ratio is 2:1 (L-theanine:caffeine)."
+    },
+    {
+      "label": "For Sleep:",
+      "description": "200-400mg 30-60 minutes before bed."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Extremely Safe:",
+      "description": "Very few side effects reported."
+    },
+    {
+      "label": "Possible Drowsiness:",
+      "description": "At high doses, some may feel sleepy."
+    },
+    {
+      "label": "Lower Blood Pressure:",
+      "description": "May slightly reduce blood pressure."
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Minimal; generally safe with most substances."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in almost all supplement stores."
+    },
+    {
+      "label": "Very Affordable:",
+      "description": "One of the most cost-effective nootropics."
+    },
+    {
+      "label": "Multiple Forms:",
+      "description": "Capsules, powder, and in many pre-made stacks."
+    }
+  ],
+  "related": [
+    {
+      "name": "5-HTP",
+      "slug": "5-htp"
+    },
+    {
+      "name": "BILOBALIDE",
+      "slug": "bilobalide"
+    },
+    {
+      "name": "GINKGOLIDE B",
+      "slug": "ginkgolide-b"
+    },
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "SARCOSINE",
+      "slug": "sarcosine"
+    }
+  ]
+}

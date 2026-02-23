@@ -1,0 +1,155 @@
+{
+  "slug": "vitamin-c",
+  "url": "https://dopamine.club/substances/vitamin-c/",
+  "scrapedAt": "2026-02-12T16:13:04.937Z",
+  "title": "VITAMIN C",
+  "description": "Vitamin C (ascorbic acid) is an essential water-soluble vitamin and powerful antioxidant that supports immune function, collagen synthesis, iron absorption, and protects cells from oxidative damage. The body cannot produce vitamin C, so it must be obtained through diet or supplementation. It plays critical roles in skin health, wound healing, cardiovascular health, and may help reduce the duration and severity of common colds at adequate doses.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vitamin C Supplementation and Athletic Performance: A Review",
+      "summary": "Review of 14 randomized controlled trials found that high-dose vitamin C supplementation shows mostly neutral or negative effects on athletic performance and muscle adaptations to training, with only 3 studies showing benefits for muscle damage markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37417662/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Enhanced Vitamin C Delivery: A Systematic Literature Review Assessing the Efficacy and Safety of Alternative Supplement Forms in Healthy Adults",
+      "summary": "Systematic review found that alternative formulations of vitamin C (liposomal, slow-release, calcium ascorbate) may enhance bioavailability and retention compared to traditional ascorbic acid, with potential benefits for immunity and infection resistance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39861409/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Total, Dietary, and Supplemental Vitamin C Intake and Risk of Incident Kidney Stones",
+      "summary": "Large prospective study of 156,735 women found that high-dose vitamin C supplementation may increase kidney stone risk, warranting caution with megadose protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26463139/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of Dietary Supplementation with Collagen and Vitamin C and Their Combination with Hyaluronic Acid on Skin Density, Texture and Other Parameters",
+      "summary": "Randomized controlled trial of 87 women found that 5g collagen combined with 80mg vitamin C over 16 weeks significantly improved skin density, texture, and reduced signs of aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38931263/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of vitamin C on the skin",
+      "summary": "Review found that vitamin C plays important roles in skin health through epithelial cell differentiation, melanin reduction, and antioxidative protection, with topical application showing more clinical effect than oral intake for skin benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40776734/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin C as an antioxidant supplement in women's health: a myth in need of urgent burial",
+      "summary": "Critical review concluded that oral vitamin C supplementation, even at high doses, does not achieve sustained serum levels required for effective antioxidant activity, explaining failures in clinical trials for pre-eclampsia and other conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21507551/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-Inflammatory, Antithrombotic and Antioxidant Efficacy and Synergy of a High-Dose Vitamin C Supplement Enriched with a Low Dose of Bioflavonoids",
+      "summary": "Clinical study found that 1g vitamin C combined with 50mg bioflavonoids demonstrated significant anti-inflammatory, antiplatelet, and antioxidant effects in healthy subjects, with synergistic benefits from the combination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40871671/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Micronutrients and athletic performance: A review",
+      "summary": "Comprehensive review found that while micronutrient deficiencies impair athletic performance, supplementation beyond correcting deficiencies shows limited benefits, with vitamin C being one of several micronutrients commonly used by athletes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34662692/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report generally positive experiences with vitamin C supplementation, particularly for immune support, skin health, allergy relief, and energy levels. While some report side effects at high doses and skepticism about megadosing, the majority find moderate supplementation beneficial when combined with cofactors like bioflavonoids."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Benefits:",
+      "description": "Most users find 500-1000mg daily sufficient for general health, while some benefit from higher doses (2-6g) for specific conditions, though effectiveness may plateau over time"
+    },
+    {
+      "label": "Synergy with Cofactors:",
+      "description": "Vitamin C works significantly better when combined with bioflavonoids, vitamin D, zinc, and magnesium, with users reporting enhanced absorption and effects from these combinations"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Liposomal and buffered forms (sodium/calcium ascorbate) are reported to cause fewer digestive issues than ascorbic acid, though some users question whether premium forms justify the 100x cost increase"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies widely, with some users experiencing dramatic benefits while others notice minimal effects, suggesting personalized dosing based on deficiency status and health conditions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Maintenance:",
+      "description": "500-1000mg daily is most commonly recommended for general health and immune support, with many users taking this dose long-term without issues"
+    },
+    {
+      "label": "Megadosing Protocol:",
+      "description": "2-6g daily split into multiple doses is used by some for specific conditions, with one study showing 6g reducing cold risk by 80%, though kidney stone risk increases at these levels"
+    },
+    {
+      "label": "Acute Immune Support:",
+      "description": "50-100mg zinc with 1-2g vitamin C at first signs of illness is a popular protocol, with users reporting symptom resolution within 24 hours"
+    },
+    {
+      "label": "Skin Health:",
+      "description": "80-1000mg daily combined with collagen (5-10g) is commonly used for anti-aging and skin benefits, with results visible after 4-16 weeks of consistent use"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "High doses of ascorbic acid commonly cause stomach upset, diarrhea at bowel tolerance, and bladder pain, with buffered or liposomal forms reducing these effects"
+    },
+    {
+      "label": "Kidney Stone Risk:",
+      "description": "Multiple users and studies warn of increased kidney stone risk with long-term high-dose supplementation (above 2g daily), particularly with ascorbic acid"
+    },
+    {
+      "label": "Mineral Interactions:",
+      "description": "Vitamin C significantly increases iron absorption and may interact with copper levels, potentially causing issues for those with iron overload or copper sensitivity"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Some users report insomnia or wired feelings when taking vitamin C late in the day or at very high doses, suggesting morning or split-dose timing is preferable"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Wide Accessibility:",
+      "description": "Vitamin C is extremely affordable and available everywhere, with basic ascorbic acid costing pennies per dose while premium liposomal forms cost 100x more"
+    },
+    {
+      "label": "Brand Considerations:",
+      "description": "Users recommend trusted brands with third-party testing for quality assurance"
+    },
+    {
+      "label": "Form Options:",
+      "description": "Available in multiple forms including ascorbic acid, mineral ascorbates (sodium, calcium, magnesium), liposomal encapsulation, and time-release formulations, each with different absorption profiles and costs"
+    }
+  ],
+  "related": [
+    {
+      "name": "LIPOSOMAL VITAMIN C",
+      "slug": "liposomal-vitamin-c"
+    },
+    {
+      "name": "VITAMIN D3",
+      "slug": "vitamin-d3"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

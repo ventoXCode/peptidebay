@@ -1,0 +1,156 @@
+{
+  "slug": "bacopa",
+  "url": "https://dopamine.club/substances/bacopa/",
+  "scrapedAt": "2026-02-12T16:06:00.018Z",
+  "title": "BACOPA",
+  "description": "Bacopa monnieri is an Ayurvedic herb used for centuries to enhance memory and cognitive function. Modern research confirms its nootropic effects through antioxidant activity and modulation of acetylcholine, serotonin, and dopamine systems.",
+  "categories": [
+    "Herb",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "The Ayurvedic plant Bacopa monnieri inhibits inflammatory pathways in the brain",
+      "summary": "Bacopa inhibits inflammatory cytokines from microglial cells and enzymes associated with brain inflammation.",
+      "url": "https://doi.org/10.1016/j.jep.2016.07.073",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The cognitive-enhancing effects of Bacopa monnieri: a systematic review",
+      "summary": "Bacopa demonstrates some evidence of improving memory free recall in human clinical trials.",
+      "url": "https://doi.org/10.1089/acm.2011.0367",
+      "source": "(Liebert Pub)"
+    },
+    {
+      "title": "Investigating the Neuroprotective and Cognitive-Enhancing Effects of Bacopa monnieri",
+      "summary": "Bacopa provides neuroprotective effects, reducing inflammation and oxidative stress for neurodegenerative conditions.",
+      "url": "https://doi.org/10.3390/antiox13040393",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "Effects of a standardized Bacopa monnieri extract on cognitive performance in the elderly",
+      "summary": "Bacopa extract shows potential for enhancing cognitive performance and reducing anxiety in older adults.",
+      "url": "https://doi.org/10.1089/acm.2008.0018",
+      "source": "(Liebert Pub)"
+    },
+    {
+      "title": "Effects of a Bacopa monnieri extract on stress, fatigue, quality of life and sleep in adults",
+      "summary": "Bacopa enhances emotional wellbeing, general health, and pain-related symptoms in adults with poor sleep.",
+      "url": "https://doi.org/10.1016/J.JFF.2021.104671",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "A systematic review of Bacopa monnieri in child and adolescent populations",
+      "summary": "Bacopa is safe and effective for improving cognition, behavior, and attention-deficit in children.",
+      "url": "https://doi.org/10.1016/j.ctim.2016.09.002",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Bacopa monniera, a reputed nootropic plant: an overview",
+      "summary": "Traditional Ayurvedic medicine demonstrating enhancement of memory and reduction of inflammation and seizures.",
+      "url": "https://doi.org/10.1016/J.PHYMED.2003.12.008",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The effectiveness of Bacopa monnieri as a nootropic, neuroprotective, or antidepressant supplement",
+      "summary": "Bacopa shows modest improvements in memory loss and may reduce Alzheimer's disease effects.",
+      "url": "https://doi.org/10.1038/s41598-020-80045-2",
+      "source": "(Nature)"
+    },
+    {
+      "title": "Assessing the Anti-inflammatory Effects of Bacopa-Derived Bioactive Compounds",
+      "summary": "Quercetin from Bacopa effectively reduces inflammation by inhibiting COX-2 and iNOS gene expression.",
+      "url": "https://doi.org/10.1021/acsomega.2c05318",
+      "source": "(ACS Publications)"
+    },
+    {
+      "title": "Neuroprotective role of Bacopa monniera extract against aluminium-induced oxidative stress",
+      "summary": "Bacopa provides neuroprotective effects against aluminium-induced oxidative stress in the hippocampus.",
+      "url": "https://doi.org/10.1016/J.NEURO.2005.12.007",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 73,
+    "summary": "Users appreciate its memory-enhancing effects, though note it requires consistent use over weeks to months for full benefits. Some report initial fatigue or digestive issues."
+  },
+  "effects": [
+    {
+      "label": "Delayed Onset:",
+      "description": "Benefits typically emerge after 4-12 weeks of consistent use."
+    },
+    {
+      "label": "Cumulative Effects:",
+      "description": "Longer use tends to yield better results."
+    },
+    {
+      "label": "Standardized Extracts:",
+      "description": "Most effective with extracts standardized to 50% bacosides."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "300-600mg daily of standardized extract."
+    },
+    {
+      "label": "With Fats:",
+      "description": "Fat-soluble compounds; best absorbed with meals."
+    },
+    {
+      "label": "Morning or Evening:",
+      "description": "Some find it relaxing; others take in morning."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "GI Upset:",
+      "description": "Nausea and cramping possible, especially on empty stomach."
+    },
+    {
+      "label": "Fatigue:",
+      "description": "Some users report tiredness initially."
+    },
+    {
+      "label": "Thyroid Concerns:",
+      "description": "May affect thyroid function with long-term use."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Common in supplement stores and online."
+    },
+    {
+      "label": "Various Extracts:",
+      "description": "Look for standardized extracts like Synapsa or Bacognize."
+    },
+    {
+      "label": "Affordable:",
+      "description": "Reasonably priced compared to synthetic nootropics."
+    }
+  ],
+  "related": [
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    }
+  ]
+}

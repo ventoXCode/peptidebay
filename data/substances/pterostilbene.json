@@ -1,0 +1,156 @@
+{
+  "slug": "pterostilbene",
+  "url": "https://dopamine.club/substances/pterostilbene/",
+  "scrapedAt": "2026-02-12T16:10:49.806Z",
+  "title": "PTEROSTILBENE",
+  "description": "Pterostilbene is a naturally occurring polyphenolic compound, primarily found in blueberries and grapes, that is a dimethylated analog of resveratrol with superior bioavailability. It functions as a potent antioxidant, anti-inflammatory agent, and sirtuin activator, with effects on cellular metabolism, epigenetic regulation, and NAD+ pathways. Research suggests applications in metabolic health, cognitive function, longevity, and cancer prevention.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Dietary Supplementation With NAD+-Boosting Compounds in Humans: Current Knowledge and Future Directions",
+      "summary": "Review examining NAD+ precursor supplementation including nicotinamide riboside co-administered with pterostilbene, finding these compounds are common candidates for improving physiologic function in aging and age-related diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37068054/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pterostilbene Targets Hallmarks of Aging in the Gene Expression Landscape in Blood of Healthy Rats",
+      "summary": "Pterostilbene supplementation in healthy rats modulated gene expression related to key aging hallmarks, suggesting anti-aging effects at the molecular level through epigenetic mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39562169/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A randomized placebo-controlled trial of nicotinamide riboside and pterostilbene supplementation in experimental muscle injury in elderly individuals",
+      "summary": "Clinical trial examining NR and pterostilbene supplementation effects on muscle regeneration and stem cell function in elderly individuals following muscle injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35998039/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pterostilbene, a dimethylated analog of resveratrol, promotes energy metabolism in obese rats",
+      "summary": "Study found pterostilbene significantly suppressed abdominal fat accumulation, increased oxygen consumption and energy expenditure, and promoted fat metabolism over carbohydrate metabolism in obese rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28319852/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pterostilbene-induced changes in gut microbiota composition in relation to obesity",
+      "summary": "Pterostilbene supplementation induced beneficial changes in gut microbiota composition associated with improvements in obesity-related metabolic parameters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27377854/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "AMPK-Dependent Epigenetic Regulation of Metabolism Mediates the Anti-Cancer Action of Pterostilbene in Hepatocellular Carcinoma",
+      "summary": "Pterostilbene demonstrated anti-cancer effects in hepatocellular carcinoma through AMPK-dependent epigenetic regulation of metabolism, suggesting potential therapeutic applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40888265/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Pterostilbene for MTA1-Targeted Interception in High-Risk Premalignant Prostate Cancer",
+      "summary": "Dietary pterostilbene showed promise for cancer prevention in high-risk premalignant prostate cancer through targeted molecular mechanisms, supporting its potential for nutritional intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34675064/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pterostilbene enhances reproductive outcomes and oocyte quality in aged mice without adverse effects",
+      "summary": "Long-term pterostilbene supplementation improved reproductive outcomes, increased implantation and live birth rates in aged mice, and enhanced oocyte quality without affecting estrous cycles or offspring health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40711451/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report pterostilbene as an effective longevity and anti-aging supplement, particularly when combined with NAD+ precursors like NR. Most users taking it as part of comprehensive stacks report positive results for energy, cognitive function, and overall health markers, though it's rarely used alone."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Effects:",
+      "description": "Most effective when combined with NAD+ boosters like NR or NMN, with users reporting the combination works better than either alone"
+    },
+    {
+      "label": "Bioavailability Advantage:",
+      "description": "Users choose pterostilbene over resveratrol due to its superior absorption and lipophilicity, noting it's more cost-effective despite higher price"
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "Users report sustained benefits over months to years, particularly for anti-aging goals, with some showing measurable improvements in biomarkers"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between users, with some reporting dramatic results while others notice minimal changes"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most commonly used at 50-150mg daily, often as part of combination products with NR"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically taken in the morning on empty stomach or with breakfast as part of longevity stacks"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users cycle pterostilbene as part of senolytic protocols rather than taking daily"
+    },
+    {
+      "label": "Stack Integration:",
+      "description": "Usually combined with 250-300mg NR, quercetin, fisetin, and other longevity compounds"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Very few direct side effects attributed to pterostilbene specifically in user reports"
+    },
+    {
+      "label": "Stack Interactions:",
+      "description": "Users occasionally report difficulty determining which compound in complex stacks causes effects or side effects"
+    },
+    {
+      "label": "Cost Concerns:",
+      "description": "High cost is the main complaint, with users seeking more affordable alternatives or questioning cost-effectiveness"
+    },
+    {
+      "label": "Limited Standalone Data:",
+      "description": "Most users take it in combination, making it difficult to isolate specific side effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Products:",
+      "description": "Available from supplement companies, often combined with NR in branded products like Basis and Tru Niagen"
+    },
+    {
+      "label": "Quality Brands:",
+      "description": "Users prefer brands that provide third-party testing for purity and potency verification"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Naturally found in blueberries, though supplemental doses are much higher than dietary intake"
+    }
+  ],
+  "related": [
+    {
+      "name": "ARTICHOKE EXTRACT",
+      "slug": "artichoke-extract"
+    },
+    {
+      "name": "BERBERINE",
+      "slug": "berberine"
+    },
+    {
+      "name": "QUERCETIN",
+      "slug": "quercetin"
+    },
+    {
+      "name": "RESVERATROL",
+      "slug": "resveratrol"
+    },
+    {
+      "name": "DHA",
+      "slug": "dha"
+    }
+  ]
+}

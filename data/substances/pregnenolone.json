@@ -1,0 +1,149 @@
+{
+  "slug": "pregnenolone",
+  "url": "https://dopamine.club/substances/pregnenolone/",
+  "scrapedAt": "2026-02-12T16:10:45.935Z",
+  "title": "PREGNENOLONE",
+  "description": "Pregnenolone is a neurosteroid hormone synthesized from cholesterol in the adrenal glands and brain, serving as a precursor to all other steroid hormones including DHEA, progesterone, testosterone, and estrogen. It functions as a neuromodulator affecting NMDA receptors, GABA transmission, and neuroplasticity, with roles in memory formation, stress response, and neuroprotection. Pregnenolone is used primarily for cognitive enhancement, mood regulation, and as a precursor for hormone optimization in age-related decline.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Steroid pregnenolone sulfate enhances NMDA-receptor-independent long-term potentiation at hippocampal CA1 synapses: role for L-type calcium channels and sigma-receptors",
+      "summary": "Pregnenolone sulfate was found to facilitate a unique form of long-term potentiation in hippocampal neurons independent of NMDA receptors, suggesting novel mechanisms for memory enhancement through calcium channels and sigma receptors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17330865/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of pregnenolone, dehydroepiandrosterone and their sulfate esters in brain and other tissues in relation to aging, stress and behavior",
+      "summary": "Research demonstrates that pregnenolone and its metabolites decline with age and play crucial roles in memory, neuroprotection, and stress response regulation, with supplementation showing promise for age-related cognitive decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11744095/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The neurosteroid pregnenolone promotes degradation of key proteins in the innate immune signaling to suppress inflammation",
+      "summary": "Pregnenolone was shown to suppress inflammatory responses by promoting degradation of immune signaling proteins, suggesting anti-inflammatory and neuroprotective properties.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6433066/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Development and validation of a quantitative proton NMR method for the analysis of pregnenolone",
+      "summary": "This FDA study validated analytical methods for pregnenolone quality control, addressing concerns about purity and standardization in over-the-counter supplements and compounded products.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36206694/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Improvement of Psychotic Symptoms and the Role of Tissue Plasminogen Activator",
+      "summary": "Pregnenolone was identified as one of several compounds that may improve psychotic symptoms through modulation of tissue plasminogen activator and neuroplasticity mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26593907/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Scientific overview of hormone treatment used for rejuvenation",
+      "summary": "Review concludes there is limited evidence supporting pregnenolone for rejuvenation in healthy older adults, suggesting it should only be used in cases of documented deficiency rather than as a general anti-aging supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23726254/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Over-the-Counter 'Adrenal Support' Supplements Contain Thyroid and Steroid-Based Adrenal Hormones",
+      "summary": "Testing revealed that many commercial supplements marketed for adrenal support contain undeclared steroid hormones including pregnenolone, raising safety and regulatory concerns.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29502560/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User experiences with pregnenolone are genuinely divided - approximately 60% report significant benefits including improved energy, mood, cognition, and sleep quality, while 40% report either no effects or concerning side effects like hormonal imbalances, anxiety, hair loss, and gynecomastia. Many users emphasize the importance of starting with very low doses (5-10mg) and monitoring hormone panels regularly."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness is highly individual due to unpredictable hormone conversion patterns - some users experience dramatic benefits while others see no effects or adverse reactions"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Starting doses of 5-10mg are often more effective than higher doses (50-100mg), with many users reporting better results at lower amounts"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Most positive responders notice benefits within 3-7 days, though some effects on energy and mood can be immediate while cognitive benefits may take 2-3 weeks"
+    },
+    {
+      "label": "Gender Differences:",
+      "description": "Women may experience stronger effects on mood and energy, while men report more variable results with concerns about estrogen conversion"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Starting Dose:",
+      "description": "5-10mg daily is recommended as a starting dose, with many users finding this sufficient and avoiding higher doses that caused side effects"
+    },
+    {
+      "label": "Typical Range:",
+      "description": "10-50mg daily is most commonly used, taken in the morning to avoid sleep disruption"
+    },
+    {
+      "label": "High Dose Caution:",
+      "description": "Doses above 50mg frequently associated with side effects including hormonal imbalances, gynecomastia in men, and increased anxiety"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Some users cycle 5 days on, 2 days off, or take periodic breaks to prevent adaptation and hormone dysregulation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormonal Imbalances:",
+      "description": "Risk of gynecomastia in men, increased estrogen, progesterone dominance, and disruption of natural hormone production, especially at higher doses"
+    },
+    {
+      "label": "Anxiety and Stimulation:",
+      "description": "Some users report increased anxiety, restlessness, tingling sensations in hands/feet, and overstimulation particularly in first few days or at high doses"
+    },
+    {
+      "label": "Hair Loss:",
+      "description": "Reports of accelerated hair loss and premature graying in some users, possibly due to downstream hormone conversion"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Insomnia if taken too late in day, though paradoxically some users experience improved sleep quality at appropriate timing and dosing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter Access:",
+      "description": "Widely available as a dietary supplement in the US without prescription, though quality and purity vary significantly between brands"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "FDA testing revealed many supplements contain undeclared hormones or incorrect amounts; users recommend brands like quality brands, quality brands, or pharmaceutical-grade sources"
+    },
+    {
+      "label": "Compounding Pharmacies:",
+      "description": "Available through compounding pharmacies with prescription for more reliable dosing, though this is more expensive than OTC supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "DHA",
+      "slug": "dha"
+    },
+    {
+      "name": "LITHIUM OROTATE",
+      "slug": "lithium-orotate"
+    },
+    {
+      "name": "MIF-1",
+      "slug": "mif-1"
+    },
+    {
+      "name": "N-ACETYL SEMAX",
+      "slug": "n-acetyl-semax"
+    },
+    {
+      "name": "RAPASTINEL",
+      "slug": "rapastinel"
+    }
+  ]
+}

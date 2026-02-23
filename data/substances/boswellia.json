@@ -1,0 +1,122 @@
+{
+  "slug": "boswellia",
+  "url": "https://dopamine.club/substances/boswellia/",
+  "scrapedAt": "2026-02-12T16:06:13.175Z",
+  "title": "BOSWELLIA",
+  "description": "Boswellia, also known as Indian Frankincense, is a gummy resin extract from the Boswellia serrata tree containing triterpenic acids known as boswellic acids. These compounds serve as potent anti-inflammatory agents by inhibiting the 5-lipoxygenase (5-LOX) enzyme and decreasing the production of pro-inflammatory mediators.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Boswellia: an evidence-based systematic review by the Natural Standard Research Collaboration",
+      "summary": "This systematic review evaluates the clinical evidence for Boswellia's anti-inflammatory properties across various chronic conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15829470/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Boswellia serrata: an overall assessment of in vitro, preclinical, pharmacokinetic and clinical data",
+      "summary": "A comprehensive review of the pharmacological profile of Boswellia, highlighting its potential as a safer alternative to traditional NSAIDs for inflammatory diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21553931/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Boswellic acids: biological actions and molecular targets",
+      "summary": "An analysis of how boswellic acids target specific molecular pathways to treat chronic inflammation and potentially inhibit cancer cell growth.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17168710/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users overwhelmingly report Boswellia as a 'miracle' for joint and gut inflammation, often finding it more effective than traditional NSAIDs or Omega-3s."
+  },
+  "effects": [
+    {
+      "label": "Joint Pain:",
+      "description": "Highly effective for osteoarthritis and mechanical joint issues like 'tennis elbow' or clicking joints."
+    },
+    {
+      "label": "Alternative to NSAIDs:",
+      "description": "Users frequently switch to Boswellia to avoid the gastrointestinal and cardiovascular side effects of long-term NSAID use."
+    },
+    {
+      "label": "Speed of Action:",
+      "description": "Some users report feeling noticeable relief within the first week of consistent supplementation."
+    },
+    {
+      "label": "Autoimmune Support:",
+      "description": "Effective as an adjunct therapy for rheumatoid arthritis and inflammatory bowel disease."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Common recommendations range from 250 mg to 500 mg taken twice daily."
+    },
+    {
+      "label": "Potency Matters:",
+      "description": "Users emphasize looking for extracts containing AKBA (3-O-acetyl-11-keto-beta-boswellic acid) for maximum efficacy."
+    },
+    {
+      "label": "Low Dose Efficacy:",
+      "description": "One user reported total relief from knee pain using only 100 mg of a high-patency extract (ApresFlex) daily."
+    },
+    {
+      "label": "Phytosome Forms:",
+      "description": "Mentioned as a preferred delivery method in complex 'hangover' and anti-inflammatory stacks to improve absorption."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mild Digestive Issues:",
+      "description": "A small number of users reported mild diarrhea or a metallic taste in the mouth."
+    },
+    {
+      "label": "Potential Tinnitus:",
+      "description": "One user reported tinnitus and vertigo in the context of a very large multi-supplement stack including Boswellia."
+    },
+    {
+      "label": "Joint Cracking:",
+      "description": "Rarely, users mentioned increased joint 'cracking' sounds despite reduced pain levels."
+    },
+    {
+      "label": "Interaction Risks:",
+      "description": "Users caution against high doses when combining with other potent anti-inflammatories or blood thinners."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Nutraceutical Status:",
+      "description": "Widely available over-the-counter as a supplement but not currently approved as a primary drug in the US."
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Significant differences in boswellic acid content are found between brands; users suggest sourcing from reputable vendors with standardized extracts."
+    }
+  ],
+  "related": [
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "COLLAGEN TYPE II",
+      "slug": "collagen-type-ii"
+    },
+    {
+      "name": "DIOSMIN",
+      "slug": "diosmin"
+    }
+  ]
+}

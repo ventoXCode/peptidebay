@@ -1,0 +1,131 @@
+{
+  "slug": "menthol",
+  "url": "https://dopamine.club/substances/menthol/",
+  "scrapedAt": "2026-02-12T16:09:32.240Z",
+  "title": "MENTHOL",
+  "description": "Menthol is a cyclic monoterpene alcohol extracted from mint plants (particularly Mentha canadensis) or synthesized, known for its cooling, analgesic, and anti-inflammatory properties. It works primarily by activating TRPM8 cold receptors and modulating pain pathways through multiple mechanisms including nitric oxide release, GABA modulation, and sensory nerve activation. Commonly used in topical pain relief products, respiratory treatments, and as a flavoring agent in various consumer products.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The distinctive role of menthol in pain and analgesia: Mechanisms, practices, and advances",
+      "summary": "Menthol activates TRPM8 receptors to provide cooling sensations at low concentrations and attenuates mechanical allodynia and thermal hyperalgesia following nerve injury, with recent findings showing involvement of central mGluR and κ-opioid signaling pathways in its analgesic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36211984/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Menthol can be safely applied to improve thermal perception during physical exercise: a meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis found menthol improves thermal sensation and comfort during exercise without compromising thermoregulation or causing adverse changes in body temperature, sweat production, or heart rate, confirming its safety for athletic use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32788643/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Current Knowledge on the Vascular Effects of Menthol",
+      "summary": "Menthol acts on vascular endothelium and smooth muscle through multiple mechanisms including nitric oxide and EDHF release, increasing perfusion in directly exposed areas while potentially decreasing it in distant vascular beds through sympathetic vasoconstriction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32317987/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Menthol: A simple monoterpene with remarkable biological properties",
+      "summary": "Comprehensive review showing menthol exhibits antibacterial, antifungal, antipruritic, anticancer, and analgesic effects both in vitro and in vivo, with worldwide demand exceeding 30,000 metric tonnes annually for pharmaceutical, cosmetic, food, and tobacco applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24054028/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with menthol-containing products for pain relief and cooling effects, with most finding it effective for topical applications and acute symptom management. While some note limitations for deep joint pain, the majority appreciate its immediate cooling sensation and safety profile for short-term use."
+  },
+  "effects": [
+    {
+      "label": "Surface vs Deep Pain:",
+      "description": "Most effective for surface-level pain and acute discomfort; users report limited effectiveness for deep joint pain, with recommendations to try oral supplements like collagen or boswellia for deeper issues"
+    },
+    {
+      "label": "Rapid Onset:",
+      "description": "Effects are typically felt within minutes of application, making it useful for acute flare-ups and immediate symptom management"
+    },
+    {
+      "label": "Complement to Other Therapies:",
+      "description": "Works best when combined with other modalities like heat therapy, exercise, or oral anti-inflammatory supplements rather than as a standalone treatment"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness varies significantly between users, with some finding dramatic relief while others report minimal benefits beyond temporary cooling sensation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Topical Applications:",
+      "description": "4 drops twice daily (morning and evening) commonly mentioned for liquid formulations, with some users experimenting with smaller doses more frequently throughout the day"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Most users apply morning (around 7am) and evening (around 6pm), though optimal timing may vary; application after showering or before physical activity reported as beneficial"
+    },
+    {
+      "label": "Concentration Matters:",
+      "description": "Higher concentrations may provide stronger effects but can also cause irritation; users generally start with manufacturer-recommended doses before adjusting"
+    },
+    {
+      "label": "Food Interaction:",
+      "description": "Limited discussion on food interactions for topical use, though consistency in application timing appears more important than meal timing"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Potential Irritation:",
+      "description": "High concentrations can cause skin irritation or paradoxical burning sensations in some users, particularly with prolonged or excessive application"
+    },
+    {
+      "label": "Respiratory Effects:",
+      "description": "When inhaled (e.g., in vapor form), can cause severe coughing and gagging in sensitive individuals, especially if accidentally aspirated"
+    },
+    {
+      "label": "Limited Deep Tissue Penetration:",
+      "description": "Users note that while surface cooling is effective, menthol may not adequately address underlying deep tissue inflammation or joint issues"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Some concern about reduced effectiveness with very long-term continuous use, though this is less documented than with other pain relief compounds"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in numerous over-the-counter topical products, vapor rubs, and combination pain relief formulations at pharmacies and retail stores"
+    },
+    {
+      "label": "Various Formulations:",
+      "description": "Available in creams, patches, liquid drops, vapor inhalers, and combination products with other ingredients like lidocaine or capsaicin"
+    },
+    {
+      "label": "No Prescription Required:",
+      "description": "Fully legal and accessible without prescription in most jurisdictions for external use applications"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    }
+  ]
+}

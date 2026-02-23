@@ -1,0 +1,125 @@
+{
+  "slug": "n-acetyl-selank",
+  "url": "https://dopamine.club/substances/n-acetyl-selank/",
+  "scrapedAt": "2026-02-12T16:09:47.800Z",
+  "title": "N-ACETYL SELANK",
+  "description": "N-Acetylcysteine (NAC) is a derivative of the amino acid L-cysteine that serves as a precursor to glutathione, the body's primary antioxidant. It works by replenishing glutathione levels, supporting liver detoxification, reducing oxidative stress, and modulating glutamate neurotransmission. NAC is FDA-approved as a medication for acetaminophen overdose and is commonly used as a supplement for respiratory health, mental health conditions, and overall antioxidant support.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "N-Acetylcysteine Ineffective in Alleviating Hangover from Binge Drinking: A Clinical Study",
+      "summary": "A clinical trial found that NAC did not significantly reduce hangover symptoms from binge drinking, challenging its popular use for alcohol-related recovery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39195687/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The use of N-acetylcysteine in the prevention of hangover: a randomized trial",
+      "summary": "A randomized controlled trial tested NAC for hangover prevention, finding limited effectiveness in reducing alcohol-induced symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34183702/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "N acetylcysteine in the treatment of alcohol use disorder: a randomized, double-blind, placebo-controlled trial",
+      "summary": "A double-blind RCT examined NAC's efficacy in treating alcohol use disorder, with results showing potential benefits for reducing alcohol consumption and cravings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37465907/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report NAC as highly effective for anxiety, OCD, compulsive behaviors, autoimmune conditions, and respiratory health. While some experience no noticeable effects and a few report negative reactions like insomnia or brain fog, the majority find it beneficial for mental health, inflammation reduction, and immune support, with many taking it long-term without issues."
+  },
+  "effects": [
+    {
+      "label": "Onset Time:",
+      "description": "Effects typically appear within 2 hours to 2 weeks, with mental health benefits often taking longer to fully manifest"
+    },
+    {
+      "label": "Consistency:",
+      "description": "Works well for some users with no tolerance buildup over years of use, while others report no noticeable effects even after extended trials"
+    },
+    {
+      "label": "Synergy:",
+      "description": "Often more effective when combined with glycine (as GlyNAC) for glutathione synthesis, sleep quality, and recovery benefits"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Highly variable effectiveness, with genetic factors and specific conditions influencing outcomes significantly"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "600mg once or twice daily is the most commonly reported dosage, typically taken in the morning or split throughout the day"
+    },
+    {
+      "label": "Therapeutic Range:",
+      "description": "Higher doses of 1000-1800mg daily are used for specific conditions like autoimmune disease, OCD, or intensive recovery protocols"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken with food to reduce potential stomach upset, though some take it on an empty stomach for better absorption"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Most users take it daily long-term without cycling, though some recommend occasional breaks to assess continued need"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Nausea and stomach discomfort are the most commonly reported side effects, especially at higher doses or on empty stomach"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Some users report insomnia, restlessness, or overstimulation when taken too late in the day or at high doses"
+    },
+    {
+      "label": "Rare Negative Reactions:",
+      "description": "A small subset reports brain fog, headaches, or worsening anxiety, though these are uncommon and may indicate dosing issues"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report no side effects with standard dosing, and long-term use appears safe for the majority"
+    }
+  ],
+  "availability": [
+    {
+      "label": "FDA Controversy:",
+      "description": "NAC was approved as a drug in 1963, leading to FDA attempts to remove it from the supplement market, though it remains widely available"
+    },
+    {
+      "label": "Common Sources:",
+      "description": "Available from major supplement retailers, though online platforms have restricted sales due to regulatory concerns"
+    },
+    {
+      "label": "Cost:",
+      "description": "Relatively inexpensive supplement, with bulk powder forms offering significantly better value than capsules"
+    }
+  ],
+  "related": [
+    {
+      "name": "N-ACETYL EPITALON",
+      "slug": "n-acetyl-epitalon"
+    },
+    {
+      "name": "NAC",
+      "slug": "nac"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "epa",
+  "url": "https://dopamine.club/substances/epa/",
+  "scrapedAt": "2026-02-12T16:07:37.641Z",
+  "title": "EPA",
+  "description": "EPA (eicosapentaenoic acid) is a long-chain omega-3 polyunsaturated fatty acid found primarily in fatty fish and algae that plays crucial roles in reducing inflammation, supporting cardiovascular health, and promoting brain function. It works by being incorporated into cell membranes, producing anti-inflammatory resolvins and protectins, and modulating neurotransmitter systems. EPA is commonly used for mood support, reducing inflammation, cardiovascular protection, and cognitive health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Athletes Can Benefit from Increased Intake of EPA and DHA-Evaluating the Evidence",
+      "summary": "Comprehensive review demonstrating that EPA and DHA from fatty fish and algae are the most biologically active omega-3 fatty acids, with limited dietary sources raising concerns about status among athletes and general population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38068783/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "International Society of Sports Nutrition Position Stand: Long-Chain Omega-3 Polyunsaturated Fatty Acids",
+      "summary": "Position statement from sports nutrition experts establishing evidence-based guidelines for EPA and DHA supplementation in athletes for performance, recovery, and health optimization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39810703/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "EPA, DHA, and resolvin effects on cancer risk: The underexplored mechanisms",
+      "summary": "Research exploring how EPA and DHA metabolism produces resolvins that demonstrate antitumorigenic effects through mechanisms including promoting macrophage phagocytosis and inhibiting proinflammatory cytokines.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38825147/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutritional Interventions to Improve Cachexia Outcomes in Cancer-A Systematic Review",
+      "summary": "Systematic review showing that EPA supplementation resulted in significant body weight increases in cancer patients with cachexia, with additional benefits from β-HMB, arginine, and glutamine combinations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35888685/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Influence of an Anti-Inflammatory Gluten-Free Diet with EPA and DHA on the Involvement of Maresin and Resolvins in Hashimoto's Disease",
+      "summary": "Study demonstrating that EPA and DHA supplementation combined with dietary modifications impacts inflammation through long-chain fatty acid mediators in autoimmune thyroid conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39519244/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bioavailability and conversion of plant based sources of omega-3 fatty acids - a scoping review to update supplementation options for vegetarians and vegans",
+      "summary": "Comprehensive review examining the bioavailability of plant-based omega-3 sources and conversion rates to EPA and DHA, providing guidance for vegetarian and vegan populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33576691/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "DHA retroconversion revisited: dietary DHA spares endogenous EPA",
+      "summary": "Research showing that dietary DHA supplementation can spare endogenous EPA production through retroconversion pathways, optimizing omega-3 status.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31250891/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users consistently report significant benefits from fish oil/omega-3 supplementation, particularly for mood, depression, inflammation reduction, and overall well-being. Many describe EPA as \"game-changing\" or \"life-changing\" with minimal side effects, though quality and sourcing concerns are frequently mentioned."
+  },
+  "effects": [
+    {
+      "label": "Depression Treatment:",
+      "description": "Multiple users report EPA-rich fish oil (1000-2000mg EPA) being as effective or more effective than prescription antidepressants with fewer side effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "While majority report benefits, some users taking 4g+ daily report no effect on mood, suggesting individual biochemistry plays a significant role"
+    },
+    {
+      "label": "Inflammation Reduction:",
+      "description": "Consistently effective for reducing brain and systemic inflammation, with users noting this is likely the mechanism behind mood and cognitive benefits"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Benefits typically noticed within 2-8 weeks of consistent daily use, with effects being persistent rather than acute"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Effective Dose:",
+      "description": "1000mg EPA + 500mg DHA daily is commonly reported as effective for mood and general health benefits"
+    },
+    {
+      "label": "Higher Therapeutic Doses:",
+      "description": "3-6 grams total omega-3 (EPA+DHA) used for specific conditions like post-viral recovery or severe inflammation"
+    },
+    {
+      "label": "Cod Liver Oil Alternative:",
+      "description": "15ml daily (3540mg omega-3, 1110mg EPA, 1680mg DHA) reported effective but exceeds typical recommendations"
+    },
+    {
+      "label": "Ratio Consideration:",
+      "description": "EPA-dominant formulas (2:1 EPA to DHA) frequently mentioned as more effective for mood compared to balanced formulas"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Blood Thinning:",
+      "description": "Excessive doses (particularly from cod liver oil) can cause nosebleeds and increased bleeding risk due to anticoagulant effects"
+    },
+    {
+      "label": "Rancidity Concerns:",
+      "description": "Users frequently warn that most commercial fish oil supplements are oxidized/rancid by the time they reach consumers, potentially negating benefits"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some report fishy burps or gastrointestinal discomfort, though this is less common with quality products"
+    },
+    {
+      "label": "Vitamin A Toxicity:",
+      "description": "Risk with cod liver oil when taken in excessive amounts due to high preformed vitamin A content"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Quality Concerns:",
+      "description": "Major concern about supplement quality with users recommending third-party testing and avoiding budget brands that frequently test as rancid or contaminated"
+    },
+    {
+      "label": "Sourcing Options:",
+      "description": "Available as fish oil, krill oil, cod liver oil, and algae-based supplements, with marine sources generally preferred for EPA content"
+    },
+    {
+      "label": "Cost Effective:",
+      "description": "Cod liver oil mentioned as highly cost-effective at $0.50 per serving for high-dose omega-3, though taste and rancidity are trade-offs"
+    }
+  ],
+  "related": [
+    {
+      "name": "DAIDZEIN",
+      "slug": "daidzein"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

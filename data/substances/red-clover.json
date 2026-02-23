@@ -1,0 +1,156 @@
+{
+  "slug": "red-clover",
+  "url": "https://dopamine.club/substances/red-clover/",
+  "scrapedAt": "2026-02-12T16:10:56.906Z",
+  "title": "RED CLOVER",
+  "description": "Red clover (Trifolium pratense) is a legume plant rich in isoflavones—plant compounds with mild estrogenic activity, including biochanin A, formononetin, genistein, and daidzein. It is commonly used as a dietary supplement for managing menopausal symptoms such as hot flashes, supporting bone health, and potentially improving cardiovascular function, though clinical evidence for efficacy remains mixed and further research is needed.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Clinical studies of red clover (Trifolium pratense) dietary supplements in menopause: a literature review",
+      "summary": "Review found insufficient clinical evidence to support the efficacy of red clover isoflavone extracts for alleviating menopausal vasomotor symptoms or reducing LDL cholesterol, with safety concerns remaining for certain patient populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16645539/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Red Clover Supplementation Alleviates Neurological Deficits in Estrogen Deficient Rats Exposed to Chronic Unpredictable Mild Stress",
+      "summary": "Animal study showed red clover supplementation reduced stress, anxiety, and memory impairment in estrogen-deficient rats, suggesting potential neuroprotective benefits during menopause.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40530523/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Red clover and lifestyle changes to contrast menopausal symptoms in premenopausal patients with hormone-sensitive breast cancer receiving tamoxifen",
+      "summary": "Study in breast cancer patients found red clover combined with lifestyle modifications helped manage menopausal symptoms without adverse effects on breast tissue or endometrium.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31975316/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "No Clinically Relevant Pharmacokinetic Interactions of a Red Clover Dietary Supplement with Cytochrome P450 Enzymes in Women",
+      "summary": "Clinical trial demonstrated that standardized red clover supplements (120mg isoflavones daily) do not cause significant drug interactions through cytochrome P450 enzyme inhibition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33197178/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Red Clover Isoflavones Influence Estradiol Concentration, Exercise Performance, and Gut Microbiota in Female Mice",
+      "summary": "Animal research showed red clover supplementation decreased fat mass, increased muscle glycogen and exercise endurance, and positively influenced gut microbiota composition in female mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33937304/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Soy and red clover for mid-life and aging",
+      "summary": "Review concluded that red clover isoflavones appear most useful for improving lipid profiles, with products containing whole plant material potentially more effective than isolated isoflavone extracts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16857655/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Red clover isoflavone metabolite bioavailability is decreased after fructooligosaccharide supplementation",
+      "summary": "Study found that adding fructooligosaccharides (prebiotics) actually reduced the bioavailability of red clover isoflavone metabolites, contrary to expectations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26073948/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Complementary and Alternative Medicine for Menopause",
+      "summary": "Recent evidence-based review notes that while red clover is one of the most commonly used botanicals for menopausal symptoms, its efficacy and safety remain controversial with more research needed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39477563/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User experiences with red clover are genuinely divided, with research showing mixed clinical results. While some studies suggest benefits for menopausal symptoms, lipid profiles, and neuroprotection, clinical evidence for efficacy remains controversial and inconsistent across trials."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence Inconsistent:",
+      "description": "Multiple reviews note that while red clover is widely used for menopausal symptoms, rigorous clinical trials have not consistently demonstrated efficacy for vasomotor symptoms"
+    },
+    {
+      "label": "Lipid Profile Benefits:",
+      "description": "Appears most effective for improving cardiovascular markers, particularly cholesterol levels, with better results from products containing soy protein or whole plant material"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness may depend on gut microbiota composition and individual ability to convert isoflavone precursors into active metabolites like equol"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Generally considered safe with no clinically relevant drug interactions, though long-term safety data for certain populations remains limited"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Isoflavone Dose:",
+      "description": "Most clinical studies use 40-120mg of total isoflavones daily, standardized for biochanin A and formononetin content"
+    },
+    {
+      "label": "Whole Plant vs Extract:",
+      "description": "Products containing whole red clover material may be more effective than isolated isoflavone extracts for certain benefits"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits may require several weeks to months of consistent supplementation, with some studies showing effects after 8-12 weeks"
+    },
+    {
+      "label": "Timing:",
+      "description": "No specific timing requirements noted, though consistent daily intake appears important for maintaining effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Clinical trials generally report few adverse effects, with red clover appearing well-tolerated in most populations"
+    },
+    {
+      "label": "Hormonal Concerns:",
+      "description": "Despite containing phytoestrogens, studies in breast cancer patients show no adverse effects on breast tissue or endometrium when combined with tamoxifen"
+    },
+    {
+      "label": "Digestive Effects:",
+      "description": "Occasional mild gastrointestinal symptoms may occur, particularly when first starting supplementation"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Research shows no clinically significant interactions with cytochrome P450 enzymes, suggesting low risk of drug-herb interactions"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Red clover supplements are readily available as over-the-counter dietary supplements in capsule, tablet, and extract forms"
+    },
+    {
+      "label": "Standardization Important:",
+      "description": "Quality varies significantly between products; look for supplements standardized to isoflavone content (particularly biochanin A and formononetin percentages)"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Sold as a dietary supplement in most countries without prescription, though quality control and standardization are not consistently regulated"
+    }
+  ],
+  "related": [
+    {
+      "name": "BLACK COHOSH",
+      "slug": "black-cohosh"
+    },
+    {
+      "name": "CHASTE TREE (VITEX)",
+      "slug": "chaste-tree-vitex"
+    },
+    {
+      "name": "DONG QUAI",
+      "slug": "dong-quai"
+    },
+    {
+      "name": "Mucuna Pruriens",
+      "slug": "mucuna-pruriens"
+    },
+    {
+      "name": "ARTICHOKE EXTRACT",
+      "slug": "artichoke-extract"
+    }
+  ]
+}

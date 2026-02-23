@@ -1,0 +1,149 @@
+{
+  "slug": "kava",
+  "url": "https://dopamine.club/substances/kava/",
+  "scrapedAt": "2026-02-12T16:08:59.488Z",
+  "title": "KAVA",
+  "description": "Kava (Piper methysticum) is a plant native to the Pacific Islands whose root extract contains kavalactones, compounds that modulate GABA receptors and produce anxiolytic, sedative, and muscle-relaxant effects. Traditionally consumed as a ceremonial beverage for centuries, kava is now marketed as a dietary supplement and herbal remedy primarily for anxiety, stress, and sleep disorders, though concerns about rare hepatotoxicity have been raised with certain preparations.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce",
+      "summary": "International taskforce guidelines recognize kava as an evidence-based nutraceutical treatment option for anxiety disorders, with recommendations for clinical use based on systematic review of efficacy and safety data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35311615/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kava as a Clinical Nutrient: Promises and Challenges",
+      "summary": "Comprehensive review discusses kava's neurological benefits, emerging anti-inflammatory and anticancer effects, while addressing quality control challenges and the unresolved hepatotoxicity concerns associated with certain preparations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33027883/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kava: a comprehensive review of efficacy, safety, and psychopharmacology",
+      "summary": "Systematic review confirms kava's efficacy for anxiety treatment with favorable tolerability profile at therapeutic doses, though quality control and standardization remain critical safety concerns.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21073405/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Herbal and Natural Supplements for Improving Sleep: A Literature Review",
+      "summary": "Review identifies kava among herbal supplements with potential sleep-improving effects, though notes concerns about rare but serious adverse effects and need for standardized dosing protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39086164/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Herb-induced liver injury: Systematic review and meta-analysis",
+      "summary": "Systematic review examines herb-induced liver injury cases, identifying kava among herbal products associated with hepatotoxicity, though emphasizing rarity and potential confounding factors in reported cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34307603/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Calm Down With Kava: What Clinicians Need to Know",
+      "summary": "Clinical overview for healthcare professionals details kava's pharmacological effects as anxiolytic and sedative, while emphasizing need for awareness of product diversity, quality control issues, and potential drug interactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35763396/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kava-kava and anxiety: growing knowledge about the efficacy and safety",
+      "summary": "Review confirms kava's effectiveness for anxiety with minimal cognitive impairment and non-addictive properties at therapeutic doses, while noting potential side effects at very high doses and unclear mechanisms of rare liver toxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12269386/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report genuine anxiolytic and relaxation effects comparable to alcohol or mild benzodiazepines, with many praising it as an effective social anxiety aid and alcohol alternative. However, the extremely unpleasant taste, inconsistent product quality, variable effects between brands, and concerns about hepatotoxicity create significant hesitation and mixed experiences among users."
+  },
+  "effects": [
+    {
+      "label": "Anxiety Relief:",
+      "description": "Highly effective for acute anxiety and social situations for majority of users, with effects noticeable within 30-60 minutes and comparable to mild benzodiazepines"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Significant variation in response between individuals and products, with traditional preparation methods (kava bars) reported as more effective than capsules"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Effects are clearly dose-dependent, with higher doses producing stronger sedation but also increasing risk of side effects like nausea"
+    },
+    {
+      "label": "Tolerance Concerns:",
+      "description": "Some users report diminishing effects with regular use, though less problematic than with pharmaceutical alternatives"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Anxiolytic Dose:",
+      "description": "200-300mg kavalactones per serving, typically 1-2 servings for social anxiety or stress relief"
+    },
+    {
+      "label": "Traditional Preparation:",
+      "description": "2-4 tablespoons of kava root powder prepared as traditional beverage, effects stronger than extract capsules"
+    },
+    {
+      "label": "Sleep Dose:",
+      "description": "250-500mg kavalactones taken 1-2 hours before bed, though individual tolerance varies significantly"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Most users recommend occasional use (2-3 times per week) rather than daily to avoid tolerance and minimize potential liver concerns"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Taste and Palatability:",
+      "description": "Nearly universal complaint about extremely unpleasant, earthy, numbing taste that many find difficult to tolerate"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Nausea and stomach upset reported at higher doses or with certain preparations, particularly on empty stomach"
+    },
+    {
+      "label": "Liver Concerns:",
+      "description": "Rare but serious hepatotoxicity cases documented, creating hesitation among users despite low overall incidence"
+    },
+    {
+      "label": "Skin Effects:",
+      "description": "Chronic heavy use associated with dry, scaly skin (kava dermopathy), though rare with moderate supplemental use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Quality Variation:",
+      "description": "Significant differences reported between brands and preparation methods, with traditional kava bar preparations consistently rated higher than commercial extracts"
+    },
+    {
+      "label": "Source Matters:",
+      "description": "Noble kava varieties from reputable sources emphasized as safer than tudei or unknown cultivars, with water-based extracts preferred over solvent extracts"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Generally legal as dietary supplement in US and available at specialty kava bars, though banned in some European countries due to hepatotoxicity concerns"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    },
+    {
+      "name": "LAVENDER",
+      "slug": "lavender"
+    },
+    {
+      "name": "MAGNESIUM TAURATE",
+      "slug": "magnesium-taurate"
+    },
+    {
+      "name": "APIGENIN",
+      "slug": "apigenin"
+    }
+  ]
+}

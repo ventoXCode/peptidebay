@@ -1,0 +1,137 @@
+{
+  "slug": "l-tyrosine",
+  "url": "https://dopamine.club/substances/l-tyrosine/",
+  "scrapedAt": "2026-02-12T16:09:07.083Z",
+  "title": "L-TYROSINE",
+  "description": "L-Tyrosine is a non-essential amino acid and precursor to the neurotransmitters dopamine, norepinephrine, and epinephrine. It is used as a nootropic supplement to support cognitive performance, mood, and stress response, particularly during demanding situations. Research suggests it may help counteract cognitive decrements under stress by maintaining neurotransmitter synthesis when catecholamine levels are depleted.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Effect of tyrosine supplementation on clinical and healthy populations under stress or cognitive demands--A review",
+      "summary": "Review found that tyrosine supplementation may counteract decrements in neurotransmitter function and cognitive performance under stress, though effectiveness varies and benefits depend on the presence and extent of impaired neurotransmitter function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26424423/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of L-theanine and L-tyrosine on markers of stress and cognitive performance in response to a virtual reality based active shooter training drill",
+      "summary": "Study involving 80 subjects found that 2000mg L-tyrosine supplementation reduced stress biomarkers and improved cognitive performance during a high-stress virtual reality training scenario.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38975711/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral L-Tyrosine Supplementation Improves Core Temperature Maintenance in Older Adults",
+      "summary": "Research showed that 150mg/kg oral L-tyrosine supplementation attenuated the decline in core temperature during 90 minutes of whole-body cooling in older adults by augmenting reflex vasoconstriction responses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31609301/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tyrosine supplementation for phenylketonuria",
+      "summary": "Cochrane review examining tyrosine supplementation for phenylketonuria patients to address potential tyrosine deficiency that may contribute to neuropsychological problems in this population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33427303/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Perspectives of biotechnological production of L-tyrosine and its applications",
+      "summary": "Review of biotechnological methods for producing L-tyrosine, highlighting its use as a dietary supplement and precursor compound for various industrial and pharmaceutical applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17968539/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report predominantly positive experiences with L-tyrosine, particularly for motivation, mood enhancement, and ADHD symptoms. Many describe significant improvements in energy, focus, and libido, though some note tolerance development and the need for cycling or balancing with other amino acids like tryptophan."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly individual, with some users experiencing profound benefits while others report no noticeable effects, possibly related to baseline dopamine levels and individual neurochemistry"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Multiple users note that benefits diminish over time, with some reporting complete loss of effectiveness after weeks to months of daily use, suggesting need for cycling strategies"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Users report enhanced effectiveness when combined with B vitamins, L-theanine, or taken alongside ADHD medications, with some noting it reduces stimulant side effects and comedowns"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Effects appear most pronounced when taken on empty stomach in morning, with some users reporting better results taking a second dose mid-day rather than continuous daily use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most users report success with 500-1000mg doses, taken once or twice daily, typically in morning on empty stomach for optimal absorption"
+    },
+    {
+      "label": "Lower Doses Effective:",
+      "description": "Some users, particularly those with ADHD, report significant benefits from doses as low as 250-500mg, suggesting lower starting doses may be appropriate for sensitive individuals"
+    },
+    {
+      "label": "High Dose Studies:",
+      "description": "Research studies have used doses up to 10g without serious adverse effects, though most users stick to 1-2g daily range for practical benefits"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Users who maintain effectiveness long-term often cycle on/off, use only as needed (3-4 days per week), or take breaks every few weeks to prevent tolerance"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Neurotransmitter Imbalance:",
+      "description": "Users and experts warn about potential serotonin depletion with prolonged use, recommending balancing with L-tryptophan or 5-HTP to maintain serotonin levels"
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "Some users report headaches, agitation, jitteriness, or difficulty sleeping when taking too much or too late in the day, particularly at doses above 1000mg"
+    },
+    {
+      "label": "Tolerance and Dependence:",
+      "description": "Multiple reports of rapid tolerance development, with some users feeling they need increasingly higher doses or experiencing withdrawal-like symptoms when stopping"
+    },
+    {
+      "label": "Nutrient Requirements:",
+      "description": "Effective conversion to neurotransmitters requires adequate B vitamins (especially B6, B9, B12), manganese, and iron, with deficiencies potentially limiting benefits"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "L-tyrosine is readily available as an over-the-counter supplement from numerous brands, both online and in stores"
+    },
+    {
+      "label": "Brand Considerations:",
+      "description": "Users recommend purchasing from reputable brands with third-party testing, with some noting significant differences in effectiveness between brands"
+    },
+    {
+      "label": "Cost-Effective:",
+      "description": "Generally considered an affordable supplement compared to other nootropics, with bulk powder forms offering the best value for regular users"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "EMOXYPINE",
+      "slug": "emoxypine"
+    },
+    {
+      "name": "L-DOPA",
+      "slug": "l-dopa"
+    },
+    {
+      "name": "N-ACETYL L-TYROSINE (NALT)",
+      "slug": "n-acetyl-l-tyrosine-nalt"
+    }
+  ]
+}

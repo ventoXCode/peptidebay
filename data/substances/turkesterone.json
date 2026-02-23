@@ -1,0 +1,129 @@
+{
+  "slug": "turkesterone",
+  "url": "https://dopamine.club/substances/turkesterone/",
+  "scrapedAt": "2026-02-12T16:11:56.479Z",
+  "title": "TURKESTERONE",
+  "description": "Turkesterone is a phytoecdysteroid, a plant-derived compound structurally similar to insect molting hormones, found in plants like Ajuga turkestanica. It is claimed to enhance muscle protein synthesis through estrogen receptor binding and potential IGF-1 modulation, though human evidence remains limited. Marketed as a natural anabolic agent for muscle growth and athletic performance without the side effects of traditional steroids.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ecdysteroids as non-conventional anabolic agent: performance enhancement by ecdysterone supplementation in humans",
+      "summary": "A 10-week study in 46 young men found significantly higher increases in muscle mass and one-repetition bench press performance with ecdysterone supplementation compared to placebo, with no liver or kidney toxicity observed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31123801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of Acute Turkesterone Dosing on Serum IGF-1 and Gastrointestinal Tolerance",
+      "summary": "Study of 11 recreationally active males found no significant effects on serum IGF-1 levels at doses up to 2000mg, and no participants reported gastrointestinal distress symptoms.",
+      "url": "https://journals.lww.com/acsm-msse/fulltext/2024/10001/impact_of_acute_turkesterone_dosing_on_serum_igf_1.1144.aspx",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ecdysterone and Turkesterone—Compounds with Prominent Potential in Sport and Healthy Nutrition",
+      "summary": "Review examining naturally occurring ecdysterone and turkesterone in plants, discussing their potential advantages in sports nutrition and healthy dietary applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38732627/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 25,
+    "summary": "User consensus is predominantly skeptical, with most considering turkesterone ineffective or a scam. Independent lab testing revealed most products contain little to no actual turkesterone, and users report minimal to no noticeable benefits despite high costs."
+  },
+  "effects": [
+    {
+      "label": "Product Quality Issues:",
+      "description": "Independent lab testing shows most commercial turkesterone products contain minimal to no actual active ingredient, with widespread mislabeling"
+    },
+    {
+      "label": "Limited Human Evidence:",
+      "description": "Despite animal studies showing promise, human research is sparse and results on IGF-1 and anabolic effects are inconclusive or negative"
+    },
+    {
+      "label": "Comparison to Alternatives:",
+      "description": "Users consistently note that basic compounds like creatine provide far more reliable and cost-effective results"
+    },
+    {
+      "label": "Scientific Skepticism:",
+      "description": "Even when products are legitimate, the compound appears to have minimal practical effect on muscle building or performance in humans"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Dosing:",
+      "description": "Users typically try 500-1000mg daily, with some going up to 2000mg split into two doses"
+    },
+    {
+      "label": "Cycling Approach:",
+      "description": "Some users cycle turkesterone with periods on and off, though no clear evidence supports this practice"
+    },
+    {
+      "label": "Duration Trials:",
+      "description": "Most users test for 2-3 months before concluding it's ineffective, with few continuing long-term use"
+    },
+    {
+      "label": "Timing Irrelevant:",
+      "description": "No consensus on optimal timing, as most users see no effects regardless of when taken"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Users report virtually no negative side effects, which is consistent with it likely containing little active ingredient"
+    },
+    {
+      "label": "Gastrointestinal Tolerance:",
+      "description": "Research confirms good GI tolerance even at high doses of 2000mg with no reported distress"
+    },
+    {
+      "label": "Hormonal Safety:",
+      "description": "No reports of hormonal disruption, gynecomastia, or testosterone suppression unlike actual anabolic compounds"
+    },
+    {
+      "label": "Financial Cost:",
+      "description": "The main 'side effect' reported is wasted money on an expensive and ineffective product"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widespread Scamming:",
+      "description": "The supplement market is flooded with fake or under-dosed turkesterone products, with legitimate sourcing extremely difficult"
+    },
+    {
+      "label": "High Cost:",
+      "description": "Products are expensive ($40-80+ per bottle) relative to their ineffectiveness and questionable authenticity"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Fully legal and widely available online and in supplement stores, though WADA has considered banning ecdysteroids in competitive sports"
+    },
+    {
+      "label": "Source Authenticity:",
+      "description": "Historical claims about Uzbekistan being the only legitimate source, with ongoing debates about which brands, if any, contain real turkesterone"
+    }
+  ],
+  "related": [
+    {
+      "name": "BORON",
+      "slug": "boron"
+    },
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    }
+  ]
+}

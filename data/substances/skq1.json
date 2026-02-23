@@ -1,0 +1,131 @@
+{
+  "slug": "skq1",
+  "url": "https://dopamine.club/substances/skq1/",
+  "scrapedAt": "2026-02-12T16:11:18.668Z",
+  "title": "SKQ1",
+  "description": "SkQ1 (plastoquinonyl-decyltriphenylphosphonium) is a mitochondria-targeted antioxidant that combines a lipophilic cation with plastoquinone to selectively accumulate in mitochondria and neutralize reactive oxygen species. It was developed by Professor Vladimir Skulachev and has been primarily studied for age-related conditions, particularly dry eye disease and corneal damage, with some evidence for broader anti-aging effects.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of the mitochondria-targeted antioxidant SkQ1 on lifespan of rodents",
+      "summary": "Study demonstrated that SkQ1 extended lifespan in various rodent models and reduced age-related alterations in multiple organ systems, supporting its potential as an anti-aging intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22166671/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondria-targeted antioxidant SkQ1 reduces age-related alterations in the ultrastructure of the lacrimal gland",
+      "summary": "SkQ1 treatment reduced age-related ultrastructural changes in lacrimal glands, suggesting protective effects against age-related dry eye disease at the cellular level.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27852065/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondria-targeted antioxidant SKQ1 protects cornea from oxidative damage induced by ultraviolet irradiation and mechanical injury",
+      "summary": "SkQ1 eye drops accelerated corneal healing approximately 2-fold in both UV-induced and mechanical injury models by reducing oxidative stress and preventing loss of keratocytes.",
+      "url": "https://bmcophthalmol.biomedcentral.com/articles/10.1186/s12886-018-0996-7",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Retinoprotective Effect of SkQ1, Visomitin Eye Drops, Is Associated with Suppression of P38 MAPK and ERK1/2 Signaling Pathways Activity",
+      "summary": "Visomitin eye drops containing SkQ1 demonstrated retinoprotective effects through suppression of stress-related MAPK signaling pathways, suggesting therapeutic potential for retinal conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38622090/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users express significant interest in SkQ1's potential as an anti-aging compound and report positive experiences with Visomitin eye drops for dry eye conditions. While availability is limited and there's a lack of extensive anecdotal reports, those who have used it report noticeable improvements in eye health."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Multiple clinical trials funded by the manufacturer showed improvements in dry eye syndrome symptoms"
+    },
+    {
+      "label": "Animal Studies:",
+      "description": "Demonstrated consistent benefits across various rodent models for lifespan extension and age-related conditions"
+    },
+    {
+      "label": "Eye Applications:",
+      "description": "Most robust evidence exists for ophthalmic applications, particularly for dry eye and corneal protection"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "While approved for dry eye in some countries, broader anti-aging effects in humans require more research"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Eye Drops:",
+      "description": "Visomitin eye drops containing 5 μg/ml SkQ1 used as topical ophthalmic solution for dry eye treatment"
+    },
+    {
+      "label": "Research Concentrations:",
+      "description": "Studies used 7.5 μM SkQ1 for corneal protection in animal models"
+    },
+    {
+      "label": "Systemic Dosing:",
+      "description": "Animal longevity studies used various concentrations, but equivalent human oral doses are not well-established"
+    },
+    {
+      "label": "Application Frequency:",
+      "description": "For eye drops, users apply 1-2 drops several times daily as needed for dry eye symptoms"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Reporting:",
+      "description": "Very few side effects reported in available clinical trials and user experiences"
+    },
+    {
+      "label": "Eye Irritation:",
+      "description": "Minimal reports of temporary irritation with eye drop formulation"
+    },
+    {
+      "label": "Unknown Long-term Effects:",
+      "description": "Long-term safety data in humans for systemic use is limited"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report good tolerance with the ophthalmic formulation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Limited Availability:",
+      "description": "Difficult to acquire in many countries, primarily available in Russia and select European markets"
+    },
+    {
+      "label": "Visomitin Brand:",
+      "description": "SkQ1 is marketed as Visomitin eye drops for dry eye treatment in approved regions"
+    },
+    {
+      "label": "Research Compound:",
+      "description": "Not widely available as a supplement for general anti-aging purposes outside of eye drop formulation"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    }
+  ]
+}

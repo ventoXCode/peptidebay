@@ -1,0 +1,113 @@
+{
+  "slug": "fad",
+  "url": "https://dopamine.club/substances/fad/",
+  "scrapedAt": "2026-02-12T16:07:44.108Z",
+  "title": "FAD",
+  "description": "Flavin Adenine Dinucleotide (FAD) is a critical redox-active coenzyme derived from riboflavin (vitamin B2) that functions as a prosthetic group for various flavoproteins. It plays a central role in the mitochondrial electron transport chain and the Krebs cycle, facilitating essential energy production and metabolic homeostasis through cellular oxidation-reduction reactions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The role of NAD+ metabolism and its modulation of mitochondria in aging and disease",
+      "summary": "This review explores how essential cofactors like NAD+ and related redox molecules support mitochondrial health and homeostatic components like mitophagy to combat age-related decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38890471/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Emerging strategies, applications and challenges of targeting NAD+ in the clinic",
+      "summary": "Researchers discuss the diverse roles of pyridine and flavin-related nucleotides in signaling pathways, epigenetic regulation, and energy homeostasis as clinical targets for aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39251505/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Nicotinamide Adenine Dinucleotide on Heart Failure Caused by Ischemic Cardiomyopathy: A Randomized, Placebo-Controlled Trial",
+      "summary": "Sub-study analysis indicates that boosting redox cofactors improves cardiac bioenergetics and clinical outcomes like ejection fraction in patients with heart failure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39278923/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally view FAD and its precursors as highly effective for sustaining mitochondrial energy, though many note it is often best used as part of a broader B-vitamin or NAD-boosting stack."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability:",
+      "description": "Evidence suggests that active forms like FAD may be more effective than simple riboflavin for individuals with specific genetic mutations (e.g., MTHFR)."
+    },
+    {
+      "label": "Syntropic Benefits:",
+      "description": "Most effective when paired with other mitochondrial supports like CoQ10 or NAD+ precursors."
+    },
+    {
+      "label": "Onset:",
+      "description": "Users typically report feeling metabolic changes within 1-2 weeks of consistent supplementation."
+    },
+    {
+      "label": "Clinical Support:",
+      "description": "Growing clinical interest in using redox cofactors to treat cardiac and metabolic dysfunctions."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Active Forms:",
+      "description": "Supplements providing 50mg to 100mg of riboflavin-5-phosphate or FAD are commonly used to ensure cofactor availability."
+    },
+    {
+      "label": "Stacked Dose:",
+      "description": "Lower doses (10-25mg) are frequent when integrated into a high-quality B-complex."
+    },
+    {
+      "label": "Precursor Loading:",
+      "description": "Some users prefer high-dose riboflavin (up to 400mg) under medical supervision for specific conditions like migraines."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Chromaturia:",
+      "description": "A harmless but bright yellow-orange discoloration of urine is the most frequently reported effect."
+    },
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Rare reports of mild nausea if taken on an empty stomach."
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "Occasional reports of difficulty sleeping if taken too late in the evening due to increased ATP production."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Direct Sourcing:",
+      "description": "FAD is less common as a standalone supplement than riboflavin or R5P but is available from specialty chemical and longevity vendors."
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally recognized as safe (GRAS) when sold as a form of Vitamin B2 in the United States."
+    }
+  ],
+  "related": [
+    {
+      "name": "FMN",
+      "slug": "fmn"
+    },
+    {
+      "name": "MITOQ",
+      "slug": "mitoq"
+    },
+    {
+      "name": "NAD+ BOOSTERS (NMN/NR)",
+      "slug": "nad-boosters-nmn-nr"
+    },
+    {
+      "name": "NAD+",
+      "slug": "nad"
+    },
+    {
+      "name": "NADH",
+      "slug": "nadh"
+    }
+  ]
+}

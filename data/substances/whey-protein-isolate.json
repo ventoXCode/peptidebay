@@ -1,0 +1,143 @@
+{
+  "slug": "whey-protein-isolate",
+  "url": "https://dopamine.club/substances/whey-protein-isolate/",
+  "scrapedAt": "2026-02-12T16:13:07.427Z",
+  "title": "WHEY PROTEIN ISOLATE",
+  "description": "Whey protein isolate is a highly refined form of dairy protein containing 90%+ protein by weight, extracted from milk during cheese production. It works by providing essential amino acids, particularly leucine, that stimulate muscle protein synthesis and support recovery. Primary uses include supporting muscle growth during resistance training, preventing muscle loss in aging populations (sarcopenia), and meeting elevated protein requirements.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effectiveness of Whey Protein Supplementation during Resistance Exercise Training on Skeletal Muscle Mass and Strength in Older People with Sarcopenia: A Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis found whey protein supplementation combined with resistance training significantly improved skeletal muscle mass and strength in older adults with sarcopenia compared to training alone or placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37571361/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Whey Protein Supplement on 4-Week Resistance Exercise-Induced Improvements in Muscle Mass and Isokinetic Muscular Function under Dietary Control",
+      "summary": "Controlled study showed whey protein isolate supplementation during resistance training produced significantly greater increases in muscle mass and peak torque in multiple muscle groups compared to placebo over 4 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36839361/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of whey and soy protein supplementation on inflammatory cytokines in older adults: a systematic review and meta-analysis",
+      "summary": "Systematic review found whey protein supplementation reduced inflammatory markers including CRP and IL-6 in older adults, suggesting anti-inflammatory benefits beyond muscle protein synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35706399/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of whey isolate, creatine, and resistance training on muscle hypertrophy",
+      "summary": "Study demonstrated whey protein isolate combined with resistance training increased muscle fiber hypertrophy and contractile protein accrual at the cellular level in resistance-trained males.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17277594/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "No Significant Differences in Muscle Growth and Strength Development When Consuming Soy and Whey Protein Supplements Matched for Leucine",
+      "summary": "12-week trial found no significant differences between leucine-matched soy and whey protein for supporting muscle growth and strength gains during resistance training in young adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32486007/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Whey protein can reduce feelings of depression and cortisol by increasing serotonin in brain",
+      "summary": "Research found whey protein's alpha-lactalbumin content increased tryptophan availability, leading to higher brain serotonin levels and reduced depressive symptoms in stress-vulnerable individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/[not provided in original data]/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report positive experiences with whey protein isolate for muscle building, recovery, and meeting protein targets. Common praise includes effectiveness for gains, convenience, and good absorption, though some users note digestive issues with certain brands or prefer unflavored versions to avoid artificial sweeteners."
+  },
+  "effects": [
+    {
+      "label": "Dose-Response:",
+      "description": "Most effective when combined with resistance training; benefits diminish when consumed without exercise stimulus"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Users report maximum absorption around 50g per sitting as mentioned by Peter Attia; excess may not be utilized efficiently"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies by baseline protein intake; most beneficial for those struggling to meet protein targets through whole foods alone"
+    },
+    {
+      "label": "Isolate vs Concentrate:",
+      "description": "Isolate preferred by users for better digestion and lower sugar alcohol content, though some find concentrate adequate and more affordable"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Serving:",
+      "description": "25-50g per serving appears most common, with 25g being the typical single scoop amount providing adequate leucine for protein synthesis"
+    },
+    {
+      "label": "Daily Intake:",
+      "description": "Users targeting 0.8-1g protein per pound of bodyweight often use 1-3 servings daily to supplement whole food sources"
+    },
+    {
+      "label": "Loading Not Required:",
+      "description": "Unlike creatine, no loading phase mentioned; consistent daily intake throughout training periods is the standard approach"
+    },
+    {
+      "label": "Timing Flexibility:",
+      "description": "Post-workout most common, but users report benefits with pre-workout or any time to meet daily protein goals"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Bloating and gas reported by some users, particularly with concentrate forms or sweetened varieties; often resolved by switching to unflavored isolate"
+    },
+    {
+      "label": "Artificial Sweeteners:",
+      "description": "Concerns about sucralose and other sweeteners leading some users to prefer unflavored versions despite taste trade-offs"
+    },
+    {
+      "label": "Lactose Sensitivity:",
+      "description": "Even with isolate, some lactose-intolerant users report issues, though generally better tolerated than concentrate"
+    },
+    {
+      "label": "Dehydration:",
+      "description": "A few users noted increased thirst or dehydration after consumption, possibly due to protein metabolism demands"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Cost-Conscious Options:",
+      "description": "Users actively seek bulk sources like Bongards dairy (15kg bags) and TrueNutrition custom mixes for best value, with prices ranging $4-6 per pound for isolate"
+    },
+    {
+      "label": "Retail Availability:",
+      "description": "Widely available through major retailers (store brands popular), and supplement retailers; organic options significantly more expensive with questionable added benefit"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users recommend checking for NSF certification and third-party testing; prefer minimal ingredients (just whey isolate and sunflower lecithin)"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    }
+  ]
+}

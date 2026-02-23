@@ -1,0 +1,137 @@
+{
+  "slug": "glutathione",
+  "url": "https://dopamine.club/substances/glutathione/",
+  "scrapedAt": "2026-02-12T16:08:11.480Z",
+  "title": "GLUTATHIONE",
+  "description": "Glutathione is the body's master antioxidant, crucial for detoxification, immune function, and cellular protection. It's composed of three amino acids: cysteine, glycine, and glutamic acid. Supplementation supports liver health, skin brightening, and overall wellness.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "An Update on Glutathione's Biosynthesis, Metabolism, Functions, and Medicinal Purposes",
+      "summary": "Examines glutathione's role in maintaining redox balance, reducing oxidative stress, and enhancing metabolic detoxification for treating age-related disorders.",
+      "url": "https://doi.org/10.2174/0109298673251025230919105818",
+      "source": "(Bentham Science)"
+    },
+    {
+      "title": "Glutathione in the Brain",
+      "summary": "Explores neuronal GSH production regulation by EAAC1 as a potential therapeutic target for neurodegenerative diseases including Alzheimer's and Parkinson's.",
+      "url": "https://doi.org/10.3390/ijms22095010",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "Glutathione-Related Enzymes and Proteins: A Review",
+      "summary": "Analyzes glutathione's function in regulating cellular processes and redox reactions, emphasizing transport systems' roles in disease and aging.",
+      "url": "https://doi.org/10.3390/molecules28031447",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "Glutathione metabolism and its implications for health",
+      "summary": "Discusses glutathione's essential roles in antioxidant defense and nutrient metabolism, with deficiency linked to oxidative stress and various diseases.",
+      "url": "https://doi.org/10.1093/JN/134.3.489",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Glutathione and its role in cellular functions",
+      "summary": "Investigates GSH's participation in cellular redox reactions and thioether formation, with emphasis on liver origins and disease implications.",
+      "url": "https://doi.org/10.1016/S0891-5849(99)00177-X",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Glutathione in Brain Disorders and Aging",
+      "summary": "Addresses glutathione's importance in brain health and aging, linking impairment to neuron loss in Huntington's, Parkinson's, and Alzheimer's diseases.",
+      "url": "https://doi.org/10.3390/molecules27010324",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "Glutathione and mitochondria",
+      "summary": "Evaluates glutathione's protective functions against ROS, detoxification capacity, and cell death regulation in cancer and Alzheimer's.",
+      "url": "https://doi.org/10.3389/fphar.2014.00151",
+      "source": "(Frontiers)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report improved skin clarity, increased energy, and better recovery. Delivery method significantly impacts effectiveness - liposomal and IV forms preferred over standard oral."
+  },
+  "effects": [
+    {
+      "label": "Delivery Matters:",
+      "description": "Standard oral poorly absorbed; use liposomal or IV."
+    },
+    {
+      "label": "Precursors Work:",
+      "description": "NAC effectively raises glutathione levels."
+    },
+    {
+      "label": "Consistent Use:",
+      "description": "Benefits build over weeks of supplementation."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Liposomal:",
+      "description": "250-500mg daily."
+    },
+    {
+      "label": "IV:",
+      "description": "600-2000mg per session, weekly or as needed."
+    },
+    {
+      "label": "NAC Alternative:",
+      "description": "600-1800mg NAC to boost endogenous production."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Safe:",
+      "description": "Few side effects at normal doses."
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some may experience GI discomfort."
+    },
+    {
+      "label": "Zinc Depletion:",
+      "description": "Long-term use may deplete zinc."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in supplement stores and IV clinics."
+    },
+    {
+      "label": "Multiple Forms:",
+      "description": "Oral, liposomal, IV, and topical."
+    },
+    {
+      "label": "Quality Varies:",
+      "description": "Liposomal and reduced forms preferred."
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

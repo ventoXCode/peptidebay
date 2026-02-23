@@ -1,0 +1,161 @@
+{
+  "slug": "ashitaba",
+  "url": "https://dopamine.club/substances/ashitaba/",
+  "scrapedAt": "2026-02-12T16:05:54.796Z",
+  "title": "ASHITABA",
+  "description": "Ashitaba (Angelica keiskei) is a Japanese perennial herb containing bioactive chalcones (primarily xanthoangelol and 4-hydroxyderricin), coumarins, and flavonoids. Research demonstrates it works primarily through AMPK activation, anti-inflammatory mechanisms, and modulation of lipid metabolism, with studies showing effects on obesity, thrombosis prevention, and metabolic health.",
+  "categories": [
+    "Adaptogen"
+  ],
+  "research": [
+    {
+      "title": "Ashitaba (Angelica keiskei) extract prevents adiposity in high-fat diet-fed C57BL/6 mice",
+      "summary": "Ashitaba extract suppressed body weight gain and fat deposition in mice on high-fat diets by activating AMPK and inhibiting lipogenesis in adipose tissue and liver, while improving cholesterol, glucose, and insulin levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25406632/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Randomised, double-blind, parallel group comparison of Ashitaba chalcone effects on visceral fat areas and waist circumference of overweight persons",
+      "summary": "A 12-week human trial found that 16mg daily Ashitaba chalcone significantly reduced visceral fat area and waist circumference in overweight adults compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38557440/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Supplementation with Ashitaba Yellow Stem Exudate Prevents Aging-Induced Thrombotic Tendencies and Systemic Inflammation Without Affecting Body Weight Gain in Mice",
+      "summary": "Long-term (52 weeks) supplementation with Ashitaba yellow exudate significantly decreased aging-induced increases in plasminogen activator inhibitor-1 (PAI-1), reducing thrombotic tendencies and systemic inflammation in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37862040/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The neuroprotective effects of Chalcones from Ashitaba on cuprizone-induced demyelination via modulation of brain-derived neurotrophic factor and tumor necrosis factor α",
+      "summary": "Ashitaba chalcones showed neuroprotective effects in a mouse model of multiple sclerosis by modulating BDNF and TNFα levels, reducing demyelination scores and cognitive impairment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37403256/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Inhibitory effects of 4-hydroxyderricin and xanthoangelol on lipopolysaccharide-induced inflammatory responses in RAW264 macrophages",
+      "summary": "The primary chalcones in Ashitaba markedly reduced LPS-induced nitric oxide production, TNF-α secretion, and inflammatory enzyme expression by suppressing AP-1 activity in macrophages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24369884/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Toxicological assessment of Ashitaba Chalcone",
+      "summary": "A 90-day toxicity study in rats found Ashitaba chalcone powder was not genotoxic with a NOAEL of 300mg/kg, demonstrating safety with only minor species-specific effects at high doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25576957/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-platelet effects of chalcones from Angelica keiskei Koidzumi (Ashitaba) in vivo",
+      "summary": "Ashitaba exudate and its major chalcone xanthoangelol suppressed LPS-induced shortening of mouse tail bleeding time, demonstrating anti-platelet activities in vivo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29441970/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety of ashitaba sap as a Novel food pursuant to Regulation (EU) 2015/2283",
+      "summary": "EFSA Panel concluded there are no concerns regarding genotoxicity of Ashitaba sap at proposed doses (780mg daily) for adults, confirming its safety as a novel food supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38469361/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Review of the Medicinal Uses and Pharmacology of Ashitaba",
+      "summary": "Comprehensive review confirming Ashitaba contains diverse bioactive compounds showing cytotoxic, antidiabetic, antioxidative, anti-inflammatory, antihypertensive, and antimicrobial properties in vitro, though more in vivo and clinical work is needed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27399234/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with Ashitaba are limited and genuinely mixed. Most users report no noticeable effects when taking it, with several stating it produced zero cognitive or physical benefits. The few who discuss it mention it as part of larger supplement stacks without specific attribution of effects to Ashitaba alone."
+  },
+  "effects": [
+    {
+      "label": "Weight Management:",
+      "description": "Human clinical trial showed statistically significant visceral fat reduction at 16mg chalcone daily over 12 weeks, with effects visible by week 8"
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "Animal studies demonstrate effectiveness requires extended supplementation periods (8-52 weeks) for metabolic and anti-aging effects"
+    },
+    {
+      "label": "Dose-Dependent:",
+      "description": "Efficacy appears dose-dependent with research using 0.01-0.1% in animal diets and 16mg chalcone content for human fat reduction"
+    },
+    {
+      "label": "Limited User Validation:",
+      "description": "Despite promising research, Users consistently report no subjective effects, suggesting benefits may be measurable but not perceptible"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Human clinical trials used 16mg chalcone content (approximately 10mg 4-hydroxyderricin and 6mg xanthoangelol) daily for visceral fat reduction"
+    },
+    {
+      "label": "User Approaches:",
+      "description": "Limited user reports mention 1-3 teaspoons of powder daily or 10ml in supplement stacks, though without clear dosage standardization"
+    },
+    {
+      "label": "EFSA Recommendation:",
+      "description": "European safety assessment approved up to 780mg ashitaba sap daily for adults (excluding pregnant/lactating women)"
+    },
+    {
+      "label": "Duration Requirements:",
+      "description": "Both research and safety studies suggest extended use periods (8-12 weeks minimum) are necessary for metabolic benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Toxicology studies found no genotoxicity and minimal adverse effects at recommended doses, with NOAEL of 300mg/kg in rats"
+    },
+    {
+      "label": "High-Dose Effects:",
+      "description": "Animal studies at very high doses (1000mg/kg) showed coagulation parameter changes and jejunal lymphangiectasia, not relevant to human supplementation"
+    },
+    {
+      "label": "User Reports:",
+      "description": "No specific side effects mentioned in user discussions, with users mainly reporting complete absence of effects rather than negative reactions"
+    },
+    {
+      "label": "Safety Margin:",
+      "description": "Long-term safety demonstrated in 52-week animal studies and multi-year traditional use in Japan as food and supplement"
+    }
+  ],
+  "availability": [
+    {
+      "label": "International Sourcing:",
+      "description": "Users report availability through online retailers from suppliers in South Korea and Japan"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users express uncertainty about whether non-Japanese sources (particularly South Korean) contain equivalent chalcone content to traditional Hachijō Island varieties"
+    },
+    {
+      "label": "Form Availability:",
+      "description": "Available as powder for tea preparation, capsules, and liquid extracts, though standardization of active chalcone content varies by product"
+    }
+  ],
+  "related": [
+    {
+      "name": "ASTRAGALOSIDE IV",
+      "slug": "astragaloside-iv"
+    },
+    {
+      "name": "ASTRAGALUS",
+      "slug": "astragalus"
+    },
+    {
+      "name": "AGARIKON MUSHROOM",
+      "slug": "agarikon-mushroom"
+    },
+    {
+      "name": "ANDROGRAPHIS",
+      "slug": "andrographis"
+    },
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    }
+  ]
+}

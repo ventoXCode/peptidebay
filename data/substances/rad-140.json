@@ -1,0 +1,167 @@
+{
+  "slug": "rad-140",
+  "url": "https://dopamine.club/substances/rad-140/",
+  "scrapedAt": "2026-02-12T16:10:54.893Z",
+  "title": "RAD-140",
+  "description": "RAD-140 (Testolone) is a selective androgen receptor modulator (SARM) that binds to androgen receptors with tissue-selective activity, designed to provide anabolic effects on muscle and bone with minimal androgenic effects. Despite being developed for therapeutic purposes and lacking FDA approval for clinical use, it is readily accessible as a performance-enhancing supplement marketed for muscle growth and athletic performance.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "RAD-140 Drug-Induced Liver Injury",
+      "summary": "Case report of a 24-year-old male who developed severe cholestatic liver injury with peak bilirubin of 38.5 mg/dL after 5 weeks of RAD-140 use, with symptoms resolving after cessation of the supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36561105/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Drug-Induced Liver Injury Associated With Alpha Bolic (RAD-140) and Alpha Elite (RAD-140 and LGD-4033)",
+      "summary": "A 52-year-old man developed drug-induced liver injury with cholestatic pattern after taking RAD-140-containing supplements, with liver enzymes returning to normal approximately 3 months after stopping the supplements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33062783/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Severe liver injury following use of RAD-140, a selective androgen receptor modulator, for body building",
+      "summary": "Case report documenting severe hepatotoxicity in a bodybuilder using RAD-140, highlighting the significant liver injury risk associated with this SARM.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38444893/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cholestatic Drug-Induced Liver Injury From Rad-140 Successfully Treated With Corticosteroids",
+      "summary": "Report of prolonged cholestatic liver injury from RAD-140 that required corticosteroid treatment, demonstrating that cholestasis can take weeks to months to normalize even after drug cessation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40761329/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Reversible Gynecomastia and Hypogonadism Due to Usage of Commercial Performance-Enhancing Supplement Use",
+      "summary": "A 40-year-old male developed bilateral gynecomastia and biochemical hypogonadotropic hypogonadism after 6 months of consuming supplements containing RAD-140, MK-677, and undisclosed hormones including testosterone and estradiol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39145153/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Myopericarditis Following Use of Selective Androgen Receptor Modifier RAD-140",
+      "summary": "Case report of a 16-year-old who developed myopericarditis following the first dose of RAD-140, demonstrating potentially life-threatening cardiovascular side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39157568/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Selective androgen receptor modulator abuse-induced heart failure: catastrophic effects of RAD-140 (Testolone)",
+      "summary": "Report documenting catastrophic heart failure effects from RAD-140 abuse, highlighting severe cardiovascular toxicity associated with SARM use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38864168/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Idiosyncratic drug-induced liver injury related to use of novel selective androgen receptor modulator RAD140 (Testalone): a case report",
+      "summary": "A 26-year-old male developed acute liver injury after RAD-140 use, with elevated liver enzymes reported in a significant proportion of subjects in the first-in-human phase 1 trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36978171/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Preclinical assessment of the selective androgen receptor modulator RAD140 to increase muscle mass and bone mineral density",
+      "summary": "Animal study demonstrating that RAD140 increased muscle weights and muscle fiber cross-sectional area in rats, supporting its anabolic effects on skeletal muscle.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40680216/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Human In Vivo Metabolism and Elimination Behavior of Micro-Dosed Selective Androgen Receptor Modulator RAD140 for Doping Control Purposes",
+      "summary": "Study examining RAD140 metabolism in humans through micro-dose excretion studies, identifying multiple metabolites in urine to aid detection in doping control samples.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35888790/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 15,
+    "summary": "User experiences and medical literature overwhelmingly indicate severe safety concerns with RAD-140, including multiple documented cases of serious liver injury, heart failure, myopericarditis, and hormonal disruption. The limited user discussions focus primarily on veterinary use and concern about side effects rather than positive outcomes."
+  },
+  "effects": [
+    {
+      "label": "Anabolic Activity:",
+      "description": "Preclinical studies confirm androgen receptor binding and muscle-building effects in animal models"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Extensive case literature documents serious adverse events including liver failure, cardiac complications, and endocrine dysfunction"
+    },
+    {
+      "label": "FDA Status:",
+      "description": "Not approved for clinical use and banned by the World Anti-Doping Agency; marketed illegally as a dietary supplement"
+    },
+    {
+      "label": "Contamination Risk:",
+      "description": "Commercial supplements often contain undisclosed hormones and banned substances alongside listed SARMs"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Veterinary Experimentation:",
+      "description": "User reports of 0.01-0.03 mg/kg in canines, though this represents uncontrolled experimentation"
+    },
+    {
+      "label": "Human Use:",
+      "description": "Users report 7.5-18.75 mg doses in cycles, though no medically recommended dosing exists"
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Anecdotal reports mention 8-10 week cycles, with liver injury documented after as little as 5 weeks"
+    },
+    {
+      "label": "PCT Requirements:",
+      "description": "Users indicate need for selective estrogen receptor modulators (SERMs) like nolvadex for post-cycle therapy"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hepatotoxicity:",
+      "description": "Severe cholestatic liver injury with elevated bilirubin (up to 38.5 mg/dL), jaundice, and pruritus requiring months for recovery"
+    },
+    {
+      "label": "Cardiac Events:",
+      "description": "Myopericarditis and heart failure documented even after first dose in some cases"
+    },
+    {
+      "label": "Endocrine Effects:",
+      "description": "Gynecomastia, hypogonadism, testosterone suppression, and lymph node swelling"
+    },
+    {
+      "label": "Recovery Time:",
+      "description": "Liver enzymes may take 3+ months to normalize; some cases required corticosteroid treatment"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Not FDA-approved but readily available online as a 'research chemical' or dietary supplement"
+    },
+    {
+      "label": "Quality Control:",
+      "description": "Commercial products often contain undisclosed substances, inconsistent dosing, or contamination with other SARMs and hormones"
+    },
+    {
+      "label": "Anti-Doping:",
+      "description": "Prohibited by WADA at all times; increasing detection rates in athletic doping control testing"
+    }
+  ],
+  "related": [
+    {
+      "name": "AC-262536",
+      "slug": "ac-262536"
+    },
+    {
+      "name": "ACP-105",
+      "slug": "acp-105"
+    },
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "ARCARINE (ORM-11984)",
+      "slug": "arcarine-orm-11984"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    }
+  ]
+}

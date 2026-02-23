@@ -1,0 +1,137 @@
+{
+  "slug": "chamomile",
+  "url": "https://dopamine.club/substances/chamomile/",
+  "scrapedAt": "2026-02-12T16:06:32.010Z",
+  "title": "CHAMOMILE",
+  "description": "Chamomile (primarily German chamomile/Matricaria recutita) is a medicinal plant containing bioactive compounds including flavonoids (apigenin), sesquiterpenes, and volatile oils. It works primarily through GABAergic and sedative mechanisms, with apigenin binding to benzodiazepine receptors. Traditionally used for anxiety, sleep disorders, gastrointestinal issues, and topical wound healing.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A systematic review study of therapeutic effects of Matricaria recuitta chamomile (chamomile)",
+      "summary": "Comprehensive review confirms chamomile's therapeutic effects for various conditions including gastrointestinal disorders, anxiety, and sleep disturbances, supported by its antioxidant and anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27790360/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Herbal and Natural Supplements for Improving Sleep: A Literature Review",
+      "summary": "Review found chamomile shows potential effectiveness in improving sleep quality and reducing insomnia symptoms through modulation of neurotransmitter systems, though optimal dosages remain unestablished.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39086164/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements for dysmenorrhoea",
+      "summary": "Systematic review evaluating dietary supplements including chamomile for menstrual pain, though evidence for chamomile's specific effectiveness was limited compared to other interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27000311/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chamomile as a potential remedy for obesity and metabolic syndrome",
+      "summary": "Review suggests chamomile's high phenolic content may help with weight management and metabolic disorders through antioxidant, anti-inflammatory, and antimicrobial actions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34602925/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements and bleeding",
+      "summary": "Comprehensive review found chamomile associated with bleeding risk when used concomitantly with anticoagulants, though no evidence of bleeding independent of anticoagulant use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36304597/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with chamomile are genuinely divided - while many report mild relaxation benefits from chamomile tea, most users seeking stronger sleep or anxiety effects report minimal or no noticeable impact compared to other supplements like magnesium or L-theanine. Several users specifically listed chamomile among supplements that 'did nothing' for their sleep issues."
+  },
+  "effects": [
+    {
+      "label": "Weak Monotherapy:",
+      "description": "Consistently rated as ineffective when used alone for significant sleep or anxiety issues, with users preferring stronger alternatives"
+    },
+    {
+      "label": "Adjunct Role:",
+      "description": "Works better as part of supplement stacks or combination products rather than standalone treatment"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users report no effects at all, while others find mild benefits for general relaxation"
+    },
+    {
+      "label": "Better Alternatives:",
+      "description": "Users frequently mention magnesium glycinate, L-theanine, and apigenin (concentrated chamomile component) as more effective options"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Tea Form:",
+      "description": "Most common method is traditional chamomile tea consumed 1-2 hours before bed"
+    },
+    {
+      "label": "Apigenin Extract:",
+      "description": "Users seeking stronger effects opt for concentrated apigenin supplements (50mg) rather than whole chamomile"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often found in sleep formulations alongside valerian, passionflower, and L-theanine"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically consumed in evening hours, 1-2 hours before desired sleep time"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Allergic Reactions:",
+      "description": "Can cause allergic reactions in people sensitive to Asteraceae/Compositae family plants (ragweed, chrysanthemum, marigold)"
+    },
+    {
+      "label": "Skin Sensitivity:",
+      "description": "Topical use may cause contact dermatitis, particularly with concentrated products on broken skin"
+    },
+    {
+      "label": "Anticoagulant Interaction:",
+      "description": "May increase bleeding risk when combined with blood thinners like warfarin"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Generally well-tolerated with few reported side effects in most users"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "GRAS status in US, easily found in grocery stores, health food stores, and online as tea, extracts, and supplements"
+    },
+    {
+      "label": "Multiple Forms:",
+      "description": "Available as loose-leaf tea, tea bags, capsules, tinctures, and in combination sleep formulas"
+    },
+    {
+      "label": "Cost-Effective:",
+      "description": "Generally inexpensive, especially in tea form, though concentrated extracts and apigenin cost more"
+    }
+  ],
+  "related": [
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    },
+    {
+      "name": "KAVA",
+      "slug": "kava"
+    },
+    {
+      "name": "LAVENDER",
+      "slug": "lavender"
+    },
+    {
+      "name": "MAGNESIUM TAURATE",
+      "slug": "magnesium-taurate"
+    },
+    {
+      "name": "APIGENIN",
+      "slug": "apigenin"
+    }
+  ]
+}

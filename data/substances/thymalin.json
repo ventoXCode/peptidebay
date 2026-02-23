@@ -1,0 +1,155 @@
+{
+  "slug": "thymalin",
+  "url": "https://dopamine.club/substances/thymalin/",
+  "scrapedAt": "2026-02-12T16:11:41.702Z",
+  "title": "THYMALIN",
+  "description": "Thymalin is a polypeptide complex extracted from the thymus gland that functions as an immunomodulator, primarily regulating T-cell immunity and immune system function. It has been studied extensively in Russia and Eastern Europe for enhancing immune response, treating immunodeficiency conditions, and as a potential geroprotective agent that may extend lifespan and improve overall health parameters in elderly populations.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Thymalin: Activation of Differentiation of Human Hematopoietic Stem Cells",
+      "summary": "Thymalin increases functional activity of T lymphocytes and activates differentiation of human hematopoietic stem cells, with potential therapeutic applications in acute respiratory syndrome and chronic obstructive bronchitis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33237528/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Geroprotective effect of thymalin and epithalamin",
+      "summary": "Clinical assessment over 6-8 years in 266 elderly patients showed thymalin normalized cardiovascular, endocrine, immune, and nervous system functions, reduced disease incidence 2.0-2.4-fold, and decreased mortality rates compared to controls.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12577695/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Peptides of pineal gland and thymus prolong human life",
+      "summary": "Long-term study demonstrated that thymalin improved health indices, reduced acute respiratory disease incidence, and correlated with decreased mortality rates in elderly patients over a 6-8 year observation period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14523363/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Influence of KE and EW Dipeptides in the Composition of the Thymalin Drug on Gene Expression and Protein Synthesis Involved in the Pathogenesis of COVID-19",
+      "summary": "Thymalin demonstrated efficacy in treating severe COVID-19 in middle-aged and elderly patients, with its active dipeptides (KE and EW) showing immunomodulatory effects and potential therapeutic value in respiratory disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37686182/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Morphological compound and indicators of the blood clotting system in severe COVID-19 patients of middle aged and elderly during treatment of Tocilizumab and Thymalin",
+      "summary": "Hospital mortality in severe COVID-19 patients treated with thymalin was 20.6% compared to 40.9% with standard therapy, with improvements in platelet counts and fibrinogen levels observed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36169363/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Thymalin on the Tumor and Thymus under Conditions of Activation Therapy In Vivo",
+      "summary": "Thymalin in doses lower than therapeutic demonstrated pronounced antitumor effects in rat models, with tumor growth suppression of 78% and regression in over half of treated animals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29797130/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of plasmapheresis and immunocorrective therapy on the status of the T-cell component of immunity in patients with autoimmune thyroiditis",
+      "summary": "Combined therapy with thymalin and plasmapheresis achieved stable clinical and immunological effects in autoimmune thyroiditis patients, with normalized T-lymphocyte composition and functional activity sustained over one year.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7971902/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of thymus preparations and anti-tuberculosis agents on immunologic reactivity and the course of the tuberculosis process in experimental animals",
+      "summary": "Thymalin combined with antituberculous drugs significantly increased lifespan in mice with experimental tuberculosis, decreased organ pathology, and increased T lymphocyte counts compared to drug treatment alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1803376/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report significant benefits from thymalin including improved immune function, better sleep quality with vivid dreams, reduced illness frequency, and no herpes outbreaks. Most report no side effects and consider it an effective component of longevity and neurogenesis stacks."
+  },
+  "effects": [
+    {
+      "label": "Immune Biomarkers:",
+      "description": "Users document measurable improvements across immune system biomarkers with consistent use over time"
+    },
+    {
+      "label": "Preventative Benefits:",
+      "description": "Effective at preventing illness and viral outbreaks rather than just treating existing conditions, with users reporting extended periods without getting sick"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works well when stacked with other peptides like epitalon, GHK-Cu, and cerebrolysin for comprehensive health improvements"
+    },
+    {
+      "label": "Long-term Usage:",
+      "description": "Users report sustained benefits with twice-yearly cycles, following a protocol of periodic administration rather than continuous daily use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "10mg injected intramuscularly, typically used in cycles rather than continuous daily administration"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Most users follow a twice-yearly cycling protocol, taking it for 2-3 years initially during longevity studies"
+    },
+    {
+      "label": "Timing:",
+      "description": "Evening administration reported to provide optimal sleep benefits, with effects noticeable within less than an hour"
+    },
+    {
+      "label": "Stacking Approach:",
+      "description": "Combined with other peptides at various dosages depending on individual goals for neurogenesis, longevity, or immune support"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Restlessness/Akathisia:",
+      "description": "One user reported uncomfortable restlessness and joint cracking after 10mg dose, similar to effects experienced with other immune boosters"
+    },
+    {
+      "label": "Heart Pounding:",
+      "description": "Subjective sensation of increased heart pounding noted as noticeable but not concerning by some users"
+    },
+    {
+      "label": "Minimal Reports:",
+      "description": "Overall very few negative side effects reported, with most users experiencing only positive effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Side effects appear highly individual and dose-dependent, with some users needing to adjust timing or dosage"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Not approved for personal use in some countries like the UK, requiring intramuscular injection rather than oral administration"
+    },
+    {
+      "label": "Research Use:",
+      "description": "Available through peptide research suppliers, though regulatory status varies significantly by country"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Mentioned as relatively affordable compared to other longevity interventions, costing several thousand dollars per year when part of comprehensive protocols"
+    }
+  ],
+  "related": [
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "Bronchogen",
+      "slug": "bronchogen"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    }
+  ]
+}

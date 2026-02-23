@@ -1,0 +1,103 @@
+{
+  "slug": "foxo4-dri",
+  "url": "https://dopamine.club/substances/foxo4-dri/",
+  "scrapedAt": "2026-02-12T16:07:51.593Z",
+  "title": "FOXO4-DRI",
+  "description": "FOXO4-DRI (D-Retro-Inverso) is a synthetic senolytic peptide designed to selectively induce apoptosis in senescent cells by disrupting the interaction between the FOXO4 transcription factor and the p53 tumor suppressor. By liberating p53, the peptide triggers programmed cell death specifically in 'zombie cells' while sparing healthy tissue, thereby reducing chronic inflammation and restoring tissue homeostasis.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Targeted apoptosis of senescent cells restores tissue homeostasis in response to chemotoxicity and aging",
+      "summary": "This seminal study demonstrated that FOXO4-DRI selectively clears senescent cells, leading to improved renal function, increased fur density, and enhanced physical fitness in naturally aged mice",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28340339/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "FOXO4-DRI regulates endothelial cell senescence via the P53 signaling pathway",
+      "summary": "Research shows the peptide improves vascular function and delays vascular aging by activating the p53/BCL-2/Caspase-3 pathway to eliminate damaged endothelial cells",
+      "url": "https://doi.org/10.3389/fbioe.2025.1729166",
+      "source": "(Frontiers in Bioengineering and Biotechnology)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users are generally optimistic about its systemic anti-aging potential, though discussions often focus on high costs and the necessity of precise laboratory-grade sourcing."
+  },
+  "effects": [
+    {
+      "label": "Targeted Action:",
+      "description": "Highly effective at differentiating between healthy and senescent cells via the p53 axis"
+    },
+    {
+      "label": "Systemic Restoration:",
+      "description": "Demonstrates the ability to restore tissue homeostasis rather than just masking symptoms of aging"
+    },
+    {
+      "label": "Model Success:",
+      "description": "Outcomes are most robust in progeroid (fast-aging) and naturally aged murine models"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Standard:",
+      "description": "Preclinical studies often utilize doses ranging from 2.5mg/kg to 5mg/kg in mice"
+    },
+    {
+      "label": "Formulation:",
+      "description": "Typically supplied as a lyophilized powder requiring reconstitution for injection"
+    },
+    {
+      "label": "Cycle Frequency:",
+      "description": "Generally researched as an intermittent 'pulse' therapy rather than daily administration due to its senolytic nature"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Injection Site Reaction:",
+      "description": "Possible localized irritation common with peptide administration"
+    },
+    {
+      "label": "Theoretical Risk:",
+      "description": "Potential for unintended apoptosis if healthy p53 pathways are significantly perturbed"
+    },
+    {
+      "label": "Lack of Human Data:",
+      "description": "Long-term side effects in humans remain largely unknown due to the lack of clinical trials"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Only:",
+      "description": "Strictly sold as a research chemical and is not approved for human or animal consumption"
+    },
+    {
+      "label": "High Cost:",
+      "description": "Noted in research communities as one of the more expensive synthetic peptides available"
+    }
+  ],
+  "related": [
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    },
+    {
+      "name": "GHK-Cu",
+      "slug": "ghk-cu"
+    },
+    {
+      "name": "HUMAN RELAXIN-2",
+      "slug": "human-relaxin-2"
+    }
+  ]
+}

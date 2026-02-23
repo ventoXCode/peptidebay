@@ -1,0 +1,156 @@
+{
+  "slug": "milk-thistle",
+  "url": "https://dopamine.club/substances/milk-thistle/",
+  "scrapedAt": "2026-02-12T16:09:34.609Z",
+  "title": "MILK THISTLE",
+  "description": "Milk thistle (Silybum marianum) is a medicinal herb containing silymarin, a mixture of flavonolignans with silibinin as the main active component. It is primarily used for liver health support, working through anti-inflammatory, antioxidant, antifibrotic, and liver-regenerating properties to protect against various forms of liver damage including alcoholic liver disease, non-alcoholic fatty liver disease (NAFLD), and drug-induced liver injury.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Milk thistle (Silybum marianum): A concise overview on its chemistry, pharmacological, and nutraceutical uses in liver diseases",
+      "summary": "Review of milk thistle's chemistry and pharmacological properties for liver diseases, noting encouraging preclinical data but calling for more well-designed randomized clinical trials to establish clinical efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30080294/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Administration of silymarin in NAFLD/NASH: A systematic review and meta-analysis",
+      "summary": "Meta-analysis of 26 randomized controlled trials evaluating silymarin's efficacy in NAFLD, showing potential benefits in slowing disease progression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38579127/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Milk thistle for the treatment of liver disease: a systematic review and meta-analysis",
+      "summary": "Systematic review of 14 trials found no significant mortality benefit (OR 0.8, CI 0.5-1.5) and limited evidence for liver histology improvements, with study quality inversely associated with positive findings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12427501/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Common Herbal Dietary Supplement-Drug Interactions",
+      "summary": "Milk thistle identified as having a low likelihood of drug interactions and can safely be taken with most medications with certain caveats, unlike more problematic herbs like St. John's wort.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28762712/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "CYP2C9-mediated warfarin and milk thistle interaction",
+      "summary": "First in vivo case report documenting a CYP2C9-mediated interaction where milk thistle increased a patient's INR from 2.64 to 4.12, which normalized after stopping the supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31633199/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Milk thistle protects against non-alcoholic fatty liver disease induced by dietary thermally oxidized tallow",
+      "summary": "Animal study showed milk thistle extract protected rabbits from NAFLD caused by oxidized tallow, improving liver histology, antioxidant levels, and serum lipid profiles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38818175/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements and bleeding",
+      "summary": "Review found milk thistle associated with bleeding risk in patients on anticoagulants, but no evidence of bleeding risk when taken independently of anticoagulants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36304597/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Descriptive Review of the Action Mechanisms of Berberine, Quercetin and Silymarin on Insulin Resistance/Hyperinsulinemia and Cardiovascular Prevention",
+      "summary": "Review describes silymarin's mechanisms of action on insulin resistance and cardiovascular protection, highlighting its potential synergistic effects with berberine and quercetin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37298967/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with milk thistle for liver support, particularly for recovery from alcohol use and protection after junk food consumption. Most consider it a safe, well-tolerated supplement with noticeable benefits for liver health, though some report initial detox reactions or blood sugar effects."
+  },
+  "effects": [
+    {
+      "label": "Liver Recovery:",
+      "description": "Multiple users with diagnosed fatty liver disease or cirrhosis report improvements in liver enzymes (ALT/AST) when combining milk thistle with lifestyle changes"
+    },
+    {
+      "label": "Preventive Support:",
+      "description": "Users find it effective as a protective measure when taken alongside activities that stress the liver, rather than as a standalone treatment"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies by person, with some experiencing dramatic benefits while others notice minimal effects; quality of supplement matters significantly"
+    },
+    {
+      "label": "Complementary Approach:",
+      "description": "Most successful outcomes reported when milk thistle is combined with other interventions like NAC, TUDCA, diet changes, and alcohol cessation rather than used alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most users report taking 500-1000mg daily, often in standardized silymarin extracts with 80% or higher concentration"
+    },
+    {
+      "label": "Hangover Protocol:",
+      "description": "500mg taken before drinking and 500mg the next morning commonly mentioned in successful hangover prevention stacks"
+    },
+    {
+      "label": "Liver Support:",
+      "description": "Users with liver conditions often take 1000mg daily split into multiple doses, combined with other liver-supporting supplements"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Users emphasize choosing phytosome or high-quality extracts with third-party testing for better absorption and effectiveness"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Blood Sugar Effects:",
+      "description": "Most commonly reported side effect is unexpected fatigue and tiredness due to blood sugar lowering effects, which some users found significant"
+    },
+    {
+      "label": "Detox Reactions:",
+      "description": "Some users report initial headaches, nausea, or migraine-like symptoms when first starting, interpreted as toxin release or histamine reaction"
+    },
+    {
+      "label": "Histamine Response:",
+      "description": "Users with histamine sensitivity report allergic-type reactions or worsening symptoms, particularly those with ragweed/daisy allergies"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Some users report milk thistle becoming less effective or even causing opposite effects after 2-3 months of continuous use, suggesting need for cycling"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Milk thistle is readily available over-the-counter as a dietary supplement in various forms including capsules, tablets, and teas from multiple brands"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Users emphasize significant differences between brands, with recommendations for standardized extracts (80%+ silymarin) and phytosome formulations for better absorption"
+    },
+    {
+      "label": "Affordable Option:",
+      "description": "Generally considered an inexpensive supplement, frequently mentioned in lists of effective supplements under $50, though premium extracts cost more"
+    }
+  ],
+  "related": [
+    {
+      "name": "Cordyceps",
+      "slug": "cordyceps"
+    },
+    {
+      "name": "DONG QUAI",
+      "slug": "dong-quai"
+    },
+    {
+      "name": "GINGER",
+      "slug": "ginger"
+    },
+    {
+      "name": "SAW PALMETTO",
+      "slug": "saw-palmetto"
+    },
+    {
+      "name": "TURMERIC (CURCUMIN)",
+      "slug": "turmeric-curcumin"
+    }
+  ]
+}

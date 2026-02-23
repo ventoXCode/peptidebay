@@ -1,0 +1,155 @@
+{
+  "slug": "silybin",
+  "url": "https://dopamine.club/substances/silybin/",
+  "scrapedAt": "2026-02-12T16:11:17.587Z",
+  "title": "SILYBIN",
+  "description": "Silybin (also known as silibinin) is a flavonolignan compound extracted from milk thistle (Silybum marianum) seeds, representing 50-70% of the silymarin complex. It functions primarily as a hepatoprotective agent through antioxidant activity, inhibition of hepatotoxin binding to liver cells, reduction of lipid peroxidation, and stimulation of protein synthesis to promote liver regeneration. Silybin has been traditionally used for treating various liver disorders including fatty liver disease, hepatitis, cirrhosis, and drug-induced liver injury.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Milk thistle (Silybum marianum): A concise overview on its chemistry, pharmacological, and nutraceutical uses in liver diseases",
+      "summary": "Comprehensive review demonstrating silybin's anti-inflammatory, immunomodulating, antifibrotic, antioxidant, and liver-regenerating properties, though notes that further well-designed randomized trials are needed despite encouraging preclinical data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30080294/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Silybin inhibits NLRP3 inflammasome assembly through the NAD(+)/SIRT2 pathway in mice with nonalcoholic fatty liver disease",
+      "summary": "Study found that silybin inhibited endoplasmic reticulum stress and NLRP3 inflammasome activation in high-fat diet-fed mice, demonstrating mechanisms for its protective effects against NAFLD through the SIRT2 pathway.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28970254/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Silybin Restored CYP3A Expression through the Sirtuin 2/Nuclear Factor κ-B Pathway in Mouse Nonalcoholic Fatty Liver Disease",
+      "summary": "Research demonstrated that silybin restored CYP3A enzyme expression in NAFLD models through the SIRT2/NF-κB pathway, suggesting it may help normalize drug metabolism capacity in fatty liver disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34183378/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antioxidant Effect of a Dietary Supplement Containing Fermentative S-Acetyl-Glutathione and Silybin in Dogs with Liver Disease",
+      "summary": "Study in dogs showed that supplements containing silybin and S-acetyl-glutathione significantly increased erythrocyte glutathione levels after two weeks, demonstrating antioxidant benefits for liver support.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36851435/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-cancer efficacy of silybin derivatives -- a structure-activity relationship",
+      "summary": "Research comparing silybin derivatives found that 2,3-dehydrosilybin, 7-O-methylsilybin, and 7-O-galloylsilybin showed better growth inhibitory effects against bladder, colon, and prostate cancer cells compared to standard silybin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23555889/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Silybin induces endothelium-dependent vasodilation via TRPV4 channels in mouse mesenteric arteries",
+      "summary": "Study demonstrated that silybin induces blood vessel relaxation through TRPV4 channel activation, suggesting potential cardiovascular benefits and mechanisms for blood pressure regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36056206/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prebiotic-like cyclodextrin assisted silybin on NAFLD through restoring liver and gut homeostasis",
+      "summary": "Research showed that cyclodextrin-complexed silybin improved bioavailability and effectively restored both liver and gut microbiome balance in NAFLD models, addressing multiple disease mechanisms simultaneously.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35752255/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Relative Bioavailability of Silybin A and Silybin B From 2 Multiconstituent Dietary Supplement Formulations Containing Milk Thistle Extract: A Single-dose Study",
+      "summary": "Clinical study comparing bioavailability of two milk thistle formulations in healthy volunteers, providing data on optimal absorption of silybin isomers from different supplement preparations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29273470/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report generally positive experiences with silybin phytosome formulations for liver health and hangover prevention, with many noting it's well-tolerated as part of comprehensive supplement stacks. Most discussions focus on its inclusion in liver support protocols alongside NAC and other hepatoprotective compounds, though some users question optimal timing around alcohol consumption."
+  },
+  "effects": [
+    {
+      "label": "Formulation Matters:",
+      "description": "Users consistently emphasize the importance of using silybin phytosome (Siliphos) rather than standard milk thistle extract due to significantly better bioavailability"
+    },
+    {
+      "label": "Liver Disease Evidence:",
+      "description": "Meta-analyses show silybin reduces liver enzyme levels in NAFLD patients, though results for chronic hepatitis C are less convincing"
+    },
+    {
+      "label": "Preventive Use:",
+      "description": "Many users take silybin prophylactically as part of liver health stacks rather than for treating active disease"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Research and user reports suggest silybin is well-tolerated for extended use with minimal side effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "400-500mg of silybin phytosome taken 1-2 times daily is the most commonly reported dosage"
+    },
+    {
+      "label": "Hangover Protocol:",
+      "description": "Users include 500mg in preventive formulas taken before and after alcohol consumption"
+    },
+    {
+      "label": "Research Doses:",
+      "description": "Clinical studies typically use 600-1200mg daily in divided doses for liver conditions"
+    },
+    {
+      "label": "Absorption Enhancement:",
+      "description": "Users note taking with food or fat sources may improve absorption, though phytosome formulations are already lipid-complexed"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Both research and users report minimal side effects, with silybin considered one of the safer supplements"
+    },
+    {
+      "label": "Mild GI Effects:",
+      "description": "Occasional reports of mild gastrointestinal symptoms like nausea or irregular stools in some users"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Research notes silybin can affect CYP3A enzyme activity, potentially interacting with medications metabolized by this pathway"
+    },
+    {
+      "label": "Rare Reactions:",
+      "description": "Very infrequent reports of headaches, dry mouth, or allergic reactions, but these are uncommon"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Phytosome Preferred:",
+      "description": "Users specifically seek out silybin phytosome brands like quality brands's Siliphos or similar pharmaceutical-grade formulations rather than generic milk thistle"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Discussion of avoiding sketchy brands and sticking to reputable manufacturers like quality brands, quality brands, or quality brands for consistent quality"
+    },
+    {
+      "label": "Cost Effective:",
+      "description": "When purchased in bulk or as part of comprehensive liver support formulas, users find silybin relatively affordable for preventive use"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "pramlintide",
+  "url": "https://dopamine.club/substances/pramlintide/",
+  "scrapedAt": "2026-02-12T16:10:45.382Z",
+  "title": "PRAMLINTIDE",
+  "description": "Pramlintide is a synthetic analog of amylin, a hormone co-secreted with insulin from pancreatic beta cells. It works by slowing gastric emptying, suppressing postprandial glucagon secretion, and promoting satiety through central nervous system effects. Pramlintide is FDA-approved as an adjunctive treatment for type 1 and type 2 diabetes patients who use mealtime insulin but have not achieved adequate glycemic control.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Amylin: From Mode of Action to Future Clinical Potential in Diabetes and Obesity",
+      "summary": "Reviews amylin's role in postprandial glucose homeostasis and its potential cardiovascular and neuroprotective functions, highlighting its importance in precision diabetology and weight-favorable therapeutic approaches for diabetes treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40332747/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Amylin: Pharmacology, Physiology, and Clinical Potential",
+      "summary": "Comprehensive review of 25 years of amylin research demonstrating its effects across multiple organ systems as a pancreatic β-cell hormone that activates specific receptors to produce therapeutic effects in diabetes management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26071095/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of amylin and glucagon in the dampening of glycemic excursions in children with type 1 diabetes",
+      "summary": "Study in type 1 diabetic children showed that pramlintide with usual insulin dosing normalized postprandial glucose excursions by suppressing glucagon secretion, demonstrating effective glycemic control comparable to control subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15793249/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pramlintide, the synthetic analogue of amylin: physiology, pathophysiology, and effects on glycemic control, body weight, and selected biomarkers of vascular risk",
+      "summary": "Pramlintide use in type 1 and insulin-requiring type 2 diabetes showed modest HbA1c reductions often accompanied by weight loss, with favorable effects on lipids and atherosclerotic disease biomarkers, though nausea is the most common side effect.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18561511/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pramlintide acetate",
+      "summary": "Clinical trials demonstrated that pramlintide suppresses postmeal glucagon secretion, slows gastric emptying, reduces postprandial glucose levels, and improves glycemic control while managing weight loss, with decreases in hemoglobin A1c, serum fructosamine, and total cholesterol levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16278328/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Managed care perspective on three new agents for type 2 diabetes",
+      "summary": "Review of pramlintide as one of three novel diabetes agents with unique mechanisms of action, evaluating its efficacy, safety, and place in therapy given relatively high cost and unknown long-term outcomes as of 2008.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18500914/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of pramlintide on energy intake and food preference in rats given a choice diet",
+      "summary": "Animal study showed systemic pramlintide injection reduced high-fat diet intake at 3 hours post-injection, suggesting potential preferential reduction of highly palatable, energy-dense food consumption relevant to obesity treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34332974/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Insulin Resistance in Type 1 Diabetes: Pathophysiological, Clinical, and Therapeutic Relevance",
+      "summary": "Comprehensive review discussing how people with type 1 diabetes frequently feature insulin resistance alongside β-cell failure, with pramlintide mentioned as a therapeutic consideration for addressing complex metabolic dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39998445/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 25,
+    "summary": "The user discussions show no direct user experiences with pramlintide as it is a prescription medication for diabetes, not a consumer supplement. The posts focus on other supplements and medications with mixed to positive experiences, but contain no relevant feedback about pramlintide specifically."
+  },
+  "effects": [
+    {
+      "label": "Adjunctive Therapy:",
+      "description": "Most effective when combined with insulin therapy in patients who have not achieved adequate glycemic control with insulin alone"
+    },
+    {
+      "label": "Type-Specific Response:",
+      "description": "Shows efficacy in both type 1 and insulin-requiring type 2 diabetes, with benefits varying by diabetes phenotype"
+    },
+    {
+      "label": "Postprandial Control:",
+      "description": "Particularly effective at normalizing post-meal glucose spikes through multiple complementary mechanisms"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Peak serum levels reached within 30 minutes of subcutaneous administration with relatively short half-life of 30-50 minutes"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Type 1 Diabetes:",
+      "description": "Typically initiated at 15 mcg before meals and titrated up to 30-60 mcg based on response and tolerability"
+    },
+    {
+      "label": "Type 2 Diabetes:",
+      "description": "Usually started at 60 mcg before meals and may be increased to 120 mcg if needed and well-tolerated"
+    },
+    {
+      "label": "Administration:",
+      "description": "Given as subcutaneous injection immediately before major meals, always used in conjunction with mealtime insulin"
+    },
+    {
+      "label": "Insulin Adjustment:",
+      "description": "May require reduction of mealtime insulin dose by 50% when initiating pramlintide to prevent hypoglycemia"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal:",
+      "description": "Nausea is the most common side effect, typically transient and diminishing over time with continued use"
+    },
+    {
+      "label": "Hypoglycemia Risk:",
+      "description": "Increased risk of insulin-induced hypoglycemia, particularly in the 3 hours following administration, requiring careful insulin dose adjustment"
+    },
+    {
+      "label": "Injection Site:",
+      "description": "Local injection site reactions may occur with subcutaneous administration"
+    },
+    {
+      "label": "Area Postrema Effects:",
+      "description": "Can cause nausea and vomiting through stimulation of the area postrema in the brain"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Only:",
+      "description": "FDA-approved prescription medication available only through healthcare providers, not available as over-the-counter supplement"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Relatively expensive medication with insurance coverage varying; cost-effectiveness must be weighed against clinical benefits"
+    },
+    {
+      "label": "Specialized Use:",
+      "description": "Requires proper training for subcutaneous injection technique and careful monitoring of blood glucose levels"
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "CAGRILINTIDE",
+      "slug": "cagrilintide"
+    },
+    {
+      "name": "CAGRISEMA",
+      "slug": "cagrisema"
+    }
+  ]
+}

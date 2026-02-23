@@ -1,0 +1,149 @@
+{
+  "slug": "trigonelline",
+  "url": "https://dopamine.club/substances/trigonelline/",
+  "scrapedAt": "2026-02-12T16:11:54.643Z",
+  "title": "TRIGONELLINE",
+  "description": "Trigonelline is a plant alkaloid found in coffee and fenugreek that functions as an NAD+ precursor through the Preiss-Handler pathway. It supports mitochondrial function, muscle health, and metabolic homeostasis while demonstrating neuroprotective, anti-diabetic, and anti-inflammatory properties.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Trigonelline is an NAD+ precursor that improves muscle function during ageing and is reduced in human sarcopenia",
+      "summary": "Trigonelline supplementation increased NAD+ levels, improved mitochondrial respiration, reduced age-related muscle wasting, and enhanced muscle strength in aging mice. In C. elegans, it increased lifespan and mobility through NAD+-dependent mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Inhibition of key digestive enzymes related to diabetes and hyperlipidemia and protection of liver-kidney functions by trigonelline in diabetic rats",
+      "summary": "Trigonelline reduced blood glucose by 46% through inhibition of intestinal α-amylase and maltase, while also decreasing serum triglycerides and cholesterol levels and protecting pancreatic β-cells in diabetic rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23641341/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Experimental diabetes treated with trigonelline: effect on key enzymes related to diabetes and hypertension, β-cell and liver function",
+      "summary": "Trigonelline inhibited DPP-4 and α-glucosidase activities in plasma and intestine, increased GLP-1 levels, reduced blood pressure by normalizing ACE activity, and improved lipid profiles while protecting pancreatic islet cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23754616/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Trigonelline inhibits intestinal microbial metabolism of choline and its associated cardiovascular risk",
+      "summary": "Trigonelline prevented gut microbiota conversion of choline to pro-atherosclerotic TMAO, suggesting cardiovascular protective effects by modulating gut bacterial metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29980011/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of a novel extract of fenugreek seeds in alleviating vasomotor symptoms and depression in perimenopausal women",
+      "summary": "Fenugreek extract containing trigonelline reduced hot flashes by 25.9%, night sweats by 26.5%, depression by 31.8%, and insomnia by 21.6% while improving hormonal balance in perimenopausal women over 42 days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33025616/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A review on therapeutic potentials of Trigonella foenum graecum (fenugreek) and its chemical constituents in neurological disorders",
+      "summary": "Trigonelline from fenugreek shows beneficial effects in Alzheimer's disease and other neurological conditions through neuroprotective, anti-inflammatory, and NAD+-boosting mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28504078/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Coffee variety, origin and extraction procedure: Implications for coffee beneficial effects on human health",
+      "summary": "NMR analysis revealed trigonelline as a major bioactive compound in coffee, with hydroalcoholic extraction being most efficient for obtaining beneficial low molecular weight compounds including chlorogenic acids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30583399/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report noticeable improvements in muscle function, energy levels, and cognitive performance from trigonelline supplementation. The majority view it as an effective NAD+ booster with minimal side effects, though some express concerns about formaldehyde production during metabolism."
+  },
+  "effects": [
+    {
+      "label": "NAD+ Boosting:",
+      "description": "Works through the distinct Preiss-Handler pathway rather than competing with NR/NMN, with particular effectiveness in muscle tissue"
+    },
+    {
+      "label": "Dosage Response:",
+      "description": "Studies used 250-500mg doses with effects appearing within weeks; one user self-experiment found no NAD+ increase at 500mg daily"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "When combined with other NAD+ precursors or as part of fenugreek extract, demonstrates enhanced effects on hormonal balance and metabolic function"
+    },
+    {
+      "label": "Age-Related Decline:",
+      "description": "Particularly effective for sarcopenia and age-associated muscle wasting, with circulating levels naturally declining with age"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Research Dose:",
+      "description": "250-500mg daily used in most human and animal studies showing metabolic and muscle benefits"
+    },
+    {
+      "label": "Fenugreek Source:",
+      "description": "1 teaspoon fenugreek seeds in morning smoothies reported by users as an alternative natural source"
+    },
+    {
+      "label": "Timing:",
+      "description": "Can be taken with meals; studies used twice-daily dosing (250mg x2) for hormonal and metabolic effects"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits observed within 2-6 weeks in studies, with long-term supplementation (months) showing sustained improvements"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Formaldehyde Concerns:",
+      "description": "Demethylation produces formaldehyde as a byproduct, raising theoretical concerns about DNA damage at higher supplemental doses"
+    },
+    {
+      "label": "Minimal Reported Issues:",
+      "description": "Most studies and users report good tolerance with few adverse effects at standard doses"
+    },
+    {
+      "label": "Heavy Metal Risk:",
+      "description": "As with other supplements, quality and purity testing is important to avoid contamination from plant sources"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users may not respond to trigonelline's NAD+ boosting effects based on individual metabolic differences"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Abundantly available in coffee (especially green coffee beans) and fenugreek seeds; CO2 decaf extraction preserves higher trigonelline content"
+    },
+    {
+      "label": "Supplement Form:",
+      "description": "Available as isolated trigonelline supplements (500mg capsules) from various manufacturers, though less common than NR/NMN"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Users recommend reputable brands with third-party testing due to potential for heavy metal contamination in plant-derived products"
+    }
+  ],
+  "related": [
+    {
+      "name": "UROLITHIN A",
+      "slug": "urolithin-a"
+    },
+    {
+      "name": "BORON",
+      "slug": "boron"
+    },
+    {
+      "name": "FAD",
+      "slug": "fad"
+    },
+    {
+      "name": "FMN",
+      "slug": "fmn"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

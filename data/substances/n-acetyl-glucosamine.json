@@ -1,0 +1,131 @@
+{
+  "slug": "n-acetyl-glucosamine",
+  "url": "https://dopamine.club/substances/n-acetyl-glucosamine/",
+  "scrapedAt": "2026-02-12T16:09:40.622Z",
+  "title": "N-ACETYL GLUCOSAMINE",
+  "description": "N-Acetyl Glucosamine (NAG) is a naturally occurring amino sugar and precursor for glycosaminoglycan synthesis, which helps maintain the protective mucin barrier in the intestinal epithelium. It works by increasing glycosaminoglycan production and has demonstrated anti-inflammatory, antioxidant, and neuroprotective properties, particularly in inflammatory conditions affecting the gut, joints, and nervous system.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "N-acetylglucosamine inhibits inflammation and neurodegeneration markers in multiple sclerosis: a mechanistic trial",
+      "summary": "NAG administration significantly reduced inflammatory markers (IL-6) and neurodegeneration markers (NSE, S100B) in multiple sclerosis patients, demonstrating its anti-inflammatory and neuroprotective effects in neurological disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37704996/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of the effect of N-acetyl-glucosamine administration on biomarkers for cartilage metabolism in healthy individuals without symptoms of arthritis",
+      "summary": "A randomized double-blind placebo-controlled trial showed NAG positively affected cartilage metabolism biomarkers in healthy individuals, suggesting preventive benefits for joint health before arthritis symptoms develop.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27602052/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "N-Acetylglucosamine for Treatment of Inflammatory Bowel Disease",
+      "summary": "In a pragmatic clinical trial of 34 IBD patients, 88% reported symptom improvement with 6g daily NAG, including 49% reduction in abdominal pain and 47% reduction in diarrhea, with excellent tolerability and no tolerance build-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26213558/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Repurposing of high-dose N-acetylcysteine as anti-inflammatory, antioxidant and neuroprotective agent in moderate to severe traumatic brain injury patients",
+      "summary": "High-dose NAC significantly decreased inflammatory markers (IL-6), oxidative stress markers (MDA), and neuronal damage markers (NSE, S100B) in traumatic brain injury patients, demonstrating potent anti-inflammatory and neuroprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38598065/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users report remarkably positive experiences with NAG, particularly for anxiety reduction and inflammatory conditions. The most notable finding is profound anti-anxiety effects within 2 hours that last all day without tolerance development, with many users reporting over a decade of successful use."
+  },
+  "effects": [
+    {
+      "label": "Anxiety Treatment:",
+      "description": "Highly effective for generalized anxiety disorder with fast-acting relief (2 hours) and day-long duration, considered remarkably powerful by long-term users"
+    },
+    {
+      "label": "IBD Management:",
+      "description": "88.1% of patients reported symptom improvement with significant reductions in abdominal pain (49%), diarrhea (47%), and other inflammatory symptoms"
+    },
+    {
+      "label": "Joint Health:",
+      "description": "Effective for cartilage metabolism and joint pain relief, particularly when combined with other joint health supplements in comprehensive stacks"
+    },
+    {
+      "label": "No Tolerance Development:",
+      "description": "Unlike many anxiolytics, users consistently report maintained effectiveness over years of daily use without requiring dose increases"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Anxiety Dose:",
+      "description": "700mg capsules taken 1-2 times daily, with effects typically noticeable within 2 hours of first dose"
+    },
+    {
+      "label": "IBD Protocol:",
+      "description": "6 grams daily (often split into multiple doses) for inflammatory bowel disease, taken for 4+ weeks with good tolerability"
+    },
+    {
+      "label": "Bulk Powder Alternative:",
+      "description": "Available as powder at approximately 1/3 the cost of capsules, allowing flexible dosing and cost savings"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Daily dosing for 10+ years reported as safe without adverse effects or need for cycling off"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Users report NAG as very well-tolerated with no significant adverse effects even with long-term daily use"
+    },
+    {
+      "label": "No Withdrawal:",
+      "description": "Unlike many anxiety treatments, stopping NAG produces no withdrawal symptoms or rebound anxiety"
+    },
+    {
+      "label": "No Addiction Potential:",
+      "description": "Non-addictive properties make it safer for long-term anxiety management compared to benzodiazepines or other anxiolytics"
+    },
+    {
+      "label": "Generally Safe Profile:",
+      "description": "No concerning interactions or contraindications reported in user experiences or clinical trials"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Readily Available:",
+      "description": "Widely available as a dietary supplement in capsule form (typically 700mg) at approximately $20 for 120 capsules"
+    },
+    {
+      "label": "Cost-Effective Options:",
+      "description": "Bulk powder form available at roughly 1/3 the price of capsules, making long-term use affordable"
+    },
+    {
+      "label": "No Prescription Required:",
+      "description": "Available over-the-counter as a dietary supplement without prescription restrictions"
+    }
+  ],
+  "related": [
+    {
+      "name": "ROSMARINIC ACID",
+      "slug": "rosmarinic-acid"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    }
+  ]
+}

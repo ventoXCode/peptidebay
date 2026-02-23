@@ -1,0 +1,156 @@
+{
+  "slug": "arginine",
+  "url": "https://dopamine.club/substances/arginine/",
+  "scrapedAt": "2026-02-12T16:05:51.577Z",
+  "title": "ARGININE",
+  "description": "L-Arginine is a semi-essential amino acid that serves as a substrate for nitric oxide (NO) synthesis via the nitric oxide synthase (NOS) pathway. It plays a critical role in vascular function by promoting vasodilation and blood flow, and is involved in protein synthesis, immune function, and wound healing. While the body can produce arginine, supplementation is explored for cardiovascular health, athletic performance, and erectile function.",
+  "categories": [
+    "Amino Acid",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Potential Role of Arginine Supplements on Erectile Dysfunction: A Systemic Review and Meta-Analysis",
+      "summary": "Meta-analysis found arginine supplements showed potential benefits for erectile dysfunction, particularly in combination with other substances, though effects were modest compared to phosphodiesterase inhibitors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30770070/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Arginine and Citrulline Supplements for Cardiovascular Health and Athletic Performance: A Narrative Review",
+      "summary": "Review found that arginine and citrulline supplementation can enhance cardiovascular health markers and athletic performance through improved nitric oxide production and blood flow.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36904267/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-Arginine supplementation in pregnancy: a systematic review of maternal and fetal outcomes",
+      "summary": "Systematic review showed L-arginine supplementation reduced pre-eclampsia development, decreased blood pressure, and reduced need for antihypertensive drugs in pregnant women with hypertension.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37258415/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The use of oral and enteral tube-fed arginine supplementation in pressure injury care: A systematic review and meta-analysis",
+      "summary": "Meta-analysis demonstrated that arginine supplementation may support wound healing in pressure injuries, potentially due to enhanced protein synthesis and immune function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34170617/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-arginine as dietary supplement for improving microvascular function",
+      "summary": "Study found that L-arginine ingestion improved endothelium-dependent vasodilation in young trained subjects, suggesting potential benefits for microvascular function in specific populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27814280/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Arginine supplementation and cardiometabolic risk",
+      "summary": "Review indicated that supplemental arginine could alleviate endothelial dysfunction and reduce type 2 diabetes risk, with effects varying by dosage, form, and metabolic status of the population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31652143/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Supplementation with Nitric Oxide Precursors for Strength Performance: A Review of the Current Literature",
+      "summary": "Review found that nitric oxide precursors including L-arginine may improve blood flow and mechanisms contributing to skeletal muscle performance, though L-citrulline appears more effective due to better bioavailability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36771366/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Side effects of amino acid supplements",
+      "summary": "Comprehensive review highlighted that enhanced intake of amino acid supplements including arginine may cause detrimental side effects and requires further research on long-term safety, particularly regarding immune function and tumor growth.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35043647/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely divided, with many finding L-citrulline superior to L-arginine due to better bioavailability, while others report that arginine can trigger viral outbreaks (herpes, shingles) and has limited effectiveness compared to alternatives. Those who benefit often use it for blood flow and libido support, but side effects and absorption issues are commonly cited concerns."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Users and research consistently note that oral L-arginine has poor absorption due to first-pass metabolism in the gut and liver, limiting effectiveness"
+    },
+    {
+      "label": "Citrulline Superior:",
+      "description": "Strong consensus that L-citrulline (which converts to arginine) is more effective for raising arginine levels and achieving desired nitric oxide effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly dependent on baseline health status, metabolic condition, and whether arginine metabolism is impaired"
+    },
+    {
+      "label": "Combination Benefits:",
+      "description": "Some users report better results when stacking with other supplements like zinc, magnesium, or in pre-formulated nitric oxide boosters"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most common dosing is 500-2000mg daily, with some users taking up to 3-6g split throughout the day"
+    },
+    {
+      "label": "Pre-Workout Timing:",
+      "description": "Many take 500-1000mg before exercise for acute blood flow effects, typically 30-60 minutes prior"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Users suggest cycling on and off rather than continuous daily use to prevent tolerance and reduce viral outbreak risk"
+    },
+    {
+      "label": "Lysine Balance:",
+      "description": "Those prone to herpes recommend balancing arginine with lysine supplementation to prevent viral reactivation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Viral Outbreaks:",
+      "description": "Frequent reports of triggering cold sores, shingles, and HPV warts due to arginine fueling viral replication in those with dormant infections"
+    },
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Users report stomach upset, nausea, and digestive discomfort, particularly at higher doses"
+    },
+    {
+      "label": "Acne:",
+      "description": "Some users experience breakouts with excessive arginine intake, potentially related to hormonal effects"
+    },
+    {
+      "label": "Limited Duration:",
+      "description": "Effects tend to be short-lived and may diminish with continued use, suggesting tolerance development"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily sourced from major supplement retailers in various forms (capsules, powders)"
+    },
+    {
+      "label": "Price Point:",
+      "description": "Generally affordable, though users note bulk powder forms offer better value than pre-formulated products"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of third-party testing and recommend purchasing from established, reputable brands"
+    }
+  ],
+  "related": [
+    {
+      "name": "CITRULLINE",
+      "slug": "citrulline"
+    },
+    {
+      "name": "BCAAS",
+      "slug": "bcaas"
+    },
+    {
+      "name": "GLUTAMINE",
+      "slug": "glutamine"
+    },
+    {
+      "name": "L-CITRULLINE",
+      "slug": "l-citrulline"
+    },
+    {
+      "name": "GLYCINE",
+      "slug": "glycine"
+    }
+  ]
+}

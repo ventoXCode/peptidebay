@@ -1,0 +1,149 @@
+{
+  "slug": "nattokinase",
+  "url": "https://dopamine.club/substances/nattokinase/",
+  "scrapedAt": "2026-02-12T16:10:10.902Z",
+  "title": "NATTOKINASE",
+  "description": "Nattokinase is a fibrinolytic enzyme extracted from natto, a traditional Japanese fermented soybean food produced by Bacillus subtilis. It works by breaking down fibrin and blood clots through its proteolytic activity, demonstrating significant thrombolytic and antithrombotic properties. Primarily used as a dietary supplement for cardiovascular health, it has shown benefits in managing atherosclerosis, reducing blood pressure, and improving circulation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effective management of atherosclerosis progress and hyperlipidemia with nattokinase: A clinical study with 1,062 participants",
+      "summary": "Study of 1,062 participants found that nattokinase at 10,800 FU/day significantly reduced carotid artery intima-media thickness and plaque size, with improvement rates ranging from 66.5-95.4%, while lower doses (3,600 FU/day) were ineffective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36032923/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of nattokinase on blood pressure: a randomized, controlled trial",
+      "summary": "Randomized trial of 73 participants showed nattokinase supplementation (2,000 FU for 8 weeks) resulted in significant reductions in both systolic blood pressure (-5.55 mmHg) and diastolic blood pressure (-2.84 mmHg) compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18971533/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nattokinase Supplementation and Cardiovascular Risk Factors: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "summary": "Meta-analysis examining nattokinase's effects on cardiovascular risk factors demonstrated significant improvements in lipid profiles and blood pressure across multiple randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39076715/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A pilot study on the serum pharmacokinetics of nattokinase in humans following a single, oral, daily dose",
+      "summary": "First human pharmacokinetic study detected nattokinase and its metabolites in blood following oral ingestion, demonstrating bioavailability and charting dosing effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23709455/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nattokinase: production and application",
+      "summary": "Comprehensive review of nattokinase's fibrinolytic activity, stability in the gastrointestinal tract, and applications including treatment of hypertension, Alzheimer's disease, and vitreoretinal disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25348469/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biotechnology, Bioengineering and Applications of Bacillus Nattokinase",
+      "summary": "Review of nattokinase as a potential low-cost thrombolytic drug without side effects, covering fermentation processes, structure, catalytic mechanisms, and clinical applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35883536/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nattokinase-heparin exhibits beneficial efficacy and safety-an optimal strategy for CKD patients on hemodialysis",
+      "summary": "Study demonstrated that nattokinase combined with heparin allows for lower heparin doses while maintaining anticoagulant efficacy in hemodialysis patients, reducing thrombotic risks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30788657/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report overwhelmingly positive experiences with nattokinase, particularly for cardiovascular benefits including improved circulation, reduced blood pressure, and relief from nasal congestion. While some users report side effects at higher doses or specific sensitivities, the majority would continue using it and recommend it for heart health."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Studies and users confirm effectiveness is highly dose-dependent, with 10,800 FU/day needed for atherosclerosis reversal while 2,000-4,000 FU/day provides moderate benefits for blood pressure and circulation"
+    },
+    {
+      "label": "Time to Results:",
+      "description": "Most users report noticeable effects within 1-4 weeks, with cardiovascular improvements (cholesterol, plaque reduction) taking 2-3 months to show on lab tests"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "While majority experience benefits, some users report no effect or adverse reactions, suggesting genetic or physiological variability in response"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Users report enhanced results when combined with K2, D3, serrapeptase, or lifestyle modifications like diet and exercise"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "Most users take 2,000-4,000 FU daily for general cardiovascular health and blood pressure management"
+    },
+    {
+      "label": "High Therapeutic Dose:",
+      "description": "Studies show 10,800 FU/day is required for significant atherosclerosis reversal and lipid management, though this may cause low blood pressure in some individuals"
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Some users split higher doses across the day (e.g., 400mg morning with 100mg pycnogenol) to avoid blood pressure crashes"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Some users implement 5 days on, 2 days off protocols, though continuous daily use appears safe for most based on long-term user reports"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Low Blood Pressure:",
+      "description": "Most commonly reported side effect, particularly at doses above 6,000 FU, with some users experiencing dizziness or fatigue"
+    },
+    {
+      "label": "Bleeding Risk:",
+      "description": "Multiple reports of increased bleeding tendency, including one case of hemoperitoneum; users on blood thinners or with bleeding disorders should avoid"
+    },
+    {
+      "label": "Mood/Motivation Changes:",
+      "description": "Some users at 10,000 FU doses report decreased motivation, indifference, or sadness, possibly related to hormonal effects from soy-based origin"
+    },
+    {
+      "label": "Histamine Response:",
+      "description": "A subset of users report increased histamine intolerance, vein pain, or inflammatory reactions, typically resolving when discontinued"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Available over-the-counter as dietary supplement at pharmacies, grocery stores, and online retailers without prescription"
+    },
+    {
+      "label": "Brand Variation:",
+      "description": "Users report different experiences with different brands; commonly mentioned include quality brands, Horbaach, Naturebell, and Sungen Bioscience"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Some users emphasize importance of third-party testing and reputable brands, as enzyme activity (FU content) may vary between manufacturers"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "CALCIUM ALPHA-KETOGLUTARATE",
+      "slug": "calcium-alpha-ketoglutarate"
+    },
+    {
+      "name": "IGF-1",
+      "slug": "igf-1"
+    }
+  ]
+}

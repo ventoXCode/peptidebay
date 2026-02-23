@@ -1,0 +1,149 @@
+{
+  "slug": "allithiamine",
+  "url": "https://dopamine.club/substances/allithiamine/",
+  "scrapedAt": "2026-02-12T16:05:35.338Z",
+  "title": "ALLITHIAMINE",
+  "description": "Allithiamine is a fat-soluble thiamine (vitamin B1) derivative originally discovered in garlic that has significantly higher bioavailability than standard water-soluble thiamine supplements. It crosses cell membranes more efficiently and converts to thiamine pyrophosphate in the body, enhancing cellular energy metabolism through improved mitochondrial function and glucose utilization. Primarily used for addressing thiamine deficiency, neurological conditions, metabolic dysfunction, and energy-related disorders.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Allithiamine Exerts Therapeutic Effects on Sepsis by Modulating Metabolic Flux during Dendritic Cell Activation",
+      "summary": "Allithiamine demonstrated potent anti-inflammatory effects by inhibiting pro-inflammatory cytokine production and modulating metabolic shifts during immune cell activation, showing therapeutic potential for sepsis treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33243937/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Allithiamine Alleviates Hyperglycaemia-Induced Endothelial Dysfunction",
+      "summary": "Allithiamine showed protective effects against hyperglycemia-induced endothelial dysfunction in cell models, suggesting potential benefits for diabetes-related vascular complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32517031/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Thiamine tetrahydrofurfuryl disulfide: a little known therapeutic agent",
+      "summary": "TTFD (synthetic allithiamine) was found to have more powerful metabolic effects than standard thiamine, with Japanese research demonstrating its superiority in treating various disease conditions due to its disulfide structure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15328496/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Absorption, utilization and clinical effectiveness of allithiamines compared to water-soluble thiamines",
+      "summary": "Oral allithiamines rapidly increased thiamine activity in blood, cerebrospinal fluid, and tissues more effectively than water-soluble thiamine forms, successfully treating thiamine deficiency and neurological conditions like Wernicke's encephalopathy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/978282/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Benfotiamine, a synthetic S-acyl thiamine derivative, has different mechanisms of action and a different pharmacological profile than lipid-soluble thiamine disulfide derivatives",
+      "summary": "This study found that benfotiamine (S-acyl derivative) did not increase brain thiamine levels after oral administration, unlike allithiamine and other disulfide derivatives, indicating different mechanisms and tissue distribution patterns.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18549472/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A benfotiamine-vitamin B combination in treatment of diabetic polyneuropathy",
+      "summary": "A lipid-soluble thiamine derivative combined with B vitamins significantly improved nerve conduction velocity and vibration perception in diabetic neuropathy patients over 12 weeks without adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8886748/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Disulfide-mediated apoptosis of human T-lymphotrophc virus type-I (HTLV-I)-infected cells in patients with HTLV-I-associated myelopathy/tropical spastic paraparesis",
+      "summary": "Prosultiamine (allithiamine homologue) induced caspase-dependent apoptosis in HTLV-I-infected cells and reduced viral load, demonstrating potential therapeutic effects for viral infections through its disulfide moiety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19578238/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences with allithiamine are genuinely split, with many reporting significant benefits for energy, focus, and anxiety when properly dosed with cofactors like magnesium, while others experience paradoxical reactions including fatigue, anxiety, and wired feelings, particularly at higher doses or without adequate mineral support."
+  },
+  "effects": [
+    {
+      "label": "Cofactor Dependency:",
+      "description": "Effectiveness heavily depends on adequate magnesium levels, as magnesium is required to convert thiamine to its active form (thiamine pyrophosphate); users without sufficient magnesium often report poor or negative responses"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Responses range from life-changing benefits to debilitating side effects, with effectiveness appearing related to baseline thiamine status and metabolic individuality"
+    },
+    {
+      "label": "Dose-Response Complexity:",
+      "description": "Lower doses (25-50mg) work better for some users, while others need higher amounts; paradoxical worsening at first may indicate severe deficiency requiring patience"
+    },
+    {
+      "label": "Formulation Matters:",
+      "description": "TTFD/allithiamine appears more powerful than standard thiamine HCL and benfotiamine, with better brain penetration but also stronger initial reactions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Starting Dose:",
+      "description": "50mg daily is the most commonly mentioned dose, though many users recommend starting lower (25mg or less) to assess tolerance"
+    },
+    {
+      "label": "Cofactor Requirements:",
+      "description": "Magnesium supplementation (150-400mg) is essential, with some users also adding B-complex vitamins to support thiamine metabolism and prevent cofactor depletion"
+    },
+    {
+      "label": "Titration Strategy:",
+      "description": "Starting with very low doses (1/4 capsule or 12.5mg) and gradually increasing helps avoid paradoxical reactions and intense side effects"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Some users report better results with morning dosing to avoid mid-day fatigue, while others find evening dosing helps with sleep quality"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Paradoxical Anxiety & Wired Feeling:",
+      "description": "Several users report intense anxiety, feeling wired, or panicky reactions lasting several hours, particularly with 50mg doses or when starting supplementation"
+    },
+    {
+      "label": "Extreme Fatigue:",
+      "description": "Some users experience profound tiredness or being \"knocked out\" for extended periods, possibly indicating refeeding syndrome or rapid metabolic shifts"
+    },
+    {
+      "label": "Mineral Depletion:",
+      "description": "Long-term use without adequate cofactor support may deplete magnesium and other minerals, leading to worsening symptoms over time"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Strong reactions (both positive and negative) occur within hours of first dose, suggesting significant metabolic impact and need for careful dose titration"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Specialized Brands:",
+      "description": "Thiamax and Ecological Formulas are commonly mentioned brands, with TTFD (thiamine tetrahydrofurfuryl disulfide) being the preferred form for many users"
+    },
+    {
+      "label": "Price Considerations:",
+      "description": "Allithiamine supplements are generally more expensive than standard thiamine due to specialized manufacturing, with users noting the need to budget for quality formulations"
+    },
+    {
+      "label": "Prescription vs OTC:",
+      "description": "Available as over-the-counter supplement in most regions, though some thiamine derivatives like benfotiamine may have different regulatory status depending on location"
+    }
+  ],
+  "related": [
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "IDEBENONE",
+      "slug": "idebenone"
+    },
+    {
+      "name": "L-SERINE",
+      "slug": "l-serine"
+    },
+    {
+      "name": "LUTEOLIN",
+      "slug": "luteolin"
+    },
+    {
+      "name": "METHYLENE BLUE",
+      "slug": "methylene-blue"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "apigenin",
+  "url": "https://dopamine.club/substances/apigenin/",
+  "scrapedAt": "2026-02-12T16:05:49.706Z",
+  "title": "APIGENIN",
+  "description": "Apigenin is a naturally occurring flavonoid compound found abundantly in chamomile, parsley, celery, and other fruits and vegetables. It works through multiple mechanisms including modulating GABAergic neurotransmission, reducing inflammation via NF-κB pathway inhibition, and exhibiting antioxidant properties. Primarily studied for its anxiolytic, sleep-promoting, anti-inflammatory, and potential anti-cancer effects.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Therapeutic Potential of Apigenin",
+      "summary": "Comprehensive review demonstrating apigenin's diverse biological activities including antioxidant, anti-inflammatory, anticancer, and antibacterial effects across multiple therapeutic applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30875872/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Apigenin: A Therapeutic Agent for Treatment of Skin Inflammatory Diseases and Cancer",
+      "summary": "Review showing apigenin reduces skin inflammation by downregulating various inflammatory markers and molecular targets, with potential applications in atopic dermatitis, psoriasis, and skin cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36675015/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological and Molecular Insight on the Cardioprotective Role of Apigenin",
+      "summary": "Evidence supporting apigenin's cardioprotective effects in atherosclerosis, stroke, hypertension, myocardial injury, and diabetic cardiomyopathy through antioxidant and anti-inflammatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36678254/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Apigenin in cancer therapy: anti-cancer effects and mechanisms of action",
+      "summary": "Research showing apigenin suppresses various cancers through multiple mechanisms including triggering apoptosis and autophagy, inducing cell cycle arrest, and suppressing cell migration via modulation of PI3K/AKT, MAPK/ERK, and other signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29034071/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Protocols to Promote and Improve Restful Sleep: A Narrative Review",
+      "summary": "Narrative review identifying dietary compounds including apigenin that possess sleep-promoting properties and can act as subsidiary sleep aids when combined with behavioral sleep hygiene practices.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40418260/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Apigenin as an emerging hepatoprotective agent: current status and future perspectives",
+      "summary": "Preclinical evidence demonstrates apigenin's promising effects in preventing and treating liver diseases including multifactorial liver injury, NAFLD/NASH, liver fibrosis, and liver cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39749193/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Apigenin alleviates dextran sulfate sodium-induced ulcerative colitis via regulation of endoplasmic reticulum stress in goblet cells",
+      "summary": "Study showing 40mg/kg apigenin supplementation markedly alleviated ulcerative colitis symptoms through mechanisms independent of gut microbiota, primarily by enhancing endoplasmic reticulum function in goblet cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40614602/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Users report mixed results with apigenin for sleep, with many finding it provides subtle relaxation but not strong sedative effects. Common consensus is that it works better in combination with other sleep supplements (magnesium, L-theanine) than as a standalone, though some users report minimal noticeable effects even at recommended doses."
+  },
+  "effects": [
+    {
+      "label": "Modest Sleep Benefits:",
+      "description": "Generally considered less powerful than dedicated sleep aids, providing subtle support rather than dramatic improvements in sleep quality"
+    },
+    {
+      "label": "Better for Maintenance:",
+      "description": "More effective for staying asleep rather than falling asleep initially, according to user experiences"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works better when combined with other supplements (magnesium threonate, L-theanine) and sleep hygiene practices than alone"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Some users report needing consistent use over several weeks to notice benefits, though others see effects within days"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "50-140mg taken 30-60 minutes before bed, with 50mg being the most commonly recommended starting dose"
+    },
+    {
+      "label": "Huberman Protocol:",
+      "description": "50mg apigenin combined with 300-400mg magnesium threonate and 100-200mg L-theanine approximately one hour before sleep"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Most users take 30-60 minutes before intended sleep time for optimal effects"
+    },
+    {
+      "label": "Individual Titration:",
+      "description": "Some users find they need to experiment with doses between 50-100mg to find what works best for them"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Generally well-tolerated with few reported adverse effects at standard doses"
+    },
+    {
+      "label": "Morning Grogginess:",
+      "description": "Some users report mild residual drowsiness or grogginess the next morning, particularly at higher doses"
+    },
+    {
+      "label": "Ineffectiveness:",
+      "description": "Most common 'side effect' is simply lack of noticeable benefit, with many users reporting no discernible effects"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Rare reports of paradoxical stimulation or wakefulness in sensitive individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold by major supplement brands at relatively affordable prices"
+    },
+    {
+      "label": "Chamomile Alternative:",
+      "description": "Can be obtained more cheaply through chamomile tea or extract, as apigenin is the primary active compound in chamomile"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Users recommend purchasing from reputable brands with third-party testing to ensure purity and accurate dosing"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    },
+    {
+      "name": "KAVA",
+      "slug": "kava"
+    },
+    {
+      "name": "LAVENDER",
+      "slug": "lavender"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "brivaracetam",
+  "url": "https://dopamine.club/substances/brivaracetam/",
+  "scrapedAt": "2026-02-12T16:06:14.566Z",
+  "title": "BRIVARACETAM",
+  "description": "Brivaracetam (BRV) is a high-affinity ligand for the synaptic vesicle protein 2A (SV2A), an analog of levetiracetam designed for more selective and potent binding. It is primarily used as an anticonvulsant medication to treat focal-onset seizures by reducing hypersynchronous neuronal activity in the brain.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Brivaracetam: Pharmacology, Clinical Efficacy, and Safety in Epilepsy",
+      "summary": "This review summarizes brivaracetam's role as a potent SV2A ligand with rapid brain penetration and effective seizure reduction in both clinical trials and real-world settings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40568060/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Narrative Review of Brivaracetam: Preclinical Profile and Clinical Benefits in the Treatment of Patients with Epilepsy",
+      "summary": "This study highlights brivaracetam's 15- to 30-fold higher affinity for SV2A compared to levetiracetam and its effectiveness even in patients who failed prior treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38809454/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effectiveness and tolerability of brivaracetam in patients with epilepsy stratified by comorbidities and etiology in the real world",
+      "summary": "A large-scale analysis showing that brivaracetam significantly reduces seizure frequency across diverse patient populations, including those with cognitive or psychiatric comorbidities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38436814/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Brivaracetam: a novel antiepileptic drug for focal-onset seizures",
+      "summary": "Explains that brivaracetam slows synaptic vesicle mobilization more effectively than its predecessor, providing broad protection against focal and generalized seizures.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29399049/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally value its effectiveness in seizure control and often find it has fewer psychiatric side effects than levetiracetam, though somnolence and irritability remain common concerns."
+  },
+  "effects": [
+    {
+      "label": "Levetiracetam Comparison:",
+      "description": "Often successful in patients who did not tolerate or respond to levetiracetam (Keppra)."
+    },
+    {
+      "label": "Adjunctive Efficacy:",
+      "description": "Works well both as a standalone therapy and when added to existing medication regimens."
+    },
+    {
+      "label": "Long-term Retention:",
+      "description": "Shows high patient retention rates in real-world studies, indicating sustained efficacy over years."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Adult Dose:",
+      "description": "Typically starts at 50 mg twice daily, with a therapeutic range of 50 mg to 200 mg per day."
+    },
+    {
+      "label": "No Titration Needed:",
+      "description": "Unlike many anti-epileptics, it can often be initiated at the full therapeutic dose without gradual buildup."
+    },
+    {
+      "label": "Hepatic Adjustment:",
+      "description": "Lower dosages are required for patients with any degree of liver impairment."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Somnolence:",
+      "description": "Excessive sleepiness and fatigue are the most commonly reported neurological side effects."
+    },
+    {
+      "label": "Psychiatric Symptoms:",
+      "description": "While improved over Keppra, some users still report irritability, depression, or anxiety."
+    },
+    {
+      "label": "Dermatologic Risks:",
+      "description": "Rare but serious skin reactions can occur, necessitating immediate discontinuation."
+    },
+    {
+      "label": "Dizziness:",
+      "description": "Frequent reports of lightheadedness or balance issues, especially during initial dosing."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Only:",
+      "description": "Strictly regulated as a Schedule V controlled substance (CV) in the United States."
+    },
+    {
+      "label": "Multiple Formulations:",
+      "description": "Available as oral tablets, an oral solution, and an intravenous injection for clinical use."
+    },
+    {
+      "label": "Sourcing:",
+      "description": "Generally widely available through standard pharmacies but requires a specialist neurological prescription."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMANTYL CARBONYL PROLINE",
+      "slug": "adamantyl-carbonyl-proline"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "fmn",
+  "url": "https://dopamine.club/substances/fmn/",
+  "scrapedAt": "2026-02-12T16:07:49.351Z",
+  "title": "FMN",
+  "description": "Flavin mononucleotide (FMN), also known as riboflavin-5′-phosphate, is the bioactive form of Vitamin B2 that serves as a vital prosthetic group for mitochondrial oxidoreductases like NADH dehydrogenase. It facilitates essential electron transfer in the respiratory chain and acts as a cofactor for blue-light photoreceptors, playing a critical role in cellular energy metabolism and mitochondrial function.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Riboflavin metabolism: role in mitochondrial function",
+      "summary": "This review details how riboflavin derivatives like FMN are indispensable for mitochondrial energy production and the maintenance of the electron transport chain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32923315/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Flavin mononucleotide",
+      "summary": "An analysis of FMN as a stronger oxidizing agent than NAD, highlighting its unique ability to participate in both one- and two-electron transfers within cells.",
+      "url": "https://en.wikipedia.org/wiki/Flavin_mononucleotide",
+      "source": "(Wikipedia)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users generally view FMN as a superior, more bioavailable form of Vitamin B2 compared to standard riboflavin, specifically noting its efficacy in supporting mitochondrial health and energy levels."
+  },
+  "effects": [
+    {
+      "label": "Mitochondrial Rescue:",
+      "description": "Highly effective in clinical contexts for treating mitochondrial diseases and ischemia/reperfusion injury."
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Considered more effective for those with riboflavin kinase deficiencies who cannot convert standard B2 efficiently."
+    },
+    {
+      "label": "Fast-Acting:",
+      "description": "Because it does not require the same metabolic conversion steps as riboflavin, it is utilized more rapidly by cells."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Supplement Dose:",
+      "description": "Often found in 'Coenzymated' B-complexes ranging from 10mg to 50mg."
+    },
+    {
+      "label": "Clinical Application:",
+      "description": "Higher therapeutic doses are used in medical settings for corneal cross-linking or specific metabolic disorders."
+    },
+    {
+      "label": "Enhanced RDA:",
+      "description": "Intake often exceeds the standard 1.1-1.3mg RDA when used for targeted mitochondrial support."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Chromaturia:",
+      "description": "Harmless bright yellow or neon-orange discoloration of urine due to excess riboflavin excretion."
+    },
+    {
+      "label": "Digestive Comfort:",
+      "description": "Generally well-tolerated, though high doses may cause mild gastrointestinal upset in sensitive individuals."
+    },
+    {
+      "label": "Rapid Absorption:",
+      "description": "Unlike standard B2, its high solubility can lead to faster but shorter-lived peaks in serum levels if not taken with food."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "Widely available as a dietary supplement often labeled as Riboflavin-5'-Phosphate."
+    },
+    {
+      "label": "FDA Approved:",
+      "description": "Recently approved in specific formulations (Epioxa) for medical use in treating keratoconus as of October 2025."
+    },
+    {
+      "label": "Food Additive:",
+      "description": "Commonly found in European food products under the designation E101a."
+    }
+  ],
+  "related": [
+    {
+      "name": "FAD",
+      "slug": "fad"
+    },
+    {
+      "name": "MITOQ",
+      "slug": "mitoq"
+    },
+    {
+      "name": "NAD+ BOOSTERS (NMN/NR)",
+      "slug": "nad-boosters-nmn-nr"
+    },
+    {
+      "name": "NAD+",
+      "slug": "nad"
+    },
+    {
+      "name": "NADH",
+      "slug": "nadh"
+    }
+  ]
+}

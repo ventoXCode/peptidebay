@@ -1,0 +1,155 @@
+{
+  "slug": "kaempferol",
+  "url": "https://dopamine.club/substances/kaempferol/",
+  "scrapedAt": "2026-02-12T16:08:58.194Z",
+  "title": "KAEMPFEROL",
+  "description": "Kaempferol is a naturally occurring flavonoid polyphenol found abundantly in fruits, vegetables, tea, and traditional medicinal plants. It exhibits multiple biological activities including antioxidant, anti-inflammatory, neuroprotective, and anticancer properties by modulating various cellular signaling pathways, reducing oxidative stress, and promoting mitochondrial health. Primary therapeutic applications include neurodegenerative disease prevention, metabolic health support, and anti-inflammatory effects.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Kaempferol, a widely ingested dietary flavonoid and supplement, enhances biological performance via hormesis, especially for ageing-related processes",
+      "summary": "Kaempferol demonstrates hormetic properties that enhance biological performance, particularly for aging-related processes, supporting its use as a dietary supplement for longevity and healthy aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40287100/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neurodegenerative Diseases and Flavonoids: Special Reference to Kaempferol",
+      "summary": "Kaempferol shows neuroprotective effects in models of Alzheimer's, Parkinson's, and Huntington's disease by scavenging free radicals, preserving antioxidant enzymes, and crossing the blood-brain barrier for enhanced protection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33511932/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kaempferol reduces obesity, prevents intestinal inflammation, and modulates gut microbiota in high-fat diet mice",
+      "summary": "In high-fat diet mice, kaempferol reduced obesity, prevented intestinal inflammation, and positively modulated gut microbiota composition, suggesting metabolic health benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34419569/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kaempferol as a Dietary Anti-Inflammatory Agent: Current Therapeutic Standing",
+      "summary": "Comprehensive review establishing kaempferol as an effective anti-inflammatory agent found in fruits, vegetables, and herbal medicines with high efficacy in both in vivo and in vitro studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32906577/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A review on the dietary flavonoid kaempferol",
+      "summary": "Epidemiological studies show consumption of kaempferol-rich foods associates with reduced risk of cancer and cardiovascular disease, with demonstrated antioxidant, anti-inflammatory, antimicrobial, anticancer, cardioprotective, neuroprotective, and antidiabetic activities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21428901/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kaempferol and Chrysin Synergies to Improve Septic Mice Survival",
+      "summary": "Combination of kaempferol and chrysin showed synergistic effects in improving survival in septic mice by inhibiting proinflammatory mediators including TNF-α, PGE₂, and nitric oxide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28067837/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chemo-preventive and therapeutic effect of the dietary flavonoid kaempferol: A comprehensive review",
+      "summary": "Comprehensive review of kaempferol's chemo-preventive and therapeutic effects across multiple disease states, highlighting its multi-target potential as a dietary supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30402931/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kaempferol, Myricetin and Fisetin in Prostate and Bladder Cancer: A Systematic Review of the Literature",
+      "summary": "Systematic review examining kaempferol's role in prostate and bladder cancer prevention and treatment, supporting dietary flavonoid intake for cancer risk reduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34836005/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users show positive interest in kaempferol for cognitive enhancement and longevity benefits, particularly following AI-driven research showing improvements in Alzheimer's disease models. Discussion focuses on obtaining kaempferol through standardized extracts like Ginkgo Biloba and various food sources, with users seeking quality sources and optimal formulations."
+  },
+  "effects": [
+    {
+      "label": "Aging-Related Processes:",
+      "description": "Shows hormetic effects that enhance biological performance, particularly effective for longevity and healthy aging applications"
+    },
+    {
+      "label": "Disease Prevention:",
+      "description": "Epidemiological evidence links kaempferol-rich food consumption with reduced risk of cancer, cardiovascular disease, and neurodegenerative disorders"
+    },
+    {
+      "label": "Multi-Target Activity:",
+      "description": "Works through multiple mechanisms including antioxidant enzyme preservation, free radical scavenging, and anti-inflammatory pathway modulation"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Demonstrates enhanced effects when combined with other flavonoids like chrysin, suggesting benefit from whole food sources or multi-compound formulations"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Food Sources:",
+      "description": "Found abundantly in tea, broccoli, cabbage, kale, beans, strawberries, grapes, and Ginkgo Biloba extracts"
+    },
+    {
+      "label": "Ginkgo Standardization:",
+      "description": "Available in standardized Ginkgo extracts, though optimal kaempferol content varies between brands (quality brands vs reputable suppliers discussions)"
+    },
+    {
+      "label": "Dietary Intake:",
+      "description": "Best obtained through consuming 9-13 servings of flavonoid-rich fruits and vegetables daily, including fresh, frozen, and processed forms"
+    },
+    {
+      "label": "Extract Considerations:",
+      "description": "Users seek products standardized to specific flavonoid content, with transparency around kaempferol and other glycoside concentrations"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Anxiogenic Effects:",
+      "description": "Some users report feeling stressed when taking kaempferol-rich supplements like apigenin, suggesting individual sensitivity variations"
+    },
+    {
+      "label": "Limited Direct Reports:",
+      "description": "Most research focuses on benefits with minimal adverse effects noted in preclinical studies"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "As a multi-target compound affecting various cellular pathways, potential for interactions with other supplements and medications exists"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Safety profile appears favorable at dietary levels, though concentrated supplement forms may require careful dosing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Food-Based Sources:",
+      "description": "Widely available through common dietary sources including vegetables, fruits, tea, and traditional botanical products"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available in standardized extracts (Ginkgo Biloba, grape seed, pine bark) with varying quality and third-party testing transparency"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users express frustration with brands not providing third-party COAs or clear standardization metrics for kaempferol content"
+    }
+  ],
+  "related": [
+    {
+      "name": "FISETIN",
+      "slug": "fisetin"
+    },
+    {
+      "name": "XANTHOHUMOL",
+      "slug": "xanthohumol"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "oleuropein",
+  "url": "https://dopamine.club/substances/oleuropein/",
+  "scrapedAt": "2026-02-12T16:10:16.058Z",
+  "title": "OLEUROPEIN",
+  "description": "Oleuropein is a polyphenolic compound primarily found in olive leaves and olive oil, representing one of the main bioactive constituents of the Mediterranean diet. It works through multiple mechanisms including antioxidant activity, anti-inflammatory pathways, and modulation of cellular signaling, with documented effects on cardiovascular health, metabolic function, and antimicrobial activity. Upon ingestion, oleuropein is metabolized to hydroxytyrosol, which can cross the blood-brain barrier and exert neuroprotective effects.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "An oleuropein-based dietary supplement may improve joint functional capacity in older people with high knee joint pain: findings from a multicentre-RCT and post hoc analysis",
+      "summary": "A multicentre randomized controlled trial found that oleuropein supplementation improved joint functional capacity in older adults experiencing significant knee pain, suggesting potential benefits for joint health and mobility.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/PMC8777337/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Olive Leaf Extract Supplementation Improves Postmenopausal Symptoms in Women",
+      "summary": "Olive leaf extract supplementation improved postmenopausal symptoms, body composition, handgrip strength and blood lipid profiles in postmenopausal women in a randomized, double-blind study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39599665/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Secoiridoids delivered as olive leaf extract induce acute improvements in human vascular function and reduction of an inflammatory cytokine",
+      "summary": "A randomized, double-blind, placebo-controlled crossover trial demonstrated that olive leaf extract containing secoiridoids improved vascular function and reduced inflammatory cytokines in human subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26051429/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oleuropein Supplementation Increases Resting Skeletal Muscle Fractional Pyruvate Dehydrogenase Activity in Healthy, Older Males",
+      "summary": "A randomized, double-blind, placebo-controlled trial found that oleuropein supplementation increased skeletal muscle pyruvate dehydrogenase activity in older males, though it did not significantly influence whole-body metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39993475/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with olive leaf extract are genuinely split, with some reporting positive effects on mood and wellbeing, while others experience severe gastrointestinal distress. The supplement appears to work well for some users but can cause violent reactions in others, suggesting significant individual variability in tolerance."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness appears highly individual, with some users experiencing significant benefits while others cannot tolerate it at all"
+    },
+    {
+      "label": "Immune Support:",
+      "description": "Commonly used by users seeking immune system enhancement, particularly during illness or preventive health routines"
+    },
+    {
+      "label": "Research-Backed Benefits:",
+      "description": "Clinical trials support specific benefits for joint health, vascular function, and metabolic markers in targeted populations"
+    },
+    {
+      "label": "Underrated Compound:",
+      "description": "Some users and emerging research suggest olive polyphenols may be underrated compared to more popular antioxidants like green tea or resveratrol"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "Commercial supplements typically provide 30mg oleuropein as part of comprehensive health stacks"
+    },
+    {
+      "label": "Typical Product Dosing:",
+      "description": "Users report taking one pill with food as instructed by product guidelines"
+    },
+    {
+      "label": "High-Phenolic Oil Alternative:",
+      "description": "Some users combine standardized supplements with high-phenolic olive oil for reliable, consistent intake"
+    },
+    {
+      "label": "Research Doses:",
+      "description": "Clinical studies have used varying doses depending on application, with specific formulations for joint health and metabolic support"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Severe Gastrointestinal Distress:",
+      "description": "Some users experience violent nausea, vomiting to the point of bringing up bile, and explosive diarrhea"
+    },
+    {
+      "label": "Physical Reactions:",
+      "description": "Reported symptoms include spasms, shaking, hot and cold sensations accompanying gastrointestinal upset"
+    },
+    {
+      "label": "Reproducible Reactions:",
+      "description": "Users who experience severe side effects report identical symptoms upon re-exposure to olive leaf extract"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Many users incorporate it into regular stacks without reporting adverse effects, suggesting tolerance is highly individual"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Olive leaf extract supplements are readily available from multiple commercial sources and health retailers"
+    },
+    {
+      "label": "Various Formulations:",
+      "description": "Available as standalone supplements or as part of comprehensive health stacks, with standardized oleuropein content"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Users seek products with standardized phenolic content and some prefer European sources to avoid customs issues"
+    }
+  ],
+  "related": [
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "GAMMA-TOCOPHEROL",
+      "slug": "gamma-tocopherol"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    },
+    {
+      "name": "RUTIN",
+      "slug": "rutin"
+    },
+    {
+      "name": "TETRAHYDROCURCUMIN",
+      "slug": "tetrahydrocurcumin"
+    }
+  ]
+}

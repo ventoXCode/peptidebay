@@ -1,0 +1,161 @@
+{
+  "slug": "propionyl-l-carnitine",
+  "url": "https://dopamine.club/substances/propionyl-l-carnitine/",
+  "scrapedAt": "2026-02-12T16:10:46.464Z",
+  "title": "PROPIONYL-L-CARNITINE",
+  "description": "Propionyl-L-Carnitine (PLC) is a naturally occurring carnitine derivative that plays a critical role in energy production by facilitating the transport of long-chain fatty acids into mitochondria for oxidation. It also functions as a potent antioxidant and enhances nitric oxide production, making it particularly beneficial for cardiovascular health, peripheral arterial disease, and erectile dysfunction. PLC is formed endogenously and can be obtained through supplementation, typically showing better bioavailability than standard L-carnitine.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A systematic review and meta-analysis of propionyl-L-carnitine for intermittent claudication",
+      "summary": "Meta-analysis found PLC improved maximum walking distance and claudication onset time in patients with peripheral artery disease, though results were inconsistent across trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23321261/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Propionyl-L-carnitine improves exercise performance and functional status in patients with claudication",
+      "summary": "Randomized controlled trial of 155 patients showed PLC significantly improved peak walking time and claudication onset time compared to placebo in patients with disabling claudication.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11382369/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutraceutical interventions for erectile dysfunction: a systematic review and network meta-analysis",
+      "summary": "Network meta-analysis found propionyl-L-carnitine combined with L-arginine and niacin showed significant efficacy in improving erectile function in men with ED.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39279185/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Propionyl-L-carnitine, L-arginine and niacin in sexual medicine: a nutraceutical approach to erectile dysfunction",
+      "summary": "Single-blind study of 54 men found 3-month supplementation with PLC, L-arginine, and niacin improved erectile function scores, with 40% experiencing improved erections and 77% showing partial response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21966881/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Propionyl-L-carnitine corrects metabolic and cardiovascular alterations in diet-induced obese mice",
+      "summary": "Animal study demonstrated PLC supplementation completely prevented weight gain in high-fat diet mice while improving glucose tolerance, lipid profiles, and cardiovascular function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22457831/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glycine propionyl-L-carnitine modulates lipid peroxidation and nitric oxide in human subjects",
+      "summary": "Eight-week study found GPLC decreased lipid peroxidation and increased nitric oxide levels in human subjects, with 3g daily showing significant effects on both markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20209464/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glycine propionyl-L-carnitine increases plasma nitrate/nitrite in resistance trained men",
+      "summary": "Double-blind crossover study showed 4 weeks of GPLC supplementation significantly increased plasma nitric oxide markers in resistance-trained men compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18053183/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-carnitine and propionyl-L-carnitine improve endothelial dysfunction in spontaneously hypertensive rats",
+      "summary": "Animal research found both L-carnitine and PLC improved endothelial function in hypertensive rats through different mechanisms involving nitric oxide and COX products.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15958269/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral supplementation of propionyl-L-carnitine reduces body weight and hyperinsulinemia in obese Zucker rats",
+      "summary": "20-week supplementation study found PLC reduced body weight, improved insulin sensitivity, and corrected endothelial dysfunction in genetically obese rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19545458/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with PLC, particularly for erectile function and cardiovascular benefits when combined with L-arginine and niacin. Studies consistently show effectiveness for peripheral arterial disease and sexual health, though standalone exercise performance benefits appear inconsistent."
+  },
+  "effects": [
+    {
+      "label": "Erectile Dysfunction:",
+      "description": "Strong evidence from meta-analyses and clinical trials showing 40-77% response rates when combined with complementary supplements"
+    },
+    {
+      "label": "Peripheral Arterial Disease:",
+      "description": "Consistently improves walking distance and claudication symptoms across multiple trials, though effect sizes vary"
+    },
+    {
+      "label": "Exercise Performance:",
+      "description": "Mixed results for standalone use; more effective when combined with other carnitine forms or in specific populations"
+    },
+    {
+      "label": "Cardiovascular Health:",
+      "description": "Well-established benefits for endothelial function, blood flow, and metabolic markers in both healthy and diseased populations"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "2g daily of PLC is the most commonly studied dose for erectile dysfunction and cardiovascular benefits"
+    },
+    {
+      "label": "GPLC Protocol:",
+      "description": "1-3g daily of glycine propionyl-L-carnitine, with 3g showing stronger effects on nitric oxide production"
+    },
+    {
+      "label": "Combination Stack:",
+      "description": "2g PLC + 2g acetyl-L-carnitine commonly used for sexual health applications based on clinical trials"
+    },
+    {
+      "label": "Long-term Use:",
+      "description": "Studies support safety of 200mg/kg daily for extended periods (up to 20 weeks studied in animals)"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Occasional reports of GI upset, though generally well-tolerated compared to other carnitine forms"
+    },
+    {
+      "label": "Fishy Odor:",
+      "description": "Some users report breath, sweat, or urine odor, particularly at higher doses"
+    },
+    {
+      "label": "TMAO Concerns:",
+      "description": "Theoretical concern about carnitine raising TMAO levels, though specific data for PLC is limited"
+    },
+    {
+      "label": "Individual Tolerance:",
+      "description": "Some users report inability to tolerate doses above 500mg, though most studies use 1-3g without significant issues"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Available as both dietary supplement and prescription medication depending on formulation and country"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users recommend purchasing from reputable sources like LifeExtension; Sigma Tau discontinued GPLC production requiring alternative sources"
+    },
+    {
+      "label": "Cost Factor:",
+      "description": "Generally more expensive than standard L-carnitine; combination products with L-arginine and niacin available from multiple manufacturers"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "D-RIBOSE",
+      "slug": "d-ribose"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

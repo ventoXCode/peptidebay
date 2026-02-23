@@ -1,0 +1,317 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import substances from '../../../data/substances.json';
+import { getCollection } from 'astro:content';
+
+// Get all substance slugs for static paths
+export function getStaticPaths() {
+  return substances.map(substance => ({
+    params: { slug: substance.slug },
+    props: { substance }
+  }));
+}
+
+const { substance } = Astro.props;
+
+// Check if we have detailed data for this substance
+let details = null;
+try {
+  details = await import(`../../../data/substances/${substance.slug}.json`);
+} catch {
+  // Details not scraped yet, use basic data
+}
+
+// Category colors
+const categoryColors: Record<string, string> = {
+  'Peptide': '#00ff9d',
+  'Supplement': '#ffb700',
+  'Nootropic': '#00d4ff',
+  'SARM': '#e6ff00',
+  'Adaptogen': '#a855f7',
+  'GLP': '#ff0080',
+  'Racetam': '#ff6b00',
+  'Medicine': '#ff2d2d',
+  'Herb': '#22c55e',
+  'GH': '#67e8f9',
+  'Amino Acid': '#22c55e',
+};
+
+const primaryCategory = substance.categories[0] || 'Unknown';
+const categoryColor = categoryColors[primaryCategory] || '#6d6d6d';
+
+// Generate symbol
+function getSymbol(name: string): string {
+  const cleanName = name.toUpperCase().replace(/[^A-Z0-9]/g, '');
+  return cleanName.slice(0, 3);
+}
+---
+
+<BaseLayout 
+  title={substance.title} 
+  description={details?.description || `Research information for ${substance.title} - dosing, effects, studies, and user experiences.`}
+>
+
+<!-- Breadcrumb -->
+<nav class="bg-industrial-900/50 border-b border-industrial-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+    <ol class="flex items-center gap-2 text-sm">
+      <li><a href="/" class="text-industrial-400 hover:text-chem-green transition-colors">Home</a></li>
+      <li class="text-industrial-600">/</li>
+      <li><a href="/database" class="text-industrial-400 hover:text-chem-green transition-colors">The Lab</a></li>
+      <li class="text-industrial-600">/</li>
+      <li class="text-industrial-600">/</li>
+      <li><a href={`/database?category=${primaryCategory.toLowerCase()}`} class="text-industrial-400 hover:text-chem-green transition-colors">{primaryCategory}</a></li>
+      <li class="text-industrial-600">/</li>
+      <li class="text-chem-green font-medium">{substance.title}</li>
+    </ol>
+  </div>
+</nav>
+
+<article class="py-8 lg:py-12">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    
+    <!-- Header Section -->
+    <header class="mb-12">
+      <div class="flex flex-col lg:flex-row gap-8 items-start">
+        <!-- Element Card Style Header -->
+        <div class="element-card p-6 text-center min-w-[160px]">
+          <div class="text-xs font-mono text-industrial-400 mb-1">{String(substance.categories.length).padStart(2, '0')}</div>
+          <div class="text-5xl font-substance font-bold text-chem-green text-glow-green mb-2">
+            {getSymbol(substance.title)}
+          </div>
+          <div class="text-lg font-heading text-industrial-100">{substance.title}</div>
+          <div class="mt-3 flex flex-wrap justify-center gap-1">
+            {substance.categories.map(cat => (
+              <span 
+                class="px-2 py-0.5 text-xs font-mono uppercase whitespace-nowrap"
+                style={`background: ${categoryColors[cat] || '#3d3d3d'}20; color: ${categoryColors[cat] || '#9d9d9d'}; border-left: 2px solid ${categoryColors[cat] || '#3d3d3d'};`}
+              >
+                {cat}
+              </span>
+            ))}
+          </div>
+        </div>
+        
+        <div class="flex-1">
+          <h1 class="font-heading text-3xl sm:text-4xl lg:text-5xl font-bold text-industrial-100 mb-4">
+            <span class="text-chem-green">{substance.title}</span>
+          </h1>
+          
+          {details?.description && (
+            <p class="text-lg text-industrial-300 leading-relaxed mb-6">
+              {details.description}
+            </p>
+          )}
+          
+          {details?.sentiment && (
+            <div class="industrial-panel p-4 flex flex-col sm:flex-row sm:items-center gap-4">
+              <div>
+                <div class="text-xs text-industrial-400 font-mono uppercase mb-1">Purity Rating</div>
+                <div class="flex items-center gap-2">
+                  <span class="text-2xl font-heading font-bold text-chem-green">{details.sentiment.positive}%</span>
+                  <span class="text-sm text-industrial-400">Positive</span>
+                </div>
+              </div>
+              <div class="led-meter flex-1 min-w-[100px]">
+                <div 
+                  class="led-meter-fill bg-chem-green" 
+                  style={`width: ${details.sentiment.positive}%`}
+                ></div>
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+    </header>
+
+    {details ? (
+      <>
+        <!-- Research Section -->
+        {details.research && details.research.length > 0 && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-industrial-100 mb-6">
+              <span class="text-chem-green">Lab Notes</span> — Research Studies
+            </h2>
+            
+            <div class="space-y-3">
+              {details.research.map((study, index) => (
+                <details class="accordion-lab">
+                  <summary class="flex items-center gap-4">
+                    <span class="font-handwritten text-lg text-chem-green w-8">{String(index + 1).padStart(2, '0')}</span>
+                    <span class="flex-1 text-industrial-200">{study.title}</span>
+                  </summary>
+                  <div class="p-4 pt-0 border-t border-industrial-700 mt-2">
+                    <p class="text-industrial-400 text-sm mb-4">{study.summary}</p>
+                    {study.url && (
+                      <a 
+                        href={study.url} 
+                        target="_blank" 
+                        rel="noopener"
+                        class="inline-flex items-center gap-2 text-chem-green hover:text-chem-green-dark transition-colors text-sm"
+                      >
+                        <span>View Study</span>
+                        {study.source && <span class="text-industrial-500">({study.source})</span>}
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
+                        </svg>
+                      </a>
+                    )}
+                  </div>
+                </details>
+              ))}
+            </div>
+          </section>
+        )}
+
+        <!-- Insights Grid -->
+        <section class="mb-12">
+          <h2 class="font-heading text-2xl font-bold text-industrial-100 mb-6">
+            <span class="text-chem-green">Formula</span> — Benefits & Dosage
+          </h2>
+          
+          <div class="grid md:grid-cols-2 gap-6">
+            {/* Effects */}
+            {details.effects && details.effects.length > 0 && (
+              <div class="industrial-panel">
+                <h3 class="font-heading font-semibold text-chem-green mb-4 pb-2 border-b border-industrial-700">
+                  ⚗️ Effects
+                </h3>
+                <ul class="space-y-3">
+                  {details.effects.map(item => (
+                    <li class="text-sm">
+                      <span class="font-semibold text-industrial-200">{item.label}</span>
+                      <span class="text-industrial-400">{item.description}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            {/* Dosage */}
+            {details.dosage && details.dosage.length > 0 && (
+              <div class="industrial-panel">
+                <h3 class="font-heading font-semibold text-chem-cyan mb-4 pb-2 border-b border-industrial-700">
+                  💉 Dosage & Administration
+                </h3>
+                <ul class="space-y-3">
+                  {details.dosage.map(item => (
+                    <li class="text-sm">
+                      <span class="font-semibold text-industrial-200">{item.label}</span>
+                      <span class="text-industrial-400">{item.description}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            {/* Side Effects */}
+            {details.sideEffects && details.sideEffects.length > 0 && (
+              <div class="industrial-panel border-l-4 border-l-chem-amber">
+                <h3 class="font-heading font-semibold text-chem-amber mb-4 pb-2 border-b border-industrial-700">
+                  ⚠️ Side Effects
+                </h3>
+                <ul class="space-y-3">
+                  {details.sideEffects.map(item => (
+                    <li class="text-sm">
+                      <span class="font-semibold text-industrial-200">{item.label}</span>
+                      <span class="text-industrial-400">{item.description}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            {/* Availability */}
+            {details.availability && details.availability.length > 0 && (
+              <div class="industrial-panel">
+                <h3 class="font-heading font-semibold text-industrial-300 mb-4 pb-2 border-b border-industrial-700">
+                  📦 Availability & Sourcing
+                </h3>
+                <ul class="space-y-3">
+                  {details.availability.map(item => (
+                    <li class="text-sm">
+                      <span class="font-semibold text-industrial-200">{item.label}</span>
+                      <span class="text-industrial-400">{item.description}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+        </section>
+
+        {/* Sentiment Summary */}
+        {details.sentiment?.summary && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-industrial-100 mb-6">
+              <span class="text-chem-green">Reaction Log</span> — User Experiences
+            </h2>
+            <div class="industrial-panel">
+              <p class="text-industrial-300">{details.sentiment.summary}</p>
+            </div>
+          </section>
+        )}
+
+        {/* Related Compounds */}
+        {details.related && details.related.length > 0 && (
+          <section class="mb-12">
+            <h2 class="font-heading text-2xl font-bold text-industrial-100 mb-6">
+              <span class="text-chem-green">Synthesis</span> — Related Compounds
+            </h2>
+            <div class="flex flex-wrap gap-3">
+              {details.related.map(rel => (
+                <a 
+                  href={`/substances/${rel.slug}`}
+                  class="btn-lab py-2 px-4 text-sm inline-flex items-center gap-2"
+                >
+                  {rel.name}
+                  <span class="text-chem-green">→</span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+      </>
+    ) : (
+      <!-- No detailed data yet -->
+      <section class="mb-12">
+        <div class="industrial-panel p-8 text-center">
+          <div class="text-4xl mb-4">🧪</div>
+          <h2 class="font-heading text-xl text-industrial-200 mb-2">Detailed Profile Pending</h2>
+          <p class="text-industrial-400 mb-6">
+            Full research data for {substance.title} is being processed. Check back soon for:
+          </p>
+          <ul class="text-left max-w-md mx-auto space-y-2 text-industrial-400">
+            <li class="flex items-center gap-2">
+              <span class="text-chem-green">•</span> Research studies and citations
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="text-chem-green">•</span> Dosage protocols
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="text-chem-green">•</span> Effects and side effects
+            </li>
+            <li class="flex items-center gap-2">
+              <span class="text-chem-green">•</span> User experiences
+            </li>
+          </ul>
+        </div>
+      </section>
+    )}
+
+    <!-- Disclaimer -->
+    <section class="mt-12">
+      <div class="industrial-panel border-l-4 border-l-chem-red p-4">
+        <h3 class="font-heading font-bold text-chem-red mb-2">⚠️ IMPORTANT DISCLAIMER</h3>
+        <p class="text-sm text-industrial-400 leading-relaxed">
+          This information is for educational and research purposes only. {substance.title} may not be approved for human use. 
+          Always consult a qualified healthcare professional before using any supplements or research compounds. 
+          We do not guarantee accuracy or completeness of information presented.
+        </p>
+      </div>
+    </section>
+
+  </div>
+</article>
+
+</BaseLayout>

@@ -1,0 +1,155 @@
+{
+  "slug": "nac",
+  "url": "https://dopamine.club/substances/nac/",
+  "scrapedAt": "2026-02-12T16:09:49.264Z",
+  "title": "NAC",
+  "description": "N-Acetylcysteine (NAC) is a derivative of the amino acid L-cysteine that serves as a precursor to glutathione, the body's master antioxidant. It works by replenishing intracellular glutathione stores, reducing oxidative stress, modulating glutamate neurotransmission, and supporting mitochondrial function. NAC is used medically for acetaminophen overdose and respiratory conditions, while being investigated for mental health disorders, aging-related decline, and metabolic conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Supplementing Glycine and N-Acetylcysteine (GlyNAC) in Older Adults Improves Glutathione Deficiency, Oxidative Stress, Mitochondrial Dysfunction, Inflammation, Physical Function, and Aging Hallmarks: A Randomized Clinical Trial",
+      "summary": "GlyNAC supplementation in older adults improved glutathione deficiency, oxidative stress, mitochondrial dysfunction, inflammation, insulin resistance, and physical function, demonstrating significant benefits for aging-related decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35975308/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glycine and N-acetylcysteine (GlyNAC) supplementation in older adults improves glutathione deficiency, oxidative stress, mitochondrial dysfunction, inflammation, insulin resistance, endothelial dysfunction, genotoxicity, muscle strength, and cognition: Results of a pilot clinical trial",
+      "summary": "GlyNAC supplementation improved multiple aging hallmarks including cognition, muscle strength, and endothelial function in older adults, with effects appearing within weeks of treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33783984/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Medical and Dietary Uses of N-Acetylcysteine",
+      "summary": "NAC has been used medically since the 1960s for acetaminophen poisoning and respiratory conditions, with emerging evidence for psychiatric disorders, oxidative stress-related conditions, and as a general antioxidant supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31035402/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "N-Acetylcysteine (NAC) for Trichotillomania and Excoriation Disorder: An Overview",
+      "summary": "NAC shows therapeutic potential for trichotillomania and skin-picking disorders by maintaining glutamate homeostasis in the brain, thereby reducing compulsive and habitual behaviors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40359441/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "N-acetylcysteine supplementation improves endocrine-metabolism profiles and ovulation induction efficacy in polycystic ovary syndrome",
+      "summary": "NAC supplementation improved endocrine-metabolic parameters and ovulation induction outcomes in women with PCOS, demonstrating benefits as an antioxidant and insulin sensitizer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39415242/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The impact of N-acetylcysteine on lactate, biomarkers of oxidative stress, immune response, and muscle damage: A systematic review and meta-analysis",
+      "summary": "NAC supplementation significantly reduces muscle soreness and oxidative stress markers after exercise, though effects on inflammation and other biomarkers vary.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39632267/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce",
+      "summary": "International clinical guidelines include NAC among nutraceuticals with evidence for treating certain psychiatric disorders, particularly those involving oxidative stress and glutamate dysregulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35311615/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparison of the efficacy between NAC and metformin in treating PCOS patients: a meta-analysis",
+      "summary": "NAC significantly reduced BMI and testosterone levels in PCOS patients and may be considered an alternative to metformin, though more research is needed on pregnancy outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31749393/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User sentiment is genuinely mixed with strong positive experiences for addiction reduction, OCD symptoms, and respiratory health, but significant negative reports of anhedonia, depression, anxiety worsening, and sulfur-related side effects in genetically susceptible individuals."
+  },
+  "effects": [
+    {
+      "label": "Response Variability:",
+      "description": "Effectiveness appears highly dependent on individual genetics, particularly MTHFR, CBS mutations, and sulfur processing pathways - what works dramatically for some causes severe problems for others"
+    },
+    {
+      "label": "Timing of Benefits:",
+      "description": "Positive effects often reported within 1-2 weeks for addiction/compulsion reduction, though some users report initial detox-like symptoms before improvement"
+    },
+    {
+      "label": "Long-term Use Concerns:",
+      "description": "Some users report diminishing effects after 3 months or development of tolerance, while others maintain benefits with continued use"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Often more effective when combined with glycine (as GlyNAC) for anti-aging benefits, though standalone use shows strong effects for specific conditions like compulsive behaviors"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "600-1200mg once or twice daily is most commonly reported, with many users taking 1800-2400mg total per day split into doses"
+    },
+    {
+      "label": "Addiction Protocol:",
+      "description": "1000-1200mg daily reported effective for reducing substance cravings and compulsive behaviors"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "Some users cycle NAC (every other day or periodic breaks) to prevent anhedonia or maintain effectiveness"
+    },
+    {
+      "label": "GlyNAC Protocol:",
+      "description": "When combined with glycine for anti-aging, doses of 1200mg NAC twice daily with 4g glycine are commonly referenced from research studies"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Anhedonia/Emotional Blunting:",
+      "description": "Commonly reported reduction in enjoyment of food, sex, and activities - often dose-dependent and may require cycling or discontinuation"
+    },
+    {
+      "label": "Sulfur-Related Issues:",
+      "description": "Fatigue, brain fog, digestive upset, and worsened anxiety in individuals with sulfur metabolism issues or CBS/MTHFR mutations"
+    },
+    {
+      "label": "Histamine Reactions:",
+      "description": "Some users report decreased DAO enzyme activity leading to histamine intolerance symptoms"
+    },
+    {
+      "label": "Mineral Depletion:",
+      "description": "NAC chelates minerals, particularly copper and zinc, requiring attention to trace mineral supplementation with long-term use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Regulatory Status:",
+      "description": "Previously removed from major retailers due to FDA classification as a drug (approved 1963), but still widely available from other retailers and supplement companies"
+    },
+    {
+      "label": "Brand Recommendations:",
+      "description": "Users frequently mention brands like Double Wood, quality brands, quality brands, and quality brands as reliable sources"
+    },
+    {
+      "label": "Cost:",
+      "description": "Generally inexpensive supplement, with bulk powder being most cost-effective option at approximately $0.03 per 600mg dose when self-encapsulated"
+    }
+  ],
+  "related": [
+    {
+      "name": "N-ACETYL EPITALON",
+      "slug": "n-acetyl-epitalon"
+    },
+    {
+      "name": "N-ACETYL SELANK",
+      "slug": "n-acetyl-selank"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

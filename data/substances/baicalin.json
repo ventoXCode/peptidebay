@@ -1,0 +1,155 @@
+{
+  "slug": "baicalin",
+  "url": "https://dopamine.club/substances/baicalin/",
+  "scrapedAt": "2026-02-12T16:06:01.752Z",
+  "title": "BAICALIN",
+  "description": "Baicalin is a flavonoid compound extracted from the roots of Scutellaria baicalensis (Chinese skullcap), traditionally used in Chinese medicine. It works primarily through anti-inflammatory, antioxidant, and GABAergic mechanisms, modulating various cellular pathways including NF-κB, Wnt/β-catenin signaling, and GABA-A receptors. Research shows applications in treating chronic venous insufficiency, lung diseases, liver conditions, anxiety, and inflammatory disorders.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Pharmacological Efficacy of Baicalin in Inflammatory Diseases",
+      "summary": "Comprehensive review demonstrating baicalin's effectiveness in reducing inflammation through multiple pathways, with particular benefits for various inflammatory conditions and immune modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37298268/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Baicalin reduces blood lipids and inflammation in patients with coronary artery disease and rheumatoid arthritis: a randomized, double-blind, placebo-controlled trial",
+      "summary": "Clinical trial of 374 patients found baicalin significantly reduced triglycerides, cholesterol, inflammatory markers (hs-CRP, CT-1), and improved EULAR response compared to placebo over 12 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29929508/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological effects of baicalin in lung diseases",
+      "summary": "Review summarizing baicalin's therapeutic benefits for COPD, asthma, pulmonary fibrosis, infections, and lung cancer through antioxidant, anti-inflammatory, immunomodulatory, and antiviral mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37168996/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of a Dietary Supplement Composed of Baicalin, Bromelain and Escin for Venous Chronic Insufficiency Treatment",
+      "summary": "Retrospective study showed a combination supplement containing baicalin improved symptoms and Venous Clinical Severity Score in patients with chronic venous insufficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38931445/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Short-term feeding of baicalin inhibits age-associated NF-kappaB activation",
+      "summary": "Animal study demonstrated baicalin effectively suppressed age-related NF-κB activation and reduced expression of inflammatory genes (iNOS, COX-2, HO-1) in kidney tissue of old rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16766019/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Baicalin, a flavone, induces the differentiation of cultured osteoblasts: an action via the Wnt/beta-catenin signaling pathway",
+      "summary": "In vitro research found baicalin significantly increased osteoblastic mineralization and bone differentiation markers through activation of the Wnt/β-catenin pathway, independent of estrogenic activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21652696/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Baicalin Attenuates Oxidative Stress in a Tissue-Engineered Liver Model of NAFLD by Scavenging Reactive Oxygen Species",
+      "summary": "Study demonstrated baicalin's protective effects against non-alcoholic fatty liver disease by reducing oxidative stress and scavenging reactive oxygen species in liver tissue models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35276900/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Study of the Effect of Baicalin from Scutellaria baicalensis on the Gastrointestinal Tract Normoflora and Helicobacter pylori",
+      "summary": "Research evaluated baicalin's antimicrobial properties against H. pylori while preserving beneficial gut bacteria, suggesting potential for targeted gastrointestinal applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37569279/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with baicalin, particularly for anxiety reduction and stress management. Most describe it as effective without sedation, with few reporting side effects, though some note it works better when combined with other supplements."
+  },
+  "effects": [
+    {
+      "label": "Anxiety Relief:",
+      "description": "Consistently effective for general and social anxiety across user reports, often compared favorably to pharmaceutical options like benzodiazepines"
+    },
+    {
+      "label": "Onset and Duration:",
+      "description": "Effects typically noticed within 30-60 minutes when taken as tincture or extract, with sustained benefits throughout the day"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Works well for most users, though effectiveness may vary; some find it more effective when combined with other GABAergic supplements"
+    },
+    {
+      "label": "Non-tolerance:",
+      "description": "Users report maintained effectiveness with regular use, though some prefer cycling or taking breaks on weekends to optimize benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "400-500mg taken 1-2 times daily is most commonly reported, with flexibility for as-needed use"
+    },
+    {
+      "label": "Timing:",
+      "description": "Can be taken morning and/or evening; morning dose for daytime anxiety, evening dose for relaxation and sleep support"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Tinctures and extracts may provide faster onset and more noticeable effects compared to capsules or powder"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users report success with 5 days on/2 days off protocols or taking as needed rather than daily to maintain effectiveness"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reports:",
+      "description": "Very few users report negative side effects, with most describing baicalin as well-tolerated"
+    },
+    {
+      "label": "No Sedation:",
+      "description": "Unlike many anxiolytics, users specifically note lack of drowsiness or cognitive impairment during the day"
+    },
+    {
+      "label": "Combination Caution:",
+      "description": "When stacked with multiple GABAergic supplements, some users experienced mild fatigue or overstimulation"
+    },
+    {
+      "label": "Hair Concerns:",
+      "description": "One isolated report questioned potential effects on hair graying, though this is not a widely reported concern"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Status:",
+      "description": "Widely available as an over-the-counter supplement in various forms including capsules, tinctures, and extracts"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Users recommend standardized extracts and reputable brands; effectiveness may vary significantly between sources"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Fully legal and accessible in most countries as a dietary supplement derived from traditional Chinese medicine"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "ELEUTHERO",
+      "slug": "eleuthero"
+    },
+    {
+      "name": "GRAPE SEED EXTRACT",
+      "slug": "grape-seed-extract"
+    },
+    {
+      "name": "HAWTHORN",
+      "slug": "hawthorn"
+    }
+  ]
+}

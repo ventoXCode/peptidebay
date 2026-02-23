@@ -1,0 +1,110 @@
+{
+  "slug": "chaga-mushroom",
+  "url": "https://dopamine.club/substances/chaga-mushroom/",
+  "scrapedAt": "2026-02-12T16:06:31.232Z",
+  "title": "CHAGA MUSHROOM",
+  "description": "Chaga (Inonotus obliquus) is a medicinal fungus that grows primarily on birch trees in cold climates, characterized by its charcoal-like sclerotium. It contains high concentrations of bioactive polysaccharides, triterpenoids, and melanins that act as potent antioxidants and immunomodulators. Historically used in folk medicine, it is primarily utilized today to support immune function, reduce systemic inflammation, and provide adaptogenic support against oxidative stress.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Therapeutic properties of Inonotus obliquus (Chaga mushroom): A review",
+      "summary": "A comprehensive review highlighting Chaga's secondary metabolites, such as steroids and terpenoids, which contribute to its antioxidant, anti-inflammatory, and antitumor properties",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38813471/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chemical characterization and biological activity of Chaga (Inonotus obliquus), a medicinal mushroom",
+      "summary": "Research demonstrating that Chaga extracts possess significant biological activity, particularly as an antioxidant and anti-inflammatory agent",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25576897/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A brief overview of the medicinal and nutraceutical importance of Inonotus obliquus (chaga) mushrooms",
+      "summary": "An analysis of Chaga’s nutraceutical value, focusing on its potential in managing diabetes and various cancer types through its unique mycochemical composition",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39170453/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally view Chaga as a foundational wellness supplement, frequently including it in mushroom complexes for general vitality and long-term recovery without reporting the heavy 'jitters' associated with caffeine."
+  },
+  "effects": [
+    {
+      "label": "Chronic Fatigue:",
+      "description": "Users suffering from Long Covid and general exhaustion report noticeable improvements when stacking Chaga with other medicinal mushrooms."
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Chaga is often cited as most effective when combined with Lion's Mane or Cordyceps rather than as a standalone 'miracle' cure."
+    },
+    {
+      "label": "Metabolic Support:",
+      "description": "Scientific evidence suggests efficacy in lowering blood glucose and improving insulin sensitivity."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Mushroom Complexes:",
+      "description": "Users frequently consume Chaga as part of a 500mg - 2000mg daily blend containing multiple fungi species."
+    },
+    {
+      "label": "Dual-Extract Tinctures:",
+      "description": "Preferred for bioavailability, as many active triterpenes are not water-soluble."
+    },
+    {
+      "label": "Tea/Coffee Replacement:",
+      "description": "Commonly consumed as 1-2 teaspoons of ground powder steeped in hot water."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Oxalate Risk:",
+      "description": "High concentrations of oxalates mean individuals with kidney issues should consume with caution to avoid kidney stones."
+    },
+    {
+      "label": "Hypoglycemia:",
+      "description": "Due to its insulin-sensitizing effects, it may cause blood sugar to drop too low in diabetic patients on medication."
+    },
+    {
+      "label": "Blood Thinning:",
+      "description": "May have mild anticoagulant effects, requiring caution before surgery or with blood-thinning drugs."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Supplement:",
+      "description": "Widely available in the US and Europe as a legal over-the-counter dietary supplement in powder, capsule, and tea forms."
+    },
+    {
+      "label": "Wild vs. Cultivated:",
+      "description": "Traditionalists prefer wild-harvested Chaga from birch trees, as cultivated varieties often lack the high levels of betulinic acid derived from the host tree."
+    }
+  ],
+  "related": [
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    },
+    {
+      "name": "CHLORELLA",
+      "slug": "chlorella"
+    },
+    {
+      "name": "CISTANCHE",
+      "slug": "cistanche"
+    },
+    {
+      "name": "ECHINACEA",
+      "slug": "echinacea"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "chondroitin",
+  "url": "https://dopamine.club/substances/chondroitin/",
+  "scrapedAt": "2026-02-12T16:06:42.936Z",
+  "title": "CHONDROITIN",
+  "description": "Chondroitin is a naturally occurring glycosaminoglycan found in the connective tissues of humans and animals, particularly in joint cartilage. It works by inhibiting enzymes that degrade cartilage, promoting water retention within the joint matrix for cushioning, and possessing anti-inflammatory properties used primarily to manage osteoarthritis symptoms.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pharmaceutical-grade Chondroitin sulfate is as effective as celecoxib and superior to placebo in symptomatic knee osteoarthritis: the ChONdroitin versus CElecoxib versus Placebo Trial (CONCEPT)",
+      "summary": "This trial demonstrated that 800mg of pharmaceutical-grade Chondroitin is as effective as the NSAID celecoxib in reducing pain and improving function in patients with knee osteoarthritis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28533290/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chondroitin for osteoarthritis",
+      "summary": "A meta-analysis of 43 studies found that Chondroitin improves pain levels by approximately 10% compared to placebo and may slightly slow the narrowing of joint space in the long term.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25629430/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chondroitin Sulfate Supplements for Osteoarthritis: A Critical Review",
+      "summary": "A 2023 review highlights Chondroitin's role as a slow-acting drug that reduces joint pain and function loss while potentially acting as a disease-modifying agent.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37431333/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users often report significant relief for chronic joint pain and stiffness, though many note that it requires months of consistent use and its effectiveness varies greatly between individuals."
+  },
+  "effects": [
+    {
+      "label": "Slow Onset:",
+      "description": "Unlike ibuprofen, Chondroitin typically takes 4-12 weeks of consistent daily use before users notice tangible benefits."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Users and researchers frequently suggest that combining it with Glucosamine or MSM provides superior results than taking it alone."
+    },
+    {
+      "label": "Grade Matters:",
+      "description": "Clinical evidence suggests 'pharmaceutical-grade' supplements are significantly more effective than lower-quality over-the-counter versions."
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly dependent on the severity of joint degradation; it is more effective for early-to-moderate osteoarthritis than 'bone-on-bone' cases."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Therapeutic Dose:",
+      "description": "800mg to 1,200mg daily is the most common range used in clinical trials for symptomatic relief."
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Some users prefer taking 400-600mg twice daily to maintain steady levels and minimize potential digestive upset."
+    },
+    {
+      "label": "Long-term Maintenance:",
+      "description": "Many users transition to a lower 'maintenance' dose once initial pain relief is achieved after several months."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Upset:",
+      "description": "Mild bloating, gas, or nausea reported by some users, especially when taken on an empty stomach."
+    },
+    {
+      "label": "Sleep Interference:",
+      "description": "A small subset of users report difficulty falling asleep when taking 'Joint Support' stacks late in the day."
+    },
+    {
+      "label": "Shellfish Allergy Risks:",
+      "description": "Though often derived from bovine sources, some versions are sourced from shark or shellfish, posing risks to allergic individuals."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Regulatory Status:",
+      "description": "Sold as a prescription drug (SYSADOA) in many European countries but regulated only as a dietary supplement in the US."
+    },
+    {
+      "label": "Source Variation:",
+      "description": "Commercial products vary widely in purity, often containing significantly less Chondroitin than stated on the label."
+    }
+  ],
+  "related": [
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "GAMMA-TOCOPHEROL",
+      "slug": "gamma-tocopherol"
+    },
+    {
+      "name": "GLUCOSAMINE",
+      "slug": "glucosamine"
+    },
+    {
+      "name": "OLEUROPEIN",
+      "slug": "oleuropein"
+    },
+    {
+      "name": "R-ALPHA LIPOIC ACID",
+      "slug": "r-alpha-lipoic-acid"
+    }
+  ]
+}

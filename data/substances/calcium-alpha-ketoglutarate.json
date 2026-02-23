@@ -1,0 +1,119 @@
+{
+  "slug": "calcium-alpha-ketoglutarate",
+  "url": "https://dopamine.club/substances/calcium-alpha-ketoglutarate/",
+  "scrapedAt": "2026-02-12T16:06:19.840Z",
+  "title": "CALCIUM ALPHA-KETOGLUTARATE",
+  "description": "Calcium Alpha-Ketoglutarate (Ca-AKG) is a stable salt of alpha-ketoglutarate, a key intermediate in the Krebs cycle that facilitates cellular energy production and amino acid metabolism. It acts as a signaling molecule to regulate epigenetic aging processes and nitrogen balance, making it a primary compound in longevity research for extending healthspan.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Recruitment evaluation of a gerotherapeutic randomized controlled trial testing alpha-ketoglutarate in biologically older, middle-aged adults (ABLE)",
+      "summary": "This clinical trial investigated the potential for Ca-AKG to act as a geroprotector in middle-aged adults by targeting molecular aging processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40819772/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Calcium alpha-ketoglutarate administration to malnourished hemodialysis patients improves plasma arginine concentrations",
+      "summary": "One year of Ca-AKG supplementation significantly increased levels of essential amino acids like L-arginine and improved protein metabolism biomarkers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8676801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Long-term treatment with calcium-alpha-ketoglutarate corrects secondary hyperparathyroidism",
+      "summary": "A 36-month study found that Ca-AKG effectively binds phosphate and normalizes parathyroid hormone levels in patients with metabolic bone issues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8676818/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-ketoglutarate application in hemodialysis patients improves amino acid metabolism",
+      "summary": "Administration of alpha-ketoglutarate alongside calcium binders helped decrease urea and improve levels of branched-chain ketoacids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8893139/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users and longevity enthusiasts generally view Ca-AKG as a elite performance and anti-aging supplement, frequently citing its inclusion in record-breaking rejuvenation protocols."
+  },
+  "effects": [
+    {
+      "label": "Healthspan Extension:",
+      "description": "Research in models suggests a roughly 50% extension in healthspan by delaying the onset of frailty."
+    },
+    {
+      "label": "Amino Acid Synthesis:",
+      "description": "Highly effective at raising plasma concentrations of glutamate and arginine in malnourished populations."
+    },
+    {
+      "label": "Epigenetic Stability:",
+      "description": "Clinical observation showed an average 8-year reduction in biological age over 7 months of use."
+    },
+    {
+      "label": "Wound Healing:",
+      "description": "Used in clinical contexts to improve outcomes for pressure ulcers and skin integrity."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Longevity Protocol:",
+      "description": "1,000 mg (1 gram) per day is the standard dose used in biological age reversal studies."
+    },
+    {
+      "label": "Clinical Phosphate Binding:",
+      "description": "Higher doses up to 4.5 grams per day have been used under medical supervision for kidney-related hyperphosphatemia."
+    },
+    {
+      "label": "Arginine Support:",
+      "description": "3.6 grams of AKG (as Ca-AKG) is used to significantly modulate plasma amino acid profiles."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Some users mention minor gut discomfort if taken on an empty stomach in high doses."
+    },
+    {
+      "label": "Calcium Loading:",
+      "description": "Excess intake may contribute to high calcium levels if not balanced with Vitamin K2 and Magnesium."
+    },
+    {
+      "label": "Hypercalcemia Risk:",
+      "description": "In renal patients, serum calcium must be monitored as Ca-AKG can increase calcium absorption."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing:",
+      "description": "Widely available in the US and Europe as an over-the-counter dietary supplement, often marketed under the brand Rejuvant."
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Unrestricted as a nutraceutical; commonly categorized alongside other 'geroprotectors' in the biohacking community."
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "IGF-1",
+      "slug": "igf-1"
+    },
+    {
+      "name": "NATTOKINASE",
+      "slug": "nattokinase"
+    }
+  ]
+}

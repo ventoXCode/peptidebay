@@ -1,0 +1,149 @@
+{
+  "slug": "spirulina",
+  "url": "https://dopamine.club/substances/spirulina/",
+  "scrapedAt": "2026-02-12T16:11:24.667Z",
+  "title": "SPIRULINA",
+  "description": "Spirulina (Arthrospira platensis) is a blue-green microalgae rich in protein (60-70%), essential amino acids, vitamins, minerals, antioxidants, and bioactive compounds including phycocyanin and essential fatty acids. It functions as a nutritional supplement with antioxidant, anti-inflammatory, and immunomodulatory properties through multiple mechanisms including enhancement of glutathione production, reduction of oxidative stress, and modulation of immune cell function. Primarily used as a whole-food nutritional supplement for general health support, immune enhancement, and athletic performance.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Potential of Spirulina platensis as a feed supplement for poultry to enhance growth performance and immune modulation",
+      "summary": "Review demonstrating Spirulina's ability to enhance immune function and growth performance through anti-inflammatory and antioxidant mechanisms, with potential to reduce drug resistance issues in livestock.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36798131/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The antioxidant, immunomodulatory, and anti-inflammatory activities of Spirulina: an overview",
+      "summary": "Comprehensive review confirming Spirulina's antioxidant, immunomodulatory, and anti-inflammatory properties through multiple bioactive compounds including phycocyanin and phenolics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27259333/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Spirulina Microalgae and Brain Health: A Scoping Review of Experimental and Clinical Evidence",
+      "summary": "Evidence shows Spirulina provides neuroprotective benefits through antioxidant and anti-inflammatory mechanisms, may reduce mental fatigue, and supports vascular health in brain vessels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34067317/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Review of the Health-Promoting Properties of Spirulina with a Focus on athletes' Performance and Recovery",
+      "summary": "Review indicating Spirulina supplementation can improve body composition, physical performance, and reduce exercise-induced oxidative stress in athletes through its antioxidant and anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37143238/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beneficial Effects of Spirulina Consumption on Brain Health",
+      "summary": "Spirulina demonstrates neuroprotective effects through glial cell modulation and may help prevent or slow progression of neurodegenerative diseases including Parkinson's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35277035/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of spirulina (Arthrospira) platensis supplementation on inflammation, physical and mental quality of life in patients with relapsing-remitting multiple sclerosis",
+      "summary": "Triple-blind placebo-controlled trial showing Spirulina supplementation may reduce inflammation and improve quality of life metrics in MS patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40877830/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The True Value of Spirulina",
+      "summary": "Analysis highlighting Spirulina's high nutrient content but also warning about potential contamination with cyanotoxins, heavy metals, pesticides, and PAHs requiring careful quality monitoring.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32133854/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with Spirulina for maintaining healthy energy levels, immune support, and overall wellness, though quality sourcing concerns and contamination risks are frequently mentioned as important considerations."
+  },
+  "effects": [
+    {
+      "label": "General Wellness:",
+      "description": "Most effective as a whole-food nutritional supplement providing broad-spectrum micronutrients, with users reporting cumulative benefits over months rather than immediate effects"
+    },
+    {
+      "label": "Quality-Dependent Results:",
+      "description": "Effectiveness varies significantly based on source quality, with pure, non-GMO forms from reputable sources showing better results than lower-grade products"
+    },
+    {
+      "label": "Complementary Benefits:",
+      "description": "Works best as part of a comprehensive health approach including proper diet, exercise, and sleep rather than as a standalone solution"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effects vary by person, with some experiencing pronounced benefits within weeks while others notice subtler improvements over longer periods"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Daily Powder:",
+      "description": "1-2 teaspoons (approximately 3-6 grams) of spirulina powder mixed in smoothies or water is the most common dosing method"
+    },
+    {
+      "label": "Tablet Form:",
+      "description": "3-6 grams daily split across meals, with some users taking 1000mg tablets multiple times per day for convenience"
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users report better results starting with smaller doses (1 gram) and gradually increasing to full dose over 1-2 weeks to assess tolerance"
+    },
+    {
+      "label": "Timing:",
+      "description": "Most commonly taken in morning smoothies or with breakfast, though timing appears less critical than consistency of daily use"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Adjustment:",
+      "description": "Initial mild digestive changes, bloating, or green-colored stools are common in first 1-2 weeks but typically resolve with continued use"
+    },
+    {
+      "label": "Contamination Concerns:",
+      "description": "Users report concerns about heavy metal contamination, bird feces, and toxins in lower-quality sources, emphasizing importance of third-party testing"
+    },
+    {
+      "label": "Taste and Palatability:",
+      "description": "Strong earthy, seaweed-like taste is frequently mentioned as unpleasant, leading most users to mix it in smoothies rather than taking alone"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Rare reports of allergic reactions or sensitivity, particularly in those with seafood or iodine sensitivities"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Quality Brands:",
+      "description": "Reputable brands mentioned include quality brands, quality brands, and specialized sources like New Farmers for fresh spirulina, with emphasis on organic, non-GMO certification"
+    },
+    {
+      "label": "Sourcing Concerns:",
+      "description": "Users strongly advise avoiding spirulina sourced from China or unknown origins due to contamination risks; Hawaiian and controlled environment sources preferred"
+    },
+    {
+      "label": "Form Options:",
+      "description": "Available as powder (most economical), tablets/capsules (most convenient), and fresh/frozen (highest quality but limited availability and requires refrigeration)"
+    }
+  ],
+  "related": [
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "LIPOSOMAL VITAMIN C",
+      "slug": "liposomal-vitamin-c"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    }
+  ]
+}

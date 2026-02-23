@@ -1,0 +1,162 @@
+{
+  "slug": "nefiracetam",
+  "url": "https://dopamine.club/substances/nefiracetam/",
+  "scrapedAt": "2026-02-12T16:10:11.433Z",
+  "title": "NEFIRACETAM",
+  "description": "Nefiracetam (DM-9384) is a pyrrolidone-derivative nootropic compound that enhances cognitive function by modulating multiple neurotransmitter systems. It works primarily by potentiating L-type and N-type calcium channels, enhancing acetylcholine release, and modulating GABA and glutamate systems. It has been investigated for improving learning and memory deficits caused by various forms of neuronal dysfunction, including stroke, brain injury, and age-related cognitive decline.",
+  "categories": [
+    "Nootropic",
+    "Racetam"
+  ],
+  "research": [
+    {
+      "title": "Effects of nefiracetam on amnesia animal models with neuronal dysfunctions",
+      "summary": "Nefiracetam improved learning and memory impairments across multiple amnesia models including scopolamine, bicuculline, and ethanol-induced deficits. It also improved cholinergic and monoaminergic neurotransmitter alterations in the hippocampus of brain-lesioned animals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9062668/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cellular mechanism of action of cognitive enhancers: effects of nefiracetam on neuronal Ca2+ channels",
+      "summary": "Nefiracetam produced a twofold increase in L-type calcium channel currents and facilitated recovery from opioid-induced inhibition of N-type calcium channels through interaction with inhibitory G proteins. This mechanism appears to underlie its cognitive-enhancing effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10850736/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quantitative effects of nefiracetam on spatial learning of rats after cerebral embolism",
+      "summary": "Nefiracetam (30 mg/kg for 21 days) completely ameliorated spatial learning impairments in embolized rats, with effects persisting after treatment cessation. The drug significantly reduced escape latency compared to vehicle controls.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17903808/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The long-term effects of nefiracetam on learning in older rabbits",
+      "summary": "Older rabbits treated with 10 mg/kg nefiracetam showed significant improvements in relearning ability up to 5 weeks after drug administration ended. Effects were observed even without continuous dosing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12385816/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anticonvulsant and neuroprotective effects of the novel nootropic agent nefiracetam on kainic acid-induced seizures in rats",
+      "summary": "Nefiracetam dose-dependently protected against hippocampal damage from kainic acid-induced seizures without affecting behavioral seizures. At 25-100 mg/kg, it prevented degeneration and loss of pyramidal cells in hippocampal regions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16122714/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Nefiracetam on the amygdala-kindled seizures in rats",
+      "summary": "Nefiracetam decreased afterdischarge duration, seizure stage, and motor seizure duration in fully kindled rats in a dose-dependent manner at 25-100 mg/kg. However, it had minimal effects on the development of kindling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16190926/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of nefiracetam on spatial memory function and acetylcholine and GABA metabolism in microsphere-embolized rats",
+      "summary": "Nefiracetam (10 mg/kg daily) effectively improved spatial learning dysfunction in stroke-model rats and was found to modify cholinergic and GABAergic systems in ischemic brain tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12393060/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nefiracetam and physostigmine: separate and combined effects on learning in older rabbits",
+      "summary": "Combining nefiracetam (10 mg/kg) with low doses of physostigmine improved learning rates and magnitude beyond either drug alone in aged rabbits, suggesting potential for combination therapy in cognitive enhancement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15165705/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Possible involvement of the activation of voltage-sensitive calcium channels in the ameliorating effects of nefiracetam",
+      "summary": "The anti-amnesic effects of nefiracetam on scopolamine-induced memory impairment were blocked by L-type and N-type calcium channel antagonists, confirming that activation of high-voltage-activated calcium channels is critical to its mechanism of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7932200/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely divided with significant safety concerns tempering otherwise positive cognitive effects. While some users report noticeable benefits for memory and learning, many express hesitation due to potential kidney toxicity issues and metabolic concerns, particularly with oral administration."
+  },
+  "effects": [
+    {
+      "label": "Moderate Potency:",
+      "description": "Users generally find nefiracetam less immediately noticeable than phenylpiracetam or noopept, with effects building over time rather than producing acute changes"
+    },
+    {
+      "label": "Age-Related Benefits:",
+      "description": "Research strongly supports effectiveness in older populations and those with existing cognitive impairments, with benefits persisting weeks after discontinuation"
+    },
+    {
+      "label": "Stroke Recovery:",
+      "description": "Multiple studies demonstrate significant improvements in spatial learning and memory function following cerebral ischemia at doses of 10-30 mg/kg"
+    },
+    {
+      "label": "Combination Potential:",
+      "description": "Shows synergistic effects when combined with cholinergics like physostigmine, suggesting value in stacking for enhanced cognitive benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use 10-30 mg/kg, which translates to approximately 100-300 mg for humans based on allometric scaling"
+    },
+    {
+      "label": "User Doses:",
+      "description": "Users commonly report taking 50-200 mg per dose, often split into twice daily administration"
+    },
+    {
+      "label": "Safety Concerns:",
+      "description": "Multiple users express caution about oral administration due to metabolic pathway concerns, with some suggesting sublingual routes to bypass first-pass metabolism"
+    },
+    {
+      "label": "Duration:",
+      "description": "Limited evidence for optimal duration, though research suggests benefits may persist for weeks after discontinuation, and some users report cycling approaches"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Kidney Concerns:",
+      "description": "Major safety concern among users regarding potential nephrotoxicity, with at least one user reporting kidney pain after 100 mg oral doses"
+    },
+    {
+      "label": "Metabolic Issues:",
+      "description": "Dog studies showed testicular toxicity from oral metabolites, leading users to avoid or minimize oral administration despite lack of human data"
+    },
+    {
+      "label": "Generally Mild:",
+      "description": "When side effects occur, they are typically subtle and less pronounced than with stimulant nootropics or other racetams"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users report no side effects at moderate doses, while others experience discomfort, highlighting significant individual response differences"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Limited Availability:",
+      "description": "Current availability is more limited than common racetams, with fewer vendors stocking this compound"
+    },
+    {
+      "label": "Research Chemical Status:",
+      "description": "Treated as a research compound rather than a dietary supplement, contributing to limited mainstream availability"
+    },
+    {
+      "label": "Safety Reputation:",
+      "description": "Multiple users warn newcomers away from nefiracetam specifically due to safety concerns, reducing its popularity compared to other racetams"
+    }
+  ],
+  "related": [
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    },
+    {
+      "name": "COLURACETAM",
+      "slug": "coluracetam"
+    },
+    {
+      "name": "Oxiracetam",
+      "slug": "oxiracetam"
+    },
+    {
+      "name": "Phenylpiracetam",
+      "slug": "phenylpiracetam"
+    },
+    {
+      "name": "Piracetam",
+      "slug": "piracetam"
+    }
+  ]
+}

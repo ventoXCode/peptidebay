@@ -1,0 +1,149 @@
+{
+  "slug": "tau-peptide",
+  "url": "https://dopamine.club/substances/tau-peptide/",
+  "scrapedAt": "2026-02-12T16:11:36.673Z",
+  "title": "TAU PEPTIDE",
+  "description": "Tau peptides are short amino acid sequences derived from or targeting the tau protein, which is associated with Alzheimer's disease and other tauopathies. These peptides work by inhibiting tau aggregation, reducing neuroinflammation, and potentially preventing the formation of neurofibrillary tangles that contribute to neurodegeneration. Research focuses on tau aggregation inhibitors (TAI) as therapeutic candidates for treating Alzheimer's disease and related cognitive decline.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Tau Aggregation Inhibiting Peptides as Potential Therapeutics for Alzheimer Disease",
+      "summary": "Reviews peptide compounds acting as tau aggregation inhibitors (TAI), developed through structure-based design and phage display, showing promise as therapeutic candidates for Alzheimer's disease by targeting tau pathology which correlates closely with clinical symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35596819/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tau-targeting therapies for Alzheimer disease: current status and future directions",
+      "summary": "Comprehensive review of tau-targeting therapies including immunotherapies, post-translational modifications, and aggregation inhibitors, noting that tau shows stronger correlation with symptom severity than amyloid-β, making it a more promising therapeutic target.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37803465/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "DHA may prevent age-related dementia",
+      "summary": "DHA acts at multiple steps to reduce beta-amyloid production and moderates kinases that hyperphosphorylate tau protein, potentially slowing pathogenesis of Alzheimer's disease and vascular dementia while increasing neuroprotective factors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20181786/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Spermidine reduces neuroinflammation and soluble amyloid beta in an Alzheimer's disease mouse model",
+      "summary": "Spermidine supplementation in Alzheimer's mouse models reduced neuroinflammation, soluble amyloid beta levels, and showed promise in modulating tau pathology through cellular energy metabolism pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35780157/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Promoting Endogenous Neurogenesis as a Treatment for Alzheimer's Disease",
+      "summary": "Reviews mechanisms of impaired neurogenesis in Alzheimer's disease related to amyloid-β accumulation and tau protein tangles, proposing neurogenesis stimulation as a promising therapeutic strategy to supplement lost neurons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36445633/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of micronutrients and nutraceuticals on cognitive function and performance in Alzheimer's disease",
+      "summary": "Reviews how various micronutrients affect Alzheimer's pathology including β-amyloid plaques and abnormal tau protein phosphorylation, examining nutritional interventions for cognitive function improvement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38296163/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ketogenic diet therapy in Alzheimer's disease: an updated review",
+      "summary": "Ketone bodies from ketogenic diets may reduce neuroinflammation, improve neurotransmitter pathways, support synaptic maintenance, and reduce brain β-amyloid deposition and tau protein aggregates in Alzheimer's disease models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33871419/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with tau-targeting interventions are limited in the provided data, with most discussion focusing on general Alzheimer's prevention strategies rather than specific tau peptides. Users show interest in comprehensive approaches including diet, supplements, and lifestyle modifications, but express concerns about the legitimacy and safety of unregulated peptide sources."
+  },
+  "effects": [
+    {
+      "label": "Research Stage:",
+      "description": "Most tau peptide therapeutics remain in preclinical or early clinical trial stages, with limited human efficacy data available"
+    },
+    {
+      "label": "Combination Approach:",
+      "description": "Users and researchers emphasize comprehensive strategies combining multiple interventions rather than single compounds"
+    },
+    {
+      "label": "Preventive vs Therapeutic:",
+      "description": "Evidence suggests tau-targeting may be more effective for prevention or early intervention rather than reversing established disease"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Genetic factors like APOE4 status significantly influence individual response to tau-targeting interventions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dosing:",
+      "description": "Clinical trials typically use pharmaceutical-grade peptides at precisely controlled doses, not applicable to consumer supplements"
+    },
+    {
+      "label": "Supportive Nutrients:",
+      "description": "Users discuss supportive approaches like omega-3 fatty acids (2-3g EPA/DHA daily), vitamin D, and other neuroprotective compounds"
+    },
+    {
+      "label": "Preventive Protocols:",
+      "description": "Long-term preventive strategies emphasize consistent daily supplementation rather than acute dosing"
+    },
+    {
+      "label": "Professional Guidance:",
+      "description": "Medical supervision recommended for any tau-targeting therapeutic approach, especially for high-risk individuals"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Unknown Safety Profile:",
+      "description": "Limited human safety data available for most tau peptide therapeutics under development"
+    },
+    {
+      "label": "Source Concerns:",
+      "description": "Users express serious concerns about quality and purity of peptides from unregulated online sources"
+    },
+    {
+      "label": "Interaction Risks:",
+      "description": "Potential interactions with other Alzheimer's treatments and medications remain poorly understood"
+    },
+    {
+      "label": "Monitoring Required:",
+      "description": "Regular biomarker testing and medical supervision essential for any experimental tau-targeting protocol"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Only:",
+      "description": "Legitimate tau peptide therapeutics are only available through clinical trials or specialized medical channels, not as commercial supplements"
+    },
+    {
+      "label": "Research Chemicals:",
+      "description": "Unregulated peptide sources online pose significant safety and quality concerns according to user discussions"
+    },
+    {
+      "label": "Indirect Support:",
+      "description": "Most available consumer approaches involve supporting compounds (omega-3s, antioxidants, NAD+ precursors) rather than direct tau peptides"
+    }
+  ],
+  "related": [
+    {
+      "name": "PAL-GHK (PALMITOYL TRIPEPTIDE-1)",
+      "slug": "pal-ghk-palmitoyl-tripeptide-1"
+    },
+    {
+      "name": "DHA",
+      "slug": "dha"
+    },
+    {
+      "name": "ERGOTHIONEINE",
+      "slug": "ergothioneine"
+    },
+    {
+      "name": "MYRICETIN",
+      "slug": "myricetin"
+    },
+    {
+      "name": "NOBILETIN",
+      "slug": "nobiletin"
+    }
+  ]
+}

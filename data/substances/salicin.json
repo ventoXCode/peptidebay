@@ -1,0 +1,131 @@
+{
+  "slug": "salicin",
+  "url": "https://dopamine.club/substances/salicin/",
+  "scrapedAt": "2026-02-12T16:11:06.205Z",
+  "title": "SALICIN",
+  "description": "Salicin is a naturally occurring glucoside compound found in willow bark (Salix alba) that serves as a precursor to salicylic acid. After oral ingestion, salicin is metabolized in the intestines and liver to salicylic acid and other metabolites, providing anti-inflammatory and analgesic effects similar to but much milder than synthetic salicylates like aspirin. It has been used for centuries in traditional medicine for pain relief and inflammation management.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pharmacokinetics of salicin after oral administration of a standardised willow bark extract",
+      "summary": "Study found that willow bark extract (240mg salicin) produced peak serum salicylic acid levels equivalent to only 87mg of aspirin, with much lower salicylate concentrations than therapeutic doses of synthetic salicylates. The formation of salicylic acid alone is unlikely to fully explain willow bark's analgesic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11599656/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Willow bark extract--effects and effectiveness. Status of current knowledge regarding pharmacology, toxicology and clinical aspects",
+      "summary": "Standardized willow bark extracts demonstrated anti-inflammatory activities comparable to higher doses of acetylsalicylic acid and showed antinociceptive effects. The extract appears to work through mechanisms beyond simple salicylic acid conversion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12244878/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Salicin from Willow Bark can Modulate Neurite Outgrowth in Human Neuroblastoma SH-SY5Y Cells",
+      "summary": "Research demonstrated that salicin binds and activates the bitter taste receptor TAS2R16, with studies showing general expression of bitter taste receptors in various tissues beyond the oral cavity, suggesting additional mechanisms of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26096905/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and Safety of White Willow Bark (Salix alba) Extracts",
+      "summary": "Review confirms willow bark's long history as an anti-inflammatory, antipyretic, and analgesic agent, though relatively few modern clinical studies have been published to confirm traditional uses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25997859/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Users primarily mention salicin as a component in fat loss stacks combined with caffeine, synephrine, and yohimbine, following the ECA stack tradition. Limited standalone discussion exists, with most references being to its inclusion in multi-ingredient formulations rather than individual effectiveness reports."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability:",
+      "description": "240mg salicin produces serum salicylic acid levels equivalent to only ~87mg aspirin, indicating relatively low bioconversion and systemic exposure"
+    },
+    {
+      "label": "Mechanism Complexity:",
+      "description": "Anti-inflammatory and analgesic effects may involve compounds beyond salicin/salicylic acid, including polyphenols and flavonoids in willow bark extract"
+    },
+    {
+      "label": "Comparative Potency:",
+      "description": "Significantly less potent than synthetic salicylates for direct analgesic effects, requiring interpretation as a gentler botanical alternative"
+    },
+    {
+      "label": "Fat Loss Role:",
+      "description": "Used in supplement stacks primarily as a theoretical potentiator of thermogenic effects, though individual contribution is difficult to isolate"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract Dose:",
+      "description": "90mg salicin (from white willow bark extract) commonly used in fat loss stacks, typically taken 2 times daily"
+    },
+    {
+      "label": "Clinical Study Dose:",
+      "description": "240mg salicin administered in research settings, often split into multiple doses (e.g., two 120mg doses)"
+    },
+    {
+      "label": "Extract Standardization:",
+      "description": "Usually standardized to 15% salicin content when used in supplement formulations"
+    },
+    {
+      "label": "Stacking Protocol:",
+      "description": "When combined with caffeine and synephrine, typically taken on an empty stomach for fat loss purposes"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Potential for stomach upset similar to but milder than synthetic salicylates, though less commonly reported than with aspirin"
+    },
+    {
+      "label": "Bleeding Risk:",
+      "description": "Theoretical concern for increased bleeding time due to salicylate activity, though effects are much weaker than pharmaceutical doses"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Possible sensitivity reactions in individuals with aspirin or salicylate allergies"
+    },
+    {
+      "label": "Limited Reporting:",
+      "description": "Minimal side effect discussion in user communities, possibly due to low doses used or lack of standalone use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Inclusion:",
+      "description": "Widely available as an ingredient in fat burner and thermogenic supplement formulations rather than as a standalone product"
+    },
+    {
+      "label": "Extract Forms:",
+      "description": "Sold as standardized white willow bark extract, typically standardized to 15% salicin content"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Freely available as a dietary supplement with no regulatory restrictions in most countries"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "COLLAGEN TYPE II",
+      "slug": "collagen-type-ii"
+    },
+    {
+      "name": "DIOSMIN",
+      "slug": "diosmin"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    }
+  ]
+}

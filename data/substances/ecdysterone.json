@@ -1,0 +1,147 @@
+{
+  "slug": "ecdysterone",
+  "url": "https://dopamine.club/substances/ecdysterone/",
+  "scrapedAt": "2026-02-12T16:07:27.493Z",
+  "title": "ECDYSTERONE",
+  "description": "Ecdysterone (20-hydroxyecdysone) is a naturally occurring polyhydroxylated steroid hormone found in plants and insects that acts primarily through estrogen receptor beta (ERβ) binding. Research suggests it enhances muscle protein synthesis and physical performance without affecting androgen receptors, showing anabolic effects comparable to or exceeding some prohibited agents in animal studies. It is widely available as a dietary supplement, though product labeling reliability varies significantly.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ecdysteroids as non-conventional anabolic agent: performance enhancement by ecdysterone supplementation in humans",
+      "summary": "A 10-week study of 46 young men found significantly higher increases in muscle mass and one-repetition bench press performance with ecdysterone supplementation, with no liver or kidney toxicity, suggesting it should be considered for anti-doping monitoring.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31123801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Estrogen receptor beta is involved in skeletal muscle hypertrophy induced by the phytoecdysteroid ecdysterone",
+      "summary": "Study demonstrated that ecdysterone induces muscle hypertrophy in rats and C2C12 cells through estrogen receptor beta (ERβ) activation, with effects antagonized by ERβ-selective blockers but not antiandrogens.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24974955/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Detection and quantitation of ecdysterone in human serum by liquid chromatography coupled to tandem mass spectrometry",
+      "summary": "Developed and validated analytical methods for detecting ecdysterone in human serum, important for understanding pharmacokinetics and potential use in sports doping detection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32068076/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "How reliable is dietary supplement labelling?—Experiences from the analysis of ecdysterone supplements",
+      "summary": "Analysis of commercial ecdysterone supplements revealed significant discrepancies between labeled and actual content, highlighting serious quality control issues in the supplement industry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31568967/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Study of excretion of ecdysterone in human urine",
+      "summary": "First human excretion study identified ecdysterone metabolites in urine after 20mg oral administration, providing baseline data for potential anti-doping testing methods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11565096/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An Arthropod Hormone, Ecdysterone, Inhibits the Growth of Breast Cancer Cells via Different Mechanisms",
+      "summary": "Research found ecdysterone exhibits tumor suppressive effects on breast cancer cell lines through multiple mechanisms, contrasting with its anabolic effects in muscle tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33192507/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences are genuinely split, with some reporting significant strength gains and improved recovery while others experience no effects or attribute results to placebo. Product quality concerns and high costs are frequently mentioned as barriers to consistent positive outcomes."
+  },
+  "effects": [
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Research shows effects at doses as low as 100-200mg, though most user protocols employ 500-1000mg daily split into multiple doses for optimal results"
+    },
+    {
+      "label": "Time to Results:",
+      "description": "Studies indicate significant effects begin after 4 weeks, with users commonly reporting noticeable changes at the 1-month mark and continued improvements through 8-12 weeks"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness appears highly dependent on training status, diet quality, and product authenticity—experienced lifters report more modest gains than novices"
+    },
+    {
+      "label": "Placebo Concerns:",
+      "description": "Skepticism remains high in the community with many attributing results to placebo effect, though controlled studies show statistical significance over placebo groups"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "500-1000mg daily split into 2-3 doses with meals is most commonly reported, with some users cycling between 400mg and 600mg phases"
+    },
+    {
+      "label": "Weight-Based Dosing:",
+      "description": "Some sources suggest 5mg per kg bodyweight, though this is less commonly followed than fixed-dose protocols in user reports"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Conflicting information on half-life (4 hours vs. minutes) leads to varied dosing schedules, with most users spacing doses throughout the day"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "No clear consensus on cycling, though some users take 5 days on/2 days off or use for 8-12 week periods before reassessing"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Toxicity:",
+      "description": "Human studies show no increases in liver or kidney biomarkers, with users reporting negligible side effects at recommended doses"
+    },
+    {
+      "label": "Emotional Changes:",
+      "description": "Some users report increased irritability or quicker anger responses, though this is not universally experienced"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Rarely mentioned, suggesting good tolerability compared to many performance supplements"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Limited data on extended use beyond 10-12 weeks in humans, though animal studies suggest good safety profile"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Quality Control Issues:",
+      "description": "Independent testing reveals significant label inaccuracies with actual ecdysterone content often not matching claims, making brand selection critical"
+    },
+    {
+      "label": "Recommended Sources:",
+      "description": "Gorilla Mind (with cyclodextrin for bioavailability), Tonvara, and Natural Foundations UK are frequently mentioned as reliable brands, though availability varies by region"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "High-quality products are expensive, with users paying $50-100+ monthly for effective doses, making counterfeit or underdosed products a persistent market issue"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Currently legal and not prohibited by most sports organizations, though WADA has included it in monitoring programs suggesting potential future restrictions"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

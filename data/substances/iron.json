@@ -1,0 +1,143 @@
+{
+  "slug": "iron",
+  "url": "https://dopamine.club/substances/iron/",
+  "scrapedAt": "2026-02-12T16:08:53.815Z",
+  "title": "IRON",
+  "description": "Iron is an essential mineral crucial for hemoglobin production, oxygen transport, energy metabolism, and cognitive function. It exists in two dietary forms: heme iron (from animal sources) with higher bioavailability, and non-heme iron (from plant sources) with lower absorption rates. Iron supplementation is primarily used to treat iron deficiency anemia, support athletic performance, and address fatigue, though both deficiency and excess can cause significant health issues.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Supplement-driven iron overload accelerates phenotypic aging via inflammatory biomarkers: Potential counteraction through anti-inflammatory or antioxidant diets",
+      "summary": "Excessive iron supplementation can accelerate aging through inflammatory pathways, with effects potentially mitigated by anti-inflammatory or antioxidant dietary approaches.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40570516/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Iron Deficiency in Obesity and after Bariatric Surgery",
+      "summary": "Iron deficiency is particularly common in obese individuals due to inflammation-induced hepcidin elevation, reducing iron absorption and increasing the need for specialized supplementation strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33918997/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of oral ferrous bisglycinate supplementation on hemoglobin and ferritin concentrations in adults and children: a systematic review and meta-analysis",
+      "summary": "Ferrous bisglycinate shows improved bioavailability and fewer gastrointestinal side effects compared to traditional iron salts, making it a superior supplementation option.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36728680/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Micronutrients and athletic performance: A review",
+      "summary": "Iron status significantly impacts athletic performance, with deficiency affecting oxygen transport capacity and energy production, necessitating proper supplementation in athletes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34662692/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Serum Iron Levels, Dietary Iron Intake, and Supplement Use in Relation to Metabolic Syndrome in Adolescents",
+      "summary": "Both iron deficiency and excess iron levels show associations with metabolic dysfunction in adolescents, highlighting the importance of balanced iron status.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38517678/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Iron and Vitamin D/Calcium Deficiency after Gastric Bypass: Mechanisms Involved and Strategies to Improve Oral Supplement Disposition",
+      "summary": "Post-bariatric surgery patients require specialized iron supplementation strategies due to altered absorption capacity, with up to 50% developing iron deficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30362417/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report significant improvements in energy, cognition, and overall wellbeing when treating confirmed iron deficiency, though proper testing and appropriate dosing are emphasized as critical. Success stories dominate when deficiency is properly diagnosed, but concerns about toxicity from excessive supplementation are frequently noted."
+  },
+  "effects": [
+    {
+      "label": "Testing is Critical:",
+      "description": "Users emphasize that iron supplementation only works when actual deficiency exists; bloodwork showing ferritin, serum iron, TIBC, and iron saturation is essential before starting"
+    },
+    {
+      "label": "Absorption Matters:",
+      "description": "Bisglycinate and heme iron forms show superior absorption and tolerability compared to ferrous sulfate; taking with vitamin C and avoiding calcium improves absorption significantly"
+    },
+    {
+      "label": "Slow Progress:",
+      "description": "Raising iron levels takes considerable time (6 months to 2 years for severe deficiency), with ferritin targets of 50-100 ng/mL needed for symptom resolution"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effectiveness varies greatly based on underlying causes (malabsorption, chronic inflammation, copper deficiency) that may need addressing for supplementation to work"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "60-80mg of bisglycinate or 25-50mg elemental iron from ferrous sulfate daily, taken with vitamin C and away from calcium-containing foods"
+    },
+    {
+      "label": "Severe Deficiency Protocol:",
+      "description": "Iron infusions recommended when oral supplementation fails or levels are critically low (ferritin <15-20), providing faster restoration"
+    },
+    {
+      "label": "Timing Strategy:",
+      "description": "Taking on empty stomach or with orange juice maximizes absorption; avoiding 2-hour window before/after calcium, tea, coffee, or antacids is crucial"
+    },
+    {
+      "label": "Heme Iron Alternative:",
+      "description": "Three Arrows Nutra Simply Heme or similar heme iron products recommended for better absorption with fewer side effects, though more expensive"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Constipation, nausea, stomach upset, and black stools commonly reported with traditional iron salts; bisglycinate forms significantly reduce these effects"
+    },
+    {
+      "label": "Iron Overload Risk:",
+      "description": "Excessive supplementation without deficiency can cause toxicity, inflammation, oxidative stress, and accelerated aging as evidenced by research"
+    },
+    {
+      "label": "Copper Depletion:",
+      "description": "Long-term iron supplementation may deplete copper levels, requiring monitoring and potential copper supplementation to maintain balance"
+    },
+    {
+      "label": "Rare Severe Reactions:",
+      "description": "Some users report passing out or severe reactions to oral iron supplements, necessitating alternative approaches like infusions or dietary sources"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription vs OTC:",
+      "description": "Iron infusions require medical prescription and monitoring; oral supplements widely available over-the-counter in various forms (sulfate, bisglycinate, heme)"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Users recommend reputable brands with third-party testing, and emphasize avoiding cheap multivitamins with poorly absorbed forms"
+    },
+    {
+      "label": "Testing Access:",
+      "description": "Blood work can be ordered through primary care physicians, or through direct-to-consumer services like Marek, Ulta Labs, or Fitomics for comprehensive iron panels"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "COPPER",
+      "slug": "copper"
+    }
+  ]
+}

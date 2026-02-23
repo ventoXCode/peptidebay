@@ -1,0 +1,155 @@
+{
+  "slug": "leucine",
+  "url": "https://dopamine.club/substances/leucine/",
+  "scrapedAt": "2026-02-12T16:09:11.027Z",
+  "title": "LEUCINE",
+  "description": "Leucine is an essential branched-chain amino acid (BCAA) that plays a critical role in muscle protein synthesis by activating the mTOR pathway. It is primarily used as a supplement to support muscle growth, prevent muscle loss (particularly in older adults with sarcopenia), and enhance recovery from exercise. Leucine is found naturally in protein-rich foods and is often supplemented in isolation or as part of whey protein formulations.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of a vitamin D and leucine-enriched whey protein nutritional supplement on measures of sarcopenia in older adults, the PROVIDE study: a randomized, double-blind, placebo-controlled trial",
+      "summary": "A randomized controlled trial found that vitamin D and leucine-enriched whey protein supplementation improved measures of sarcopenia in older adults when combined with resistance training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26170041/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Isolated Leucine and Branched-Chain Amino Acid Supplementation for Enhancing Muscular Strength and Hypertrophy: A Narrative Review",
+      "summary": "This narrative review concludes that while leucine stimulates the initial anabolic response, substantial research shows that isolated BCAA or leucine supplementation alone may not significantly enhance muscle strength and hypertrophy without adequate total protein intake.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33741748/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Whey Protein, Leucine, and Vitamin D Supplementation in Patients with Sarcopenia: A Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis of three studies with 637 patients showed that whey protein, leucine, and vitamin D supplementation significantly improved appendicular muscle mass in sarcopenia patients, though grip strength and physical performance scores did not differ significantly.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36771225/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of adequate dietary protein with whey protein, leucine, and vitamin D supplementation on sarcopenia in older adults: An open-label, parallel-group study",
+      "summary": "This open-label study demonstrated that adequate dietary protein combined with whey protein, leucine, and vitamin D supplementation improved sarcopenia outcomes in older adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32928579/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rehabilitation Nutrition for Injury Recovery of Athletes: The Role of Macronutrient Intake",
+      "summary": "Research indicates that nutritional strategies including leucine supplementation are feasible and effective in offsetting anabolic resistance and maintaining muscle mass during injury recovery in athletes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32824034/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "De-Training Effects Following Leucine-Enriched Whey Protein Supplementation and Resistance Training in Older Adults with Sarcopenia: A Randomized Controlled Trial with 24 Weeks of Follow-Up",
+      "summary": "This 24-week randomized trial evaluated the effectiveness of leucine-enriched whey protein supplementation combined with resistance training on skeletal muscle mass and strength in older adults with sarcopenia, including de-training effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36437767/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary protein recommendations and the prevention of sarcopenia",
+      "summary": "Research suggests that ingesting approximately 25-30g of protein per meal maximally stimulates muscle protein synthesis in both young and older individuals, and supplementing meals with leucine may enhance the muscle protein synthetic response in elderly populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19057193/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "No Significant Differences in Muscle Growth and Strength Development When Consuming Soy and Whey Protein Supplements Matched for Leucine Following a 12 Week Resistance Training Program in Men and Women: A Randomized Trial",
+      "summary": "A 12-week randomized trial found that soy and whey protein supplements matched for leucine content (2g leucine per serving) produced comparable strength increases and muscle growth when combined with resistance training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32486007/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User experiences with leucine are genuinely mixed, with some reporting significant benefits for muscle recovery and DOMS reduction, while others question its necessity when adequate protein intake is maintained. Many users prefer leucine as part of complete protein sources rather than isolated supplementation, citing cost-effectiveness and practical benefits."
+  },
+  "effects": [
+    {
+      "label": "Context-Dependent Benefits:",
+      "description": "Leucine appears most effective for older adults with sarcopenia, athletes during injury recovery, or those in caloric deficits; benefits are less clear for healthy individuals with adequate protein intake"
+    },
+    {
+      "label": "Protein Quality Matters:",
+      "description": "Studies show leucine works best when combined with complete protein sources (whey protein) rather than in isolation; total protein intake remains the primary factor for muscle growth"
+    },
+    {
+      "label": "Dosage Threshold:",
+      "description": "Research indicates 2-3g of leucine per meal is needed to maximize muscle protein synthesis, with 25-30g total protein per meal being optimal"
+    },
+    {
+      "label": "Limited Standalone Value:",
+      "description": "User consensus and research suggest that isolated leucine or BCAA supplementation provides minimal benefit if total daily protein needs (1.6-2.2g/kg bodyweight) are already met through diet"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "2-3g of leucine per serving, typically consumed 2-3 times daily with meals or around workouts"
+    },
+    {
+      "label": "BCAA Ratios:",
+      "description": "Common BCAA formulations use 2:1:1 ratio (leucine:isoleucine:valine), with typical servings providing 2-5g leucine"
+    },
+    {
+      "label": "Meal-Based Approach:",
+      "description": "Research supports distributing leucine across meals rather than single large doses, with approximately 2.5-3g leucine per meal showing optimal muscle protein synthesis"
+    },
+    {
+      "label": "Elderly Population:",
+      "description": "Studies in sarcopenia patients used 3-5g daily leucine as part of enriched protein formulations, combined with vitamin D and resistance training"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Taste and Mixability:",
+      "description": "Users frequently report leucine powder tastes bitter, greasy, or like 'powdered batteries' and does not mix well with water, often forming foam or clumps"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report bloating or nausea, particularly when taking large doses or in combination with whey protein products"
+    },
+    {
+      "label": "Minimal Serious Effects:",
+      "description": "Research and user reports indicate leucine is generally safe with few serious side effects when used at recommended doses"
+    },
+    {
+      "label": "Amino Acid Imbalance:",
+      "description": "Some experts suggest isolated leucine supplementation without other essential amino acids may create temporary imbalances, though clinical significance appears limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Leucine is readily available from multiple supplement brands, both as standalone powder and in BCAA blends, with prices ranging from $15-40 for bulk powder"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Users report significant differences in mixability and taste between brands; popular sources include TrueNutrition, Nutricost, and various sports nutrition companies"
+    },
+    {
+      "label": "Form Options:",
+      "description": "Available as loose powder, capsules, and as part of pre-formulated protein supplements; powdered form is most cost-effective but least palatable for most users"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "lipase",
+  "url": "https://dopamine.club/substances/lipase/",
+  "scrapedAt": "2026-02-12T16:09:14.112Z",
+  "title": "LIPASE",
+  "description": "Lipase is a family of digestive enzymes that catalyze the breakdown of dietary fats (triglycerides) into free fatty acids and glycerol for absorption. These enzymes are produced by various tissues including the pancreas, liver, and intestinal lining, with pancreatic lipase being the primary enzyme for fat digestion in the small intestine. Lipase supplementation is primarily used to support fat digestion in individuals with pancreatic insufficiency or digestive disorders.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Lipases and lipolysis in the human digestive tract: where do we stand?",
+      "summary": "Reviews the different lipases involved in triglyceride digestion in humans, focusing on their mechanisms of action and therapeutic applications for managing fatty acid bioavailability during pancreatic insufficiencies and obesity treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lipases in Medicine: An Overview",
+      "summary": "Examines the medical applications of lipases in catalyzing hydrolysis of triglycerides into chylomicrons and VLDL particles, highlighting their evolving therapeutic uses in clinical settings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26156413/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biochemistry, Lipase",
+      "summary": "Describes lipase as a family of hydrolase enzymes that break down triglycerides into free fatty acids and glycerol, with expression and activity across multiple tissues including liver, adipose tissue, vascular endothelium, and pancreas.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30726031/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report positive experiences with digestive enzyme supplements containing lipase, particularly for managing bloating, gas, and nausea after consuming fatty foods. Most users who supplement with lipase-containing products find them effective for improving digestion and reducing discomfort from high-fat meals."
+  },
+  "effects": [
+    {
+      "label": "Primary Benefit:",
+      "description": "Most effective for individuals with diagnosed pancreatic insufficiency, gallbladder removal, or chronic fat malabsorption issues"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies based on underlying digestive health; those with specific enzyme deficiencies see better results than general users"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Taking digestive enzymes 20 minutes before fatty meals appears more effective than taking during or after meals"
+    },
+    {
+      "label": "Not Universal:",
+      "description": "Healthy individuals consuming 4000-5000 calories daily may not need supplementation as the body naturally produces adequate enzymes based on substrate concentration"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Pre-Meal Protocol:",
+      "description": "Most users take one digestive enzyme tablet 20 minutes before consuming fatty meals for optimal effectiveness"
+    },
+    {
+      "label": "As-Needed Basis:",
+      "description": "Digestive enzymes containing lipase are typically used situationally before high-fat meals rather than daily"
+    },
+    {
+      "label": "Product-Specific:",
+      "description": "Dosing varies by brand and formulation; users report success with various commercial digestive enzyme blends"
+    },
+    {
+      "label": "Clinical Dosing:",
+      "description": "For pancreatic insufficiency, medical-grade pancreatic enzyme replacement therapy requires specific prescription dosing and gastric protection"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal to no side effects when using digestive enzyme supplements appropriately"
+    },
+    {
+      "label": "Overconsumption Risk:",
+      "description": "Excessive supplementation may lead to digestive upset or interfere with natural enzyme production"
+    },
+    {
+      "label": "Medical Conditions:",
+      "description": "Individuals with elevated lipase levels due to pancreatitis should not supplement without medical supervision"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Cheaper or lower-quality enzyme supplements may be less bioavailable or contain ineffective forms of enzymes"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "Digestive enzyme supplements containing lipase, protease, and amylase are widely available at pharmacies and health stores without prescription"
+    },
+    {
+      "label": "Brand Recommendations:",
+      "description": "Users frequently mention quality brands and quality brands as effective brands, though individual results vary"
+    },
+    {
+      "label": "Prescription Options:",
+      "description": "Medical-grade pancreatic enzyme replacement therapy requires prescription and is specifically formulated for conditions like cystic fibrosis or pancreatic insufficiency"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    }
+  ]
+}

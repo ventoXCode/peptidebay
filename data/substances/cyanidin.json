@@ -1,0 +1,155 @@
+{
+  "slug": "cyanidin",
+  "url": "https://dopamine.club/substances/cyanidin/",
+  "scrapedAt": "2026-02-12T16:06:59.809Z",
+  "title": "CYANIDIN",
+  "description": "Cyanidin-3-O-glucoside (C3G) is a naturally occurring anthocyanin compound found abundantly in berries, black rice, purple corn, and blood oranges. It functions as a potent antioxidant and anti-inflammatory agent that modulates lipid metabolism, enhances mitochondrial function, and improves endothelial health. C3G has demonstrated therapeutic potential for obesity-related metabolic disorders, cardiovascular health, and insulin sensitivity through multiple cellular pathways including SIRT1/NF-κB signaling and NLRP3 inflammasome regulation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Recent advances on cyanidin-3-O-glucoside in preventing obesity-related metabolic disorders: A comprehensive review",
+      "summary": "C3G demonstrates significant efficacy in combating obesity by regulating lipid metabolism, increasing fatty acid oxidation, reducing lipid accumulation, and enhancing energy expenditure through brown adipose tissue activation and mitochondrial biogenesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38976946/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effectiveness of 'Moro' Blood Orange Extract on Weight Loss in Overweight Adults - A Randomized Double-Blind Placebo-Controlled Study",
+      "summary": "After 6 months, participants taking blood orange extract rich in C3G showed significantly greater reductions in body mass (4.2% vs 2.2%), BMI, and hip circumference compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35276783/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cyanidin-3-O-Glucoside Supplementation Ameliorates Metabolic Insulin Resistance via Restoration of Nitric Oxide-Mediated Endothelial Insulin Transport",
+      "summary": "C3G supplementation improves metabolic insulin resistance by restoring endothelial insulin transport through nitric oxide pathways, decreasing exogenous insulin requirements in skeletal muscle.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34841692/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cyanidin-3-O-β-glucoside inactivates NLRP3 inflammasome and alleviates alcoholic steatohepatitis via SirT1/NF-κB signaling pathway",
+      "summary": "C3G alleviates alcoholic liver injury by inactivating NLRP3 inflammasome and modulating SirT1/NF-κB signaling pathways, demonstrating hepatoprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32805401/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anthocyanins and their metabolites promote white adipose tissue beiging by regulating mitochondria thermogenesis and dynamics",
+      "summary": "C3G and its metabolites promote browning of white adipose tissue and enhance mitochondrial thermogenesis, leading to decreased body weight gain and fat deposition on high-fat diets.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38387526/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cyanidin-3-O-Glucoside Alleviates Alcoholic Liver Injury via Modulating Gut Microbiota and Metabolites in Mice",
+      "summary": "C3G effectively ameliorates liver pathology and function while inhibiting lipid accumulation by modulating gut microbiota composition and metabolite profiles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38474822/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cyanidin-3-rutinoside from Mori Fructus ameliorates dyslipidemia via modulating gut microbiota and lipid metabolism pathway",
+      "summary": "Cyanidin compounds improve dyslipidemia through beneficial modulation of gut microbiota and regulation of lipid metabolism pathways, suggesting therapeutic potential for cardiovascular disease prevention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39694116/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Elderberries as a potential supplement to improve vascular function in a SARS-CoV-2 environment",
+      "summary": "Elderberries high in C3G demonstrate vascular protective properties and prevention of cardiovascular disease-related complications, with potential benefits for endothelial dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35118699/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User feedback discussions show limited direct user experience with C3G specifically, though users discuss it positively as a thermogenic supplement when combined with other compounds like black ginger. The broader supplement community shows cautious optimism about natural compounds but remains concerned about sourcing quality and long-term safety of various supplements."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Randomized controlled trials show 4.2% body mass reduction over 6 months with blood orange extract containing C3G versus 2.2% with placebo"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Research indicates C3G effectiveness varies with dosage, with standardized extracts from blood oranges showing consistent metabolic benefits"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works through multiple pathways including mitochondrial biogenesis, brown adipose tissue activation, and gut microbiota modulation for comprehensive metabolic support"
+    },
+    {
+      "label": "Limited Long-Term Data:",
+      "description": "While short to medium-term studies (6-12 months) show benefits, extensive long-term human data beyond this timeframe is limited"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Blood Orange Extract:",
+      "description": "Clinical trials used standardized Moro blood orange extract daily for 6 months showing significant weight loss and metabolic improvements"
+    },
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use 100 mg/kg/day C3G, though human equivalent doses require conversion and clinical validation"
+    },
+    {
+      "label": "Natural Sources:",
+      "description": "C3G is abundant in blackberries, elderberries, black rice, and blood oranges as dietary sources"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Users report taking C3G-containing supplements in the morning, sometimes combined with other thermogenic compounds"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Research studies report minimal adverse effects with C3G supplementation in clinical trials"
+    },
+    {
+      "label": "Potential Interactions:",
+      "description": "Users note theoretical interactions with curcumin and other supplements that affect drug-metabolizing enzymes"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Broader supplement community expresses concerns about heavy metal contamination in plant-based supplements, emphasizing need for third-party testing"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Long-term safety data beyond 6-12 months in humans is not extensively documented in available literature"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Food Sources:",
+      "description": "Readily available through dietary sources including berries, blood oranges, black rice, and purple corn"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as standardized blood orange extracts (like Moro cultivar) and standalone C3G supplements from various vendors including specialty retailers"
+    },
+    {
+      "label": "Quality Verification:",
+      "description": "Users recommend sourcing from reputable brands with third-party testing due to concerns about contamination in plant-based supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

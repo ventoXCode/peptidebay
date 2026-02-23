@@ -1,0 +1,125 @@
+{
+  "slug": "i3c",
+  "url": "https://dopamine.club/substances/i3c/",
+  "scrapedAt": "2026-02-12T16:08:39.549Z",
+  "title": "I3C",
+  "description": "Indole-3-carbinol (I3C) is a naturally occurring compound found in cruciferous vegetables like broccoli and Brussels sprouts that is converted to DIM (diindolylmethane) in the stomach. It works primarily by modulating estrogen metabolism, promoting the formation of beneficial 2-hydroxy estrogen metabolites while reducing harmful 16-hydroxy metabolites. I3C is primarily used for estrogen balance, potential cancer prevention (particularly hormone-related cancers), and supporting healthy detoxification pathways.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vegetable and fruit intake after diagnosis and risk of prostate cancer progression",
+      "summary": "Study examining how vegetable intake, particularly cruciferous vegetables containing I3C, may influence prostate cancer progression and overall cancer outcomes in diagnosed patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Choline Forms and Gut Microbiota Composition on Trimethylamine-N-Oxide Response in Healthy Men",
+      "summary": "Research on how different dietary compounds including those in cruciferous vegetables affect gut microbiota metabolism and TMAO production, which is linked to cardiovascular disease risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32722424/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Implication of Trimethylamine N-Oxide (TMAO) in Disease: Potential Biomarker or New Therapeutic Target",
+      "summary": "Review examining TMAO's role in cardiovascular and neurological disorders, and how dietary interventions including cruciferous vegetable consumption may reduce TMAO levels and associated disease risks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User experiences with I3C are genuinely mixed, with some reporting benefits for estrogen metabolism and gynecomastia reduction, while others express concerns about potential carcinogenic effects, DHT blocking, and poor bioavailability. Many users debate whether I3C or DIM is more effective, with no clear consensus."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Multiple users and sources note that I3C has poor bioavailability in supplement form, with some suggesting food sources (broccoli, Brussels sprouts) may be more effective"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between users, with some experiencing noticeable benefits for estrogen-related issues while others see no changes"
+    },
+    {
+      "label": "Food vs Supplement Debate:",
+      "description": "Users frequently discuss whether consuming 300-400g of broccoli daily provides adequate I3C compared to supplements, with no definitive answer"
+    },
+    {
+      "label": "I3C vs DIM Comparison:",
+      "description": "Ongoing debate about whether I3C (which converts to DIM in the stomach) or taking DIM directly is more effective, with slight preference toward I3C for better absorption"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "Users commonly reference dosages without specific amounts, suggesting they rely on product labels or cruciferous vegetable consumption"
+    },
+    {
+      "label": "Food Equivalents:",
+      "description": "300-400g of cooked broccoli daily is discussed as a natural alternative to supplementation"
+    },
+    {
+      "label": "No Standard Protocol:",
+      "description": "Unlike other supplements, there's no clear consensus on optimal I3C dosing, with users taking varying amounts based on product formulations"
+    },
+    {
+      "label": "Combination Approach:",
+      "description": "Some users combine I3C with other estrogen modulators like Calcium D-Glucarate, though specific dosing protocols aren't detailed"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Carcinogenic Concerns:",
+      "description": "Several users express worry about potentially carcinogenic side effects from I3C supplementation, leading some to discontinue use"
+    },
+    {
+      "label": "DHT Blocking:",
+      "description": "Reports that I3C may block DHT (dihydrotestosterone), which could negatively impact male characteristics and muscle building"
+    },
+    {
+      "label": "mTOR Inhibition:",
+      "description": "Some users note concerns that I3C might block mTOR pathways, potentially interfering with muscle growth and recovery"
+    },
+    {
+      "label": "Minimal Direct Reports:",
+      "description": "Despite concerns, few users report experiencing actual negative side effects from taking I3C, suggesting theoretical risks may outweigh practical ones"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Supplement:",
+      "description": "I3C is widely available as a dietary supplement from various brands, though quality and formulation vary significantly"
+    },
+    {
+      "label": "Food Sources Preferred:",
+      "description": "Many users express preference for obtaining I3C through cruciferous vegetables rather than supplements due to bioavailability and safety concerns"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize choosing reputable brands, though specific recommendations are limited in the discussions provided"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

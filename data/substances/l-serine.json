@@ -1,0 +1,155 @@
+{
+  "slug": "l-serine",
+  "url": "https://dopamine.club/substances/l-serine/",
+  "scrapedAt": "2026-02-12T16:09:05.576Z",
+  "title": "L-SERINE",
+  "description": "L-Serine is a non-essential amino acid that plays a crucial role in protein synthesis, neurotransmitter production, and sphingolipid formation in the central nervous system. It works by activating glycine receptors, supporting PPAR-γ upregulation, and serving as a precursor for D-serine, contributing to neuroprotection, cognitive function, and glucose metabolism. L-Serine supplementation has shown therapeutic potential in neurological disorders, diabetic neuropathy, cognitive decline, and metabolic conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "L-serine treatment in patients with GRIN-related encephalopathy: a phase 2A, non-randomized study",
+      "summary": "L-serine supplementation showed clinical improvement in patients with GRIN-related encephalopathy, demonstrating neuroprotective effects in severe neurological conditions with genetic mutations affecting NMDA receptors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38380699/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-serine: a neglected amino acid with a potential therapeutic role in diabetes",
+      "summary": "L-serine metabolism is altered in type 1, type 2, and gestational diabetes, with supplementation improving glucose homeostasis, insulin secretion, and mitochondrial function while reducing neuronal death.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31344283/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-serine supplementation lowers diabetes incidence and improves blood glucose homeostasis in NOD mice",
+      "summary": "Continuous L-serine supplementation reduced diabetes incidence and insulitis scores in NOD mice while improving glucose tolerance, reducing HOMA-IR, and lowering blood glucose levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29543915/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral L-serine supplementation reduces production of neurotoxic deoxysphingolipids in hereditary sensory neuropathy",
+      "summary": "L-serine supplementation effectively reduced neurotoxic deoxysphingolipid production in HSAN1 patients, demonstrating therapeutic potential for hereditary sensory and autonomic neuropathy type 1.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22045570/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-Serine Supplementation Blunts Fasting-Induced Weight Regain by Increasing Brown Fat Thermogenesis",
+      "summary": "L-serine supplementation prevented weight regain after fasting by enhancing brown fat thermogenesis and improving metabolic parameters in mice subjected to repeated overnight fasting.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35565889/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-serine supplementation attenuates alcoholic fatty liver by enhancing homocysteine metabolism in mice and rats",
+      "summary": "L-serine supplementation prevented alcoholic fatty liver development by enhancing homocysteine metabolism and reducing hepatic steatosis in both acute and chronic alcohol exposure models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25644346/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Long-term effects of l-serine supplementation upon a mouse model of diabetic neuropathy",
+      "summary": "L-serine supplementation reduced neurotoxic 1-deoxysphingolipid accumulation and improved insulin sensitivity and sensory nerve velocity in diabetic neuropathy models, though long-term outcomes require further examination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36610321/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-Serine Deficiency Elicits Intracellular Accumulation of Cytotoxic Deoxysphingolipids and Lipid Body Formation",
+      "summary": "L-serine deficiency leads to accumulation of cytotoxic deoxysphingolipids and lipid body formation, highlighting the essential role of L-serine in preventing cellular toxicity and maintaining metabolic health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25903138/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User sentiment is mixed with some reporting cognitive benefits and memory improvements, while others find minimal effects or report the need to combine with other supplements. Limited direct user discussion compared to research evidence suggests moderate awareness and adoption."
+  },
+  "effects": [
+    {
+      "label": "Memory Support:",
+      "description": "Moderate effectiveness for memory improvement, though users note it may work better as part of a comprehensive stack rather than standalone"
+    },
+    {
+      "label": "Neurological Conditions:",
+      "description": "Strong evidence for effectiveness in specific neurological disorders including GRIN-related encephalopathy and diabetic neuropathy"
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "Research supports sustained benefits with continuous supplementation, particularly for metabolic and neuroprotective effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly based on individual health status, with greater benefits seen in those with neurological or metabolic deficiencies"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Cognitive Support:",
+      "description": "2-3 grams taken 4 hours before bed for sleep-related issues, as reported by users"
+    },
+    {
+      "label": "Therapeutic Doses:",
+      "description": "Research protocols use 200-400mg/kg body weight for neurological conditions, translating to several grams daily for adults"
+    },
+    {
+      "label": "Preventive Use:",
+      "description": "Lower doses of 500mg-2g daily appear in user stacks for general cognitive support"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Some users find effectiveness improved when taken at specific times, particularly evening doses for sleep benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Generally well-tolerated with few reported adverse effects in both research and user experiences"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Paradoxically, some users report mild sleep disturbances when not properly timed"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Limited reports suggest some individuals may experience anxiety or restlessness at higher doses"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Research indicates good safety profile for extended use, with most studies showing no significant adverse events"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Market:",
+      "description": "Available as standalone L-serine supplements from various manufacturers, often in 500mg capsules"
+    },
+    {
+      "label": "Brand Quality:",
+      "description": "Users mention brands like Ajipure for higher purity, though specific brand recommendations are limited in discussions"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Classified as GRAS (Generally Recognized As Safe) by FDA, readily available without prescription"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "ECKLONIA CAVA",
+      "slug": "ecklonia-cava"
+    },
+    {
+      "name": "IDRA-21",
+      "slug": "idra-21"
+    },
+    {
+      "name": "LUTEOLIN",
+      "slug": "luteolin"
+    }
+  ]
+}

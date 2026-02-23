@@ -1,0 +1,137 @@
+{
+  "slug": "udca",
+  "url": "https://dopamine.club/substances/udca/",
+  "scrapedAt": "2026-02-12T16:12:04.127Z",
+  "title": "UDCA",
+  "description": "UDCA (Ursodeoxycholic Acid) is a naturally occurring bile acid approved by the FDA for treating primary biliary cirrhosis and dissolving gallstones. It works by reducing toxic bile acid levels in the liver, improving bile flow, and potentially exhibiting anti-apoptotic and anti-inflammatory effects. TUDCA (Tauroursodeoxycholic Acid) is a taurine-conjugated form with enhanced bioavailability and cellular protective properties.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ursodiol for the Long-Term Treatment of Primary Biliary Cirrhosis",
+      "summary": "Long-term ursodiol therapy (13-15 mg/kg/day) significantly slowed disease progression in primary biliary cirrhosis patients, reduced need for liver transplantation by 79%, and decreased mortality compared to placebo over 4 years.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8182468/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tauroursodeoxycholic acid for the treatment of chronic hepatitis: a multicentre dose-response study",
+      "summary": "TUDCA at doses of 500-1000 mg daily significantly improved liver enzyme levels (ALT, GGT) in 155 patients with chronic hepatitis, with progressive improvement over 6 months and better results at higher doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9882455/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tauroursodeoxycholate—Bile Acid with Chaperoning Activity: Molecular and Cellular Effects and Therapeutic Perspectives",
+      "summary": "TUDCA demonstrates therapeutic potential beyond liver disorders, showing benefits in models of diabetes, obesity, and neurodegenerative diseases through endoplasmic reticulum stress reduction and anti-apoptotic mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31757001/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ursodeoxycholic Acid - StatPearls",
+      "summary": "UDCA is effective for dissolving cholesterol gallstones and treating primary biliary cholangitis, with extensive evidence supporting its hepatoprotective properties and safety profile when used at appropriate doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31613451/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Molecular Mechanisms of Ursodeoxycholic Acid Toxicity & Side Effects",
+      "summary": "At very high doses (28 mg/kg/day) in primary sclerosing cholangitis, UDCA showed unexpected toxicity including increased mortality and need for transplantation, though standard therapeutic doses remain well-tolerated.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22942741/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative, with significant concerns about toxicity, mutagenic effects, and false advertising of TUDCA's benefits. While some users report liver enzyme improvements, the majority express skepticism and safety concerns, particularly regarding UDCA's potential DNA damage and severe side effects at higher doses."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Clinical studies show 500-1000mg TUDCA daily is more effective than 250mg for liver enzyme improvement"
+    },
+    {
+      "label": "Prescription vs. Supplement:",
+      "description": "UDCA is FDA-approved medication for specific liver conditions; supplement market claims may overstate benefits"
+    },
+    {
+      "label": "Mixed Clinical Evidence:",
+      "description": "While effective for primary biliary cirrhosis at 13-15 mg/kg/day, higher doses (28 mg/kg/day) in primary sclerosing cholangitis showed increased mortality"
+    },
+    {
+      "label": "Limited General Use Support:",
+      "description": "Most benefits documented in specific liver disease populations; evidence for general liver health in healthy individuals is limited"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "TUDCA Supplementation:",
+      "description": "500-1000mg daily appears most commonly discussed, with higher doses showing better enzyme improvements in studies"
+    },
+    {
+      "label": "UDCA Medical Dosing:",
+      "description": "Prescription doses range from 13-15 mg/kg/day for primary biliary cirrhosis (approximately 900-1200mg for 70kg person)"
+    },
+    {
+      "label": "Toxic Threshold:",
+      "description": "Doses of 28 mg/kg/day (approximately 2000mg for 70kg person) associated with severe adverse effects and increased mortality"
+    },
+    {
+      "label": "Duration:",
+      "description": "Some users report taking 300mg UDCA twice daily (600mg total) long-term under medical supervision"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mutagenic Concerns:",
+      "description": "Users cite research showing UDCA inhibits DNA repair mechanisms and acts as co-mutagen, raising long-term safety concerns"
+    },
+    {
+      "label": "Severe Toxicity at High Doses:",
+      "description": "Hepatitis, pruritus, cholangitis, ascites, liver failure, severe watery diarrhea, and pneumonia reported in clinical trials"
+    },
+    {
+      "label": "Bloating and Digestive Issues:",
+      "description": "Some users question whether UDCA contributes to gastrointestinal symptoms when combined with other supplements"
+    },
+    {
+      "label": "Withdrawal Syndrome:",
+      "description": "Sudden discontinuation may cause withdrawal effects according to clinical literature"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "UDCA is FDA-approved medication available by prescription in most countries, though available OTC in some pharmacies internationally"
+    },
+    {
+      "label": "TUDCA Supplements:",
+      "description": "Available as dietary supplement in many regions, though availability varies; some users unable to source locally"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Significant debate about supplement market claims versus actual pharmaceutical-grade UDCA/TUDCA effectiveness and purity"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

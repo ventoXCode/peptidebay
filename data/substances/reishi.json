@@ -1,0 +1,156 @@
+{
+  "slug": "reishi",
+  "url": "https://dopamine.club/substances/reishi/",
+  "scrapedAt": "2026-02-12T16:10:58.752Z",
+  "title": "REISHI",
+  "description": "Reishi (Ganoderma lucidum) is a medicinal mushroom used in traditional Chinese medicine, containing bioactive compounds including polysaccharides, triterpenoids, and beta-glucans. It functions primarily as an immunomodulator, with antioxidant, anti-inflammatory, and adaptogenic properties that support immune function, stress response, and overall wellness. Commonly used as a daily supplement for immune support, sleep quality, anxiety reduction, and general health promotion.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Health-Promoting of Polysaccharides Extracted from Ganoderma lucidum",
+      "summary": "Ganoderma lucidum polysaccharides demonstrate antioxidant, immunomodulatory, antineurodegenerative and antidiabetic activities, supporting its traditional use for vitality and health improvement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34444885/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Review of Ganoderma Triterpenoids and Their Bioactivities",
+      "summary": "Comprehensive review of triterpenoid compounds in Ganoderma species showing diverse bioactive properties including anti-inflammatory and immunomodulatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36671409/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ganoderma lucidum dry extract supplementation modulates T lymphocyte function in older women",
+      "summary": "Supplementation with Ganoderma lucidum dry extract modulated immune T lymphocyte function in older women, demonstrating immunological benefits in aging populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38800991/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of Lingzhi or Reishi Medicinal Mushroom Ganoderma lucidum Supplementation on Psychological Stress and Selective Fitness Profile Parameters",
+      "summary": "Daily supplementation of 500-1000mg Ganoderma lucidum improved psychophysiological health capabilities and stress management in female college students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39241163/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Medicinal Fungi with Antiviral Effect",
+      "summary": "Review of medicinal fungi including Ganoderma lucidum showing antiviral properties through immune enhancement and direct antiviral activities against human, animal, and plant viruses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35889330/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ganoderma lucidum (Reishi) in cancer treatment",
+      "summary": "Ganoderma lucidum inhibits tumor invasiveness by suppressing cell adhesion and migration in breast and prostate cancer cells, showing potential as dietary supplement for cancer support.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14713328/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Probing Lingzhi or Reishi medicinal mushroom Ganoderma lucidum: a bitter mushroom with amazing health benefits",
+      "summary": "Comprehensive review of bioactive components in Reishi including polysaccharides, triterpenoids, and minerals showing benefits for hepatitis, hypertension, diabetes, asthma, and immune enhancement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23557365/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Immuno-physiological effects of dietary reishi mushroom powder as a source of beta-glucan",
+      "summary": "Dietary supplementation with reishi mushroom powder containing beta-glucan demonstrated immune-enhancing effects and improved resistance to bacterial challenge in fish model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37670115/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report positive effects for immune support, sleep quality, and stress management, with Reishi commonly included in effective supplement stacks. However, responses are highly individual with some users experiencing sedation, brain fog, or digestive issues, and effectiveness varies significantly between brands and extraction methods."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Most effective when stacked with other mushrooms (Lion's Mane, Cordyceps, Turkey Tail) or adaptogens rather than as standalone supplement"
+    },
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Users recommend reputable brands with emphasis on fruiting body extracts over mycelium products"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Immune and stress benefits typically noticed within 2-4 weeks of consistent daily use, with some users requiring longer adaptation periods"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Highly variable effectiveness with some users experiencing dramatic benefits while others report minimal effects or need to discontinue"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "500-1000mg of extract daily is most commonly used, with research supporting dosages up to 2000mg"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically taken in evening or before bed due to calming effects, though some users take morning doses without sedation"
+    },
+    {
+      "label": "Extract vs Powder:",
+      "description": "Users emphasize importance of concentrated extracts (at least 1:4 ratio) over raw powder for bioavailability and effectiveness"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users cycle reishi periodically, though many take daily long-term without reported tolerance issues"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report diarrhea, IBS flare-ups, or gut discomfort, particularly those with existing digestive sensitivities or SIBO"
+    },
+    {
+      "label": "Excessive Sedation:",
+      "description": "Can cause daytime drowsiness, brain fog, or feeling \"in a daze\" for some users, especially at higher doses"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Small subset of users report paradoxical anxiety, dissociation, or worsening of mental clarity despite calming reputation"
+    },
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Many users report no adverse effects with long-term daily use when using quality extracts at appropriate doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Readily accessible through health food stores, online retailers, and supplement companies with multiple format options (capsules, powders, extracts, teas)"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Significant quality differences between brands; users recommend third-party tested products with verified beta-glucan content from reputable sources"
+    },
+    {
+      "label": "Price Range:",
+      "description": "Generally affordable compared to other nootropics, with bulk powders offering best value though capsules preferred for convenience and taste masking"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ASHWAGANDHA",
+      "slug": "ashwagandha"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "ELEUTHERO",
+      "slug": "eleuthero"
+    }
+  ]
+}

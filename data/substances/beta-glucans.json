@@ -1,0 +1,127 @@
+{
+  "slug": "beta-glucans",
+  "url": "https://dopamine.club/substances/beta-glucans/",
+  "scrapedAt": "2026-02-12T16:06:06.988Z",
+  "title": "BETA-GLUCANS",
+  "description": "Beta-glucans are naturally occurring polysaccharides found in the cell walls of cereals, yeast, and fungi that act as biological response modifiers. They work by binding to specific receptors on immune cells like macrophages and NK cells to enhance host immune defense and by acting as fermentable fibers that modulate the gut microbiota.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Beta Glucan: Supplement or Drug? From Laboratory to Clinical Trials",
+      "summary": "This review highlights beta-glucans as potent immunostimulants with over 80 clinical trials evaluating their role in immune reaction modulation and cancer treatment support.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30935016/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Interaction between β-glucans and gut microbiota: a comprehensive review",
+      "summary": "Research confirms that beta-glucans act as prebiotic fibers that stimulate beneficial gut bacteria, leading to improved metabolic health and intestinal fermentation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36975759/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of oat β-glucan on LDL-cholesterol, non-HDL-cholesterol and apoB for CVD risk reduction: a systematic review and meta-analysis of randomised-controlled trials",
+      "summary": "A meta-analysis of randomized controlled trials found that oat beta-glucan significantly reduces LDL-cholesterol and apoB, markers for cardiovascular disease risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27724985/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect and Tolerability of a Nutritional Supplement Based on a Synergistic Combination of β-Glucans and Selenium- and Zinc-Enriched Saccharomyces cerevisiae in Volunteers Receiving the Influenza or the COVID-19 Vaccine",
+      "summary": "A clinical study showed that yeast-based beta-glucans increased CD4+ T cell levels in vaccinated individuals, suggesting an adjuvant effect on vaccine responses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34959898/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users widely recommend beta-glucans for immune support and secondary benefits like improved skin health and metabolic regulation, with very few reported side effects."
+  },
+  "effects": [
+    {
+      "label": "Immune Defense:",
+      "description": "Clinical evidence strongly supports its use in reducing the duration and severity of respiratory infections."
+    },
+    {
+      "label": "Metabolic Health:",
+      "description": "Highly effective for lipid profile improvement, particularly when sourced from oats."
+    },
+    {
+      "label": "Digestive Health:",
+      "description": "Acts as a functional fiber that improves bowel regularity and gut microbiota composition."
+    },
+    {
+      "label": "Cancer Support:",
+      "description": "Emerging as a significant adjuvant therapy to boost immune response during conventional cancer treatments."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Daily Maintenance:",
+      "description": "Common supplemental doses range from 250 mg to 500 mg for general immune support."
+    },
+    {
+      "label": "Clinical Dose:",
+      "description": "Up to 3 grams of oat beta-glucan daily is often required for significant cholesterol-lowering effects."
+    },
+    {
+      "label": "Supplement Standardization:",
+      "description": "Multi-mushroom extracts often standardize to 20-30% beta-glucan content for transparency."
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken on an empty stomach for immune purposes, or with meals when used for metabolic control."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "High doses of fiber-based beta-glucans may cause bloating or flatulence in sensitive individuals."
+    },
+    {
+      "label": "Interactions:",
+      "description": "May theoretically interfere with immunosuppressant medications due to its immune-stimulating nature."
+    },
+    {
+      "label": "Mild Fatigue:",
+      "description": "Some users report temporary changes in energy levels as the immune system is modulated."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Widely available in common foods like oats, barley, and medicinal mushrooms like Reishi and Shiitake."
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Sold as isolated yeast (Saccharomyces) extracts or as components of mushroom polysaccharide complexes."
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally Recognized as Safe (GRAS) and available over-the-counter globally."
+    }
+  ],
+  "related": [
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "CYANIDIN",
+      "slug": "cyanidin"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

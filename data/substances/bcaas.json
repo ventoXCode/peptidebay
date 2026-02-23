@@ -1,0 +1,134 @@
+{
+  "slug": "bcaas",
+  "url": "https://dopamine.club/substances/bcaas/",
+  "scrapedAt": "2026-02-12T16:06:02.897Z",
+  "title": "BCAAS",
+  "description": "Branched-Chain Amino Acids (BCAAs) consist of three essential amino acids—leucine, isoleucine, and valine—that are unique because they are primarily metabolized in skeletal muscle rather than the liver. They serve as critical building blocks for protein synthesis and act as signaling molecules, particularly through the mTOR pathyway, to stimulate muscle repair and regulate energy metabolism.",
+  "categories": [
+    "Amino Acid",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Oral Branched-Chain Amino Acids Supplementation in Athletes: A Systematic Review",
+      "summary": "This review found that while BCAAs activate anabolic signaling pathways, evidence for significant improvements in athletic performance and body composition remains inconsistent among well-trained populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36235655/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Branched-chain amino acids in health and disease: metabolism, alterations in blood plasma, and as supplements",
+      "summary": "This study highlights that BCAA metabolism is altered in various disease states, showing therapeutic potential for chronic renal failure and liver cirrhosis but potentially contributing to insulin resistance in obesity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29755574/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exercise promotes BCAA catabolism: effects of BCAA supplementation on skeletal muscle during exercise",
+      "summary": "Research indicates that exercise increases the activity of the rate-limiting enzyme for BCAA breakdown, suggesting that supplementation may help maintain muscle levels during strenuous physical activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15173434/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of BCAA metabolism in metabolic health and disease",
+      "summary": "Metabolic analysis suggests that while BCAAs are essential, high circulating levels are associated with metabolic disorders like Type 2 diabetes and may even accelerate aging-related processes if overconsumed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38956299/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Branched-Chain Amino Acids in Liver Diseases: Complexity and Controversy",
+      "summary": "Clinical evidence supports the use of BCAA supplementation to improve outcomes in patients with liver cirrhosis and hepatic encephalopathy by helping detoxify ammonia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38931228/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users are highly divided; while some swear by BCAAs for reducing muscle soreness (DOMS), many experienced lifters and professionals view them as an unnecessary expense if daily protein intake is already sufficient."
+  },
+  "effects": [
+    {
+      "label": "Protein Intake Dependency:",
+      "description": "General consensus holds that BCAAs offer little to no benefit for those already consuming 1.6g to 2.2g of protein per kg of body weight."
+    },
+    {
+      "label": "Fasted Training:",
+      "description": "Users find BCAAs most effective when training in a fasted state to prevent muscle breakdown."
+    },
+    {
+      "label": "Specific for Soreness:",
+      "description": "While they may not build significantly more muscle than whey, they are noted as highly effective specifically for recovery from high-volume training."
+    },
+    {
+      "label": "Disease Management:",
+      "description": "Research strongly supports their effectiveness in managing cirrhosis and urea cycle disorders compared to general fitness use."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Ratio:",
+      "description": "Most supplements and studies utilize a 2:1:1 ratio of Leucine to Isoleucine and Valine."
+    },
+    {
+      "label": "Common Dose:",
+      "description": "Effective user doses for soreness typically range from 5g to 10g taken pre- or intra-workout."
+    },
+    {
+      "label": "Pill vs Powder:",
+      "description": "Users note that pill forms are often underdosed; powder is preferred to reach effective gram-level dosages easily."
+    },
+    {
+      "label": "Clinical Dosing:",
+      "description": "Therapeutic doses for liver disease are much higher and usually administered under medical supervision."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Insulin Resistance:",
+      "description": "Long-term high circulating BCAA levels are clinically linked to metabolic dysfunction and decreased insulin sensitivity."
+    },
+    {
+      "label": "Digestive Distress:",
+      "description": "Some users report bloating or nausea, though often less severe than with certain whey protein concentrates."
+    },
+    {
+      "label": "Skin Issues:",
+      "description": "Some research and anecdotes link high BCAA intake to increased acne through the stimulation of mTORC1."
+    },
+    {
+      "label": "Mood Alteration:",
+      "description": "Because they compete with tryptophan, excessive intake may theoretically lower serotonin and impact mood or sleep in sensitive individuals."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing:",
+      "description": "Widely available as a standalone supplement, but users often recommend getting them through whole food sources or whey protein to save money."
+    },
+    {
+      "label": "Regulation:",
+      "description": "Marketed as a dietary supplement; transparency varies, so users recommend third-party tested brands to avoid contaminants like lead."
+    }
+  ],
+  "related": [
+    {
+      "name": "ARGININE",
+      "slug": "arginine"
+    },
+    {
+      "name": "CITRULLINE",
+      "slug": "citrulline"
+    },
+    {
+      "name": "GLUTAMINE",
+      "slug": "glutamine"
+    },
+    {
+      "name": "GLYCINE",
+      "slug": "glycine"
+    },
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    }
+  ]
+}

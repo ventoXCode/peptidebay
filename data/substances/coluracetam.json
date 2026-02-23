@@ -1,0 +1,114 @@
+{
+  "slug": "coluracetam",
+  "url": "https://dopamine.club/substances/coluracetam/",
+  "scrapedAt": "2026-02-12T16:06:53.994Z",
+  "title": "COLURACETAM",
+  "description": "Coluracetam is a nootropic compound belonging to the racetam family that works by enhancing high-affinity choline uptake (HACU) in cholinergic neurons, which may help preserve acetylcholine synthesis even when neurons are impaired. It is primarily investigated for potential cognitive enhancement, particularly in situations involving impaired choline uptake, though its mechanism differs from direct acetylcholine modulation.",
+  "categories": [
+    "Nootropic",
+    "Racetam"
+  ],
+  "research": [
+    {
+      "title": "Ketamine and other potential glutamate antidepressants",
+      "summary": "Review examining glutamate mechanisms in depression, including effects on NMDA and AMPA receptors, which relates to racetam mechanisms of action that involve glutamatergic modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25467702/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with coluracetam are highly variable, with some reporting noticeable wakefulness and mental clarity effects, while others report acute depression, anxiety, or no noticeable benefits. Many users find it works better in combination with other racetams but express frustration with inconsistent results and potential negative mood effects."
+  },
+  "effects": [
+    {
+      "label": "Highly Individual Response:",
+      "description": "Effectiveness varies dramatically between users, with some reporting strong benefits and others experiencing negative effects or no response"
+    },
+    {
+      "label": "Short Duration:",
+      "description": "Multiple users note that coluracetam's effects are relatively short-lived and may lead to crashes, requiring careful timing or combination with other compounds"
+    },
+    {
+      "label": "Better as Stack Component:",
+      "description": "Most positive experiences involve using coluracetam in combination with other nootropics rather than as a standalone supplement"
+    },
+    {
+      "label": "Impaired Choline Uptake Theory:",
+      "description": "May work best for individuals with underlying impairments in choline uptake rather than providing universal nootropic benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "10-20mg capsules are commonly mentioned in user stacks, taken 1-2 times daily"
+    },
+    {
+      "label": "Loading Phase Uncertainty:",
+      "description": "Users express confusion about whether coluracetam requires a loading phase like other racetams or works acutely"
+    },
+    {
+      "label": "Stack Dosing:",
+      "description": "Often combined with 150mg Alpha-GPC or other choline sources when used in racetam stacks"
+    },
+    {
+      "label": "Low Dose Consideration:",
+      "description": "Some users include it at lower doses (10mg) specifically to potentiate other racetams rather than for standalone effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Acute Depression/Anxiety:",
+      "description": "Multiple users report experiencing sudden depression and anxiety as a primary negative effect"
+    },
+    {
+      "label": "Energy Crashes:",
+      "description": "Users note crashes or energy drops after the effects wear off, particularly without additional stimulant support"
+    },
+    {
+      "label": "Irritability:",
+      "description": "Some users report increased irritability, especially when dosing too high or in certain combinations"
+    },
+    {
+      "label": "Headspace Alteration:",
+      "description": "Can cause uncomfortable mental states or feelings of being 'not myself' in some individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Vendor Accessibility:",
+      "description": "Available from nootropic vendors in capsule form (typically 20mg) and powder form (often sold in 1/4 gram quantities)"
+    },
+    {
+      "label": "Common Stack Component:",
+      "description": "Frequently included in pre-planned nootropic stacks from various suppliers"
+    },
+    {
+      "label": "International Sourcing:",
+      "description": "Some users report obtaining racetam powders from Chinese chemical distributors via Alibaba, though quality and legality may vary by region"
+    }
+  ],
+  "related": [
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    },
+    {
+      "name": "NEFIRACETAM",
+      "slug": "nefiracetam"
+    },
+    {
+      "name": "Oxiracetam",
+      "slug": "oxiracetam"
+    },
+    {
+      "name": "Phenylpiracetam",
+      "slug": "phenylpiracetam"
+    },
+    {
+      "name": "Piracetam",
+      "slug": "piracetam"
+    }
+  ]
+}

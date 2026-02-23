@@ -1,0 +1,150 @@
+{
+  "slug": "jiaogulan",
+  "url": "https://dopamine.club/substances/jiaogulan/",
+  "scrapedAt": "2026-02-12T16:08:56.428Z",
+  "title": "JIAOGULAN",
+  "description": "Jiaogulan (Gynostemma pentaphyllum) is a climbing vine native to Asia containing dammarane-type saponins called gypenosides, which are structurally similar to ginsenosides found in ginseng. It acts primarily through AMPK activation and modulation of mitochondrial function, showing effects on glucose metabolism, fat oxidation, and cellular energy regulation. Traditionally used in Chinese medicine as an adaptogen, it's now studied for metabolic health, weight management, and longevity.",
+  "categories": [
+    "Herb",
+    "Adaptogen"
+  ],
+  "research": [
+    {
+      "title": "Antiobesity effect of Gynostemma pentaphyllum extract (actiponin): a randomized, double-blind, placebo-controlled trial",
+      "summary": "A 12-week study of 80 obese participants found that 450mg daily of heat-processed Gynostemma pentaphyllum extract significantly reduced body weight, abdominal fat distribution, and improved blood lipid profiles compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23804546/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of an orally-dosed Gynostemma pentaphyllum extract (ActivAMP®) on body composition in overweight, adult men and women: A double-blind, randomised, placebo-controlled study",
+      "summary": "117 overweight adults taking Gynostemma pentaphyllum extract for 16 weeks showed significant reductions in total body weight, BMI, total fat mass, and gynoid fat mass, along with improvements in plasma triglycerides and liver enzymes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34323337/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gypenosides Reduced the Risk of Overweight and Insulin Resistance in C57BL/6J Mice through Modulating Adipose Thermogenesis and Gut Microbiota",
+      "summary": "Animal study showed that 300mg/kg/day gypenosides reduced body weight by 19.9%, plasma cholesterol by 40%, and insulin resistance by 36% through modulation of adipose thermogenesis and beneficial gut microbiota changes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28975783/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bifidobacterium animalis: the missing link for the cancer-preventive effect of Gynostemma pentaphyllum",
+      "summary": "Research identified that Gynostemma pentaphyllum saponins exert cancer-preventive effects through modulation of gut microbiota, specifically through enrichment of Bifidobacterium animalis which reduces polyps in ApcMin/+ mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33228450/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective effects of Gypenosides: A review on preclinical studies in neuropsychiatric disorders",
+      "summary": "Comprehensive review of preclinical studies demonstrating gypenosides' neuroprotective mechanisms including antioxidant effects, anti-inflammation, and modulation of neurotransmitter systems relevant to neuropsychiatric conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38908668/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dammarane-type saponins from Gynostemma pentaphyllum and their anti-aging activities via up-regulating mitochondria related proteins",
+      "summary": "Study found that Gynostemma pentaphyllum extract up-regulates genes involved in oxidative phosphorylation and sirtuin signaling pathways, improving cell viability through enhanced mitochondrial function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37301356/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mushroom polysaccharides and jiaogulan saponins exert cancer preventive effects by shaping the gut microbiota and microenvironment in Apc(Min/+) mice",
+      "summary": "Combined mushroom polysaccharides and jiaogulan saponins demonstrated cancer-preventive properties by favorably modulating gut microbiota composition and the intestinal microenvironment in a colorectal cancer model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31499195/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with Jiaogulan, particularly noting improved appetite control, steady energy without jitters, stable mood, and effective weight loss support. While some report mild side effects like low blood pressure or digestive changes, most users find it beneficial for stress management and metabolic health."
+  },
+  "effects": [
+    {
+      "label": "AMPK Activation:",
+      "description": "Works through cellular energy regulation and AMPK pathway activation, which explains effects on metabolism, fat oxidation, and glucose uptake"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effects appear dose-dependent and individualized - some users feel strong effects at lower doses while others need higher amounts for benefits"
+    },
+    {
+      "label": "Synergistic Combinations:",
+      "description": "Works particularly well when combined with black seed oil for mood/stress, or as part of adaptogen rotations with ginseng and rhodiola"
+    },
+    {
+      "label": "Research Support:",
+      "description": "Clinical trials demonstrate measurable effects on body composition, fat mass reduction, and metabolic markers at standardized extract doses"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Study Dose:",
+      "description": "450mg daily of standardized extract (actiponin) or 225mg twice daily showed significant effects in weight loss trials"
+    },
+    {
+      "label": "Traditional Tea Preparation:",
+      "description": "6g daily of dried herb divided into two doses (3g twice daily) taken 30 minutes before meals commonly used in diabetes studies"
+    },
+    {
+      "label": "User Experiences:",
+      "description": "Reported doses range from 500mg capsules twice daily up to 8.1g of powder 2-3x daily, with higher doses more likely to affect blood pressure"
+    },
+    {
+      "label": "Extract Concentration:",
+      "description": "Standardized extracts containing 85% gypenosides used at 180-300mg doses, providing concentrated active compounds compared to raw herb"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Blood Pressure Effects:",
+      "description": "Most commonly reported side effect is lowering of blood pressure, which can be beneficial for some but problematic for those with already low BP"
+    },
+    {
+      "label": "Digestive Changes:",
+      "description": "Some users report increased bowel movements or mild gastrointestinal effects, particularly at higher doses"
+    },
+    {
+      "label": "DHT Blocking:",
+      "description": "Reports of decreased libido in some users, attributed to DHT-blocking properties similar to other adaptogens"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Clinical trials report good safety profile with most side effects being mild and dose-dependent, easily managed by dosage adjustment"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Reputable Sources:",
+      "description": "Users recommend purchasing from established nootropic sources like reputable suppliers or specialized herb sources rather than generic marketplaces"
+    },
+    {
+      "label": "Form Options:",
+      "description": "Available as standardized extracts in capsules, raw powder, dried herb for tea, and liquid extracts, with extracts providing more consistent dosing"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Some caution about products from certain regions due to quality control issues; users emphasize importance of third-party testing and reputable brands"
+    }
+  ],
+  "related": [
+    {
+      "name": "RHODIOLA ROSEA",
+      "slug": "rhodiola-rosea"
+    },
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    },
+    {
+      "name": "GUARANA",
+      "slug": "guarana"
+    },
+    {
+      "name": "SCHISANDRA",
+      "slug": "schisandra"
+    }
+  ]
+}

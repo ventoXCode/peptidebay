@@ -1,0 +1,149 @@
+{
+  "slug": "pacap",
+  "url": "https://dopamine.club/substances/pacap/",
+  "scrapedAt": "2026-02-12T16:10:22.746Z",
+  "title": "PACAP",
+  "description": "Pituitary adenylate cyclase-activating polypeptide (PACAP) is a neuropeptide that functions as a neurotransmitter and neuromodulator in the nervous system. It activates adenylate cyclase and has diverse roles including neuroprotection, immune modulation, insulin secretion regulation, and involvement in migraine pathophysiology. PACAP is primarily studied as a therapeutic target and biomarker rather than as a supplement for consumer use.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Biomarkers in Migraine",
+      "summary": "PACAP-38 was identified as one of the therapeutic biomarkers with the most substantiated clinical relevance in migraine research, alongside CGRP, supporting its role in headache disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34003145/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Emerging Targets for Migraine Treatment",
+      "summary": "PACAP-38 showed analogous evidence to CGRP in migraine pathophysiology through localization studies and provocation tests, though a PAC-1 receptor monoclonal antibody study was negative for treatment efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34003154/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Provocation of attacks to discover migraine signaling mechanisms and new drug targets",
+      "summary": "PACAP was shown to induce delayed migraine attacks in migraine patients similar to CGRP and nitroglycerin, supporting its role as a key signaling molecule in migraine pathogenesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38902612/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective effects of PACAP in ischemia",
+      "summary": "PACAP demonstrates neuroprotective effects in ischemic events and neuronal injuries, though antagonizing PAC1 receptors for migraine treatment requires careful consideration of these beneficial protective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29500688/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Intra-islet PACAP protects pancreatic β-cells against glucotoxicity and lipotoxicity",
+      "summary": "Endogenous PACAP protected pancreatic beta cells from damage caused by high glucose and palmitate exposure, preserving glucose-induced calcium responses and insulin secretion in wild-type mice compared to PACAP-null mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20461496/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pituitary Adenylate Cyclase-activating Polypeptides Prevent Hepatocyte Damage in Liver Ischemia-Reperfusion Injury",
+      "summary": "PACAP suppressed hepatocellular damage and enhanced hepatocyte regeneration in liver ischemia-reperfusion injury models, demonstrating protective effects beyond nervous system applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31348437/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Targeting the neurological comorbidities of multiple sclerosis: the beneficial effects of VIP and PACAP neuropeptides",
+      "summary": "PACAP showed favorable immunomodulatory and neuroprotective effects in animal models of multiple sclerosis, with potential benefits for neurological comorbidities including depression, anxiety, and epilepsy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35164469/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "PACAP is not discussed as a consumer supplement in the user data provided. The posts focus on entirely different supplements (creatine, magnesium, NAC, garlic extract, etc.) with no mention of PACAP supplementation or user experiences."
+  },
+  "effects": [
+    {
+      "label": "Research Target:",
+      "description": "PACAP is primarily studied as a therapeutic target for migraine treatment rather than as a supplement to take"
+    },
+    {
+      "label": "Biomarker Utility:",
+      "description": "Serves as a clinically relevant biomarker for migraine diagnosis and monitoring alongside CGRP"
+    },
+    {
+      "label": "Protective Functions:",
+      "description": "Evidence supports strong protective effects in ischemia, liver injury, and metabolic dysfunction in preclinical models"
+    },
+    {
+      "label": "Mixed Clinical Results:",
+      "description": "While PAC1 receptor antagonists showed promise in animal models, at least one monoclonal antibody study in humans was negative"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Not Consumer Available:",
+      "description": "PACAP is not marketed or available as a dietary supplement for consumer use"
+    },
+    {
+      "label": "Research Applications:",
+      "description": "Used in experimental settings for migraine provocation studies and preclinical research"
+    },
+    {
+      "label": "Endogenous Production:",
+      "description": "Functions as a naturally occurring neuropeptide in the body rather than an exogenous supplement"
+    },
+    {
+      "label": "Clinical Development:",
+      "description": "Being investigated as a drug target for antagonist development rather than supplementation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Migraine Induction:",
+      "description": "Can provoke migraine attacks when administered, particularly in individuals with migraine susceptibility"
+    },
+    {
+      "label": "Not Applicable for Supplements:",
+      "description": "No consumer supplement side effect data exists as PACAP is not sold as a supplement"
+    },
+    {
+      "label": "Antagonist Considerations:",
+      "description": "Blocking PACAP may remove beneficial protective effects in ischemia and metabolic regulation"
+    },
+    {
+      "label": "Research Safety:",
+      "description": "Safety profile in therapeutic contexts is still under investigation in clinical trials"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Not Commercially Available:",
+      "description": "PACAP is not sold as a dietary supplement and is not available for consumer purchase"
+    },
+    {
+      "label": "Research Use Only:",
+      "description": "Available only for laboratory research and clinical trial applications"
+    },
+    {
+      "label": "Drug Development Focus:",
+      "description": "Current focus is on developing PACAP receptor antagonists as pharmaceutical drugs for migraine treatment rather than PACAP supplementation"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    }
+  ]
+}

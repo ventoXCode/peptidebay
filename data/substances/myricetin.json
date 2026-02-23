@@ -1,0 +1,155 @@
+{
+  "slug": "myricetin",
+  "url": "https://dopamine.club/substances/myricetin/",
+  "scrapedAt": "2026-02-12T16:09:39.318Z",
+  "title": "MYRICETIN",
+  "description": "Myricetin is a flavonoid compound found in berries, red wine, and various fruits and vegetables that exhibits potent antioxidant and anti-inflammatory properties. It works through multiple mechanisms including inhibition of various enzymes (CYP2C9, CYP2D6, cathepsin K, gastric H+/K+-ATPase), modulation of PI3K/AKT and Nrf2 signaling pathways, and enhancement of neurotrophic factors like BDNF and NGF. Research indicates potential benefits for metabolic disorders, cognitive function, cancer prevention, and inflammatory conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Efficacy of Myricetin Supplementation on Glucose and Lipid Metabolism: A Systematic Review and Meta-Analysis of In Vivo Mice Studies",
+      "summary": "Meta-analysis of mouse studies showed myricetin supplementation significantly improved glucose metabolism and lipid profiles in metabolic disease models, demonstrating potential anti-diabetic effects through insulin sensitivity enhancement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39519561/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Myricetin improves cognitive function in SAMP8 mice and upregulates brain-derived neurotrophic factor and nerve growth factor",
+      "summary": "Daily myricetin intake normalized cognitive dysfunction in aging mouse models by increasing BDNF and NGF levels and enhancing CREB phosphorylation, suggesting neuroprotective benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35636253/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic potential of multifunctional myricetin for treatment of type 2 diabetes mellitus",
+      "summary": "Review demonstrates myricetin's multiple anti-diabetic mechanisms including inhibiting glucose absorption, enhancing insulin secretion as a possible GLP-1 receptor agonist, and protecting endothelial cells from hyperglycemia-induced oxidative stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37305094/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hypoglycemic activity and mechanisms of myricetin",
+      "summary": "Four-week administration of myricetin (50-200 mg/kg) in diabetic rats dose-dependently reduced blood glucose and insulin while protecting pancreatic tissue from apoptosis through regulation of Bax and Bcl-2 genes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35369824/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Unveiling myricetin's pharmacological potency: A comprehensive exploration of the molecular pathways with special focus on PI3K/AKT and Nrf2 signaling",
+      "summary": "Comprehensive review revealed myricetin's therapeutic effects operate through PI3K/AKT and Nrf2 pathways, demonstrating antioxidant, anticancer, anti-inflammatory, antiviral, antidiabetic, and neuroprotective properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38769721/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Myricetin bioactive effects: moving from preclinical evidence to potential clinical applications",
+      "summary": "Systematic review of preclinical evidence shows myricetin exhibits multiple bioactive effects including anti-inflammatory, antioxidant, anticancer, and metabolic benefits, supporting its potential as a therapeutic supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32738903/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Flavonoid Myricetin as Potent Anticancer Agent: A Possibility towards Development of Potential Anticancer Nutraceuticals",
+      "summary": "Review highlights myricetin's anticancer properties through multiple mechanisms, suggesting strong potential for development as an anticancer nutraceutical with applications in preventing and managing various cancer types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37340205/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Myricetin ameliorates the symptoms of collagen-induced arthritis in mice by inhibiting cathepsin K activity",
+      "summary": "Myricetin (25 mg/kg daily) directly inhibited cathepsin K enzyme activity and demonstrated positive effects in reducing arthritic symptoms in mouse models of collagen-induced arthritis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26525510/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Limited User feedback exists about myricetin specifically, with most mentions occurring in broader supplement discussions. Users show interest in it as a COMT inhibitor and include it in complex supplement regimens, but there is insufficient user feedback to establish clear consensus on effectiveness or side effects."
+  },
+  "effects": [
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Studies show effectiveness at 50-200 mg/kg in animal models with dose-dependent improvements"
+    },
+    {
+      "label": "Multiple Mechanisms:",
+      "description": "Works through various pathways including enzyme inhibition, gene expression modulation, and receptor activation"
+    },
+    {
+      "label": "Metabolic Benefits:",
+      "description": "Meta-analysis confirms significant effects on glucose and lipid profiles in metabolic disease models"
+    },
+    {
+      "label": "Neuroprotection:",
+      "description": "Demonstrated cognitive improvements through neurotrophic factor enhancement and CREB phosphorylation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Animal Studies:",
+      "description": "Most effective doses range from 25-200 mg/kg body weight in rodent models"
+    },
+    {
+      "label": "Human Equivalence:",
+      "description": "Direct human dosing not well established; extrapolation from animal studies suggests moderate supplementation"
+    },
+    {
+      "label": "COMT Inhibition:",
+      "description": "Users mention interest in myricetin for COMT inhibition but specific effective doses not reported"
+    },
+    {
+      "label": "Supplement Combinations:",
+      "description": "Often included in multi-supplement regimens but isolated dosing recommendations limited"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Drug Interactions:",
+      "description": "Inhibits CYP2C9, CYP2D6, and P-glycoprotein, potentially affecting metabolism of various medications"
+    },
+    {
+      "label": "Bioavailability Effects:",
+      "description": "May significantly increase bioavailability of co-administered drugs like carvedilol by 52-85%"
+    },
+    {
+      "label": "Digestive Concerns:",
+      "description": "Some users report potential constipation when combined with other supplements in complex regimens"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Generally well-tolerated in studies but long-term human safety data limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Found in berries, red wine, fruits, and vegetables; available as dietary supplement"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as isolated compound or in combination products with other flavonoids"
+    },
+    {
+      "label": "Research Status:",
+      "description": "Extensively studied in preclinical models but human clinical trial data remains limited"
+    }
+  ],
+  "related": [
+    {
+      "name": "ERGOTHIONEINE",
+      "slug": "ergothioneine"
+    },
+    {
+      "name": "SPERMIDINE",
+      "slug": "spermidine"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

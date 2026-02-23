@@ -1,0 +1,149 @@
+{
+  "slug": "sandalwood",
+  "url": "https://dopamine.club/substances/sandalwood/",
+  "scrapedAt": "2026-02-12T16:11:08.016Z",
+  "title": "SANDALWOOD",
+  "description": "Sandalwood (Santalum album) is an essential oil extracted from the heartwood of sandalwood trees, containing bioactive sesquiterpenes like α-santalol and β-santalol. It demonstrates anti-inflammatory, antimicrobial, antioxidant, and anti-proliferative properties through multiple mechanisms of action. Traditionally used in Ayurvedic medicine, it is now studied for dermatological applications, cognitive support, and potential anticancer effects.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Sandalwood Album Oil as a Botanical Therapeutic in Dermatology",
+      "summary": "Sandalwood album oil demonstrated anti-inflammatory, antimicrobial, and anti-proliferative properties in clinical trials for treating acne, psoriasis, eczema, common warts, and molluscum contagiosum with a favorable safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29344319/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anticancer Effects of Sandalwood (Santalum album)",
+      "summary": "α-Santalol showed chemopreventive effects in chemically-induced skin carcinogenesis and various cancer cell lines by inducing cell-cycle arrest and apoptosis without toxic side-effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26026073/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chemopreventive effects of sandalwood oil on skin papillomas in mice",
+      "summary": "Sandalwood oil treatment significantly decreased papilloma incidence by 67%, multiplicity by 96%, and TPA-induced ODC activity by 70% in mice models of skin cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9370104/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biological Properties of Sandalwood Oil and Microbial Synthesis of Its Major Sesquiterpenoids",
+      "summary": "Sandalwood oil exhibits antimicrobial, antitumor, and anti-inflammatory properties, primarily attributed to its major sesquiterpene components α-santalol and β-santalol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39199359/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pterocarpus santalinus Selectively Inhibits a Subset of Pro-Inflammatory Genes in Interleukin-1 Stimulated Endothelial Cells",
+      "summary": "Red sandalwood extract suppressed pro-inflammatory genes including E-selectin and VCAM-1 in endothelial cells, demonstrating potential anti-inflammatory therapeutic applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35115943/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of extended dietary supplementation with Santalum album essential oil on hemato-biochemical changes, innate immune response, antioxidant status in Nile tilapia",
+      "summary": "Extended sandalwood oil supplementation improved immune response, antioxidant status, and hemato-biochemical parameters in fish, supporting its potential immunomodulatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38300372/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Facile Fabrication of Sandalwood Oil-Based Nanoemulsion to Intensify the Fatty Acid Composition in Burned and Rough Skin",
+      "summary": "Sandalwood oil nanoemulsion demonstrated effective properties for skin restoration and treatment of burned and rough skin through enhanced fatty acid delivery and antimicrobial activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38371762/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report sandalwood as generally safe with long traditional use in Middle Eastern and Asian cultures. Scientific evidence supports its therapeutic benefits for skin conditions, inflammation, and potential anticancer properties with minimal reported adverse effects."
+  },
+  "effects": [
+    {
+      "label": "Dermatological Applications:",
+      "description": "Strong clinical evidence for treating acne, psoriasis, eczema, warts, and molluscum contagiosum with favorable outcomes"
+    },
+    {
+      "label": "Cancer Prevention:",
+      "description": "Demonstrated 67% reduction in papilloma incidence and significant anti-proliferative effects in preclinical studies"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Long history of traditional use with minimal side effects; well-tolerated in topical and oral applications"
+    },
+    {
+      "label": "Immune Support:",
+      "description": "Shows promise for enhancing innate immune response and antioxidant status based on animal studies"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Topical Application:",
+      "description": "5% sandalwood oil in carrier (acetone or oil) for skin conditions; pharmaceutical-grade preparations recommended"
+    },
+    {
+      "label": "Essential Oil:",
+      "description": "Typically used in diluted form for aromatherapy or topical application; concentrated oil should not be used undiluted"
+    },
+    {
+      "label": "Dietary Supplement:",
+      "description": "Limited human dosing data available; animal studies suggest 2 g/kg equivalent doses, but human guidelines not well-established"
+    },
+    {
+      "label": "Duration:",
+      "description": "Traditional use suggests long-term safety, but clinical trials typically range from weeks to months for specific conditions"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Contact Dermatitis:",
+      "description": "Rare cases of sandalwood dermatitis reported in sensitive individuals with topical application"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Some individuals may experience allergic responses; patch testing recommended before extensive use"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Adulteration and authentication issues reported in commercial sandalwood products; pharmaceutical-grade sources preferred"
+    },
+    {
+      "label": "Minimal Systemic Effects:",
+      "description": "Generally well-tolerated with no significant adverse effects reported in clinical studies when used appropriately"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Sources:",
+      "description": "Available as essential oil, extracts, and in cosmetic/pharmaceutical preparations; quality varies significantly by source"
+    },
+    {
+      "label": "Authentication Issues:",
+      "description": "Documented problems with product adulteration and mislabeling; seek certified pharmaceutical-grade or tested products"
+    },
+    {
+      "label": "Traditional Medicine:",
+      "description": "Widely used in Ayurvedic and traditional medicine systems; available through specialized herbal medicine sources"
+    }
+  ],
+  "related": [
+    {
+      "name": "Kratom",
+      "slug": "kratom"
+    },
+    {
+      "name": "STINGING NETTLE",
+      "slug": "stinging-nettle"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    },
+    {
+      "name": "OLIVE LEAF EXTRACT",
+      "slug": "olive-leaf-extract"
+    },
+    {
+      "name": "REHMANNIA",
+      "slug": "rehmannia"
+    }
+  ]
+}

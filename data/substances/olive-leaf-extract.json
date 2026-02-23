@@ -1,0 +1,155 @@
+{
+  "slug": "olive-leaf-extract",
+  "url": "https://dopamine.club/substances/olive-leaf-extract/",
+  "scrapedAt": "2026-02-12T16:10:16.931Z",
+  "title": "OLIVE LEAF EXTRACT",
+  "description": "Olive Leaf Extract (OLE) is a botanical supplement derived from the leaves of the olive tree (Olea europaea), rich in polyphenolic compounds, particularly oleuropein. It exerts anti-inflammatory, antioxidant, antimicrobial, and cardiovascular-protective effects through modulation of inflammatory pathways (NF-κB, COX/LOX), reduction of oxidative stress, and improvement of lipid profiles. OLE is primarily used for cardiovascular health, blood pressure management, and anti-inflammatory support.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Olive Leaf Extract Supplementation Improves Postmenopausal Symptoms: A Randomized, Double-Blind, Placebo-Controlled Parallel Study on Postmenopausal Women",
+      "summary": "Daily supplementation with 250mg OLE for 12 weeks improved postmenopausal symptoms, body composition, and blood lipid profiles in women aged 47-70 years, demonstrating benefits for metabolic and quality-of-life parameters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39599665/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oleuropein-Rich Olive Leaf Extract Attenuates Neuroinflammation in the Alzheimer's Disease Mouse Model",
+      "summary": "OLE rich in oleuropein reduced neuroinflammation by inhibiting the NF-κB pathway in 5xFAD mice at 695 μg/kg/day for 3 months, showing potential neuroprotective effects against Alzheimer's pathology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35263086/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of olive leaf extract on cardiovascular health markers: a randomized placebo-controlled clinical trial",
+      "summary": "Eight-week OLE administration positively affected cardiovascular disease risk factors including blood pressure and lipid profiles in overweight/obese subjects with mildly elevated cholesterol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33034707/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oleuropein Is Responsible for the Major Anti-Inflammatory Effects of Olive Leaf Extract",
+      "summary": "Oleuropein at 20 μg/mL significantly decreased TNF-α secretion in polymorphonuclear cells, identifying it as the primary anti-inflammatory component of OLE with antibacterial activity against foodborne pathogens.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29099642/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Olive Leaf Extract Attenuates Inflammatory Activation and DNA Damage in Human Arterial Endothelial Cells",
+      "summary": "OLE modulated inflammatory and pro-adhesive responses in human coronary artery endothelial cells induced by serum amyloid A, demonstrating anti-atherosclerotic and anti-inflammatory mechanisms in vascular tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31157238/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Olive leaf extract supplementation improves the vascular and metabolic alterations associated with aging in Wistar rats",
+      "summary": "OLE supplementation rich in secoiridoids and phenolic compounds improved aging-induced metabolic and vascular alterations in rats, demonstrating anti-inflammatory, antioxidant, and insulin-sensitizing effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33854149/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Olive leaf extract prevents cartilage degeneration in osteoarthritis of STR/ort mice",
+      "summary": "Oral OLE at 100mg/kg for 8 weeks reduced osteoarthritis severity scores and increased high molecular weight hyaluronan synthesis in synovial cells, preventing cartilage destruction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29587623/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Assessment of the Antimicrobial Activity of Olive Leaf Extract Against Foodborne Bacterial Pathogens",
+      "summary": "OLE at 62.5 mg/ml almost completely inhibited growth of L. monocytogenes, E. coli O157:H7, and S. Enteritidis, reduced cell motility, and inhibited biofilm formation, demonstrating broad antimicrobial properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28210244/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences with olive leaf extract are genuinely mixed, with some reporting benefits for blood pressure and cholesterol management while others found minimal effects or concerns about limited research. The compound appears in various stacks but is not consistently highlighted as a standout supplement by users."
+  },
+  "effects": [
+    {
+      "label": "Cardiovascular Effects:",
+      "description": "Research supports benefits for blood pressure and lipid profiles, but users note it doesn't dramatically lower blood pressure on its own without dietary and lifestyle changes"
+    },
+    {
+      "label": "Dosage Response:",
+      "description": "Clinical studies typically use 250-680mg daily, with effects accumulating over 8-12 weeks rather than providing immediate benefits"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly individual, with some users experiencing notable cardiovascular improvements while others report minimal effects"
+    },
+    {
+      "label": "Complementary Role:",
+      "description": "Most effective when combined with comprehensive lifestyle interventions (diet, exercise, stress management) rather than as a standalone supplement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "250-680mg daily is commonly used, with most clinical studies using 250mg once or twice daily"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically taken with meals to enhance absorption and reduce potential gastrointestinal effects"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits appear after 8-12 weeks of consistent use based on clinical trials"
+    },
+    {
+      "label": "Stacking:",
+      "description": "Often combined with other cardiovascular supplements like CoQ10, garlic extract, and omega-3s in user protocols"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Adrenaline Concerns:",
+      "description": "One user noted concerns about OLE potentially increasing adrenaline, though this is not widely reported or confirmed"
+    },
+    {
+      "label": "Minimal Reported Issues:",
+      "description": "Most users do not report significant side effects at standard dosages"
+    },
+    {
+      "label": "Blood Pressure Effects:",
+      "description": "While intended to lower blood pressure, effects may be too mild for those with significantly elevated BP requiring medical intervention"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "Limited user discussion of interactions, though theoretically may interact with blood pressure and diabetes medications"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Brands:",
+      "description": "quality brands, quality brands, and other established supplement brands offer OLE products readily available online and in stores"
+    },
+    {
+      "label": "Extract Standardization:",
+      "description": "Products vary in oleuropein content and standardization; quality differences between brands are noted by informed users"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often found combined with other cardiovascular supplements (sesame lignans, omega-3) in specialized formulations"
+    }
+  ],
+  "related": [
+    {
+      "name": "REHMANNIA",
+      "slug": "rehmannia"
+    },
+    {
+      "name": "ARTICHOKE EXTRACT",
+      "slug": "artichoke-extract"
+    },
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "devil-s-claw",
+  "url": "https://dopamine.club/substances/devil-s-claw/",
+  "scrapedAt": "2026-02-12T16:07:05.416Z",
+  "title": "DEVIL'S CLAW",
+  "description": "Devil's claw (Harpagophytum procumbens) is a medicinal plant native to southern Africa, primarily used for its anti-inflammatory and analgesic properties. The plant's main bioactive compounds are iridoid glycosides, particularly harpagoside and harpagide, which inhibit inflammatory pathways and may reduce pain. It has been traditionally used for arthritis, osteoarthritis, low back pain, and other inflammatory conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Devil's claw (Harpagophytum procumbens): is the buzz in Google justified?",
+      "summary": "Critical analysis of 88 devil's claw products found that herbal medicinal products showed pharmaceutical reliability, while food and dietary supplements had questionable reliability with significant gaps in consumer information and safety data.",
+      "url": "https://link.springer.com/article/10.1007/s00210-025-03974-7",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Fight against Infection and Pain: Devil's Claw (Harpagophytum procumbens) a Rich Source of Anti-Inflammatory Activity: 2011-2022",
+      "summary": "Comprehensive review of devil's claw showing harpagoside and harpagide as key anti-inflammatory compounds, with documented effects on reducing inflammation and pain through multiple mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35684573/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Devil's claw (Harpagophytum procumbens) and chronic inflammatory diseases: A concise overview on preclinical and clinical data",
+      "summary": "Review examining devil's claw's potential in managing inflammation and oxidative stress-related diseases including arthritis, osteoporosis, inflammatory bowel disease, low-back pain, diabetes, and neurodegeneration.",
+      "url": "https://2024.sci-hub.se/7466/9264a1f384e3c2f65c7642de22871ee7/menghini2019.pdf",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Devil's Claw (Harpagophytum procumbens) as a treatment for osteoarthritis: a review of efficacy and safety",
+      "summary": "Review evaluating devil's claw for osteoarthritis treatment, examining its efficacy compared to conventional NSAIDs and documenting its safety profile and potential adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17212570/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User experiences with devil's claw are limited in the provided Reddit data, with only indirect mentions in supplement stacks for joint health and anti-inflammatory purposes. The research literature shows promise for pain and inflammation management, but consumer product quality varies significantly between pharmaceutical-grade and dietary supplement formulations."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Multiple studies show efficacy for osteoarthritis and chronic pain, though methodological quality varies"
+    },
+    {
+      "label": "Comparative Efficacy:",
+      "description": "Some research suggests comparable pain relief to NSAIDs with potentially fewer side effects"
+    },
+    {
+      "label": "Long-term Studies:",
+      "description": "Limited long-term clinical studies available, undermining reliability of sustained use benefits"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears to vary by formulation quality, dosage, and individual response patterns"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Research typically uses extracts standardized to harpagoside content, often 50-100mg harpagoside daily"
+    },
+    {
+      "label": "Extract Forms:",
+      "description": "Devil's claw available as powder, extract, capsules, and tinctures with varying concentrations"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken with meals to improve absorption and reduce potential gastrointestinal effects"
+    },
+    {
+      "label": "Product Quality:",
+      "description": "Herbal medicinal products show more reliable dosing than food/dietary supplements which lack standardization"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Most common side effects include stomach upset, diarrhea, and digestive discomfort"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with anticoagulants, diabetes medications, and medications metabolized by liver"
+    },
+    {
+      "label": "Contraindications:",
+      "description": "Not recommended during pregnancy, for those with gastric/duodenal ulcers, or gallstones"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Food supplements and dietary supplements show poor consumer information about potential adverse effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Product Categories:",
+      "description": "Available as herbal medicinal products (more regulated) and food/dietary supplements (less regulated)"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Significant differences in pharmaceutical reliability between product categories, with herbal medicinal products preferred"
+    },
+    {
+      "label": "Global Distribution:",
+      "description": "Widely available but sourcing from southern Africa raises sustainability concerns for wild populations"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "pyridoxal-5-phosphate",
+  "url": "https://dopamine.club/substances/pyridoxal-5-phosphate/",
+  "scrapedAt": "2026-02-12T16:10:51.616Z",
+  "title": "PYRIDOXAL-5-PHOSPHATE",
+  "description": "Pyridoxal-5-phosphate (P5P or PLP) is the active, coenzyme form of vitamin B6 that functions as a cofactor for over 140 enzymatic reactions in the body, particularly in amino acid metabolism, neurotransmitter synthesis, and glycogen breakdown. Unlike pyridoxine (the supplemental form of B6), P5P does not require conversion by the liver and is immediately bioavailable for metabolic processes. It plays essential roles in the synthesis of serotonin, dopamine, GABA, and other neurotransmitters, making it critical for neurological function and mood regulation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Associations of Dietary Intake of Vitamin B6 and Plasma Pyridoxal 5'-Phosphate Level With Depression in US Adults: Findings From NHANES 2005-2010",
+      "summary": "Analysis of NHANES data found significant associations between higher vitamin B6 intake and plasma P5P levels with reduced depression risk in US adults, suggesting an important role in mood regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39508477/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biomedical aspects of pyridoxal 5'-phosphate availability",
+      "summary": "Comprehensive review of P5P's biochemical functions, highlighting its critical role as a cofactor in numerous metabolic pathways and its importance in maintaining cellular health and enzyme function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22201923/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User sentiment is genuinely mixed with no substantial Reddit data available for comprehensive analysis. The limited research suggests potential benefits for mood and neurological function, but lacks extensive user testimonials to confirm real-world effectiveness and tolerability."
+  },
+  "effects": [
+    {
+      "label": "Superior Bioavailability:",
+      "description": "More readily absorbed and utilized than standard B6 forms, particularly beneficial for those with impaired liver function"
+    },
+    {
+      "label": "Depression Association:",
+      "description": "Population data shows correlation between higher P5P levels and lower depression incidence"
+    },
+    {
+      "label": "Enzyme Function:",
+      "description": "Critical cofactor for approximately 4% of all cellular enzymes, indicating broad metabolic importance"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness may depend on baseline B6 status and genetic factors affecting vitamin metabolism"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "RDA for young adults is 1.3 mg of vitamin B6, with P5P providing direct active form"
+    },
+    {
+      "label": "Therapeutic Doses:",
+      "description": "Higher doses may be used for specific deficiency syndromes or metabolic conditions under medical supervision"
+    },
+    {
+      "label": "Bioavailability Factor:",
+      "description": "Approximately 75% bioavailability assumed from mixed dietary sources"
+    },
+    {
+      "label": "Form Consideration:",
+      "description": "P5P dosing may differ from standard pyridoxine due to direct bioavailability without conversion"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Neuropathy Risk:",
+      "description": "High-dose vitamin B6 supplementation has been associated with peripheral neuropathy in some cases"
+    },
+    {
+      "label": "Upper Limits:",
+      "description": "Excessive intake should be avoided; established tolerable upper intake levels exist for vitamin B6 forms"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "At appropriate doses, P5P is considered safe with minimal adverse effects reported"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Some individuals may experience mild gastrointestinal effects or sensitivities at higher doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "P5P is sold as a dietary supplement in various forms and dosages through health food stores and online retailers"
+    },
+    {
+      "label": "Prescription Uses:",
+      "description": "Used medically for vitamin B6 deficiency treatment and certain dependency syndromes"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Bioavailability and quality may vary between manufacturers; pharmaceutical-grade options preferred for therapeutic use"
+    }
+  ],
+  "related": [
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "APIGENIN",
+      "slug": "apigenin"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    }
+  ]
+}

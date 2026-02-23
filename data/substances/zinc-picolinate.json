@@ -1,0 +1,131 @@
+{
+  "slug": "zinc-picolinate",
+  "url": "https://dopamine.club/substances/zinc-picolinate/",
+  "scrapedAt": "2026-02-12T16:13:13.790Z",
+  "title": "ZINC PICOLINATE",
+  "description": "Zinc picolinate is a chelated form of zinc where the mineral is bound to picolinic acid, which enhances its absorption and bioavailability compared to other zinc forms. Zinc is an essential trace mineral critical for immune function, testosterone production, wound healing, DNA synthesis, and serves as a cofactor for over 300 enzymes. It's commonly used to support immune health, increase testosterone levels, improve skin conditions, and address zinc deficiency.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Antioxidant effect of zinc picolinate in patients with chronic obstructive pulmonary disease",
+      "summary": "8-week supplementation with 22mg zinc picolinate daily reduced oxidative stress markers (MDA) and improved antioxidant enzyme activity (SOD, CAT) in COPD patients, though pulmonary function tests showed no significant change.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18295467/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc picolinate in the prevention of leiomyoma in Japanese quail",
+      "summary": "Zinc picolinate supplementation (30-60mg/kg diet) reduced tumor size and decreased oxidative stress markers (MDA, 8-isoprostane, HAE) and DNA damage (8-OHdG) in Japanese quail, though it did not affect tumor incidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20041795/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of magnesium picolinate, zinc picolinate, and selenomethionine co-supplementation on reproductive hormones, and glucose and lipid metabolism-related protein expressions in male rats fed a high-fat diet",
+      "summary": "Combined supplementation with zinc picolinate and other minerals improved testosterone levels, reduced body weight and visceral fat, and improved glucose and lipid metabolism markers in rats fed a high-fat diet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35415682/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of different concentrations of various zinc complexes (picolinate, citrate, 8-hydroxyquinolate) in comparison with sulfate on zinc supply status in rats",
+      "summary": "Study comparing zinc forms found that zinc picolinate performed similarly to other forms in improving zinc status and tissue levels in deficient rats, with absorption dependent on dietary zinc level rather than the specific compound form.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6405549/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report positive experiences with zinc picolinate, particularly for improving testosterone levels, libido, immune function, and hair health. Most appreciate its superior absorption compared to other zinc forms, though many emphasize the importance of balancing with copper supplementation to avoid deficiency."
+  },
+  "effects": [
+    {
+      "label": "Individual Response Variation:",
+      "description": "Effectiveness appears highly dependent on baseline zinc status, with deficient individuals seeing dramatic improvements while those with adequate levels may see minimal benefits"
+    },
+    {
+      "label": "Absorption Superiority:",
+      "description": "Users and research suggest zinc picolinate has better absorption than zinc sulfate or gluconate, making it a preferred form despite typically higher cost"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Several users report better results when taken on an empty stomach or separated from meals high in phytic acid (grains, legumes) which can inhibit zinc absorption"
+    },
+    {
+      "label": "Copper Balance Critical:",
+      "description": "The most commonly cited concern is that high-dose zinc supplementation can deplete copper, with users experiencing side effects when this ratio becomes imbalanced"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "Most users take 15-30mg elemental zinc daily, with 22-25mg being the most commonly reported effective dose for general health and testosterone support"
+    },
+    {
+      "label": "Higher Therapeutic Doses:",
+      "description": "Some users report taking 30-50mg daily for specific conditions (hair loss, immune support), though this is typically short-term and carries higher risk of copper depletion"
+    },
+    {
+      "label": "Copper Co-supplementation:",
+      "description": "Users recommend 1-3mg copper when taking higher zinc doses (>25mg), with a general ratio of 15:1 to 8:1 zinc to copper being mentioned"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "Some experienced users recommend taking zinc 5 days per week with 2 days off, or every other day, to prevent accumulation and copper depletion issues"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Copper Deficiency:",
+      "description": "The most serious concern reported, with symptoms including fatigue, depression, joint pain, pale skin, muscle stiffness, and bruising when taking 50mg+ daily without copper supplementation for extended periods"
+    },
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Some users report nausea, stomach discomfort, or digestive upset, particularly when taken on an empty stomach or at higher doses"
+    },
+    {
+      "label": "Reduced Efficacy with Copper:",
+      "description": "Multiple users report that adding copper supplementation (to prevent deficiency) actually reduced the positive effects on hair and libido they experienced from zinc alone"
+    },
+    {
+      "label": "Histamine Issues:",
+      "description": "A few users report developing histamine intolerance when combining NAC with excessive zinc, which resolved when reducing zinc intake"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Zinc picolinate is readily available from major supplement brands (quality brands, quality brands, quality brands) both online and in stores, with prices ranging from budget-friendly to premium"
+    },
+    {
+      "label": "Common Dosages:",
+      "description": "Most commercial products offer 15-50mg per capsule, with 22mg and 30mg being standard strengths that align with user-reported effective doses"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Users frequently mention quality brands as a premium brand with NSF certification, though many find budget brands like quality brands equally effective at significantly lower cost"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "ZINC",
+      "slug": "zinc"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    }
+  ]
+}

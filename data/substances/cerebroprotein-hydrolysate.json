@@ -1,0 +1,103 @@
+{
+  "slug": "cerebroprotein-hydrolysate",
+  "url": "https://dopamine.club/substances/cerebroprotein-hydrolysate/",
+  "scrapedAt": "2026-02-12T16:06:30.361Z",
+  "title": "CEREBROPROTEIN HYDROLYSATE",
+  "description": "Cerebroprotein Hydrolysate is a mixture of neuropeptides and amino acids derived from porcine brain tissue that acts on the central nervous system to provide neuroprotective and neurotrophic effects. It works by crossing the blood-brain barrier to enhance neuronal survival, promote synaptic plasticity, and protect against neurodegenerative processes like ferroptosis and oxidative stress.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Cerebroprotein hydrolysate attenuates neurodegenerative changes in Alzheimer’s mice model via ferroptosis pathway",
+      "summary": "This study demonstrates that cerebroprotein hydrolysate protects neurons and reduces cognitive decline by inhibiting ferroptosis, a specific form of cell death linked to Alzheimer's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37152960/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects and mechanism of cerebroprotein hydrolysate on learning and memory in mice with scopolamine-induced impairment",
+      "summary": "Research found that this compound improves learning and memory performance by protecting against chemically induced cognitive deficits and enhancing central nervous system function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27525868/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users generally report significant improvements in connective tissue recovery and cognitive clarity, though some note digestive sensitivity to the protein base."
+  },
+  "effects": [
+    {
+      "label": "Clinical Utility:",
+      "description": "Recognized in clinical settings for treating traumatic brain injury and vascular dementia."
+    },
+    {
+      "label": "Speed of Action:",
+      "description": "Animal models show rapid neuroprotective responses within 24-48 hours."
+    },
+    {
+      "label": "Ferroptosis Inhibition:",
+      "description": "Highly effective at preventing iron-dependent cell death in neurodegenerative contexts."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Supplementation:",
+      "description": "While specific human supplement doses vary, clinical injectable forms often use 5-30 mL."
+    },
+    {
+      "label": "Chronic Use:",
+      "description": "Some studies suggest cycles of 4 weeks for brain structure support."
+    },
+    {
+      "label": "Comparison:",
+      "description": "Often compared to Collagen Hydrolysate for its peptide structure, but targeted specifically at brain tissue."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Some users report bloating or irregular bowel movements when taking high doses of protein hydrolysates."
+    },
+    {
+      "label": "Vivid Dreams:",
+      "description": "Like other glycine-rich or neurotrophic substances, it may cause intensified dreaming naturally."
+    },
+    {
+      "label": "Initial Soreness:",
+      "description": "Some reports of mild physical 'rebound' soreness as tissues begin to repair."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Pharmaceutical Status:",
+      "description": "Often sold as a prescription medication (e.g., Cerebrolysin) in Europe and Asia."
+    },
+    {
+      "label": "Supplement Access:",
+      "description": "More commonly found as a specialty nootropic or specialized hydrolysate in the US market."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

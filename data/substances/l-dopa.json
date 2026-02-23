@@ -1,0 +1,143 @@
+{
+  "slug": "l-dopa",
+  "url": "https://dopamine.club/substances/l-dopa/",
+  "scrapedAt": "2026-02-12T16:09:04.257Z",
+  "title": "L-DOPA",
+  "description": "L-DOPA (levodopa) is a naturally occurring amino acid that serves as the direct precursor to dopamine, a crucial neurotransmitter involved in movement, motivation, and mood regulation. It is the gold standard treatment for Parkinson's disease, as it can cross the blood-brain barrier and be converted into dopamine to replace depleted levels. L-DOPA is also found naturally in plants like Mucuna pruriens (velvet bean) and is sometimes used as a supplement, though this practice carries significant risks.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Parkinson's disease: A review",
+      "summary": "Levodopa remains the mainstay treatment for Parkinson's disease motor symptoms, though long-term use commonly leads to levodopa-induced dyskinesia (involuntary movements), which can occur after extended treatment or sometimes even within days to months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29503325/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-DOPA ameliorates hippocampus-based mitochondria respiratory dysfunction caused by GCI/R injury",
+      "summary": "L-DOPA showed neuroprotective effects by improving mitochondrial respiratory function in the hippocampus following global cerebral ischemia/reperfusion injury in animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38678966/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Approaches to Improve Efficacy and Control Side Effects of Levodopa Therapy in Parkinson's Disease: A Systematic Review",
+      "summary": "Diet plays a crucial role in levodopa therapy effectiveness, as protein intake can interfere with absorption, and nutritional approaches may help manage motor fluctuations and side effects in Parkinson's patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34113965/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "How to Optimize the Effectiveness and Safety of Parkinson's Disease Therapy? - A Systematic Review of Drugs Interactions with Food and Dietary Supplements",
+      "summary": "Evidence suggests positive interactions between levodopa and coffee, fiber, and vitamin C, while proper timing of medication intake relative to food can significantly optimize Parkinson's disease treatment outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34784871/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective effect of Bacillus subtilis in haloperidol induced rat model, targeting the microbiota-gut-brain axis",
+      "summary": "Study compared probiotics with L-DOPA as standard treatment in a Parkinson's model, demonstrating the importance of the gut-brain axis in dopaminergic function and potential therapeutic approaches.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39625518/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Overview of Parkinson's disease",
+      "summary": "Parkinson's disease involves loss of dopaminergic neurons in the substantia nigra, and while levodopa effectively manages motor symptoms and forms the basis for clinical diagnosis, there is no cure and long-term management presents significant challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18041935/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 25,
+    "summary": "User sentiment is predominantly negative, with multiple reports of dyskinesia, severe side effects, and warnings against long-term supplementation. Experienced users consistently caution that L-DOPA supplementation can downregulate natural dopamine synthesis, leading to worse symptoms when discontinued, and recommend safer alternatives like L-tyrosine instead."
+  },
+  "effects": [
+    {
+      "label": "Medical Use vs Supplementation:",
+      "description": "L-DOPA is highly effective for Parkinson's disease when properly prescribed with carbidopa, but over-the-counter supplements lack this crucial component and are largely ineffective or dangerous"
+    },
+    {
+      "label": "Downregulation Risk:",
+      "description": "Users and experts consistently warn that L-DOPA supplementation can suppress natural tyrosine hydroxylase expression and dopamine synthesis, making recovery difficult and symptoms worse long-term"
+    },
+    {
+      "label": "Better Alternatives Exist:",
+      "description": "Community consensus strongly favors L-tyrosine or N-acetyl-L-tyrosine as safer precursors that allow the body to regulate dopamine production naturally"
+    },
+    {
+      "label": "Short-Term Only:",
+      "description": "Those who found any benefit emphasized cycling and very short-term use (days to weeks maximum), never continuous supplementation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Supplement Dose:",
+      "description": "Most Mucuna pruriens supplements contain 100-120mg L-DOPA per serving (15% extract from 600-800mg total), taken once daily"
+    },
+    {
+      "label": "Medical Dosing:",
+      "description": "Prescription levodopa for Parkinson's typically ranges from 200-300mg multiple times daily, always combined with carbidopa or benserazide"
+    },
+    {
+      "label": "Dangerous Without Carbidopa:",
+      "description": "Users note that without carbidopa, supplemental L-DOPA is largely converted peripherally before reaching the brain, causing side effects without benefits"
+    },
+    {
+      "label": "Cycling Warnings:",
+      "description": "When used at all, experienced users recommend no more than 3-4 days per week maximum to prevent tolerance and downregulation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Dyskinesia:",
+      "description": "Multiple users reported involuntary movements, head jerking, tremors, and coordination problems, sometimes appearing rapidly after starting supplementation"
+    },
+    {
+      "label": "Nausea and Gastrointestinal Issues:",
+      "description": "Common reports of nausea, vomiting, and digestive discomfort, particularly when taken without food or carbidopa"
+    },
+    {
+      "label": "Withdrawal Effects:",
+      "description": "Users describe severe crashes, worsened depression, anhedonia, and anxiety when discontinuing L-DOPA supplements after regular use"
+    },
+    {
+      "label": "Dangerous Drug Interactions:",
+      "description": "Serious interactions reported with antidepressants (especially Wellbutrin, SSRIs), causing serotonin syndrome symptoms and amplified side effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Mucuna Pruriens Supplements:",
+      "description": "Widely available as over-the-counter supplements, typically standardized to 15% L-DOPA content"
+    },
+    {
+      "label": "Prescription Only for Medical Use:",
+      "description": "Pharmaceutical levodopa (Madopar, Sinemet) requires prescription and always includes carbidopa or benserazide to prevent peripheral conversion"
+    },
+    {
+      "label": "Community Discouragement:",
+      "description": "The supplement community generally discourages L-DOPA supplementation and considers it one of the most overrated and potentially harmful nootropics, strongly recommending alternatives"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "L-TYROSINE",
+      "slug": "l-tyrosine"
+    },
+    {
+      "name": "N-ACETYL L-TYROSINE (NALT)",
+      "slug": "n-acetyl-l-tyrosine-nalt"
+    },
+    {
+      "name": "PHENYLALANINE",
+      "slug": "phenylalanine"
+    }
+  ]
+}

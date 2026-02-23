@@ -1,0 +1,156 @@
+{
+  "slug": "aniracetam",
+  "url": "https://dopamine.club/substances/aniracetam/",
+  "scrapedAt": "2026-02-12T16:05:47.712Z",
+  "title": "ANIRACETAM",
+  "description": "Aniracetam is a fat-soluble racetam nootropic known for its anxiolytic and cognitive-enhancing properties. It modulates AMPA receptors and cholinergic transmission, potentially improving memory, learning, and reducing anxiety.",
+  "categories": [
+    "Nootropic",
+    "Racetam"
+  ],
+  "research": [
+    {
+      "title": "Aniracetam: its novel therapeutic potential in cerebral dysfunctional disorders",
+      "summary": "Examines aniracetam's potential for treating CNS disorders using animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12070527/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Aniracetam: An overview of its pharmacodynamic and pharmacokinetic properties",
+      "summary": "Reviews aniracetam's cognitive enhancement effects in elderly patients with Alzheimer's-related impairment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8199398/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Treatment of insomnia by concomitant therapy with Zopiclone and Aniracetam",
+      "summary": "Combined Zopiclone and Aniracetam achieved 50%+ sleep duration increases in elderly patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9628149/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative kinetic studies and pH-rate profiling of aniracetam degradation",
+      "summary": "Develops HPLC methodology for measuring aniracetam stability across varying pH conditions.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0026265X1933512X",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Aniracetam and DNQX affect the acquisition of rapid tolerance to ethanol in mice",
+      "summary": "Investigates AMPA receptor involvement in ethanol tolerance development.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0091305708003493",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Sensitive and selective LC–MS/MS method for the quantification of aniracetam in human plasma",
+      "summary": "Develops method for measuring aniracetam plasma levels with 0.2 ng/mL detection limit.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1570023207005661",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Postnatal aniracetam treatment improves prenatal ethanol induced attenuation of AMPA receptor-mediated synaptic transmission",
+      "summary": "Demonstrates postnatal aniracetam reverses prenatal alcohol-induced cognitive deficits.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0969996107000666",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Development and validation of a liquid chromatographic method for the simultaneous determination of aniracetam",
+      "summary": "Creates HPLC method with UV detection for identifying aniracetam and impurities.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0731708511003256",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Ameliorating effects of preadolescent aniracetam treatment on prenatal ethanol-induced impairment",
+      "summary": "Shows aniracetam improves synaptic transmission and cognitive potential after prenatal ethanol exposure.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0969996107001878",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Determination of aniracetam's main metabolite, N-anisoyl-GABA, in human plasma by LC–MS/MS",
+      "summary": "Develops efficient method for measuring aniracetam's primary metabolite in pharmacokinetic studies.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1570023212002218",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users appreciate its dual cognitive and anxiolytic effects, finding it smoother than other racetams. Effects on creativity and verbal fluency are commonly noted."
+  },
+  "effects": [
+    {
+      "label": "Quick Onset:",
+      "description": "Effects typically noticed within 30-60 minutes."
+    },
+    {
+      "label": "Short Half-Life:",
+      "description": "Requires multiple daily doses due to 1-2 hour half-life."
+    },
+    {
+      "label": "Requires Choline:",
+      "description": "Best effects when stacked with a choline source."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "750-1500mg daily, divided into 2-3 doses."
+    },
+    {
+      "label": "With Fats:",
+      "description": "Fat-soluble; best absorbed with dietary fat."
+    },
+    {
+      "label": "Choline Stack:",
+      "description": "Often combined with Alpha-GPC or CDP-Choline."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Common if not taken with adequate choline."
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report mild GI discomfort."
+    },
+    {
+      "label": "Generally Mild:",
+      "description": "Side effects are typically minimal at normal doses."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription in Europe:",
+      "description": "Available by prescription in some European countries."
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "Sold as a research chemical in the US."
+    },
+    {
+      "label": "Online Vendors:",
+      "description": "Available from nootropic suppliers."
+    }
+  ],
+  "related": [
+    {
+      "name": "COLURACETAM",
+      "slug": "coluracetam"
+    },
+    {
+      "name": "FASORACETAM",
+      "slug": "fasoracetam"
+    },
+    {
+      "name": "NEFIRACETAM",
+      "slug": "nefiracetam"
+    },
+    {
+      "name": "Oxiracetam",
+      "slug": "oxiracetam"
+    },
+    {
+      "name": "Phenylpiracetam",
+      "slug": "phenylpiracetam"
+    }
+  ]
+}

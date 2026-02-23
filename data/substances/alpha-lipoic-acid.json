@@ -1,0 +1,156 @@
+{
+  "slug": "alpha-lipoic-acid",
+  "url": "https://dopamine.club/substances/alpha-lipoic-acid/",
+  "scrapedAt": "2026-02-12T16:05:36.452Z",
+  "title": "ALPHA LIPOIC ACID",
+  "description": "Alpha-lipoic acid (ALA) is a naturally occurring antioxidant synthesized in small amounts by the body and available as a dietary supplement. It functions as a cofactor in mitochondrial energy metabolism, scavenges free radicals, chelates metals, restores glutathione levels, and can cross the blood-brain barrier. ALA is clinically used for diabetic neuropathy and studied for its potential anti-aging, neuroprotective, and metabolic benefits.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Alpha-lipoic acid as a dietary supplement: molecular mechanisms and therapeutic potential",
+      "summary": "ALA improves glucose and ascorbate handling, increases eNOS activity, activates Phase II detoxification via Nrf2, and reduces inflammation markers through NF-kappa B repression, with beneficial effects achieved at low micromolar levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19664690/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-lipoic Acid: An Antioxidant with Anti-aging Properties for Disease Therapy",
+      "summary": "Comprehensive review highlighting ALA's anti-aging effects through its antioxidant properties and potential therapeutic applications in age-related diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38644711/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-lipoic acid supplement in obesity treatment: A systematic review and meta-analysis of clinical trials",
+      "summary": "Meta-analysis demonstrating that ALA supplementation has positive effects on anthropometric indices in overweight and obese individuals, supporting its role as an anti-obesity supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28629898/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-lipoic acid in the treatment of psychiatric and neurological disorders: a systematic review",
+      "summary": "Systematic review examining clinical evidence for ALA's use in psychiatric and neurological conditions, though noting limited clinical evidence despite numerous preclinical studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30467770/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and Safety of the Combination of Palmitoylethanolamide, Superoxide Dismutase, Alpha Lipoic Acid, Vitamins B12, B1, B6, E, Mg, Zn and Nicotinamide for 6 Months in People with Diabetic Neuropathy",
+      "summary": "Six-month trial showing that a combination supplement including 300mg ALA improved diabetic neuropathy symptoms with good safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39339645/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondrial Dysfunction and Neurodegenerative Disorders: Role of Nutritional Supplementation",
+      "summary": "Review supporting ALA as part of a combination approach for treating mitochondrial dysfunction in neurodegenerative disorders including Parkinson's and Alzheimer's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36293457/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of diet and non-pharmacologic supplements in the treatment of chronic neuropathic pain: A systematic review",
+      "summary": "Systematic review identifying ALA as one of several nutritional supplements with evidence for managing chronic neuropathic pain in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37654090/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective effects of alpha lipoic acid (ALA) are mediated by hormetic mechanisms",
+      "summary": "Research demonstrating that ALA's protective effects occur through hormetic dose responses across multiple organ systems, with beneficial adaptive responses at appropriate doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37169059/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report predominantly positive experiences with ALA, particularly for nerve pain, neuropathy, and post-COVID symptoms. While some experience side effects like fatigue or heartburn, the majority find it beneficial for pain relief and neurological symptoms when dosed correctly."
+  },
+  "effects": [
+    {
+      "label": "Neuropathy Treatment:",
+      "description": "Highly effective for nerve-related issues, with many users calling it the only supplement that worked for their nerve pain where other interventions failed"
+    },
+    {
+      "label": "Dosage-Dependent Response:",
+      "description": "Effectiveness varies significantly with dose and form, with 300-600mg daily being the most commonly effective range for therapeutic benefits"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works best when combined with other supplements like ALCAR, B vitamins, and CoQ10, particularly for mitochondrial and nerve support"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Some users report immediate benefits while others need 30-60 days of consistent use to see significant improvements in chronic conditions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Therapeutic Dose:",
+      "description": "300-600mg daily is most commonly recommended, with 600mg being the standard dose for diabetic neuropathy treatment"
+    },
+    {
+      "label": "High Dose Protocol:",
+      "description": "Some users take up to 1200mg daily for more severe conditions, though this should be done under medical supervision"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Best taken on empty stomach or with food to avoid blood sugar fluctuations; some users prefer timed-release formulations to avoid side effects"
+    },
+    {
+      "label": "R-ALA vs Regular ALA:",
+      "description": "R-ALA (R-lipoic acid) is considered more bioavailable and effective than racemic ALA, though more expensive; Na-R-ALA is noted as the most stable form"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Heartburn, nausea, and stomach discomfort are commonly reported, especially when taken on empty stomach or at higher doses"
+    },
+    {
+      "label": "Fatigue and Low Blood Sugar:",
+      "description": "Some users experience extreme tiredness or hypoglycemic symptoms the day after taking ALA, particularly if not consuming adequate carbohydrates"
+    },
+    {
+      "label": "Heavy Metal Redistribution:",
+      "description": "Concerns about ALA's chelating properties potentially redistributing heavy metals improperly if not used with appropriate protocols"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Some users report anxiety, headaches, or worsening of symptoms, suggesting significant individual variation in response and need for careful dosing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Users emphasize buying from reputable brands with third-party testing; many generic products tested poorly for potency with some containing less than 10% of claimed amounts"
+    },
+    {
+      "label": "Form Selection:",
+      "description": "Multiple forms available including regular ALA, R-ALA, Na-R-ALA, and timed-release versions; R-ALA and Na-R-ALA are preferred for better bioavailability despite higher cost"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Found in most supplement stores and online retailers, though users strongly recommend avoiding unknown brands due to quality concerns documented in third-party testing"
+    }
+  ],
+  "related": [
+    {
+      "name": "R-ALPHA LIPOIC ACID",
+      "slug": "r-alpha-lipoic-acid"
+    },
+    {
+      "name": "COQ10",
+      "slug": "coq10"
+    },
+    {
+      "name": "NAD+ (NMN/NR)",
+      "slug": "nad-nmn-nr"
+    },
+    {
+      "name": "CARNOSIC ACID",
+      "slug": "carnosic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    }
+  ]
+}

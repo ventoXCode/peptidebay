@@ -1,0 +1,156 @@
+{
+  "slug": "dulaglutide",
+  "url": "https://dopamine.club/substances/dulaglutide/",
+  "scrapedAt": "2026-02-12T16:07:25.914Z",
+  "title": "DULAGLUTIDE",
+  "description": "Dulaglutide (brand name Trulicity) is a once-weekly injectable glucagon-like peptide-1 (GLP-1) receptor agonist used primarily for treating type 2 diabetes mellitus. It works by stimulating insulin secretion, delaying gastric emptying, and increasing satiety, which leads to improved glycemic control and weight reduction. Clinical trials have demonstrated its efficacy in lowering HbA1c levels, reducing body weight, and potentially providing cardiovascular benefits.",
+  "categories": [
+    "Peptide",
+    "GLP"
+  ],
+  "research": [
+    {
+      "title": "The effect of subcutaneous dulaglutide on weight loss in patients with Type 2 diabetes mellitus: Systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis found that dulaglutide significantly reduces body weight, BMI, and waist circumference in patients with type 2 diabetes, confirming its role as an effective weight loss agent beyond glycemic control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37950521/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial",
+      "summary": "The REWIND trial demonstrated that dulaglutide reduces major adverse cardiovascular events in patients with type 2 diabetes, establishing its cardiovascular safety and potential protective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31189511/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Semaglutide versus dulaglutide once weekly in patients with type 2 diabetes (SUSTAIN 7): a randomised, open-label, phase 3b trial",
+      "summary": "Head-to-head comparison showed semaglutide provided superior reductions in HbA1c and body weight compared to dulaglutide, though both medications demonstrated significant efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29397376/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative evaluation of dulaglutide alone vs. dulaglutide combined with probiotics on cardiovascular risk factors in T2DM",
+      "summary": "Study found that combining dulaglutide with probiotics enhanced cardiovascular risk factor improvements and pancreatic beta-cell function beyond dulaglutide alone in type 2 diabetes patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40214965/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glycemic Efficacy, Weight Effects, and Safety of Once-Weekly Glucagon-Like Peptide-1 Receptor Agonists",
+      "summary": "Comprehensive review showed once-weekly GLP-1 agonists like dulaglutide provide effective glycemic control with weight reduction and low hypoglycemia risk, demonstrating superior or comparable efficacy to various oral antidiabetic drugs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30156445/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparing the effectiveness of long-term use of daily and weekly glucagon-like peptide-1 receptor agonists treatments in patients with nonalcoholic fatty liver disease and type 2 diabetes mellitus: a network meta-analysis",
+      "summary": "Network meta-analysis found both daily and weekly GLP-1 receptor agonists effectively reduce liver fat content and improve liver enzymes in patients with NAFLD and type 2 diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37342259/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of dulaglutide on alcohol consumption during smoking cessation",
+      "summary": "Secondary analysis of a clinical trial found dulaglutide treatment was associated with reduced alcohol consumption, suggesting potential applications beyond diabetes management in addiction-related behaviors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37991022/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of a Dulaglutide plus Calorie-Restricted Diet versus a Calorie-Restricted Diet on Visceral Fat and Metabolic Profiles in Women with Polycystic Ovary Syndrome: A Randomized Controlled Trial",
+      "summary": "Study demonstrated that dulaglutide combined with calorie restriction significantly reduced visceral adipose tissue and improved metabolic profiles in overweight/obese women with PCOS beyond diet alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36771262/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 15,
+    "summary": "The user discussions contain no actual user experiences with dulaglutide itself. All posts discuss entirely different supplements (creatine, garlic extract, magnesium, black seed oil) and medications (Wellbutrin, Adderall, Cialis), making sentiment analysis impossible for dulaglutide specifically."
+  },
+  "effects": [
+    {
+      "label": "Diabetes Management:",
+      "description": "Superior or non-inferior glycemic control compared to metformin, sitagliptin, exenatide, and insulin glargine in clinical trials"
+    },
+    {
+      "label": "Weight Reduction:",
+      "description": "Consistent weight loss effects across diverse patient populations, with enhanced benefits when combined with calorie restriction"
+    },
+    {
+      "label": "Cardiovascular Outcomes:",
+      "description": "REWIND trial confirmed cardiovascular safety with potential protective effects against major adverse events"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Enhanced efficacy when combined with probiotics for cardiovascular risk factors and with diet for visceral fat reduction"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "0.75 mg or 1.5 mg subcutaneously once weekly for type 2 diabetes management"
+    },
+    {
+      "label": "Treatment Duration:",
+      "description": "Clinical trials demonstrate sustained efficacy over periods ranging from 12 weeks to multiple years"
+    },
+    {
+      "label": "Administration:",
+      "description": "Once-weekly subcutaneous injection, offering convenience advantages over daily medications"
+    },
+    {
+      "label": "Titration:",
+      "description": "Typically initiated at lower dose with potential escalation to 1.5 mg based on glycemic response and tolerability"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Common GLP-1 receptor agonist side effects including nausea, delayed gastric emptying, and digestive changes"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Generally well-tolerated with low risk of hypoglycemia when used as monotherapy or with metformin"
+    },
+    {
+      "label": "Injection Site:",
+      "description": "Potential for local reactions at subcutaneous injection sites"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Safety and tolerability profile established across diverse patient populations in extensive clinical trial programs"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Available by prescription as Trulicity for treatment of type 2 diabetes mellitus in multiple countries"
+    },
+    {
+      "label": "Insurance Coverage:",
+      "description": "Reimbursement typically requires documentation of inadequate control with oral antidiabetic medications, with coverage varying by region and insurance provider"
+    },
+    {
+      "label": "Clinical Access:",
+      "description": "Available through endocrinology specialists and primary care physicians for appropriate patient populations meeting diagnostic criteria"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALBIGLUTIDE",
+      "slug": "albiglutide"
+    },
+    {
+      "name": "EXENATIDE",
+      "slug": "exenatide"
+    },
+    {
+      "name": "LIRAGLUTIDE",
+      "slug": "liraglutide"
+    },
+    {
+      "name": "Retatrutide",
+      "slug": "retatrutide"
+    },
+    {
+      "name": "SEMAGLUTIDE",
+      "slug": "semaglutide"
+    }
+  ]
+}

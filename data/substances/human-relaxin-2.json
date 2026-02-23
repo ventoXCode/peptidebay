@@ -1,0 +1,121 @@
+{
+  "slug": "human-relaxin-2",
+  "url": "https://dopamine.club/substances/human-relaxin-2/",
+  "scrapedAt": "2026-02-12T16:08:32.749Z",
+  "title": "HUMAN RELAXIN-2",
+  "description": "Human Relaxin-2, or serelaxin in its recombinant form, is a peptide hormone that acts primarily through the RXFP1 receptor to induce systemic and renal vasodilation via nitric oxide and bradykinin pathways. It is primarily studied for its ability to reduce vascular resistance, improve organ perfusion, and exhibit anti-fibrotic and anti-inflammatory properties in cardiovascular and liver diseases.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Serelaxin, recombinant human relaxin-2, for treatment of acute heart failure (RELAX-AHF): a randomised, placebo-controlled trial",
+      "summary": "This Phase III trial found that serelaxin significantly improved dyspnea (shortness of breath) and reduced 180-day mortality in patients with acute heart failure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23141816/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Relaxin-2 for heart failure with preserved ejection fraction (HFpEF): Rationale for future clinical trials",
+      "summary": "Reviews the potential of relaxin-2 to address chronic heart failure through anti-inflammatory, anti-fibrotic, and anti-oxidative signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30659842/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Acute intravenous injection of serelaxin (recombinant human relaxin-2) causes rapid and sustained bradykinin-mediated vasorelaxation",
+      "summary": "Animal studies show that a single injection can cause sustained vascular relaxation and reduced arterial contraction that lasts even after the peptide is cleared from the blood.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24584737/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Human recombinant relaxin-2 (serelaxin) regulates the proteome, lipidome, lipid metabolism and inflammatory profile of rat visceral adipose tissue",
+      "summary": "Explores how serelaxin influences metabolic health by altering lipid metabolism and reducing inflammation in fat tissues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38518995/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A phase 2 randomised controlled trial of serelaxin to lower portal pressure in cirrhosis (STOPP)",
+      "summary": "Found that serelaxin may help ameliorate portal hypertension and provide anti-fibrotic effects in patients with liver cirrhosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32164767/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Clinical sentiment is mixed; while early trials showed significant mortality benefits, larger follow-up studies (RELAX-AHF-2) failed to meet primary endpoints, leading to a more cautious outlook on its general efficacy."
+  },
+  "effects": [
+    {
+      "label": "Acute vs Chronic:",
+      "description": "Highly effective for short-term hemodynamic stabilization, but long-term clinical outcomes in large populations have been inconsistent."
+    },
+    {
+      "label": "Symptom Relief:",
+      "description": "Consistently shown to reduce dyspnea and congestion-related symptoms in clinical settings."
+    },
+    {
+      "label": "Endpoint Variability:",
+      "description": "Success is highly dependent on the specific study population, with better results often seen in patients with preserved renal function."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Infusion Rate:",
+      "description": "Standard clinical research utilizes 30 μg/kg/day administered as a continuous intravenous infusion over 48 hours."
+    },
+    {
+      "label": "Bolus Injection:",
+      "description": "Experimental rat models have used single injections of 13.3 μg/kg to observe sustained vascular effects."
+    },
+    {
+      "label": "Half-life Limitations:",
+      "description": "The native peptide has a very short half-life, leading researchers to develop lipidated analogs for longer-lasting effects."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hypotension:",
+      "description": "Due to its potent vasodilatory effects, excessive blood pressure drops can occur."
+    },
+    {
+      "label": "Site Irritation:",
+      "description": "Administration via IV can lead to standard infusion-site reactions."
+    },
+    {
+      "label": "Bradycardia Potential:",
+      "description": "While not common, changes in heart rate dynamics are monitored due to its influence on the cardiovascular system."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Clinical Status:",
+      "description": "Serelaxin was developed by Novartis but faced regulatory hurdles after phase 3 failures; it is currently not widely available as a commercial supplement."
+    },
+    {
+      "label": "Research Use:",
+      "description": "Primarily available through chemical supply houses for laboratory research and is not intended for over-the-counter use."
+    }
+  ],
+  "related": [
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    },
+    {
+      "name": "FOXO4-DRI",
+      "slug": "foxo4-dri"
+    },
+    {
+      "name": "GHK-Cu",
+      "slug": "ghk-cu"
+    }
+  ]
+}

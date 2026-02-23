@@ -1,0 +1,149 @@
+{
+  "slug": "scutellaria",
+  "url": "https://dopamine.club/substances/scutellaria/",
+  "scrapedAt": "2026-02-12T16:11:11.014Z",
+  "title": "SCUTELLARIA",
+  "description": "Scutellaria (Chinese skullcap) is a medicinal herb containing bioactive flavonoids, primarily baicalin and baicalein, that modulate GABA-A receptors and exhibit anti-inflammatory, antioxidant, and neuroprotective properties. It works by enhancing GABAergic neurotransmission, reducing neuroinflammation, and modulating stress hormone pathways, making it effective for anxiety, sleep disorders, and mood regulation.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Effects of a Scutellaria baicalensis/Crataegus laevigata, magnesium and chromium supplement on stressed individuals: A randomised, double-blind, placebo-controlled, crossover trial",
+      "summary": "A 15-day trial showed Scutellaria baicalensis combined with magnesium and chromium significantly improved psychological well-being, cognitive performance, and sleep quality in stressed adults without serious adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41194549/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of Combined Scutellaria and Saffron Supplementation on Mood Regulation in Participants with Mild-to-Moderate Depressive Symptoms",
+      "summary": "Combined Scutellaria and saffron supplementation demonstrated efficacy in improving mood regulation in participants with mild-to-moderate depression, with bioactive compounds modulating neurotransmitter systems and showing anti-inflammatory and anxiolytic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40077679/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and Tolerability of a Chemically Characterized Scutellaria lateriflora Extract-Based Food Supplement for Sleep Management",
+      "summary": "A randomized, double-blind crossover trial found Scutellaria lateriflora extract significantly improved sleep quality and showed good tolerability with no serious adverse effects reported.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40362800/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of scutellaria baicalensis and its active ingredients on depression: A systematic review and meta-analysis",
+      "summary": "Meta-analysis of 13 preclinical studies showed Scutellaria baicalensis significantly reduced depressive behaviors through anti-inflammatory effects and modulation of neurotransmitter systems, though heterogeneity among studies was noted.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10987764/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological effects of baicalin in lung diseases",
+      "summary": "Review of baicalin demonstrated therapeutic benefits in various lung diseases through antioxidant, anti-inflammatory, immunomodulatory, and antiviral effects, with applications in COPD, asthma, and pulmonary infections.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37168996/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of supplementation with Scutellaria baicalensis on hepatic function",
+      "summary": "Systematic review found no evidence that Scutellaria baicalensis alone causes liver injury; previously reported cases involved concurrent use of other hepatotoxic supplements, suggesting the herb is safe for hepatic function when used appropriately.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31557595/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bioactive compounds from Chinese herbal plants for neurological health: mechanisms, pathways, and functional food applications",
+      "summary": "Review highlighted Scutellaria baicalensis compounds demonstrate significant neuroprotective properties through anti-inflammatory, antioxidant, and neurogenic effects, making them promising for prevention and treatment of neurological disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39957765/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report effective anxiety reduction and improved sleep quality with Scutellaria, with many comparing it favorably to L-theanine or benzodiazepines. While some caution about potential memory effects at high doses, the majority find it well-tolerated and beneficial for stress management."
+  },
+  "effects": [
+    {
+      "label": "Rapid Onset:",
+      "description": "Users typically report effects within the first dose when using tinctures or extracts, with benefits accumulating over 1-2 weeks of consistent use"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effectiveness varies significantly between individuals, with some reporting strong benefits while others notice minimal effects"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Many users find it works better when combined with magnesium, ashwagandha, or other GABAergic compounds rather than as a standalone supplement"
+    },
+    {
+      "label": "Formulation Matters:",
+      "description": "Tinctures and standardized extracts (particularly those with high baicalein content) appear more effective than powdered forms according to user reports"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "256-400mg of Scutellaria baicalensis extract standardized to ≥98% baicalein taken 1-2 times daily is commonly reported"
+    },
+    {
+      "label": "Tincture Form:",
+      "description": "Users report effectiveness with tinctures at manufacturer-recommended doses, typically absorbed more quickly than capsules"
+    },
+    {
+      "label": "Timing:",
+      "description": "Most effective when taken 30-60 minutes before bed for sleep benefits, or during the day for anxiety without causing excessive sedation"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users recommend cycling (5 days on, 2 days off) to maintain effectiveness and prevent tolerance development"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Memory Effects:",
+      "description": "One user reported concerns about potential memory lapses at higher doses (300-600mg), though causality was uncertain"
+    },
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Most users report no significant adverse effects when using moderate doses of quality extracts"
+    },
+    {
+      "label": "Sedation Risk:",
+      "description": "Can cause oversedation if combined with other GABAergic compounds or taken at high doses"
+    },
+    {
+      "label": "Hepatotoxicity Concerns:",
+      "description": "Research suggests liver injury cases involved concurrent use of other hepatotoxic supplements, not Scutellaria alone"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Scutellaria supplements are readily available from various online retailers and health stores in both extract and tincture forms"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Users emphasize the importance of choosing standardized extracts with verified baicalein content for consistent results"
+    },
+    {
+      "label": "Species Distinction:",
+      "description": "Both Scutellaria baicalensis (Chinese skullcap) and Scutellaria lateriflora (American skullcap) are available, with somewhat different applications but similar anxiolytic properties"
+    }
+  ],
+  "related": [
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    },
+    {
+      "name": "LEMON BALM",
+      "slug": "lemon-balm"
+    },
+    {
+      "name": "MAGNOLIA BARK",
+      "slug": "magnolia-bark"
+    },
+    {
+      "name": "PASSIONFLOWER",
+      "slug": "passionflower"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    }
+  ]
+}

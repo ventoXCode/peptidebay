@@ -1,0 +1,137 @@
+{
+  "slug": "lycopene",
+  "url": "https://dopamine.club/substances/lycopene/",
+  "scrapedAt": "2026-02-12T16:09:20.480Z",
+  "title": "LYCOPENE",
+  "description": "Lycopene is a powerful carotenoid antioxidant found primarily in tomatoes and other red fruits that gives them their characteristic color. It works by neutralizing free radicals, reducing oxidative stress, and protecting cellular structures including DNA, with particular benefits for cardiovascular health, prostate health, and skin protection. Unlike beta-carotene, lycopene does not convert to vitamin A and is primarily valued for its antioxidant and anti-inflammatory properties.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Dietary intake of tomato and lycopene, blood levels of lycopene, and risk of total and specific cancers in adults: a systematic review and dose-response meta-analysis of prospective cohort studies",
+      "summary": "High lycopene intake and blood levels were associated with 5% and 11% reductions in overall cancer risk respectively, with evidence of dose-response relationships showing significant protective effects at intakes above certain thresholds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lycopene intake and prostate cancer risk in men at high cardiovascular risk: a prospective cohort study",
+      "summary": "Men in the highest quartile of lycopene intake had a 54% lower risk of prostate cancer compared to the lowest quartile, with significant inverse associations emerging at intakes above 4.9 mg/day in a Mediterranean population study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Association between higher dietary lycopene intake and reduced depression risk among American adults: evidence from NHANES 2007-2016",
+      "summary": "Higher dietary lycopene intake was significantly associated with reduced depression risk in American adults, with a U-shaped relationship showing protective effects at intakes ranging from 0 to 10,072 μg/day.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tomato and lycopene and multiple health outcomes: Umbrella review",
+      "summary": "Comprehensive umbrella review of meta-analyses found consistent evidence for lycopene's protective associations with cardiovascular disease, certain cancers, and metabolic health outcomes across multiple populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33131949/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tomato powder is more effective than lycopene to alleviate exercise-induced lipid peroxidation in well-trained male athletes",
+      "summary": "Study demonstrated that whole tomato powder provided superior antioxidant protection against exercise-induced oxidative stress compared to isolated lycopene supplements, suggesting synergistic effects of tomato's complete nutrient profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report positive experiences with lycopene, particularly when obtained from whole food sources like tomato paste. Common benefits include skin protection, prostate health support, and visible skin coloration improvements, though users emphasize the importance of getting it from food rather than isolated supplements."
+  },
+  "effects": [
+    {
+      "label": "Food vs Supplement:",
+      "description": "Research and user experiences strongly support whole food sources (especially cooked tomato paste) over isolated lycopene supplements for better absorption and effectiveness"
+    },
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Studies show protective effects emerging at 4.9+ mg/day, with optimal benefits in the 10-20mg range from dietary sources"
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "Most significant effects on cancer risk, cardiovascular health, and skin appearance require sustained use over months to years rather than acute supplementation"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears to vary based on baseline carotenoid status, with those consuming low amounts of fruits and vegetables showing more dramatic improvements"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Daily Tomato Paste:",
+      "description": "One tablespoon daily provides approximately 5-10mg lycopene and is the most cost-effective and well-tolerated approach according to users"
+    },
+    {
+      "label": "Supplement Doses:",
+      "description": "When using supplements, users commonly take 10-20mg daily, though some biohackers use up to 20mg specifically for skin pigmentation effects"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Best absorbed with fats; users recommend taking with meals containing healthy fats or mixing tomato paste with olive oil"
+    },
+    {
+      "label": "Cycling vs Continuous:",
+      "description": "Most users take lycopene continuously rather than cycling, particularly when using whole food sources like tomato paste"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported Issues:",
+      "description": "Very few side effects reported compared to other supplements, with most users experiencing no adverse effects from moderate doses"
+    },
+    {
+      "label": "Skin Discoloration:",
+      "description": "At megadoses (particularly with multiple carotenoids), some users report orange-yellow skin tinting, which is generally considered desirable rather than problematic"
+    },
+    {
+      "label": "Digestive Tolerance:",
+      "description": "Rare reports of mild digestive upset when starting, particularly with concentrated tomato paste on an empty stomach"
+    },
+    {
+      "label": "Interaction Considerations:",
+      "description": "Generally well-tolerated with other supplements, though users taking comprehensive stacks note it works synergistically with other antioxidants"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Food Sources Preferred:",
+      "description": "Tomato paste from grocery stores ($1 per can) is the most accessible and cost-effective source, with users strongly preferring this over supplements"
+    },
+    {
+      "label": "Supplement Brands:",
+      "description": "When choosing supplements, users mention brands like quality brands and quality brands as reliable options, though whole food sources remain preferred"
+    },
+    {
+      "label": "Cost Comparison:",
+      "description": "Tomato paste provides better value at approximately $4-5 per month versus $15-30 for lycopene supplements, with potentially superior bioavailability"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

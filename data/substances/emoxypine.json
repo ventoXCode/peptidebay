@@ -1,0 +1,119 @@
+{
+  "slug": "emoxypine",
+  "url": "https://dopamine.club/substances/emoxypine/",
+  "scrapedAt": "2026-02-12T16:07:37.109Z",
+  "title": "EMOXYPINE",
+  "description": "Emoxypine is a synthetic antioxidant structurally related to pyridoxine (Vitamin B6) that functions as an anxiolytic and neuroprotective agent. It works by stabilizing cell membranes, modulating GABA receptor activity, and increasing blood flow to the brain, frequently used to treat cerebrovascular disorders and anxiety.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Promising effects of emoxypine and its succinate derivative in the management of various diseases-with insights on recent patent applications",
+      "summary": "Reviews the therapeutic potential of emoxypine's hydroxypridine structure for diverse industrial and medical applications due to its antioxidant and pharmacological properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35992374/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anxiolytic and Antidepressant Actions of Emoxypine, Reamberin, and Mexidol in Experimental Diabetes Mellitus",
+      "summary": "Found that emoxypine significantly decreased signs of anxiety and depression in animal models, demonstrating the highest anxiolytic potential among the substances tested.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28638031/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative Analysis of the Anxiolytic Effects of 3-Hydroxypyridine and Succinic Acid Derivatives",
+      "summary": "Demonstrated that emoxypine produces a pronounced anxiolytic effect and stimulates risk-taking behavior, making it a promising preparation for treating anxiety disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25692131/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Emoxipine. Molecular and biochemical mechanisms of action, pharmacological properties, and clinical use",
+      "summary": "A comprehensive review of the drug's role in improving cerebral circulation, inhibiting lipid peroxidation, and its clinical application in neurology and ophthalmology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7878864/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users widely praise Emoxypine for its ability to reduce anxiety without the sedation or cognitive impairment typically associated with benzodiazepines."
+  },
+  "effects": [
+    {
+      "label": "Anxiety Relief:",
+      "description": "Highly effective for physical symptoms of stress and social inhibition without being 'high'."
+    },
+    {
+      "label": "Alcohol Recovery:",
+      "description": "Widely regarded as one of the most effective supplements for preventing alcohol-related brain fog."
+    },
+    {
+      "label": "Cumulative Benefits:",
+      "description": "While some feel immediate effects, many users report better results after 2-3 days of consistent use."
+    },
+    {
+      "label": "Non-Sedating:",
+      "description": "Unlike traditional anxiolytics, it does not typically cause sleepiness or motor impairment."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most common dosage is 125mg to 250mg taken 2-3 times per day."
+    },
+    {
+      "label": "Daily Maximum:",
+      "description": "Long-term users generally stay below 750mg total per day to avoid irritability."
+    },
+    {
+      "label": "Cycle Duration:",
+      "description": "Often taken in cycles of 4-6 weeks followed by a break, though some use it acutely for social events."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Dry Mouth:",
+      "description": "Some users report a mild drying sensation in the mouth or throat."
+    },
+    {
+      "label": "Occasional Irritability:",
+      "description": "High doses may paradoxically lead to increased irritability or edginess in some individuals."
+    },
+    {
+      "label": "Heartburn:",
+      "description": "When taken on an empty stomach, the capsules can occasionally cause mild gastrointestinal discomfort."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Source:",
+      "description": "Primarily sold under the brand name Mexidol in Russia; available as a bulk powder or capsules from specialty nootropic vendors internationally."
+    },
+    {
+      "label": "Legality:",
+      "description": "Generally sold as a dietary supplement or research chemical in most Western countries."
+    }
+  ],
+  "related": [
+    {
+      "name": "L-TYROSINE",
+      "slug": "l-tyrosine"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Bromantane",
+      "slug": "bromantane"
+    },
+    {
+      "name": "GABA",
+      "slug": "gaba"
+    }
+  ]
+}

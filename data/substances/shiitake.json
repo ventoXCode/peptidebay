@@ -1,0 +1,155 @@
+{
+  "slug": "shiitake",
+  "url": "https://dopamine.club/substances/shiitake/",
+  "scrapedAt": "2026-02-12T16:11:16.026Z",
+  "title": "SHIITAKE",
+  "description": "Shiitake (Lentinula edodes) is an edible and medicinal mushroom rich in bioactive compounds including beta-glucans, polysaccharides, eritadenine, and antioxidants. It works through multiple mechanisms including immune modulation, cholesterol metabolism regulation, and antioxidant activity. Primarily used as a functional food and dietary supplement for immune support, cholesterol management, and overall health promotion.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Consuming Lentinula edodes (Shiitake) Mushrooms Daily Improves Human Immunity: A Randomized Dietary Intervention in Healthy Young Adults",
+      "summary": "Daily consumption of shiitake mushrooms in healthy young adults resulted in improved immune function and reduced inflammatory markers, demonstrating immunomodulatory benefits in humans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25866155/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic values and nutraceutical properties of shiitake mushroom (Lentinula edodes): A review",
+      "summary": "Comprehensive review documenting shiitake's antimicrobial, antiviral, anticancer, anti-obesity, antidiabetic, and antioxidant properties, highlighting its potential for disease prevention and treatment through multiple bioactive compounds.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0924224423000821/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-Cancer Potential of Edible/Medicinal Mushrooms in Breast Cancer",
+      "summary": "Research demonstrates that shiitake mushrooms exhibit in vitro and in vivo anticancer effects against various tumors including breast cancer through multiple bioactive compounds and mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37373268/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Shiitake Culinary-Medicinal Mushroom, Lentinus edodes (Agaricomycetes), Bars on Lipid and Antioxidant Profiles in Individuals with Borderline High Cholesterol",
+      "summary": "Double-blind randomized trial showed shiitake supplementation improved cholesterol profiles and antioxidant status in individuals with borderline high cholesterol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34375514/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Shiitake mushroom powder supplementation increase antioxidative activity in dogs",
+      "summary": "Four weeks of shiitake supplementation at 800 mg/kg body weight significantly increased superoxide dismutase activity, decreased cholesterol, and enhanced sirtuin1 expression, demonstrating antioxidant benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38962708/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Shiitake Culinary-Medicinal Mushroom, Lentinus edodes (Agaricomycetes), Supplementation Alters Gut Microbiome and Corrects Dyslipidemia in Rats",
+      "summary": "Shiitake supplementation modulated gut microbiome composition and corrected dyslipidemia in hypercholesterolemic rats, suggesting benefits through gut microbiota-mediated mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30806258/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chemical Composition, Antioxidant and Anti-Inflammatory Activity of Shiitake Mushrooms (Lentinus edodes)",
+      "summary": "Analysis of shiitake's chemical composition confirmed significant antioxidant and anti-inflammatory properties attributed to its bioactive compounds including polysaccharides and phenolics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39194878/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Review of Bioactive Molecules Production, Biomass, and Basidiomata of Shiitake Culinary-Medicinal Mushrooms, Lentinus edodes (Agaricomycetes)",
+      "summary": "Comprehensive review of shiitake's bioactive compounds including lentinan, polysaccharides, and secondary metabolites, demonstrating antibacterial, antifungal, anticancer, and immunomodulatory activities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32450024/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally view shiitake mushrooms positively as part of comprehensive supplement stacks for immune support and longevity, though mostly mentioned alongside other medicinal mushrooms rather than as a standalone supplement. Quality and sourcing concerns are occasionally noted."
+  },
+  "effects": [
+    {
+      "label": "Multi-Mushroom Formulas:",
+      "description": "Users typically combine shiitake with other medicinal mushrooms (Lion's Mane, Reishi, Cordyceps) rather than using it alone"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "Beta-glucan content varies significantly between products; some mycelium-on-grain products contain high starch (72.5% alpha-glucan) with minimal active compounds"
+    },
+    {
+      "label": "Dosage Consistency:",
+      "description": "Research studies used 30-60g fresh mushroom or 800mg/kg body weight powder daily with measurable benefits within 4 weeks to 4 months"
+    },
+    {
+      "label": "Preventive Focus:",
+      "description": "Most evidence supports long-term preventive benefits for cardiovascular health, immune function, and longevity rather than acute therapeutic effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "30-60 grams of fresh mushroom or powder daily appears most common in research studies"
+    },
+    {
+      "label": "Extract Dosing:",
+      "description": "When using concentrated extracts in multi-mushroom blends, users typically take standardized capsules once or twice daily"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits observed with consistent use over 4 weeks to several months; users often include in long-term health protocols"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users cycle mushroom supplements 5 days on/2 days off, though research doesn't clearly support need for cycling"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Research and user reports indicate minimal side effects at recommended doses"
+    },
+    {
+      "label": "Arsenic Concerns:",
+      "description": "Some studies detected inorganic arsenic in commercial shiitake products, raising quality control concerns"
+    },
+    {
+      "label": "Digestive Effects:",
+      "description": "Rare reports of mild digestive changes when starting supplementation"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with cholesterol medications due to lipid-lowering effects warrant monitoring"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Varies:",
+      "description": "Users recommend Host Defense, Genius Mushrooms, and other established brands; emphasis on third-party testing for beta-glucan content"
+    },
+    {
+      "label": "Mycelium vs Fruiting Body:",
+      "description": "Significant quality differences exist; some products contain mainly starch from grain substrate rather than active mushroom compounds"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Accessible through health food stores, online retailers, and as whole mushrooms in grocery stores for dietary incorporation"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

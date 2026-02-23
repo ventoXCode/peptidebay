@@ -1,0 +1,138 @@
+{
+  "slug": "theacrine",
+  "url": "https://dopamine.club/substances/theacrine/",
+  "scrapedAt": "2026-02-12T16:11:40.363Z",
+  "title": "THEACRINE",
+  "description": "Theacrine (1,3,7,9-tetramethyluric acid) is a purine alkaloid structurally similar to caffeine that acts as an adenosine receptor antagonist. It is found naturally in Camellia kucha tea and certain fruits, and is valued for its ability to enhance energy, focus, and mood without causing the habituation or tolerance typically associated with caffeine.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Dose response effects of theacrine on cognitive performance and subsequent sleep",
+      "summary": "Theacrine consumed within eight hours of bedtime improved next-morning cognitive performance with the 400mg dose reducing lapses on vigilance tasks, while showing only small non-significant effects on nighttime sleep quality.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39567632/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cognitive Performance and Mood Following Ingestion of a Theacrine-Containing Dietary Supplement, Caffeine, or Placebo by Young Men and Women",
+      "summary": "Study compared theacrine effects with caffeine and placebo on energy, mood, and objective measures of cognitive performance in young adults, demonstrating improvements in subjective energy and focus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26610558/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety of TeaCrine®, a non-habituating, naturally-occurring purine alkaloid over eight weeks of continuous use",
+      "summary": "Eight-week study of 60 participants found theacrine safe at doses up to 300mg daily with no evidence of habituation or tolerance, maintaining stable effects on energy, focus, and motivation throughout the study period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26757928/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of TeaCrine® and caffeine on endurance and cognitive performance during a simulated match in high-level soccer players",
+      "summary": "Theacrine showed 27-38% improvements in time-to-exhaustion compared to placebo in high-level soccer players, with benefits to cognitive performance and endurance capacity during simulated matches.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30999915/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Theacrine, a Potent Antidepressant Purine Alkaloid from a Special Chinese Tea, Promotes Adult Hippocampal Neurogenesis in Stressed Mice",
+      "summary": "Animal study demonstrated theacrine's antidepressant properties through promotion of adult hippocampal neurogenesis in stressed mice, suggesting potential mood-enhancing mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34101450/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are genuinely divided, with some reporting subtle energy and focus improvements without jitters, while many others find effects minimal or non-existent, leading to questions about whether benefits justify the cost compared to caffeine."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly variable between individuals, with some experiencing clear benefits while others notice minimal or no effects"
+    },
+    {
+      "label": "Synergy with Caffeine:",
+      "description": "Most consistent positive reports come from users combining theacrine with caffeine, where it appears to smooth out caffeine's effects and extend duration"
+    },
+    {
+      "label": "Subtle vs Pronounced:",
+      "description": "Effects are generally described as subtle rather than dramatic, leading some users to question cost-effectiveness compared to caffeine alone"
+    },
+    {
+      "label": "Timing Sensitivity:",
+      "description": "Research suggests consumption within 8 hours of bedtime may enhance next-morning cognitive performance without significantly disrupting sleep"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "100-200mg is commonly used, with research supporting safety and efficacy in this range"
+    },
+    {
+      "label": "Higher Dose:",
+      "description": "300-400mg tested in research with 400mg showing more pronounced cognitive benefits, though individual tolerance varies"
+    },
+    {
+      "label": "Combination Dosing:",
+      "description": "When stacked with caffeine, users typically use 50-100mg theacrine with 100-200mg caffeine for synergistic effects"
+    },
+    {
+      "label": "Timing:",
+      "description": "Can be taken morning or afternoon without significantly disrupting sleep according to research, though individual sensitivity varies"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Research and user reports indicate very few adverse effects, with safety demonstrated up to 300mg daily for 8 weeks"
+    },
+    {
+      "label": "Mild Stimulation:",
+      "description": "Some users report subtle jitteriness or overstimulation at higher doses, though less pronounced than caffeine"
+    },
+    {
+      "label": "Sleep Effects:",
+      "description": "Small non-significant effects on sleep efficiency noted in research with 400mg doses, though generally well-tolerated"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "As with most stimulants, individual responses vary with some reporting headaches or digestive discomfort"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Availability:",
+      "description": "Widely available as TeaCrine® brand supplement from various online retailers and supplement companies"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Legal and unregulated as a dietary supplement in most countries, freely available for purchase"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally more expensive than caffeine, leading users to question value proposition for the subtle effects reported"
+    }
+  ],
+  "related": [
+    {
+      "name": "THEOBROMINE",
+      "slug": "theobromine"
+    },
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "SARCOSINE",
+      "slug": "sarcosine"
+    },
+    {
+      "name": "METHYLENE BLUE",
+      "slug": "methylene-blue"
+    },
+    {
+      "name": "VITAMIN B COMPLEX",
+      "slug": "vitamin-b-complex"
+    }
+  ]
+}

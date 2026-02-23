@@ -1,0 +1,155 @@
+{
+  "slug": "copper",
+  "url": "https://dopamine.club/substances/copper/",
+  "scrapedAt": "2026-02-12T16:06:55.365Z",
+  "title": "COPPER",
+  "description": "Copper is an essential trace mineral that functions as a cofactor for numerous enzymes involved in energy production, iron metabolism, neurotransmitter synthesis, connective tissue formation, and antioxidant defense. It plays critical roles in brain function, immune response, cardiovascular health, and bone metabolism. Copper homeostasis is tightly regulated, as both deficiency and excess can cause significant health problems.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Role of Copper Homeostasis in Brain Disease",
+      "summary": "Copper is essential for cellular processes including neurotransmitter synthesis, myelination, and synaptic transmission. Dysfunction in copper metabolism or regulatory pathways results in imbalanced copper homeostasis in the brain, contributing to neurological diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36430330/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Severe copper deficiency anemia caused by zinc supplement use",
+      "summary": "A case report demonstrating that excessive zinc supplementation can cause severe copper deficiency anemia affecting hematologic and neurologic systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37640593/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Poor Vision from Copper Deficiency",
+      "summary": "Medical cases show severe vision loss from copper deficiency can improve dramatically with copper replacement therapy. Copper gluconate is the preferred supplement form, with several mg daily recommended for months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41269469/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Copper as Dietary Supplement for Bone Metabolism: A Review",
+      "summary": "While in vitro and animal studies show promising results for copper's role in bone health, human studies on copper supplementation and bone mineral density remain scarce and show mixed results.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34210051/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Copper Dyshomeostasis in Neurodegenerative Diseases-Therapeutic Implications",
+      "summary": "Copper is crucial for nervous system function including myelination and neurotransmitter synthesis. Its role in modulating synaptic activity and cell signaling makes it important for understanding neurodegenerative diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33291628/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Importance of Maintaining Zinc and Copper Supplement Dosage Ratio After Metabolic and Bariatric Surgery",
+      "summary": "Maintaining proper zinc-to-copper ratio is critical after bariatric surgery to prevent deficiencies, as excessive zinc can induce copper deficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33782849/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc, Copper, and Iron in Selected Skin Diseases",
+      "summary": "Trace elements including copper play special roles in skin physiology. Abnormal copper levels are associated with increased risk of skin diseases and can be useful as auxiliary diagnostic tests in dermatology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38612631/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cupric oxide should not be used as a copper supplement for either animals or humans",
+      "summary": "Research indicates that cupric oxide is not an appropriate form of copper supplementation due to poor bioavailability and effectiveness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10573563/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users overwhelmingly report positive experiences when correcting copper deficiency caused by excessive zinc supplementation, with dramatic improvements in energy, mood, hair color, skin quality, and neurological symptoms. The consensus emphasizes copper's critical but often overlooked role in health."
+  },
+  "effects": [
+    {
+      "label": "Zinc-Induced Deficiency:",
+      "description": "Most copper deficiency cases in supplement users result from prolonged high-dose zinc supplementation (25-50mg+ daily) without copper balance"
+    },
+    {
+      "label": "Rapid Response:",
+      "description": "Many users report noticeable improvements within 2-7 days of starting copper supplementation, with full recovery taking weeks to months"
+    },
+    {
+      "label": "Critical Balance:",
+      "description": "The zinc-to-copper ratio is crucial; most sources recommend 10:1 to 15:1 ratio (e.g., 25mg zinc with 2-2.5mg copper)"
+    },
+    {
+      "label": "Often Overlooked:",
+      "description": "Medical professionals frequently miss copper deficiency in standard bloodwork, requiring patients to self-diagnose through research and symptom correlation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "2-3mg daily is the most commonly recommended dose for maintaining balance when taking zinc supplements"
+    },
+    {
+      "label": "Deficiency Correction:",
+      "description": "Higher doses of 3-5mg daily may be used temporarily to correct established deficiency, with monitoring recommended"
+    },
+    {
+      "label": "Ratio-Based Dosing:",
+      "description": "Take approximately 1mg copper for every 10-15mg of zinc supplemented to maintain proper balance"
+    },
+    {
+      "label": "Preferred Forms:",
+      "description": "Copper gluconate and copper chelate are the most commonly recommended forms, with cupric oxide considered ineffective"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Excess Copper Toxicity:",
+      "description": "Overloading copper can cause extreme irritability, psychotic feelings, anxiety, and conversion of dopamine to norepinephrine, creating mental disturbances"
+    },
+    {
+      "label": "Heavy Metal Accumulation:",
+      "description": "Without proper testing, copper supplementation can lead to toxic accumulation in tissues and organs, particularly the liver"
+    },
+    {
+      "label": "Interaction Effects:",
+      "description": "Copper can interfere with iron absorption and zinc status if not properly balanced with other minerals"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Some users report negative reactions even at low doses, emphasizing the need for blood testing before long-term supplementation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Forms:",
+      "description": "Copper gluconate and copper chelate are widely available; cupric oxide should be avoided due to poor bioavailability"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Many zinc supplements now include copper (typically 2mg) to prevent deficiency, though standalone copper supplements are readily available"
+    },
+    {
+      "label": "Testing Recommended:",
+      "description": "Users strongly recommend getting copper and ceruloplasmin levels tested before and during supplementation, as standard bloodwork often misses deficiency"
+    }
+  ],
+  "related": [
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "DIMETHYLGLYCINE",
+      "slug": "dimethylglycine"
+    },
+    {
+      "name": "ELEUTHERO",
+      "slug": "eleuthero"
+    },
+    {
+      "name": "IODINE",
+      "slug": "iodine"
+    },
+    {
+      "name": "IRON BISGLYCINATE",
+      "slug": "iron-bisglycinate"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "ginsenosides",
+  "url": "https://dopamine.club/substances/ginsenosides/",
+  "scrapedAt": "2026-02-12T16:08:06.479Z",
+  "title": "GINSENOSIDES",
+  "description": "Ginsenosides are a class of steroidal saponins and secondary metabolites found primarily in the Panax genus, acting as adaptogens to help the body maintain homeostasis. They modulate multiple physiological pathways, including the central nervous and cardiovascular systems, to improve stress resistance, cognitive function, and cellular health.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pharmacological Effects of Ginseng: Multiple Constituents and Multiple Actions on Humans",
+      "summary": "Reviews how ginseng acts as an adaptogen that protects the body against stress, stabilizes physiological processes, and restores homeostasis across various body systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37385964/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Molecular-Signaling Pathways of Ginsenosides Rb in Myocardial Ischemia-Reperfusion Injury: A Mini Review",
+      "summary": "Identifies specific ginsenosides (Rb1, Rb2, Rb3) that exert cardioprotective effects by modulating oxidative stress, inflammation, and apoptotic pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34975299/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-ageing active ingredients from herbs and nutraceuticals used in traditional Chinese medicine: pharmacological mechanisms and implications for drug discovery",
+      "summary": "Highlights ginsenoside Rg1 as a key anti-aging ingredient that may slow the rate of functional decline in cells and tissues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27659301/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hormesis and embryonic stem cells",
+      "summary": "Demonstrates that ginsenosides induce hormetic dose responses that stimulate stem cell renewal and differentiation, suggesting therapeutic potential for tissue repair.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34932953/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Traditional and Current Use of Ginseng",
+      "summary": "Discusses the use of Asian and American ginseng as a 'panacea' for wellness and wellness enhancement while noting the importance of reputable sourcing due to lack of standardization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33549279/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users generally view ginsenosides as effective tools for sustainable energy and stress management, often preferring them over caffeine for a 'cleaner' boost without a crash."
+  },
+  "effects": [
+    {
+      "label": "Species Variance:",
+      "description": "Asian ginseng (Panax ginseng) is generally regarded as more stimulating, while American ginseng (Panax quinquefolius) is often seen as more calming."
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "While some energy effects are immediate, the adaptogenic benefits for stress and homeostasis typically accumulate over weeks of consistent use."
+    },
+    {
+      "label": "Rare Ginsenosides:",
+      "description": "Rare variants like Rg3 and Rh2 are noted for higher bioactivity but are harder to find in standard whole-root supplements."
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "The effectiveness can be limited by low natural absorption rates, leading to a need for high-quality extracts or biotechnologically enhanced versions."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "Common doses range from 200mg to 400mg per day of an extract standardized to at least 4-7% ginsenosides."
+    },
+    {
+      "label": "Whole Root powder:",
+      "description": "Users often take 1g to 2g of dried powder daily, though potency varies significantly between batches."
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Many users recommend cycling (e.g., 3 weeks on, 1 week off) to prevent the development of tolerance or potential side effects like nervousness."
+    },
+    {
+      "label": "Standardization Check:",
+      "description": "Effectiveness is highly dependent on the total percentage of ginsenosides rather than the mg weight of the capsule."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Insomnia:",
+      "description": "Taken too late in the day, ginseng can cause sleeplessness or poor sleep quality due to its stimulating nature."
+    },
+    {
+      "label": "Hypertension:",
+      "description": "Some users and research papers note potential increases in blood pressure, necessitating caution for those with cardiovascular issues."
+    },
+    {
+      "label": "Estrogen-like Effects:",
+      "description": "May cause breast pain or vaginal bleeding in some women due to potential phytoestrogenic activity."
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Known to decrease the effectiveness of blood thinners like warfarin and may enhance the effects of sedative medications."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Status:",
+      "description": "Widely available as a dietary supplement and 'Generally Recognized as Safe' (GRAS) by the FDA."
+    },
+    {
+      "label": "Reputable Sourcing:",
+      "description": "Due to a lack of strict production standardization, users emphasize purchasing from brands that provide third-party lab testing for ginsenoside content."
+    }
+  ],
+  "related": [
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    },
+    {
+      "name": "CATUABA",
+      "slug": "catuaba"
+    },
+    {
+      "name": "CELASTRUS PANICULATUS",
+      "slug": "celastrus-paniculatus"
+    },
+    {
+      "name": "CHAGA MUSHROOM",
+      "slug": "chaga-mushroom"
+    },
+    {
+      "name": "CHLORELLA",
+      "slug": "chlorella"
+    }
+  ]
+}

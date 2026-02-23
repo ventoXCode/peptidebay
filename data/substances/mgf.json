@@ -1,0 +1,131 @@
+{
+  "slug": "mgf",
+  "url": "https://dopamine.club/substances/mgf/",
+  "scrapedAt": "2026-02-12T16:09:33.308Z",
+  "title": "MGF",
+  "description": "Mechano Growth Factor (MGF) is a splice variant of IGF-1 that is expressed locally in muscle tissue in response to mechanical stress, stretch, or injury. Unlike systemic IGF-1, MGF has a shorter half-life and different C-terminal sequence, giving it unique receptor affinities that promote local protein synthesis, prevent apoptosis, and stimulate satellite cell activation for tissue repair and remodeling.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of activity on growth factor expression",
+      "summary": "MGF is specifically expressed after mechanical stimulation and has high potency for inducing local protein synthesis and preventing apoptosis, playing an important role in tissue repair and remodeling. Stretch combined with electrical stimulation was most effective at inducing MGF expression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11915923/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mechano growth factor, a splice variant of IGF-1, promotes neurogenesis in the aging mouse brain",
+      "summary": "MGF overexpression increased neural progenitor cell proliferation and promoted neurogenesis in aging mice, particularly in the hippocampus and subventricular zone. Conditional MGF overexpression starting at younger ages preserved olfactory function and neurogenesis at 24 months.",
+      "url": "https://molecularbrain.biomedcentral.com/counter/pdf/10.1186/s13041-017-0304-0.pdf",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potency of Full-Length MGF to Induce Maximal Activation of the IGF-I R",
+      "summary": "At high equimolar concentrations, full-length MGF induced maximal IGF-I receptor activation similar to recombinant IGF-I, but required significantly higher concentrations (EC50 7.83 nmol/L vs 0.86 nmol/L). Shorter MGF peptides showed no IGF-I receptor activation.",
+      "url": "https://pdfs.semanticscholar.org/e390/f5fe42b0eee366844c998ade4f11e84f0afd.pdf",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mechano-growth factor enhances differentiation of bone marrow-derived mesenchymal stem cells",
+      "summary": "MGF enhanced osteogenic, adipogenic, and chondrogenic differentiation of human bone marrow-derived mesenchymal stem cells in vitro, demonstrating its role in promoting stem cell differentiation across multiple lineages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26330369/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with MGF are limited and mixed, with most discussion focused on peptide stacking for muscle growth rather than standalone MGF use. Users seeking muscle gains express interest but note unclear efficacy data and concerns about unregulated peptide sources and unknown long-term risks."
+  },
+  "effects": [
+    {
+      "label": "Limited Human Data:",
+      "description": "Most evidence comes from animal studies and in vitro research, with minimal controlled human trials"
+    },
+    {
+      "label": "Stacking Context:",
+      "description": "Users typically discuss MGF as part of complex peptide stacks rather than standalone, making individual effects unclear"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Research shows MGF requires higher concentrations than IGF-1 to achieve similar receptor activation"
+    },
+    {
+      "label": "Mechanical Stimulus Required:",
+      "description": "MGF expression and effectiveness appears linked to mechanical stress or tissue damage signals"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dosing:",
+      "description": "Studies use various dosing protocols with no standardized human dosing established"
+    },
+    {
+      "label": "Peptide Protocols:",
+      "description": "Users in forums mention MGF as part of broader peptide blast protocols without specific standalone doses"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Research suggests MGF is most effective when combined with mechanical stimulation or exercise"
+    },
+    {
+      "label": "Administration Route:",
+      "description": "Injectable administration is standard for peptide forms, with various injection protocols discussed"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Unknown Long-Term Risks:",
+      "description": "Users and experts note lack of long-term safety data for exogenous MGF peptides"
+    },
+    {
+      "label": "IGF-1 Related Effects:",
+      "description": "Potential for serious off-target effects similar to IGF-1, including metabolic disturbances"
+    },
+    {
+      "label": "Source Quality Concerns:",
+      "description": "Unregulated peptide sources pose contamination and purity risks"
+    },
+    {
+      "label": "Receptor Desensitization:",
+      "description": "Theoretical concern about chronic exogenous MGF affecting natural IGF-1 signaling"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Unregulated Status:",
+      "description": "MGF peptides are largely unregulated and sold through gray-market research chemical sources"
+    },
+    {
+      "label": "Prescription Required:",
+      "description": "Not available as FDA-approved pharmaceutical; used off-label through compounding pharmacies or research sources"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "Significant concerns about peptide purity, dosing accuracy, and authenticity from non-pharmaceutical sources"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    }
+  ]
+}

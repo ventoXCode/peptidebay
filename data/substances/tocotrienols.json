@@ -1,0 +1,155 @@
+{
+  "slug": "tocotrienols",
+  "url": "https://dopamine.club/substances/tocotrienols/",
+  "scrapedAt": "2026-02-12T16:11:43.801Z",
+  "title": "TOCOTRIENOLS",
+  "description": "Tocotrienols are a subfamily of vitamin E compounds that differ from tocopherols by having an unsaturated isoprenoid side chain. They possess potent antioxidant, anti-inflammatory, and neuroprotective properties, with research suggesting benefits for cardiovascular health, cognitive function, and metabolic syndrome. Tocotrienols are found naturally in palm oil, rice bran, annatto, and wheat germ.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Tocotrienols, the Vitamin E of the 21st Century: It's Potential Against Cancer and Other Chronic Diseases",
+      "summary": "Comprehensive review demonstrating tocotrienols have superior biological activity compared to tocopherols, with potential benefits for cancer prevention, cardiovascular health, and neuroprotection through multiple mechanisms including antioxidant activity and modulation of cellular signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20696139/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological potential of tocotrienols: a review",
+      "summary": "Review highlighting tocotrienols' therapeutic potential including anticancer, antioxidant, anti-inflammatory, neuroprotective, and cholesterol-lowering properties, with significantly greater biological activity than tocopherols despite lower bioavailability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25435896/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tocotrienols, health and ageing: A systematic review",
+      "summary": "Systematic review finding that increased blood tocotrienol levels were associated with favorable cognitive function outcomes, and clinical trials showed benefits for bone health and DNA damage reduction in aging populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27889054/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A 12-week evaluation of annatto tocotrienol supplementation for postmenopausal women: safety, quality of life, body composition, physical activity, and nutrient intake",
+      "summary": "Clinical trial demonstrating that annatto tocotrienol supplementation was safe and well-tolerated in postmenopausal women over 12 weeks, with potential benefits for quality of life parameters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29958106/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Do tocotrienols have potential as neuroprotective dietary factors?",
+      "summary": "Review examining tocotrienols' unique neuroprotective properties including cholesterol-lowering at micromolar concentrations and modulation of neuronal death pathways at nanomolar concentrations, though bioavailability remains a challenge.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21763788/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of tocotrienols supplementation on markers of inflammation and oxidative stress: A systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis finding that tocotrienol supplementation showed variable effects on inflammatory and oxidative stress markers, with benefits dependent on dosage and population studied.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34297765/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potential Role of Tocotrienols on Non-Communicable Diseases: A Review of Current Evidence",
+      "summary": "Comprehensive review demonstrating tocotrienols' potential in preventing cardiovascular, metabolic, musculoskeletal disorders and cancer by suppressing inflammatory pathways, oxidative stress, and cholesterol synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31963885/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutrapharmacology of tocotrienols for metabolic syndrome",
+      "summary": "Review showing tocotrienols improved lipid profiles, reduced blood glucose, normalized blood pressure, and inhibited adipogenesis, with efficacy similar to or greater than tocopherols for metabolic syndrome parameters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21774781/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with tocotrienols, particularly noting benefits for inflammation, mental clarity, energy levels, and hair health. Most users found it helpful when taken at 100-125mg daily, with few side effects reported when used appropriately."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Effects appear most pronounced at 100-125mg daily doses, with benefits typically noticed within 2-4 weeks of consistent use"
+    },
+    {
+      "label": "Superior to Alpha-Tocopherol:",
+      "description": "Research and user experience suggest tocotrienols have greater biological activity than standard vitamin E (alpha-tocopherol) for most health benefits"
+    },
+    {
+      "label": "Lipid Protection:",
+      "description": "Particularly effective when combined with omega-3 supplements to prevent oxidation and enhance absorption of fatty acids"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between individuals, with some reporting dramatic benefits while others notice minimal changes"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "100-125mg daily is the most commonly recommended and used dose, typically from annatto-derived Deltagold tocotrienols"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Best taken with fatty meals for optimal absorption due to fat-soluble nature"
+    },
+    {
+      "label": "Cycling Not Required:",
+      "description": "Unlike some supplements, continuous daily use appears safe and effective without need for cycling periods"
+    },
+    {
+      "label": "Combination with Tocopherols:",
+      "description": "Some users note that high-dose alpha-tocopherol may reduce tocotrienol effectiveness, suggesting separate timing or avoiding high tocopherol intake"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report no significant side effects at recommended doses of 100-125mg daily"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Very few reports of negative reactions, making it one of the safer vitamin E forms for supplementation"
+    },
+    {
+      "label": "No Cycling Needed:",
+      "description": "Long-term use over multiple years reported without issues or need for breaks"
+    },
+    {
+      "label": "Rare Reactions:",
+      "description": "Occasional reports of minor digestive changes or initial adjustment period, but these are uncommon"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Premium Brands Recommended:",
+      "description": "Users favor specific brands like Deltagold (annatto-derived), Healthy Origins, and quality brands for quality and bioavailability"
+    },
+    {
+      "label": "Moderate Cost:",
+      "description": "Generally more expensive than standard vitamin E supplements but considered worth the investment for the enhanced benefits"
+    },
+    {
+      "label": "Annatto Source Preferred:",
+      "description": "Annatto-derived tocotrienols (specifically delta and gamma forms) are considered superior to palm-derived versions for purity and effectiveness"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

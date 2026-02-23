@@ -1,0 +1,161 @@
+{
+  "slug": "strontium-citrate",
+  "url": "https://dopamine.club/substances/strontium-citrate/",
+  "scrapedAt": "2026-02-12T16:11:33.715Z",
+  "title": "STRONTIUM CITRATE",
+  "description": "Strontium citrate is a salt form of the trace element strontium combined with citric acid, commonly available as an over-the-counter dietary supplement. Strontium shares chemical similarities with calcium and incorporates into bone tissue, potentially supporting bone mineral density and skeletal health. It is marketed primarily for bone health and osteoporosis prevention, though its effects and safety profile differ from the prescription drug strontium ranelate.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Prenatal developmental toxicity study of strontium citrate in Sprague Dawley rats",
+      "summary": "High doses of strontium citrate (2267 mg/kg) showed adverse effects on fetal bone and eye development in rats, while doses up to 1360 mg/kg/day were considered safe with no observable adverse effects on prenatal development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30529436/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Accumulation of bone strontium measured by in vivo XRF in rats supplemented with strontium citrate and strontium ranelate",
+      "summary": "Both strontium citrate and strontium ranelate effectively accumulated in bone tissue of rats over 8 weeks, with in vivo X-ray fluorescence successfully measuring bone strontium levels in a live animal model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22995463/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Influence of Various Strontium Formulations on Bone Mineral Density in Ovariectomized Mice",
+      "summary": "Strontium citrate, along with ranelate and chloride forms, showed positive effects on bone mineral density and microarchitecture in an osteoporotic mouse model, supporting its potential role in bone health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38612883/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Monitoring bone strontium intake in osteoporotic females self-supplementing with strontium citrate",
+      "summary": "Long-term monitoring of osteoporotic women taking strontium citrate supplements showed measurable bone strontium accumulation using non-invasive X-ray fluorescence, demonstrating bioavailability and bone incorporation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24434614/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Monitoring bone strontium levels of an osteoporotic subject due to self-administration of strontium citrate: a case study",
+      "summary": "A single osteoporotic patient showed measurable increases in bone strontium levels within 24 hours of supplementation (680 mg Sr/day), with continued accumulation over time in both cortical and trabecular bone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22549020/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Modeling elemental strontium in human bone based on in vivo measurements in osteoporotic females",
+      "summary": "Kinetic modeling in osteoporotic women taking strontium citrate revealed half-lives of 508 days in cortical bone and 232 days in trabecular bone, with measurable accumulation patterns over four years.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26910208/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of strontium citrate on bone consolidation during mandibular distraction osteogenesis",
+      "summary": "Strontium citrate supplementation enhanced new bone formation and healing during mandibular distraction osteogenesis in a rabbit model, suggesting potential benefits for bone healing applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28485552/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary strontium increases bone mineral density in intact zebrafish",
+      "summary": "Dietary strontium citrate supplementation significantly increased whole-body and spinal column bone mineral density in zebrafish, with strontium incorporating into bone tissue in a dose-dependent manner.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20874492/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Strontium increasing calcium accessibility from calcium citrate",
+      "summary": "Strontium chloride added to calcium citrate suspensions increased calcium ion activity through thermodynamic mechanisms, potentially enhancing calcium bioavailability and bone mineralization processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34343801/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "While strontium citrate is mentioned in various supplement contexts, it receives minimal direct user discussion and appears to be a niche supplement primarily considered for bone health in elderly populations. The limited Reddit commentary focuses more on established bone supplements like calcium and vitamin D rather than strontium specifically."
+  },
+  "effects": [
+    {
+      "label": "Bone Health Research:",
+      "description": "Multiple animal and human studies support bone mineral density benefits, particularly in osteoporotic populations, though most research focuses on prescription strontium ranelate rather than the citrate form"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "In vivo studies confirm that oral strontium citrate is absorbed and incorporated into bone tissue, with measurable accumulation over time"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "While animal models show promise, large-scale human clinical trials specifically for strontium citrate supplementation are lacking compared to the prescription form"
+    },
+    {
+      "label": "Dose-Dependent Effects:",
+      "description": "Higher doses show greater bone incorporation but also increased risk of adverse effects, with safety thresholds established in animal studies"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Supplementation:",
+      "description": "Research case studies typically use 680 mg strontium per day from strontium citrate, which is a frequently cited supplementation dose"
+    },
+    {
+      "label": "Safety Threshold:",
+      "description": "Animal studies suggest a NOAEL (no observed adverse effect level) of 1360 mg/kg/day in rats, with adverse developmental effects at 2267 mg/kg/day"
+    },
+    {
+      "label": "Long-Term Use:",
+      "description": "Studies tracking subjects over months to years suggest chronic supplementation is required for sustained bone incorporation"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Bone accumulation rates vary between cortical and trabecular bone, with trabecular bone showing faster turnover (232-day vs 508-day half-life)"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Developmental Concerns:",
+      "description": "High doses in animal studies caused bone and eye anomalies in developing fetuses, raising questions about safety during pregnancy"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Unlike prescription strontium ranelate which has extensive safety monitoring, over-the-counter strontium citrate lacks comprehensive long-term human safety studies"
+    },
+    {
+      "label": "Bone Quality Questions:",
+      "description": "While increasing density, there are theoretical concerns about whether strontium incorporation affects bone quality versus just increasing measured density"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "May affect calcium metabolism and absorption, requiring consideration when combined with calcium supplementation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter Status:",
+      "description": "Available as a dietary supplement in the US and online, unlike strontium ranelate which requires prescription in Europe and Australia"
+    },
+    {
+      "label": "Niche Market:",
+      "description": "Primarily marketed for bone health and osteoporosis prevention, with limited mainstream awareness compared to calcium and vitamin D supplements"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "As an unregulated supplement, actual strontium content may vary between brands, with some research noting discrepancies in elemental strontium composition"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "COLLAGEN TYPE II",
+      "slug": "collagen-type-ii"
+    },
+    {
+      "name": "DIOSMIN",
+      "slug": "diosmin"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    }
+  ]
+}

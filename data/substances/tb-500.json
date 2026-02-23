@@ -1,0 +1,123 @@
+{
+  "slug": "tb-500",
+  "url": "https://dopamine.club/substances/tb-500/",
+  "scrapedAt": "2026-02-12T16:11:37.758Z",
+  "title": "TB-500",
+  "description": "TB-500 is a synthetic version of thymosin beta-4, a naturally occurring peptide involved in tissue repair and regeneration. It promotes healing of injuries, reduces inflammation, and is popular among athletes for accelerating recovery.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Simultaneous quantification of TB-500 and its metabolites by UHPLC-Q-Exactive orbitrap MS/MS",
+      "summary": "Study found that the metabolite Ac-LKKTE plays a more significant role in wound healing than TB-500 itself.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1570023224000412",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Investigation of in vitro/ex vivo TB-500 metabolism synthesis of relevant metabolites",
+      "summary": "Research identified how TB-500 is metabolized in humans and horses, establishing detection methods for doping control.",
+      "url": "https://www.wada-ama.org/en/resources/scientific-research/investigation-vitroex-vivo-tb-500-metabolism-synthesis-relevant",
+      "source": "(Ghent University)"
+    },
+    {
+      "title": "Doping control analysis of TB-500 in equine urine and plasma by LC-MS",
+      "summary": "Method developed to detect TB-500 misuse in horses, representing the first doping control research for equine sports.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0021967312014550",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Thymosin Beta-4 accelerates wound healing",
+      "summary": "Study demonstrated that TB-500 significantly speeds healing by stimulating collagen production and cell migration.",
+      "url": "https://www.jidonline.org/article/S0022-202X(15)40595-0/fulltext",
+      "source": "(Society for Investigative Dermatology)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Highly regarded for injury recovery and healing. Users with chronic injuries report significant improvements. Often stacked with BPC-157 for synergistic healing effects."
+  },
+  "effects": [
+    {
+      "label": "Proven Healing:",
+      "description": "Strong anecdotal and preclinical evidence."
+    },
+    {
+      "label": "Synergy with BPC-157:",
+      "description": "Often combined for enhanced effects."
+    },
+    {
+      "label": "Systemic Action:",
+      "description": "Benefits areas distant from injection site."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Loading Phase:",
+      "description": "4-10mg per week for 4-6 weeks."
+    },
+    {
+      "label": "Maintenance:",
+      "description": "2-5mg per week."
+    },
+    {
+      "label": "Subcutaneous:",
+      "description": "Injected subcutaneously or intramuscularly."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Few adverse effects reported."
+    },
+    {
+      "label": "Head Rush:",
+      "description": "Temporary sensation possible after injection."
+    },
+    {
+      "label": "Lethargy:",
+      "description": "Some report tiredness during healing process."
+    },
+    {
+      "label": "Unknown Long-Term:",
+      "description": "Safety with chronic use not fully established."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Not FDA Approved:",
+      "description": "Sold for research purposes."
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Common in peptide marketplace."
+    }
+  ],
+  "related": [
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    },
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "BPC-157",
+      "slug": "bpc-157"
+    }
+  ]
+}

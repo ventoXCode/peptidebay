@@ -1,0 +1,106 @@
+{
+  "slug": "n-acetyl-semax",
+  "url": "https://dopamine.club/substances/n-acetyl-semax/",
+  "scrapedAt": "2026-02-12T16:09:48.492Z",
+  "title": "N-ACETYL SEMAX",
+  "description": "N-Acetyl Semax is a synthetic peptide derivative of ACTH (adrenocorticotropic hormone) that acts as a neuropeptide with cognitive-enhancing and neuroprotective properties. It works by modulating neurotransmitter systems, particularly dopamine and serotonin, and enhancing BDNF (brain-derived neurotrophic factor) expression. Primarily used as a nootropic for cognitive enhancement, focus, and potential treatment of brain fog and cognitive dysfunction.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with N-Acetyl Semax show mixed results, with some reporting significant improvements in focus and cognitive clarity, while others experienced worsened brain fog or no noticeable effects. The compound appears highly individual in its response, with concerns about potential negative effects when combined with other peptides."
+  },
+  "effects": [
+    {
+      "label": "Individual Response:",
+      "description": "Highly variable effectiveness between users, with some experiencing profound benefits while others see no effect or negative outcomes"
+    },
+    {
+      "label": "Combination Risks:",
+      "description": "Multiple reports suggest combining Semax with other peptides (like PE-22-28) may worsen cognitive symptoms"
+    },
+    {
+      "label": "Tolerance Concerns:",
+      "description": "Limited long-term user data, with questions about sustained effectiveness over extended periods"
+    },
+    {
+      "label": "Baseline Dependence:",
+      "description": "Effectiveness may depend on underlying neurochemistry and existing cognitive deficits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dosing:",
+      "description": "Typically administered intranasally, though specific dosages not extensively discussed in user experiences"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Often taken in morning due to potential alertness-promoting effects"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "Some users suggest cycling to prevent tolerance, though optimal protocols unclear"
+    },
+    {
+      "label": "Start Low Protocol:",
+      "description": "Users recommend starting with lower doses to assess individual response before increasing"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Worsened Brain Fog:",
+      "description": "Several users report paradoxical increase in brain fog and cognitive dysfunction"
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "Some experience mental restlessness or anxiety from dopaminergic effects"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Can interfere with sleep if taken too late in the day"
+    },
+    {
+      "label": "Unpredictable Response:",
+      "description": "High variability in side effect profiles between individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Peptide Status:",
+      "description": "Available primarily through research chemical sources and nootropic sources"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Limited discussion of verified sources, raising questions about product quality and authenticity"
+    },
+    {
+      "label": "Legal Gray Area:",
+      "description": "Exists in regulatory gray zone as a research peptide, not approved for medical use in most jurisdictions"
+    }
+  ],
+  "related": [
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "DHA",
+      "slug": "dha"
+    },
+    {
+      "name": "IDRA-21",
+      "slug": "idra-21"
+    },
+    {
+      "name": "L-SERINE",
+      "slug": "l-serine"
+    }
+  ]
+}

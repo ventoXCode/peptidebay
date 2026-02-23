@@ -1,0 +1,156 @@
+{
+  "slug": "saw-palmetto",
+  "url": "https://dopamine.club/substances/saw-palmetto/",
+  "scrapedAt": "2026-02-12T16:11:09.723Z",
+  "title": "SAW PALMETTO",
+  "description": "Saw Palmetto (Serenoa repens) is a botanical extract derived from the berries of the saw palmetto plant, primarily used for treating lower urinary tract symptoms associated with benign prostatic hyperplasia (BPH). It exhibits antiandrogenic properties by inhibiting 5α-reductase enzyme activity, which reduces the conversion of testosterone to dihydrotestosterone (DHT), making it popular for both prostate health and hair loss treatment.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Natural Hair Supplement: Friend or Foe? Saw Palmetto, a Systematic Review in Alopecia",
+      "summary": "Systematic review found that oral and topical saw palmetto (100-320 mg) showed positive effects in treating androgenetic alopecia and telogen effluvium, with 60% improvement in hair quality, 27% improvement in total hair count, and increased hair density in 83.3% of patients across five RCTs and two prospective studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33313047/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements and bleeding",
+      "summary": "Comprehensive review found that saw palmetto is not associated with bleeding risk, either independently or when used concomitantly with anticoagulants, making it one of the safer herbal supplements from a bleeding perspective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36304597/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Common Herbal Dietary Supplement-Drug Interactions",
+      "summary": "Clinical review found that saw palmetto has a low likelihood of drug interactions and can safely be taken with most medications, though clinicians should still consult reliable resources for specific supplement-drug combinations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28762712/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beneficial effects of saw palmetto fruit extract on urinary symptoms in healthy Japanese adults",
+      "summary": "Randomized, double-blind, placebo-controlled study of 68 healthy adults aged 50+ found that 320mg daily of saw palmetto extract significantly improved urinary frequency symptoms and reduced stress from urinary urgency over 12 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39042923/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Saw palmetto and lower urinary tract symptoms: what is the latest evidence?",
+      "summary": "Review found that while several lines of evidence suggest saw palmetto may exert physiologic effects consistent with benefits for benign prostatic hyperplasia, clinical value remains undefined with inconsistent recent studies, though short-term safety concerns appear minimal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16930496/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Saw palmetto supplement use and prostate cancer risk",
+      "summary": "Prospective cohort study of 35,171 men found no association between saw palmetto use and prostate cancer risk, with hazard ratio of 0.95, suggesting it neither increases nor decreases cancer development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16965237/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Complementary and alternative supplements for androgenetic alopecia",
+      "summary": "Evidence review found that saw palmetto was effective in treating androgenetic alopecia when compared to baseline or to minoxidil, with minimal side effects reported across studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38174012/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Saw palmetto-induced pancreatitis",
+      "summary": "Case report of a 55-year-old man who developed acute pancreatitis and hepatitis after intermittent saw palmetto use for four years, with symptoms resolving after discontinuation, representing a rare but documented adverse reaction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16800417/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User sentiment is genuinely mixed, with saw palmetto appearing primarily in discussions about hair loss and prostate health where it's mentioned alongside other supplements but rarely as a standalone success story. Users report modest benefits for urinary symptoms and hair growth, but effectiveness varies significantly between individuals with no dramatic improvements commonly cited."
+  },
+  "effects": [
+    {
+      "label": "Moderate Efficacy:",
+      "description": "Works better for mild symptoms than severe cases, with effects typically taking 3-4 weeks to manifest and often requiring combination with other supplements"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response is highly idiosyncratic, with some users reporting noticeable benefits while others see minimal to no effect"
+    },
+    {
+      "label": "Prostate Health:",
+      "description": "More consistent results reported for urinary symptoms related to benign prostatic hyperplasia than for hair loss prevention"
+    },
+    {
+      "label": "Comparative Outcomes:",
+      "description": "Generally produces milder and slower results than pharmaceutical alternatives like finasteride or dutasteride"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "100-320mg daily is the most commonly used and studied dosage range for both hair loss and prostate health"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically taken once daily with meals, though some users split doses between morning and evening"
+    },
+    {
+      "label": "Duration:",
+      "description": "Requires consistent use for at least 4-12 weeks before benefits become apparent"
+    },
+    {
+      "label": "Combination Approach:",
+      "description": "Often stacked with pumpkin seed oil, pygeum, zinc, and other prostate/hair health supplements for enhanced effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Rare Serious Reactions:",
+      "description": "Isolated case reports of pancreatitis and hepatitis exist, though these are uncommon"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Mild gastrointestinal discomfort reported by some users, especially at higher doses"
+    },
+    {
+      "label": "Low Drug Interaction Risk:",
+      "description": "Considered safe with most medications and does not increase bleeding risk with anticoagulants"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report no significant side effects at recommended doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available OTC:",
+      "description": "Easily purchased as a dietary supplement from pharmacies, health stores, and online retailers without prescription"
+    },
+    {
+      "label": "Brand Quality Varies:",
+      "description": "Users emphasize importance of third-party testing and reputable brands, with concerns about inconsistent quality among cheaper products"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Not FDA-regulated for efficacy, so consistency and potency can vary between manufacturers"
+    }
+  ],
+  "related": [
+    {
+      "name": "Cordyceps",
+      "slug": "cordyceps"
+    },
+    {
+      "name": "DONG QUAI",
+      "slug": "dong-quai"
+    },
+    {
+      "name": "GINGER",
+      "slug": "ginger"
+    },
+    {
+      "name": "MILK THISTLE",
+      "slug": "milk-thistle"
+    },
+    {
+      "name": "TURMERIC (CURCUMIN)",
+      "slug": "turmeric-curcumin"
+    }
+  ]
+}

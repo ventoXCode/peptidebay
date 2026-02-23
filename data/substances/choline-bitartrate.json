@@ -1,0 +1,156 @@
+{
+  "slug": "choline-bitartrate",
+  "url": "https://dopamine.club/substances/choline-bitartrate/",
+  "scrapedAt": "2026-02-12T16:06:42.161Z",
+  "title": "CHOLINE BITARTRATE",
+  "description": "Choline Bitartrate is a salt form of choline, an essential nutrient that serves as a precursor to acetylcholine, a neurotransmitter critical for memory, cognition, and muscle control. It plays vital roles in cell membrane structure, lipid metabolism, methylation processes, and liver function. Choline is obtained through diet (eggs, meat, fish) or supplementation, with bitartrate being one of the most common and cost-effective supplemental forms.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Choline supplements: An update",
+      "summary": "Comprehensive review examining different forms of choline supplementation including choline bitartrate, showing they are effective precursors of acetylcholine and represent an effective strategy for boosting memory and enhancing cognitive function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36950691/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Choline, Neurological Development and Brain Function: A Systematic Review Focusing on the First 1000 Days",
+      "summary": "Systematic review finding that choline supplementation during the first 1000 days of life supports normal brain development and protects against neural and metabolic insults, particularly when the fetus is exposed to alcohol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32531929/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Maternal choline supplementation during the third trimester of pregnancy improves infant information processing speed",
+      "summary": "Randomized controlled trial showing that maternal choline supplementation (930 mg/day) during the third trimester significantly improved infant information processing speed compared to 480 mg/day.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29217669/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Choline Intake as Supplement or as a Component of Eggs Increases Plasma Choline and Reduces Interleukin-6 without Modifying Plasma Cholesterol in Participants with Metabolic Syndrome",
+      "summary": "Study in metabolic syndrome patients found that both choline bitartrate supplementation (~400 mg/day) and whole eggs increased plasma choline and reduced inflammatory marker IL-6 without negatively affecting cholesterol levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33066009/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Intake of 3 Eggs per Day When Compared to a Choline Bitartrate Supplement, Downregulates Cholesterol Synthesis without Changing the LDL/HDL Ratio",
+      "summary": "Crossover study comparing 3 eggs/day to choline bitartrate supplement (~400 mg choline) found that eggs downregulated cholesterol synthesis without adversely affecting LDL/HDL ratios in healthy young adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29495288/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral supplementation of choline attenuates the development of alcohol-related liver disease (ALD)",
+      "summary": "Mouse study demonstrating that oral choline supplementation (2.7 g/kg diet) attenuated the development of alcohol-related liver damage, markers of intestinal permeability, and microbiota alterations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39425011/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Choline-related-inherited metabolic diseases-A mini review",
+      "summary": "Review discussing choline's involvement in cell membrane integrity, cholinergic neurotransmission, and methylation, noting that low choline levels relate to organ dysfunction, while adequate intake shows positive effects on memory and cardiovascular health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30681159/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Transposable elements: targets for early nutritional effects on epigenetic gene regulation",
+      "summary": "Landmark study showing that dietary methyl supplementation including choline in pregnant mice altered offspring phenotype via increased DNA methylation, demonstrating choline's role in epigenetic gene regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12861015/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with choline supplementation, particularly noting improvements in mental clarity, verbal recall, and reduced brain fog. However, responses are highly individual with some users experiencing negative effects like headaches, depression, or mood changes, particularly at higher doses or with certain forms."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness is highly dependent on baseline choline levels and individual deficiency status, with those deficient experiencing dramatic benefits while others may see minimal effects"
+    },
+    {
+      "label": "Dosage-Dependent Response:",
+      "description": "Benefits typically observed at moderate doses (400-1600 mg), but excessive intake leads to diminishing returns and increased side effects including brain fog and fatigue"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Users note that choline bitartrate is less potent than other forms like Alpha-GPC or CDP-choline, requiring higher doses to achieve similar cognitive effects"
+    },
+    {
+      "label": "Genetic Factors:",
+      "description": "Individuals with PEMT or MTHFR mutations may have greater choline needs and respond more dramatically to supplementation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "Most users report taking 400-1600 mg of choline bitartrate daily, with 400-500 mg being common in research studies"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Two eggs provide approximately 294 mg of choline (147 mg per egg), which many users prefer over supplementation"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Users recommend cycling or taking breaks after 5-6 consecutive days to prevent tolerance and maintain effectiveness"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Often taken in the morning or with pre-workout supplements; some users stack with racetams or other nootropics requiring acetylcholine support"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches and Tension:",
+      "description": "Commonly reported side effect, particularly in those not deficient or taking excessive amounts; can indicate choline excess"
+    },
+    {
+      "label": "Mood Disturbances:",
+      "description": "Some users experience depression, emotional blunting, anhedonia, or increased anxiety, particularly when combined with other mood-affecting supplements"
+    },
+    {
+      "label": "Brain Fog and Fatigue:",
+      "description": "Paradoxically, too much choline causes severe brain fog, mental fatigue, and poor mood; more is not better"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report nausea, gas, or gastrointestinal discomfort, particularly when taken on an empty stomach or at high doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Choline bitartrate is readily available over-the-counter in pharmacies, health food stores, and online retailers as one of the most common and affordable choline supplements"
+    },
+    {
+      "label": "Food Source Alternative:",
+      "description": "Many users prefer obtaining choline from whole eggs rather than supplements, citing better absorption and additional nutritional benefits from phospholipids and other nutrients"
+    },
+    {
+      "label": "Cost-Effective Option:",
+      "description": "Choline bitartrate is significantly less expensive than other forms like Alpha-GPC or CDP-choline, though it requires higher doses due to lower bioavailability"
+    }
+  ],
+  "related": [
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    },
+    {
+      "name": "GALANTAMINE",
+      "slug": "galantamine"
+    },
+    {
+      "name": "Huperzine A",
+      "slug": "huperzine-a"
+    },
+    {
+      "name": "LION",
+      "slug": "lion-s-mane"
+    },
+    {
+      "name": "PQQ",
+      "slug": "pqq"
+    }
+  ]
+}

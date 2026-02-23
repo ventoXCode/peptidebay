@@ -1,0 +1,136 @@
+{
+  "slug": "sulbutiamine",
+  "url": "https://dopamine.club/substances/sulbutiamine/",
+  "scrapedAt": "2026-02-12T16:11:34.248Z",
+  "title": "SULBUTIAMINE",
+  "description": "Sulbutiamine is a synthetic derivative of thiamine (vitamin B1) developed in Japan that crosses the blood-brain barrier more effectively. It's used to combat fatigue, enhance memory, and may modulate dopamine transmission.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Role of the Synthetic B1 Vitamin Sulbutiamine on Health",
+      "summary": "Reviews sulbutiamine's potential applications including anti-fatigue, nootropic, and antioxidant effects, plus possible roles in treating infections and cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32399290/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Adjuvant role of vitamin B analogue (sulbutiamine) with anti-infective treatment in infection-associated asthenia",
+      "summary": "Large study (1772 patients) found sulbutiamine effective in reducing fatigue when used alongside anti-infective treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14710977/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Treatment of chronic postinfectious fatigue: randomized double-blind study of two doses of sulbutiamine versus placebo",
+      "summary": "Study on postinfectious fatigue showed temporary improvement in women taking higher doses, though no significant effects observed at conclusion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10573727/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of sulbutiamine (Arcalion 200) on psycho-behavioral inhibition in major depressive episodes",
+      "summary": "Sulbutiamine added to standard treatment helped alleviate psycho-behavioral inhibition in major depressive disorder patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10858919/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of the association of sulbutiamine with an acetylcholinesterase inhibitor in early stage and moderate Alzheimer's disease",
+      "summary": "In Alzheimer's patients, sulbutiamine combined with acetylcholinesterase inhibitor improved attention and episodic memory.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17675917/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sulbutiamine shows promising results in reducing fatigue in patients with multiple sclerosis",
+      "summary": "Sulbutiamine significantly reduced fatigue scores in MS patients, particularly those receiving disease-modifying treatments.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2211034817301190",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users appreciate its fatigue-fighting and mood-enhancing properties. Some report improved motivation and reduced shyness. Tolerance can develop with daily use."
+  },
+  "effects": [
+    {
+      "label": "Fast Acting:",
+      "description": "Effects often noticed same day."
+    },
+    {
+      "label": "Tolerance Issues:",
+      "description": "Can lose effectiveness with daily use."
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Best used intermittently."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "200-600mg daily, often divided."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Many recommend 2-3 times per week maximum."
+    },
+    {
+      "label": "With Food:",
+      "description": "Better absorbed with dietary fat."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Safe:",
+      "description": "Few side effects at normal doses."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "May disrupt sleep if taken late."
+    },
+    {
+      "label": "Tolerance:",
+      "description": "Effectiveness diminishes with daily use."
+    },
+    {
+      "label": "Headaches:",
+      "description": "Occasionally reported."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement:",
+      "description": "Available from nootropic vendors."
+    },
+    {
+      "label": "Prescription in Europe:",
+      "description": "Sold as Arcalion in some countries."
+    },
+    {
+      "label": "Moderate Cost:",
+      "description": "Mid-range pricing."
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA LIPOIC ACID",
+      "slug": "alpha-lipoic-acid"
+    },
+    {
+      "name": "BETA-ALANINE",
+      "slug": "beta-alanine"
+    },
+    {
+      "name": "COQ10",
+      "slug": "coq10"
+    },
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    },
+    {
+      "name": "L-CARNITINE",
+      "slug": "l-carnitine"
+    }
+  ]
+}

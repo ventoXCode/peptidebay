@@ -1,0 +1,151 @@
+{
+  "slug": "rapastinel",
+  "url": "https://dopamine.club/substances/rapastinel/",
+  "scrapedAt": "2026-02-12T16:10:56.167Z",
+  "title": "RAPASTINEL",
+  "description": "Rapastinel (formerly GLYX-13) is an NMDA receptor modulator with glycine-site partial agonist properties that acts as a positive allosteric modulator. It has been investigated primarily as a rapid-acting antidepressant, showing the ability to produce antidepressant effects within hours to days rather than weeks, while also enhancing cognitive function and synaptic plasticity without the dissociative side effects associated with ketamine.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Positive N-Methyl-D-Aspartate Receptor Modulation by Rapastinel Promotes Rapid and Sustained Antidepressant-Like Effects",
+      "summary": "Rapastinel demonstrated rapid and sustained antidepressant effects through NMDA receptor modulation, enhancing synaptic plasticity without producing the dissociative effects seen with ketamine antagonists.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30544218/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparison of R-ketamine and rapastinel antidepressant effects in the social defeat stress model of depression",
+      "summary": "Both rapastinel and R-ketamine significantly reduced depression-like behaviors in stressed mice, with effects lasting up to 7 days after a single injection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27488193/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The long-lasting antidepressant effects of rapastinel (GLYX-13) are associated with a metaplasticity process in the medial prefrontal cortex and hippocampus",
+      "summary": "Rapastinel's antidepressant effects are linked to enhanced synaptic plasticity and metaplasticity processes in brain regions critical for mood regulation and cognition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26343295/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A randomized, multicenter trial assessing the effects of rapastinel compared to ketamine, alprazolam, and placebo on simulated driving performance",
+      "summary": "Unlike ketamine, rapastinel at doses up to 1800mg showed no significant impairment in driving performance or cognitive function, demonstrating a favorable safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34423904/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rapastinel, an NMDAR positive modulator, produces distinct behavioral, sleep, and EEG profiles compared with ketamine",
+      "summary": "Rapastinel showed minimal effects on locomotor activity, sleep architecture, and gamma oscillations, with no psychotomimetic or dissociative effects unlike ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32461133/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Repeated administration of rapastinel produces exceptionally prolonged rescue of memory deficits in phencyclidine-treated mice",
+      "summary": "Multiple doses of rapastinel produced sustained rescue of memory deficits lasting weeks beyond the treatment period in a schizophrenia-like model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35718230/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "ERK/mTOR signaling may underlying the antidepressant actions of rapastinel in mice",
+      "summary": "The antidepressant effects of rapastinel appear to be mediated through ERK and mTOR signaling pathways, which are crucial for synaptic plasticity and neuroplasticity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36550125/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rapastinel (GLYX-13) has therapeutic potential for the treatment of post-traumatic stress disorder",
+      "summary": "Rapastinel showed promise for PTSD treatment by modulating fear memory consolidation through NMDA receptor-mediated metaplasticity in the medial prefrontal cortex.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26210936/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is mixed, with limited direct User feedback of Rapastinel itself. Related discussions about supplements show varied experiences with cognitive enhancers and mood modulators, with users reporting both significant benefits and concerning side effects depending on individual response and dosing protocols."
+  },
+  "effects": [
+    {
+      "label": "Clinical Efficacy:",
+      "description": "Multiple controlled trials demonstrate rapid and sustained antidepressant effects in treatment-resistant depression comparable to ketamine"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Shows significantly fewer side effects than ketamine, with no psychotomimetic effects, minimal impact on driving performance, and low abuse potential"
+    },
+    {
+      "label": "Duration of Action:",
+      "description": "Single administration produces effects lasting 7+ days in preclinical models and up to several weeks in some clinical observations"
+    },
+    {
+      "label": "Mechanism Validation:",
+      "description": "Effects are mediated through well-characterized pathways (ERK/mTOR signaling, BDNF release) supporting synaptic plasticity and neuroplasticity"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Trial Doses:",
+      "description": "Studies used intravenous doses ranging from 5-30 mg/kg in animal models and 900-1800mg in human trials"
+    },
+    {
+      "label": "Administration Route:",
+      "description": "Primarily administered via slow IV bolus or infusion in clinical settings, not typically available as oral supplement"
+    },
+    {
+      "label": "Single Dose Efficacy:",
+      "description": "Single administrations shown effective, with repeated dosing (3-day protocols) producing enhanced and prolonged benefits"
+    },
+    {
+      "label": "Therapeutic Window:",
+      "description": "Effective doses do not appear to cause significant side effects or impairment at therapeutic levels used in trials"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Acute Effects:",
+      "description": "Unlike ketamine, rapastinel shows no dissociative effects, psychotomimetic symptoms, or significant cognitive impairment at therapeutic doses"
+    },
+    {
+      "label": "No Abuse Potential:",
+      "description": "Research indicates minimal to no abuse liability, distinguishing it from NMDA antagonists like ketamine"
+    },
+    {
+      "label": "Sleep Architecture:",
+      "description": "Minimal impact on sleep patterns, without the sleep-deprivation-like effects seen with ketamine"
+    },
+    {
+      "label": "Well-Tolerated:",
+      "description": "Clinical trials report comparable safety profiles to placebo with no serious adverse events at studied doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription/Research Only:",
+      "description": "Not available as a commercial supplement; investigated as pharmaceutical compound in clinical trials (development discontinued by Allergan/AbbVie)"
+    },
+    {
+      "label": "Clinical Development Status:",
+      "description": "Failed to meet primary endpoints in Phase 3 trials for major depressive disorder, limiting future availability despite promising earlier results"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "DHA",
+      "slug": "dha"
+    },
+    {
+      "name": "ECKLONIA CAVA",
+      "slug": "ecklonia-cava"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    }
+  ]
+}

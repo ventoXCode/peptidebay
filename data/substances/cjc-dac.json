@@ -1,0 +1,108 @@
+{
+  "slug": "cjc-dac",
+  "url": "https://dopamine.club/substances/cjc-dac/",
+  "scrapedAt": "2026-02-12T16:06:48.985Z",
+  "title": "CJC+DAC",
+  "description": "CJC-1295 with DAC (Drug Affinity Complex) is a modified GHRH analog with an extended half-life of approximately 8 days. The DAC modification allows for less frequent dosing while maintaining elevated growth hormone levels.",
+  "categories": [
+    "Peptide",
+    "GH"
+  ],
+  "research": [
+    {
+      "title": "Prolonged GH-releasing effects of CJC-1295 with DAC",
+      "summary": "Research shows the DAC modification extends half-life to approximately 8 days, allowing weekly dosing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety and efficacy of CJC-1295",
+      "summary": "Clinical trials demonstrate sustained IGF-1 elevation with good tolerability in healthy subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16844838/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users appreciate the convenience of weekly dosing. Some prefer non-DAC version for more pulsatile GH release. Results are similar to CJC-1295 without DAC but require less frequent administration."
+  },
+  "effects": [
+    {
+      "label": "Trade-offs:",
+      "description": "Convenience vs. less natural pulsatile GH pattern."
+    },
+    {
+      "label": "Some Prefer Non-DAC:",
+      "description": "More natural GH release pattern without DAC."
+    },
+    {
+      "label": "Good for Compliance:",
+      "description": "Better for those who dislike frequent injections."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "1-2mg once or twice weekly."
+    },
+    {
+      "label": "Subcutaneous:",
+      "description": "Administered via subcutaneous injection."
+    },
+    {
+      "label": "Consistent Timing:",
+      "description": "Weekly schedule maintains steady levels."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Similar to CJC-1295:",
+      "description": "Water retention, numbness, joint pain possible."
+    },
+    {
+      "label": "Extended Half-Life:",
+      "description": "Side effects may persist longer due to extended action."
+    },
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Most users report minimal issues."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Verify Purity:",
+      "description": "Important to source from reputable vendors."
+    },
+    {
+      "label": "Often Compared:",
+      "description": "Choose between DAC and non-DAC based on preferences."
+    }
+  ],
+  "related": [
+    {
+      "name": "CJC-1295",
+      "slug": "cjc-1295"
+    },
+    {
+      "name": "GHRP-2",
+      "slug": "ghrp-2"
+    },
+    {
+      "name": "GHRP-6",
+      "slug": "ghrp-6"
+    },
+    {
+      "name": "IBUTAMOREN (MK-677)",
+      "slug": "ibutamoren-mk-677"
+    },
+    {
+      "name": "Ipamorelin",
+      "slug": "ipamorelin"
+    }
+  ]
+}

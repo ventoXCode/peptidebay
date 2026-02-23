@@ -1,0 +1,103 @@
+{
+  "slug": "b7-33",
+  "url": "https://dopamine.club/substances/b7-33/",
+  "scrapedAt": "2026-02-12T16:05:59.466Z",
+  "title": "B7-33",
+  "description": "B7-33 is a synthetic, single-chain peptidomimetic agonist of the relaxin family peptide receptor 1 (RXFP1), derived from the B-chain of human gene-2 relaxin. It is designed to replicate the vasoprotective and anti-fibrotic effects of native relaxin while being more cost-effective to produce and possessing improved pharmacological properties.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "B7-33, a Functionally Selective Relaxin Receptor 1 Agonist, Attenuates Myocardial Infarction-Related Adverse Cardiac Remodeling in Mice",
+      "summary": "This study found that B7-33 reduces heart damage and scarring after a heart attack by activating specific protective pathways without the side effects of traditional relaxin treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32295457/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "B7-33 replicates the vasoprotective functions of human gene-2 relaxin",
+      "summary": "Research demonstrates that B7-33 effectively mimics the vascular benefits of human relaxin, promoting blood vessel health and reducing systemic vascular resistance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28478069/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "User interest is high due to its anti-fibrotic potential and cardiovascular benefits, though it is primarily discussed in specialized peptide and biohacking circles rather than general supplement forums."
+  },
+  "effects": [
+    {
+      "label": "Cardiac Health:",
+      "description": "Highly effective in animal models for preventing adverse remodeling after myocardial infarction."
+    },
+    {
+      "label": "Vascular Protection:",
+      "description": "Successfully replicates the beneficial effects of serelaxin on endothelial function."
+    },
+    {
+      "label": "Targeted Activation:",
+      "description": "Shows functional selectivity for RXFP1, minimizing off-target signaling pathways."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dosing:",
+      "description": "Animal studies often utilize weight-based dosing; human anecdotal ranges typically fall between 1-5mg daily."
+    },
+    {
+      "label": "Frequency:",
+      "description": "Due to its peptide nature, it is typically administered via subcutaneous injection daily or every other day."
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users suggest a short high-dose period to achieve steady state, though this is not clinically validated."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Blood Pressure Drops:",
+      "description": "Potential for hypotension due to its potent vasodilatory properties."
+    },
+    {
+      "label": "Injection Site Reaction:",
+      "description": "Possible redness, itching, or swelling at the site of administration."
+    },
+    {
+      "label": "Hypoglycemia:",
+      "description": "Minimal reports suggest potential interactions with glucose metabolism in sensitive users."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Currently sold as a 'research chemical' and not approved by the FDA for human consumption."
+    },
+    {
+      "label": "Sourcing:",
+      "description": "Primarily available through specialized peptide supply companies and compounding pharmacies."
+    }
+  ],
+  "related": [
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    },
+    {
+      "name": "FOXO4-DRI",
+      "slug": "foxo4-dri"
+    },
+    {
+      "name": "GHK-Cu",
+      "slug": "ghk-cu"
+    },
+    {
+      "name": "HUMAN RELAXIN-2",
+      "slug": "human-relaxin-2"
+    }
+  ]
+}

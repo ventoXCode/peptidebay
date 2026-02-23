@@ -1,0 +1,107 @@
+{
+  "slug": "gsk-2849466",
+  "url": "https://dopamine.club/substances/gsk-2849466/",
+  "scrapedAt": "2026-02-12T16:08:15.393Z",
+  "title": "GSK-2849466",
+  "description": "GSK-2849466 is an abandoned nonsteroidal selective androgen receptor modulator (SARM) originally developed by GlaxoSmithKline to treat muscle wasting and heart failure. It works by selectively binding to androgen receptors to promote anabolic activity in muscle and bone tissues while minimizing androgenic effects on secondary sexual organs.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "GSK2881078, a SARM, Produces Dose-Dependent Increases in Lean Mass in Healthy Older Men and Women",
+      "summary": "This study on a closely related GSK SARM molecule demonstrated significant increases in lean body mass and was well-tolerated in older subjects, providing a proof-of-concept for the chemical class",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29982690/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety, pharmacokinetics and pharmacological effects of the selective androgen receptor modulator, GSK2881078, in healthy men and postmenopausal women",
+      "summary": "Clinical trials of similar GSK compounds showed dose-proportional increases in strength and muscle mass with a favorable safety profile compared to traditional steroids",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28449232/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users generally view this compound with skepticism or caution because it was abandoned by GSK after Phase I trials, leading many to prefer more established SARMs like LGD-4033 or Ostarine."
+  },
+  "effects": [
+    {
+      "label": "Indication Failure:",
+      "description": "GSK discontinued development specifically for cachexia and heart failure indications after Phase I"
+    },
+    {
+      "label": "Selectivity:",
+      "description": "High affinity for skeletal muscle receptors with reduced impact on the prostate"
+    },
+    {
+      "label": "Anabolic Ratio:",
+      "description": "Reported to have a high anabolic-to-androgenic ratio compared to first-generation SARMs"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Phase I human trials typically explored a wide range of escalating doses to determine safety ceilings"
+    },
+    {
+      "label": "Experimental Use:",
+      "description": "Anecdotal reports suggest very small milligram doses due to its high potency compared to Ostarine"
+    },
+    {
+      "label": "Clinical Discontinuation:",
+      "description": "Official standardized dosing guidelines were never established for public use due to the drug's abandonment"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormonal Suppression:",
+      "description": "Potential reduction in natural testosterone production common to the SARM class"
+    },
+    {
+      "label": "Liver Enzymes:",
+      "description": "Risk of elevated ALT/AST levels during prolonged or high-dose cycles"
+    },
+    {
+      "label": "Lipid Profile Alteration:",
+      "description": "Possible reduction in HDL (good cholesterol) levels during use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Abandoned Status:",
+      "description": "Development was officially halted by GlaxoSmithKline as of February 2014"
+    },
+    {
+      "label": "Grey Market:",
+      "description": "Primarily found through chemical research supply companies rather than standard supplement retailers"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Sold strictly for laboratory research purposes and not approved for human consumption by the FDA"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    },
+    {
+      "name": "GLPG-0492",
+      "slug": "glpg-0492"
+    },
+    {
+      "name": "GSK-2881078",
+      "slug": "gsk-2881078"
+    },
+    {
+      "name": "GSK-971086",
+      "slug": "gsk-971086"
+    }
+  ]
+}

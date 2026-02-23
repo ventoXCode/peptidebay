@@ -1,0 +1,143 @@
+{
+  "slug": "sodium-ascorbate",
+  "url": "https://dopamine.club/substances/sodium-ascorbate/",
+  "scrapedAt": "2026-02-12T16:11:20.500Z",
+  "title": "SODIUM ASCORBATE",
+  "description": "Sodium Ascorbate is the sodium salt of ascorbic acid (vitamin C), a water-soluble antioxidant essential for collagen synthesis, immune function, and iron absorption. It is less acidic than regular ascorbic acid, making it gentler on the stomach while providing the same vitamin C benefits. Sodium ascorbate functions as a potent antioxidant, neutralizing free radicals and supporting various physiological processes including wound healing and neurotransmitter synthesis.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vitamin C Supplementation and Athletic Performance: A Review",
+      "summary": "High-dose vitamin C supplementation shows mixed results for athletic performance, with only 3 of 14 studies showing positive outcomes. Most studies found neutral or negative effects on muscle damage, physical performance, and training adaptations, leading to recommendations against long-term high-dose supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37417662/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antioxidants and Exercise Performance: With a Focus on Vitamin E and C Supplementation",
+      "summary": "Antioxidant supplementation including vitamin C may impair training adaptations by blocking beneficial signaling from free radicals. Evidence suggests supplementation does not benefit most athletes except those training at altitude or seeking immediate short-term performance enhancement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33203106/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Micronutrients and athletic performance: A review",
+      "summary": "Review of micronutrient supplementation in athletes shows vitamin C is commonly used to correct deficiencies and enhance recovery, though optimal dosing and effectiveness for performance enhancement remains unclear.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34662692/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin C and E supplementation hampers cellular adaptation to endurance training in humans",
+      "summary": "Double-blind controlled trial found that vitamin C and E supplementation during endurance training may interfere with beneficial cellular adaptations to exercise in healthy adults.",
+      "url": "https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2013.267419",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Enhanced Vitamin C Delivery: A Systematic Literature Review Assessing the Efficacy and Safety of Alternative Supplement Forms in Healthy Adults",
+      "summary": "Systematic review evaluating alternative vitamin C formulations (liposomal, calcium ascorbate, slow-release) compared to traditional ascorbic acid, assessing bioavailability, retention, and effects on immunity in healthy adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39861409/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin C-Sources, Physiological Role, Kinetics, Deficiency, Use, Toxicity, and Determination",
+      "summary": "Comprehensive review of vitamin C covering its essential role as an antioxidant, involvement in immune function and infection resistance, and the importance of supplementation when dietary intake is insufficient.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33668681/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User sentiment on vitamin C supplementation is genuinely divided. Many users report taking 500-1000mg daily for immune support with positive anecdotal results, while others note concerns about kidney stones at high doses and recent research suggesting it may blunt training adaptations. The general consensus is that vitamin C from food is preferable, but supplementation at moderate doses (500-1000mg) is commonly practiced with mixed evidence of benefit."
+  },
+  "effects": [
+    {
+      "label": "Athletic Performance:",
+      "description": "Research consistently shows minimal to no benefit for athletic performance, with some studies suggesting high-dose supplementation may actually impair training adaptations"
+    },
+    {
+      "label": "Immune Function:",
+      "description": "Effectiveness for preventing illness is modest at best, with most benefit seen in reducing symptom duration by 10-20% rather than prevention"
+    },
+    {
+      "label": "Dosage Dependency:",
+      "description": "The RDA of 60-90mg is sufficient for 90% of healthy people, with benefits above this level being unclear and potentially counterproductive"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Sodium ascorbate is preferred by some users for being less acidic and gentler on the stomach compared to regular ascorbic acid"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "500-1000mg daily is the most commonly reported dose among users, though this exceeds the RDA significantly"
+    },
+    {
+      "label": "High Dose Concerns:",
+      "description": "Doses of 1-6 grams daily are reported by some users but associated with increased kidney stone risk and potential to interfere with beneficial stress responses"
+    },
+    {
+      "label": "Food First Approach:",
+      "description": "Users eating adequate fruits, vegetables, and citrus are advised they may not need supplementation beyond the amounts naturally present in diet"
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Some users report splitting doses throughout the day for better absorption, as vitamin C is water-soluble and excess is excreted"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Kidney Stones:",
+      "description": "Multiple users report developing kidney stones from taking 1+ grams daily, described as extremely painful and leading to discontinuation"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users experience stomach upset or diarrhea, particularly with ascorbic acid forms, leading them to switch to sodium ascorbate or buffered versions"
+    },
+    {
+      "label": "Training Interference:",
+      "description": "Research indicates high-dose antioxidant supplementation may blunt beneficial adaptations to exercise by neutralizing signaling molecules"
+    },
+    {
+      "label": "Minimal Issues at Moderate Doses:",
+      "description": "Most users taking 500-1000mg report no significant side effects when using sodium ascorbate or buffered forms"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Vitamin C supplements are extremely common and inexpensive, with sodium ascorbate available from numerous brands at low cost"
+    },
+    {
+      "label": "Cost Effective:",
+      "description": "Users note that bulk sodium ascorbate powder costs very little compared to branded electrolyte supplements that contain the same compound"
+    },
+    {
+      "label": "No Prescription Needed:",
+      "description": "Available over-the-counter at all supplement retailers, pharmacies, and online without restrictions"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

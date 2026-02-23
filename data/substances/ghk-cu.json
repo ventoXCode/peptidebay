@@ -1,0 +1,137 @@
+{
+  "slug": "ghk-cu",
+  "url": "https://dopamine.club/substances/ghk-cu/",
+  "scrapedAt": "2026-02-12T16:07:59.823Z",
+  "title": "GHK-CU",
+  "description": "GHK-Cu (Copper peptide) is a naturally occurring tripeptide with copper bound to it. It promotes wound healing, collagen synthesis, and has anti-aging properties. Used topically for skin rejuvenation and systemically for tissue repair.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "In vivo stimulation of connective tissue accumulation by the tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+",
+      "summary": "GHK-Cu increases extracellular matrix accumulation in wounds in vivo, potentially promoting wound repair and healing.",
+      "url": "https://doi.org/10.1172/JCI116842",
+      "source": "(Journal of Clinical Investigation)"
+    },
+    {
+      "title": "The tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+ stimulates matrix metalloproteinase-2 expression by fibroblast cultures",
+      "summary": "GHK-Cu stimulates MMP-2 expression in wound fibroblasts, promoting connective tissue production and remodeling.",
+      "url": "https://doi.org/10.1016/S0024-3205(00)00803-1",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Stimulation of sulfated glycosaminoglycan synthesis by the tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu2+",
+      "summary": "GHK-Cu stimulates glycosaminoglycan synthesis in human fibroblasts, potentially contributing to its wound healing properties.",
+      "url": "https://doi.org/10.1016/0024-3205(92)90504-I",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Glycyl-L-histidyl-L-lysine-Cu2+ attenuates cigarette smoke-induced pulmonary emphysema and inflammation by reducing oxidative stress pathway",
+      "summary": "GHK-Cu treatment reduces cigarette smoke-induced emphysema and inflammation by reducing oxidative stress, offering potential for COPD.",
+      "url": "https://doi.org/10.3389/fmolb.2022.925700",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "The Human Tripeptide GHK-Cu in Prevention of Oxidative Stress and Degenerative Conditions of Aging",
+      "summary": "GHK tripeptide shows potential as a therapeutic agent against age-associated neurodegeneration and cognitive decline.",
+      "url": "https://doi.org/10.3389/fmolb.2022.925700",
+      "source": "(Wiley Online Library)"
+    },
+    {
+      "title": "Effects of GHK-Cu on MMP and TIMP Expression, Collagen and Elastin Production, and Facial Wrinkle Parameters",
+      "summary": "GHK-Cu with nano-carriers significantly increases collagen and elastin production in human dermal fibroblasts, reducing facial wrinkle volume.",
+      "url": "https://doi.org/10.4172/2329-8847.1000166",
+      "source": "(Journal of Aging Science)"
+    },
+    {
+      "title": "Self-Assembled Fluorescent and Antibacterial GHK-Cu Nanoparticles for Wound Healing Applications",
+      "summary": "Self-assembled GHK-Cu nanoparticles show good biocompatibility and enhanced wound healing applications, offering antibacterial properties.",
+      "url": "https://doi.org/10.1002/ppsc.201800420",
+      "source": "(Wiley Online Library)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users consistently report improvements in skin quality, wound healing, and hair growth. Both topical and injectable forms are popular. Considered one of the safer peptides."
+  },
+  "effects": [
+    {
+      "label": "Visible Results:",
+      "description": "Skin improvements often noticeable within weeks."
+    },
+    {
+      "label": "Versatile Application:",
+      "description": "Effective both topically and systemically."
+    },
+    {
+      "label": "Well-Researched:",
+      "description": "Substantial body of research supporting benefits."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Topical:",
+      "description": "Applied as serum, typically 1-2% concentration."
+    },
+    {
+      "label": "Injectable:",
+      "description": "1-2mg subcutaneously daily or several times per week."
+    },
+    {
+      "label": "Duration:",
+      "description": "Cycles of 4-8 weeks are common."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Very Safe:",
+      "description": "One of the best-tolerated peptides."
+    },
+    {
+      "label": "Skin Irritation:",
+      "description": "Rarely, topical application may cause mild irritation."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Minor bruising or redness possible."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in skincare products and from peptide suppliers."
+    },
+    {
+      "label": "Multiple Forms:",
+      "description": "Available as serums, creams, and injectable powder."
+    },
+    {
+      "label": "Reasonable Cost:",
+      "description": "Relatively affordable compared to many peptides."
+    }
+  ],
+  "related": [
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    },
+    {
+      "name": "FOXO4-DRI",
+      "slug": "foxo4-dri"
+    },
+    {
+      "name": "HUMAN RELAXIN-2",
+      "slug": "human-relaxin-2"
+    }
+  ]
+}

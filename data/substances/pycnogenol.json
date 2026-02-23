@@ -1,0 +1,161 @@
+{
+  "slug": "pycnogenol",
+  "url": "https://dopamine.club/substances/pycnogenol/",
+  "scrapedAt": "2026-02-12T16:10:51.078Z",
+  "title": "PYCNOGENOL",
+  "description": "Pycnogenol is a standardized extract from French maritime pine bark (Pinus pinaster) containing 65-75% procyanidins, along with phenolic acids and other polyphenolic compounds. It functions as a potent antioxidant and anti-inflammatory agent with vasodilatory, anti-thrombotic, and collagen-stabilizing properties. Primarily used for chronic venous insufficiency, cognitive function, metabolic syndrome, and various inflammatory conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Dietary supplements for treating osteoarthritis: a systematic review and meta-analysis",
+      "summary": "Systematic review of 69 studies found pycnogenol among 7 supplements (out of 20 investigated) showing efficacy for osteoarthritis treatment, demonstrating pain reduction and improved joint function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29018060/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Review of the pharmacokinetics of French maritime pine bark extract (Pycnogenol) in humans",
+      "summary": "Demonstrates that low molecular weight constituents like catechin, caffeic acid, and taxifolin are readily absorbed from the small intestine into systemic circulation, while larger procyanidins are metabolized by gut bacteria into bioavailable compounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38757126/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pycnogenol supplementation in minimal cognitive dysfunction",
+      "summary": "Registry study of 87 individuals with minimal cognitive impairment showed that two-month Pycnogenol supplementation improved cognitive function scores, potentially by improving cerebral microcirculation and metabolic function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29754480/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pycnogenol in Metabolic Syndrome and Related Disorders",
+      "summary": "Clinical research demonstrates Pycnogenol can reduce blood glucose in diabetes, lower blood pressure in mild-to-moderate hypertension, decrease waist circumference, and improve lipid profiles and endothelial function in metabolic syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25931421/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Potential Role of Arginine Supplements on Erectile Dysfunction: A Systemic Review and Meta-Analysis",
+      "summary": "Meta-analysis found that arginine supplements, including combinations with pycnogenol, showed potential benefits for erectile dysfunction in patients with mild to moderate severity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30770070/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pycnogenol in chronic venous insufficiency and related venous disorders",
+      "summary": "Clinical studies demonstrate Pycnogenol reduces leg edema in chronic venous insufficiency, decreases deep vein thrombosis incidence during long flights, and enhances venous ulcer and hemorrhoid healing through antioxidant and anti-inflammatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23775628/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pycnogenol relieves chronic venous insufficiency (CVI) in diabetics: a supplement registry study",
+      "summary": "Registry study in diabetic patients with CVI showed Pycnogenol effectively controlled signs and symptoms of chronic venous insufficiency and improved microcirculatory parameters in patients with diabetic microangiopathy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39259145/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pycnogenol prevents skin hyperpigmentation following sclerotherapy",
+      "summary": "Study of 161 subjects found that Pycnogenol supplementation (starting day before sclerotherapy for 12 weeks) significantly reduced skin discoloration and staining compared to standard management alone after varicose vein sclerotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38592434/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pycnogenol-Centellicum supplementation improves lung fibrosis and post-COVID-19 lung healing",
+      "summary": "Eight-month study combining Pycnogenol (150mg/day) with Centella asiatica showed improvement in lung fibrosis markers in both idiopathic interstitial pneumonia and post-COVID-19 lung disease patients through anti-fibrotic activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34180638/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with Pycnogenol, particularly for circulation-related benefits, cognitive support, and when combined with L-arginine for erectile function. Most users find it effective though expensive, with minimal side effects reported and several noting it as a standout supplement for allergies and vascular health."
+  },
+  "effects": [
+    {
+      "label": "Combination Synergy:",
+      "description": "Most effective when combined with L-arginine for erectile function, or with other supplements like grape seed extract for circulation benefits rather than as standalone supplement"
+    },
+    {
+      "label": "Gradual Effects:",
+      "description": "Benefits typically manifest over weeks rather than immediately, with circulation improvements becoming noticeable after 2-4 weeks of consistent use"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly individual, with some users experiencing significant benefits while others report minimal effects despite proper dosing"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Users emphasize authentic Pycnogenol (French maritime pine bark) is significantly more expensive ($55+ for 60x100mg capsules) than generic pine bark extracts, though debate exists on whether premium pricing justifies results"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "100-150mg daily is most commonly used, with some studies using up to 200mg without reported issues"
+    },
+    {
+      "label": "ADHD Protocol:",
+      "description": "80mg daily taken in morning on empty stomach as part of broader nootropic stack"
+    },
+    {
+      "label": "ED Protocol:",
+      "description": "100mg Pycnogenol combined with 6g L-arginine daily, though some users report trying 200mg daily"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Most users take continuously without cycling, though one user mentioned taking it primarily during allergy season rather than year-round"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Very few side effects mentioned in user experiences, with most reporting good tolerability even at higher doses"
+    },
+    {
+      "label": "Cost Concerns:",
+      "description": "Primary complaint is expense, with authentic Pycnogenol being significantly more expensive than generic alternatives"
+    },
+    {
+      "label": "Quality Uncertainty:",
+      "description": "Users express concern about counterfeit or inferior products, noting cheap versions likely come from wrong tree species without active compounds"
+    },
+    {
+      "label": "No Major Adverse Effects:",
+      "description": "No serious side effects reported in user experiences, contrasting favorably with other supplements discussed"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Specificity:",
+      "description": "quality brands brand specifically mentioned as legitimate source of authentic French maritime pine bark extract, with users warning against cheaper alternatives under $55 for 60x100mg"
+    },
+    {
+      "label": "Generic Alternatives:",
+      "description": "bulk suppliers and other sources offer generic pine bark extract at much lower cost, though users debate whether these contain same active compounds as trademarked Pycnogenol"
+    },
+    {
+      "label": "Widespread Availability:",
+      "description": "Available over-the-counter from supplement retailers, though authentic Pycnogenol commands premium pricing due to standardization and sourcing from specific French maritime pine"
+    }
+  ],
+  "related": [
+    {
+      "name": "SHILAJIT",
+      "slug": "shilajit"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "boron",
+  "url": "https://dopamine.club/substances/boron/",
+  "scrapedAt": "2026-02-12T16:06:12.633Z",
+  "title": "BORON",
+  "description": "Boron is a trace mineral and semiconductor element that plays a vital role in human metabolism, particularly in the regulation of steroid hormones and bone mineralization. It works by reducing Sex Hormone-Binding Globulin (SHBG) levels to increase free testosterone and improving the half-life of vitamin D and estrogen, while also acting as an anti-inflammatory agent through the modulation of cytokines.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pivotal role of boron supplementation on bone health: A narrative review",
+      "summary": "This review of 11 studies confirms that 3 mg/day of boron significantly supports bone mineral density and maintenance by modulating calcium, vitamin D, and sex steroid hormone metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32540741/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Comparison of Boron Supplement and Tamsulosin as Medical Expulsive Therapy for Urinary Stones After Extracorporeal Shock Wave Lithotripsy: a Randomized Controlled Clinical Trial",
+      "summary": "Boron was found to be an effective medical expulsive therapy for urinary stones by reducing ureteral wall edema and facilitating stone passage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36808295/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The vital roles of boron in animal health and production: A comprehensive review",
+      "summary": "Research indicates boron has pleiotropic effects, including activating immune responses, providing antioxidant detoxification, and preventing osteoporosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30262295/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Calcium fructoborate--potential anti-inflammatory agent",
+      "summary": "This study highlights boron's role as a superoxide ion scavenger and anti-inflammatory agent that inhibits the release of inflammatory mediators like IL-1β and IL-6.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21274653/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Boron intake and prostate cancer risk",
+      "summary": "While some experimental studies suggest a protective effect against prostate cancer, this large cohort study found no significant association between dietary boron intake and cancer risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17851770/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Most users report high satisfaction with boron for libido and energy, frequently describing it as a 'game-changer' for hormonal health, though a minority experiences sleep disturbances."
+  },
+  "effects": [
+    {
+      "label": "Hormonal Balancing:",
+      "description": "High effectiveness for those with high SHBG; it makes existing testosterone more bioavailable rather than just increasing total production."
+    },
+    {
+      "label": "Bone Density:",
+      "description": "Research consistently supports its role in preventing bone mineral density loss and improving calcium metabolism."
+    },
+    {
+      "label": "Quick Onset:",
+      "description": "Users often report noticing physical changes in energy and libido within 3-7 days, which is faster than most other mineral supplements."
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "It is highly absorbable (85-90%) and acts as a synergist for magnesium and vitamin D absorption."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Therapeutic Dose:",
+      "description": "3 mg daily is the most clinically supported dose for general bone health."
+    },
+    {
+      "label": "Hormonal Optimization Dose:",
+      "description": "Users and some performance studies frequently suggest 6 mg to 12 mg daily for testosterone support."
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Many users recommend a '2 weeks on, 1 week off' or 'weekday only' cycle to prevent perceived dampening of effects or shifts in estrogen."
+    },
+    {
+      "label": "Upper Limit:",
+      "description": "Health organizations suggest an Upper Level (UL) of 10-20 mg daily to avoid potential toxicity."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Insomnia:",
+      "description": "A notable number of users report 'wide-awake' episodes or interrupted sleep, potentially due to increased metabolic or hormonal activity."
+    },
+    {
+      "label": "Irritability:",
+      "description": "Some users report feeling 'short-tempered' or aggressive as a result of increased free androgen levels."
+    },
+    {
+      "label": "Riboflavin Depletion:",
+      "description": "Chronic high-dose use may increase urinary excretion of Vitamin B2 (Riboflavin), leading some to suggest taking it with a B-complex."
+    },
+    {
+      "label": "Hormonal Fluctuations:",
+      "description": "If not cycled, some users worry about a rebound effect or changes in estrogen (E2) levels over time."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Cost-Effectiveness:",
+      "description": "Boron is widely recognized as one of the cheapest supplements available, costing mere cents per dose."
+    },
+    {
+      "label": "Form Variations:",
+      "description": "Available commonly as Boron Citrate, Glycinate, or Calcium Fructoborate (a natural plant-form ester)."
+    }
+  ],
+  "related": [
+    {
+      "name": "IGF-1",
+      "slug": "igf-1"
+    },
+    {
+      "name": "L-CITRULLINE",
+      "slug": "l-citrulline"
+    },
+    {
+      "name": "TRIBUTYRIN",
+      "slug": "tributyrin"
+    },
+    {
+      "name": "TRIGONELLINE",
+      "slug": "trigonelline"
+    },
+    {
+      "name": "UROLITHIN A",
+      "slug": "urolithin-a"
+    }
+  ]
+}

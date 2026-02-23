@@ -1,0 +1,127 @@
+{
+  "slug": "vesilute",
+  "url": "https://dopamine.club/substances/vesilute/",
+  "scrapedAt": "2026-02-12T16:12:08.591Z",
+  "title": "VESILUTE",
+  "description": "Vesilute is a commercial formulation containing vinpocetine, a semi-synthetic derivative of the vinca alkaloid vincamine, which is used to enhance cerebral blood flow and glucose utilization. It acts as a phosphodiesterase type-1 (PDE1) inhibitor and a voltage-gated sodium channel blocker, primarily utilized for cognitive enhancement and the management of cerebrovascular disorders.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vinpocetine (A comprehensive profile)",
+      "summary": "Explores vinpocetine's role as a nootropic that improves brain metabolism and blood flow while acting as a neuroprotective agent.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35396012/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and tolerability of pharmacological treatments for insomnia in adults: A systematic review and network meta-analysis",
+      "summary": "A comprehensive review of pharmacological interventions for sleep disorders, relevant to assessing the broader context of sleep-related supplements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36701954/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults",
+      "summary": "Establishes clinical standards for addressing sleep maintenance and latency, providing a benchmark for evaluating supplement efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27998379/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Melatonin and health: an umbrella review of health outcomes and biological mechanisms of action",
+      "summary": "Analyzes the impact of sleep-regulating compounds on health outcomes, including sleep latency and anxiety reduction.",
+      "url": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-017-1000-8",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report high satisfaction with the cognitive clarity and concentration benefits, though some note it requires consistent cycling to maintain effectiveness."
+  },
+  "effects": [
+    {
+      "label": "Acute Cognitive Boost:",
+      "description": "Most effective when taken 30-60 minutes before tasks requiring high mental output"
+    },
+    {
+      "label": "Memory Retention:",
+      "description": "Users report better recall of technical information when used daily"
+    },
+    {
+      "label": "Consistent Results:",
+      "description": "Shows higher efficacy in users with age-related cognitive decline or fatigue-based brain fog"
+    },
+    {
+      "label": "Synergy with Caffeine:",
+      "description": "Frequently reported to 'smooth out' the jitters of stimulants while enhancing focus"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "5-10 mg taken three times daily is the most common regimen in clinical literature"
+    },
+    {
+      "label": "Introductory Dose:",
+      "description": "New users often start with a single 5 mg dose to assess tolerance"
+    },
+    {
+      "label": "Daily Maximum:",
+      "description": "Most sources suggest not exceeding 30 mg per day to avoid side effects"
+    },
+    {
+      "label": "Cycle Timing:",
+      "description": "Many users suggest 5 days on and 2 days off to prevent receptor downregulation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Occasional reports of pressure headaches likely due to increased cerebral blood flow"
+    },
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Mild nausea or stomach upset if taken on an empty stomach"
+    },
+    {
+      "label": "Flushing:",
+      "description": "Temporary redness or warmth in the face post-ingestion"
+    },
+    {
+      "label": "Sleep Disturbance:",
+      "description": "May cause vivid dreams or difficulty falling asleep if taken too late in the evening"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Regulatory Status:",
+      "description": "Sold as a dietary supplement in the US but regulated as a prescription drug in several European countries"
+    },
+    {
+      "label": "Sourcing:",
+      "description": "Widely available through major nootropic retailers and specialized supplement sources"
+    }
+  ],
+  "related": [
+    {
+      "name": "IDRA-21",
+      "slug": "idra-21"
+    },
+    {
+      "name": "L-SERINE",
+      "slug": "l-serine"
+    },
+    {
+      "name": "MAGNESIUM L-THREONATE",
+      "slug": "magnesium-l-threonate"
+    },
+    {
+      "name": "N-ACETYL SEMAX",
+      "slug": "n-acetyl-semax"
+    },
+    {
+      "name": "NOBILETIN",
+      "slug": "nobiletin"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "cagrilintide",
+  "url": "https://dopamine.club/substances/cagrilintide/",
+  "scrapedAt": "2026-02-12T16:06:18.343Z",
+  "title": "CAGRILINTIDE",
+  "description": "Cagrilintide is a long-acting amylin receptor agonist that mimics the naturally occurring pancreatic hormone amylin to induce satiety and slow gastric emptying. It is primarily under investigation for weight management, often used in combination with GLP-1 receptor agonists to provide synergistic appetite suppression and improved glucose homeostasis.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Once-weekly cagrilintide for weight management in people with overweight and obesity: a multicentre, randomised, double-blind, placebo-controlled and active-controlled, dose-finding phase 2 trial",
+      "summary": "This phase 2 trial found that once-weekly cagrilintide led to significant, dose-dependent weight loss compared to placebo and was generally well-tolerated at doses up to 4.5 mg.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34798060/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cagrilintide: A Long-Acting Amylin Analog for the Treatment of Obesity",
+      "summary": "This review details how cagrilintide acts as a non-selective agonist of amylin receptors to reduce food intake and body weight through central and peripheral mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36883831/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and Safety of Cagrilintide Alone and in Combination with Semaglutide (Cagrisema) as Anti-Obesity Medications: A Systematic Review and Meta-Analysis",
+      "summary": "The meta-analysis confirms that CagriSema (cagrilintide plus semaglutide) provides superior weight loss outcomes compared to monotherapy with either agent alone.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11642503/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users view cagrilintide highly as a potent addition to weight loss stacks, particularly for those who have plateaued on GLP-1 medications or suffer from persistent hunger."
+  },
+  "effects": [
+    {
+      "label": "Superior to Monotherapy:",
+      "description": "Clinical data and user reports suggest it is more effective for weight loss than liraglutide 3.0 mg at higher doses."
+    },
+    {
+      "label": "Plateau Breaking:",
+      "description": "Biohackers frequently recommend it for individuals who have stalled on Tirzepatide or Semaglutide."
+    },
+    {
+      "label": "Dose-Dependent Results:",
+      "description": "Weight loss efficacy increases significantly as the dose scales from 0.3 mg to the 2.4 mg - 4.5 mg range."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Initial Loading:",
+      "description": "Clinical protocols typically start at 0.3 mg once weekly for the first 4 weeks to assess tolerability."
+    },
+    {
+      "label": "Titration Schedule:",
+      "description": "Doses are generally escalated every 4 weeks (0.6 mg, 1.2 mg, 1.8 mg) up to a maintenance dose of 2.4 mg."
+    },
+    {
+      "label": "Combination Dosing:",
+      "description": "When used in the 'CagriSema' stack, users often stabilize at 1.2 mg to 2.4 mg of cagrilintide alongside their GLP-1 dose."
+    },
+    {
+      "label": "Maximum Ceiling:",
+      "description": "While phase 2 trials explored up to 4.5 mg, most user discussions focus on the 2.4 mg weekly maximum."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Common reports include nausea, vomiting, and diarrhea, particularly during the dose escalation phase."
+    },
+    {
+      "label": "Anhedonia Risks:",
+      "description": "While less common than with GLP-1s, some users report a general loss of pleasure or interest in activities."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Minor redness or irritation at the subcutaneous injection site is occasionally noted."
+    },
+    {
+      "label": "Fatigue:",
+      "description": "Some users experience transient lethargy as their caloric intake drops significantly."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Clinical Status:",
+      "description": "Currently in late-stage Phase 3 clinical trials (often as part of the CagriSema combination) and not yet FDA-approved as a standalone prescription."
+    },
+    {
+      "label": "Research Sourcing:",
+      "description": "Widely discussed in peptide communities as a 'research chemical' available through specialized lab suppliers."
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "CAGRISEMA",
+      "slug": "cagrisema"
+    },
+    {
+      "name": "CHITOSAN",
+      "slug": "chitosan"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "theobromine",
+  "url": "https://dopamine.club/substances/theobromine/",
+  "scrapedAt": "2026-02-12T16:11:41.088Z",
+  "title": "THEOBROMINE",
+  "description": "Theobromine is a methylxanthine alkaloid found naturally in cocoa, chocolate, and tea that acts as a mild stimulant and bronchodilator. It works by blocking adenosine receptors and inhibiting phosphodiesterase enzymes, producing gentler effects than caffeine with a longer half-life. Theobromine is primarily used for cardiovascular health, mood enhancement, and as a mild cognitive stimulant.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "The Therapeutic Potential of Theobromine in Obesity: A Comprehensive Review",
+      "summary": "Review examining theobromine's potential therapeutic applications in obesity treatment, particularly its effects on metabolism and chronic low-grade inflammation associated with obesity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39271172/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Theobromine supplementation in combination with a low-calorie diet improves cardiovascular risk factors in overweight and obese subjects with metabolic syndrome: a randomized controlled trial",
+      "summary": "12-week randomized trial showing 450mg daily theobromine supplementation significantly decreased waist circumference, improved lipid ratios (LDL-c/HDL-c, TG/HDL-c, TC/HDL-c), and increased HDL-c compared to placebo in metabolic syndrome patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37702988/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A comprehensive insight into the molecular effect of theobromine on cardiovascular-related risk factors: A systematic review of in vitro and in vivo studies",
+      "summary": "Systematic review examining molecular mechanisms of theobromine's beneficial effects on cardiovascular risk factors including lipid profile, glycemic status, and inflammatory markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37309834/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Association between Dietary Theobromine and Cognitive Function in a Representative American Population: A Cross-Sectional Study",
+      "summary": "Analysis of 2,845 participants aged ≥60 years found the highest quantile of theobromine intake was positively associated with delayed recall, animal fluency, and digit symbol substitution test scores, suggesting beneficial effects on cognitive performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35718870/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Theobromine and Caffeine on Mood and Vigilance",
+      "summary": "Double-blind study of 24 men testing theobromine doses (100, 200, 400mg) against caffeine found theobromine failed to consistently affect mood or vigilance parameters at any dose, while 100mg caffeine showed significant effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23764686/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are limited and genuinely mixed, with no clear consensus on effectiveness. The compound shows promise in research for cardiovascular and metabolic benefits, but lacks substantial user validation for nootropic effects, with studies showing inconsistent cognitive and mood enhancement."
+  },
+  "effects": [
+    {
+      "label": "Cardiovascular Health:",
+      "description": "Strong research evidence for improving lipid profiles and metabolic markers at 450mg daily doses"
+    },
+    {
+      "label": "Cognitive Effects:",
+      "description": "Inconsistent results across studies; failed to show reliable effects on vigilance and mood in controlled trials"
+    },
+    {
+      "label": "Synergy with Caffeine:",
+      "description": "May work better in combination with caffeine, particularly at higher caffeine intake levels"
+    },
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Effects appear dose-dependent but optimal cognitive dosing remains unclear based on current evidence"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "100-450mg tested in clinical trials, with 450mg showing cardiovascular benefits"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Naturally occurs in dark chocolate (200-400mg per 100g) and cocoa products"
+    },
+    {
+      "label": "Duration:",
+      "description": "Long half-life of 6-10 hours allows for once-daily dosing"
+    },
+    {
+      "label": "Timing:",
+      "description": "Best consumed earlier in day due to extended half-life potentially affecting sleep"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disruption:",
+      "description": "May interfere with sleep quality when taken later in the day due to long half-life"
+    },
+    {
+      "label": "Minimal Acute Effects:",
+      "description": "Generally well-tolerated with fewer side effects than caffeine"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Effects vary significantly between individuals"
+    },
+    {
+      "label": "Toxicity in Pets:",
+      "description": "Highly toxic to dogs and cats; safe storage required in households with pets"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Widely available in cocoa products, dark chocolate, and cacao supplements"
+    },
+    {
+      "label": "Pure Form:",
+      "description": "Available as isolated supplement, though less common than caffeine products"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Fully legal and available without prescription in most jurisdictions"
+    }
+  ],
+  "related": [
+    {
+      "name": "THEACRINE",
+      "slug": "theacrine"
+    },
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "SARCOSINE",
+      "slug": "sarcosine"
+    },
+    {
+      "name": "METHYLENE BLUE",
+      "slug": "methylene-blue"
+    },
+    {
+      "name": "VITAMIN B COMPLEX",
+      "slug": "vitamin-b-complex"
+    }
+  ]
+}

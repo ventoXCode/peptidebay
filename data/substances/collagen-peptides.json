@@ -1,0 +1,155 @@
+{
+  "slug": "collagen-peptides",
+  "url": "https://dopamine.club/substances/collagen-peptides/",
+  "scrapedAt": "2026-02-12T16:06:52.370Z",
+  "title": "COLLAGEN PEPTIDES",
+  "description": "Collagen peptides are hydrolyzed fragments of collagen protein with molecular weights of 2000-3500 daltons, designed for superior bioavailability and absorption. When ingested, these peptides are absorbed into the bloodstream and stimulate fibroblasts to produce new collagen, elastin, and other extracellular matrix components. They are primarily used to support skin health, joint function, bone density, and recovery from exercise or injury.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Low-molecular-weight collagen peptides supplement promotes a healthy skin: A randomized, double-blinded, placebo-controlled study",
+      "summary": "A 12-week study of 100 women aged 35+ found that low-molecular-weight collagen peptides significantly improved skin roughness, wrinkle depth, and overall skin quality compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37822045/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral intake of specific bioactive collagen peptides reduces skin wrinkles and increases dermal matrix synthesis",
+      "summary": "114 women aged 45-65 taking 2.5g of bioactive collagen peptides daily for 8 weeks showed statistically significant reduction in eye wrinkle volume and increased procollagen I, elastin, and fibrillin biosynthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24401291/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Collagen Supplement Improves Skin Hydration, Elasticity, Roughness, and Density: Results of a Randomized, Placebo-Controlled, Blind Study",
+      "summary": "72 women aged 35+ receiving 2.5g of collagen peptides with vitamins for 12 weeks showed statistically significant improvements in skin elasticity, hydration, and overall skin health parameters compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31627309/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Specific Collagen Peptides Improve Bone Mineral Density and Bone Markers in Postmenopausal Women-A Randomized Controlled Study",
+      "summary": "131 postmenopausal women taking 5g of specific collagen peptides daily for 12 months showed significant improvements in bone mineral density and favorable bone marker changes compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29337906/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Collagen peptide supplementation for pain and function: is it effective?",
+      "summary": "Review of recent literature confirms that collagen peptide supplementation improves pain and function, upregulates metabolic pathways associated with muscle and tendon growth, and increases synthesis of collagen and extracellular matrix elements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36044324/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Improvement of activity-related knee joint discomfort following supplementation of specific collagen peptides",
+      "summary": "139 athletic subjects with functional knee pain taking 5g of bioactive collagen peptides daily for 12 weeks showed statistically significant improvement in activity-related pain intensity compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28177710/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Collagen peptides supplementation improves function, pain, and physical and mental outcomes in active adults",
+      "summary": "Study found collagen peptide supplementation significantly reduced chronic pain, improved physical activity tolerance, and enhanced mental health outcomes in active adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37551682/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of collagen peptide supplementation on body composition, collagen synthesis, and recovery from joint injury and exercise: a systematic review",
+      "summary": "Systematic review of 15 randomized controlled trials found that collagen peptide supplementation in conjunction with exercise beneficially impacts connective tissue structure, load-bearing capabilities, and recovery from joint injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34491424/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report predominantly positive experiences with collagen peptides, particularly noting improvements in joint pain, skin quality, nail and hair growth, and reduced inflammation. Most users who noticed benefits did so after 2-3 months of consistent use, and many only recognized the effectiveness after stopping supplementation and experiencing a return of symptoms."
+  },
+  "effects": [
+    {
+      "label": "Delayed Recognition:",
+      "description": "Many users only recognize collagen's effectiveness after stopping supplementation and experiencing a return of joint pain, skin dryness, and nail brittleness within 1-2 months"
+    },
+    {
+      "label": "Time-Dependent Results:",
+      "description": "Most benefits appear after 6-12 weeks of consistent daily use, with optimal results often requiring 3+ months of supplementation"
+    },
+    {
+      "label": "Dose Response:",
+      "description": "Users report better results with higher doses (15-20g daily) compared to minimal doses, particularly for joint pain and athletic recovery"
+    },
+    {
+      "label": "Enhanced with Vitamin C:",
+      "description": "Multiple users and studies confirm that taking collagen with vitamin C significantly improves absorption and effectiveness, especially when taken 1 hour before exercise"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "10-20g daily is most commonly used, typically taken in morning coffee, protein shakes, or hot water"
+    },
+    {
+      "label": "Joint Support Protocol:",
+      "description": "15-25g daily split into multiple doses with meals shows best results for chronic joint pain and athletic recovery"
+    },
+    {
+      "label": "Skin Health Protocol:",
+      "description": "2.5-5g daily appears sufficient for skin improvements based on clinical studies, though users often take 10g+"
+    },
+    {
+      "label": "Pre-Exercise Timing:",
+      "description": "Taking collagen with vitamin C 30-60 minutes before exercise enhances connective tissue repair and reduces overuse injuries"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Histamine Response:",
+      "description": "Some users report brain fog, fatigue, and anxiety, potentially due to collagen's high histamine content in sensitive individuals"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "A minority of users experience stomach discomfort or changes in digestion when first starting supplementation"
+    },
+    {
+      "label": "Glycine Sensitivity:",
+      "description": "Collagen's high glycine content can cause sedation or calming effects in some people, which may be undesirable if taken at wrong times"
+    },
+    {
+      "label": "Heavy Metal Contamination:",
+      "description": "Consumer testing revealed many brands contain concerning levels of lead, arsenic, or cadmium, making brand selection critical"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Wide Commercial Availability:",
+      "description": "Available from numerous brands at major retailers and specialty supplement stores, with prices ranging from $20-50 per month supply"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Popular mainstream brands are criticized for quality and heavy metal content; users recommend third-party tested brands with clean testing reports"
+    },
+    {
+      "label": "Marine vs Bovine:",
+      "description": "Marine collagen is considered more bioavailable but more expensive; bovine collagen is most common and affordable, with beef gelatin being the most cost-effective option providing similar benefits"
+    }
+  ],
+  "related": [
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "DECAPEPTIDE-12",
+      "slug": "decapeptide-12"
+    },
+    {
+      "name": "DSIP (Delta Sleep-Inducing Peptide)",
+      "slug": "dsip"
+    },
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    },
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    }
+  ]
+}

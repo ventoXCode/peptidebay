@@ -1,0 +1,116 @@
+{
+  "slug": "echinacea",
+  "url": "https://dopamine.club/substances/echinacea/",
+  "scrapedAt": "2026-02-12T16:07:28.028Z",
+  "title": "ECHINACEA",
+  "description": "Echinacea is a genus of flowering plants in the daisy family, primarily used as an herbal remedy to stimulate the immune system by increasing the activity of white blood cells. Its active compounds, including alkamides and polysaccharides, are thought to modulate cytokine production and provide anti-inflammatory effects during viral infections.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Evaluation of echinacea for the prevention and treatment of the common cold: a meta-analysis",
+      "summary": "A meta-analysis of 14 studies found that Echinacea decreased the odds of developing a cold by 58% and reduced the duration of illness by approximately 1.4 days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17597667/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety and Efficacy Profile of Echinacea purpurea to Prevent Common Cold Episodes: A Randomized, Double-Blind, Placebo-Controlled Trial",
+      "summary": "A 4-month trial showed that standardized Echinacea extract significantly reduced the total number of cold episodes and the number of days with symptoms compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23024696/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Echinacea for preventing and treating the common cold",
+      "summary": "This Cochrane review suggests while some preparations show weak benefit, there is no consistent evidence across all Echinacea products for treating the common cold.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24554461/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An Evaluation of Echinacea angustifolia in Experimental Rhinovirus Infections",
+      "summary": "In a controlled challenge study, specific extracts of Echinacea angustifolia root did not show a significant effect on infection rates or symptom severity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16049208/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users are divided between those who find it highly effective for early-stage symptom prevention and those who feel it has a negligible or placebo effect."
+  },
+  "effects": [
+    {
+      "label": "Early Intervention:",
+      "description": "Effectiveness is highly dependent on timing, with the best results reported when taken within hours of the first symptom."
+    },
+    {
+      "label": "Species Variance:",
+      "description": "Users often note that Echinacea purpurea appears more effective for respiratory issues than other species."
+    },
+    {
+      "label": "Diminishing Returns:",
+      "description": "Many find that once a cold is 'full-blown,' the supplement provides little to no relief."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Acute Dosing:",
+      "description": "Common user recommendation is 300-500mg taken 3 times daily during the first 48 hours of symptoms."
+    },
+    {
+      "label": "Preventative Dosing:",
+      "description": "Long-term users often cycle 800mg daily for a few weeks on and then take a break."
+    },
+    {
+      "label": "Tincture vs Capsules:",
+      "description": "Liquid tinctures are frequently cited by users as more potent due to faster absorption and a characteristic 'tongue tingling' effect."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report mild stomach upset or nausea when taking capsules on an empty stomach."
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Occasional reports of rashes or itching, particularly in individuals sensitive to the Asteraceae (daisy) family."
+    },
+    {
+      "label": "Waning Efficacy:",
+      "description": "Users suggest that continuous daily use for months may lead to the body becoming desensitized to its effects."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Broad Availability:",
+      "description": "Widely available as an over-the-counter supplement in grocery stores, pharmacies, and health shops."
+    },
+    {
+      "label": "Standardization:",
+      "description": "Scientific sources emphasize looking for products standardized for phenolics or alkamides to ensure quality."
+    }
+  ],
+  "related": [
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    },
+    {
+      "name": "CHAGA MUSHROOM",
+      "slug": "chaga-mushroom"
+    },
+    {
+      "name": "CHLORELLA",
+      "slug": "chlorella"
+    },
+    {
+      "name": "NIGELLA SATIVA",
+      "slug": "nigella-sativa"
+    },
+    {
+      "name": "BOSWELLIA",
+      "slug": "boswellia"
+    }
+  ]
+}

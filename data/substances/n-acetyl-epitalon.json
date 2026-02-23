@@ -1,0 +1,113 @@
+{
+  "slug": "n-acetyl-epitalon",
+  "url": "https://dopamine.club/substances/n-acetyl-epitalon/",
+  "scrapedAt": "2026-02-12T16:09:40.074Z",
+  "title": "N-ACETYL EPITALON",
+  "description": "N-Acetylcysteine (NAC) is a precursor to glutathione, the body's primary antioxidant, and helps regulate glutamate levels in the brain. It is used therapeutically for acetaminophen overdose and has shown promise in treating various conditions including obsessive-compulsive behaviors, addiction, respiratory issues, and liver protection. NAC supports detoxification pathways and may reduce oxidative stress and inflammation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The use of N-acetylcysteine in the prevention of hangover: a randomized trial",
+      "summary": "A double-blind placebo-controlled crossover study of 49 volunteers found that NAC (600-1800mg) showed gender-specific effects, with female participants experiencing reduced nausea and weakness after alcohol consumption, though overall hangover scores did not differ significantly from placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34183702/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report strong benefits for OCD, anxiety, skin picking disorders, and liver health, with many experiencing significant improvements in obsessive thoughts and compulsive behaviors. While some report side effects like insomnia or flatness with daily use, the majority find it effective when used appropriately, with cycling recommended for long-term use."
+  },
+  "effects": [
+    {
+      "label": "OCD and Compulsive Behaviors:",
+      "description": "Highly effective for many users, often comparable to or better than prescription medications with fewer side effects"
+    },
+    {
+      "label": "Dosage Response:",
+      "description": "Most users find 600mg effective, though some with severe symptoms use up to 1800-3600mg daily, with effects typically appearing within days to weeks"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Long-term daily use may lead to emotional flatness or reduced enjoyment; cycling (taking breaks or using 2-3 days per week) maintains effectiveness"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Works exceptionally well for some users but causes insomnia, restlessness, or brain fog in others, suggesting genetic or biochemical variability"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "600mg once or twice daily is most commonly used and effective for general benefits"
+    },
+    {
+      "label": "High Dose:",
+      "description": "1800-3600mg daily used for severe OCD, anxiety, or liver issues, though cycling is important at these levels"
+    },
+    {
+      "label": "Timing:",
+      "description": "Morning or afternoon dosing preferred; evening doses may cause sleep disturbances in some users"
+    },
+    {
+      "label": "With Glycine:",
+      "description": "Many users combine NAC with glycine (GlyNAC protocol) for enhanced glutathione production and recovery benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disruption:",
+      "description": "Some users report insomnia, restlessness, or vivid dreams, particularly with evening dosing"
+    },
+    {
+      "label": "Emotional Flatness:",
+      "description": "Long-term daily use may reduce emotional range or enjoyment of activities, resolving after breaks"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Occasional reports of nausea or GI discomfort, especially on empty stomach or at higher doses"
+    },
+    {
+      "label": "Headaches and Brain Fog:",
+      "description": "Minority of users experience headaches or cognitive impairment rather than improvement"
+    }
+  ],
+  "availability": [
+    {
+      "label": "FDA Controversy:",
+      "description": "NAC was temporarily removed from major retailers due to FDA regulatory issues (approved as drug in 1963), though still available from specialty retailers"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Despite regulatory concerns, NAC remains readily available from supplement retailers like reputable suppliers and other sources"
+    },
+    {
+      "label": "Affordable:",
+      "description": "Relatively inexpensive supplement, with bulk powder being most cost-effective option for regular users"
+    }
+  ],
+  "related": [
+    {
+      "name": "N-ACETYL SELANK",
+      "slug": "n-acetyl-selank"
+    },
+    {
+      "name": "NAC",
+      "slug": "nac"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

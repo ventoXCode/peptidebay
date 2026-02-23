@@ -1,0 +1,125 @@
+{
+  "slug": "betaine-hcl",
+  "url": "https://dopamine.club/substances/betaine-hcl/",
+  "scrapedAt": "2026-02-12T16:06:08.358Z",
+  "title": "BETAINE HCL",
+  "description": "Betaine HCl (betaine hydrochloride) is a supplemental form of hydrochloric acid combined with betaine, primarily used to increase stomach acid levels in individuals with hypochlorhydria (low stomach acid). It supports protein digestion, nutrient absorption (particularly B12, iron, and calcium), and may help reduce symptoms of indigestion, bloating, and GERD caused by insufficient stomach acid production.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Meal-Time Supplementation with Betaine HCl for Functional Hypochlorhydria: What is the Evidence?",
+      "summary": "Review examining the rationale and evidence for betaine HCl supplementation in functional hypochlorhydria, discussing its role in supporting digestion and absorption of macronutrients and micronutrients when stomach acid production is inadequate.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32549862/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gastric Re-acidification with Betaine HCl in Healthy Volunteers with Rabeprazole-Induced Hypochlorhydria",
+      "summary": "Clinical study demonstrating that betaine HCl can effectively lower gastric pH and restore acidic conditions in subjects with drug-induced hypochlorhydria, supporting its use as a re-acidification strategy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23980906/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beneficial Effects of Betaine: A Comprehensive Review",
+      "summary": "Comprehensive review of betaine's multiple beneficial effects including its role in methylation, liver health, cardiovascular protection, and metabolic regulation, highlighting its broader physiological importance beyond gastric acidification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34067313/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with betaine HCl for improving digestion, reducing bloating, and enhancing nutrient absorption. Most find it effective for addressing low stomach acid symptoms, though proper dosing and timing with meals is important for best results."
+  },
+  "effects": [
+    {
+      "label": "Individual Response:",
+      "description": "Effectiveness varies significantly based on whether true hypochlorhydria exists; not beneficial for those with normal or high acid levels"
+    },
+    {
+      "label": "Meal Composition:",
+      "description": "Works best with protein-heavy meals; less noticeable effects with carbohydrate or fat-dominant meals"
+    },
+    {
+      "label": "Timing Critical:",
+      "description": "Must be taken with meals (typically mid-meal) for proper effect; timing too early or late reduces effectiveness"
+    },
+    {
+      "label": "Dose Titration Required:",
+      "description": "Requires careful dose adjustment starting low and increasing until warmth sensation occurs, then backing off one capsule"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Starting Dose:",
+      "description": "Begin with 1 capsule (typically 650mg) per meal to assess tolerance and need"
+    },
+    {
+      "label": "Titration Protocol:",
+      "description": "Gradually increase by 1 capsule per meal until mild warmth/burning is felt, then reduce by one capsule for maintenance dose"
+    },
+    {
+      "label": "Typical Range:",
+      "description": "Most users find 1-3 capsules (650-1950mg) per protein-containing meal to be effective"
+    },
+    {
+      "label": "Meal-Dependent:",
+      "description": "Larger, protein-heavy meals may require higher doses than smaller or lighter meals"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Burning Sensation:",
+      "description": "Warmth or mild burning indicates excessive dose; used as a signal to reduce amount"
+    },
+    {
+      "label": "Gastric Irritation:",
+      "description": "Can cause stomach upset or discomfort if taken on empty stomach or in excessive amounts"
+    },
+    {
+      "label": "Contraindications:",
+      "description": "Should not be used with peptic ulcers, gastritis, or while taking NSAIDs/aspirin regularly"
+    },
+    {
+      "label": "Enamel Concerns:",
+      "description": "Potential for tooth enamel erosion if capsules break open in mouth; swallow whole with water"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold over-the-counter by numerous supplement brands in health food stores and online retailers"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Capsule sizes typically range from 325mg to 650mg; higher quality brands may include pepsin for additional digestive support"
+    },
+    {
+      "label": "Affordability:",
+      "description": "Generally inexpensive supplement with good cost-effectiveness for long-term use"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    }
+  ]
+}

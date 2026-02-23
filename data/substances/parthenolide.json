@@ -1,0 +1,119 @@
+{
+  "slug": "parthenolide",
+  "url": "https://dopamine.club/substances/parthenolide/",
+  "scrapedAt": "2026-02-12T16:10:30.444Z",
+  "title": "PARTHENOLIDE",
+  "description": "Parthenolide is a sesquiterpene lactone compound found in feverfew (Tanacetum parthenium), a medicinal herb traditionally used for migraine prevention. It acts as a non-steroidal anti-inflammatory agent and inhibits various inflammatory pathways, including effects on serotonin uptake and platelet activity. Parthenolide is primarily used for migraine prophylaxis and has demonstrated anti-inflammatory and analgesic properties.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The efficacy and safety of Tanacetum parthenium (feverfew) in migraine prophylaxis--a double-blind, multicentre, randomized placebo-controlled dose-response study",
+      "summary": "This double-blind, placebo-controlled study evaluated feverfew containing parthenolide for migraine prevention, examining dose-response relationships and safety profiles in migraine patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12230594/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The efficacy and safety of feverfew (Tanacetum parthenium L.): an update of a systematic review",
+      "summary": "Systematic review updating evidence on feverfew's efficacy for migraine prophylaxis, finding mixed results with some trials showing benefits for frequency, duration, and severity of headaches while noting variable quality of evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11276299/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Limited user experience data available specifically for parthenolide/feverfew supplementation. The one Reddit mention discusses it as part of a multi-ingredient migraine formula (Preventa Migraine), making isolated effects difficult to assess, though the user reports no migraines since starting the combination."
+  },
+  "effects": [
+    {
+      "label": "Evidence Quality:",
+      "description": "Systematic reviews show mixed results with some positive trials but variable study quality and methodological limitations"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Studies examined doses ranging from 6.25 to 143 mg/day with varying effectiveness across different formulations"
+    },
+    {
+      "label": "Combination Use:",
+      "description": "Often used in combination with other migraine preventatives like magnesium, B2 (riboflavin), and butterbur rather than as monotherapy"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Clinical trials suggest efficacy varies significantly among individuals, with some experiencing substantial benefits while others see minimal effect"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Research protocols typically used 6.25-143 mg/day of parthenolide-containing extracts"
+    },
+    {
+      "label": "Feverfew Standardization:",
+      "description": "Commercial products often standardized to 0.2-0.81% parthenolide content (approximately 200mg feverfew with 0.81% yields ~1.6mg parthenolide)"
+    },
+    {
+      "label": "Duration:",
+      "description": "Clinical trials examined treatment periods ranging from 1 to 6 months for migraine prophylaxis"
+    },
+    {
+      "label": "Combination Formulas:",
+      "description": "Often combined with 30-75mg magnesium, 200-400mg B2, and other migraine-preventive compounds"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Studies report feverfew/parthenolide as relatively safe with minimal adverse effects in most users"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "As a member of the Asteraceae family, may cause allergic contact dermatitis in sensitive individuals"
+    },
+    {
+      "label": "Post-Feverfew Syndrome:",
+      "description": "Some long-term users report rebound headaches, anxiety, or sleep disturbances upon discontinuation"
+    },
+    {
+      "label": "Limited Long-term Data:",
+      "description": "While short-term safety appears good, comprehensive long-term safety data remains limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Formulations:",
+      "description": "Available in combination migraine prevention supplements and as standardized feverfew extracts"
+    },
+    {
+      "label": "Standardization Variability:",
+      "description": "Product quality varies significantly; look for supplements standardized to specific parthenolide content percentages"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Available as a dietary supplement without prescription in most jurisdictions, though quality and potency may vary between manufacturers"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    }
+  ]
+}

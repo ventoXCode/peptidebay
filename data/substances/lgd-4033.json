@@ -1,0 +1,155 @@
+{
+  "slug": "lgd-4033",
+  "url": "https://dopamine.club/substances/lgd-4033/",
+  "scrapedAt": "2026-02-12T16:09:11.563Z",
+  "title": "LGD-4033",
+  "description": "LGD-4033 (Ligandrol) is a selective androgen receptor modulator (SARM) that binds to androgen receptors with high affinity and selectivity, producing anabolic effects on muscle and bone tissue with reduced androgenic activity compared to traditional steroids. Originally developed for therapeutic applications in muscle wasting, sarcopenia, and osteoporosis, it has been prohibited in sports by WADA since 2018 and is not FDA-approved for any use.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "The safety, pharmacokinetics, and effects of LGD-4033, a novel nonsteroidal oral, selective androgen receptor modulator, in healthy young men",
+      "summary": "A placebo-controlled study in 76 healthy men found LGD-4033 was well tolerated at doses up to 1.0 mg daily for 21 days, with dose-dependent increases in lean body mass and improvements in muscle strength, though effects on sex hormones were observed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22459616/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Human in vivo metabolism study of LGD-4033",
+      "summary": "Investigation of LGD-4033 metabolism in humans identified multiple phase I and phase II metabolites with distinct excretion profiles, enabling better detection methods for doping control with long-term metabolite detection capabilities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30255601/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Investigations into the elimination profiles and metabolite ratios of micro-dosed selective androgen receptor modulator LGD-4033 for doping control purposes",
+      "summary": "Study examining micro-dosing of LGD-4033 found that even very low doses (1-10 μg) can be detected through metabolite analysis, addressing concerns about contaminated supplements and inadvertent exposure in athletes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34734312/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Drug-Induced Liver Injury Associated With Alpha Bolic (RAD-140) and Alpha Elite (RAD-140 and LGD-4033)",
+      "summary": "Case report of a 52-year-old male who developed severe drug-induced liver injury with cholestatic pattern after taking supplements containing LGD-4033 and RAD-140, with liver enzymes normalizing after cessation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33062783/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "LGD-4033 and a Case of Drug-Induced Liver Injury: Exploring the Clinical Implications of Off-Label Selective Androgen Receptor Modulator Use in Healthy Adults",
+      "summary": "Case study documenting hepatotoxicity, cardiovascular complications, and endocrine disturbances in a patient using high-dose LGD-4033, emphasizing the need for clinical vigilance regarding off-label SARM use and its adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39421081/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chemical Composition and Labeling of Substances Marketed as Selective Androgen Receptor Modulators and Sold via the Internet",
+      "summary": "Analysis of SARM products sold online found significant discrepancies between labeled and actual contents, with many products containing unlisted ingredients or incorrect dosages, raising safety concerns about black market supplements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29183075/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "LGD-4033 and MK-677 use impacts body composition, circulating biomarkers, and skeletal muscle androgenic hormone and receptor content: A case report",
+      "summary": "Case study showed co-administration of LGD-4033 and MK-677 increased lean mass and body mass but negatively impacted bone health, liver enzymes, serum lipids, and testosterone levels, demonstrating both benefits and significant adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36303408/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Variation of Sequential Ligandrol (LGD-4033) Metabolite Levels in Routine Anti-Doping Urine Samples Detected with or without Other Xenobiotics",
+      "summary": "Study analyzing athlete urine samples found multiple LGD-4033 metabolites that suggest doses higher than single micro-doses, and noted that co-administration with other substances affects metabolism and elimination patterns.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37764261/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative, with concerns about hepatotoxicity, testosterone suppression, and questionable risk-benefit profiles dominating discussions. Most experienced users warn against use, noting that even low doses cause suppression and that the muscle gains don't justify the health risks."
+  },
+  "effects": [
+    {
+      "label": "Dose-Response:",
+      "description": "Research shows dose-dependent effects on lean mass (0.1-1.0mg studied), but users commonly take much higher doses (5-10mg) with diminishing returns"
+    },
+    {
+      "label": "Muscle Building:",
+      "description": "Effectiveness for muscle growth appears modest compared to traditional steroids, with users reporting it works but requires proper diet and training"
+    },
+    {
+      "label": "Suppression Trade-off:",
+      "description": "The degree of testosterone suppression appears disproportionate to the anabolic benefits gained, making risk-benefit ratio unfavorable"
+    },
+    {
+      "label": "Recovery Claims:",
+      "description": "Limited evidence for enhanced recovery, with some users reporting worse recovery due to hormonal disruption"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Microdosing:",
+      "description": "Studies examined 0.5-3mg doses, which show minimal suppression but also limited benefits according to user reports"
+    },
+    {
+      "label": "Common User Doses:",
+      "description": "5-10mg daily is typical among users seeking muscle gains, though this significantly increases suppression risk"
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "8-week cycles are commonly discussed, with users reporting diminishing returns and increased side effects beyond this period"
+    },
+    {
+      "label": "PCT Requirements:",
+      "description": "Post-cycle therapy (Nolvadex/Clomid) is considered necessary by users even at moderate doses due to suppression"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hepatotoxicity:",
+      "description": "Multiple case reports document severe liver injury with elevated enzymes, jaundice, and cholestatic patterns requiring months for recovery"
+    },
+    {
+      "label": "Hormonal Disruption:",
+      "description": "Significant suppression of testosterone and FSH reported, with users experiencing low libido, fatigue, and mood changes"
+    },
+    {
+      "label": "Lipid Profile Changes:",
+      "description": "Negative impacts on cholesterol levels noted in research and user experiences, potentially increasing cardiovascular risk"
+    },
+    {
+      "label": "Long-term Concerns:",
+      "description": "Users report prolonged recovery times (3+ months) for hormone normalization after cessation, with some experiencing persistent issues"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Banned by WADA for athletic use; not FDA-approved for any indication; considered a research chemical with unclear legal status for personal use"
+    },
+    {
+      "label": "Black Market Issues:",
+      "description": "Studies show products sold online often contain incorrect doses, unlisted ingredients, or contamination with other compounds"
+    },
+    {
+      "label": "Research Chemical Sources:",
+      "description": "Primarily available through online research chemical sources, with significant quality control and purity concerns raised by users"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    },
+    {
+      "name": "GLPG-0492",
+      "slug": "glpg-0492"
+    },
+    {
+      "name": "GSK-2849466",
+      "slug": "gsk-2849466"
+    },
+    {
+      "name": "GSK-2881078",
+      "slug": "gsk-2881078"
+    }
+  ]
+}

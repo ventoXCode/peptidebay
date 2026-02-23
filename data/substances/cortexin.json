@@ -1,0 +1,121 @@
+{
+  "slug": "cortexin",
+  "url": "https://dopamine.club/substances/cortexin/",
+  "scrapedAt": "2026-02-12T16:06:58.412Z",
+  "title": "CORTEXIN",
+  "description": "Cortexin is a complex mixture of low-molecular-weight water-soluble polypeptide fractions extracted from the cerebral cortex of cattle or pigs. It acts by regulating the balance between excitatory and inhibitory amino acids, modulating dopamine and serotonin levels, and exerting neuroprotective effects through the inhibition of brain caspase-8 and the promotion of neuroplasticity.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Molecular Mechanisms of the Actions of Brain Peptide-Containing Drugs: Cortexin",
+      "summary": "This study highlights that Cortexin influences neuroplasticity, energy metabolism, and neuroinflammation through multiple neuropeptide signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31705481/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Determination of the Prevalence of Postcovid Syndrome and Assessment of the Effectiveness of the Drug Cortexin in the Treatment of Neurological Disorders in Patients with Postcovid Syndrome",
+      "summary": "Clinical observation of nearly 1,000 patients found that Cortexin significantly reduced fatigue, memory loss, and concentration issues in individuals suffering from Post-COVID syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36383344/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of Cortexin in the Treatment of Memory Disorders in Children",
+      "summary": "In a comparative trial involving children with memory deficits, Cortexin showed an 86.7% improvement rate, outperforming the reference drug Encephabol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23467883/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The peptide-based drug cortexin inhibits brain caspase-8",
+      "summary": "Research demonstrates that Cortexin may prevent programmed cell death in the brain by inhibiting specific proteolytic enzymes involved in apoptosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28343161/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Molecular partners of Cortexin in the brain",
+      "summary": "This study identifies specific molecular targets for Cortexin, including tubulin β5 and creatine kinase B-type, which facilitate its neuroprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28343168/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users widely regard Cortexin as a powerful tool for neurological repair, particularly for recovering from substance abuse or viral-induced brain fog, noting significant improvements in cognitive clarity and emotional stability."
+  },
+  "effects": [
+    {
+      "label": "Post-Viral Recovery:",
+      "description": "High success rates in treating neurological symptoms of Post-COVID syndrome according to clinical data."
+    },
+    {
+      "label": "Pediatric Memory:",
+      "description": "Clinically proven to be more effective than some standard synthetic nootropics for childhood memory disorders."
+    },
+    {
+      "label": "Rapid Onset:",
+      "description": "Many users report feeling a 'lifting' of mental heaviness within the first few days of a cycle."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Clinical Dose:",
+      "description": "10mg administered via intramuscular injection once daily for 10 days."
+    },
+    {
+      "label": "Post-COVID Protocol:",
+      "description": "Some clinical programs utilized a 20mg daily dose for 10 days for more severe neurological manifestations."
+    },
+    {
+      "label": "Cycle Frequency:",
+      "description": "Users typically repeat the 10-day cycle every 3 to 6 months rather than using it daily long-term."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Injection Site Pain:",
+      "description": "As an intramuscular medication, local irritation or soreness at the injection site is the most common complaint."
+    },
+    {
+      "label": "Temporary Irritability:",
+      "description": "Some users report mild, transient irritability or 'over-arousal' during the first few days of treatment."
+    },
+    {
+      "label": "Anxiogenic Potential:",
+      "description": "Animal studies suggest that while acute use is anxiolytic, repeated use may occasionally lead to anxiogenic-like arousal."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "widely used and regulated as a pharmaceutical in Russia and CIS countries, but typically sold as a research chemical or through international pharmacies elsewhere."
+    },
+    {
+      "label": "Administration Requirement:",
+      "description": "Primarily available as a lyophilized powder that must be reconstituted with bacteriostatic water or saline for injection."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "idebenone",
+  "url": "https://dopamine.club/substances/idebenone/",
+  "scrapedAt": "2026-02-12T16:08:46.665Z",
+  "title": "IDEBENONE",
+  "description": "Idebenone is a synthetic short-chain analogue of Coenzyme Q10 (CoQ10) that functions as a mitochondrial electron carrier and potent antioxidant. It transfers electrons directly to complex III of the mitochondrial electron transport chain, bypassing complex I to restore cellular ATP production and reduce oxidative stress. Idebenone is primarily used for treating Leber's Hereditary Optic Neuropathy (LHON) and has been investigated for various mitochondrial disorders, neurodegenerative conditions, and conditions involving oxidative stress.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Border between natural product and drug: Comparison of the related benzoquinones idebenone and coenzyme Q10",
+      "summary": "Idebenone shares CoQ10's quinone moiety but has a shorter, less lipophilic tail, making it a synthetic pharmacologically active compound that can bypass complex I defects in the mitochondrial respiratory chain while maintaining antioxidant properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25625583/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Idebenone and Neuroprotection: Antioxidant, Pro-oxidant, or Electron Carrier?",
+      "summary": "While idebenone is marketed as an antioxidant, it can also act as a pro-oxidant by forming unstable semiquinone at complex I, and its antioxidant function critically depends on two-electron reduction to idebenol without creating unstable intermediates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25262284/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Current and Emerging Treatment Modalities for Leber's Hereditary Optic Neuropathy: A Review of the Literature",
+      "summary": "Idebenone shows the most promising clinical outcomes among treatment options for LHON, with recent real-life studies demonstrating effectiveness in treating visual impairment in this mitochondrial disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30173326/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Current treatment options for treating OPA1-mutant dominant optic atrophy",
+      "summary": "Idebenone has shown the most promising clinical outcomes in real-life studies for treating dominant optic atrophy caused by OPA1 gene mutations, though more evidence from clinical trials is needed for gene therapy approaches.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36422516/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic Advances and Future Prospects in Progressive Forms of Multiple Sclerosis",
+      "summary": "Idebenone is being studied in phase II/III trials as an antioxidant therapy for progressive forms of multiple sclerosis, alongside other novel therapeutic approaches targeting neurodegeneration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26729332/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutritional and exercise-based therapies in the treatment of mitochondrial disease",
+      "summary": "Idebenone has been shown to bypass defective respiratory enzymes or scavenge free radicals in mitochondrial diseases, though responses vary and many reports show no benefit, requiring careful individual assessment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12394637/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A case of reversible toxic optic neuropathy from tacrolimus (FK506)",
+      "summary": "Idebenone supplementation demonstrated marked improvement in visual acuity and color vision in a transplant patient with tacrolimus-induced toxic optic neuropathy within two months of treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33005819/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User experiences with idebenone are genuinely mixed, with some reporting benefits for mental clarity and mood enhancement when stacked with other nootropics, while others question its effectiveness compared to CoQ10. The compound appears more frequently in complex supplement protocols rather than as a standalone supplement, suggesting limited widespread adoption."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Strongest evidence exists for Leber's Hereditary Optic Neuropathy (LHON) and mitochondrial disorders"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between individuals, with some experiencing clear benefits while others notice little effect"
+    },
+    {
+      "label": "Stacking Context:",
+      "description": "Often used as part of complex nootropic stacks rather than standalone, making isolated effects difficult to assess"
+    },
+    {
+      "label": "Comparison to CoQ10:",
+      "description": "Users debate whether idebenone offers advantages over standard CoQ10 supplementation, with mixed conclusions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Commonly used at 200-600mg daily, divided into 1-2 doses"
+    },
+    {
+      "label": "Stacking Doses:",
+      "description": "In nootropic stacks, users typically take 90-300mg per dose"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken with meals due to fat-soluble properties"
+    },
+    {
+      "label": "Duration:",
+      "description": "May require sustained use over weeks to months for noticeable effects in cognitive enhancement"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal to no side effects at standard doses"
+    },
+    {
+      "label": "Pro-oxidant Risk:",
+      "description": "At certain doses or contexts, may act as a pro-oxidant rather than antioxidant"
+    },
+    {
+      "label": "Interaction Concerns:",
+      "description": "Potential interactions with methylene blue and other electron transport chain modulators"
+    },
+    {
+      "label": "Limited Long-term Data:",
+      "description": "Less human data available compared to CoQ10 for extended use periods"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Approved medication in Europe (Raxone) for LHON but not FDA-approved in the United States"
+    },
+    {
+      "label": "Supplement Market:",
+      "description": "Available from specialized nootropic sources as a research compound or dietary supplement"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally more expensive than standard CoQ10 supplements with limited availability"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "METHYLENE BLUE",
+      "slug": "methylene-blue"
+    },
+    {
+      "name": "NADH",
+      "slug": "nadh"
+    },
+    {
+      "name": "OXALOACETATE",
+      "slug": "oxaloacetate"
+    },
+    {
+      "name": "SHILAJIT",
+      "slug": "shilajit"
+    }
+  ]
+}

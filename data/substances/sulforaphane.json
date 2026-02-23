@@ -1,0 +1,131 @@
+{
+  "slug": "sulforaphane",
+  "url": "https://dopamine.club/substances/sulforaphane/",
+  "scrapedAt": "2026-02-12T16:11:34.799Z",
+  "title": "SULFORAPHANE",
+  "description": "Sulforaphane (SFN) is a bioactive compound derived from glucoraphanin found in cruciferous vegetables like broccoli and broccoli sprouts. It works primarily by activating the Nrf2-ARE pathway, which regulates antioxidant and phase II detoxification enzymes, and exhibits epigenetic effects through histone deacetylase (HDAC) inhibition. SFN has been studied for neuroprotection, anti-inflammatory effects, and potential therapeutic applications across multiple disease categories.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Sulforaphane as a potential therapeutic agent: a comprehensive analysis of clinical trials and mechanistic insights",
+      "summary": "Comprehensive review of SFN's therapeutic potential across diverse disease categories, highlighting its effects through the Keap1/Nrf2 axis regulating phase II detoxification enzymes and epigenetic mechanisms including histone deacetylase inhibition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40988712/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sulforaphane and Brain Health: From Pathways of Action to Effects on Specific Disorders",
+      "summary": "Reviews sulforaphane's neuroprotective effects on brain health, focusing on its mechanisms for maintaining mitochondrial function and energy production in neurons, which have high energy demands and mitochondrial density.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40284217/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sulforaphane: Its Coming of Age as a Clinically Relevant Nutraceutical in the Prevention and Treatment of Chronic Disease",
+      "summary": "Examines how phytochemicals like sulforaphane influence upstream endogenous cellular defense processes, with focus on maintaining bioactive compounds close to their native state for optimal gene expression and therapeutic potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31737167/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The neuroprotective mechanisms and effects of sulforaphane",
+      "summary": "Details sulforaphane's neuroprotective properties through potent activation of the Nrf2-ARE antioxidant response pathway, demonstrating protective effects against multiple types of diseases including cancer and neurological conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31334360/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 42,
+    "summary": "User experiences are genuinely divided, with some reporting significant benefits for detoxification and overall health, while others experience notable side effects or minimal noticeable improvements. The compound appears to work well for certain individuals but requires careful consideration of individual response and potential adverse reactions."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly dependent on individual genetics, particularly GSTM1 polymorphisms and baseline detoxification capacity"
+    },
+    {
+      "label": "Source Quality Matters:",
+      "description": "Broccoli sprout extracts with standardized glucoraphanin content show more consistent results than whole food sources"
+    },
+    {
+      "label": "Timing and Context:",
+      "description": "Benefits may take several weeks to manifest and appear more pronounced in individuals with existing oxidative stress or inflammation"
+    },
+    {
+      "label": "Mixed Clinical Evidence:",
+      "description": "While mechanistic studies are strong, user experiences vary from highly beneficial to minimal noticeable effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "Common doses range from 30-100mg of sulforaphane or 400-600mg of glucoraphanin from broccoli sprout extract"
+    },
+    {
+      "label": "Whole Food Approach:",
+      "description": "Some users prefer consuming fresh broccoli sprouts (approximately 1-2 cups daily) for natural glucoraphanin intake"
+    },
+    {
+      "label": "Titration Strategy:",
+      "description": "Starting with lower doses and gradually increasing helps identify optimal personal dosage and minimize side effects"
+    },
+    {
+      "label": "Myrosinase Consideration:",
+      "description": "Taking supplements with myrosinase enzyme or consuming with mustard seeds may enhance conversion and bioavailability"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Gas, bloating, and digestive discomfort are commonly reported, particularly at higher doses or with cruciferous vegetable consumption"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Some users experience headaches, potentially related to detoxification processes or individual sensitivity"
+    },
+    {
+      "label": "Thyroid Concerns:",
+      "description": "Reports of potential thyroid interference with high doses, particularly in individuals with pre-existing thyroid conditions"
+    },
+    {
+      "label": "Skin Reactions:",
+      "description": "Occasional reports of skin issues or rashes, possibly related to detoxification effects or allergic responses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as broccoli sprout extract capsules, sulforaphane supplements, and glucoraphanin products from various manufacturers"
+    },
+    {
+      "label": "Whole Food Sources:",
+      "description": "Fresh broccoli sprouts can be grown at home or purchased from health food stores as a natural source"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "Significant differences in product quality and standardization exist; third-party testing and reputable brands are important for consistent results"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

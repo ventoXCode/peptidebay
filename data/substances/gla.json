@@ -1,0 +1,125 @@
+{
+  "slug": "gla",
+  "url": "https://dopamine.club/substances/gla/",
+  "scrapedAt": "2026-02-12T16:08:07.481Z",
+  "title": "GLA",
+  "description": "Gamma-linolenic acid (GLA) is an omega-6 polyunsaturated fatty acid (18:3n-6) found naturally in evening primrose oil, borage oil, and black currant seed oil. It acts as a precursor to dihomo-gamma-linolenic acid (DGLA) and can be converted to anti-inflammatory prostaglandins (PGE1), bypassing the rate-limiting delta-6-desaturase enzyme step. GLA is primarily used for inflammatory conditions, skin health, and hormonal balance.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Gamma-linolenic acid, Dihommo-gamma linolenic, Eicosanoids and Inflammatory Processes",
+      "summary": "GLA supplementation bypasses the rate-limiting delta-6-desaturase step and is quickly elongated to DGLA, which can be converted to anti-inflammatory prostaglandins, making it useful for managing inflammatory processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27083549/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Co-supplementation of healthy women with fish oil and evening primrose oil increases plasma docosahexaenoic acid, gamma-linolenic acid and dihomo-gamma-linolenic acid levels without reducing arachidonic acid concentrations",
+      "summary": "Combined fish oil and evening primrose oil supplementation effectively increases GLA and DGLA levels in healthy women without negatively impacting arachidonic acid concentrations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17678567/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of supplementation with fish oil-derived n-3 fatty acids and gamma-linolenic acid on circulating plasma lipids and fatty acid profiles in women",
+      "summary": "GLA supplementation combined with fish oil demonstrates lipid-modifying and anti-inflammatory properties in women, with synergistic effects when used together.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12499320/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report GLA as a beneficial supplement, particularly when combined with fish oil, noting improvements in inflammatory conditions and hormonal balance. Most feedback emphasizes its value as part of a comprehensive supplement stack rather than as a standalone intervention."
+  },
+  "effects": [
+    {
+      "label": "Combination Therapy:",
+      "description": "Most effective when combined with fish oil/omega-3s rather than used alone, as the two types of fatty acids work synergistically"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Delta-6-desaturase activity varies among individuals, making GLA more beneficial for those with reduced enzyme activity due to aging, nutrient deficiency, or other factors"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Effects on inflammation and skin health typically require consistent use over several weeks to months"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Clinical studies suggest 125-500mg daily as effective doses, with higher amounts not necessarily providing additional benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "125-500mg daily appears to be the most commonly recommended range based on user reports and clinical data"
+    },
+    {
+      "label": "Source Considerations:",
+      "description": "Evening primrose oil (7-14% GLA), borage oil (20-27% GLA), and black currant oil (15-20% GLA) are primary sources with varying concentrations"
+    },
+    {
+      "label": "Timing:",
+      "description": "Can be taken at any time of day with food for better absorption, no specific timing requirements noted"
+    },
+    {
+      "label": "Stacking Protocol:",
+      "description": "Often combined with fish oil at ratios suggested by healthcare providers, typically alongside the omega-3 supplementation regimen"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal to no side effects when used at recommended doses"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Rare reports of mild gastrointestinal discomfort, particularly at higher doses or when first starting supplementation"
+    },
+    {
+      "label": "Interaction Concerns:",
+      "description": "May interact with blood thinners or medications affecting prostaglandin pathways"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Supplement quality and source matter; evening primrose, borage, and black currant oils have different GLA concentrations and additional medicinal properties"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Sources:",
+      "description": "Available as evening primrose oil, borage oil, black currant oil, and hemp seed oil supplements at most pharmacies and health stores"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Users emphasize importance of choosing reputable brands with third-party testing for purity and GLA content"
+    },
+    {
+      "label": "Cost-Effective Option:",
+      "description": "Generally less expensive than fish oil supplements, making it an affordable addition to omega fatty acid supplementation protocols"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "SAME",
+      "slug": "same"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    }
+  ]
+}

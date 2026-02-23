@@ -1,0 +1,155 @@
+{
+  "slug": "omega-3",
+  "url": "https://dopamine.club/substances/omega-3/",
+  "scrapedAt": "2026-02-12T16:10:17.738Z",
+  "title": "OMEGA-3",
+  "description": "Omega-3 fatty acids are essential polyunsaturated fatty acids, primarily EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid), found in fish oil and marine sources, plus ALA (alpha-linolenic acid) from plant sources. They serve critical roles in brain function, cardiovascular health, and reducing inflammation throughout the body. The body cannot produce omega-3s efficiently, making dietary intake or supplementation necessary for optimal health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+      "summary": "Large systematic review of 86 studies with 162,796 participants found that omega-3 supplementation provides cardiovascular benefits, particularly in people with heart disease or high triglycerides, though evidence for primary prevention in healthy individuals is less clear.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30019766/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Omega-3 fatty acid supplementation and fecundability",
+      "summary": "Prospective study of 900 women found that omega-3 supplement use was associated with increased probability of natural conception, suggesting reproductive benefits beyond cardiovascular health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35147198/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Omega-3 fatty acids supplements for dry eye - Are they effective or ineffective",
+      "summary": "Randomized controlled study of 470 VDT users found that omega-3 supplementation (EPA 180mg + DHA 120mg twice daily) significantly improved dry eye symptoms, tear film quality, and omega-3 index compared to placebo over 6 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37026312/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Critical Differences Between Dietary Supplement and Prescription Omega-3 Fatty Acids",
+      "summary": "Review highlighting that prescription omega-3 products are FDA-approved for severe hypertriglyceridemia with consistent quality and dosing, while dietary supplement omega-3s have insufficient and inconsistent evidence for clinical benefits due to variable quality and content.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31919792/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of omega-3, DHA, EPA, Souvenaid in Alzheimer's disease: A systematic review and meta-analysis",
+      "summary": "Meta-analysis examining omega-3 supplementation in Alzheimer's disease found some evidence for cognitive benefits, particularly with DHA-rich formulations, though effects were modest and varied by disease stage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38924283/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Potential Uses of Omega-3 Fatty Acids in Dermatology",
+      "summary": "Review of 38 studies found omega-3 supplementation benefits for psoriasis, atopic dermatitis, acne, skin ulcers, reduced skin cancer incidence, and decreased severity of drug-associated skin side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32463305/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Multi-Year Rancidity Analysis of 72 Marine and Microalgal Oil Omega-3 Supplements",
+      "summary": "Analysis of 72 omega-3 supplements from 2014-2020 revealed significant variability in oxidation levels, with many products exceeding recommended freshness standards, highlighting the importance of quality testing and proper storage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37712532/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bioavailability and conversion of plant based sources of omega-3 fatty acids",
+      "summary": "Scoping review found that while plant-based ALA can convert to EPA and DHA, conversion rates are limited (under 15%), and marine or algal sources provide more direct and bioavailable EPA/DHA for vegetarians and vegans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33576691/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users overwhelmingly report benefits from omega-3 supplementation, particularly for mood, cognitive function, inflammation, and cardiovascular health. While some users don't notice acute effects, the majority view it as essential long-term supplementation with minimal side effects, though quality and sourcing concerns are frequently mentioned."
+  },
+  "effects": [
+    {
+      "label": "Timeline:",
+      "description": "Most users report noticeable mood benefits within 2-4 weeks, though cardiovascular and anti-inflammatory effects may take months to manifest measurably"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Approximately 30% of users report no noticeable subjective effects despite taking recommended doses, though objective biomarkers often still improve"
+    },
+    {
+      "label": "Deficiency Response:",
+      "description": "Users with pre-existing omega-3 deficiency or inflammatory conditions report most dramatic benefits, while those with adequate dietary intake see more subtle improvements"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Users emphasize that third-party tested, triglyceride-form omega-3s produce better results than cheap ethyl ester forms, despite higher cost"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most users take 1-3g combined EPA/DHA daily, with 2-2.5g being the most commonly reported effective dose for general health"
+    },
+    {
+      "label": "High Dose Protocol:",
+      "description": "Some users take 4-8g daily for specific conditions like severe inflammation or mood disorders, reporting enhanced benefits without side effects"
+    },
+    {
+      "label": "EPA/DHA Ratio:",
+      "description": "Users targeting mood benefits prefer higher EPA (1000-2000mg EPA with 500-700mg DHA), while cognitive function seekers prefer higher DHA ratios"
+    },
+    {
+      "label": "Timing:",
+      "description": "Most take with meals to reduce fishy burps and improve absorption, with evening dosing popular for those using it for mood and sleep quality"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Fishy Burps:",
+      "description": "Most common complaint, largely mitigated by taking with food, choosing high-quality products, or refrigerating capsules"
+    },
+    {
+      "label": "Blood Thinning:",
+      "description": "Users taking high doses (>5g/day) report increased bleeding tendency and nosebleeds due to anticoagulant effects"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users experience nausea or loose stools, particularly with cheap brands or when taken on empty stomach"
+    },
+    {
+      "label": "Minimal Negatives:",
+      "description": "Overall, omega-3 has one of the best side effect profiles among supplements, with most users reporting zero negative effects at standard doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Recommendations:",
+      "description": "quality brands frequently recommended for quality-to-price ratio, with emphasis on IFOS or third-party testing"
+    },
+    {
+      "label": "Form Preference:",
+      "description": "Users strongly prefer triglyceride form over ethyl ester for better absorption and stability, with some choosing liquid cod liver oil despite taste for cost and vitamin content"
+    },
+    {
+      "label": "Cost Optimization:",
+      "description": "Bulk buying during sales is common, with users reporting major retailers brand provides excellent value at $0.50-1.00 per serving for adequate EPA/DHA doses"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "CALCIUM ALPHA-KETOGLUTARATE",
+      "slug": "calcium-alpha-ketoglutarate"
+    },
+    {
+      "name": "COCOA FLAVANOLS",
+      "slug": "cocoa-flavanols"
+    }
+  ]
+}

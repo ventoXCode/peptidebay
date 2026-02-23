@@ -1,0 +1,161 @@
+{
+  "slug": "daidzein",
+  "url": "https://dopamine.club/substances/daidzein/",
+  "scrapedAt": "2026-02-12T16:07:02.130Z",
+  "title": "DAIDZEIN",
+  "description": "Daidzein is an isoflavone phytoestrogen primarily found in soybeans and legumes that acts as a selective estrogen receptor modulator (SERM). It exerts its effects through binding to estrogen receptors, antioxidant activity, and anti-inflammatory mechanisms, while being metabolized by gut bacteria into bioactive compounds like equol. Traditionally used for menopausal symptoms, it shows therapeutic potential for cardiovascular health, bone density, metabolic disorders, and inflammation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Daidzein from Dietary Supplement to a Drug Candidate: An Evaluation of Potential",
+      "summary": "Comprehensive evaluation showing daidzein's transition from nutraceutical to drug candidate, with documented effects on cardiovascular disease, diabetes, cancer, and neurodegenerative disorders through estrogen receptor modulation and anti-inflammatory pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37780202/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Utilization of Isoflavones in Soybeans for Women with Menopausal Syndrome: An Overview",
+      "summary": "Reviews the use of soy isoflavones including daidzein for menopausal symptoms, detailing processing methods, extraction techniques, and biological activity of daidzein and its metabolite S-equol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33809928/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Isoflavone Supplements for Menopausal Women: A Systematic Review",
+      "summary": "Systematic review of 68 studies showing isoflavones including daidzein reduce hot flashes in menopausal women, though effects were small and primarily limited to lumbar vertebrae for bone health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31689947/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Daidzein alleviates ethanol-induced acute gastric injury in rats by targeting ESR1 and activating the PI3K/AKT/CREB signaling pathway",
+      "summary": "Demonstrated that daidzein protects against gastric injury through estrogen receptor-1 targeting and activation of protective cellular signaling pathways, showing therapeutic potential for gastrointestinal disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40466503/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Daidzein regulates proinflammatory adipokines thereby improving obesity-related inflammation through PPARγ",
+      "summary": "Study showing daidzein acts as a PPARγ activator, reducing inflammatory adipokines and improving insulin sensitivity in obese mice while preventing fat cell hypertrophy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24343975/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of daidzein on antioxidant capacity in weaned pigs and IPEC-J2 cells",
+      "summary": "72-day trial demonstrating that dietary daidzein supplementation significantly improved growth performance and antioxidant capacity in pigs through enhanced cellular antioxidant mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36091258/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Daidzein supplementation improved fecundity in sows via modulation of ovarian oxidative stress and inflammation",
+      "summary": "Research showing daidzein supplementation improved reproductive outcomes by reducing ovarian oxidative stress and inflammation, supporting normal ovarian hormone secretion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36049671/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Daidzein ameliorates experimental acute reflux esophagitis in rats via regulation of cytokines",
+      "summary": "Study demonstrating daidzein's protective effects against esophageal reflux through antioxidant activity, reduced lipid peroxidation, and restoration of enzymatic antioxidants in a dose-dependent manner.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33714284/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Association between daidzein intake and metabolic associated fatty liver disease: A cross-sectional study from NHANES 2017-2018",
+      "summary": "Cross-sectional analysis of 1,476 participants showing relationship between dietary daidzein intake and metabolic fatty liver disease markers, suggesting potential therapeutic applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36860686/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences with daidzein are limited in the Reddit data provided, with most discussion appearing in combination with other PCOS supplements. The one user reporting positive effects on PCOS symptoms (improved cycle regulation, reduced inflammation) noted benefits when combined with multiple other compounds, making isolated daidzein effects difficult to determine."
+  },
+  "effects": [
+    {
+      "label": "PCOS Management:",
+      "description": "User reports suggest benefits for polycystic ovarian syndrome when combined with myo-inositol and other supplements, though isolated effects unclear"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Research shows biological activity increases with dosage, with studies using 50-500mg showing various metabolic and hormonal effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness may depend on gut bacteria ability to convert daidzein to equol, a more bioactive metabolite"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Most positive user experiences involve daidzein as part of comprehensive supplement protocols rather than standalone use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplement Dose:",
+      "description": "50mg daily commonly mentioned in PCOS protocols and research studies on menopausal symptoms"
+    },
+    {
+      "label": "Research Dosages:",
+      "description": "Studies use ranges from 50mg to 500mg daily depending on application and formulation"
+    },
+    {
+      "label": "Combined Protocols:",
+      "description": "Users typically take daidzein alongside other isoflavones (genistein) in soy supplement formulations"
+    },
+    {
+      "label": "Long-term Use:",
+      "description": "Research and user experiences suggest sustained supplementation over months for hormonal and metabolic effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormonal Concerns:",
+      "description": "As a phytoestrogen, potential concerns exist for hormone-sensitive conditions, though research shows complex SERM activity"
+    },
+    {
+      "label": "Reproductive Effects:",
+      "description": "Studies note developmental exposure concerns, though adult supplementation appears well-tolerated in research"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Theoretical interactions with hormone therapies and anticoagulants due to vitamin K content in source materials"
+    },
+    {
+      "label": "Metabolic Variability:",
+      "description": "Individual responses vary based on gut microbiome's ability to produce equol metabolite"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Sources:",
+      "description": "Naturally abundant in soybeans, soy products, and legumes as part of normal diet"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as isolated daidzein or combined soy isoflavone supplements containing both daidzein and genistein"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally recognized as safe (GRAS) as a food component, widely available as dietary supplement without prescription"
+    }
+  ],
+  "related": [
+    {
+      "name": "EPA",
+      "slug": "epa"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

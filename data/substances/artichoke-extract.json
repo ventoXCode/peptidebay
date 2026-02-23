@@ -1,0 +1,156 @@
+{
+  "slug": "artichoke-extract",
+  "url": "https://dopamine.club/substances/artichoke-extract/",
+  "scrapedAt": "2026-02-12T16:05:54.254Z",
+  "title": "ARTICHOKE EXTRACT",
+  "description": "Artichoke Extract, derived from Cynara scolymus leaves, is a supplement rich in polyphenolic compounds, particularly chlorogenic acid and cynarin. It primarily works by supporting liver function, promoting healthy lipid metabolism, and providing antioxidant effects. Commonly used for cholesterol management, digestive health, and metabolic support.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of artichoke leaf extract supplementation or artichoke juice consumption on lipid profile: A systematic review and dose-response meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis of 14 studies found that artichoke extract significantly improves lipid profiles, reducing total cholesterol, LDL cholesterol, and triglycerides while potentially increasing HDL cholesterol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34569671/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Clinical Trial on the Effect of a Dietary Supplement Containing Dry Artichoke and Bergamot Extracts on Metabolic and Vascular Risk Factors",
+      "summary": "Six-week trial showed that artichoke combined with bergamot extract significantly improved triglycerides, apolipoprotein B-100, and apolipoprotein AI levels in adults with suboptimal cholesterol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38892519/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antioxidant response to artichoke leaf extract supplementation in metabolic syndrome: A double-blind placebo-controlled randomized clinical trial",
+      "summary": "Study of 80 metabolic syndrome patients found that 1800mg daily artichoke leaf extract significantly reduced oxidative stress indices and improved antioxidant status.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28410922/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Luteolin-Enriched Artichoke Leaf Extract Alleviates the Metabolic Syndrome in Mice with High-Fat Diet-Induced Obesity",
+      "summary": "16-week animal study demonstrated that luteolin-enriched artichoke extract decreased adiposity and dyslipidemia by reducing lipogenesis and increasing energy expenditure in obese mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30060507/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective effect of artichoke (Cynara scolymus) leaf extract against lead toxicity in rat",
+      "summary": "Animal study showed that artichoke extract significantly reduced serum lead, triglycerides, liver enzymes, and oxidative stress markers, demonstrating protective effects against heavy metal toxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23745593/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of a novel nutraceutical combination on low-density lipoprotein cholesterol and other markers of cardiometabolic health in adults with hypercholesterolaemia",
+      "summary": "Randomized trial demonstrated that a combination including artichoke leaf extract, plant sterols, and bergamot significantly lowered LDL cholesterol and improved cardiometabolic markers in adults with mild hypercholesterolemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40147213/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Functional and Therapeutic Potential of Cynara scolymus in Health Benefits",
+      "summary": "Comprehensive review highlighting that artichoke's high polyphenol content provides multiple health benefits including metabolic support, anti-inflammatory effects, and potential longevity enhancement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38542782/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective effects of artichoke extract and Bifidobacterium longum on male infertility in diabetic rats",
+      "summary": "Study showed artichoke hydroalcoholic extract improved sexual hormones, reduced oxidative stress, and decreased apoptosis in testicular tissue of diabetic rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39386078/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report artichoke extract as effective primarily for cholesterol management and liver health, with consistent scientific backing. Most appreciate its cardiovascular benefits and general tolerability, though individual results vary."
+  },
+  "effects": [
+    {
+      "label": "Lipid Profile Improvement:",
+      "description": "Meta-analyses confirm significant effects on cholesterol when combined with other nutraceuticals like bergamot or plant sterols"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Studies show clear dose-response relationships, with higher doses (1800mg daily) providing more pronounced benefits"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works particularly well when combined with other compounds like bergamot extract, plant sterols, or probiotics for enhanced metabolic benefits"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Most clinical benefits observed within 4-6 weeks of consistent supplementation, with oxidative stress improvements appearing earlier"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "300-1800mg daily of standardized leaf extract, typically containing 5% chlorogenic acid"
+    },
+    {
+      "label": "Cholesterol Support:",
+      "description": "600-1800mg daily divided into 2-3 doses with meals for lipid management"
+    },
+    {
+      "label": "Metabolic Syndrome:",
+      "description": "1800mg daily appears optimal based on clinical trials for comprehensive metabolic benefits"
+    },
+    {
+      "label": "Combination Formulas:",
+      "description": "Lower doses (300-600mg) effective when combined with complementary ingredients like bergamot or plant sterols"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Effects:",
+      "description": "Mild gastrointestinal discomfort, bloating, or changes in bowel movements reported occasionally"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Studies and users report minimal side effects, with most being mild and transient"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Rare cases of allergic responses in individuals sensitive to plants in the Asteraceae family"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with cholesterol medications and blood thinners should be monitored"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in most supplement retailers, both online and in stores, as standardized leaf extracts"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Extract standardization matters - look for products standardized to chlorogenic acid or cynarin content for consistent results"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Commonly formulated with bergamot, plant sterols, or other cardiovascular support ingredients for enhanced benefits"
+    }
+  ],
+  "related": [
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "OLIVE LEAF EXTRACT",
+      "slug": "olive-leaf-extract"
+    }
+  ]
+}

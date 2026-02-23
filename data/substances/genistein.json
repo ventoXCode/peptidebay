@@ -1,0 +1,155 @@
+{
+  "slug": "genistein",
+  "url": "https://dopamine.club/substances/genistein/",
+  "scrapedAt": "2026-02-12T16:07:59.289Z",
+  "title": "GENISTEIN",
+  "description": "Genistein is a naturally occurring isoflavone phytoestrogen primarily found in soy and legumes, with a chemical structure similar to mammalian estrogens. It functions through multiple mechanisms including estrogen receptor modulation, antioxidant activity, and anti-inflammatory pathways (NF-κB inhibition, prostaglandin reduction). Research has investigated its potential in cancer prevention, cardiovascular health, bone health, cognitive function, and metabolic disorders.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Genistein effect on cognition in prodromal Alzheimer's disease patients. The GENIAL clinical trial",
+      "summary": "Clinical trial investigating genistein's effects on cognitive function in patients with prodromal Alzheimer's disease, showing potential benefits in delaying cognitive decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36329553/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Genistein, A Phytoestrogen, Delays the Transition to Dementia in Prodromal Alzheimer's Disease Patients",
+      "summary": "Study demonstrating that genistein supplementation can delay the progression from prodromal Alzheimer's disease to dementia in patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39422955/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Genistein: An Integrative Overview of Its Mode of Action, Pharmacological Properties, and Health Benefits",
+      "summary": "Comprehensive review of genistein's anti-inflammatory, antioxidant, and anticancer properties through inhibition of NF-κB and other signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34336089/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Understanding genistein in cancer: The 'good' and the 'bad' effects: A review",
+      "summary": "Critical review examining both beneficial anticancer effects and potential concerns of genistein across multiple cancer types including breast, prostate, and colon cancers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26593532/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Genistein as a dietary supplement; formulation, analysis and pharmacokinetics study",
+      "summary": "Study optimizing genistein formulation in capsules, showing improved pharmacokinetic profile with 34% higher maximum concentration compared to commercial products.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33905453/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Genistein attenuates oxidative damage in preeclamptic placental trophoblast",
+      "summary": "Research demonstrating genistein's ability to control oxidative and nitrative stress in preeclampsia, suggesting potential as a therapeutic dietary supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26930382/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Genistein genotoxicity: critical considerations of in vitro exposure dose",
+      "summary": "Critical analysis showing that many reported genotoxic effects of genistein occur only at non-physiological concentrations (>5 μM), far higher than achievable through dietary intake.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17688899/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Genistein administered as a once-daily oral supplement had no beneficial effect on the tibia in rat models for postmenopausal bone loss",
+      "summary": "Long-term study in rats showing genistein supplementation failed to prevent bone loss in multiple models of postmenopausal osteoporosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23385720/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User feedback discussions show minimal direct user experience with genistein supplementation. The available data focuses on other supplements with limited genistein mentions in broader biohacking contexts, suggesting low mainstream adoption despite scientific research interest."
+  },
+  "effects": [
+    {
+      "label": "Alzheimer's Disease:",
+      "description": "Clinical trials show promise in delaying transition to dementia in prodromal patients"
+    },
+    {
+      "label": "Cancer Prevention:",
+      "description": "Mixed evidence with benefits demonstrated in vitro but questions about optimal dosing and long-term safety"
+    },
+    {
+      "label": "Bone Health:",
+      "description": "Failed to show benefits in preventing postmenopausal bone loss in animal models despite earlier promising research"
+    },
+    {
+      "label": "Dose-Dependent Effects:",
+      "description": "Many beneficial effects observed in research require specific concentration ranges, with concerns about toxicity at high doses"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Pharmacokinetic Studies:",
+      "description": "Optimized formulations achieve 34% higher plasma concentrations than standard commercial products"
+    },
+    {
+      "label": "Safety Threshold:",
+      "description": "In vitro studies suggest concentrations above 5 μM are non-physiological and potentially genotoxic"
+    },
+    {
+      "label": "Clinical Trials:",
+      "description": "Specific dosages used in Alzheimer's trials not detailed in abstracts but formulated for once-daily administration"
+    },
+    {
+      "label": "Dietary Intake:",
+      "description": "Natural consumption through soy foods provides significantly lower concentrations than supplement doses"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Genotoxicity Concerns:",
+      "description": "Potential DNA damage at high concentrations (>5 μM) not achievable through normal dietary intake"
+    },
+    {
+      "label": "Estrogenic Effects:",
+      "description": "As a phytoestrogen, may have hormonal effects requiring consideration in sensitive populations"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Most safety data comes from animal studies or in vitro research rather than long-term human trials"
+    },
+    {
+      "label": "Cancer Paradox:",
+      "description": "Dual nature as both potential cancer preventive and cancer promoter depending on context and concentration"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Sources:",
+      "description": "Naturally abundant in soy products and legumes, readily available through food"
+    },
+    {
+      "label": "Supplement Formulations:",
+      "description": "Available as isolated supplements with varying bioavailability depending on formulation quality"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Significant variation in pharmacokinetic profiles between different commercial products"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

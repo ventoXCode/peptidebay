@@ -1,0 +1,156 @@
+{
+  "slug": "taurine",
+  "url": "https://dopamine.club/substances/taurine/",
+  "scrapedAt": "2026-02-12T16:11:37.210Z",
+  "title": "TAURINE",
+  "description": "Taurine is a sulfur-containing amino acid that acts as a modulator of cellular function throughout the body. It supports GABA receptor activity, regulates calcium signaling in cells, and plays roles in cardiovascular function, neuroprotection, and cellular stress response. Taurine is found naturally in the body and obtained through diet, but can also be supplemented for various health benefits including exercise performance, metabolic health, and potentially longevity.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Taurine deficiency as a driver of aging",
+      "summary": "Taurine supplementation increased median lifespan in mice by 10-12% and demonstrated that taurine deficiency may be a key driver of aging processes across multiple species.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37289866/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Functional Role of Taurine in Aging and Cardiovascular Health: An Updated Overview",
+      "summary": "Comprehensive review demonstrating taurine's beneficial effects on cardiovascular pathophysiology, metabolic regulation, and aging-related processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37836520/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of an Oral Taurine Dose and Supplementation Period on Endurance Exercise Performance in Humans: A Meta-Analysis",
+      "summary": "Meta-analysis showing that taurine supplementation significantly improves endurance exercise performance, with effects varying by dose and supplementation period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29546641/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Taurine reduces the risk for metabolic syndrome: a systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Systematic review finding that taurine supplementation significantly reduces risk factors associated with metabolic syndrome including triglycerides and cholesterol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38755142/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Long-Term Taurine Supplementation on the Lipid and Glycaemic Profile in Adults with Overweight or Obesity",
+      "summary": "Taurine supplementation significantly decreased triglycerides, total cholesterol, and fasting insulin levels in adults with overweight or obesity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39796489/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of taurine supplementation on cognitive function: a systematic review and meta-analysis of randomised controlled trials",
+      "summary": "Meta-analysis showing taurine alone did not significantly improve cognitive scores, but combination with therapeutic drugs enhanced Mini-Mental State Examination performance in some populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40320621/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Taurine and skeletal muscle function",
+      "summary": "Review establishing that normal taurine levels are essential for proper skeletal muscle function, including calcium-dependent excitation-contraction processes and cellular volume regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25415270/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitigation of aging-related plasticity decline through taurine supplementation and environmental enrichment",
+      "summary": "Study demonstrating that taurine supplementation helps mitigate age-related declines in brain plasticity and can restore neural function in aging animals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39174711/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users overwhelmingly report positive experiences with taurine, particularly for anxiety reduction, improved sleep quality, enhanced focus, and better recovery. Most users describe it as a 'game changer' or 'miracle supplement' with few reporting significant negative effects."
+  },
+  "effects": [
+    {
+      "label": "Rapid Onset:",
+      "description": "Many users notice effects within the first day of supplementation, with consistent benefits building over weeks"
+    },
+    {
+      "label": "Longevity Benefits:",
+      "description": "Based on 2023 Science paper showing 10-12% lifespan increase in mice, users are taking it specifically for anti-aging"
+    },
+    {
+      "label": "Exercise Performance:",
+      "description": "Users report improved recovery, reduced soreness, increased strength, and better endurance during workouts"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "While majority report positive effects, some users notice minimal to no effects, suggesting genetic or metabolic variability"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily:",
+      "description": "500mg-1000mg is the most commonly reported effective dose for anxiety and general benefits"
+    },
+    {
+      "label": "Higher Therapeutic:",
+      "description": "1500mg-3000mg daily used for enhanced effects, longevity benefits, and metabolic support"
+    },
+    {
+      "label": "Timing:",
+      "description": "Most effective when taken before bed for sleep benefits, or 30-60 minutes before social situations for anxiety"
+    },
+    {
+      "label": "Mega-Dosing:",
+      "description": "Some users report 4g doses for acute effects, though this is less common and may carry tolerance risks"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Tolerance Development:",
+      "description": "Some users report rebound anxiety or diminished effects with daily use due to GABA receptor downregulation"
+    },
+    {
+      "label": "Vivid Dreams:",
+      "description": "Occasional reports of unusually vivid or intense dreams, particularly when combined with magnesium glycinate"
+    },
+    {
+      "label": "Stimulation Paradox:",
+      "description": "While most find it calming, some users report it keeps them awake or causes alertness rather than sedation"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "The majority report no serious side effects at doses up to 3g daily, with most issues being mild"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Inexpensive and readily available in bulk powder form or capsules from major supplement retailers"
+    },
+    {
+      "label": "Pure Powder Preferred:",
+      "description": "Users recommend buying pure taurine powder by the kilogram for cost-effectiveness versus capsules"
+    },
+    {
+      "label": "Energy Drink Source:",
+      "description": "Red Bull contains 1g per can, which some users initially discovered as effective before switching to supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA LIPOIC ACID",
+      "slug": "alpha-lipoic-acid"
+    },
+    {
+      "name": "BETA-ALANINE",
+      "slug": "beta-alanine"
+    },
+    {
+      "name": "COQ10",
+      "slug": "coq10"
+    },
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    },
+    {
+      "name": "L-CARNITINE",
+      "slug": "l-carnitine"
+    }
+  ]
+}

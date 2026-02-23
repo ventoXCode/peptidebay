@@ -1,0 +1,161 @@
+{
+  "slug": "nadh",
+  "url": "https://dopamine.club/substances/nadh/",
+  "scrapedAt": "2026-02-12T16:10:10.054Z",
+  "title": "NADH",
+  "description": "NADH (nicotinamide adenine dinucleotide hydride) is the reduced form of NAD+, a critical coenzyme involved in cellular energy production, redox reactions, and mitochondrial function. It plays a fundamental role in ATP synthesis through oxidative phosphorylation and serves as an electron carrier in metabolic pathways. NADH is investigated for its potential to enhance cellular energy, combat age-related NAD+ decline, and support cognitive and physical performance.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Report of a Randomized Placebo-Controlled Trial of the Effects of Oral NADH on Physical Endurance Levels",
+      "summary": "A 3-week study found that 40mg/day sublingual NADH supplementation significantly improved physical endurance (+25.6% PWC170) and aerobic capacity (+23.9% VO2max) in healthy young adults, with enhanced cardiovascular recovery and reduced stress response.",
+      "url": "https://www.ej-med.org/index.php/ejmed/article/view/2395",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of safety and effectiveness of NAD in different clinical conditions: a systematic review",
+      "summary": "A systematic review of randomized clinical trials examining NAD+ and NADH supplementation across multiple health conditions, evaluating safety profiles and therapeutic effectiveness in human subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37971292/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The efficacy and safety of β-nicotinamide mononucleotide (NMN) supplementation in healthy middle-aged adults",
+      "summary": "A multicenter, double-blind, placebo-controlled trial demonstrated the safety and dose-dependent effects of NMN supplementation (a NAD+ precursor) in healthy middle-aged adults across multiple metabolic parameters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36482258/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women",
+      "summary": "A 10-week trial showed that NMN supplementation (250mg/day) significantly improved muscle insulin sensitivity in prediabetic postmenopausal women, demonstrating metabolic benefits of NAD+ precursor supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33888596/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "NAD+ and sirtuins in aging and disease",
+      "summary": "Review article establishing that NAD+ levels decline during aging and may contribute to age-associated pathologies, while NAD+ restoration through supplementation can ameliorate many age-related functional defects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24786309/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Dietary Coenzyme Q10 Plus NADH Supplementation on Fatigue Perception in Individuals with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+      "summary": "A randomized, double-blind, placebo-controlled trial found that combined CoQ10 and NADH supplementation improved perceived fatigue and health-related quality of life in patients with chronic fatigue syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34444817/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "NAD+ supplementation reduces neuroinflammation and cell senescence in a transgenic mouse model of Alzheimer's disease via cGAS-STING",
+      "summary": "Study demonstrated that NAD+ supplementation reduced neuroinflammation and cellular senescence in Alzheimer's disease models, suggesting neuroprotective effects through modulation of inflammatory pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34497121/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Human ovarian aging is characterized by oxidative damage and mitochondrial dysfunction",
+      "summary": "Research identified that human ovarian aging involves NAD+ decline, oxidative damage, and mitochondrial dysfunction, highlighting the role of NAD+ metabolism in age-related reproductive decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37671592/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "What is really known about the effects of nicotinamide riboside supplementation in humans",
+      "summary": "Critical review of 25 clinical trials concluded that NAD+ precursor supplementation has shown few clinically relevant effects in humans, with a tendency in literature to exaggerate reported benefits, though some potential exists for reducing inflammatory states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37478182/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User sentiment is genuinely mixed, with NAD+ precursors showing promise in specific contexts but limited consistent benefits across general populations. While some users report improvements in energy and cognitive function, scientific reviews indicate that clinical evidence remains underwhelming, and long-term supplementation requires monitoring for potential mineral depletion."
+  },
+  "effects": [
+    {
+      "label": "Age-Related Decline:",
+      "description": "NAD+ levels decrease with age in multiple tissues (skin, blood, liver, muscle, brain), but human clinical evidence for supplementation reversing this is limited and inconsistent"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Clinical trials show significant inter-individual variability in response to NAD+ precursor supplementation, with benefits more pronounced in metabolically compromised individuals"
+    },
+    {
+      "label": "Tissue Specificity:",
+      "description": "Effects appear highly tissue-specific, with muscle showing better response than other tissues; blood markers don't always reflect intracellular changes"
+    },
+    {
+      "label": "Scientific Consensus:",
+      "description": "Recent systematic reviews indicate that while NAD+ biology is well-established, actual clinical benefits from oral supplementation remain modest and overstated in popular literature"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "NADH:",
+      "description": "40mg/day sublingual for physical performance enhancement, typically taken for 3+ weeks to see effects"
+    },
+    {
+      "label": "NMN:",
+      "description": "250mg/day for metabolic benefits, up to 500mg/day in some trials; dose-dependent effects observed"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Some users report taking NAD+ precursors 5 days on, 2 days off to prevent potential mineral depletion and maintain effectiveness"
+    },
+    {
+      "label": "Duration Considerations:",
+      "description": "Clinical trials range from 10 weeks to several months; long-term use (2+ years) may require trace mineral supplementation to prevent deficiencies"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mineral Depletion:",
+      "description": "Long-term NAD+ precursor use may deplete trace minerals (zinc, copper, selenium), potentially causing skin changes, hair whitening, and fatigue"
+    },
+    {
+      "label": "Gastrointestinal:",
+      "description": "NAC and some NAD+ precursors can affect intestinal mucosa over time; minimal GI effects reported with NADH/NMN specifically"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Some users report feeling nothing or mild nausea, while others experience significant benefits; highly variable individual response"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Generally well-tolerated in clinical trials with no serious adverse events, though long-term human safety data beyond 2 years remains limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Status:",
+      "description": "NADH and NMN are available as dietary supplements in most jurisdictions, though FDA has questioned NMN's supplement status due to prior drug investigation"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Significant variation in product quality and bioavailability across brands; sublingual forms may have better absorption than oral capsules"
+    },
+    {
+      "label": "Cost Factor:",
+      "description": "NAD+ precursors are relatively expensive supplements, with monthly costs ranging from moderate to high depending on dosage and brand selection"
+    }
+  ],
+  "related": [
+    {
+      "name": "OXALOACETATE",
+      "slug": "oxaloacetate"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "FAD",
+      "slug": "fad"
+    },
+    {
+      "name": "FISETIN",
+      "slug": "fisetin"
+    },
+    {
+      "name": "FMN",
+      "slug": "fmn"
+    }
+  ]
+}

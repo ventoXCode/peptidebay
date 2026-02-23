@@ -1,0 +1,143 @@
+{
+  "slug": "trh",
+  "url": "https://dopamine.club/substances/trh/",
+  "scrapedAt": "2026-02-12T16:11:53.045Z",
+  "title": "TRH",
+  "description": "TRH (Thyrotropin-Releasing Hormone) is a hypothalamic peptide hormone that regulates thyroid function by stimulating the pituitary to release thyroid-stimulating hormone (TSH). It plays a crucial role in the hypothalamic-pituitary-thyroid axis and has additional neurophysiological effects in the brain, including modulation of mood, energy, and cognitive function. TRH is primarily used medically as a diagnostic tool for thyroid disorders and central hypothyroidism.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Link between Thyroid Function and Depression",
+      "summary": "Reviews the relationship between thyroid function and depression, noting that thyroid hormone supplements appear to accelerate and enhance clinical response to antidepressant drugs, and that various thyroid abnormalities including blunted TSH response to TRH are commonly documented in depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22220285/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rapid modulation of TRH-like peptides in rat brain by thyroid hormones",
+      "summary": "Demonstrates that TRH and TRH-like peptides in brain regions involved in mood regulation respond rapidly to thyroid hormone changes within 2 hours, suggesting non-genomic mechanisms may contribute to psychiatric effects of thyroid disease and thyroid hormone treatment for depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16310891/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "TRH Action Is Impaired in Pituitaries of Male IGSF1-Deficient Mice",
+      "summary": "Studies loss-of-function mutations in IGSF1 gene that cause central hypothyroidism, examining how TRH action is affected in thyrotrope cells and the mechanisms underlying TSH production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28324000/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A novel TRH-PFTAIRE protein kinase 1 pathway in the cerebellum",
+      "summary": "Identifies a molecular pathway showing TRH regulates PFTAIRE protein kinase 1 (PFTK1) in the cerebellum in a dose-dependent manner, providing insights into TRH's neurophysiological actions in the brain beyond thyroid regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12072416/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cyclo(His-Pro) Exerts Protective Carbonyl Quenching Effects through Its Open Histidine Containing Dipeptides",
+      "summary": "Examines cyclo(His-Pro), a cyclic dipeptide found in protein-rich foods with favorable pharmacokinetic properties and various biological activities, including antioxidant and protective effects through its open dipeptide forms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35565743/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Thyrotropin-releasing hormone gene expression in the anterior pituitary: Stimulation by glucocorticoids",
+      "summary": "Shows that glucocorticoids substantially stimulate TRH gene expression and cellular TRH accumulation in cultured anterior pituitary cells, revealing hormonal regulation of TRH production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8299577/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User feedback discussions show minimal direct user experience with TRH as a supplement. The few mentions relate to medical contexts (treatment-resistant hypertension abbreviation confusion) or tangential references in discussions about thyroid function and depression, suggesting TRH is not commonly used or discussed as a consumer supplement."
+  },
+  "effects": [
+    {
+      "label": "Clinical Use:",
+      "description": "Primarily used diagnostically in medical settings rather than as a consumer supplement"
+    },
+    {
+      "label": "Depression Treatment:",
+      "description": "Research suggests potential as adjunct to antidepressant therapy, though not commonly prescribed"
+    },
+    {
+      "label": "Thyroid Disorders:",
+      "description": "Effective for diagnosing and understanding central hypothyroidism and thyroid dysfunction"
+    },
+    {
+      "label": "Limited Consumer Data:",
+      "description": "Very little Reddit user experience data available, suggesting minimal recreational or biohacking use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Medical Diagnostic:",
+      "description": "Administered in clinical settings via TRH stimulation tests for thyroid function assessment"
+    },
+    {
+      "label": "Research Context:",
+      "description": "Studies typically examine endogenous TRH levels rather than supplementation dosing"
+    },
+    {
+      "label": "Consumer Unavailability:",
+      "description": "Not commonly available as over-the-counter supplement with established dosing protocols"
+    },
+    {
+      "label": "Prescription Only:",
+      "description": "When used therapeutically, dosing is determined by healthcare providers for specific medical conditions"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Thyroid Dysregulation:",
+      "description": "Improper use could potentially affect thyroid hormone balance"
+    },
+    {
+      "label": "Pituitary Effects:",
+      "description": "May influence prolactin secretion and other pituitary functions"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects likely vary significantly based on existing thyroid status"
+    },
+    {
+      "label": "Limited User Reports:",
+      "description": "Minimal consumer-level side effect data due to restricted availability"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "TRH is primarily available through medical channels for diagnostic purposes rather than as consumer supplement"
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "May be available through research supply channels but not intended for human consumption"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Not commonly found in supplement stores or online retailers as dietary supplement"
+    }
+  ],
+  "related": [
+    {
+      "name": "MAGNESIUM OROTATE",
+      "slug": "magnesium-orotate"
+    },
+    {
+      "name": "METHYLENE BLUE",
+      "slug": "methylene-blue"
+    },
+    {
+      "name": "VITAMIN B COMPLEX",
+      "slug": "vitamin-b-complex"
+    },
+    {
+      "name": "VITAMIN B6 (PYRIDOXINE)",
+      "slug": "vitamin-b6-pyridoxine"
+    },
+    {
+      "name": "VITAMIN B9 (FOLATE)",
+      "slug": "vitamin-b9-folate"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "cat-s-claw",
+  "url": "https://dopamine.club/substances/cat-s-claw/",
+  "scrapedAt": "2026-02-12T16:06:25.923Z",
+  "title": "CAT'S CLAW",
+  "description": "Cat's Claw (Uncaria tomentosa) is a woody vine native to the Amazon rainforest known for its potent anti-inflammatory and immunomodulatory properties. Its mechanisms include the inhibition of NF-kappaB and the reduction of pro-inflammatory cytokines such as IL-6, making it a primary supplement for managing chronic inflammatory conditions and supporting immune health.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Anti-inflammatory and/or immunomodulatory activities of Uncaria tomentosa (cat's claw) extracts: A systematic review and meta-analysis of in vivo studies",
+      "summary": "This meta-analysis confirmed that Cat's Claw significantly reduces pro-inflammatory mediators like IL-6 and NF-κB, validating its traditional use for inflammatory diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38881881/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Uncaria tomentosa (Cat's Claw) Improves Quality of Life in Patients with Advanced Solid Tumors",
+      "summary": "Research indicates that Cat's Claw supplementation significantly reduces fatigue and improves the overall quality of life and social functioning in patients with advanced cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25495394/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally view Cat's Claw as a powerful tool for 'dragging oneself out' of states of severe fatigue and chronic illness, frequently citing its effectiveness in complex recovery stacks."
+  },
+  "effects": [
+    {
+      "label": "Quality of Life:",
+      "description": "Clinical evidence shows it improves social functioning and reduces the 'burden' of chronic disease symptoms."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Users report high effectiveness when paired with lifestyle changes like exercise and specific dietary protocols."
+    },
+    {
+      "label": "Symptom Management:",
+      "description": "While not always 'curing' underlying conditions, it is highly effective at managing secondary symptoms like brain fog and lethargy."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract Dose:",
+      "description": "Many clinical studies utilize 100mg of dry extract taken three times daily."
+    },
+    {
+      "label": "Biohacker Consensus:",
+      "description": "Users often start with lower doses to assess tolerance before moving to standard therapeutic ranges."
+    },
+    {
+      "label": "Tea vs. Capsules:",
+      "description": "Traditional use favors bark tea, but supplement users prefer standardized extracts for consistent alkaloid content."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Sensitivity:",
+      "description": "Some users with sensitive stomachs report mild digestive upset or nausea."
+    },
+    {
+      "label": "Blood Pressure Interaction:",
+      "description": "Potential for hypotensive effects, requiring caution when combined with other blood-pressure-lowering agents."
+    },
+    {
+      "label": "Hormonal Influence:",
+      "description": "Minimal anecdotal reports suggest monitoring mood changes during specific hormonal cycles (e.g., PMDD)."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Widely available as an over-the-counter dietary supplement in most countries."
+    },
+    {
+      "label": "Sourcing Varieties:",
+      "description": "Critical to distinguish between Uncaria tomentosa (preferred) and Uncaria guaianensis, as their chemical profiles differ."
+    }
+  ],
+  "related": [
+    {
+      "name": "CHAGA MUSHROOM",
+      "slug": "chaga-mushroom"
+    },
+    {
+      "name": "CHLORELLA",
+      "slug": "chlorella"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "GAMMA-TOCOPHEROL",
+      "slug": "gamma-tocopherol"
+    },
+    {
+      "name": "OLEUROPEIN",
+      "slug": "oleuropein"
+    }
+  ]
+}

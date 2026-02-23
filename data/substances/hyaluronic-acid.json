@@ -1,0 +1,131 @@
+{
+  "slug": "hyaluronic-acid",
+  "url": "https://dopamine.club/substances/hyaluronic-acid/",
+  "scrapedAt": "2026-02-12T16:08:35.329Z",
+  "title": "HYALURONIC ACID",
+  "description": "Hyaluronic acid (HA) is a glycosaminoglycan naturally present in skin, joints, and connective tissues that plays a crucial role in tissue hydration and cellular processes. It works by binding up to 1000 times its weight in water, providing moisture retention, supporting skin barrier function, and stimulating collagen production. Primarily used in dermatology and cosmetics for skin rejuvenation, anti-aging effects, and improving skin hydration, elasticity, and wound healing.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Oral sodium hyaluronate improves skin hydration, barrier function and signs of aging: a randomized, double-blind, placebo-controlled trial in 150 healthy adults",
+      "summary": "A 12-week trial found that oral sodium hyaluronate at 120 mg/day significantly enhanced skin hydration and elasticity while reducing transepidermal water loss, sebum, and wrinkle depth compared to placebo, with improvements in epidermal thickness and dermal density.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hyaluronic acid, a promising skin rejuvenating biomedicine: A review of recent updates and pre-clinical and clinical investigations on cosmetic and nutricosmetic effects",
+      "summary": "Review of HA formulations showed remarkable anti-wrinkle, anti-aging, and face rejuvenating properties achieved through soft tissue augmentation, improved skin hydration, and collagen and elastin stimulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of hyaluronic acid on skin at the cellular level: a systematic review",
+      "summary": "Systematic review examining cellular-level effects of hyaluronic acid on skin structure and function, confirming its role in tissue regeneration and skin repair mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hyaluronic Acid: A Powerful Biomolecule with Wide-Ranging Applications—A Comprehensive Review",
+      "summary": "Comprehensive review highlighting HA's multifaceted roles in wound healing, tissue regeneration, anti-inflammatory effects, and immunomodulation across various biomedical applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37373443/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User sentiment is genuinely mixed with no clear Reddit data provided for analysis. Research literature strongly supports topical and injectable HA benefits for skin health, but oral supplementation effectiveness remains debated with individual results varying significantly."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Higher doses (120 mg/day) showed more pronounced effects compared to lower doses (60 mg/day) in clinical trials"
+    },
+    {
+      "label": "Time to Results:",
+      "description": "Clinical improvements typically observed after 4-12 weeks of consistent supplementation"
+    },
+    {
+      "label": "Molecular Weight Matters:",
+      "description": "1.8 MDa sodium hyaluronate demonstrated effective absorption and biological activity in oral supplementation"
+    },
+    {
+      "label": "Application Method:",
+      "description": "Both topical and oral routes show benefits, with intradermal injections providing strongest aesthetic effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Oral Dose:",
+      "description": "60-120 mg daily for skin health benefits, with 120 mg showing superior results"
+    },
+    {
+      "label": "Treatment Duration:",
+      "description": "Minimum 12-week supplementation period recommended for observable improvements"
+    },
+    {
+      "label": "Topical Application:",
+      "description": "Various concentrations used in creams, serums, and gels for direct skin application"
+    },
+    {
+      "label": "Injectable Forms:",
+      "description": "Professional dermal fillers and intradermal injections for targeted aesthetic treatments"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Oral supplementation at tested doses (60-120 mg/day) showed no significant side effects in clinical trials"
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Intradermal applications may cause temporary redness, swelling, or bruising"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "HA is biocompatible and naturally occurring in the body, reducing risk of adverse reactions"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users may experience different absorption rates or effectiveness based on individual physiology"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Wide Commercial Availability:",
+      "description": "Available as oral supplements, topical creams, serums, and professional injection products"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Molecular weight and purity vary between products; medical-grade formulations preferred for optimal results"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally recognized as safe for cosmetic and nutraceutical use, with injectable forms requiring professional administration"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "D-ASPARTIC ACID",
+      "slug": "d-aspartic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "FOLINIC ACID",
+      "slug": "folinic-acid"
+    },
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "demoxytocin",
+  "url": "https://dopamine.club/substances/demoxytocin/",
+  "scrapedAt": "2026-02-12T16:07:04.802Z",
+  "title": "DEMOXYTOCIN",
+  "description": "Demoxytocin is a synthetic analog of the neuropeptide oxytocin, modified by the removal of the N-terminal amino group to increase its resistance to enzymatic degradation and extend its half-life. It primarily functions as an agonist at the oxytocin receptor, facilitating uterine contractions and milk ejection while modulating central social behaviors and stress responses.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Oxytocin",
+      "summary": "This systematic review details oxytocin's essential role in lactation and its potential calming effects, while noting that exogenous administration can impact maternal-infant bonding and birth outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30000912/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Peptide That Binds: A Systematic Review of Oxytocin and Social Behavior",
+      "summary": "This review establishes that oxytocin administration alters social decision-making, eye contact, and social memory, framing it as a key regulator of the human social brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24651556/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of oxytocin in psychiatric disorders: A review of biological and therapeutic research findings",
+      "summary": "The research highlights oxytocin's therapeutic potential for conditions involving social dysfunction and anxiety, specifically citing its role in pair-bonding and social attachment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24651556/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chronic oxytocin administration as a tool for investigation and treatment: A cross-disciplinary systematic review",
+      "summary": "A comprehensive analysis showing that long-term oxytocin administration can improve adaptive physiological and behavioral functions across various clinical contexts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31678129/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report significant improvements in social anxiety and emotional warmth, though some note that the 'short-lived' nature of standard oxytocin is improved by the Demoxytocin analog."
+  },
+  "effects": [
+    {
+      "label": "Half-Life:",
+      "description": "Demoxytocin is regarded as more effective than regular oxytocin because it resists breakdown by aminopeptidases, leading to a longer duration of action."
+    },
+    {
+      "label": "Social Context:",
+      "description": "Effectiveness is highly dependent on environment; it works best in social settings rather than in isolation."
+    },
+    {
+      "label": "Biological Variability:",
+      "description": "Users report varied results based on baseline endogenous oxytocin levels and receptor sensitivity."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Intranasal Administration:",
+      "description": "Most commonly used via nasal spray to bypass the blood-brain barrier effectively."
+    },
+    {
+      "label": "Standard Range:",
+      "description": "Typical doses range from 10 IU to 40 IU per application depending on individual tolerance."
+    },
+    {
+      "label": "Chronic vs Acute:",
+      "description": "While acute doses are used for social events, chronic low-dose administration is sometimes used for mood regulation."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mild Headache:",
+      "description": "Some users report pressure or mild headaches shortly after administration."
+    },
+    {
+      "label": "Emotional Blunting:",
+      "description": "A small subset of users reports feeling 'too calm' or slightly detached from negative emotions."
+    },
+    {
+      "label": "Uterine Contractions:",
+      "description": "As a potent agonist, it carries a risk of stimulating uterine activity, which is a concern for pregnant users."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "In many regions, the analog is available via prescription for lactation or labor support, though often sourced via compounding pharmacies."
+    },
+    {
+      "label": "Research Chemicals:",
+      "description": "Frequently found in the 'nootropic' and 'peptide' grey market as a research chemical."
+    }
+  ],
+  "related": [
+    {
+      "name": "Selank",
+      "slug": "selank"
+    },
+    {
+      "name": "EMOXYPINE",
+      "slug": "emoxypine"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    },
+    {
+      "name": "LITHIUM OROTATE",
+      "slug": "lithium-orotate"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "matrine",
+  "url": "https://dopamine.club/substances/matrine/",
+  "scrapedAt": "2026-02-12T16:09:28.317Z",
+  "title": "MATRINE",
+  "description": "Matrine is a tetracyclic quinolizidine alkaloid extracted from the medicinal plant Sophora flavescens that exhibits anti-inflammatory, neuroprotective, and anti-proliferative properties. It works by modulating multiple cellular signaling pathways including TLR4/NF-κB/MAPK, NLRP3 inflammasome, and AMPK pathways. Traditionally used in Chinese medicine, matrine has been studied for its effects on liver diseases, inflammation, neurological disorders, and cancer.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Matrine exerts its neuroprotective effects by modulating multiple neuronal pathways",
+      "summary": "Comprehensive review demonstrating that matrine protects neurons by crossing the blood-brain barrier and modulating multiple signaling pathways, showing therapeutic potential for Multiple Sclerosis, Alzheimer's disease, and other neurological disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37103719/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Matrine Exerts Pharmacological Effects Through Multiple Signaling Pathways: A Comprehensive Review",
+      "summary": "Detailed review showing matrine has broad pharmacological activities including anti-tumor, anti-inflammatory, analgesic, anti-fibrotic, anti-viral effects through activation or inhibition of key molecules in cellular signaling pathways, with therapeutic effects in various tumors, cardiopathy, and CNS inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35256842/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Preventive effects of matrine on LPS-induced inflammation in RAW 264.7 cells and intestinal damage in mice through the TLR4/NF-κB/MAPK pathway",
+      "summary": "Study demonstrates matrine's anti-inflammatory properties by inhibiting the TLR4/NF-κB/MAPK pathway, showing protective effects against LPS-induced intestinal damage and inflammation in both cell and mouse models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39447411/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Matrine suppresses NLRP3 inflammasome activation via regulating PTPN2/JNK/SREBP2 pathway in sepsis",
+      "summary": "Research showing matrine suppresses abnormal NLRP3 inflammasome activation in sepsis through the PTPN2/JNK/SREBP2 pathway, demonstrating anti-inflammatory properties in life-threatening dysregulated host responses to infection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36610161/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oxymatrine relieves non-alcoholic fatty liver disease by promoting sirtuin 1/adenosine 5'-monophosphate-activated protein kinase pathway and peroxisome proliferator activated receptor alpha-mediated hepatic fatty acid oxidation",
+      "summary": "Study demonstrates that oxymatrine (a derivative of matrine) has protective effects in NAFLD by promoting the SIRT1/AMPK pathway and enhancing hepatic fatty acid oxidation, showing therapeutic potential for liver disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39637931/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Matrine inhibits vascular smooth muscle cell proliferation by modulating the expression of cell cycle regulatory genes",
+      "summary": "Research showing matrine inhibits vascular smooth muscle cell proliferation in a dose-dependent manner by promoting G1 arrest through up-regulation of p53, p21, and p27, demonstrating potential cardiovascular benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20835268/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of oxymatrine and matrine on left ventricular contractility using pressure-volume relationship analysis in anesthetized rats",
+      "summary": "Study using advanced cardiac analysis showed that both oxymatrine and matrine significantly improved load-independent cardiac parameters, increased cardiac efficiency, and improved mechanoenergetics, suggesting cardiovascular benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35537490/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Matrine induces ferroptosis in cervical cancer through activation of piezo1 channel",
+      "summary": "Research demonstrates matrine's anti-cancer properties by inducing ferroptosis (a form of cell death) in cervical cancer cells through activation of the piezo1 channel, showing potential therapeutic utility in cancer treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37922791/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User experiences are limited and primarily negative, with one individual reporting anxiety and derealization from 100mg dose, expressing concern about potential 5-AR inhibition. The user data shows no positive user testimonials for matrine itself, with discussions focused on other supplements entirely."
+  },
+  "effects": [
+    {
+      "label": "Research-Backed:",
+      "description": "Extensive preclinical research demonstrates anti-inflammatory, neuroprotective, and anti-proliferative effects across multiple disease models"
+    },
+    {
+      "label": "Multiple Pathways:",
+      "description": "Works through various cellular signaling mechanisms rather than a single target, potentially explaining broad pharmacological activities"
+    },
+    {
+      "label": "Traditional Use:",
+      "description": "Long history of use in Traditional Chinese Medicine for liver conditions and inflammation"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Most evidence comes from cell culture and animal studies; human clinical trial data remains limited"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use 50-200 mg/kg, though human equivalent doses not well established"
+    },
+    {
+      "label": "User Experience:",
+      "description": "One Reddit user reported negative effects at 100mg dose in humans"
+    },
+    {
+      "label": "Extract Standardization:",
+      "description": "Commercial products often use 98% matrine extracts from Sophora flavescens"
+    },
+    {
+      "label": "Traditional Preparation:",
+      "description": "Historically consumed as part of whole plant preparations rather than isolated compound"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Psychological Effects:",
+      "description": "User report of anxiety and derealization at 100mg dose"
+    },
+    {
+      "label": "5-AR Inhibition Concern:",
+      "description": "Potential 5-alpha reductase inhibitory activity suspected in parent plant, though not confirmed for isolated matrine"
+    },
+    {
+      "label": "Kappa-Opioid Activity:",
+      "description": "Known kappa-opioid receptor activity may contribute to dysphoric effects"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Research papers generally note matrine as well-tolerated in animal studies, but human safety data limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Form:",
+      "description": "Available as isolated extract (98% matrine) from supplement companies like reputable suppliers"
+    },
+    {
+      "label": "Plant Source:",
+      "description": "Derived from Sophora flavescens (Ku Shen) and related Sophora species used in Traditional Chinese Medicine"
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "Primarily used in research settings; consumer supplement use appears minimal based on user discussions"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    }
+  ]
+}

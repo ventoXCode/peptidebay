@@ -1,0 +1,131 @@
+{
+  "slug": "rosmarinic-acid",
+  "url": "https://dopamine.club/substances/rosmarinic-acid/",
+  "scrapedAt": "2026-02-12T16:11:04.056Z",
+  "title": "ROSMARINIC ACID",
+  "description": "Rosmarinic acid is a natural polyphenolic compound found in plants of the Lamiaceae and Boraginaceae families, formed from caffeic acid and 3,4-dihydroxyphenyl lactic acid. It exhibits potent antioxidant and anti-inflammatory properties by modulating inflammatory mediators, reducing oxidative stress, and influencing various cellular pathways including NF-κB and MAPK signaling. Rosmarinic acid has demonstrated therapeutic potential in inflammatory diseases, metabolic disorders, neuroprotection, and cancer prevention.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A Comprehensive Review of Rosmarinic Acid: From Phytochemistry to Pharmacology and Its New Insight",
+      "summary": "Comprehensive review demonstrating rosmarinic acid's diverse biological activities including anti-inflammation, anti-oxidation, anti-diabetes, anti-virus, anti-tumor, neuroprotection, and hepatoprotection across multiple research fields.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35630732/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Review of the Anti-Inflammatory Effects of Rosmarinic Acid on Inflammatory Diseases",
+      "summary": "Review examining rosmarinic acid's anti-inflammatory effects in various inflammatory diseases including arthritis, colitis, and atopic dermatitis through in vitro and in vivo studies, demonstrating its ability to modulate inflammatory mediators and cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32153392/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic Potential of Rosmarinic Acid: A Comprehensive Review",
+      "summary": "Systematic review of rosmarinic acid's therapeutic applications showing efficacy in cancer, diabetes, inflammatory disorders, neurodegenerative diseases, and its anti-plasmodic, anti-viral, and anti-bacterial properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31382633/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biomedical Features and Therapeutic Potential of Rosmarinic Acid",
+      "summary": "Analysis of rosmarinic acid's biomedical applications demonstrating multiple therapeutic benefits in cancer, diabetes, inflammatory disorders, neurodegenerative diseases, plus anti-oxidant capacity for potential use as a nutraceutical compound.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35391660/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Research shows strong scientific evidence for rosmarinic acid's anti-inflammatory, antioxidant, and neuroprotective effects across multiple conditions. However, challenges remain regarding its clinical applicability, bioavailability, and standardization of dosing protocols."
+  },
+  "effects": [
+    {
+      "label": "Clinical Translation:",
+      "description": "Strong preclinical evidence with demonstrated effects in laboratory and animal studies, though human clinical data remains limited"
+    },
+    {
+      "label": "Multi-target Action:",
+      "description": "Works through multiple pathways including NF-κB inhibition, MAPK signaling modulation, and AMPK activation"
+    },
+    {
+      "label": "Disease Applications:",
+      "description": "Most effective for inflammatory conditions, metabolic disorders, and as adjunct therapy for various chronic diseases"
+    },
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Research indicates potential absorption and bioavailability challenges that may limit oral supplementation effectiveness"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Studies typically use 50-500mg doses, though optimal human dosing remains under investigation"
+    },
+    {
+      "label": "Extract Concentration:",
+      "description": "Effectiveness varies significantly based on source material and extraction method used"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "May be most effective when taken with meals or vitamin C to enhance absorption"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response appears highly dependent on baseline inflammatory status and metabolic health"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most studies report minimal adverse effects at standard supplemental doses"
+    },
+    {
+      "label": "Toxicity Unknown:",
+      "description": "Long-term safety data and toxicity thresholds in humans are not well-established"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with medications metabolized through similar pathways remain unexplored"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Contamination and standardization issues may affect supplement safety and efficacy"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Found abundantly in rosemary, lemon balm, sage, oregano, and other herbs of Lamiaceae family"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as isolated extract or as component of herbal extracts with varying concentrations"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally recognized as safe when consumed as part of culinary herbs; supplement forms lack comprehensive regulation"
+    }
+  ],
+  "related": [
+    {
+      "name": "HUMIC ACID",
+      "slug": "humic-acid"
+    },
+    {
+      "name": "N-ACETYL GLUCOSAMINE",
+      "slug": "n-acetyl-glucosamine"
+    },
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    }
+  ]
+}

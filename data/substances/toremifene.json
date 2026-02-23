@@ -1,0 +1,151 @@
+{
+  "slug": "toremifene",
+  "url": "https://dopamine.club/substances/toremifene/",
+  "scrapedAt": "2026-02-12T16:11:50.996Z",
+  "title": "TOREMIFENE",
+  "description": "Toremifene is a selective estrogen receptor modulator (SERM) and a chlorinated derivative of tamoxifen, primarily used in the treatment of hormone receptor-positive breast cancer in postmenopausal women. It works by binding to estrogen receptors and exhibiting both antiestrogenic effects in breast tissue and some estrogenic agonist properties in other tissues like bone and cardiovascular system. Unlike tamoxifen, toremifene appears to have a more favorable safety profile regarding endometrial effects while maintaining similar efficacy in breast cancer treatment.",
+  "categories": [
+    "Medicine"
+  ],
+  "research": [
+    {
+      "title": "Effects of toremifene versus tamoxifen on breast cancer patients: a meta-analysis",
+      "summary": "Meta-analysis of 23 trials (7,242 patients) showed toremifene was associated with higher 5-year survival rates in early stage breast cancer compared to tamoxifen, with similar efficacy but different effects on lipid profiles and bone mineral density.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23266963/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Toremifene is an effective and safe alternative to tamoxifen in adjuvant endocrine therapy for breast cancer: results of four randomized trials",
+      "summary": "Four randomized trials including 3,747 patients found no significant difference in overall survival or disease-free survival between toremifene and tamoxifen, with similar rates of thromboembolic events, confirming toremifene as an effective alternative.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21553116/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Tamoxifen vs. Toremifene on fatty liver development and lipid profiles in breast Cancer",
+      "summary": "Retrospective analysis of 308 breast cancer patients showed toremifene had more favorable effects on preventing fatty liver development compared to tamoxifen, while both drugs affected lipid profiles differently.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34246237/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparison of effects of tamoxifen and Toremifene on hepatic function and serum lipids in breast cancer patients during adjuvant endocrine therapy",
+      "summary": "Study of 597 patients found neither toremifene nor tamoxifen negatively affected hepatic function, with toremifene showing similar effects on lipid profiles and potentially stronger cholesterol-lowering effects than tamoxifen.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38241197/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chronic effects of toremifene on the vasculature of menopause-induced rats",
+      "summary": "Four-week treatment with toremifene improved vascular responses to acetylcholine and increased endothelium-dependent relaxation in ovariectomized rats, suggesting beneficial cardiovascular effects similar to estrogen.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15259793/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of the antiestrogens tamoxifen, toremifene, and ICI 182,780 on endometrial cancer growth",
+      "summary": "Study in athymic mice showed that unlike tamoxifen, toremifene did not promote endometrial cancer growth and may have a more favorable endometrial safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9790548/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical pharmacokinetics of toremifene",
+      "summary": "Toremifene has approximately 100% oral bioavailability, is highly protein-bound (>95%), metabolized by liver cytochrome P450 enzymes, and has a half-life of approximately 5 days with steady state reached by 6 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11108432/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Combination immunotherapy of the P815 murine mastocytoma with killer cells, IL-2 and anti-estrogens",
+      "summary": "Toremifene enhanced cancer immunotherapy when combined with cytotoxic T lymphocytes and IL-2, increasing cure rates from 25% to 75% in tumor-bearing mice, suggesting immune-modulating properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9413218/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 25,
+    "summary": "Toremifene has minimal presence in general supplement discussion communities, as it is a prescription pharmaceutical for breast cancer treatment rather than a consumer supplement. The compound is not discussed by Reddit users in the provided data as a biohacking or performance supplement."
+  },
+  "effects": [
+    {
+      "label": "Breast Cancer Efficacy:",
+      "description": "Multiple meta-analyses confirm equivalent or superior effectiveness to tamoxifen for breast cancer treatment with 5-year survival benefits"
+    },
+    {
+      "label": "Endometrial Safety:",
+      "description": "Safer endometrial profile than tamoxifen with lower risk of promoting endometrial cancer growth"
+    },
+    {
+      "label": "Metabolic Effects:",
+      "description": "More favorable effects on liver health and fatty liver prevention compared to tamoxifen"
+    },
+    {
+      "label": "Long-term Tolerability:",
+      "description": "Well-tolerated with rare and mild side effects in clinical trials spanning years of treatment"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Clinical Dose:",
+      "description": "60mg daily administered orally for breast cancer treatment"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Near 100% oral bioavailability allows for consistent dosing"
+    },
+    {
+      "label": "Steady State:",
+      "description": "Takes approximately 6 weeks to reach steady-state plasma concentrations"
+    },
+    {
+      "label": "Half-life:",
+      "description": "Long elimination half-life of approximately 5 days allows for once-daily dosing"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Vasomotor Symptoms:",
+      "description": "Hot flashes and sweating commonly reported, similar to other SERMs"
+    },
+    {
+      "label": "Vaginal Discharge:",
+      "description": "More common than with control but generally mild"
+    },
+    {
+      "label": "Hepatic Effects:",
+      "description": "Generally does not negatively affect liver function at therapeutic doses"
+    },
+    {
+      "label": "Thromboembolic Risk:",
+      "description": "Similar low risk of blood clots as tamoxifen, including deep vein thrombosis and pulmonary embolism"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Available only by prescription as a pharmaceutical drug for cancer treatment, not as an over-the-counter supplement"
+    },
+    {
+      "label": "Clinical Use:",
+      "description": "Approved for treatment of metastatic breast cancer in postmenopausal women in multiple countries"
+    }
+  ],
+  "related": [
+    {
+      "name": "IVERMECTIN",
+      "slug": "ivermectin"
+    },
+    {
+      "name": "RAPAMYCIN",
+      "slug": "rapamycin"
+    },
+    {
+      "name": "MEMANTINE",
+      "slug": "memantine"
+    },
+    {
+      "name": "TESTOSTERONE",
+      "slug": "testosterone"
+    },
+    {
+      "name": "Armodafinil",
+      "slug": "armodafinil"
+    }
+  ]
+}

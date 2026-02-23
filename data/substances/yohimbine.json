@@ -1,0 +1,155 @@
+{
+  "slug": "yohimbine",
+  "url": "https://dopamine.club/substances/yohimbine/",
+  "scrapedAt": "2026-02-12T16:13:10.830Z",
+  "title": "YOHIMBINE",
+  "description": "Yohimbine is an indole alkaloid extracted from the bark of the Pausinystalia johimbe tree that acts as an alpha-2 adrenergic receptor antagonist, increasing norepinephrine release and sympathetic nervous system activation. It has been historically used for erectile dysfunction and is commonly found in dietary supplements marketed for weight loss and athletic performance enhancement, though it carries significant cardiovascular risks and side effect concerns.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ergogenic and Sympathomimetic Effects of Yohimbine: A Review",
+      "summary": "Comprehensive review showing yohimbine acts as an α2-adrenergic receptor antagonist that increases norepinephrine release, with implications for improving cardiovascular function, blood flow, lactate metabolism, and muscle function during exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39728757/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Yohimbine as a treatment for erectile dysfunction: A systematic review and meta-analysis",
+      "summary": "Meta-analysis found yohimbine alone showed significantly greater probability of erectile function improvement compared to placebo (OR 2.08), with combination therapy showing even stronger effects (OR 6.35).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35118966/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Acute Yohimbine Hydrochloride Supplementation on Repeated Supramaximal Sprint Performance",
+      "summary": "Study in physically active females found 2.5mg yohimbine increased heart rate and altered performance metrics during repeated Wingate tests, though effects on power output were mixed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35162339/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmaceutical quantities of yohimbine found in dietary supplements in the USA",
+      "summary": "Analysis of 49 commercial supplements found yohimbine content ranged from none detected to 12.1mg per serving, with 39% containing pharmaceutical quantities, highlighting significant quality control and labeling accuracy issues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26391406/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Intracranial hemorrhage after a single dose of Yohimbine in a chronic user of clonidine",
+      "summary": "Case report documented a 39-year-old female who developed acute basal ganglia hemorrhage with severe hypertension (198/93) and neurological sequelae after taking a single dose of yohimbine while on clonidine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36115742/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Severe acute intoxication with yohimbine: Four simultaneous poisoning cases",
+      "summary": "Report of four middle-aged men experiencing severe yohimbine poisoning simultaneously, with one death, highlighting the serious toxicity risks associated with yohimbine overdose.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33529997/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cardiovascular toxicity associated with supplement use",
+      "summary": "Review identifying yohimbine as a stimulant supplement that can cause adverse cardiovascular effects including tachycardia, hypertension, hyperthermia, myocardial infarction, and cardiac arrest through adrenergic mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40960841/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Yohimbine: the effects on body composition and exercise performance in soccer players",
+      "summary": "Study examining yohimbine's effects on body composition and athletic performance in soccer players, though full results were not accessible.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17214405/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "Users overwhelmingly report significant anxiety, heart palpitations, and concerning cardiovascular effects that outweigh any potential benefits. While a minority experienced positive effects on focus and energy, the majority found yohimbine's side effects too severe, with frequent warnings against its use and multiple reports of emergency room visits."
+  },
+  "effects": [
+    {
+      "label": "Libido Enhancement:",
+      "description": "Evidence suggests moderate effectiveness for erectile dysfunction when used alone or in combination with other compounds, though results are inconsistent"
+    },
+    {
+      "label": "Weight Loss:",
+      "description": "Despite marketing claims, users report minimal to no actual fat loss benefits, with most concluding it's ineffective as a standalone fat burner"
+    },
+    {
+      "label": "Athletic Performance:",
+      "description": "Mixed results with some studies showing altered performance metrics but no clear consensus on meaningful performance improvements"
+    },
+    {
+      "label": "High Individual Variability:",
+      "description": "Effects vary dramatically between users, with some experiencing no effects while others have severe reactions to the same doses"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most supplements and studies use 2.5-5mg doses, though even these lower amounts cause significant side effects in many users"
+    },
+    {
+      "label": "Building Up Slowly:",
+      "description": "Users who tolerate it recommend starting with 5mg or less and gradually increasing, though many never achieve comfortable tolerance"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Generally taken 20 minutes before exercise on an empty stomach, with some users experiencing sleep disturbances if taken too late in the day"
+    },
+    {
+      "label": "Supplement Variability:",
+      "description": "Commercial supplements show wildly inconsistent yohimbine content (0-12.1mg per serving), making accurate dosing nearly impossible without third-party testing"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Severe Cardiovascular Effects:",
+      "description": "Dangerous blood pressure spikes (cases of 198/93 documented), tachycardia, heart palpitations, and documented cases of intracranial hemorrhage and cardiac arrest"
+    },
+    {
+      "label": "Anxiety and Panic:",
+      "description": "Intense anxiety, nervousness, and panic-like symptoms are the most commonly reported side effects, often severe enough to warrant discontinuation"
+    },
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Users report nausea, vomiting, and stomach upset, particularly when taken on an empty stomach as recommended"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Dangerous interactions with medications like clonidine and potential MAOI-like effects requiring dietary restrictions and medication awareness"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available but Unregulated:",
+      "description": "Sold as a dietary supplement in the US with minimal FDA oversight, leading to significant quality control issues and mislabeling"
+    },
+    {
+      "label": "Banned in Many Countries:",
+      "description": "Prohibited in several countries due to safety concerns, though remains legal and easily accessible in the US through supplement retailers"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Studies show 39% of supplements contain pharmaceutical quantities of yohimbine, with content varying dramatically from label claims, making safe use nearly impossible"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BETA-SITOSTEROL",
+      "slug": "beta-sitosterol"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    }
+  ]
+}

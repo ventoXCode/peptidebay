@@ -1,0 +1,127 @@
+{
+  "slug": "butyrate",
+  "url": "https://dopamine.club/substances/butyrate/",
+  "scrapedAt": "2026-02-12T16:06:17.027Z",
+  "title": "BUTYRATE",
+  "description": "Butyrate is a short-chain fatty acid (SCFA) produced by the gut microbiota through the fermentation of dietary fiber, serving as the primary energy source for colonocytes. It acts as a histone deacetylase (HDAC) inhibitor and signals through G-protein coupled receptors to regulate immune responses, maintain intestinal barrier integrity, and stabilize the gut-brain axis.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of short-chain fatty acid-butyrate supplementation on expression of circadian-clock genes, sleep quality, and inflammation in patients with active ulcerative colitis: a double-blind randomized controlled trial",
+      "summary": "This study found that sodium butyrate supplementation significantly improved sleep quality and reduced inflammatory markers like hs-CRP and fecal calprotectin in patients with ulcerative colitis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39003477/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of sodium butyrate adjunct therapy in shigellosis: a randomized, double-blind, placebo-controlled clinical trial",
+      "summary": "Researchers demonstrated that butyrate enemas improved clinical and histological features of shigellosis by inducing antimicrobial peptides in the intestinal mucosa.",
+      "url": "https://pubmed.ncbinlm.nih.gov/22574737/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Calcium butyrate efficacy in pediatric irritable bowel syndrome: Randomized placebo-controlled multiomics-based clinical trial",
+      "summary": "A 2025 clinical trial investigating the efficacy of calcium butyrate in managing pediatric IBS symptoms through microbiome modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40635319/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Supplementation of a Butyrate-Based Formula in Individuals with Liver Steatosis and Metabolic Syndrome: A Randomized Double-Blind Placebo-Controlled Clinical Trial",
+      "summary": "A clinical trial evaluating butyrate's role in improving liver health and metabolic parameters in patients with fatty liver disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39125336/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "The majority of users view butyrate as a foundational 'biohacking' supplement for gut-driven systemic health, though some report paradoxical effects on sleep and fatigue depending on timing."
+  },
+  "effects": [
+    {
+      "label": "Gastrointestinal Relief:",
+      "description": "Highly effective for active ulcerative colitis and IBS, reducing disease severity and abdominal pain."
+    },
+    {
+      "label": "Secondary Metabolic Benefits:",
+      "description": "Shows promise in reducing liver steatosis and supporting weight loss protocols when paired with diet."
+    },
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Users note that oral forms must bypass the stomach (tributyrin or enteric coating) to reach the colon effectively."
+    },
+    {
+      "label": "Psychological Adjuvant:",
+      "description": "Recent evidence suggests it may alleviate psychological symptoms like anxiety and depression associated with gut dysbiosis."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Oral Dose:",
+      "description": "Clinical trials often utilize doses ranging from 600mg to 1,200mg of sodium or calcium butyrate daily."
+    },
+    {
+      "label": "Intervention Loading:",
+      "description": "Some users report taking up to 1.2g in the morning to combat bloating and improve digestion."
+    },
+    {
+      "label": "Topical/Local Application:",
+      "description": "In acute infectious cases like shigellosis, 80 mM enemas have been used effectively for localized treatment."
+    },
+    {
+      "label": "Fiber-First Approach:",
+      "description": "Many users prefer 'butyrogenic' diets (inulin, resistant starch) over pills to naturally boost levels."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Diurnal Fatigue:",
+      "description": "Some users report feeling 'unbelievably tired' when taking butyrate in the morning."
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Paradoxical insomnia or reduced sleep quality reported by some users when taken in the evening."
+    },
+    {
+      "label": "Initial Bloating:",
+      "description": "Introduction of butyrate or prebiotics can cause temporary gas or 'hunger pangs' as the microbiome shifts."
+    },
+    {
+      "label": "Odor:",
+      "description": "Sodium butyrate supplements are notorious for a strong, 'cheesy' or rancid smell that many users find unpleasant."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over the Counter:",
+      "description": "Widely available as a dietary supplement in Sodium, Calcium, and Magnesium salt forms."
+    },
+    {
+      "label": "Tributyrin:",
+      "description": "Increasingly sold as a more bioavailable liquid fat form that survives digestion better than salts."
+    }
+  ],
+  "related": [
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "CYANIDIN",
+      "slug": "cyanidin"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

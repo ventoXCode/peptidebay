@@ -1,0 +1,155 @@
+{
+  "slug": "vanadium",
+  "url": "https://dopamine.club/substances/vanadium/",
+  "scrapedAt": "2026-02-12T16:12:07.505Z",
+  "title": "VANADIUM",
+  "description": "Vanadium is a trace mineral element that exhibits insulin-mimetic properties and may play a role in glucose metabolism and bone health. It exists in various oxidation states, with vanadyl sulfate being the most common supplemental form, and has been investigated primarily for its potential benefits in managing type 2 diabetes and metabolic syndrome.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vanadium in Biological Action: Chemical, Pharmacological Aspects, and Metabolic Implications in Diabetes Mellitus",
+      "summary": "Comprehensive review examining vanadium's role in diabetes treatment, including its insulin-mimetic properties, signaling pathways, and therapeutic potential for both type 1 and type 2 diabetes mellitus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30338559/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vanadium: Risks and possible benefits in the light of a comprehensive overview",
+      "summary": "Systematic review of vanadium's pharmacotoxicological mechanisms, therapeutic applications, and comprehensive assessment of both beneficial effects and potential risks in biological systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32247238/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An evidence-based systematic review of vanadium by the Natural Standard Research Collaboration",
+      "summary": "Evidence-based systematic review consolidating safety and efficacy data on vanadium using validated grading rationale for clinical applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22891992/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Essentiality and toxicity of vanadium supplements in health and pathology",
+      "summary": "Study examining vanadium's biological properties, therapeutic potential in various diseases, and the balance between its insulin-mimetic benefits and potential toxic side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25371519/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vanadium: a review of its potential role in the fight against diabetes",
+      "summary": "Review of vanadium's therapeutic potential in diabetes management, with doses ranging from 0.083-0.42 mmol/d showing benefits in both insulin-dependent and non-insulin-dependent diabetes patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10381252/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Developing Vanadium as an Antidiabetic or Anticancer Drug: A Clinical and Historical Perspective",
+      "summary": "Clinical perspective on vanadium's development as therapeutic agent, discussing bioavailability challenges and comparing vanadyl sulfate to organic compounds like bis(ethylmaltolato)oxovanadium(IV).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30855109/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Selenium, Vanadium, and Chromium as Micronutrients to Improve Metabolic Syndrome",
+      "summary": "Review examining vanadium alongside other trace metals for their insulin-mimetic effects and potential role in managing metabolic syndrome and blood glucose control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28197835/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Health Benefits of Vanadium and Its Potential as an Anticancer Agent",
+      "summary": "Comprehensive review of vanadium's therapeutic properties since early discovery, including its effects on metabolic pathways relevant to both diabetes and cancer treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29394028/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User experiences with vanadium are limited but cautiously positive, with most discussion focused on its inclusion in multivitamin formulations rather than standalone supplementation. Users generally view trace minerals including vanadium as underappreciated but important, though specific individual experiences with vanadium supplementation are rare in the discussions."
+  },
+  "effects": [
+    {
+      "label": "Diabetes Management:",
+      "description": "Clinical studies show therapeutic potential at doses of 0.083-0.42 mmol/d for both type 1 and type 2 diabetes, though bioavailability remains a challenge"
+    },
+    {
+      "label": "Multivitamin Context:",
+      "description": "Most effective when part of comprehensive trace mineral supplementation rather than isolated use"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Limited user reports make it difficult to assess consistent effectiveness, with most benefits appearing in research rather than widespread user testimonials"
+    },
+    {
+      "label": "Absorption Issues:",
+      "description": "Poor gastrointestinal absorption of vanadium salts limits effectiveness, with organic compounds showing improved bioavailability"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Dietary Intake:",
+      "description": "Estimated daily intake from food ranges from 10-60 micrograms, with typical multivitamins containing 30-100 mcg"
+    },
+    {
+      "label": "Therapeutic Doses:",
+      "description": "Clinical trials have used higher doses ranging from 0.083-0.42 mmol/d for diabetes management"
+    },
+    {
+      "label": "Multivitamin Inclusion:",
+      "description": "Common formulations include 50-100 mcg vanadium picolinate or similar chelated forms"
+    },
+    {
+      "label": "Safety Margins:",
+      "description": "Maximum safe dose established at around 1.8 mg/day, with most supplements staying well below this threshold"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Poor absorption can lead to digestive discomfort at higher doses"
+    },
+    {
+      "label": "Minimal User Reports:",
+      "description": "Very few specific side effects reported in user discussions, likely due to low doses in multivitamins"
+    },
+    {
+      "label": "Dose-Dependent Toxicity:",
+      "description": "Research indicates potential toxicity at high doses, including effects on thymic development and oxidative stress"
+    },
+    {
+      "label": "Long-term Concerns:",
+      "description": "Studies suggest need for careful monitoring with extended supplementation, though specific user experiences are limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Multivitamin Inclusion:",
+      "description": "Commonly found in comprehensive trace mineral formulations and premium multivitamins"
+    },
+    {
+      "label": "Standalone Products:",
+      "description": "Individual vanadium supplements are available but less common, with vanadyl sulfate being the most widely used form"
+    },
+    {
+      "label": "Chelated Forms:",
+      "description": "Vanadium picolinate and other chelated forms appear in higher-quality supplement formulations for improved bioavailability"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "COPPER",
+      "slug": "copper"
+    }
+  ]
+}

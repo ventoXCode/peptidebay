@@ -1,0 +1,125 @@
+{
+  "slug": "alpha-tocopherol",
+  "url": "https://dopamine.club/substances/alpha-tocopherol/",
+  "scrapedAt": "2026-02-12T16:05:44.191Z",
+  "title": "ALPHA-TOCOPHEROL",
+  "description": "Alpha-tocopherol is the most biologically active form of vitamin E, a fat-soluble antioxidant that protects cell membranes from oxidative damage by neutralizing free radicals and reactive oxygen species. It is the only form of vitamin E that meets human requirements and is preferentially retained by the liver through the hepatic alpha-tocopherol transfer protein. While traditionally studied for cardiovascular and cancer prevention, clinical evidence for these benefits in adequately nourished populations remains limited.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Natural forms of vitamin E: metabolism, antioxidant and anti-inflammatory activities and the role in disease prevention and therapy",
+      "summary": "Review examining how different vitamin E forms (tocopherols and tocotrienols) have unique antioxidant and anti-inflammatory properties, with gamma-tocopherol and tocotrienols showing superior effects compared to alpha-tocopherol in certain disease prevention applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24704972/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin E (α-Tocopherol): Emerging Clinical Role and Adverse Risks of Supplementation in Adults",
+      "summary": "Clinical review examining both the therapeutic potential and safety concerns of alpha-tocopherol supplementation in adults, noting limitations in primary disease prevention despite its antioxidant properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-tocopherol: roles in prevention and therapy of human disease",
+      "summary": "Comprehensive analysis revealing that alpha-tocopherol functions beyond simple antioxidant activity, also demonstrating pro-oxidant, cell signaling, and gene regulatory functions in various physiological processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16081238/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report positive experiences with vitamin E supplementation, particularly for libido enhancement and skin health improvements. While most users take it as part of multivitamin formulations, those taking dedicated vitamin E supplements note benefits including increased energy, better sleep quality, and improved sexual function."
+  },
+  "effects": [
+    {
+      "label": "Form Matters:",
+      "description": "Natural D-alpha tocopherol appears more effective than synthetic forms, with users specifically seeking natural sources"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Vitamin E works best when combined with other nutrients like magnesium, vitamin K2, and selenium rather than as a standalone supplement"
+    },
+    {
+      "label": "Limited Disease Prevention:",
+      "description": "Clinical trials have not supported protective effects for cardiovascular disease or cancer prevention in adequately nourished populations"
+    },
+    {
+      "label": "Tocotrienol Superiority:",
+      "description": "Users and research suggest tocotrienols may offer superior anti-inflammatory and skin health benefits compared to alpha-tocopherol alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "400 IU (D-alpha tocopherol) is the most commonly reported dose for general supplementation"
+    },
+    {
+      "label": "RDA Compliance:",
+      "description": "The recommended dietary allowance is 15 mg/day (22.4 IU) of alpha-tocopherol, which most Americans fail to meet through diet alone"
+    },
+    {
+      "label": "Mixed Tocopherols:",
+      "description": "Users seeking comprehensive vitamin E benefits look for formulations containing mixed tocopherols (alpha, beta, gamma, delta) and tocotrienols"
+    },
+    {
+      "label": "Multivitamin Context:",
+      "description": "Most users obtain vitamin E through multivitamin formulations rather than dedicated supplementation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Minimal side effects reported at standard doses, with vitamin E considered one of the safer fat-soluble vitamins"
+    },
+    {
+      "label": "High Dose Concerns:",
+      "description": "Some research suggests very high doses may have pro-oxidant effects rather than antioxidant benefits"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with anticoagulant medications due to vitamin E's effects on blood clotting"
+    },
+    {
+      "label": "Synthetic Form Issues:",
+      "description": "Users express concerns about synthetic alpha-tocopherol (dl-alpha) versus natural forms (d-alpha), particularly in fish oil supplements"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in most multivitamins and available as standalone supplements from numerous brands including quality brands, quality brands, and specialized formulations"
+    },
+    {
+      "label": "Form Verification Important:",
+      "description": "Users actively seek products specifying natural D-alpha tocopherol and mixed tocopherols rather than synthetic or isolated alpha-tocopherol"
+    },
+    {
+      "label": "Tocotrienol Scarcity:",
+      "description": "Despite superior benefits, tocotrienol-containing formulations are less common in mainstream multivitamins, with users questioning why premium brands haven't adopted them"
+    }
+  ],
+  "related": [
+    {
+      "name": "ZINC PICOLINATE",
+      "slug": "zinc-picolinate"
+    },
+    {
+      "name": "ZINC",
+      "slug": "zinc"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "albiglutide",
+  "url": "https://dopamine.club/substances/albiglutide/",
+  "scrapedAt": "2026-02-12T16:05:34.769Z",
+  "title": "ALBIGLUTIDE",
+  "description": "Albiglutide is a once-weekly glucagon-like peptide-1 (GLP-1) receptor agonist used for the treatment of type 2 diabetes mellitus. It is a long-acting analog with a half-life of approximately 5 days, created by fusing GLP-1 to human albumin, which provides extended duration of action. Albiglutide works by stimulating insulin secretion in response to elevated blood glucose, suppressing glucagon release, slowing gastric emptying, and promoting satiety.",
+  "categories": [
+    "Peptide",
+    "GLP"
+  ],
+  "research": [
+    {
+      "title": "Albiglutide and cardiovascular outcomes in patients with type 2 diabetes and cardiovascular disease (Harmony Outcomes): a double-blind, randomised placebo-controlled trial",
+      "summary": "The Harmony Outcomes trial demonstrated that albiglutide significantly reduced major adverse cardiovascular events in patients with type 2 diabetes and established cardiovascular disease compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30291013/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cardiovascular, mortality, and kidney outcomes with GLP-1 receptor agonists in patients with type 2 diabetes: a systematic review and meta-analysis of cardiovascular outcome trials",
+      "summary": "Meta-analysis of cardiovascular outcome trials showed GLP-1 receptor agonists, including albiglutide, provide significant benefits for cardiovascular events, mortality, and kidney outcomes in type 2 diabetes patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31422062/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of albiglutide on myocardial infarction and ischaemic heart disease outcomes in patients with type 2 diabetes and cardiovascular disease in the Harmony Outcomes trial",
+      "summary": "Albiglutide demonstrated significant reductions in myocardial infarction and ischemic heart disease outcomes in patients with type 2 diabetes and established cardiovascular disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38271596/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "GLP-1 receptor agonists in the treatment of type 2 diabetes - state-of-the-art",
+      "summary": "Comprehensive review showing albiglutide is administered once weekly, shares common mechanisms with other GLP-1 RAs including augmentation of insulin secretion, suppression of glucagon, and delayed gastric emptying.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33068776/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The safety of albiglutide for the treatment of type 2 diabetes",
+      "summary": "Albiglutide has significantly fewer gastrointestinal side effects compared to other GLP-1 receptor agonists and appears safe across all stages of renal failure, though concerns exist about pancreatitis cases and injection site reactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28678550/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Postprandial plasma glucose effects of once-weekly albiglutide for the treatment of type 2 diabetes",
+      "summary": "Albiglutide consistently lowered postprandial glucose levels after each meal in addition to reducing fasting plasma glucose at clinically relevant doses of 30-64 mg.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27043162/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of GLP-1 and Its Analogs on Gastric Physiology in Diabetes Mellitus and Obesity",
+      "summary": "GLP-1 analogs including albiglutide slow gastric emptying and increase gastric volumes, which contributes to reduced postprandial glycemia and promotes satiety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32077010/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "GLP-1 receptor agonists for individualized treatment of type 2 diabetes mellitus",
+      "summary": "Long-acting GLP-1 receptor agonists like albiglutide provide continuous receptor activation and primarily lower fasting glucose through sustained insulin secretion, while short-acting agents mainly affect postprandial glucose.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22945360/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "Limited user experiences available for albiglutide. As a prescription GLP-1 receptor agonist primarily used for diabetes management, community discussions are sparse compared to more accessible supplements."
+  },
+  "effects": [
+    {
+      "label": "Cardiovascular Outcomes:",
+      "description": "Demonstrates significant reductions in cardiovascular events in high-risk patients with type 2 diabetes"
+    },
+    {
+      "label": "Glucose Reduction:",
+      "description": "Effectively lowers both fasting and postprandial plasma glucose at doses of 30-64 mg weekly"
+    },
+    {
+      "label": "Comparative Efficacy:",
+      "description": "Shows slightly less HbA1c reduction and weight loss compared to some competitor GLP-1 agonists like liraglutide"
+    },
+    {
+      "label": "Renal Safety:",
+      "description": "Proven safe and effective across all stages of renal failure without dose adjustment requirements"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Once-weekly subcutaneous injection of 30-50 mg as maintenance therapy"
+    },
+    {
+      "label": "Duration of Action:",
+      "description": "Half-life of approximately 5 days allows for weekly administration"
+    },
+    {
+      "label": "Clinical Range:",
+      "description": "Studied doses range from 30-64 mg weekly in phase 2 and 3 trials"
+    },
+    {
+      "label": "Administration:",
+      "description": "Administered via subcutaneous injection using pre-filled pen device"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Tolerance:",
+      "description": "Significantly fewer GI side effects (nausea, vomiting) compared to other GLP-1 receptor agonists, with rates similar to placebo"
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Reported in up to 2% of patients, occasionally leading to treatment discontinuation"
+    },
+    {
+      "label": "Pancreatitis Concern:",
+      "description": "Imbalance of pancreatitis cases noted in approval program, though overall incidence remains low"
+    },
+    {
+      "label": "Hypoglycemia Risk:",
+      "description": "Low risk when used as monotherapy, but increased risk when combined with sulfonylureas or insulin"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Available by prescription for type 2 diabetes management in patients requiring injectable therapy"
+    },
+    {
+      "label": "Market Status:",
+      "description": "Originally marketed but subsequently discontinued by manufacturer in 2017 despite proven efficacy and safety profile"
+    },
+    {
+      "label": "Clinical Use:",
+      "description": "Primarily studied and used in patients with type 2 diabetes who have not achieved glycemic control with oral medications"
+    }
+  ],
+  "related": [
+    {
+      "name": "DULAGLUTIDE",
+      "slug": "dulaglutide"
+    },
+    {
+      "name": "EXENATIDE",
+      "slug": "exenatide"
+    },
+    {
+      "name": "LIRAGLUTIDE",
+      "slug": "liraglutide"
+    },
+    {
+      "name": "Retatrutide",
+      "slug": "retatrutide"
+    },
+    {
+      "name": "SEMAGLUTIDE",
+      "slug": "semaglutide"
+    }
+  ]
+}

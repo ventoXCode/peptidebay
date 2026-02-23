@@ -1,0 +1,125 @@
+{
+  "slug": "gamma-tocopherol",
+  "url": "https://dopamine.club/substances/gamma-tocopherol/",
+  "scrapedAt": "2026-02-12T16:07:55.992Z",
+  "title": "GAMMA-TOCOPHEROL",
+  "description": "Gamma-tocopherol is one of the eight naturally occurring forms of vitamin E, found abundantly in common dietary oils like soybean and corn oil. Unlike alpha-tocopherol (the predominant vitamin E supplement form), gamma-tocopherol exhibits unique anti-inflammatory properties through its ability to trap reactive nitrogen species and reduce inflammation-related biomarkers. Research suggests it may offer superior antioxidant protection and disease prevention capabilities compared to alpha-tocopherol alone.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Gamma-tocopherol, a major form of vitamin E in diets: Insights into antioxidant and anti-inflammatory effects, mechanisms, and roles in disease management",
+      "summary": "Comprehensive review demonstrating gamma-tocopherol's superior anti-inflammatory properties compared to alpha-tocopherol, with unique mechanisms for scavenging reactive nitrogen species and reducing inflammation-related biomarkers in chronic disease prevention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34896589/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gamma-tocopherol supplementation alone and in combination with alpha-tocopherol alters biomarkers of oxidative stress and inflammation in subjects with metabolic syndrome",
+      "summary": "Clinical study showing gamma-tocopherol supplementation significantly reduced inflammation and oxidative stress markers in patients with metabolic syndrome, with effects enhanced when combined with alpha-tocopherol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18191645/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Natural forms of vitamin E: metabolism, antioxidant and anti-inflammatory activities and the role in disease prevention and therapy",
+      "summary": "Research indicates gamma-tocopherol and delta-tocopherol possess unique antioxidant and anti-inflammatory properties superior to alpha-tocopherol for chronic disease prevention and therapy, challenging conventional focus on alpha-tocopherol supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24704972/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely divided, with some seeking gamma-tocopherol for its unique anti-inflammatory benefits while others express concerns about studies linking it to increased aging and mortality. Most discussion focuses on finding balanced vitamin E complexes rather than gamma-tocopherol isolation."
+  },
+  "effects": [
+    {
+      "label": "Disease Prevention:",
+      "description": "Studies demonstrate potential benefits for metabolic syndrome, cardiovascular health, and chronic inflammatory conditions"
+    },
+    {
+      "label": "Dietary Prevalence:",
+      "description": "Gamma-tocopherol is the predominant vitamin E form in typical US diets, particularly from soybean and corn oils"
+    },
+    {
+      "label": "Mixed Evidence:",
+      "description": "Some studies link higher serum gamma-tocopherol with increased mortality, creating controversy about supplementation"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Absorbed efficiently from the intestine but clears from tissues faster than alpha-tocopherol"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Supplementation:",
+      "description": "Most multivitamins contain 20-50mg of mixed tocopherols including gamma-tocopherol"
+    },
+    {
+      "label": "Clinical Studies:",
+      "description": "Research has used gamma-tocopherol at various doses, often in combination with alpha-tocopherol"
+    },
+    {
+      "label": "Dietary Intake:",
+      "description": "Average US diets provide approximately twice as much gamma-tocopherol as alpha-tocopherol from food sources"
+    },
+    {
+      "label": "Balanced Approach:",
+      "description": "Users and experts recommend mixed tocopherol complexes rather than isolated gamma-tocopherol"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mortality Concerns:",
+      "description": "Some epidemiological studies associate higher gamma-tocopherol levels with increased all-cause and cancer mortality"
+    },
+    {
+      "label": "Cellular Aging:",
+      "description": "Research suggests adults at higher gamma-tocopherol percentiles may experience 2.8-3.4 years greater cellular aging"
+    },
+    {
+      "label": "Contradictory Data:",
+      "description": "Side effect reports are primarily from observational studies, with mechanistic studies showing benefits"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "When used as part of mixed tocopherol supplements, no significant adverse effects reported by users"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Mixed Formulations:",
+      "description": "Most commonly available as part of mixed tocopherol or full vitamin E complex supplements"
+    },
+    {
+      "label": "Specialty Products:",
+      "description": "DeltaGold and similar tocotrienol products contain some gamma forms but users note difficulty finding gamma-specific products"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Abundantly available in walnuts, pecans, soybean oil, and corn oil for dietary intake"
+    }
+  ],
+  "related": [
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "OLEUROPEIN",
+      "slug": "oleuropein"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    },
+    {
+      "name": "RUTIN",
+      "slug": "rutin"
+    },
+    {
+      "name": "TETRAHYDROCURCUMIN",
+      "slug": "tetrahydrocurcumin"
+    }
+  ]
+}

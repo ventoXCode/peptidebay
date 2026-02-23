@@ -1,0 +1,97 @@
+{
+  "slug": "gw0742",
+  "url": "https://dopamine.club/substances/gw0742/",
+  "scrapedAt": "2026-02-12T16:08:19.033Z",
+  "title": "GW0742",
+  "description": "GW0742 is a potent, selective PPAR-delta (peroxisome proliferator-activated receptor) agonist that regulates gene expression to shift the body's metabolism from glucose to fatty acids. Developed by GlaxoSmithKline, it is chemically similar to Cardarine (GW501516) and is primarily researched for its ability to enhance aerobic capacity, increase fat oxidation, and improve physical endurance.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "Emerging drugs affecting skeletal muscle function and mitochondrial biogenesis - Potential implications for sports drug testing programs",
+      "summary": "This research identifies GW0742 as part of a class of metabolic modulators that enhance mitochondrial function and physical performance, leading to its inclusion on prohibited substance lists in competitive sports.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26842585/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users widely report significant improvements in cardiovascular endurance and fat loss, often describing it as a slightly more potent version of Cardarine with high effectiveness."
+  },
+  "effects": [
+    {
+      "label": "Cardiovascular Performance:",
+      "description": "Highly effective for runners, cyclists, and athletes looking to increase their VO2 max and aerobic threshold."
+    },
+    {
+      "label": "Fat Loss:",
+      "description": "Noted for being more potent than Cardarine in its fat-burning action, especially when paired with a caloric deficit."
+    },
+    {
+      "label": "Rapid Action:",
+      "description": "Users often report feeling the metabolic shift and endurance benefits within the first week of use."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Range:",
+      "description": "Most users report effective results using 10mg to 20mg per day."
+    },
+    {
+      "label": "Initial Protocol:",
+      "description": "Beginners often start at 10mg daily to assess tolerance before moving to higher doses."
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Usually cycled for 8-12 weeks followed by an equal amount of time off."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Heart Hypertrophy:",
+      "description": "Some animal studies have raised concerns regarding potential heart enlargement, though human data is lacking."
+    },
+    {
+      "label": "Carcinogenicity Concerns:",
+      "description": "Like all PPAR-delta agonists, there are long-term theoretical concerns regarding cell proliferation, though user reports are anecdotal."
+    },
+    {
+      "label": "Metabolic Shift:",
+      "description": "Some users report initial lethargy as the body adjusts to burning fats over glucose."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical Status:",
+      "description": "Currently sold as a research chemical and is not approved by the FDA for human consumption."
+    },
+    {
+      "label": "WADA Prohibited:",
+      "description": "Classified as a 'Hormone and Metabolic Modulator' and is strictly banned for use in professional and amateur sports."
+    }
+  ],
+  "related": [
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    },
+    {
+      "name": "GLPG-0492",
+      "slug": "glpg-0492"
+    },
+    {
+      "name": "GSK-2849466",
+      "slug": "gsk-2849466"
+    },
+    {
+      "name": "GSK-2881078",
+      "slug": "gsk-2881078"
+    }
+  ]
+}

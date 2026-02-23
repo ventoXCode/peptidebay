@@ -1,0 +1,113 @@
+{
+  "slug": "wild-yam",
+  "url": "https://dopamine.club/substances/wild-yam/",
+  "scrapedAt": "2026-02-12T16:13:07.964Z",
+  "title": "WILD YAM",
+  "description": "Wild yam (Dioscorea villosa) is a plant whose root contains diosgenin, a compound traditionally used for women's hormonal health. While wild yam extract applied topically has been studied for menopausal symptoms, research shows it does not naturally convert to progesterone in the human body, and clinical studies have found limited effectiveness for most hormonal applications when used alone.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of wild yam extract on menopausal symptoms, lipids and sex hormones in healthy menopausal women",
+      "summary": "A clinical trial found that topical wild yam extract showed no significant effects on menopausal symptoms or hormone levels compared to placebo, suggesting limited efficacy for hormonal balance when used alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11428178/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report wild yam cream provides relief for menstrual cramps and PMS symptoms when combined with other botanicals, though scientific evidence for wild yam extract alone is limited. Success appears highly dependent on formulation quality and synergistic ingredients rather than wild yam as a standalone treatment."
+  },
+  "effects": [
+    {
+      "label": "Formulation Matters:",
+      "description": "Effectiveness appears highly dependent on full herbal formulations rather than isolated wild yam extract; products combining multiple botanicals show better user outcomes"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies significantly between users, with some reporting dramatic relief while others notice minimal effects"
+    },
+    {
+      "label": "Synergistic Approach:",
+      "description": "Most positive experiences involve wild yam as part of a broader protocol including diet changes, other supplements, and lifestyle modifications"
+    },
+    {
+      "label": "Limited Standalone Evidence:",
+      "description": "Clinical research on wild yam extract alone shows minimal hormonal effects, contradicting some traditional claims about progesterone conversion"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Topical Cream Application:",
+      "description": "Common recommendation is 1/4 to 1 teaspoon applied to abdomen or thighs daily, often for 3 weeks with 1 week off"
+    },
+    {
+      "label": "Extract Concentration:",
+      "description": "Products typically contain 66mg or more of wild yam root per serving in cream formulations"
+    },
+    {
+      "label": "Timing Protocol:",
+      "description": "Users often apply before menstruation begins and during the first few days of their cycle for menstrual pain"
+    },
+    {
+      "label": "Consistency Required:",
+      "description": "Benefits reported after consistent use for several weeks to months rather than immediate effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal side effects when using topical wild yam cream formulations"
+    },
+    {
+      "label": "Skin Reactions:",
+      "description": "Some individuals may experience mild skin irritation from topical application"
+    },
+    {
+      "label": "Digestive Effects:",
+      "description": "When taken orally, some users report mild gastrointestinal discomfort"
+    },
+    {
+      "label": "Interaction Concerns:",
+      "description": "Limited data on interactions with hormonal medications or birth control; consultation with healthcare provider recommended"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Wild yam creams and supplements are readily available from health stores and online retailers without prescription"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Significant differences in product quality and formulation between brands; users emphasize importance of comprehensive ingredient lists beyond just wild yam extract"
+    },
+    {
+      "label": "Extraction Method Important:",
+      "description": "The method of herbal extraction significantly affects potency and effectiveness, though most products don't specify this information"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    }
+  ]
+}

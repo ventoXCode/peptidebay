@@ -1,0 +1,155 @@
+{
+  "slug": "forskolin",
+  "url": "https://dopamine.club/substances/forskolin/",
+  "scrapedAt": "2026-02-12T16:07:51.056Z",
+  "title": "FORSKOLIN",
+  "description": "Forskolin is a labdane diterpene compound extracted from the root of Coleus forskohlii, a plant used traditionally in Ayurvedic medicine. It works primarily by activating adenylyl cyclase, which increases intracellular cyclic AMP (cAMP) levels, thereby influencing various cellular processes including fat metabolism, thermogenesis, and dopamine receptor function. Research suggests potential applications in weight management, body composition improvement, glaucoma treatment, and metabolic health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Novel Multi-Ingredient Supplement Facilitates Weight Loss and Improves Body Composition in Overweight and Obese Individuals: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial",
+      "summary": "A 12-week study of 55 overweight/obese participants found that a multi-ingredient supplement containing forskolin (50mg) significantly reduced BMI, body weight, and fat content while improving metabolic health outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37686725/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fat burners: nutrition supplements that increase fat metabolism",
+      "summary": "This systematic review found that while many fat-burning supplements lack evidence, forskolin shows promise for enhancing fat metabolism, though more research is needed to confirm its effectiveness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21951331/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Coleus forskohlii Extract Supplementation in Conjunction with a Hypocaloric Diet Reduces the Risk Factors of Metabolic Syndrome in Overweight and Obese Subjects: A Randomized Controlled Trial",
+      "summary": "A randomized controlled trial demonstrated that Coleus forskohlii extract combined with a hypocaloric diet significantly reduced metabolic syndrome risk factors in overweight and obese individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26593941/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective Effect of a Nutritional Supplement Containing Spearmint Extract, Forskolin, Homotaurine and Group B Vitamins in a Mouse Model of Transient Ocular Hypertension",
+      "summary": "Research in a mouse glaucoma model found that a supplement containing forskolin showed neuroprotective effects independent of intraocular pressure lowering, suggesting potential benefits for retinal ganglion cell protection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37239149/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective Efficacy of a Dietary Supplement Based on Forskolin, Homotaurine, Spearmint Extract, and Group B Vitamins in a Mouse Model of Optic Nerve Injury",
+      "summary": "A study using an optic nerve crush model demonstrated that a forskolin-containing supplement counteracted retinal dysfunction and showed anti-inflammatory and neuroprotective properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31816880/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Forskolin Induces Endocrine Disturbance in Human JEG-3 Placental Cells",
+      "summary": "In vitro research found that forskolin caused endocrine disruption in placental cells, activating degenerative receptors and disturbing hormone secretion, raising safety concerns for pregnant women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35878261/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Natural Products: Evidence for Neuroprotection to Be Exploited in Glaucoma",
+      "summary": "A comprehensive review of natural compounds for glaucoma management identified forskolin as having potential neuroprotective effects for retinal ganglion cells, warranting further clinical investigation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33081127/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Local administration of lipid-silica nanohybrid-carried forskolin modulates thermogenesis in human adipocytes and impedes weight gain in mice",
+      "summary": "Research demonstrated that forskolin delivered via nanoparticles successfully promoted the transformation of white adipocytes into thermogenic adipocytes, achieving browning effects in both human cells and mice without systemic side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40741219/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User sentiment on forskolin is genuinely divided, with some reporting significant benefits for metabolism, focus, and dopamine regulation, while others experienced minimal effects or had to discontinue due to side effects like hot flashes and insomnia. The compound appears to work well for some users but requires individual experimentation."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Results appear highly dependent on individual biochemistry, with some users experiencing dramatic effects while others notice minimal benefits"
+    },
+    {
+      "label": "Weight Loss Support:",
+      "description": "Most effective when combined with caloric restriction and exercise rather than as a standalone solution, with research supporting its role as an adjunct therapy"
+    },
+    {
+      "label": "Neuroprotection:",
+      "description": "Promising research for eye health and glaucoma management, though primarily studied in combination formulas rather than forskolin alone"
+    },
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Higher quality extracts standardized to 10-20% forskolin content appear more effective than whole plant extracts, with typical doses ranging from 25-50mg of pure forskolin twice daily"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "Most common dosing is 25-50mg of pure forskolin (from 250-500mg of 10% standardized extract) taken twice daily with meals"
+    },
+    {
+      "label": "CILTEP Stack:",
+      "description": "When used for cognitive enhancement, typically combined with 900mg artichoke extract and 500-750mg acetyl-l-tyrosine"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Users report better results taking forskolin earlier in the day to avoid potential sleep disruption from increased cAMP levels"
+    },
+    {
+      "label": "Cycling Approach:",
+      "description": "Some users recommend taking breaks or cycling forskolin to maintain effectiveness and minimize potential receptor desensitization"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disruption:",
+      "description": "Multiple users report insomnia or difficulty sleeping when taking forskolin, particularly at higher doses or later in the day"
+    },
+    {
+      "label": "Hot Flashes:",
+      "description": "Some users experience uncomfortable hot flashes and temperature regulation issues, leading them to discontinue use"
+    },
+    {
+      "label": "Pregnancy Concerns:",
+      "description": "Research indicates potential endocrine disruption in placental cells, making it unsuitable for pregnant or nursing women"
+    },
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Occasional reports of nausea or digestive discomfort, though less common than other stimulant-based supplements"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Users emphasize importance of choosing reputable brands with standardized extracts (10-20% forskolin), with quality brands and NOW brands mentioned as affordable options"
+    },
+    {
+      "label": "Extract vs Whole Plant:",
+      "description": "Research and user feedback suggest standardized forskolin extracts are safer and more effective than whole Coleus forskohlii plant preparations, which may be harder on the liver"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Forskolin is legal and readily available as an over-the-counter supplement in most countries, often marketed for weight loss or as part of nootropic stacks"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

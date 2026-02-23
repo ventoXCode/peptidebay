@@ -1,0 +1,131 @@
+{
+  "slug": "cordycepin",
+  "url": "https://dopamine.club/substances/cordycepin/",
+  "scrapedAt": "2026-02-12T16:06:56.527Z",
+  "title": "CORDYCEPIN",
+  "description": "Cordycepin (3'-deoxyadenosine) is a natural nucleoside analog derived from Cordyceps militaris fungus that structurally resembles adenosine. It works by modulating multiple cellular pathways including adenosine receptor signaling, oxidative stress response (Keap1/Nrf2/HO-1), and inflammatory cascades, demonstrating anti-inflammatory, antioxidant, neuroprotective, and metabolic regulatory effects.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Cordycepin combined with antioxidant effects improves fatigue caused by excessive exercise",
+      "summary": "Cordycepin enhanced exercise endurance, increased liver and muscle glycogen content, decreased fatigue metabolites (lactic acid, creatine kinase), and improved learning/memory deficits from over-exercise by modulating the Keap1/Nrf2/HO-1 signaling pathway and BDNF expression.",
+      "url": "https://www.nature.com/articles/s41598-025-92790-3",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-inflammatory effects of cordycepin: A review",
+      "summary": "Comprehensive review demonstrating cordycepin's anti-inflammatory properties through multiple mechanisms including modulation of NF-κB, MAPK pathways, and cytokine production, with therapeutic potential for inflammatory diseases.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ptr.6890",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antidepressant-like effects of cordycepin in a mice model of chronic unpredictable mild stress",
+      "summary": "Cordycepin demonstrated antidepressant-like effects in stress-induced animal models, suggesting potential mood-regulating and stress-response modulating properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25587342/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Structural and pharmacological insights into cordycepin for neoplasms and metabolic disorders",
+      "summary": "Review highlighting cordycepin's significant therapeutic potential in alleviating hyperlipidemia, regulating glucose metabolism, and demonstrating anti-tumor effects through multiple mechanisms including apoptosis induction and immune modulation.",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1367820/full",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with cordycepin are limited in the available data, with research showing promising anti-fatigue, anti-inflammatory, and metabolic benefits, but insufficient Reddit user feedback to establish strong consensus on subjective effects, tolerability, or practical efficacy."
+  },
+  "effects": [
+    {
+      "label": "Exercise Performance:",
+      "description": "Demonstrated significant improvements in exercise endurance, glycogen restoration, and reduction of fatigue biomarkers in animal studies"
+    },
+    {
+      "label": "Metabolic Regulation:",
+      "description": "Shows therapeutic potential for hyperlipidemia and glucose metabolism disorders through multiple molecular mechanisms"
+    },
+    {
+      "label": "Stress Response:",
+      "description": "Exhibits antidepressant-like effects in chronic stress models, suggesting mood-regulating properties"
+    },
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Research indicates strategies to enhance bioavailability may be necessary for optimal therapeutic effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use doses scaled appropriately to body weight, with human equivalent doses requiring careful conversion"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Anti-fatigue effects suggest potential benefits when taken before exercise or during periods of high physical demand"
+    },
+    {
+      "label": "Combination Approaches:",
+      "description": "Often studied in combination with other Cordyceps compounds or antioxidants for enhanced effects"
+    },
+    {
+      "label": "Duration:",
+      "description": "Effects on fatigue, metabolism, and inflammation may require sustained supplementation for optimal benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Human Data:",
+      "description": "Most safety data comes from animal studies; comprehensive human side effect profiles are not well-established"
+    },
+    {
+      "label": "Adenosine-Related Effects:",
+      "description": "As an adenosine analog, potential effects on cardiovascular and nervous system should be considered"
+    },
+    {
+      "label": "Metabolic Impact:",
+      "description": "Blood sugar and lipid-regulating effects require monitoring in those with metabolic conditions"
+    },
+    {
+      "label": "General Tolerance:",
+      "description": "Research suggests good tolerance in animal models, but long-term human safety data is limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Source:",
+      "description": "Derived from Cordyceps militaris fungus, available through various supplement manufacturers"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "Cordycepin content can vary significantly between products; standardized extracts are preferable for consistent dosing"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally available as a dietary supplement, though quality control and purity standards vary by manufacturer"
+    }
+  ],
+  "related": [
+    {
+      "name": "LIPOSOMAL VITAMIN C",
+      "slug": "liposomal-vitamin-c"
+    },
+    {
+      "name": "SPIRULINA",
+      "slug": "spirulina"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    }
+  ]
+}

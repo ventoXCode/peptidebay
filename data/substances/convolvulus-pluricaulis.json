@@ -1,0 +1,128 @@
+{
+  "slug": "convolvulus-pluricaulis",
+  "url": "https://dopamine.club/substances/convolvulus-pluricaulis/",
+  "scrapedAt": "2026-02-12T16:06:54.537Z",
+  "title": "CONVOLVULUS PLURICAULIS",
+  "description": "Convolvulus pluricaulis, commonly known as Shankhpushpi, is a perennial herb used in Ayurvedic medicine as a potent medhya rasayana (brain tonic). It works through its neuroprotective, antioxidant, and modulator effects on neurotransmitters like serotonin and acetylcholine to enhance cognitive function and reduce psychological distress.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Role of Shankhpushpi (Convolvulus pluricaulis) in neurological disorders: An umbrella review covering evidence from ethnopharmacology to clinical studies",
+      "summary": "This comprehensive review highlights the herb's ability to improve memory, decrease anxiety, and provide neuroprotection by interacting with serotonergic synapses and reducing neuroinflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35878793/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nootropic, anxiolytic and CNS-depressant studies on different plant sources of shankhpushpi",
+      "summary": "This study identifies Convolvulus pluricaulis as the most effective source of Shankhpushpi for enhancing memory and reducing anxiety when compared to other botanical substitutes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21846173/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "In vivo investigation of the neuroprotective property of Convolvulus pluricaulis in scopolamine-induced cognitive impairments in Wistar rats",
+      "summary": "Research demonstrates that the herb successfully reverses cognitive deficits and memory impairment induced by chemical stressors, confirming its role as a neuroprotective agent.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22021993/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An update on Ayurvedic herb Convolvulus pluricaulis Choisy",
+      "summary": "A clinical update confirming the plant's therapeutic application in treating chronic cough, sleeplessness, epilepsy, and hallucinations through its calming effect on the central nervous system.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25182446/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally value the herb for its ability to clear mental fog and reduce irritability, often seeking it out as a natural alternative for cognitive support."
+  },
+  "effects": [
+    {
+      "label": "Memory Recovery:",
+      "description": "Highly effective at reversing memory deficits caused by external stressors or aging"
+    },
+    {
+      "label": "Stress Management:",
+      "description": "Successfully reduces irritability and psychological distress in regular users"
+    },
+    {
+      "label": "Comparative Strength:",
+      "description": "Clinical data suggests it is the most potent of the three common 'Shankhpushpi' plant sources"
+    },
+    {
+      "label": "Neuroprotection:",
+      "description": "Shows significant promise in the management of neurodegenerative etiologies like Alzheimer's"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Nootropic Dose:",
+      "description": "Research indicates 100 mg/kg in animal models correlates to effective cognitive enhancement"
+    },
+    {
+      "label": "Ayurvedic Tradition:",
+      "description": "Frequently administered as a whole-plant powder or extract in multi-herb formulations"
+    },
+    {
+      "label": "Anxiolytic Dose:",
+      "description": "Lower doses are typically sufficient for anxiety, while higher doses induce sedation"
+    },
+    {
+      "label": "Clinical Concentration:",
+      "description": "Often found in standardized extracts to ensure bioactive metabolite consistency"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "CNS Depression:",
+      "description": "May cause excessive drowsiness if taken in very high doses"
+    },
+    {
+      "label": "Blood Pressure:",
+      "description": "Potential hypotensive effects due to its tranquilizing nature"
+    },
+    {
+      "label": "Interactions:",
+      "description": "Should be used with caution when combined with anti-epileptic drugs like Keppra"
+    },
+    {
+      "label": "Mild Sedation:",
+      "description": "Some users may experience a slowing of physical reactions"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Variety:",
+      "description": "Available through specialized Ayurvedic suppliers and established supplement brands"
+    },
+    {
+      "label": "Multi-Herb Blends:",
+      "description": "Frequently sold as a primary ingredient in 'Brain Tonic' or 'Intellect' herbal complexes"
+    }
+  ],
+  "related": [
+    {
+      "name": "CLITORIA TERNATEA",
+      "slug": "clitoria-ternatea"
+    },
+    {
+      "name": "CELASTRUS PANICULATUS",
+      "slug": "celastrus-paniculatus"
+    },
+    {
+      "name": "GOTU KOLA",
+      "slug": "gotu-kola"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    },
+    {
+      "name": "NIGELLA SATIVA",
+      "slug": "nigella-sativa"
+    }
+  ]
+}

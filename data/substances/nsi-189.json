@@ -1,0 +1,129 @@
+{
+  "slug": "nsi-189",
+  "url": "https://dopamine.club/substances/nsi-189/",
+  "scrapedAt": "2026-02-12T16:10:14.741Z",
+  "title": "NSI-189",
+  "description": "NSI-189 is an experimental nootropic compound that stimulates neurogenesis in the hippocampus. Originally developed for depression, it may enhance memory, cognition, and emotional regulation by promoting new neuron growth.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "The neurogenic compound, NSI-189 phosphate: a novel multi-domain treatment capable of pro-cognitive and antidepressant effects",
+      "summary": "Examines NSI-189's ability to stimulate brain cell growth with potential benefits for depression and cognitive disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28460574/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Enhancement of synaptic plasticity and reversal of impairments in motor and cognitive functions in a mouse model of Angelman Syndrome by NSI-189",
+      "summary": "Demonstrates NSI-189 enhanced long-term potentiation and reversed cognitive and motor function impairments in mouse models of Angelman Syndrome.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0028390818305999",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "A phase 2, double-blind, placebo-controlled study of NSI-189 phosphate for major depressive disorder",
+      "summary": "Found NSI-189 did not significantly reduce depression versus placebo, though the 40 mg dose improved secondary measures.",
+      "url": "https://www.nature.com/articles/s41380-018-0334-8",
+      "source": "(Massachusetts General Hospital)"
+    },
+    {
+      "title": "A Phase 1B, randomized, double blind, placebo controlled study of NSI-189 phosphate in depressed patients",
+      "summary": "Early-phase testing showed NSI-189 produced promising reductions in depressive and cognitive symptoms with no serious adverse effects.",
+      "url": "https://www.nature.com/articles/mp2015178",
+      "source": "(Massachusetts General Hospital)"
+    },
+    {
+      "title": "NSI-189, a small molecule with neurogenic properties, exerts behavioral, and neurostructural benefits in stroke rats",
+      "summary": "Oral NSI-189 significantly improved motor and neurological function, promoted brain remodeling in ischemic stroke models.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jcp.25847",
+      "source": "(Department of Neurosurgery)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report improved mood, memory, and spatial awareness. Some describe profound positive changes while others notice minimal effects. Long-term safety unknown."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Highly variable response among users."
+    },
+    {
+      "label": "Gradual Effects:",
+      "description": "Benefits may take weeks to manifest."
+    },
+    {
+      "label": "Unique Mechanism:",
+      "description": "Different from traditional nootropics."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "40-80mg daily, often divided."
+    },
+    {
+      "label": "Clinical Trials:",
+      "description": "Used 40mg once or twice daily."
+    },
+    {
+      "label": "Duration:",
+      "description": "Often used in multi-week courses."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Some users report headaches."
+    },
+    {
+      "label": "Emotional Processing:",
+      "description": "Initial emotional changes possible."
+    },
+    {
+      "label": "Unknown Long-Term:",
+      "description": "Safety profile not fully characterized."
+    },
+    {
+      "label": "Generally Tolerable:",
+      "description": "Most side effects mild."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from select suppliers."
+    },
+    {
+      "label": "Limited Availability:",
+      "description": "Not as widely stocked as other nootropics."
+    },
+    {
+      "label": "Experimental:",
+      "description": "Still in development; not approved for any use."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "URIDINE",
+      "slug": "uridine"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    }
+  ]
+}

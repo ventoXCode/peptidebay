@@ -1,0 +1,160 @@
+{
+  "slug": "piracetam",
+  "url": "https://dopamine.club/substances/piracetam/",
+  "scrapedAt": "2026-02-12T16:10:41.960Z",
+  "title": "PIRACETAM",
+  "description": "Piracetam is the original racetam and one of the first synthetic nootropics, developed in the 1960s. It enhances memory and cognitive function through modulation of AMPA and NMDA receptors and improved membrane fluidity.",
+  "categories": [
+    "Nootropic",
+    "Racetam"
+  ],
+  "research": [
+    {
+      "title": "Piracetam for fetal distress in labour",
+      "summary": "One study suggested piracetam might reduce the likelihood of a caesarean section, but there was no significant impact on neonatal health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22696322/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Piracetam for acute ischaemic stroke",
+      "summary": "Research found no significant evidence to support its benefit, with a slight, but not statistically significant, trend towards increased early death.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22972044/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Piracetam for reducing the incidence of painful sickle cell disease crises",
+      "summary": "Review of three trials determined evidence was insufficient and of poor quality despite some potential benefits noted in certain trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26869149/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Piracetam in the treatment of cortical myoclonus",
+      "summary": "Individualized high dosages (7-24g daily) can be very effective with minimal side effects, with improvements observed at up to 45g daily.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10338109/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cognitive effects of piracetam in adults with memory impairment: A systematic review and meta-analysis",
+      "summary": "Analysis of multiple clinical trials found no significant difference in memory enhancement between those taking piracetam and the placebo group.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0303846724002452",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Physicochemical investigations of nootropic drug piracetam for enhanced solubilization",
+      "summary": "Study demonstrated that mixing surfactants improves drug solubilization, showing that the process is spontaneous and entropically favorable.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167732224012340",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Effect of Piracetam and Iron Treatment on Heart Rate Variability in Patients With Breath-Holding Spell",
+      "summary": "Research observed significant improvements in HRV parameters and a reduction in the number of breath-holding episodes with piracetam treatment.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0887899424001292",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Efficacy and safety of compound porcine cerebroside and ganglioside injection versus piracetam on cognition",
+      "summary": "Large controlled trial comparing CPCGI injection effectiveness to piracetam for cognitive and functional outcomes in mild to moderate traumatic brain injury.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2405844024133270",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Docosahexaenoic Acid Plus Piracetam Versus Piracetam Alone for Treatment of Breath-Holding Spells",
+      "summary": "Adding DHA to piracetam significantly reduced the frequency and severity of breath-holding spells with 16% experiencing spells versus 50% with piracetam alone.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0887899423002618",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Piracetam mitigates nephrotoxicity induced by cisplatin via the AMPK-mediated signaling pathways",
+      "summary": "Investigation found piracetam improved kidney function, reduced tissue damage and inflammation against chemotherapy-induced kidney damage.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1567576924010324",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "The classic nootropic with decades of use and research. Effects are subtle but consistent. Often the first racetam people try. Very safe profile."
+  },
+  "effects": [
+    {
+      "label": "Cumulative Benefits:",
+      "description": "Effects often improve over weeks."
+    },
+    {
+      "label": "Subtle Action:",
+      "description": "Not immediately noticeable like stimulants."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Works well with choline and other racetams."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "1.6-4.8g daily, divided into 2-3 doses."
+    },
+    {
+      "label": "Attack Dose:",
+      "description": "Some start with higher doses initially."
+    },
+    {
+      "label": "Consistent Dosing:",
+      "description": "Best results with regular use."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Common without adequate choline."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Possible if taken late in day."
+    },
+    {
+      "label": "Brain Fog:",
+      "description": "Paradoxically possible at wrong doses."
+    },
+    {
+      "label": "Extremely Safe:",
+      "description": "Excellent safety record over decades."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription in Europe:",
+      "description": "Available by prescription in many countries."
+    },
+    {
+      "label": "Supplement/Research:",
+      "description": "Sold as supplement or research chemical in US."
+    },
+    {
+      "label": "Very Affordable:",
+      "description": "One of the cheapest nootropics per dose."
+    }
+  ],
+  "related": [
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    },
+    {
+      "name": "COLURACETAM",
+      "slug": "coluracetam"
+    },
+    {
+      "name": "NEFIRACETAM",
+      "slug": "nefiracetam"
+    },
+    {
+      "name": "Oxiracetam",
+      "slug": "oxiracetam"
+    },
+    {
+      "name": "Phenylpiracetam",
+      "slug": "phenylpiracetam"
+    }
+  ]
+}

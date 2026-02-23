@@ -1,0 +1,131 @@
+{
+  "slug": "humanin",
+  "url": "https://dopamine.club/substances/humanin/",
+  "scrapedAt": "2026-02-12T16:08:33.294Z",
+  "title": "HUMANIN",
+  "description": "Humanin is a 24-amino acid mitochondrial-derived peptide (MDP) that acts as a potent cytoprotective and neuroprotective factor. It works by inhibiting apoptosis through interactions with Bax and Bcl-2 proteins and by reducing oxidative stress and inflammation across multiple organ systems.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Humanin Prevents Age-Related Cognitive Decline in Mice and is Associated with Improved Cognitive Age in Humans",
+      "summary": "This study found that humanin administration improves memory in aged mice and that higher naturally occurring levels in humans are associated with better cognitive aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30220090/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The mitochondrial derived peptide humanin is a regulator of lifespan and healthspan",
+      "summary": "Researchers demonstrated that humanin overexpression increases lifespan in C. elegans and improves metabolic health and inflammatory markers in middle-aged mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32574163/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Humanin and Its Pathophysiological Roles in Aging: A Systematic Review",
+      "summary": "A comprehensive review highlighting humanin's role in protecting against neurodegeneration, cardiovascular disease, and metabolic disorders like diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37106758/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective Mechanism of Humanin Against Oxidative Stress in Aging-Related Cardiovascular Diseases",
+      "summary": "This research details how humanin protects the heart and blood vessels by reducing oxidative stress and maintaining mitochondrial function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34177817/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users and researchers alike view Humanin as a highly promising anti-aging and neuroprotective agent with few reported side effects and strong theoretical backing."
+  },
+  "effects": [
+    {
+      "label": "Cognition:",
+      "description": "Highly effective at preserving memory and learning capabilities in aging populations"
+    },
+    {
+      "label": "Longevity:",
+      "description": "Strongly correlated with healthspan extension and preserved mitochondrial function"
+    },
+    {
+      "label": "Cardiovascular:",
+      "description": "Shows significant promise in protecting vascular endothelium and preventing atherosclerosis"
+    },
+    {
+      "label": "Animal Models:",
+      "description": "Exceptional results in rodents, though human clinical trial data for direct supplementation is still emerging"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "HNG Analog:",
+      "description": "The potent derivative HNG is often preferred in research settings due to its 1000-fold higher activity than natural Humanin"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Research protocols often utilize twice-weekly administration for healthspan maintenance"
+    },
+    {
+      "label": "Administration:",
+      "description": "Typically administered via subcutaneous injection in experimental settings for optimal bioavailability"
+    },
+    {
+      "label": "Biological Markers:",
+      "description": "Circulating levels naturally decline with age, making 'replacement' levels a target for longevity enthusiasts"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Risks:",
+      "description": "Humanin is an endogenous peptide, and studies generally report an excellent safety profile with few side effects"
+    },
+    {
+      "label": "Injection Site Irritation:",
+      "description": "As with most peptide injections, localized redness or soreness may occur"
+    },
+    {
+      "label": "Potential Growth Interaction:",
+      "description": "High levels are found in centenarians, but its interaction with growth hormone pathways requires careful monitoring"
+    },
+    {
+      "label": "Theoretical Concerns:",
+      "description": "Long-term effects of chronic supra-physiological levels in humans remain largely unstudied"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemicals:",
+      "description": "Primarily available through peptide supply companies for laboratory and research use"
+    },
+    {
+      "label": "Endogenous Boosting:",
+      "description": "Lifestyle factors like exercise and cold exposure are sometimes discussed as natural ways to support Humanin levels"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Not currently FDA-approved for human medical treatment, strictly classified as a research compound"
+    }
+  ],
+  "related": [
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    },
+    {
+      "name": "CORTAGEN",
+      "slug": "cortagen"
+    }
+  ]
+}

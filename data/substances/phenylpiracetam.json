@@ -1,0 +1,136 @@
+{
+  "slug": "phenylpiracetam",
+  "url": "https://dopamine.club/substances/phenylpiracetam/",
+  "scrapedAt": "2026-02-12T16:10:35.651Z",
+  "title": "PHENYLPIRACETAM",
+  "description": "Phenylpiracetam is a potent racetam with a phenyl group that increases its stimulant properties and ability to cross the blood-brain barrier. It's banned by WADA for its performance-enhancing effects and provides significant cognitive and physical enhancement.",
+  "categories": [
+    "Nootropic",
+    "Racetam"
+  ],
+  "research": [
+    {
+      "title": "S-phenylpiracetam, a selective DAT inhibitor, reduces body weight gain without influencing locomotor activity",
+      "summary": "S-phenylpiracetam significantly decreased body weight gain and fat mass in obese rodent models.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0091305717301545",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "New synthesis of β-aryl-GABA drugs",
+      "summary": "Researchers developed a novel cascade radical reaction method for synthesizing phenylpiracetam and related compounds.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0040402023004507",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Neuroprotective and anti-inflammatory activity of DAT inhibitor R-phenylpiracetam",
+      "summary": "R-phenylpiracetam demonstrated neuroprotective and anti-inflammatory effects through dopamine transporter interaction.",
+      "url": "https://link.springer.com/article/10.1007/s10787-020-00705-7",
+      "source": "(Latvian Institute of Organic Synthesis)"
+    },
+    {
+      "title": "Stereochemistry of phenylpiracetam and its methyl derivative: improvement of the pharmacological profile",
+      "summary": "Review emphasizing how molecular configuration of (R)-phenylpiracetam affects biological effectiveness for cognitive enhancement.",
+      "url": "https://link.springer.com/article/10.1007/s10593-015-1747-9",
+      "source": "(Latvian Institute of Organic Synthesis)"
+    },
+    {
+      "title": "Single Enantiomer's Urge to Crystallize in Centrosymmetric Space Groups: Solid Solutions of Phenylpiracetam",
+      "summary": "Analysis revealed phenylpiracetam enantiomers form distinct polymorphs with different crystallographic properties.",
+      "url": "https://pubs.acs.org/doi/abs/10.1021/acs.cgd.6b01867",
+      "source": "(Max Planck Institute)"
+    },
+    {
+      "title": "On the formation of phenylpiracetam solid solutions: thermodynamic and structural considerations",
+      "summary": "Study characterized two rare solid solution types with distinct miscibility properties and phase transitions.",
+      "url": "https://www.researchgate.net/publication/323116915",
+      "source": "(University of Latvia)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Highly regarded for its potent cognitive and physical enhancement. Users report significant focus and energy. Tolerance develops quickly, limiting daily use."
+  },
+  "effects": [
+    {
+      "label": "Highly Potent:",
+      "description": "Active at 100-200mg vs 2-4g for piracetam."
+    },
+    {
+      "label": "Fast Tolerance:",
+      "description": "Loses effectiveness quickly with daily use."
+    },
+    {
+      "label": "Best Used Sparingly:",
+      "description": "Reserved for important occasions."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "100-300mg per dose."
+    },
+    {
+      "label": "Infrequent Dosing:",
+      "description": "2-3 times per week maximum recommended."
+    },
+    {
+      "label": "Morning Only:",
+      "description": "Too stimulating for evening use."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Insomnia:",
+      "description": "Strong stimulation can disrupt sleep."
+    },
+    {
+      "label": "Tolerance:",
+      "description": "Rapid tolerance development."
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "Can cause anxiety in sensitive individuals."
+    },
+    {
+      "label": "Headaches:",
+      "description": "Possible without adequate choline."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from nootropic suppliers."
+    },
+    {
+      "label": "Banned by WADA:",
+      "description": "Cannot be used in competitive sports."
+    },
+    {
+      "label": "Variable Quality:",
+      "description": "Source from reputable vendors."
+    }
+  ],
+  "related": [
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    },
+    {
+      "name": "COLURACETAM",
+      "slug": "coluracetam"
+    },
+    {
+      "name": "NEFIRACETAM",
+      "slug": "nefiracetam"
+    },
+    {
+      "name": "Oxiracetam",
+      "slug": "oxiracetam"
+    },
+    {
+      "name": "Piracetam",
+      "slug": "piracetam"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "oleic-acid",
+  "url": "https://dopamine.club/substances/oleic-acid/",
+  "scrapedAt": "2026-02-12T16:10:15.526Z",
+  "title": "OLEIC ACID",
+  "description": "Oleic acid is a monounsaturated omega-9 fatty acid commonly found in olive oil, nuts, and various seeds. It functions as an anti-inflammatory compound that modulates cellular signaling pathways including PI3K/AKT-Nrf2 and AMPK-mTOR, affecting lipid metabolism, insulin sensitivity, and oxidative stress. Oleic acid is used primarily for metabolic health, cardiovascular protection, and anti-inflammatory purposes.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Dietary oleic acid supplementation and blood inflammatory markers: a systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis of 31 RCTs involving 1,634 subjects found that oleic acid supplementation significantly reduced C-reactive protein (CRP) levels, indicating anti-inflammatory benefits, though it did not significantly affect other inflammatory markers like TNF or IL-6.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33305589/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oleic acid abomasal infusion limits lipolysis and improves insulin sensitivity in adipose tissue from periparturient dairy cows",
+      "summary": "Oleic acid infusion reduced adipose tissue lipolysis and improved insulin sensitivity in dairy cows during the periparturient period, suggesting beneficial effects on metabolic regulation and energy balance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37105874/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oleic acid ameliorates amyloidosis in cellular and mouse models of Alzheimer's disease",
+      "summary": "Oleic acid supplementation reduced amyloid-beta levels and BACE enzyme activity in Alzheimer's disease models, decreased amyloid plaques, and increased non-amyloidogenic APP processing, suggesting neuroprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21040071/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Free Linoleic Acid and Oleic Acid Reduce Fat Digestion and Absorption In Vivo as Potent Pancreatic Lipase Inhibitors Derived from Sesame Meal",
+      "summary": "Oleic acid demonstrated potent pancreatic lipase inhibitory activity with an IC50 of 11.7 µg/mL and significantly suppressed fat digestion and absorption in rats, suggesting potential for weight management applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35956860/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary oleic acid intake increases the proportion of type 1 and 2X muscle fibers in mice",
+      "summary": "Dietary oleic acid supplementation increased the proportion of slow-twitch type 1 and oxidative type 2X muscle fibers in mice, suggesting potential benefits for endurance and metabolic muscle characteristics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38191891/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nitro-oleic acid regulates growth factor-induced differentiation of bone marrow-derived macrophages",
+      "summary": "Nitro-oleic acid, a metabolite of oleic acid, was found to regulate macrophage differentiation and modulate immune responses, demonstrating anti-inflammatory properties in bone marrow-derived cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28063941/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hesperetin ameliorates hepatic oxidative stress and inflammation via the PI3K/AKT-Nrf2-ARE pathway in oleic acid-induced HepG2 cells and a rat model of high-fat diet-induced NAFLD",
+      "summary": "Study used oleic acid to induce hepatic steatosis models, demonstrating its role in fatty liver research and establishing that interventions targeting oxidative stress pathways can ameliorate oleic acid-induced liver damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33977953/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dehydroepiandrosterone alleviates oleic acid-induced lipid metabolism disorders through activation of AMPK-mTOR signal pathway in primary chicken hepatocytes",
+      "summary": "Research utilized oleic acid to model lipid metabolism disorders in hepatocytes, demonstrating that interventions activating AMPK-mTOR pathways can reverse oleic acid-induced metabolic disturbances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36565630/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "Oleic acid receives minimal direct discussion in user forums as a standalone supplement, appearing primarily in research contexts and as a component of other supplements. When mentioned, it's generally recognized for anti-inflammatory properties but lacks substantial user experience data for assessment."
+  },
+  "effects": [
+    {
+      "label": "Inflammation Reduction:",
+      "description": "Meta-analysis of 31 RCTs showed significant CRP reduction with 10% decrease per 10g fiber increase"
+    },
+    {
+      "label": "Fat Metabolism:",
+      "description": "Demonstrated pancreatic lipase inhibition comparable to pharmaceutical options, reducing fat absorption"
+    },
+    {
+      "label": "Research Model Use:",
+      "description": "Frequently used in studies to induce metabolic conditions, indicating well-understood cellular mechanisms"
+    },
+    {
+      "label": "Dose-Dependent Benefits:",
+      "description": "Effects appear to scale with intake, though optimal dosing ranges vary by application"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Studies used varying amounts from 0.5-1.0 mM oleic acid in cellular models"
+    },
+    {
+      "label": "Dietary Sources:",
+      "description": "Naturally obtained through Mediterranean diet components like olive oil, nuts, and avocados"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "When supplemented directly, often combined with other fatty acids rather than isolated"
+    },
+    {
+      "label": "Food-Based Approach:",
+      "description": "Most evidence supports obtaining oleic acid through whole food sources rather than isolated supplements"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cellular Stress:",
+      "description": "At high concentrations, oleic acid can induce hepatic steatosis and lipid accumulation in cell models"
+    },
+    {
+      "label": "Metabolic Disruption:",
+      "description": "Excessive intake may contribute to lipid metabolism disorders in susceptible individuals"
+    },
+    {
+      "label": "Research Safety:",
+      "description": "Human trials generally report good tolerability when consumed as part of balanced dietary fats"
+    },
+    {
+      "label": "Limited Standalone Data:",
+      "description": "Few reports of side effects from isolated oleic acid supplementation in humans"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Food Sources:",
+      "description": "Readily available through olive oil (55-85% oleic acid), avocados, nuts (especially macadamias and almonds)"
+    },
+    {
+      "label": "Supplement Form:",
+      "description": "Not commonly sold as isolated oleic acid supplement; typically consumed through dietary sources or mixed fatty acid products"
+    },
+    {
+      "label": "Research Grade:",
+      "description": "Available as research chemical for laboratory use but not marketed for human supplementation"
+    }
+  ],
+  "related": [
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    },
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "HUMIC ACID",
+      "slug": "humic-acid"
+    },
+    {
+      "name": "MALIC ACID",
+      "slug": "malic-acid"
+    }
+  ]
+}

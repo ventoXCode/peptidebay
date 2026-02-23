@@ -1,0 +1,143 @@
+{
+  "slug": "wogonin",
+  "url": "https://dopamine.club/substances/wogonin/",
+  "scrapedAt": "2026-02-12T16:13:08.813Z",
+  "title": "WOGONIN",
+  "description": "Wogonin is a natural flavonoid compound extracted from Scutellaria baicalensis (Chinese skullcap) and related species. It functions primarily through anti-inflammatory, anti-oxidative, and anti-cancer mechanisms, including modulation of MAPK signaling pathways, inhibition of COX-2 expression, and induction of ferroptosis in cancer cells. Research suggests potential applications in cancer treatment, pulmonary conditions, and inflammatory diseases.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Wogonin attenuates septic cardiomyopathy by suppressing ALOX15-mediated ferroptosis",
+      "summary": "Wogonin protected against septic cardiomyopathy in mice by directly binding to and inhibiting ALOX15, preventing cardiomyocyte ferroptosis and improving cardiac function. The cardioprotective effects were mediated through suppression of ALOX15-initiated ferroptosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40205009/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Wogonin Attenuates Bleomycin-Induced Pulmonary Fibrosis and Oxidative Stress Injury via the MAPK Signaling Pathway",
+      "summary": "Wogonin significantly reduced pulmonary fibrosis and oxidative stress in a rat model by modulating the MAPK pathway, showing potential as a therapeutic agent for idiopathic pulmonary fibrosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39756931/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Wogonin, a bioactive flavonoid in herbal tea, inhibits inflammatory cyclooxygenase-2 gene expression in human lung epithelial cancer cells",
+      "summary": "Wogonin inhibited PMA-induced COX-2 expression in lung cancer cells at the transcriptional level through the MEK1/2 pathway and AP-1 activity, demonstrating anti-inflammatory and anti-cancer properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18496814/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antiproliferative Wnt inhibitor wogonin prevents eryptosis following ionophoric challenge, hyperosmotic shock, oxidative stress, and metabolic deprivation",
+      "summary": "Wogonin protected red blood cells from premature death (eryptosis) under various stress conditions including calcium overload and oxidative stress, suggesting potential in preventing chemotherapy-related anemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34664287/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Detection of baicalin metabolites baicalein and oroxylin-a in mouse pancreas and pancreatic xenografts",
+      "summary": "Study demonstrated that baicalin from Scutellaria baicalensis undergoes significant methylation to oroxylin A during absorption, with substantial amounts detected in pancreatic tissue and tumors, showing tissue-specific distribution patterns.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22158070/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparison of the major flavonoid content of S. baicalensis, S. lateriflora, and their commercial products",
+      "summary": "Analysis of Scutellaria species found significant variations in wogonin and baicalin content between roots and aerial parts, with roots containing substantially higher levels of active flavonoids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18404307/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Limited direct user experiences with wogonin as a standalone supplement. Most User feedback discussions focus on other compounds or broader herbal formulations containing Scutellaria species, with minimal specific feedback on wogonin's effects or tolerability."
+  },
+  "effects": [
+    {
+      "label": "Cancer Applications:",
+      "description": "Shows promising results in preclinical studies for pancreatic and lung cancer through ferroptosis induction and PI3K/AKT pathway modulation"
+    },
+    {
+      "label": "Pulmonary Conditions:",
+      "description": "Demonstrates effectiveness in reducing pulmonary fibrosis and inflammation in animal models"
+    },
+    {
+      "label": "Cardiac Protection:",
+      "description": "Provides significant protection against septic cardiomyopathy in experimental settings"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Most evidence comes from in vitro and animal studies; clinical human trials are lacking"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Animal Studies:",
+      "description": "Doses of 20-60 mg/kg administered intraperitoneally in mouse models showed cardioprotective and anti-fibrotic effects"
+    },
+    {
+      "label": "Cell Culture:",
+      "description": "Concentrations of 50-100 μM used in cancer cell studies to induce ferroptosis and inhibit proliferation"
+    },
+    {
+      "label": "Human Dosing:",
+      "description": "No standardized human dosing guidelines established; typically consumed as part of Scutellaria baicalensis extracts in traditional medicine"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Undergoes significant methylation to oroxylin A during absorption, affecting tissue distribution and metabolite activity"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Safety Data:",
+      "description": "Few reported side effects in research studies, but long-term human safety data is minimal"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "As a COX-2 inhibitor and MAPK modulator, may interact with medications affecting these pathways"
+    },
+    {
+      "label": "Metabolic Considerations:",
+      "description": "Converts to oroxylin A metabolite which may have different activity profile than parent compound"
+    },
+    {
+      "label": "Red Blood Cell Effects:",
+      "description": "While protective against eryptosis in some conditions, effects on normal red blood cell function require further study"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Herbal Sources:",
+      "description": "Available primarily through Scutellaria baicalensis (Chinese skullcap) root extracts and supplements"
+    },
+    {
+      "label": "Standardization Issues:",
+      "description": "Content varies significantly between products and plant parts (roots vs. aerial parts), with roots containing higher concentrations"
+    },
+    {
+      "label": "Research Compounds:",
+      "description": "Pure wogonin available as research chemical but not commonly sold as standalone dietary supplement"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "ELEUTHERO",
+      "slug": "eleuthero"
+    },
+    {
+      "name": "GRAPE SEED EXTRACT",
+      "slug": "grape-seed-extract"
+    },
+    {
+      "name": "PEA",
+      "slug": "pea"
+    }
+  ]
+}

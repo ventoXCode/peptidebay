@@ -1,0 +1,149 @@
+{
+  "slug": "vitamin-d3",
+  "url": "https://dopamine.club/substances/vitamin-d3/",
+  "scrapedAt": "2026-02-12T16:13:05.474Z",
+  "title": "VITAMIN D3",
+  "description": "Vitamin D3 (cholecalciferol) is a fat-soluble vitamin that plays a crucial role in calcium absorption, bone health, immune function, and various cellular processes throughout the body. It can be synthesized in the skin through UVB exposure or obtained through diet and supplementation. D3 is converted in the liver to 25-hydroxyvitamin D and then to its active form in the kidneys, regulating calcium homeostasis and influencing gene expression in multiple organ systems.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Comparison of vitamin D2 and vitamin D3 supplementation in raising serum 25-hydroxyvitamin D status: a systematic review and meta-analysis",
+      "summary": "Systematic review demonstrating that vitamin D3 is more effective than vitamin D2 at raising and maintaining serum 25(OH)D levels in humans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22552031/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin D Supplementation: A Review of the Evidence Arguing for a Daily Dose of 2000 International Units (50 µg) of Vitamin D for Adults in the General Population",
+      "summary": "Comprehensive review supporting 2000 IU daily supplementation for adults to maintain adequate vitamin D status and prevent deficiency-related health issues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38337676/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "What is the impact of daily oral supplementation of vitamin D3 (cholecalciferol) plus calcium on the incidence of hip fracture in older people? A systematic review and meta-analysis",
+      "summary": "Meta-analysis of seven RCTs showing that combined vitamin D3 and calcium supplementation significantly reduces hip fracture risk in older adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35842938/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Vitamin D3 and Omega-3 Fatty Acid Supplementation on Risk of Frailty: An Ancillary Study of a Randomized Clinical Trial",
+      "summary": "Large randomized trial examining whether vitamin D3 supplementation affects frailty risk in older adults, providing insights into anti-aging effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36098968/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin D(3) and marine ω-3 fatty acids supplementation and leukocyte telomere length: 4-year findings from the VITamin D and OmegA-3 TriaL (VITAL)",
+      "summary": "Four-year randomized controlled trial investigating whether vitamin D3 supplementation affects cellular aging markers through telomere length maintenance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40409468/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Vitamin D Supplementation on Muscle Strength in Athletes: A Systematic Review",
+      "summary": "Systematic review finding that vitamin D3 supplementation positively impacts muscle strength in athletes, while vitamin D2 was ineffective, with dosages ranging from 600 to 5000 IU daily.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27379960/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin D3 Supplement Attenuates Blood-Brain Barrier Disruption and Cognitive Impairments in a Rat Model of Traumatic Brain Injury",
+      "summary": "Animal study demonstrating vitamin D3's neuroprotective effects, reducing brain edema and blood-brain barrier disruption following traumatic brain injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33616826/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users overwhelmingly report significant improvements in energy, mood, immune function, sleep quality, and hair health with vitamin D3 supplementation. The vast majority describe it as 'life-changing' or 'amazing', with most positive experiences occurring when combined with cofactors like magnesium and K2, though some users experienced side effects from inadequate dosing or missing cofactors."
+  },
+  "effects": [
+    {
+      "label": "Cofactor Dependency:",
+      "description": "Effectiveness dramatically increases when taken with magnesium (for absorption) and vitamin K2 (for proper calcium distribution), with many users reporting no benefits until adding these cofactors"
+    },
+    {
+      "label": "Dosage Response:",
+      "description": "2000 IU often insufficient to raise levels significantly; most users find 5000-10,000 IU daily more effective, with some requiring 20,000+ IU in northern climates or with severe deficiency"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Most users report noticeable improvements within 2-4 weeks, though optimal blood levels may take 3-6 months to achieve with consistent supplementation"
+    },
+    {
+      "label": "Testing Essential:",
+      "description": "Blood testing before and during supplementation crucial for determining adequate dosing, as individual absorption rates vary significantly"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Maintenance Dose:",
+      "description": "5000-10,000 IU daily most commonly recommended for maintenance, with higher doses (10,000-20,000 IU) for those in low-sunlight areas"
+    },
+    {
+      "label": "Deficiency Correction:",
+      "description": "50,000 IU weekly for 8-12 weeks frequently prescribed by doctors for severe deficiency (levels below 20 ng/mL), then transitioning to daily maintenance"
+    },
+    {
+      "label": "Conservative Approach:",
+      "description": "2000-4000 IU daily sufficient for those with mild deficiency or adequate sun exposure, though many users report this dose insufficient to raise levels significantly"
+    },
+    {
+      "label": "Cofactor Ratios:",
+      "description": "100 mcg K2 per 10,000 IU D3 commonly recommended, with 200-400 mg magnesium glycinate daily for optimal absorption"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Magnesium Depletion:",
+      "description": "Without adequate magnesium, users report insomnia, leg cramps, muscle pain, headaches, and feeling 'hot' at night - symptoms resolve with magnesium supplementation"
+    },
+    {
+      "label": "Calcium Imbalance:",
+      "description": "Taking high doses without K2 can lead to improper calcium distribution, with rare reports of hypercalcemia symptoms, though this is uncommon at recommended doses"
+    },
+    {
+      "label": "Stomach Issues:",
+      "description": "Taking on empty stomach can cause nausea and discomfort; fat-soluble nature requires consumption with meals containing dietary fat for optimal absorption"
+    },
+    {
+      "label": "Lanolin Sensitivity:",
+      "description": "Rare allergic reactions to lanolin-derived D3 supplements causing anger, rage, or headaches; lichen-derived vegan D3 serves as alternative"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Considerations:",
+      "description": "Most D3 supplements considered equivalent if third-party tested, with emphasis on choosing products showing batch testing"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "D3+K2 combination supplements widely available and preferred by users; major retailers Kirkland brand frequently recommended for value, with most formulations using MK-7 form of K2"
+    },
+    {
+      "label": "Cost Effectiveness:",
+      "description": "Vitamin D3 is inexpensive relative to benefits; quality supplements range from $10-30 for 3-6 month supply, making it one of the most cost-effective supplements available"
+    }
+  ],
+  "related": [
+    {
+      "name": "LIPOSOMAL VITAMIN C",
+      "slug": "liposomal-vitamin-c"
+    },
+    {
+      "name": "VITAMIN B COMPLEX",
+      "slug": "vitamin-b-complex"
+    },
+    {
+      "name": "VITAMIN B6 (PYRIDOXINE)",
+      "slug": "vitamin-b6-pyridoxine"
+    },
+    {
+      "name": "VITAMIN B8 (INOSITOL)",
+      "slug": "vitamin-b8-inositol"
+    },
+    {
+      "name": "VITAMIN B9 (FOLATE)",
+      "slug": "vitamin-b9-folate"
+    }
+  ]
+}

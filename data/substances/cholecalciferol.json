@@ -1,0 +1,131 @@
+{
+  "slug": "cholecalciferol",
+  "url": "https://dopamine.club/substances/cholecalciferol/",
+  "scrapedAt": "2026-02-12T16:06:41.625Z",
+  "title": "CHOLECALCIFEROL",
+  "description": "Cholecalciferol (Vitamin D3) is a fat-soluble secosteroid synthesized in the skin upon UVB exposure or obtained through dietary sources. It is hydroxylated in the liver and kidneys to form calcitriol (1,25-dihydroxyvitamin D), which regulates calcium-phosphorus metabolism, bone health, immune function, and various extraskeletal processes through vitamin D receptor-mediated pathways.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Cholecalciferol (vitamin D3): efficacy, safety, and implications in public health",
+      "summary": "Comprehensive review showing vitamin D3 supplementation improves bone mineral density, immune homeostasis, glycemic control, and reduces inflammation, with demonstrated benefits in chronic kidney disease, cystic fibrosis, and inflammatory bowel disease patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40551736/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline",
+      "summary": "Clinical practice guideline evaluating vitamin D's role in disease prevention, providing evidence-based recommendations for supplementation strategies across different populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38828931/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin D Resistance as a Possible Cause of Autoimmune Diseases: A Hypothesis Confirmed by a Therapeutic High-Dose Vitamin D Protocol",
+      "summary": "Study proposing that acquired vitamin D resistance contributes to autoimmune disease development and can be effectively treated with high-dose vitamin D3 therapy, with clinical evidence supporting this therapeutic approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33656188/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "How Much Vitamin D is Too Much? A Case Report and Review of the Literature",
+      "summary": "Case report and literature review examining vitamin D toxicity thresholds, finding that adverse reactions from supplementation are rare and typically require very high doses over extended periods, with vitamin D levels taking 18 months to normalize after toxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33030138/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with vitamin D3 supplementation for immunity, mood, and inflammation reduction. While some users experience challenges with absorption or tolerance, the majority find it beneficial when properly dosed with cofactors like K2 and magnesium."
+  },
+  "effects": [
+    {
+      "label": "Deficiency Correction:",
+      "description": "Effectiveness varies widely by individual; some users require 10,000 IU daily to maintain optimal levels while others respond to 2,000 IU, highlighting the importance of blood testing"
+    },
+    {
+      "label": "Absorption Variability:",
+      "description": "Many users struggle with absorption despite supplementation, with genetic factors, magnesium deficiency, and inadequate fat intake commonly cited as limiting factors"
+    },
+    {
+      "label": "Cofactor Requirements:",
+      "description": "Users consistently report better results when combining D3 with vitamin K2 (to prevent calcium dysregulation) and magnesium (essential for D3 metabolism)"
+    },
+    {
+      "label": "Timing and Context:",
+      "description": "Best absorbed when taken with high-fat meals; liquid forms may be more bioavailable than capsules for some individuals"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Maintenance Dosing:",
+      "description": "2,000-5,000 IU daily is commonly used for maintenance, with 2,000 IU sufficient to maintain recommended levels for many users when taken consistently"
+    },
+    {
+      "label": "Therapeutic Dosing:",
+      "description": "10,000-20,000 IU daily used by some for deficiency correction or therapeutic purposes, though this should be monitored with blood work to avoid toxicity"
+    },
+    {
+      "label": "High-Dose Protocols:",
+      "description": "50,000 IU weekly or daily used in severe deficiency cases, but many users report limited effectiveness without addressing cofactor deficiencies"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Blood testing is essential as response to supplementation varies dramatically; some users maintain 180 nmol/L on 10,000 IU while others barely reach 75 nmol/L on the same dose"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disruption:",
+      "description": "Common complaint of worsened sleep quality, insomnia, or restlessness, particularly at higher doses or when taken later in the day"
+    },
+    {
+      "label": "Anxiety and Overstimulation:",
+      "description": "Some users report increased anxiety, mental stimulation, or feelings of being 'wired' from D3 supplementation"
+    },
+    {
+      "label": "Calcium-Related Issues:",
+      "description": "Risk of hypercalcemia with high doses if not balanced with vitamin K2, potentially leading to vascular calcification"
+    },
+    {
+      "label": "Bone Pain and Discomfort:",
+      "description": "Some users experience bone pain, particularly in the legs and femur, which may indicate calcium dysregulation or cofactor imbalances"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Cholecalciferol is readily available over-the-counter in various forms including softgels, liquid drops, and oil-based preparations from numerous brands"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize the importance of choosing reputable brands with third-party testing, noting significant variation in product quality and bioavailability across manufacturers"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Many users prefer D3+K2 combination products to ensure proper calcium metabolism, with liquid forms generally preferred for better absorption"
+    }
+  ],
+  "related": [
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    }
+  ]
+}

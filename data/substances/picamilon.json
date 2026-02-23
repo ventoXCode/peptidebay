@@ -1,0 +1,143 @@
+{
+  "slug": "picamilon",
+  "url": "https://dopamine.club/substances/picamilon/",
+  "scrapedAt": "2026-02-12T16:10:38.926Z",
+  "title": "PICAMILON",
+  "description": "Picamilon is a synthetic compound combining GABA (gamma-aminobutyric acid) and niacin (vitamin B3) that was developed in Russia as a nootropic and anxiolytic drug. The niacin component allows the molecule to cross the blood-brain barrier, where it is then metabolized to release GABA, theoretically providing calming and cognitive enhancement effects. While approved as a prescription medication in Russia for cerebrovascular disorders, it has never been approved by the FDA and was banned from sale as a dietary supplement in the United States in 2015.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Identification and quantification of vinpocetine and picamilon in dietary supplements sold in the United States",
+      "summary": "Study found picamilon being sold illegally in US dietary supplements despite never receiving FDA approval, raising regulatory and safety concerns about unapproved drugs in the supplement market.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26426301/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Picamilon, a γ-aminobutyric acid (GABA) analogue and marketed nootropic, is inactive against 50 biological targets",
+      "summary": "In vitro screening revealed picamilon showed weak or no binding to 50 safety-related biological targets (receptors, ion channels, enzymes) at 10 μM, suggesting a different binding profile than other GABA analogues despite structural similarity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36668678/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gabaergic mechanism of cerebrovascular and neuroprotective effects of afobazole and picamilon",
+      "summary": "Research in rats found that picamilon's cerebrovascular effects were not affected by GABA receptor blocking but were significantly reduced by blocking chloride channels, suggesting its mechanism involves GABA chloride channel activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15786959/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The new cerebrovascular preparation pikamilon",
+      "summary": "Early Russian research demonstrated picamilon significantly increased cerebral blood flow in conscious cats and inhibited neurogenic spasms of cerebral vessels while suppressing sympathetic nerve activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2707413/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical efficacy and safety of Picamilon in patients with progressive chronic cerebral ischemia",
+      "summary": "A 2024 Russian clinical study of 50 patients with chronic cerebral ischemia found picamilon improved cognitive status, reduced neurological disorders, and enhanced sleep quality with good safety profile over 70 days of treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39269299/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Integrative assessment of the effectiveness and safety of outpatient use of Picamilon",
+      "summary": "Open randomized trial of 44 patients with stage I chronic cerebral ischemia showed picamilon improved cognitive function and vegetative symptoms both with oral-only and combined parenteral/oral administration over 60 days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39113452/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Users report genuinely split experiences with picamilon - some find it helpful for anxiety and GABA regulation at doses of 50-100mg, particularly when combined with other nootropics, while others report minimal effects or prefer alternatives like phenibut despite its addiction risks. The compound's illegal status in the US and limited availability also dampens enthusiasm."
+  },
+  "effects": [
+    {
+      "label": "Modest Potency:",
+      "description": "Generally considered less effective than phenibut or prescription anxiolytics, with users describing it as providing subtle rather than dramatic anxiety relief"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Responses vary significantly - some users find 100mg effective while others notice minimal benefits even at higher doses"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Often stacked with other compounds (fasoracetam, tianeptine, L-theanine) where users report enhanced effectiveness compared to standalone use"
+    },
+    {
+      "label": "Short Duration:",
+      "description": "Half-life of only 1-2 hours requires multiple daily doses, making it less practical and more expensive than longer-acting alternatives"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most users report taking 50-100mg, 2-3 times daily, with 100mg being the most commonly mentioned effective dose"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Due to short half-life, users typically dose 2-3 times per day rather than once daily for sustained effects"
+    },
+    {
+      "label": "Stacking Doses:",
+      "description": "When combined with other GABAergics (like phenibut or fasoracetam), users typically reduce picamilon to 75-100mg to avoid excessive sedation"
+    },
+    {
+      "label": "Clinical Dosing:",
+      "description": "Russian studies used 50mg tablets 3x daily (150mg total) or parenteral doses of 100-200mg for cerebrovascular conditions"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported Issues:",
+      "description": "Users generally report fewer side effects compared to phenibut or benzodiazepines, with good tolerability at recommended doses"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Some users note diminishing effects with daily use, though less severe than phenibut tolerance"
+    },
+    {
+      "label": "Dependency Concerns:",
+      "description": "While considered less addictive than phenibut, users caution against daily long-term use of any GABAergic compound"
+    },
+    {
+      "label": "Individual Reactions:",
+      "description": "Occasional reports of headaches or ineffectiveness, though serious adverse effects are rarely mentioned in user experiences"
+    }
+  ],
+  "availability": [
+    {
+      "label": "US Legal Status:",
+      "description": "Banned by FDA as a dietary supplement ingredient in 2015 as it's classified as an unapproved drug, making it illegal to sell in supplements in the United States"
+    },
+    {
+      "label": "International Availability:",
+      "description": "Remains available as prescription medication in Russia and some former Soviet countries for cerebrovascular disorders; some users report sourcing from international vendors"
+    },
+    {
+      "label": "Market Contamination:",
+      "description": "Studies found picamilon present in cognitive enhancement supplements despite FDA ban, raising quality and legality concerns about products claiming to contain it"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "ATOMOXETINE",
+      "slug": "atomoxetine"
+    }
+  ]
+}

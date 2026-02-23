@@ -1,0 +1,124 @@
+{
+  "slug": "agmatine",
+  "url": "https://dopamine.club/substances/agmatine/",
+  "scrapedAt": "2026-02-12T16:05:26.708Z",
+  "title": "AGMATINE",
+  "description": "Agmatine is a metabolite of L-arginine with diverse neuromodulatory effects. It acts on multiple receptor systems including NMDA, imidazoline, and alpha-2 adrenergic receptors, showing promise for pain management, mood support, and neuroprotection.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Neuroprotection by agmatine: Possible involvement of the gut microbiome?",
+      "summary": "Examines agmatine's neuromodulatory properties as a neuroprotectant in brain aging, focusing on cell metabolism regulation and neurotransmitter signaling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37673131/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective offerings by agmatine",
+      "summary": "Reviews agmatine's neuroprotective effects across CNS models, demonstrating benefits against oxidative stress and neurotoxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31063707/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Agmatine as a novel candidate for rapid-onset antidepressant response",
+      "summary": "Investigates agmatine's potential for fast antidepressant effects by modulating stress and inflammation pathways similar to ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34888168/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Perspectives on Agmatine Neurotransmission in Acute and Chronic Stress-related Conditions",
+      "summary": "Analyzes agmatine's stress-reduction mechanisms including glucocorticoid level reduction and mTOR/NMDA pathway modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36698237/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Agmatine as a novel intervention for Alzheimer's disease: Pathological insights and cognitive benefits",
+      "summary": "Demonstrates agmatine's capacity to modulate Alzheimer's pathology including amyloid beta processes with observed cognitive improvements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38479477/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Agmatine modulation of gut-brain axis alleviates dysbiosis-induced depression-like behavior in rats",
+      "summary": "Shows agmatine reversed depression-like behaviors in dysbiotic rats by restoring gut microbiota and reducing inflammation.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0014299924005739",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 70,
+    "summary": "Users commonly report pain relief, improved mood, and enhanced workouts. It's particularly popular in the fitness community for pump enhancement."
+  },
+  "effects": [
+    {
+      "label": "Consistent Results:",
+      "description": "Most users report noticeable effects within the first week."
+    },
+    {
+      "label": "Tolerance Neutral:",
+      "description": "Unlike many compounds, agmatine doesn't seem to cause tolerance."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "250mg-2.5g daily, often divided into multiple doses."
+    },
+    {
+      "label": "With Food:",
+      "description": "Can be taken with or without food."
+    },
+    {
+      "label": "Pre-Workout:",
+      "description": "Often dosed 30-60 minutes before exercise."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Side effects are rare at typical doses."
+    },
+    {
+      "label": "GI Discomfort:",
+      "description": "Some users report mild digestive issues."
+    },
+    {
+      "label": "Blood Pressure:",
+      "description": "May lower blood pressure; caution for those on BP medications."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found at most supplement retailers."
+    },
+    {
+      "label": "Affordable:",
+      "description": "One of the more cost-effective nootropics."
+    }
+  ],
+  "related": [
+    {
+      "name": "5-HTP",
+      "slug": "5-htp"
+    },
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "SARCOSINE",
+      "slug": "sarcosine"
+    },
+    {
+      "name": "THEACRINE",
+      "slug": "theacrine"
+    },
+    {
+      "name": "THEOBROMINE",
+      "slug": "theobromine"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "folinic-acid",
+  "url": "https://dopamine.club/substances/folinic-acid/",
+  "scrapedAt": "2026-02-12T16:07:49.978Z",
+  "title": "FOLINIC ACID",
+  "description": "Folinic acid (also known as leucovorin) is a reduced form of folate (vitamin B9) that can be directly utilized by the body without requiring conversion by the enzyme dihydrofolate reductase. It serves as a crucial cofactor for one-carbon transfer reactions essential for DNA synthesis, methylation processes, and neurotransmitter production. Folinic acid is primarily used as an adjunct treatment for depression, to support individuals with MTHFR gene mutations, and in medical settings to counteract the effects of folate antagonist medications.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Folate Augmentation of Treatment--Evaluation for Depression (FolATED): randomised trial and economic evaluation",
+      "summary": "This randomized controlled trial examined folate supplementation as an augmentation strategy for depression treatment, evaluating both clinical effectiveness and cost-effectiveness in patients with depressive symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25052890/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "l-Methylfolate as Adjunctive Therapy for SSRI-Resistant Major Depression: Results of Two Randomized, Double-Blind, Parallel-Sequential Trials",
+      "summary": "Two trials demonstrated that l-methylfolate at 15 mg/day as an adjunct to SSRI treatment produced a 32% response rate in SSRI-resistant depression compared to 15% with placebo, with a number needed to treat of approximately six and good tolerability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23139582/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Folate supplementation as a beneficial add-on treatment in relieving depressive symptoms: A meta-analysis of meta-analyses",
+      "summary": "This comprehensive meta-analysis of meta-analyses confirmed that folate supplementation serves as a beneficial adjunctive treatment for relieving depressive symptoms across multiple studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38726416/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biological, dietetic and pharmacological properties of vitamin B9",
+      "summary": "This review comprehensively discusses folate's biochemical properties, natural dietary sources, effects of food processing, industrial production methods, fortification strategies, and physiological roles in human health including prevention of pathological states related to deficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38956096/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User experiences are genuinely split, with no Reddit data provided to analyze specific user reports. Based on clinical trial data, approximately 32% of SSRI-resistant depression patients respond to folate augmentation, suggesting moderate effectiveness with individual variation in response."
+  },
+  "effects": [
+    {
+      "label": "Depression Augmentation:",
+      "description": "Most effective when combined with SSRIs rather than as monotherapy, with response rates approximately double that of placebo"
+    },
+    {
+      "label": "Dosage Dependent:",
+      "description": "15 mg/day showed significantly better outcomes than 7.5 mg/day in clinical trials for depression"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies considerably between individuals, with approximately one-third showing significant response"
+    },
+    {
+      "label": "MTHFR Mutations:",
+      "description": "Particularly beneficial for individuals with genetic polymorphisms affecting folate metabolism"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Depression Adjunct:",
+      "description": "15 mg/day of l-methylfolate (active form) demonstrated optimal efficacy in clinical trials"
+    },
+    {
+      "label": "Lower Doses:",
+      "description": "7.5 mg/day showed no significant advantage over placebo in SSRI-resistant depression"
+    },
+    {
+      "label": "Maintenance:",
+      "description": "Typically taken once daily with consistent SSRI dosing throughout treatment"
+    },
+    {
+      "label": "Duration:",
+      "description": "Clinical trials evaluated 30-60 day treatment periods with sustained supplementation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Clinical trials reported adverse event rates comparable to placebo"
+    },
+    {
+      "label": "Minimal Side Effects:",
+      "description": "No significant safety concerns identified in randomized controlled trials at therapeutic doses"
+    },
+    {
+      "label": "Individual Reactions:",
+      "description": "Some individuals may experience mild gastrointestinal effects or headaches"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May interact with anticonvulsants and other medications affecting folate metabolism"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Forms:",
+      "description": "L-methylfolate (Deplin) available as prescription medical food in some countries"
+    },
+    {
+      "label": "OTC Supplements:",
+      "description": "Folinic acid and methylfolate available as dietary supplements without prescription"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Supplement quality and bioavailability may vary significantly between manufacturers"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "D-ASPARTIC ACID",
+      "slug": "d-aspartic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    },
+    {
+      "name": "HUMIC ACID",
+      "slug": "humic-acid"
+    }
+  ]
+}

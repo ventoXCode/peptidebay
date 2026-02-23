@@ -1,0 +1,149 @@
+{
+  "slug": "jujube",
+  "url": "https://dopamine.club/substances/jujube/",
+  "scrapedAt": "2026-02-12T16:08:57.312Z",
+  "title": "JUJUBE",
+  "description": "Jujube (Ziziphus jujuba Mill.), also known as Chinese date or red date, is a fruit rich in bioactive compounds including polysaccharides, flavonoids, triterpenic acids, and nucleotides. It functions primarily through GABAergic modulation, orexin antagonism, and regulation of neurotransmitter systems, particularly serotonin. Traditionally used in Chinese medicine for calming the mind, improving sleep quality, and supporting blood health, with additional emerging benefits for cognitive function and antioxidant protection.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Research advances in bioactive components and health benefits of jujube (Ziziphus jujuba Mill.) fruit",
+      "summary": "Comprehensive review identifying polysaccharides, polyphenols, amino acids, and alkaloids as major bioactive components with significant nutritional and potential biological effects including neuroprotection and immune support.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34128368/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Review of Edible Jujube, the Ziziphus jujuba Fruit: A Heath Food Supplement for Anemia Prevalence",
+      "summary": "Study demonstrates jujube's beneficial effects on hematopoietic functions including erythropoiesis regulation, potential heme iron recycling capacity, and immune response modulation, supporting its traditional use for blood deficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33324222/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Wild Jujube (Ziziphus jujuba var. spinosa): A Review of Its Phytonutrients, Health Benefits, Metabolism, and Applications",
+      "summary": "Review shows wild jujube seeds exhibit beneficial effects on the central nervous system, with fruits providing antioxidant, antibacterial, and anti-inflammatory functions for natural nutritional supplementation and aging prevention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35731918/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Review of Dietary Ziziphus jujuba Fruit (Jujube): Developing Health Food Supplements for Brain Protection",
+      "summary": "Research demonstrates jujube possesses neuroprotective activities including protecting neuronal cells against neurotoxins, stimulating neuronal differentiation, increasing neurotrophic factors, and promoting memory and learning with flavonoids, cAMP, and jujuboside as key bioactive ingredients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28680447/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Extract of Ziziphus jujuba Fruit (Jujube) Stimulates Expression of Enzymes Responsible for Heme Recycle via Anti-oxidant Response Element in Cultured Murine Macrophages",
+      "summary": "Study found jujube water extract stimulated expression of heme oxygenase-1, biliverdin reductase, and ferroportin by 2-3 folds, supporting its beneficial role in heme iron recycling during erythrophagocytosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26646685/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The extract of Ziziphus jujuba fruit (jujube) induces expression of erythropoietin via hypoxia-inducible factor-1α in cultured Hep3B cells",
+      "summary": "Research demonstrates jujube extract stimulated erythropoietin expression by approximately 100% through activation of hypoxia-inducible factor-1α and hypoxia response element transcriptional activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25184890/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of jujube (Ziziphus jujuba mill.) fruit extracts on oxidative stress: A systematic review and meta-analysis of rodent studies",
+      "summary": "Meta-analysis of 19 studies found jujube fruit extracts significantly decreased malonaldehyde levels and increased superoxide dismutase and glutathione peroxidase levels, demonstrating strong antioxidant effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39139963/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with jujube for sleep and anxiety reduction, with many comparing its calming effects favorably to GABAergic compounds. While primarily valued as a sedative herb in sleep formulations, some users note it can cause excessive daytime sedation at higher doses."
+  },
+  "effects": [
+    {
+      "label": "Sleep Formulations:",
+      "description": "Most effective when combined with complementary herbs like chamomile, lemon balm, valerian, and magnesium in multi-ingredient sleep supplements"
+    },
+    {
+      "label": "Anxiety Relief:",
+      "description": "Particularly effective for social anxiety and generalized anxiety when part of comprehensive supplement stacks, though individual responses vary"
+    },
+    {
+      "label": "Blood Health Support:",
+      "description": "Traditional use for blood nourishment supported by research showing effects on erythropoietin expression and iron metabolism"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Some users report effectiveness diminishing over time with regular use, suggesting cycling or periodic breaks may be beneficial"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Sleep Supplements:",
+      "description": "Typically included as extract in combination products at doses ranging from 100-300mg per serving"
+    },
+    {
+      "label": "Fruit Consumption:",
+      "description": "Traditional use involves eating the whole fruit, with some users reporting profound sedative experiences from fresh jujube consumption during daytime"
+    },
+    {
+      "label": "Standardized Extracts:",
+      "description": "Commercial supplements often use jujube seed extract standardized for specific compounds rather than whole fruit"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Generally taken 30-60 minutes before bed for sleep support, though daytime use may cause unwanted sedation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Excessive Sedation:",
+      "description": "Primary concern is daytime drowsiness or sedation, particularly when taken during waking hours or at higher doses"
+    },
+    {
+      "label": "Tolerance:",
+      "description": "Some users report diminishing effects with continued daily use, requiring dosage adjustments or cycling"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Wide range of responses from minimal effects to profound sedation, suggesting significant individual differences in metabolism or sensitivity"
+    },
+    {
+      "label": "Combination Effects:",
+      "description": "When combined with other GABAergic or sedative compounds, may produce synergistic effects requiring dosage adjustments"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Forms:",
+      "description": "Widely available as dried fruit, fruit powder, seed extract, and as an ingredient in multi-herb sleep and stress formulations"
+    },
+    {
+      "label": "Traditional Markets:",
+      "description": "Fresh and dried jujube fruit commonly available in Asian grocery stores and traditional Chinese medicine shops"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Effectiveness varies significantly between products, with standardized extracts generally preferred over generic fruit powders for consistent results"
+    }
+  ],
+  "related": [
+    {
+      "name": "LEMON BALM",
+      "slug": "lemon-balm"
+    },
+    {
+      "name": "MAGNOLIA BARK",
+      "slug": "magnolia-bark"
+    },
+    {
+      "name": "PASSIONFLOWER",
+      "slug": "passionflower"
+    },
+    {
+      "name": "SCUTELLARIA",
+      "slug": "scutellaria"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    }
+  ]
+}

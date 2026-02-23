@@ -1,0 +1,138 @@
+{
+  "slug": "armodafinil",
+  "url": "https://dopamine.club/substances/armodafinil/",
+  "scrapedAt": "2026-02-12T16:05:52.941Z",
+  "title": "ARMODAFINIL",
+  "description": "Armodafinil is the R-enantiomer of modafinil, offering longer-lasting wakefulness promotion with potentially smoother effects. It's FDA-approved for narcolepsy, shift work sleep disorder, and obstructive sleep apnea.",
+  "categories": [
+    "Nootropic",
+    "Medicine"
+  ],
+  "research": [
+    {
+      "title": "Armodafinil as a Potential Pharmacological Treatment for Attention Deficit Hyperactivity Disorder in Adults: A Review",
+      "summary": "Armodafinil demonstrates potential as a treatment for adult ADHD, improving wakefulness, memory, impulse control, and executive functions.",
+      "url": "https://doi.org/10.2174/1570159X22666240131121642",
+      "source": "(Bentham Science)"
+    },
+    {
+      "title": "Adjunctive armodafinil for major depressive episodes associated with bipolar I disorder",
+      "summary": "At 150 mg/day, adjunctive armodafinil improved depressive symptoms in bipolar depression patients, though not all measures showed improvement.",
+      "url": "https://doi.org/10.4088/JCP.09m05900gry",
+      "source": "(Journal of Clinical Psychiatry)"
+    },
+    {
+      "title": "Adjunct armodafinil improves wakefulness and memory in obstructive sleep apnea/hypopnea syndrome",
+      "summary": "Armodafinil enhanced wakefulness, memory, and reduced fatigue in obstructive sleep apnea patients while maintaining regular nCPAP use.",
+      "url": "https://doi.org/10.1016/J.RMED.2006.06.007",
+      "source": "(Respiratory Medicine Journal)"
+    },
+    {
+      "title": "Armodafinil as adjunctive therapy in adults with cognitive deficits associated with schizophrenia",
+      "summary": "At 200 mg/day, armodafinil showed no cognitive improvement but appeared to mitigate negative schizophrenia symptoms.",
+      "url": "https://doi.org/10.4088/JCP.09m05950gry",
+      "source": "(Psychiatrist.com)"
+    },
+    {
+      "title": "Armodafinil for treatment of excessive sleepiness associated with shift work disorder",
+      "summary": "Armodafinil significantly improved wakefulness during night shifts and overall clinical condition without affecting daytime sleep.",
+      "url": "https://doi.org/10.1016/S0025-6196(11)60666-6",
+      "source": "(Mayo Clinic Proceedings)"
+    },
+    {
+      "title": "Efficacy of Treatment With Armodafinil for Cancer-Related Fatigue in Patients With High-grade Glioma",
+      "summary": "Armodafinil showed no significant reduction in cancer-related fatigue in high-grade glioma patients, but may benefit corticosteroid users.",
+      "url": "https://doi.org/10.1001/jamaoncol.2021.5948",
+      "source": "(JAMA Network)"
+    },
+    {
+      "title": "A phase 3, double-blind, randomized, placebo-controlled study of armodafinil for excessive sleepiness associated with jet lag disorder",
+      "summary": "At 150 mg/day, armodafinil significantly increased wakefulness and reduced sleep latency following eastward travel across 6 time zones.",
+      "url": "https://doi.org/10.4065/mcp.2009.0778",
+      "source": "(Mayo Clinic Proceedings)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally prefer armodafinil over modafinil for its smoother, longer-lasting effects. Many report cleaner focus without the edginess some experience with modafinil."
+  },
+  "effects": [
+    {
+      "label": "Potent at Lower Doses:",
+      "description": "Typically effective at 150mg vs 200mg modafinil."
+    },
+    {
+      "label": "Genetic Variation:",
+      "description": "Effectiveness may vary based on CYP450 enzyme genetics."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "150mg once daily in the morning."
+    },
+    {
+      "label": "Range:",
+      "description": "75-250mg depending on individual response."
+    },
+    {
+      "label": "Early Dosing:",
+      "description": "Take early to avoid sleep disruption."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Common, often mitigated with hydration."
+    },
+    {
+      "label": "Appetite Suppression:",
+      "description": "Significant reduction in hunger."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Can disrupt sleep if taken too late."
+    },
+    {
+      "label": "Dry Mouth:",
+      "description": "Increased thirst common."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Schedule IV controlled substance in the US."
+    },
+    {
+      "label": "Brand Names:",
+      "description": "Sold as Nuvigil in the US."
+    },
+    {
+      "label": "Online Sources:",
+      "description": "Available from international pharmacies."
+    }
+  ],
+  "related": [
+    {
+      "name": "MODAFINIL",
+      "slug": "modafinil"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "CAFFEINE",
+      "slug": "caffeine"
+    },
+    {
+      "name": "HYDRAFINIL",
+      "slug": "hydrafinil"
+    },
+    {
+      "name": "PHENOTROPIL",
+      "slug": "phenotropil"
+    }
+  ]
+}

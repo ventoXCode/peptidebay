@@ -1,0 +1,150 @@
+{
+  "slug": "resveratrol",
+  "url": "https://dopamine.club/substances/resveratrol/",
+  "scrapedAt": "2026-02-12T16:10:59.498Z",
+  "title": "RESVERATROL",
+  "description": "Resveratrol is a natural polyphenolic compound found in grapes, berries, and red wine that acts as a phytoestrogen and antioxidant. It functions by activating SIRT1 signaling pathways, modulating inflammation, and potentially supporting mitochondrial health and metabolic function. Primary uses include cardiovascular protection, anti-aging interventions, metabolic health support, and management of inflammatory conditions.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Regular Supplementation With Resveratrol Improves Bone Mineral Density in Postmenopausal Women: A Randomized, Placebo-Controlled Trial",
+      "summary": "24-month trial showed resveratrol supplementation significantly improved bone mineral density in postmenopausal women, demonstrating potential bone-protective effects through circulatory benefits and phytoestrogenic activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32564438/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of resveratrol supplementation in regulation of glucose hemostasis, inflammation and oxidative stress in patients with diabetes mellitus type 2: A randomized, placebo-controlled trial",
+      "summary": "200mg daily resveratrol for 24 weeks improved glucose homeostasis, reduced inflammatory markers (TNF-α, IL-6, hs-CRP), and decreased oxidative stress in type 2 diabetic patients on oral hypoglycemic drugs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35240291/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gut microbiota-derived 4-hydroxyphenylacetic acid from resveratrol supplementation prevents obesity through SIRT1 signaling activation",
+      "summary": "Resveratrol supplementation ameliorates high-fat-diet-induced obesity by modulating gut microbiota dysbiosis and enhancing anti-obesity bacterial strains, with effects mediated through gut microbiota-derived metabolites and SIRT1 activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39725607/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Can resveratrol supplement change inflammatory mediators? A systematic review and meta-analysis on randomized clinical trials",
+      "summary": "Meta-analysis found resveratrol supplementation can reduce inflammatory markers including IL-6, TNF-α, and CRP, though effects varied by dosage and study population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30013206/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Administration of Resveratrol and Vitamin C Reduces Oxidative Stress in Postmenopausal Women-A Pilot Randomized Clinical Trial",
+      "summary": "Combined resveratrol and vitamin C supplementation effectively reduced oxidative stress markers in postmenopausal women, addressing metabolic changes associated with menopause.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39519608/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Randomized Trial on Resveratrol Supplement Affecting Lipid Profile and Other Metabolic Markers in Subjects with Dyslipidemia",
+      "summary": "8-week supplementation with resveratrol at doses of 100mg, 300mg, and 600mg daily did not significantly change lipid profiles in dyslipidemic subjects, suggesting limited efficacy for this specific indication.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36771199/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Trans-resveratrol supplement lowers lipid peroxidation responses of exercise in male Wistar rats",
+      "summary": "Trans-resveratrol supplementation reduced exercise-induced lipid peroxidation in rats, suggesting protective effects against oxidative damage from physical activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32400317/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User sentiment is genuinely mixed with notable skepticism about effectiveness versus cost. Many users include it in longevity stacks alongside NMN and other supplements, but concerns exist about bioavailability, lack of noticeable effects, and whether benefits justify the expense, particularly given conflicting research on exercise interference."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Use:",
+      "description": "Most effective when combined with other supplements like NMN, NR, or TMG rather than as a standalone supplement, with users rarely reporting dramatic solo effects"
+    },
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Users frequently discuss absorption issues and prefer liposomal or phytosome formulations for better bioavailability, acknowledging standard forms may be poorly absorbed"
+    },
+    {
+      "label": "Exercise Interference:",
+      "description": "Some informed users express concern about research showing resveratrol may blunt exercise benefits, particularly for VO2 max and aerobic improvements"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects appear highly individual with some users swearing by it in their stacks while others find it makes no noticeable difference even after months of use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most users take 100-500mg daily, with 500mg being a common dose in longevity-focused protocols"
+    },
+    {
+      "label": "David Sinclair Protocol:",
+      "description": "Frequently referenced 1000mg daily dose based on popular longevity researcher recommendations, though cost becomes prohibitive at this level"
+    },
+    {
+      "label": "Stacking Considerations:",
+      "description": "Typically combined with 250-900mg NMN and other longevity supplements rather than used in isolation"
+    },
+    {
+      "label": "Red Wine Alternative:",
+      "description": "Some users humorously justify red wine consumption for resveratrol content, though acknowledge you'd need 15-20 bottles for an effective dose"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Direct Effects:",
+      "description": "Most users report no significant side effects but also struggle to identify clear benefits, leading to questions about whether to continue"
+    },
+    {
+      "label": "Cost Burden:",
+      "description": "Financial impact is the most commonly cited negative, with users questioning if the expense is justified given uncertain benefits"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Occasional reports of mild gastrointestinal discomfort, though less common than with other supplements in typical stacks"
+    },
+    {
+      "label": "Interaction Concerns:",
+      "description": "Some users note potential interactions when combined with multiple other supplements, particularly in large comprehensive stacks"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Considerations:",
+      "description": "Users recommend reputable brands with third-party testing, with preference for products that include piperine for enhanced absorption"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Third-party testing is valued due to concerns about purity and actual resveratrol content in supplements, with some products suspected of containing little active ingredient"
+    },
+    {
+      "label": "Cost Variability:",
+      "description": "Prices range significantly from budget bulk powders to premium branded formulations, with liposomal versions commanding higher prices for promised better absorption"
+    }
+  ],
+  "related": [
+    {
+      "name": "ARTICHOKE EXTRACT",
+      "slug": "artichoke-extract"
+    },
+    {
+      "name": "BERBERINE",
+      "slug": "berberine"
+    },
+    {
+      "name": "PTEROSTILBENE",
+      "slug": "pterostilbene"
+    },
+    {
+      "name": "QUERCETIN",
+      "slug": "quercetin"
+    },
+    {
+      "name": "ASHWAGANDHA",
+      "slug": "ashwagandha"
+    }
+  ]
+}

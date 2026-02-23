@@ -1,0 +1,131 @@
+{
+  "slug": "fennel",
+  "url": "https://dopamine.club/substances/fennel/",
+  "scrapedAt": "2026-02-12T16:07:46.692Z",
+  "title": "FENNEL",
+  "description": "Fennel (Foeniculum vulgare) is a flowering plant in the carrot family traditionally used for digestive support and menopausal symptom relief. It contains bioactive compounds including anethole, fenchone, and estragole that exhibit antioxidant, anti-inflammatory, and mild estrogenic properties. Research suggests fennel may be beneficial for managing menopausal symptoms, improving sleep quality, and supporting digestive health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Fennel (Foeniculum vulgare Miller) for the management of menopausal women's health: A systematic review and meta-analysis",
+      "summary": "Meta-analysis of 7 RCTs found fennel significantly improved menopausal symptoms with favorable effects on hot flushes and vaginal atrophy, though effectiveness for quality of life and psychological health remained unclear.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33836471/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Foeniculum Vulgare (Fennel) on Sleep Quality of Menopausal Women: A Double-blinded, Randomized Placebo-controlled Trial",
+      "summary": "Double-blind RCT demonstrated that fennel supplementation significantly improved sleep quality in menopausal women compared to placebo over the study period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30671414/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Foeniculum vulgare Mill. (fennel) on menopausal symptoms in postmenopausal women: a randomized, triple-blind, placebo-controlled trial",
+      "summary": "Triple-blind RCT found fennel extract effectively reduced menopausal symptoms in postmenopausal women with good tolerability and minimal side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28509813/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Foeniculum vulgare (fennel) on symptoms of depression and anxiety in postmenopausal women: a double-blind randomised controlled trial",
+      "summary": "Double-blind study of 60 postmenopausal women showed fennel supplementation significantly reduced anxiety and depression symptoms compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28891367/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report fennel as highly effective for digestive issues, with particular praise for its gut-calming properties and sleep improvement benefits. The traditional spice combination of cumin, coriander, and fennel receives strong positive feedback for digestive health."
+  },
+  "effects": [
+    {
+      "label": "Menopausal Symptoms:",
+      "description": "Research shows significant improvements in hot flushes, vaginal atrophy, and overall menopausal symptom scores across multiple controlled trials"
+    },
+    {
+      "label": "Psychological Benefits:",
+      "description": "Clinical trials demonstrate measurable reductions in anxiety and depression scores in postmenopausal women, though mechanisms remain under investigation"
+    },
+    {
+      "label": "Digestive Relief:",
+      "description": "Users report rapid onset of digestive benefits, with some noting effects within hours of consumption, particularly for bloating and gas"
+    },
+    {
+      "label": "Sleep Improvement:",
+      "description": "Both research and user reports indicate improved sleep quality, with one user noting falling asleep in 15 minutes after taking oregano oil (which also contains fennel-like compounds)"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Tea Form:",
+      "description": "Users commonly prepare fennel tea by boiling fennel seeds, often in combination with cumin and coriander, consumed after meals for digestive support"
+    },
+    {
+      "label": "Supplement Capsules:",
+      "description": "Research studies typically used fennel extract at standardized doses, with clinical trials showing benefits at various concentrations"
+    },
+    {
+      "label": "Culinary Use:",
+      "description": "Fennel bulbs consumed as food (mentioned in restrictive diets) provide lower concentrations but consistent daily exposure"
+    },
+    {
+      "label": "Timing:",
+      "description": "Users report best results when consuming fennel tea after meals or before bedtime for sleep support"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sulfur Sensitivity:",
+      "description": "One user with multiple intolerances noted that fennel bulbs were among the few tolerated foods, suggesting generally good tolerability"
+    },
+    {
+      "label": "Minimal Adverse Events:",
+      "description": "Research studies consistently report no serious adverse events associated with fennel supplementation"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "As with herbal remedies, some users may not respond or may experience different effects based on individual physiology"
+    },
+    {
+      "label": "Estrogenic Effects:",
+      "description": "Due to mild estrogenic properties, fennel may affect hormone-sensitive conditions, though this was not reported as problematic in user experiences"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Fennel is easily accessible as whole seeds, tea bags (particularly in brands like Yogi tea blends), and supplement capsules from various retailers"
+    },
+    {
+      "label": "Food vs Supplement:",
+      "description": "Users can choose between culinary fennel bulbs for cooking, fennel seed tea, or concentrated extracts in capsule form depending on desired potency"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "While specific brands weren't heavily discussed, fennel is generally available from both specialty supplement companies and mainstream grocery stores"
+    }
+  ],
+  "related": [
+    {
+      "name": "PYRIDOXAL-5-PHOSPHATE",
+      "slug": "pyridoxal-5-phosphate"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "APIGENIN",
+      "slug": "apigenin"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    }
+  ]
+}

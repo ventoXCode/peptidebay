@@ -1,0 +1,149 @@
+{
+  "slug": "modified-grf-1-29",
+  "url": "https://dopamine.club/substances/modified-grf-1-29/",
+  "scrapedAt": "2026-02-12T16:09:36.758Z",
+  "title": "MODIFIED GRF 1-29",
+  "description": "Modified GRF 1-29 (also known as Mod GRF or CJC-1295 without DAC) is a synthetic analog of growth hormone-releasing hormone (GHRH) consisting of the first 29 amino acids of the native peptide with modifications to increase stability and half-life. It acts on GHRH receptors in the pituitary gland to stimulate the release of endogenous growth hormone, and is studied for its potential in hormone regulation, growth promotion, and metabolic effects. The modified structure provides improved resistance to enzymatic degradation compared to natural GHRH while maintaining similar receptor binding and activation properties.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Interaction of growth hormone-releasing factor (GRF) and 14 GRF analogs with vasoactive intestinal peptide (VIP) receptors of rat pancreas",
+      "summary": "This study characterized how GRF 1-29 and its analogs interact with VIP receptors and identified specific structural modifications that affect receptor binding affinity and adenylate cyclase activation, showing that alterations in certain amino acid positions significantly impact biological activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2859987/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Influence of dopaminergic, adrenergic and cholinergic blockade and TRH administration on GH responses to GRF 1-29",
+      "summary": "Research demonstrated that cholinergic pathways significantly influence GH response to GRF 1-29, while dopaminergic and alpha-adrenergic blockade showed no effect, suggesting neurotransmitter control may be exerted at both hypothalamic and pituitary levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2871952/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Study of the activation mechanism of human GRF(1-29)NH2 on rat mast cell histamine release",
+      "summary": "GRF 1-29 was found to release histamine from mast cells through a non-cytotoxic mechanism involving Gi-protein activation and calcium uptake, with protein kinase C playing an amplifying role in the response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7544679/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of a chronic GRF treatment on lambs having low or normal birth weight",
+      "summary": "Long-term GRF treatment (45-90 days) induced greater and more prolonged GH release in low birthweight lambs compared to normal birthweight animals, suggesting differential responsiveness based on physiological status.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2515938/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of active immunization against somatostatin on serum growth hormone concentration in growing pigs",
+      "summary": "Immunization against somatostatin enhanced both basal GH levels and GH response to GRF administration, demonstrating that reducing somatostatin tone potentiates GRF effectiveness and prevents desensitization to repeated GRF injections.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2569391/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clonidine pretreatment modifies the growth hormone secretory pattern induced by short-term continuous GRF infusion in normal man",
+      "summary": "A 10-hour continuous GRF infusion study showed that alpha-2 adrenergic stimulation with clonidine modulated GH secretion patterns, with effects varying based on baseline somatostatin tone, suggesting complex neuroendocrine interactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1934527/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Studies on alpha 2-adrenergic modulation of hypothalamic somatostatin secretion in rats",
+      "summary": "Alpha-2 adrenergic stimulation enhanced GH responsiveness to GRF only when somatostatin release was elevated, indicating that central adrenergic pathways primarily exert inhibitory effects on hypothalamic somatostatin secretion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8102470/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences with Modified GRF 1-29 are generally positive for specific applications like sleep quality improvement, though limited direct discussion exists. Users report effectiveness when properly dosed but express concerns about peptide quality, proper reconstitution, and the practical challenges of its short half-life requiring multiple daily administrations."
+  },
+  "effects": [
+    {
+      "label": "Timing Critical:",
+      "description": "Most effective when administered before sleep or during natural GH secretion windows, with benefits diminishing due to rapid clearance"
+    },
+    {
+      "label": "Somatostatin Interaction:",
+      "description": "Effectiveness is significantly influenced by somatostatin tone, with better results when somatostatin activity is reduced through natural circadian patterns or other interventions"
+    },
+    {
+      "label": "Desensitization Risk:",
+      "description": "Research suggests potential for reduced responsiveness with repeated bolus injections in short timeframes, though chronic use patterns show maintained effects in some studies"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "May work more effectively when combined with substances that reduce somatostatin or enhance cholinergic activity, based on neuroendocrine pathway studies"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Range:",
+      "description": "Research protocols typically use 50-100 mcg intravenously or 1-10 mcg/kg body weight, though user applications may vary"
+    },
+    {
+      "label": "Frequency Challenges:",
+      "description": "The 30-minute half-life creates practical difficulties for sustained effects, with users seeking continuous delivery methods rather than single bolus doses"
+    },
+    {
+      "label": "Sleep Application:",
+      "description": "Users report dosing immediately before sleep, with some seeking overnight delivery systems to maintain levels during sleep cycles"
+    },
+    {
+      "label": "Subcutaneous Administration:",
+      "description": "Commonly administered subcutaneously in practical use, with users noting the need for proper reconstitution with bacteriostatic water"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Histamine Release:",
+      "description": "Research demonstrates potential for histamine release from mast cells through Gi-protein activation, which could cause allergic-type reactions in sensitive individuals"
+    },
+    {
+      "label": "Receptor Cross-reactivity:",
+      "description": "Studies show interaction with VIP receptors beyond GHRH receptors, potentially causing broader physiological effects than anticipated"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users report issues with peptides not fully dissolving upon reconstitution, raising questions about product purity and effectiveness"
+    },
+    {
+      "label": "Desensitization Effects:",
+      "description": "Repeated administration in short intervals may reduce responsiveness, suggesting the importance of proper dosing schedules"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Peptide Status:",
+      "description": "Typically available through research chemical suppliers and peptide vendors, with users noting variation in quality between brands"
+    },
+    {
+      "label": "Reconstitution Required:",
+      "description": "Sold as lyophilized powder requiring reconstitution with bacteriostatic water, necessitating proper storage and handling knowledge"
+    },
+    {
+      "label": "Quality Verification:",
+      "description": "Users emphasize importance of selecting reputable suppliers due to reports of improperly manufactured or contaminated products that fail to dissolve properly"
+    }
+  ],
+  "related": [
+    {
+      "name": "FOLLISTATIN 344",
+      "slug": "follistatin-344"
+    },
+    {
+      "name": "GHRELIN",
+      "slug": "ghrelin"
+    },
+    {
+      "name": "WOLVERINE STACK",
+      "slug": "wolverine-stack"
+    },
+    {
+      "name": "ACE-031",
+      "slug": "ace-031"
+    },
+    {
+      "name": "ACE-083",
+      "slug": "ace-083"
+    }
+  ]
+}

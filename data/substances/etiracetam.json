@@ -1,0 +1,103 @@
+{
+  "slug": "etiracetam",
+  "url": "https://dopamine.club/substances/etiracetam/",
+  "scrapedAt": "2026-02-12T16:07:41.491Z",
+  "title": "ETIRACETAM",
+  "description": "Etiracetam is a pyrrolidinone derivative and an analog of piracetam that functions as a nootropic agent and seizure medication. It is primarily recognized for its ability to facilitate memory retrieval and is the parent compound of the potent antiepileptic drug levetiracetam.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Memory retrieval deficits: Alleviation by etiracetam, a nootropic drug",
+      "summary": "This study demonstrated that etiracetam facilitates memory retrieval in rats across various experimental models when administered shortly before testing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/68235241/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Levetiracetam on Cognition: A Systematic Review and Meta-analysis of Double-Blind Randomized Placebo-Controlled Trials",
+      "summary": "Analyses of the etiracetam derivative levetiracetam show significant improvements in executive function and cognitive performance in patients with and without epilepsy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38141058/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally view etiracetam as a mild cognitive enhancer that is often overshadowed by its more potent derivatives like levetiracetam or phenylpiracetam."
+  },
+  "effects": [
+    {
+      "label": "Retrieval Focus:",
+      "description": "Most effective at assisting the 'recall' phase of memory rather than initial learning."
+    },
+    {
+      "label": "Nootropic Potency:",
+      "description": "Considered less potent than modern racetams but with a very high safety profile."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Often reported to work best when used in conjunction with a choline source."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Typically researched in ranges comparable to piracetam, often 800-1600mg."
+    },
+    {
+      "label": "Timing:",
+      "description": "Most effective when taken approximately 30-60 minutes before cognitive tasks."
+    },
+    {
+      "label": "Frequency:",
+      "description": "Usually administered 1-2 times daily due to its metabolic half-life."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Commonly reported if used without supplemental choline."
+    },
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Minor nausea or stomach upset in sensitive users."
+    },
+    {
+      "label": "Irritability:",
+      "description": "Occasional reports of mild emotional agitation, similar to 'racetam rage'."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Generally sold as a research chemical or dietary supplement in various jurisdictions."
+    },
+    {
+      "label": "Sourcing:",
+      "description": "Primarily found through specialized nootropic vendors; less common than levetiracetam."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

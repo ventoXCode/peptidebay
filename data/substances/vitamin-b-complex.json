@@ -1,0 +1,143 @@
+{
+  "slug": "vitamin-b-complex",
+  "url": "https://dopamine.club/substances/vitamin-b-complex/",
+  "scrapedAt": "2026-02-12T16:12:11.161Z",
+  "title": "VITAMIN B COMPLEX",
+  "description": "Vitamin B Complex is a group of eight water-soluble vitamins (B1, B2, B3, B5, B6, B7, B9, B12) that function as essential cofactors in cellular metabolism, energy production, neurotransmitter synthesis, and DNA/RNA formation. These vitamins work synergistically in catabolic processes that generate energy and anabolic processes that produce bioactive molecules. Since they are not stored in the body, they must be replenished daily through diet or supplementation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "B Vitamins: Functions and Uses in Medicine",
+      "summary": "Comprehensive review showing B vitamins are critical cofactors for neurotransmitter synthesis, cellular metabolism, and DNA/RNA biosynthesis. Deficiencies have been linked to various neurological disorders and pathological states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35933667/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potential mental and physical benefits of supplementation with a high-dose, B-complex multivitamin/mineral supplement: What is the evidence?",
+      "summary": "Systematic review of seven RCTs found B-complex supplementation improved perceived stress, physical stamina, concentration, general mental health, reduced anxiety and improved self-reported vigor in healthy and at-risk populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34530623/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "B vitamins and prevention of cognitive decline and incident dementia",
+      "summary": "Meta-analysis showing B vitamin supplementation can reduce homocysteine levels and may benefit cognitive function, though controversy exists regarding its effectiveness in preventing dementia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34432056/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Systematic Review and Meta-Analysis of B Vitamin Supplementation on Mood",
+      "summary": "Meta-analysis of RCTs with daily supplementation of ≥3 B vitamins showed improvements in mood in both healthy and at-risk populations, though effects varied by specific B vitamin combination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31527485/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "B Vitamins and the Brain: Mechanisms, Dose and Efficacy—A Review",
+      "summary": "Review highlighting B vitamins' essential roles in energy production, DNA/RNA synthesis, methylation, and neurochemical synthesis, with particular emphasis on their collective effects on brain function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26828517/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cognitive decline: A vitamin B perspective",
+      "summary": "Review linking high homocysteine levels (byproduct of vitamin B metabolism) to brain atrophy and cognitive decline, with B vitamin supplementation showing promise in improving memory and slowing brain atrophy progression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27574726/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report significant benefits from B-complex supplementation, particularly for energy, focus, and mood improvements. However, there are important cautions about B6 toxicity with high-dose formulas and individual responses to methylated forms, with some users experiencing anxiety or overstimulation."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly based on deficiency status, with vegetarians/vegans and those with absorption issues seeing the most dramatic improvements"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Methylated vs non-methylated forms produce different responses - some users experience anxiety with methylated versions while others require them for effectiveness"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Works best alongside other nutrients like magnesium, vitamin D, and omega-3s, with users reporting enhanced effects when combined properly"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Most users report effects within days to weeks, though some require months of consistent use to notice significant benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "Most successful users take one B-complex capsule daily in the morning, typically containing 50-100mg of most B vitamins"
+    },
+    {
+      "label": "B6 Caution:",
+      "description": "Users strongly recommend limiting B6 to under 50mg daily due to toxicity risk, with many experiencing neuropathy at higher doses (100mg+)"
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Some users take half doses twice daily or reduce to every other day if experiencing overstimulation or side effects"
+    },
+    {
+      "label": "Timing:",
+      "description": "Morning or early afternoon recommended to avoid sleep disruption, with most users avoiding evening doses due to energizing effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "B6 Toxicity:",
+      "description": "Most commonly reported serious concern - nerve damage, tingling, numbness, and peripheral neuropathy from excessive B6 (especially pyridoxine form)"
+    },
+    {
+      "label": "Overmethylation:",
+      "description": "Anxiety, jitteriness, insomnia, and fight-or-flight response reported with methylated forms, particularly in those with COMT mutations"
+    },
+    {
+      "label": "Acne and Skin Issues:",
+      "description": "Some users report breakouts or rosacea flare-ups, particularly with high-dose B6 and B12 supplementation"
+    },
+    {
+      "label": "Digestive Effects:",
+      "description": "Nausea, especially on empty stomach, and bright yellow/orange urine (harmless but common with excess B2)"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Recommendations:",
+      "description": "quality brands, quality brands B-Right, quality brands, quality brands, and Seeking Health frequently recommended for quality and proper forms"
+    },
+    {
+      "label": "Form Selection:",
+      "description": "Users emphasize choosing P5P (pyridoxal-5-phosphate) for B6 over pyridoxine, and methylcobalamin for B12 if tolerated well"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Wide price range from budget options like quality brands to premium brands, with users noting quality differences in bioavailability and side effect profiles"
+    }
+  ],
+  "related": [
+    {
+      "name": "VITAMIN B6 (PYRIDOXINE)",
+      "slug": "vitamin-b6-pyridoxine"
+    },
+    {
+      "name": "VITAMIN B9 (FOLATE)",
+      "slug": "vitamin-b9-folate"
+    },
+    {
+      "name": "METHYLENE BLUE",
+      "slug": "methylene-blue"
+    },
+    {
+      "name": "LIPOSOMAL VITAMIN C",
+      "slug": "liposomal-vitamin-c"
+    },
+    {
+      "name": "VITAMIN B1 (THIAMINE)",
+      "slug": "vitamin-b1-thiamine"
+    }
+  ]
+}

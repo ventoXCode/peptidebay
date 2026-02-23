@@ -1,0 +1,136 @@
+{
+  "slug": "dihexa",
+  "url": "https://dopamine.club/substances/dihexa/",
+  "scrapedAt": "2026-02-12T16:07:07.242Z",
+  "title": "DIHEXA",
+  "description": "Dihexa is a potent nootropic peptide derived from angiotensin IV. It's reportedly 10 million times more potent than BDNF at promoting synaptogenesis, making it one of the most powerful cognitive enhancers known. Research focuses on its potential for treating cognitive decline.",
+  "categories": [
+    "Peptide",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Hepatocyte growth factor mimetic protects lateral line hair cells from aminoglycoside exposure",
+      "summary": "Dihexa, a synthetic HGF mimetic, effectively protects lateral line hair cells from aminoglycoside toxicity, with potential clinical applications.",
+      "url": "https://doi.org/10.3389/fncel.2015.00003",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "The Procognitive and Synaptogenic Effects of Angiotensin IV–Derived Peptides Are Dependent on Activation of the Hepatocyte Growth Factor/c-Met System",
+      "summary": "Dihexa's procognitive activity operates through activation of the hepatocyte growth factor/c-Met system.",
+      "url": "https://doi.org/10.1124/jpet.114.218735",
+      "source": "(Journal of Pharmacology)"
+    },
+    {
+      "title": "Evaluation of Metabolically Stabilized Angiotensin IV Analogs as Procognitive/Antidementia Agents",
+      "summary": "Dihexa demonstrates excellent antidementia activity and synaptogenic activity, suggesting therapeutic potential for conditions like Alzheimer's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23055539/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Brain Hepatocyte Growth Factor/c-Met Receptor System: A New Target for the Treatment of Alzheimer's Disease",
+      "summary": "Dihexa shows promise in promoting memory consolidation and slowing Alzheimer's disease progression.",
+      "url": "https://doi.org/10.3233/JAD-142814",
+      "source": "(Sage Journals)"
+    },
+    {
+      "title": "AngIV-Analog Dihexa Rescues Cognitive Impairment and Recovers Memory in the APP/PS1 Mouse via the PI3K/AKT Signaling Pathway",
+      "summary": "Dihexa restores cognitive impairment and memory in Alzheimer's disease-related APP/PS1 mice by activating the PI3K/AKT signaling pathway.",
+      "url": "https://doi.org/10.3390/brainsci11111487",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "Cognitive benefits of angiotensin IV and angiotensin-(1–7): A systematic review of experimental studies",
+      "summary": "Angiotensin IV and its analogs improve cognition in models of cognitive impairment, with dihexa demonstrating the most promising potential.",
+      "url": "https://doi.org/10.1016/j.neubiorev.2018.05.005",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report significant cognitive enhancement, particularly in memory and learning. However, concerns about long-term safety and potential for excessive neural growth exist."
+  },
+  "effects": [
+    {
+      "label": "Extremely Potent:",
+      "description": "Active at very low doses."
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users report dramatic effects, others more subtle."
+    },
+    {
+      "label": "Caution Warranted:",
+      "description": "Powerful effects require careful consideration."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "5-20mg daily, often taken sublingually."
+    },
+    {
+      "label": "Start Very Low:",
+      "description": "Due to potency, begin with lowest effective dose."
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Many users cycle to assess effects and safety."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Unknown Long-Term Safety:",
+      "description": "Limited human safety data."
+    },
+    {
+      "label": "Potential Overgrowth:",
+      "description": "Theoretical concern about excessive synaptogenesis."
+    },
+    {
+      "label": "Cancer Risk:",
+      "description": "Unknown effects on cell growth pathways."
+    },
+    {
+      "label": "Headaches:",
+      "description": "Some users report headaches, particularly initially."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from select peptide suppliers."
+    },
+    {
+      "label": "Limited Availability:",
+      "description": "Not as widely available as other peptides."
+    },
+    {
+      "label": "Quality Critical:",
+      "description": "Source only from reputable vendors."
+    }
+  ],
+  "related": [
+    {
+      "name": "Cerebrolysin",
+      "slug": "cerebrolysin"
+    },
+    {
+      "name": "Semax",
+      "slug": "semax"
+    },
+    {
+      "name": "Selank",
+      "slug": "selank"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    }
+  ]
+}

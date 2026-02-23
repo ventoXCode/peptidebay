@@ -1,0 +1,126 @@
+{
+  "slug": "glutamine",
+  "url": "https://dopamine.club/substances/glutamine/",
+  "scrapedAt": "2026-02-12T16:08:10.733Z",
+  "title": "GLUTAMINE",
+  "description": "Glutamine is the most abundant free amino acid in the human body, serving as a critical fuel source for immune cells and enterocytes in the digestive tract. While categorized as a non-essential amino acid, it becomes 'conditionally essential' during periods of metabolic stress, such as intense exercise, injury, or illness, where demand exceeds the body's synthesis capacity.",
+  "categories": [
+    "Amino Acid",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Glutamine in Burn Injury",
+      "summary": "Clinical data indicates that glutamine supplementation in burn patients significantly reduces mortality, hospital stay length, and occurrences of gram-negative bacteremia by preserving gut barrier function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31270877/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glutamine: a potentially useful supplement for athletes",
+      "summary": "This review suggests that exogenous glutamine may help maintain muscle protein mass and support immune function in athletes undergoing heavy exercise training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9916176/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of oral nutritional supplement composition on healing of different chronic wounds: A systematic review",
+      "summary": "The study found that hyperproteic oral formulas containing glutamine and other nutrients can reduce wound area and increase healing rates in patients with pressure injuries and diabetic foot ulcers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38696907/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Randomised placebo-controlled trial of dietary glutamine supplements for postinfectious irritable bowel syndrome",
+      "summary": "Oral glutamine supplementation was shown to safely and effectively reduce symptoms in patients suffering from post-infectious irritable bowel syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30108163/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of glutamine supplementation on athletic performance, body composition, and immune function: A systematic review and a meta-analysis of clinical trials",
+      "summary": "A comprehensive meta-analysis found that glutamine supplementation reduces muscle soreness and improves recovery following intense exercise, though its effect on performance metrics is variable.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29784526/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users overwhelmingly report positive results for gut health and recovery from intense exercise, with many considering it a staple for managing IBS symptoms and 'leaky gut'."
+  },
+  "effects": [
+    {
+      "label": "Gastrointestinal Relief:",
+      "description": "Highly effective for post-infectious IBS and general gut permeability issues."
+    },
+    {
+      "label": "Metabolic Stress:",
+      "description": "Most effective when the body is under high stress, such as post-surgery or during heavy training."
+    },
+    {
+      "label": "Performance Gains:",
+      "description": "While excellent for recovery, it shows limited direct impact on increasing maximum strength or speed."
+    },
+    {
+      "label": "Clinical Utility:",
+      "description": "Proven effectiveness in accelerating the healing of chronic wounds and burns."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "Common reported dosages for gut health range from 5g to 15g daily, often split into multiple doses."
+    },
+    {
+      "label": "High Stress/Clinical:",
+      "description": "Dosages in clinical burn studies or for severe gut repairs can exceed 20g-30g per day under supervision."
+    },
+    {
+      "label": "Timing:",
+      "description": "Best taken on an empty stomach or immediately following a workout for optimal absorption."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Upset:",
+      "description": "Excessive doses can occasionally lead to constipation or mild bloating in sensitive individuals."
+    },
+    {
+      "label": "Neurological Sensitivity:",
+      "description": "Rare reports of increased anxiety or 'brain fog' in individuals sensitive to glutamate conversion."
+    },
+    {
+      "label": "Water Retention:",
+      "description": "Some users report a minor increase in intramuscular water retention."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over the Counter:",
+      "description": "Readily available as an inexpensive powder or capsule at most health food stores and pharmacies."
+    },
+    {
+      "label": "Purity:",
+      "description": "Widely available in fermented (vegan) or synthetic forms with high levels of purity (L-Glutamine)."
+    }
+  ],
+  "related": [
+    {
+      "name": "ARGININE",
+      "slug": "arginine"
+    },
+    {
+      "name": "BCAAS",
+      "slug": "bcaas"
+    },
+    {
+      "name": "CITRULLINE",
+      "slug": "citrulline"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "GLYCINE",
+      "slug": "glycine"
+    }
+  ]
+}

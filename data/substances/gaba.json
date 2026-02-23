@@ -1,0 +1,143 @@
+{
+  "slug": "gaba",
+  "url": "https://dopamine.club/substances/gaba/",
+  "scrapedAt": "2026-02-12T16:07:54.449Z",
+  "title": "GABA",
+  "description": "Gamma-aminobutyric acid (GABA) is the primary inhibitory neurotransmitter in the central nervous system, responsible for reducing neuronal excitability and promoting relaxation. As a dietary supplement, GABA is marketed for anxiety reduction, sleep improvement, and stress management, though its ability to cross the blood-brain barrier when taken orally remains scientifically debated. It is commonly combined with other supplements like L-theanine and magnesium for synergistic calming effects.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "GABA and l-theanine mixture decreases sleep latency and improves NREM sleep",
+      "summary": "A combination of GABA and L-theanine significantly decreased sleep latency and improved non-rapid eye movement sleep quality in both normal rats and caffeine-induced awareness models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30707852/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "United States Pharmacopeia (USP) Safety Review of Gamma-Aminobutyric Acid (GABA)",
+      "summary": "Clinical studies showed no serious adverse events with GABA at intakes up to 18g/day for 4 days and 120mg/day for 12 weeks, with only transient and moderate blood pressure decreases observed in some studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34444905/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "GABA Supplementation, Increased Heart-Rate Variability, Emotional Response, Sleep Efficiency and Reduced Depression in Sedentary Overweight Women Undergoing Physical Exercise",
+      "summary": "GABA supplementation in sedentary overweight women improved heart rate variability, emotional response, sleep efficiency, and reduced depression when combined with physical exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38321713/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "GABA Prevents Sarcopenia by Regulation of Muscle Protein Degradation and Inflammaging in 23- to 25-Month-Old Female Mice",
+      "summary": "GABA administration prevented age-related muscle loss in elderly mice by regulating muscle protein degradation and reducing inflammation associated with aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39513373/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prophylactic Supplementation with Lactobacillus Reuteri or Its Metabolite GABA Protects Against Acute Ischemic Cardiac Injury",
+      "summary": "Both Lactobacillus reuteri and its GABA metabolite provided protective effects against acute ischemic cardiac injury in animal models, suggesting cardiovascular benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38487926/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "High-dose Vitamin B6 supplementation reduces anxiety and strengthens visual surround suppression",
+      "summary": "Vitamin B6 supplementation (which aids GABA synthesis) reduced self-reported anxiety and increased neural inhibition, supporting the role of GABA in anxiety management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35851507/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with GABA supplements are genuinely divided. Many users report minimal to no noticeable effects, with some experiencing headaches or no anxiety relief, while others find it helpful for sleep and evening relaxation when combined with other supplements. The consensus suggests GABA works better as part of a stack rather than as a standalone supplement, and its effectiveness varies significantly between individuals."
+  },
+  "effects": [
+    {
+      "label": "Questionable Bioavailability:",
+      "description": "Many users and research question whether oral GABA crosses the blood-brain barrier, with numerous reports of no noticeable effects even at recommended doses"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies dramatically between users, with some finding it completely ineffective while others report subtle calming benefits"
+    },
+    {
+      "label": "Better Alternatives Exist:",
+      "description": "L-theanine, magnesium glycinate, and ashwagandha are more consistently recommended by users for anxiety and sleep compared to standalone GABA"
+    },
+    {
+      "label": "Works Better in Combinations:",
+      "description": "GABA shows improved results when combined with other supplements like L-theanine, glycine, or magnesium rather than used alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most commonly mentioned dose is 100-750mg taken in the evening or before bed for sleep support"
+    },
+    {
+      "label": "Higher Doses:",
+      "description": "Some users experiment with up to 1000mg, though higher doses don't consistently produce better results"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Users recommend taking GABA 1 hour before bedtime for sleep benefits, or in the evening for relaxation"
+    },
+    {
+      "label": "Daily Use Concerns:",
+      "description": "Some users question long-term daily use due to potential tolerance or dependency issues, though safety data suggests it's generally well-tolerated"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Multiple users report headaches as a primary side effect, particularly when starting supplementation"
+    },
+    {
+      "label": "No Effect:",
+      "description": "The most common 'side effect' reported is simply experiencing no noticeable benefits at all"
+    },
+    {
+      "label": "Next-Day Effects:",
+      "description": "Some users report increased anxiety or panic attacks the morning after taking GABA, though this is less common"
+    },
+    {
+      "label": "Minimal Issues:",
+      "description": "For those who do respond, side effects are generally mild and infrequent compared to pharmaceutical alternatives"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "GABA supplements are readily available from most supplement retailers, both online and in stores, without prescription"
+    },
+    {
+      "label": "Brand Recommendations:",
+      "description": "Users recommend reputable brands with third-party testing, though specific brand preferences are less emphasized compared to other supplements"
+    },
+    {
+      "label": "Affordable Pricing:",
+      "description": "Generally considered an inexpensive supplement compared to other nootropics and anxiety-support compounds"
+    }
+  ],
+  "related": [
+    {
+      "name": "PHENIBUT",
+      "slug": "phenibut"
+    },
+    {
+      "name": "EMOXYPINE",
+      "slug": "emoxypine"
+    },
+    {
+      "name": "PICAMILON",
+      "slug": "picamilon"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "slug": "tryptophan"
+    },
+    {
+      "name": "L-Theanine",
+      "slug": "l-theanine"
+    }
+  ]
+}

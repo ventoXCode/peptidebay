@@ -1,0 +1,143 @@
+{
+  "slug": "kratom",
+  "url": "https://dopamine.club/substances/kratom/",
+  "scrapedAt": "2026-02-12T16:09:01.380Z",
+  "title": "KRATOM",
+  "description": "Kratom (Mitragyna speciosa) is a tropical tree from Southeast Asia whose leaves contain alkaloids with opioid-like and stimulant properties. Effects vary by dose and strain - lower doses are stimulating while higher doses produce sedation and pain relief. ⚠️ WARNING: Highly addictive with significant dependence potential.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "The pharmacology and toxicology of kratom: from traditional herb to drug of abuse",
+      "summary": "Examines kratom's global rise as a recreational drug despite safety concerns including hospital visits and deaths linked to extracts. Discusses stimulant and sedative effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26511390/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kratom use disorder: a primer for primary care physicians",
+      "summary": "Reviews kratom prevalence in the US and its opioid-like effects. Provides guidance for physicians recognizing kratom use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34281482/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kratom's Emergence and Persistence Within the US Polydrug Epidemic",
+      "summary": "Analyzes self-reported kratom use as opioid substitute and substance use disorder management. Highlights gaps in controlled human studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37266191/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kratom use and mental health: A systematic literature review and case example",
+      "summary": "Systematic review finding kratom may worsen psychotic and manic symptoms in those with preexisting psychiatric conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37942896/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Potential for Kratom as an Antidepressant and Antipsychotic",
+      "summary": "Investigates kratom compounds acting on opioid and antipsychotic receptors. Survey data suggest users experience depression and anxiety relief.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32607089/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beneficial and adverse health effects of kratom (Mitragyna speciosa): A critical review",
+      "summary": "Reviews kratom's stimulant, analgesic, and opioid-like properties alongside risks of tolerance and addiction.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0278691524004794",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report significant benefits for pain, mood, and energy, but dependency potential exists. Highly individual responses; strain and dose significantly impact effects."
+  },
+  "effects": [
+    {
+      "label": "Strain Variation:",
+      "description": "Red, green, and white veins have different profiles."
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Regular use leads to tolerance and dependence."
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effects vary significantly between users."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low/Stimulating:",
+      "description": "1-3 grams."
+    },
+    {
+      "label": "Moderate/Balanced:",
+      "description": "3-5 grams."
+    },
+    {
+      "label": "High/Sedating:",
+      "description": "5-8+ grams."
+    },
+    {
+      "label": "Start Low:",
+      "description": "Begin with 1-2 grams to assess response."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Dependence Risk:",
+      "description": "Physical dependence possible with regular use."
+    },
+    {
+      "label": "Nausea:",
+      "description": "Common, especially at higher doses."
+    },
+    {
+      "label": "Constipation:",
+      "description": "Similar to opioids."
+    },
+    {
+      "label": "Withdrawal:",
+      "description": "Discontinuation can cause withdrawal symptoms."
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Varies by jurisdiction; banned in some areas."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal in Most US States:",
+      "description": "But banned in some states and countries."
+    },
+    {
+      "label": "Head Shops/Online:",
+      "description": "Available from specialty vendors."
+    },
+    {
+      "label": "Quality Varies:",
+      "description": "Lab-tested products recommended."
+    }
+  ],
+  "related": [
+    {
+      "name": "SANDALWOOD",
+      "slug": "sandalwood"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    },
+    {
+      "name": "STINGING NETTLE",
+      "slug": "stinging-nettle"
+    },
+    {
+      "name": "RHODIOLA ROSEA",
+      "slug": "rhodiola-rosea"
+    },
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "neurotrophin-3",
+  "url": "https://dopamine.club/substances/neurotrophin-3/",
+  "scrapedAt": "2026-02-12T16:10:12.412Z",
+  "title": "NEUROTROPHIN-3",
+  "description": "Neurotrophin-3 (NT-3) is a neurotrophic factor that promotes the survival, growth, and differentiation of neurons and glial cells, particularly in the peripheral and central nervous systems. It binds to the TrkC receptor and plays critical roles in nerve regeneration, neuronal development, and synaptic function. NT-3 is primarily studied for therapeutic applications in nerve injury repair, spinal cord injury, and neurodegenerative conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Neurotrophin 3 promotes purification and proliferation of olfactory ensheathing cells from human nose",
+      "summary": "NT-3 at 50 ng/ml optimally promotes purification and proliferation of nasal ensheathing glial cells, which show potential for nerve repair in clinical applications using autologous transplants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14730705/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of neurotrophin-3 genetically modified olfactory ensheathing cells transplantation on spinal cord injury",
+      "summary": "NT-3 gene-modified olfactory ensheathing cells survived in vivo and significantly improved recovery after spinal cord injury by promoting axon regeneration and locomotor function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20350361/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Combined application of brain-derived neurotrophic factor and neurotrophin-3 and its impact on spiral ganglion neuron firing properties",
+      "summary": "Combined BDNF and NT-3 treatment maintained resting membrane potentials and regulated firing threshold in cultured spiral ganglion neurons without altering firing adaptation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22796476/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nerve growth factor and neurotrophin-3 modulate the rabies infection of adult sensory neurons in primary cultures",
+      "summary": "NT-3 at 1-5 ng/ml significantly reduced rabies virus infection in adult sensory neurons while not affecting non-neuronal cell infection rates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10882791/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Site-specific interactions of neurotrophin-3 and fibroblast growth factor in the embryonic development of the mouse cochlear nucleus",
+      "summary": "NT-3 and its receptor TrkC are present during neural precursor migration and morphogenesis, tracking migration routes and developmental sequences in the cochlear nucleus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16673387/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Differential effects of NGF and NT-3 on embryonic trigeminal axon growth patterns",
+      "summary": "NT-3 promotes precocious development of short axon collaterals with focal arbors along the central trigeminal tract, affecting both central and peripheral axon growth patterns.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10954840/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of 12 weeks resistance training and vitamin D administration on neuromuscular joint, muscle strength and power in postmenopausal women",
+      "summary": "The study examined NT-3 concentrations as a potential biomarker alongside CAF in postmenopausal women undergoing resistance training and vitamin D supplementation for neuromuscular health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38036018/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Immunological isolation and characterization of neuronal progenitors from human dental pulp",
+      "summary": "Neurotrophin-3 was used as a neurotrophic factor supplement along with other factors to induce neuronal differentiation in PSA-NCAM+ cells isolated from dental pulp stem cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38713428/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User sentiment is mixed as NT-3 is not commonly discussed as a consumer supplement in the user data provided. Most discussion focuses on related compounds like BDNF and general neurotrophic factors rather than NT-3 specifically, with users showing interest in neuroplasticity enhancement but limited direct experience with NT-3 supplementation."
+  },
+  "effects": [
+    {
+      "label": "Dosage-Dependent Response:",
+      "description": "Optimal effects observed at 50 ng/ml for cell proliferation, with lower doses (1-5 ng/ml) effective for neuroprotection"
+    },
+    {
+      "label": "Enhanced Recovery:",
+      "description": "Significantly improves locomotor function and morphological outcomes when used in spinal cord injury models"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works effectively in combination with other neurotrophic factors like BDNF and FGF2 for enhanced outcomes"
+    },
+    {
+      "label": "Clinical Potential:",
+      "description": "Shows promise for autologous transplant therapies using nasal ensheathing cells, though primarily in research settings"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Standard:",
+      "description": "1-5 ng/ml for neuroprotection studies and viral resistance in neuronal cultures"
+    },
+    {
+      "label": "Optimal Proliferation:",
+      "description": "50 ng/ml demonstrated as optimal concentration for olfactory ensheathing cell purification and proliferation"
+    },
+    {
+      "label": "Gene Therapy Applications:",
+      "description": "NT-3 gene-modified cells used for sustained local delivery rather than systemic administration"
+    },
+    {
+      "label": "Not Consumer Available:",
+      "description": "NT-3 is not widely available as a direct supplement; applications are primarily research or clinical therapy-based"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Data:",
+      "description": "Few side effects reported in research settings as NT-3 is not commonly used as a consumer supplement"
+    },
+    {
+      "label": "Specialized Application:",
+      "description": "Most studies involve gene therapy or cell culture rather than direct supplementation, limiting side effect profiles"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "NT-3 is primarily a research compound and not approved for general supplementation use"
+    },
+    {
+      "label": "Unknown Long-term Effects:",
+      "description": "Long-term safety data in humans for direct NT-3 administration is limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Use:",
+      "description": "Primarily available for laboratory research purposes and not marketed as a consumer supplement"
+    },
+    {
+      "label": "Clinical Trials:",
+      "description": "NT-3 applications are mostly confined to experimental therapies and gene therapy protocols in clinical settings"
+    },
+    {
+      "label": "Indirect Enhancement:",
+      "description": "Consumers may focus on increasing endogenous neurotrophin production through exercise, diet, and other supplements rather than direct NT-3 supplementation"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "COLLAGEN TYPE II",
+      "slug": "collagen-type-ii"
+    },
+    {
+      "name": "DIOSMIN",
+      "slug": "diosmin"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "bitter-melon-extract",
+  "url": "https://dopamine.club/substances/bitter-melon-extract/",
+  "scrapedAt": "2026-02-12T16:06:10.461Z",
+  "title": "BITTER MELON EXTRACT",
+  "description": "Bitter Melon Extract, or Momordica charantia, is a medicinal plant compound containing bioactive substances like charantin and insulin-like peptides that mimic the action of insulin. It is primarily used to enhance glucose metabolism, reduce insulin resistance, and support metabolic health in individuals with prediabetes or obesity.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Investigation of the Influence of a Bitter Melon Product on Indicators of Glycemic Control in Adults with Prediabetes",
+      "summary": "A 12-week study found that doses of 300mg and 600mg per day significantly reduced the increase of blood glucose levels and improved HbA1c levels in older adults with prediabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39536276/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Momordica charantia (bitter melon) efficacy and safety on glucose metabolism in Korean prediabetes participants: a 12-week, randomized clinical study",
+      "summary": "Research suggests that 2.4g per day of bitter melon extract effectively lowers glucose levels by suppressing glucagon in prediabetic patients.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10050654/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beneficial Role of Bitter Melon Supplementation in Obesity and Related Complications in Metabolic Syndrome",
+      "summary": "This review highlights bitter melon as a potent inhibitor of lipogenesis (fat creation) and a stimulator of lipolysis (fat breakdown) in animal and in vitro models.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4306384/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bitter melon (Momordica charantia): a review of efficacy and safety",
+      "summary": "A comprehensive review of the plant's hypoglycemic properties, noting its traditional use and chemical composition including saponins and alkaloids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12625217/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users recognize it as a powerful tool for blood sugar management and fat loss, but many find the extreme bitterness of natural forms difficult to tolerate compared to other metabolic supplements like berberine."
+  },
+  "effects": [
+    {
+      "label": "Weight Management:",
+      "description": "Potent at stimulating fat breakdown (lipolysis), though human clinical evidence is less robust than animal data."
+    },
+    {
+      "label": "Insulin Resistance:",
+      "description": "Highly effective for individuals in the prediabetic range to maintain healthy glucose levels."
+    },
+    {
+      "label": "Suppression of Glucagon:",
+      "description": "Particularly effective for lowering glucose in those whose bodies overproduce glucagon."
+    },
+    {
+      "label": "Comparative Performance:",
+      "description": "Often viewed as a natural alternative to berberine for those who experience anxiety or side effects from berberine."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low-Dose Extract:",
+      "description": "300mg to 600mg per day is used for general glycemic control in prediabetics."
+    },
+    {
+      "label": "High-Dose Clinical:",
+      "description": "2,400mg (2.4g) per day has been utilized in clinical trials for significant glucose reduction."
+    },
+    {
+      "label": "Standard Supplementation:",
+      "description": "Commercial dosages range widely from 1,000mg to 15,000mg depending on the extract concentration and form."
+    },
+    {
+      "label": "Tea/Liquid Form:",
+      "description": "Often consumed as a bitter leaf tea or juice, though taste is a significant barrier to compliance."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Palatability Issues:",
+      "description": "Extreme bitterness can cause nausea or difficulty in regular consumption if not in capsule form."
+    },
+    {
+      "label": "Hypoglycemia Risk:",
+      "description": "Potential for blood sugar to drop too low if combined with other glucose-lowering medications."
+    },
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Some users experience gastrointestinal upset or 'cleansing' effects when starting high doses."
+    },
+    {
+      "label": "Anxiety Sensitivity:",
+      "description": "While rare compared to berberine, metabolic shifts can occasionally influence mood or stress levels."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Variety:",
+      "description": "Widely available in health food stores and online in capsules, powders, and liquid extracts."
+    },
+    {
+      "label": "Culinary vs Supplement:",
+      "description": "Can be purchased as a whole vegetable (Bitter Gourd) in Asian markets or as a standardized herbal extract."
+    },
+    {
+      "label": "Market Forms:",
+      "description": "Often combined with other metabolic ingredients like cinnamon, chromium, or Gymnema Sylvestre."
+    }
+  ],
+  "related": [
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "CINNAMON EXTRACT",
+      "slug": "cinnamon-extract"
+    },
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    }
+  ]
+}

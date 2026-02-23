@@ -1,0 +1,145 @@
+{
+  "slug": "ornithine",
+  "url": "https://dopamine.club/substances/ornithine/",
+  "scrapedAt": "2026-02-12T16:10:18.345Z",
+  "title": "ORNITHINE",
+  "description": "Ornithine is a non-essential amino acid that plays a central role in the urea cycle, helping to detoxify ammonia in the body. It serves as a precursor for the synthesis of polyamines, proline, and citrulline, and is primarily used for reducing fatigue, improving exercise performance, and supporting liver function in hepatic encephalopathy.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ornithine and its role in metabolic diseases: An appraisal",
+      "summary": "Comprehensive review establishing ornithine's role in the urea cycle and its therapeutic potential in conditions characterized by excess ammonia, including hepatic encephalopathy and exercise-induced fatigue. The review highlights ornithine's functions in synthesizing proline, polyamines, and citrulline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27978498/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety assessment of L-ornithine oral intake in healthy subjects: a systematic review",
+      "summary": "Systematic review of 22 clinical trials found the no observed adverse effect level to be 12,000 mg/day of L-ornithine hydrochloride, with maximum duration of 156 days. Main adverse events were gastrointestinal disorders, but no significant difference compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/not_available/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Retinal risks of high-dose ornithine supplements: a review",
+      "summary": "Review concluded that short-term, low-dose, or transient high-dose ornithine intake is safe for the retina. Blood ornithine levels below 250 μmol/l do not produce retinal alterations, while long-term high concentrations above 600 μmol/l may induce retinal toxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21767450/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Composite Supplement Containing Collagen Peptide and Ornithine on Skin Conditions and Plasma IGF-1 Levels",
+      "summary": "Randomized, double-blind, placebo-controlled trial investigating ornithine's effects on skin health and IGF-1 levels, demonstrating potential benefits when combined with collagen peptide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30513923/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prophylaxis of hepatic encephalopathy: current and future drug targets",
+      "summary": "Review discussing ammonia-lowering agents including ornithine-related therapies for preventing hepatic encephalopathy in cirrhotic patients, highlighting the role of amino acid metabolism in neurological complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38492132/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Additive Effects of L-Ornithine on Preferences to Basic Taste Solutions in Mice",
+      "summary": "Study found that L-ornithine at low concentrations enhances preferences to sweet, salty, umami, and fat taste solutions in mice, suggesting a role as a 'kokumi' substance that enhances food palatability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34836006/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Supplements with purported effects on muscle mass and strength",
+      "summary": "Comprehensive review of muscle-building supplements found limited but promising evidence for ornithine when paired with arginine in one older study showing improvements in lean mass and power output in weightlifters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30604177/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with ornithine are genuinely divided, with some reporting modest benefits for sleep quality and exercise recovery, while others find minimal to no effects. The lack of strong, consistent positive feedback suggests variable individual responses."
+  },
+  "effects": [
+    {
+      "label": "Ammonia Management:",
+      "description": "Most effective in conditions with elevated ammonia such as hepatic encephalopathy or prolonged exercise; benefits are context-dependent"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "User responses vary significantly, with some experiencing noticeable fatigue reduction while others report minimal effects"
+    },
+    {
+      "label": "Dosage Sensitivity:",
+      "description": "Effectiveness appears dose-dependent, with higher doses (6-12g) showing more consistent results than lower doses"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Benefits for sleep and recovery may be enhanced when taken before bed or post-exercise, though optimal timing remains unclear"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Clinical studies use 2-12 grams per day, with 12,000 mg/day established as the no observed adverse effect level"
+    },
+    {
+      "label": "Exercise Performance:",
+      "description": "Doses of 6-10 grams taken before prolonged exercise may help reduce ammonia-related fatigue"
+    },
+    {
+      "label": "Sleep Support:",
+      "description": "Users typically report 2-6 grams taken 30-60 minutes before bed for potential sleep benefits"
+    },
+    {
+      "label": "Duration:",
+      "description": "Maximum studied duration is 156 days; short-term use appears safest while long-term effects beyond this require more research"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Most common side effect includes mild stomach discomfort, nausea, or diarrhea, particularly at higher doses"
+    },
+    {
+      "label": "Retinal Concerns:",
+      "description": "Long-term very high doses (above 600 μmol/l blood concentration) may pose retinal risks, though short-term supplementation is considered safe"
+    },
+    {
+      "label": "Minimal at Moderate Doses:",
+      "description": "Doses up to 12g/day show no significant adverse effects compared to placebo in systematic reviews"
+    },
+    {
+      "label": "Individual Tolerance:",
+      "description": "Some users report no side effects even at higher doses, while others experience digestive upset at lower amounts"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Forms:",
+      "description": "Available as L-ornithine hydrochloride or L-ornithine alpha-ketoglutarate (OKG) in powder or capsule form from supplement retailers"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Widely available as a dietary supplement without prescription in most countries; no significant regulatory restrictions"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "D-RIBOSE",
+      "slug": "d-ribose"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

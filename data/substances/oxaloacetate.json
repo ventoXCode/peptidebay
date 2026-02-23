@@ -1,0 +1,131 @@
+{
+  "slug": "oxaloacetate",
+  "url": "https://dopamine.club/substances/oxaloacetate/",
+  "scrapedAt": "2026-02-12T16:10:19.802Z",
+  "title": "OXALOACETATE",
+  "description": "Oxaloacetate (OAA) is a key intermediate in the citric acid cycle (Krebs cycle) that plays a central role in cellular energy metabolism. It has been investigated for its potential to enhance mitochondrial function, reduce neuroinflammation, and improve metabolic health. Research suggests it may benefit conditions involving energy deficits, including chronic fatigue, neurodegenerative diseases, and aging.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "RESTORE ME: a RCT of oxaloacetate for improving fatigue in patients with myalgic encephalomyelitis/chronic fatigue syndrome",
+      "summary": "In a randomized, double-blind trial of 82 ME/CFS patients, 2,000mg daily oxaloacetate significantly reduced fatigue by over 25% compared to baseline, with 40.5% classified as 'enhanced responders' showing 63% fatigue reduction. Both physical and mental fatigue improved with good tolerability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39655164/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oxaloacetate activates brain mitochondrial biogenesis, enhances the insulin pathway, reduces inflammation and stimulates neurogenesis",
+      "summary": "Oxaloacetate administration in animal models enhanced brain mitochondrial biogenesis, improved insulin signaling, reduced inflammatory markers, and stimulated neurogenesis, suggesting potential neuroprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25027327/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety and target engagement profile of two oxaloacetate doses in Alzheimer's patients",
+      "summary": "A safety study in Alzheimer's patients testing 500mg and 1,000mg twice daily for one month demonstrated good tolerability and safety profile, establishing OAA as safe for human consumption in these doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32715609/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oxaloacetate supplementation increases lifespan in Caenorhabditis elegans through an AMPK/FOXO-dependent pathway",
+      "summary": "In C. elegans model organisms, oxaloacetate supplementation extended lifespan through activation of AMPK and FOXO pathways, key regulators of metabolism and longevity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19793063/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely divided, with no Reddit data available to assess real-world experiences. Clinical trials show promising results for fatigue reduction and safety, but lack of consumer feedback prevents comprehensive sentiment analysis."
+  },
+  "effects": [
+    {
+      "label": "ME/CFS Response:",
+      "description": "Over 25% average fatigue reduction in clinical trials, with 40.5% of patients showing enhanced response (63% reduction)"
+    },
+    {
+      "label": "Dose-Dependent:",
+      "description": "Clinical studies show efficacy at 2,000mg daily (1,000mg twice daily), with safety established up to this level"
+    },
+    {
+      "label": "Tolerability:",
+      "description": "Well-tolerated in clinical trials with Alzheimer's and ME/CFS patients at therapeutic doses"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Clinical trials identified 'enhanced responders' suggesting individual variability in effectiveness"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Dose:",
+      "description": "1,000-2,000mg daily (divided into twice-daily dosing) used in successful clinical trials"
+    },
+    {
+      "label": "Safety Range:",
+      "description": "Doses up to 1,000mg twice daily (2,000mg total) demonstrated safe in human studies"
+    },
+    {
+      "label": "Duration:",
+      "description": "One-month to three-month supplementation periods studied in clinical trials"
+    },
+    {
+      "label": "Form:",
+      "description": "Anhydrous enol-oxaloacetate form used in clinical research"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "General Tolerability:",
+      "description": "Clinical trials report good tolerability with no significant adverse events at tested doses"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Well-tolerated in vulnerable populations including ME/CFS and Alzheimer's patients"
+    },
+    {
+      "label": "No Major Concerns:",
+      "description": "Research literature does not report serious side effects at therapeutic doses"
+    },
+    {
+      "label": "Limited Long-term Data:",
+      "description": "Most studies are 1-3 months; longer-term safety data is limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Status:",
+      "description": "Primarily investigated as a research compound with multiple clinical trials published"
+    },
+    {
+      "label": "Commercial Forms:",
+      "description": "Available as dietary supplement, typically as anhydrous enol-oxaloacetate"
+    },
+    {
+      "label": "Clinical Use:",
+      "description": "Not FDA-approved as medication but used in clinical research settings for ME/CFS and neurodegenerative conditions"
+    }
+  ],
+  "related": [
+    {
+      "name": "NADH",
+      "slug": "nadh"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "FAD",
+      "slug": "fad"
+    },
+    {
+      "name": "FISETIN",
+      "slug": "fisetin"
+    },
+    {
+      "name": "FMN",
+      "slug": "fmn"
+    }
+  ]
+}

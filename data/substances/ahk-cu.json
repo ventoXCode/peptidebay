@@ -1,0 +1,113 @@
+{
+  "slug": "ahk-cu",
+  "url": "https://dopamine.club/substances/ahk-cu/",
+  "scrapedAt": "2026-02-12T16:05:34.220Z",
+  "title": "AHK-CU",
+  "description": "AHK-Cu (L-alanyl-L-histidyl-L-lysine-copper complex) is a tripeptide-copper complex that acts as a growth factor for differentiated cells. It stimulates dermal fibroblast proliferation, increases vascular endothelial growth factor production, and has been studied primarily for its effects on hair follicle growth and dermal papilla cell function.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "The effect of tripeptide-copper complex on human hair growth in vitro",
+      "summary": "AHK-Cu at concentrations of 10⁻¹² to 10⁻⁹ M stimulated human hair follicle elongation and dermal papilla cell proliferation, while reducing apoptosis markers by elevating the Bcl-2/Bax ratio and reducing cleaved caspase-3 levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17703734/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User experiences are extremely limited with only one post mentioning AHK-Cu topically for hair growth, with no detailed feedback on results. The lack of substantial user reports prevents meaningful sentiment analysis beyond academic interest in the compound."
+  },
+  "effects": [
+    {
+      "label": "Concentration Range:",
+      "description": "Effective at extremely low concentrations (10⁻¹² to 10⁻⁹ M) in laboratory studies"
+    },
+    {
+      "label": "Hair Growth:",
+      "description": "Demonstrated positive effects on human hair follicle growth in ex vivo studies"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Minimal user reports available to confirm real-world topical application effectiveness"
+    },
+    {
+      "label": "Topical Application:",
+      "description": "User interest focuses on topical serum formulation, though optimal delivery methods remain unclear"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Concentrations:",
+      "description": "Studies used 10⁻¹² to 10⁻⁹ M (picomolar to nanomolar range) with 10⁻⁹ M showing optimal effects"
+    },
+    {
+      "label": "Topical Formulation:",
+      "description": "Users seeking guidance on creating topical serums but no established protocols available"
+    },
+    {
+      "label": "Application Method:",
+      "description": "Intended for topical use on scalp, though specific concentration recommendations for consumer products lacking"
+    },
+    {
+      "label": "Frequency Unknown:",
+      "description": "No established dosing schedule for topical application in available user reports"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "No Reported Side Effects:",
+      "description": "Research studies did not identify adverse effects at tested concentrations"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Lack of long-term human studies on topical application"
+    },
+    {
+      "label": "Formulation Challenges:",
+      "description": "Users uncertain about proper preparation methods for topical use"
+    },
+    {
+      "label": "Unknown Interactions:",
+      "description": "No data available on potential interactions with other hair growth treatments"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical Status:",
+      "description": "Available for purchase as research peptide but limited commercial formulations"
+    },
+    {
+      "label": "DIY Formulation:",
+      "description": "Users attempting to create their own topical serums due to lack of ready-made products"
+    },
+    {
+      "label": "Limited Commercial Products:",
+      "description": "Not widely available in mainstream hair care or supplement products"
+    }
+  ],
+  "related": [
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "BPC-157",
+      "slug": "bpc-157"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    }
+  ]
+}

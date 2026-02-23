@@ -1,0 +1,139 @@
+{
+  "slug": "glp-1",
+  "url": "https://dopamine.club/substances/glp-1/",
+  "scrapedAt": "2026-02-12T16:08:08.407Z",
+  "title": "GLP-1",
+  "description": "Glucagon-like peptide-1 (GLP-1) is an incretin hormone derived from the intestine that stimulates insulin secretion in a glucose-dependent manner while suppressing glucagon release. It acts on the brain to increase satiety, delays gastric emptying, and is primarily used to treat type 2 diabetes and obesity through GLP-1 receptor agonists.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "GLP-1-based therapies for diabetes, obesity and beyond",
+      "summary": "This review confirms GLP-1 therapies like semaglutide and tirzepatide are highly effective for glucose control and weight loss while reducing cardiovascular and renal mortality.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38555986/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hypoglycemic effect of C. butyricum-pMTL007-GLP-1 engineered probiotics on type 2 diabetes mellitus",
+      "summary": "Engineered probiotics designed to continuously deliver GLP-1 successfully lowered blood glucose, improved islet cell function, and restored gut microbiota in diabetic models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39745177/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "GDF8 and activin A blockade protects against GLP-1-induced muscle loss while enhancing fat loss",
+      "summary": "GLP-1 receptor agonists can cause significant muscle loss as a side effect, but blocking myostatin and activin A can preserve muscle mass and optimize metabolic outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40360507/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease",
+      "summary": "Clinical guidelines now formally recommend GLP-1 receptor agonists for patients with chronic coronary disease and type 2 diabetes to reduce major adverse cardiovascular events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37480922/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of glucagon-like peptide-1 in reproduction: from physiology to therapeutic perspective",
+      "summary": "GLP-1 RAs show potential in managing reproductive health disorders like PCOS by restoring menstrual frequency and improving metabolic health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31260047/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "GLP-1 rescued gestational diabetes mellitus-induced suppression of fetal thalamus development",
+      "summary": "Animal models suggest GLP-1 may protect fetal neurological development, specifically correcting impaired thalamocortical axon growth caused by maternal diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36424357/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users report transformative weight loss and high effectiveness for glycemic control, though they frequently discuss managing gastrointestinal side effects and the risk of muscle mass reduction."
+  },
+  "effects": [
+    {
+      "label": "Rapid Weight Loss:",
+      "description": "Highly effective for obesity management, particularly when combined with lifestyle interventions."
+    },
+    {
+      "label": "Chronic Management:",
+      "description": "Shows high long-term success for reversing prediabetes and managing type 2 diabetes."
+    },
+    {
+      "label": "Metabolic Health:",
+      "description": "Effectively improves dyslipidemia and markers of inflammation like IL-6 and TNF-alpha."
+    },
+    {
+      "label": "PCOS Regulation:",
+      "description": "Emerging utility in restoring menstrual cycles and managing insulin resistance in adolescents with PCOS."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Titration Schedule:",
+      "description": "Commonly started at a low 'induction' dose (e.g., 0.25mg) to minimize nausea, increasing every 4 weeks."
+    },
+    {
+      "label": "Short-acting vs Long-acting:",
+      "description": "Short-acting analogs may be used to specifically target postprandial glucose, while long-acting versions (weekly) are preferred for weight loss."
+    },
+    {
+      "label": "Engineered Probiotics:",
+      "description": "Novel delivery methods via C. butyricum or L. gasseri are being researched to bypass daily injections."
+    },
+    {
+      "label": "Nutraceutical Induction:",
+      "description": "200mg daily of Eriocitrin has been shown to naturally increase endogenous GLP-1 levels by 17%."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Nausea, vomiting, and constipation are the most frequently reported user side effects."
+    },
+    {
+      "label": "Muscle Loss:",
+      "description": "Loss of muscle mass is a significant concern, often requiring high protein intake and resistance training to mitigate."
+    },
+    {
+      "label": "Islet Cell Apoptosis:",
+      "description": "In diseased states, GLP-1 therapies help retard islet cell apoptosis, which is a positive secondary effect."
+    },
+    {
+      "label": "Gallbladder Issues:",
+      "description": "Rapid weight loss associated with GLP-1 can increase the risk of gallbladder-related complications."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Requirement:",
+      "description": "GLP-1 receptor agonists (Semaglutide, Tirzepatide) are strictly prescription-only medications."
+    },
+    {
+      "label": "Supply Shortages:",
+      "description": "Significant global demand has led to frequent sourcing challenges and intermittent availability for patients."
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    }
+  ]
+}

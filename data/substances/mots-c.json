@@ -1,0 +1,155 @@
+{
+  "slug": "mots-c",
+  "url": "https://dopamine.club/substances/mots-c/",
+  "scrapedAt": "2026-02-12T16:09:37.293Z",
+  "title": "MOTS-C",
+  "description": "MOTS-c (Mitochondrial ORF of the 12S rRNA Type-C) is a 16-amino acid peptide encoded by mitochondrial DNA that acts as a retrograde signaling molecule from mitochondria to the nucleus. It regulates cellular metabolism primarily through AMPK pathway activation, improving glucose metabolism, reducing insulin resistance, enhancing exercise capacity, and promoting metabolic homeostasis across multiple tissues.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance",
+      "summary": "MOTS-c treatment significantly improved insulin sensitivity, reduced obesity, and enhanced metabolic homeostasis in animal models through AMPK activation and improved glucose metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of MOTS-c-mediated antioxidant defense in aerobic exercise alleviating diabetic myocardial injury",
+      "summary": "MOTS-c treatment (0.5 mg/kg/day) reduced myocardial damage in diabetic rats by enhancing antioxidant defenses through Keap1/Nrf2 pathway activation and improved cardiac function comparable to aerobic exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37957221/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The mitochondrial signaling peptide MOTS-c improves myocardial performance during exercise training in rats",
+      "summary": "MOTS-c enhanced cardiac systolic function and mechanical efficiency in exercised rats, demonstrating synergistic effects with aerobic training on cardiovascular performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34635713/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "MOTS-c Functionally Prevents Metabolic Disorders",
+      "summary": "Review confirms MOTS-c reduces insulin resistance, prevents obesity, improves muscle function, promotes bone metabolism, and enhances immune regulation primarily through AICAR-AMPK signaling pathway activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36677050/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "MOTS-c: A promising mitochondrial-derived peptide for therapeutic exploitation",
+      "summary": "Comprehensive review demonstrating MOTS-c's benefits for diabetes, obesity, aging, and cardiovascular disease, with plasma levels decreasing with age and tissue-specific expression patterns.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36761202/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The mitochondrial-derived peptide MOTS-c relieves hyperglycemia and insulin resistance in gestational diabetes mellitus",
+      "summary": "MOTS-c treatment effectively reduced blood glucose levels and improved insulin sensitivity in gestational diabetes models, showing therapeutic potential for pregnancy-related metabolic dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34798268/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "MOTS-c modulates skeletal muscle function by directly binding and activating CK2",
+      "summary": "Research identified CK2 as a direct binding target of MOTS-c, revealing a novel mechanism for its effects on skeletal muscle function beyond AMPK activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39559755/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The intraperitoneal administration of MOTS-c produces antinociceptive and anti-inflammatory effects through the activation of AMPK pathway in the mouse formalin test",
+      "summary": "MOTS-c demonstrated pain-reducing and anti-inflammatory properties through AMPK pathway activation in animal pain models, suggesting potential therapeutic applications beyond metabolic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31926126/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report significant energy improvements, enhanced exercise capacity, and effective weight loss support when combined with GLP-1 agonists. Most describe it as a 'game changer' with notable effects on metabolism and recovery, though a minority report no benefits, possibly due to already good metabolic health or product quality issues."
+  },
+  "effects": [
+    {
+      "label": "Exercise Mimetic Properties:",
+      "description": "Functions as a partial exercise substitute, with research and users confirming it replicates some metabolic benefits of physical training"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works particularly well when combined with actual exercise or GLP-1 agonists, with enhanced results compared to monotherapy"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Those with poor metabolic health report dramatic benefits, while metabolically healthy individuals may experience minimal effects"
+    },
+    {
+      "label": "Cumulative Benefits:",
+      "description": "Effects appear to build over weeks rather than being immediately noticeable, with optimal results after consistent 4-8 week use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "2-5mg administered 2-3 times weekly (total 4-15mg/week) is most commonly reported, often split into subcutaneous injections"
+    },
+    {
+      "label": "Daily Microdosing:",
+      "description": "Some users report success with 500mcg-2mg daily, particularly when using it as pre-workout or morning energy support"
+    },
+    {
+      "label": "High-Dose Approaches:",
+      "description": "A subset uses 5-10mg daily, though this appears less common and may be excessive based on research using 0.5mg/kg in animals"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Morning and pre-workout administration most popular, with some users avoiding evening doses due to energy-boosting effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Rapid Heart Rate:",
+      "description": "Small number of users report increased heart rate or palpitations, particularly at higher doses or when first starting"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Rare reports of severe reactions including shock-like symptoms, though these appear to be outliers and may relate to product quality"
+    },
+    {
+      "label": "Interaction Concerns:",
+      "description": "Some sources suggest caution when combining with GLP-1 agonists, though many users successfully stack them without issues"
+    },
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Majority of users report no negative effects, describing it as one of the safest peptides with primarily positive outcomes"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Peptide Market:",
+      "description": "Widely available from peptide research sources, though quality varies significantly between sources"
+    },
+    {
+      "label": "Injectable Form Preferred:",
+      "description": "Most users administer via subcutaneous injection, as oral bioavailability appears poor based on user reports"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally affordable compared to other peptides, with typical monthly costs ranging $50-150 depending on dosage and source"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "D-RIBOSE",
+      "slug": "d-ribose"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Home" description="Comprehensive peptide and research compound database with dosing guidelines, research papers, and user experiences.">
+
+<!-- Hero Section -->
+<section class="relative overflow-hidden py-20 lg:py-32">
+  <!-- Background effects -->
+  <div class="absolute inset-0 bg-gradient-to-b from-chem-green/5 via-transparent to-transparent"></div>
+  <div class="absolute inset-0 bg-hex-pattern opacity-30"></div>
+  
+  <!-- Smoke/vapor effect -->
+  <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[400px] bg-chem-green/10 blur-[100px] rounded-full"></div>
+  
+  <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center">
+      <!-- Periodic element decoration -->
+      <div class="inline-flex items-center justify-center mb-8">
+        <div class="element-card w-24 h-24 flex flex-col items-center justify-center animate-pulse-glow">
+          <span class="text-xs text-industrial-400 font-mono">001</span>
+          <span class="text-3xl font-substance font-bold text-chem-green">Pb</span>
+          <span class="text-xs text-industrial-300">Peptide</span>
+        </div>
+      </div>
+      
+      <h1 class="font-heading text-4xl sm:text-5xl lg:text-7xl font-bold tracking-tight mb-6">
+        <span class="text-industrial-100">The </span>
+        <span class="text-chem-green text-glow-green">Compound</span>
+        <span class="text-industrial-100"> Database</span>
+      </h1>
+      
+      <p class="max-w-2xl mx-auto text-lg sm:text-xl text-industrial-300 mb-10">
+        Comprehensive research on <span class="text-chem-green font-semibold">506+ compounds</span> including peptides, nootropics, supplements, and research chemicals. Dosage protocols, studies, and real-world experiences.
+      </p>
+      
+      <!-- Search bar -->
+      <div class="max-w-xl mx-auto mb-12">
+        <form action="/database" method="get" class="relative">
+          <input 
+            type="text" 
+            name="q" 
+            placeholder="Search compounds (e.g., BPC-157, TB-500...)"
+            class="search-lab pr-24"
+          />
+          <button 
+            type="submit" 
+            class="absolute right-2 top-1/2 -translate-y-1/2 btn-lab py-2 px-4 text-sm"
+          >
+            Analyze
+          </button>
+        </form>
+      </div>
+      
+      <!-- Quick category buttons -->
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/database?category=peptide" class="category-pill bg-industrial-800/50 border-peptide hover:bg-peptide/10 hover:border-peptide">
+          <span class="w-2 h-2 rounded-full bg-peptide"></span>
+          Peptides
+        </a>
+        <a href="/database?category=nootropic" class="category-pill bg-industrial-800/50 border-nootropic hover:bg-nootropic/10 hover:border-nootropic">
+          <span class="w-2 h-2 rounded-full bg-nootropic"></span>
+          Nootropics
+        </a>
+        <a href="/database?category=supplement" class="category-pill bg-industrial-800/50 border-supplement hover:bg-supplement/10 hover:border-supplement">
+          <span class="w-2 h-2 rounded-full bg-supplement"></span>
+          Supplements
+        </a>
+        <a href="/database?category=sarm" class="category-pill bg-industrial-800/50 border-sarm hover:bg-sarm/10 hover:border-sarm">
+          <span class="w-2 h-2 rounded-full bg-sarm"></span>
+          SARMs
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Stats Section -->
+<section class="py-12 border-y border-industrial-800 bg-industrial-900/50">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+      <div class="text-center">
+        <div class="text-3xl sm:text-4xl font-heading font-bold text-chem-green text-glow-green mb-2">506</div>
+        <div class="text-sm text-industrial-400 font-mono uppercase tracking-wide">Compounds</div>
+      </div>
+      <div class="text-center">
+        <div class="text-3xl sm:text-4xl font-heading font-bold text-chem-green text-glow-green mb-2">51</div>
+        <div class="text-sm text-industrial-400 font-mono uppercase tracking-wide">Peptides</div>
+      </div>
+      <div class="text-center">
+        <div class="text-3xl sm:text-4xl font-heading font-bold text-chem-green text-glow-green mb-2">10</div>
+        <div class="text-sm text-industrial-400 font-mono uppercase tracking-wide">Categories</div>
+      </div>
+      <div class="text-center">
+        <div class="text-3xl sm:text-4xl font-heading font-bold text-chem-green text-glow-green mb-2">∞</div>
+        <div class="text-sm text-industrial-400 font-mono uppercase tracking-wide">Research</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Featured Compounds Section -->
+<section class="py-16 lg:py-24">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between mb-10">
+      <div>
+        <h2 class="font-heading text-2xl sm:text-3xl font-bold text-industrial-100">
+          Featured <span class="text-chem-green">Compounds</span>
+        </h2>
+        <p class="text-industrial-400 mt-2">Popular research peptides and their profiles</p>
+      </div>
+      <a href="/database" class="btn-lab hidden sm:inline-block">
+        View All →
+      </a>
+    </div>
+    
+    <!-- Featured compound cards - Periodic table style -->
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+      <!-- BPC-157 -->
+      <a href="/substances/bpc-157" class="element-card group hover:scale-105 transition-transform">
+        <div class="text-xs text-peptide font-mono mb-1">015</div>
+        <div class="text-4xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors mb-2">
+          BPC
+        </div>
+        <div class="text-sm text-industrial-300">BPC-157</div>
+        <div class="mt-3 flex items-center gap-2">
+          <div class="led-meter flex-1">
+            <div class="led-meter-fill bg-chem-green" style="width: 82%"></div>
+          </div>
+          <span class="text-xs text-chem-green font-mono">82%</span>
+        </div>
+        <div class="mt-2 text-xs text-industrial-500">Peptide</div>
+      </a>
+      
+      <!-- TB-500 -->
+      <a href="/substances/tb-500" class="element-card group hover:scale-105 transition-transform">
+        <div class="text-xs text-peptide font-mono mb-1">016</div>
+        <div class="text-4xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors mb-2">
+          TB
+        </div>
+        <div class="text-sm text-industrial-300">TB-500</div>
+        <div class="mt-3 flex items-center gap-2">
+          <div class="led-meter flex-1">
+            <div class="led-meter-fill bg-chem-green" style="width: 78%"></div>
+          </div>
+          <span class="text-xs text-chem-green font-mono">78%</span>
+        </div>
+        <div class="mt-2 text-xs text-industrial-500">Peptide</div>
+      </a>
+      
+      <!-- CJC-1295 -->
+      <a href="/substances/cjc-1295" class="element-card group hover:scale-105 transition-transform">
+        <div class="text-xs text-peptide font-mono mb-1">017</div>
+        <div class="text-4xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors mb-2">
+          CJC
+        </div>
+        <div class="text-sm text-industrial-300">CJC-1295</div>
+        <div class="mt-3 flex items-center gap-2">
+          <div class="led-meter flex-1">
+            <div class="led-meter-fill bg-chem-green" style="width: 75%"></div>
+          </div>
+          <span class="text-xs text-chem-green font-mono">75%</span>
+        </div>
+        <div class="mt-2 text-xs text-industrial-500">Peptide</div>
+      </a>
+      
+      <!-- Semaglutide -->
+      <a href="/substances/semaglutide" class="element-card group hover:scale-105 transition-transform">
+        <div class="text-xs text-glp font-mono mb-1">GLP</div>
+        <div class="text-4xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors mb-2">
+          SEM
+        </div>
+        <div class="text-sm text-industrial-300">Semaglutide</div>
+        <div class="mt-3 flex items-center gap-2">
+          <div class="led-meter flex-1">
+            <div class="led-meter-fill bg-chem-green" style="width: 88%"></div>
+          </div>
+          <span class="text-xs text-chem-green font-mono">88%</span>
+        </div>
+        <div class="mt-2 text-xs text-industrial-500">GLP-1</div>
+      </a>
+    </div>
+    
+    <div class="mt-8 text-center sm:hidden">
+      <a href="/database" class="btn-lab">
+        View All Compounds →
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Categories Grid -->
+<section class="py-16 bg-industrial-900/30 border-y border-industrial-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <h2 class="font-heading text-2xl sm:text-3xl font-bold text-industrial-100 text-center mb-12">
+      Browse by <span class="text-chem-green">Category</span>
+    </h2>
+    
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
+      <a href="/database?category=peptide" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+        <div class="text-2xl font-heading font-bold text-peptide mb-1">Peptides</div>
+        <div class="text-xs text-industrial-400 font-mono">72 compounds</div>
+      </a>
+      <a href="/database?category=supplement" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+        <div class="text-2xl font-heading font-bold text-supplement mb-1">Supplements</div>
+        <div class="text-xs text-industrial-400 font-mono">279 compounds</div>
+      </a>
+      <a href="/database?category=nootropic" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+        <div class="text-2xl font-heading font-bold text-nootropic mb-1">Nootropics</div>
+        <div class="text-xs text-industrial-400 font-mono">71 compounds</div>
+      </a>
+      <a href="/database?category=sarm" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+        <div class="text-2xl font-heading font-bold text-sarm mb-1">SARMs</div>
+        <div class="text-xs text-industrial-400 font-mono">13 compounds</div>
+      </a>
+      <a href="/database?category=adaptogen" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+        <div class="text-2xl font-heading font-bold text-adaptogen mb-1">Adaptogens</div>
+        <div class="text-xs text-industrial-400 font-mono">20 compounds</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="py-16 lg:py-24">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <div class="industrial-panel p-8 sm:p-12">
+      <h2 class="font-heading text-2xl sm:text-3xl font-bold text-industrial-100 mb-4">
+        Research-Grade Information
+      </h2>
+      <p class="text-industrial-300 mb-8">
+        Access comprehensive compound profiles with dosing protocols, peer-reviewed research, and aggregated user experiences. All data compiled for research purposes.
+      </p>
+      <a href="/database" class="btn-lab inline-block text-lg px-8 py-4">
+        Enter The Lab →
+      </a>
+    </div>
+  </div>
+</section>
+
+</BaseLayout>

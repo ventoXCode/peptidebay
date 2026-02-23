@@ -1,0 +1,107 @@
+{
+  "slug": "dupracetam",
+  "url": "https://dopamine.club/substances/dupracetam/",
+  "scrapedAt": "2026-02-12T16:07:26.724Z",
+  "title": "DUPRACETAM",
+  "description": "Dupracetam is a synthetic nootropic compound belonging to the racetam family, structurally characterized as a hydrazide derivative. It is hypothesized to modulate neurotransmission to enhance cognitive function, though one of its metabolites, 1-methylhydantoin, has been noted for potential renal toxicity at high dosages.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Efficacy and safety of oxiracetam in patients with vascular cognitive impairment: A multicenter, randomized, double-blinded, placebo-controlled, phase IV clinical trial",
+      "summary": "This high-level trial demonstrated that racetam analogues can significantly improve cognitive symptoms and daily living activities in patients with vascular impairment",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36724841/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cognitive effects of piracetam in adults with memory impairment: A systematic review and meta-analysis",
+      "summary": "A comprehensive review confirming that the parent racetam structure provides measurable benefits for memory and general cognitive function in impaired adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38878641/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users are often cautious due to the lack of human data and the known renal toxicity of its metabolite, leading to split opinions on its safety versus efficacy."
+  },
+  "effects": [
+    {
+      "label": "Potency:",
+      "description": "Generally considered more potent than piracetam but less documented than oxiracetam"
+    },
+    {
+      "label": "Reliability:",
+      "description": "Anecdotal evidence suggests varied responses with some users feeling no discernible effect"
+    },
+    {
+      "label": "Comparison:",
+      "description": "Often compared to other hydrazide racetams regarding its unique metabolic pathway"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Typical anecdotal doses range from 20-50mg due to its high potency relative to older racetams"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Often taken once daily to avoid accumulation of metabolites"
+    },
+    {
+      "label": "Caution:",
+      "description": "Users emphasize starting with conservative doses to monitor for renal discomfort"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Renal Toxicity:",
+      "description": "Risk of kidney stress due to the metabolite 1-methylhydantoin at high doses"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Common 'racetam headache' often managed with choline supplementation"
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Potential for sleep disruption if taken late in the day due to stimulatory effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical status:",
+      "description": "Often sold as a 'not for human consumption' compound in the nootropic market"
+    },
+    {
+      "label": "Sourcing:",
+      "description": "Primarily available through specialized online synthetic chemical suppliers"
+    },
+    {
+      "label": "Legality:",
+      "description": "Generally unscheduled in most jurisdictions but not approved by the FDA for medical use"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

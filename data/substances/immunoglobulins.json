@@ -1,0 +1,137 @@
+{
+  "slug": "immunoglobulins",
+  "url": "https://dopamine.club/substances/immunoglobulins/",
+  "scrapedAt": "2026-02-12T16:08:50.902Z",
+  "title": "IMMUNOGLOBULINS",
+  "description": "Immunoglobulins (Ig), commonly derived from bovine colostrum, are antibody proteins that support immune function and intestinal health. They work by binding to pathogens and toxins in the gastrointestinal tract, preventing their adherence to mucosal surfaces and supporting barrier integrity. Oral immunoglobulin supplementation is primarily used for immune support, gut healing, and reducing upper respiratory tract infections.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The effect of 12-week high-dose Colostrum Bovinum supplementation on immunological, hematological and biochemical markers in endurance athletes",
+      "summary": "12-week supplementation with 25g daily of bovine colostrum in endurance athletes resulted in favorable increases in post-exercise secretory IgA concentration in saliva, indicating improved mucosal immune response following exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39444619/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Immunological Outcomes of Bovine Colostrum Supplementation in Trained and Physically Active People: A Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis found bovine colostrum supplementation has low impact on serum immunoglobulins and immune cell counts, but previous research shows it can reduce upper respiratory tract infections, though mechanisms remain unclear.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32272628/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Diverse Immune Effects of Bovine Colostrum and Benefits in Human Health and Disease",
+      "summary": "Bovine colostrum exerts immune benefits through immunoglobulins, lactoferrin, and growth factors, modulating function of lymphocytes, macrophages, and dendritic cells with effects not solely dependent on protein absorption.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34836054/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Survival and digestibility of orally-administered immunoglobulin preparations containing IgG through the gastrointestinal tract in humans",
+      "summary": "Study demonstrates that orally ingested bovine IgG can survive passage through the gastrointestinal tract, with recovery rates from feces ranging from very low levels up to 50% of ingested IgG, maintaining functional activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25880525/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Colostrum: back to basics with immunoglobulins",
+      "summary": "Review of immunoglobulin content in colostrum shows IgG is the most abundant antibody, with vital roles in passive immunity transfer, though absorption and functional effects vary based on gastrointestinal conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32810237/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with immunoglobulin/colostrum supplementation, particularly for gut healing and immune support. Most users note benefits for reducing gut permeability, preventing infections, and supporting recovery, with minimal side effects reported."
+  },
+  "effects": [
+    {
+      "label": "Athletic Performance:",
+      "description": "Most effective in endurance athletes exposed to high training loads, with noticeable improvements in post-exercise immune markers and reduced infection rates"
+    },
+    {
+      "label": "Gut Healing:",
+      "description": "Particularly effective for individuals with leaky gut, NSAID-induced damage, or inflammatory bowel conditions, with benefits appearing within weeks of supplementation"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies based on baseline immune status, gastrointestinal pH, and whether using colostrum-derived or purified immunoglobulin products"
+    },
+    {
+      "label": "Preventive Benefits:",
+      "description": "Works better as a preventive measure than acute treatment, requiring consistent daily use for optimal immune and gut barrier support"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "High-Dose Protocol:",
+      "description": "Research supports 20-25g daily of bovine colostrum for athletes and those seeking maximal immune benefits, typically split into two doses"
+    },
+    {
+      "label": "Standard Maintenance:",
+      "description": "Users commonly report taking 10-15g daily for general gut health and immune support, often consumed in powder form mixed with water or protein shakes"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Best absorbed on empty stomach or between meals; some users take twice daily (morning and evening) for consistent mucosal protection"
+    },
+    {
+      "label": "SBI Protect (Serum Immunoglobulins):",
+      "description": "Purified IgG products typically used at 2.5-5g daily, with users reporting effectiveness at lower doses compared to whole colostrum"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Changes:",
+      "description": "Some users report temporary yellow or pale stool, which may indicate changes in liver enzyme levels or bile production during initial supplementation"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Most users report no negative side effects, though some experience mild GI adjustment during the first few days of use"
+    },
+    {
+      "label": "Quality-Dependent Issues:",
+      "description": "Lower quality products may cause more digestive upset; grass-fed, minimally processed colostrum appears better tolerated"
+    },
+    {
+      "label": "Lactose Sensitivity:",
+      "description": "Individuals with dairy sensitivities should choose lactose-free immunoglobulin concentrates or test tolerance with small doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Forms:",
+      "description": "Available as whole bovine colostrum powder, purified serum immunoglobulin concentrates (like SBI Protect), and sometimes in capsule form from various supplement companies"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Users emphasize importance of sourcing from grass-fed cows and choosing products from raw milk rather than cheese-making byproducts for maximum bioactivity"
+    },
+    {
+      "label": "Prescription vs OTC:",
+      "description": "Serum-derived bovine immunoglobulin products sometimes available as medical foods for specific GI conditions, while colostrum is widely available as dietary supplement"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

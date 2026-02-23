@@ -1,0 +1,167 @@
+{
+  "slug": "pomegranate-extract",
+  "url": "https://dopamine.club/substances/pomegranate-extract/",
+  "scrapedAt": "2026-02-12T16:10:43.221Z",
+  "title": "POMEGRANATE EXTRACT",
+  "description": "Pomegranate extract is a concentrated supplement derived from pomegranate fruit (Punica granatum), rich in polyphenols including ellagitannins, punicalagins, and anthocyanins. It functions primarily as a potent antioxidant and anti-inflammatory agent, modulating oxidative stress pathways, reducing reactive oxygen species (ROS), and supporting cellular health through multiple mechanisms including nitric oxide production and immune function enhancement.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pomegranate Extract Modulates Oxidative Stress by Reducing Basal ROS Levels in Aging Mice",
+      "summary": "Four months of pomegranate extract supplementation in aged mice significantly reduced basal ROS levels in both mitochondrial and cytoplasmic compartments, reversed hydrogen peroxide increases, and protected neutrophils, suggesting it modulates oxidative stress response in aging",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of Pomegranate Extract Supplementation on Physical and Cognitive Function in Older Adults",
+      "summary": "12-week randomized controlled trial with 86 participants showed significant improvements in cognitive function (WCST performance) and trends toward better outcomes in digit span, Tower of Hanoi, and Stroop tests, suggesting pomegranate extract may prevent cognitive decline in aging adults",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pomegranate Extract Administration Reverses Loss of Motor Coordination and Prevents Oxidative Stress in Cerebellum of Aging Mice",
+      "summary": "Four months of pomegranate extract in elderly mice reversed age-related motor coordination loss and prevented oxidative stress in the cerebellum, with improvements in balance, stance, and motor function",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38001844/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Combination of Pomegranate Extract and Hydrophilic Vitamins against Prolonged Fatigue",
+      "summary": "Monocentric randomized double-blind placebo-controlled trial demonstrated that pomegranate extract combined with B vitamins significantly reduced prolonged fatigue symptoms in participants",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37447210/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pomegranate Extract Improves Colitis in IL-10 Knockout Mice Fed a High Fat High Sucrose Diet",
+      "summary": "Pomegranate extract supplementation led to significantly lower histological scores for colitis, reduced spleen weight, and lower circulating IL-6 levels in IL-10 deficient mice, demonstrating anti-inflammatory effects in inflammatory bowel conditions",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34932869/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pomegranate Extract Affects Gut Biofilm Forming Bacteria and Promotes Intestinal Mucosal Healing",
+      "summary": "Pomegranate extract demonstrated antibacterial effects against biofilm-forming gut bacteria while promoting intestinal mucosal healing by regulating crosstalk between epithelial cells and intestinal fibroblasts",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37049615/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Review of Pomegranate in Prostate Cancer",
+      "summary": "Multiple clinical trials showed pomegranate juice and extract significantly lengthened PSA doubling time in biochemical recurrence patients, with a subset analysis showing greater benefits in patients with specific MnSOD genotypes",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28440320/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ameliorating Effect of Pomegranate Peel Extract against Type 1 Diabetes-Induced Hepatic Changes",
+      "summary": "Pomegranate peel extract (200mg/kg) significantly improved liver function in diabetic rats, reducing degenerative necrotic changes and normalizing liver enzymes through antioxidant mechanisms",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32207851/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prevention and Treatment of Influenza and Common Cold by Herbal Therapies",
+      "summary": "Review identified pomegranate among several herbal remedies found effective for prevention and treatment of viral respiratory illnesses including influenza and common cold",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27055821/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antiangiogenic Potential of Pomegranate Extracts",
+      "summary": "Comprehensive review consolidates findings on pomegranate extract's antiangiogenic properties, which are crucial for inhibiting tumor growth and other pathological conditions involving aberrant blood vessel formation",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39683144/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report pomegranate extract as an effective component of longevity and health optimization stacks, with several biohackers including it in their protocols for anti-aging benefits. While not as widely discussed as other supplements, those who use it generally report positive outcomes for overall health, cognitive function, and recovery with minimal side effects."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Most effective when combined with other antioxidants and anti-inflammatory compounds in comprehensive health optimization stacks"
+    },
+    {
+      "label": "Longevity Protocols:",
+      "description": "Featured in multiple evidence-based longevity stacks by researchers and biohackers, suggesting strong scientific backing for anti-aging applications"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects appear consistent across users but magnitude varies, with some reporting subtle improvements while others note significant changes"
+    },
+    {
+      "label": "Long-term Use:",
+      "description": "Users typically include pomegranate extract as a long-term foundational supplement rather than for acute effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Common dosing ranges from 200-740mg daily, typically taken with meals"
+    },
+    {
+      "label": "Extract Forms:",
+      "description": "Users prefer standardized extracts over juice due to convenience, shelf life, and reduced gastrointestinal discomfort"
+    },
+    {
+      "label": "Timing:",
+      "description": "Usually taken in morning or split into twice-daily doses (morning and evening)"
+    },
+    {
+      "label": "Peel vs Fruit:",
+      "description": "Pomegranate peel extract appears more concentrated in active compounds based on research citations"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Issues:",
+      "description": "Very few side effects reported by users, making it one of the better-tolerated supplements in comprehensive stacks"
+    },
+    {
+      "label": "Digestive Tolerance:",
+      "description": "Some users note pomegranate juice may cause GI discomfort, but extract forms are better tolerated"
+    },
+    {
+      "label": "Dehydration:",
+      "description": "One user report of increased dehydration and grogginess when combined with specific formulations, though this appears rare"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Limited discussion of interactions, though users taking multiple supplements should monitor overall antioxidant load"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Forms:",
+      "description": "Widely available as standardized extracts in capsule or powder form from major supplement brands"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Users emphasize importance of choosing extracts with verified polyphenol content and standardization"
+    },
+    {
+      "label": "Cost Accessibility:",
+      "description": "Generally affordable and included in many comprehensive health stacks without significant financial burden"
+    }
+  ],
+  "related": [
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    },
+    {
+      "name": "THYMUS EXTRACT",
+      "slug": "thymus-extract"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

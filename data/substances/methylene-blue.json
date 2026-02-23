@@ -1,0 +1,137 @@
+{
+  "slug": "methylene-blue",
+  "url": "https://dopamine.club/substances/methylene-blue/",
+  "scrapedAt": "2026-02-12T16:09:32.772Z",
+  "title": "METHYLENE BLUE",
+  "description": "Methylene Blue is a synthetic compound originally developed as a textile dye that functions as a mitochondrial enhancer and mild MAOI (monoamine oxidase inhibitor). It works by improving cellular energy production through direct action on the electron transport chain in mitochondria, while also modulating neurotransmitter systems including dopamine and serotonin. Medically approved for treating methemoglobinemia, it's increasingly used off-label for cognitive enhancement and energy support.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Cellular and Molecular Actions of Methylene Blue in the Nervous System",
+      "summary": "Comprehensive review of methylene blue's mechanisms in the nervous system, including its effects on mitochondrial function, neuroprotection, and potential applications in neurodegenerative diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19872557/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of long-term methylene blue treatment on the composition of mouse gut microbiome and its relationship with the cognitive abilities of mice",
+      "summary": "Study found that low-dose methylene blue (15 mg/kg/day) improved cognitive abilities in mice without causing significant microbiome disruption, while high doses (50 mg/kg/day) led to pronounced microbiome changes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33612611/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Respiration of Mammalian Erythrocytes",
+      "summary": "Early research demonstrating that methylene blue induces respiration in mammalian red blood cells, acting as a respiratory supplement similar to organ extracts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19872557/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Adjuvant effect of antimicrobial photodynamic therapy (aPDT) in the treatment of diabetic foot ulcers: A case series",
+      "summary": "Clinical study showing methylene blue combined with photodynamic therapy significantly improved healing in diabetic foot ulcers when used as adjunct treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38253349/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Are there teratogenic risks associated with antidotes used in the acute management of poisoned pregnant women?",
+      "summary": "Review examining safety profiles of various antidotes including methylene blue, noting that while generally safe for acute poisoning treatment, intra-amniotic injection may have teratogenic risks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12769509/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report significant benefits for energy, focus, and cognitive clarity, with many describing it as life-changing for chronic fatigue and brain fog. While some express concerns about long-term effects and purity, the majority who try it report noticeable improvements, though responses emphasize the importance of proper dosing and avoiding dangerous drug interactions."
+  },
+  "effects": [
+    {
+      "label": "Rapid Onset:",
+      "description": "Effects are typically felt within hours to days, with many users reporting immediate discernible energy increases, unlike most supplements that require weeks"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Responses vary significantly - while many report transformative benefits, others experience no effect or negative reactions, suggesting genetic or biochemical differences"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Some users report diminishing effects over time, particularly with higher doses, requiring cycling or dose adjustments to maintain benefits"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works particularly well when combined with CoQ10, red light therapy, and creatine for enhanced mitochondrial support and athletic performance"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low Dose Protocol:",
+      "description": "1-10mg daily is most commonly recommended, with 5-8mg being a typical starting point that provides benefits without significant side effects"
+    },
+    {
+      "label": "Micro-dosing:",
+      "description": "Some users report success with doses as low as 1-4mg, particularly for sustained daily use to avoid tolerance and side effects"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Many experienced users cycle 4 months on, 2 months off to prevent tolerance and maintain effectiveness long-term"
+    },
+    {
+      "label": "High Dose Cautions:",
+      "description": "Doses above 10-15mg frequently cause light sensitivity, headaches, and increased side effects, with medical literature warning about toxicity above therapeutic ranges"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Light Sensitivity:",
+      "description": "Commonly reported with higher doses, causing eye sensitivity, brightness perception, and chronic headaches similar to SSRI effects"
+    },
+    {
+      "label": "Blue Discoloration:",
+      "description": "Predictable blue or green urine, and reports of blue toenails that may fall off, though this is generally considered benign"
+    },
+    {
+      "label": "MAOI Interactions:",
+      "description": "Dangerous interactions with SSRIs, stimulants (Adderall), and other psychiatric medications can cause serotonin syndrome - requires careful medication review"
+    },
+    {
+      "label": "Hormonal Effects:",
+      "description": "Some users report impacts on hormone levels including lowered estrogen, and potential libido changes, though evidence is anecdotal"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Purity Critical:",
+      "description": "USP pharmaceutical grade is strongly emphasized by users, with concerns about contaminated or low-purity products causing adverse effects"
+    },
+    {
+      "label": "Regional Restrictions:",
+      "description": "Banned as a supplement in some European countries, though available in the US through various sources and compounding pharmacies"
+    },
+    {
+      "label": "Quality Sources:",
+      "description": "Users recommend medical-grade sources and warn against cheap alternatives, emphasizing third-party testing and proper formulation for safety"
+    }
+  ],
+  "related": [
+    {
+      "name": "VITAMIN B COMPLEX",
+      "slug": "vitamin-b-complex"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "IDEBENONE",
+      "slug": "idebenone"
+    }
+  ]
+}

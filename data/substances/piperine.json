@@ -1,0 +1,131 @@
+{
+  "slug": "piperine",
+  "url": "https://dopamine.club/substances/piperine/",
+  "scrapedAt": "2026-02-12T16:10:41.423Z",
+  "title": "PIPERINE",
+  "description": "Piperine is an alkaloid compound extracted from black pepper (Piper nigrum) that acts as a bioavailability enhancer by inhibiting drug-metabolizing enzymes and increasing intestinal permeability. It significantly improves the absorption of various nutrients and pharmaceuticals, most notably increasing curcumin bioavailability by up to 2000%. Piperine is commonly used in supplement formulations to enhance the effectiveness of other compounds rather than as a standalone therapeutic agent.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pharmacokinetics of piperine after oral administration of Sahastara remedy extract capsules in healthy Thai volunteers",
+      "summary": "Study demonstrated that piperine from traditional remedy extracts achieved peak concentrations of 3.77-6.59 μg/mL with no serious adverse events, supporting its safety profile in healthy volunteers.",
+      "url": "https://journals.lww.com/rips/fulltext/2020/15050/pharmacokinetics_of_piperine_after_oral.1.aspx",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Curcumin-piperine co-supplementation and human health: A comprehensive review",
+      "summary": "Comprehensive review found that piperine co-supplementation provides therapeutic benefits in diabetes, obesity, arthritis, and various cancers by regulating multiple signaling molecules and enhancing drug bioavailability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36720711/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety aspects of the use of isolated piperine ingested as a food supplement",
+      "summary": "Safety assessment concluded that isolated piperine used in food supplements at recommended doses appears safe, though potential interactions with medications warrant caution due to enzyme inhibition effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34574230/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Molecular and pharmacological aspects of piperine as a potential molecule for disease prevention",
+      "summary": "Research demonstrated piperine's pleiotropic activities including antioxidant, anti-inflammatory, and neuroprotective effects through modulation of P-glycoprotein, CYP3A4, and inflammatory cytokines.",
+      "url": "https://bjbas.springeropen.com/articles/10.1186/s43088-022-00196-1",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Users generally recognize piperine's effectiveness as a bioavailability enhancer, particularly with curcumin, but express significant concerns about potential liver toxicity, drug interactions, and inconsistent formulation quality in supplements. The majority view it as useful when properly dosed but requiring caution."
+  },
+  "effects": [
+    {
+      "label": "Absorption Synergy:",
+      "description": "Most effective when combined with curcumin, with the classic 20mg piperine + 2g curcumin ratio showing ~2000% absorption increase according to users and research"
+    },
+    {
+      "label": "Formulation Quality:",
+      "description": "Users emphasize that effectiveness depends heavily on supplement quality, with many products from online retailers containing unreliable or contaminated ingredients"
+    },
+    {
+      "label": "Anti-inflammatory Results:",
+      "description": "Users report mixed results for inflammation reduction, with some seeing significant improvements in 3-7 days while others notice no effect even after months"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness appears highly individual, possibly related to genetic factors like HLA-B*35:01 allele which may increase liver toxicity risk"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Enhancement Dose:",
+      "description": "5-20mg piperine taken with other supplements, most commonly 20mg for curcumin bioavailability enhancement"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Users report taking piperine-containing supplements 2-3 hours before bed or with meals to avoid potential digestive discomfort"
+    },
+    {
+      "label": "Cycling Approach:",
+      "description": "Some experienced users cycle piperine supplementation (5 days on, 2 days off) to reduce potential enzyme inhibition effects"
+    },
+    {
+      "label": "Avoidance with Medications:",
+      "description": "Users caution against taking piperine within several hours of prescription medications due to metabolism interference"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Liver Toxicity Risk:",
+      "description": "Multiple users report elevated liver enzymes and jaundice from high-potency turmeric-piperine combinations, with at least one reported death"
+    },
+    {
+      "label": "Drug Metabolism Interference:",
+      "description": "Users consistently report that piperine inhibits liver detoxification, potentially causing medications to last longer or accumulate to dangerous levels"
+    },
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Some users experience abdominal pain, though this is often self-limiting and resolved by adjusting dosage or timing"
+    },
+    {
+      "label": "Iron Depletion:",
+      "description": "Several users note that turmeric-piperine combinations can bind iron effectively, potentially leading to anemia in those with low iron status"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Piperine is readily available in most supplement stores and online, typically combined with curcumin/turmeric products"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users strongly recommend avoiding supplements from major retailers due to counterfeit products and contamination, preferring direct manufacturer purchases or verified retailers like reputable suppliers"
+    },
+    {
+      "label": "Formulation Variations:",
+      "description": "Available as standalone extracts, in combination formulas, and in various delivery systems including phytosome forms, with prices ranging from very affordable to premium"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    }
+  ]
+}

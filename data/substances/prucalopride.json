@@ -1,0 +1,155 @@
+{
+  "slug": "prucalopride",
+  "url": "https://dopamine.club/substances/prucalopride/",
+  "scrapedAt": "2026-02-12T16:10:48.479Z",
+  "title": "PRUCALOPRIDE",
+  "description": "Prucalopride is a selective, high-affinity 5-HT4 receptor agonist used primarily as a prokinetic agent for treating chronic constipation. It works by stimulating serotonin receptors in the gastrointestinal tract to enhance colonic motility and promote bowel movements. It has been approved for chronic constipation and irritable bowel syndrome with constipation (IBS-C) in adults who have not responded adequately to laxatives.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Effect of Prucalopride on the Completion Rate and Polyp Detection Rate of Colon Capsule Endoscopies",
+      "summary": "Study investigating prucalopride's ability to increase completion rates of colon capsule endoscopy found that 2mg supplementation improved transit times and bowel preparation quality in a cohort of 406 individuals undergoing screening.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35401015/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "New Options in Constipation Management",
+      "summary": "Review of novel anti-constipation medications including prucalopride, lubiprostone, linaclotide, and others for patients with chronic constipation who have inadequate responses to traditional laxatives and lifestyle modifications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26449843/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Novel pharmacological therapies for irritable bowel syndrome",
+      "summary": "Comprehensive review of emerging IBS treatments including prucalopride as a potential therapy for IBS-C, alongside other novel pharmacological agents like lubiprostone and linaclotide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26907518/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cost Effectiveness of Treatments for Chronic Constipation: A Systematic Review",
+      "summary": "Model-based meta-analysis evaluating the economic impact and cost-effectiveness of various chronic constipation treatments including prucalopride compared to traditional therapies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29352437/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of ICU interventions on gastrointestinal motility",
+      "summary": "Review discussing how the 5-HT4 agonist prucalopride may help restore intestinal function in critically ill patients experiencing gastroparesis and gastrointestinal motility disturbances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19956070/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative Efficacy of Drugs for the Treatment of Chronic Constipation: Quantitative Information for Medication Guidelines",
+      "summary": "Model-based meta-analysis of 20 studies with 9,998 participants comparing prucalopride and 7 other drugs found bisacodyl had the greatest effect on bowel movement frequency, providing quantitative data for treatment guidelines.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31904680/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The treatment of gastroparesis, constipation and small intestinal bacterial overgrowth syndrome in patients with Parkinson's disease",
+      "summary": "Review of treatment options for GI dysfunction in Parkinson's patients, including prucalopride as a 5-HT4 receptor agonist for managing constipation alongside other prokinetic agents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26374094/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical Practice Guideline: Irritable bowel syndrome with constipation and functional constipation in the adult",
+      "summary": "Comprehensive clinical practice guidelines for managing IBS-C and functional constipation in adults, including evidence-based recommendations for prucalopride and other pharmacological therapies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27230827/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User experiences with prucalopride are limited in the user data, with only one mention of a user taking it for SIBO who was experiencing severe digestive issues and low white blood cell count. The minimal user feedback prevents a clear consensus on effectiveness or tolerability."
+  },
+  "effects": [
+    {
+      "label": "Primary Indication:",
+      "description": "Most effective for chronic constipation and IBS-C in patients who have not responded adequately to traditional laxatives"
+    },
+    {
+      "label": "Comparative Efficacy:",
+      "description": "Studies show benefits but bisacodyl demonstrated greater effects on bowel movement frequency in comparative analyses"
+    },
+    {
+      "label": "Clinical Applications:",
+      "description": "Used in specialized settings including ICU patients with motility disturbances and Parkinson's disease patients with GI dysfunction"
+    },
+    {
+      "label": "Evidence Base:",
+      "description": "Multiple randomized controlled trials and systematic reviews support use in chronic constipation management"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "2mg is the commonly cited therapeutic dose in research studies"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically administered at night as noted in user experiences"
+    },
+    {
+      "label": "Clinical Context:",
+      "description": "Dosing should be determined by healthcare providers based on individual patient needs and response"
+    },
+    {
+      "label": "Special Populations:",
+      "description": "May require dose adjustments in patients with renal or hepatic impairment"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "May be associated with gastrointestinal symptoms in some patients as part of prokinetic effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Limited user data suggests tolerability varies between individuals"
+    },
+    {
+      "label": "Monitoring Required:",
+      "description": "Patients with pre-existing conditions like SIBO should be closely monitored"
+    },
+    {
+      "label": "Research Safety:",
+      "description": "Generally well-tolerated in clinical trials but long-term safety data continues to accumulate"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Available by prescription for chronic constipation in many countries"
+    },
+    {
+      "label": "Insurance Coverage:",
+      "description": "Not covered under medical insurance in some regions including Korea as noted in research"
+    },
+    {
+      "label": "Regional Availability:",
+      "description": "Approved and commercially available in multiple countries but regulatory status varies globally"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    }
+  ]
+}

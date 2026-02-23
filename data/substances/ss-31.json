@@ -1,0 +1,155 @@
+{
+  "slug": "ss-31",
+  "url": "https://dopamine.club/substances/ss-31/",
+  "scrapedAt": "2026-02-12T16:11:32.318Z",
+  "title": "SS-31",
+  "description": "SS-31 (Elamipretide) is a mitochondria-targeting tetrapeptide that binds to cardiolipin in the inner mitochondrial membrane to reduce oxidative stress and improve mitochondrial function. It works by preventing mitochondrial dysfunction, reducing reactive oxygen species production, and maintaining mitochondrial membrane integrity. Primarily researched for kidney disease, cardiac dysfunction, neurodegenerative conditions, and age-related mitochondrial decline.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "SS-31, a Mitochondria-Targeting Peptide, Ameliorates Kidney Disease",
+      "summary": "SS-31 demonstrated significant therapeutic potential in kidney disease by reducing mitochondrial ROS production, preventing mitochondrial depolarization, and inhibiting mitochondrial permeability transition pore formation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35707274/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Elamipretide (SS-31) improves mitochondrial dysfunction, synaptic and memory impairment induced by lipopolysaccharide in mice",
+      "summary": "SS-31 successfully improved mitochondrial dysfunction and reversed memory impairment and synaptic damage caused by inflammatory stress in mice, demonstrating neuroprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31747905/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beneficial effects of SS-31 peptide on cardiac mitochondrial dysfunction in tafazzin knockdown mice",
+      "summary": "In vivo administration of SS-31 improved cardiac mitochondrial dysfunction and cardiolipin profiles in Barth Syndrome mice, showing promise for treating genetic mitochondrial disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36400945/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondrial dysfunction and beneficial effects of mitochondria-targeted small peptide SS-31 in Diabetes Mellitus and Alzheimer's disease",
+      "summary": "Review article highlighting SS-31's potential in treating metabolic and neurological disorders through inhibition of oxidative stress and restoration of mitochondrial function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34302976/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "SS-31 alleviated nociceptive responses and restored mitochondrial function in a headache mouse model via Sirt3/Pgc-1α positive feedback loop",
+      "summary": "SS-31 demonstrated therapeutic effects in migraine by restoring mitochondrial function and alleviating pain responses through the Sirt3/Pgc-1α pathway.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37271805/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondrial protein interaction landscape of SS-31",
+      "summary": "Cross-linking mass spectrometry revealed SS-31 interacts with proteins involved in ATP production and oxidative phosphorylation, providing mechanistic insights into its pharmacological effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32554501/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective effects of mitochondrion-targeted peptide SS-31 against hind limb ischemia-reperfusion injury",
+      "summary": "SS-31 reduced mitochondrial oxidative damage and protected against tissue injury in ischemia-reperfusion models, demonstrating vascular protective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29589186/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondrial Cardiolipin-Targeted Tetrapeptide, SS-31, Exerts Neuroprotective Effects Within In Vitro and In Vivo Models of Spinal Cord Injury",
+      "summary": "SS-31 reduced neuronal death, tissue damage, and promoted behavioral recovery after spinal cord injury by preventing cardiolipin alterations and mitochondrial dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40244206/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report varied experiences with SS-31, with many experiencing improved energy and mitochondrial function at higher doses (5mg), while others find minimal effects at lower doses (2mg). Cost is a significant concern, and some users require the addition of methyl donors or NAD+ to avoid fatigue side effects."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Most users find minimal effects at 2mg daily but significant benefits at 5mg daily, suggesting higher doses are necessary for noticeable results"
+    },
+    {
+      "label": "Age Factor:",
+      "description": "Evidence suggests SS-31 is most effective for individuals over 50 years old, with younger users reporting less dramatic benefits"
+    },
+    {
+      "label": "Synergy Required:",
+      "description": "Many users find SS-31 works best when combined with MOTS-C, NAD+, or methyl donors (B12, TMG) rather than as a standalone peptide"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Effects typically become noticeable after 2-4 weeks of consistent use, with some users reporting initial fatigue before experiencing benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "5mg daily for 8 weeks is commonly reported as the effective dose for mitochondrial repair"
+    },
+    {
+      "label": "Maintenance Dosing:",
+      "description": "After initial 8-week cycle, users drop to 2-3mg three times per week or cycle with MOTS-C"
+    },
+    {
+      "label": "Low-Dose Experience:",
+      "description": "2mg daily reported as minimally effective by most users, though some notice subtle metabolic changes"
+    },
+    {
+      "label": "High-Dose Protocol:",
+      "description": "Some users successfully run 5mg for 10 consecutive days as an intensive protocol before reducing to maintenance"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Initial Fatigue:",
+      "description": "Some users experience increased fatigue when starting SS-31, which may require supplementation with methyl donors or NAD+ to resolve"
+    },
+    {
+      "label": "Midday Sleepiness:",
+      "description": "Users in third month of continuous use report sleepiness that resolves by switching to nighttime dosing"
+    },
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Most users report no negative side effects at standard doses when properly supported with cofactors"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects vary significantly between individuals, with some experiencing no noticeable benefits despite proper dosing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Cost Concern:",
+      "description": "SS-31 is consistently reported as expensive, particularly at the 5mg daily dose required for effectiveness"
+    },
+    {
+      "label": "Injection Required:",
+      "description": "Subcutaneous injection is the standard route, though some vendors offer intranasal sprays of questionable efficacy"
+    },
+    {
+      "label": "Research Chemical Status:",
+      "description": "Available from peptide suppliers as a research chemical, not FDA-approved for general use outside clinical trials"
+    }
+  ],
+  "related": [
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    },
+    {
+      "name": "FOXO4-DRI",
+      "slug": "foxo4-dri"
+    },
+    {
+      "name": "GHK-Cu",
+      "slug": "ghk-cu"
+    }
+  ]
+}

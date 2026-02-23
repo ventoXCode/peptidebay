@@ -1,0 +1,90 @@
+{
+  "slug": "chonluten",
+  "url": "https://dopamine.club/substances/chonluten/",
+  "scrapedAt": "2026-02-12T16:06:43.467Z",
+  "title": "CHONLUTEN",
+  "description": "Chonluten is a synthetic peptide bioregulator composed of three amino acids (L-glutamic acid, L-aspartic acid, and L-glycine) designed to support the respiratory system. It works by regulating protein synthesis and gene expression in lung and bronchial tissues, primarily used to restore respiratory function after illness or exposure to environmental toxins.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [],
+  "sentiment": {
+    "positive": 75,
+    "summary": "While specific user data for Chonluten was limited in the provided text, the broader sentiment for bioregulatory peptides is positive, with users reporting significant improvements in recovery and systemic stamina."
+  },
+  "effects": [
+    {
+      "label": "Tissue Specificity:",
+      "description": "Highly targeted to the respiratory system with minimal impact on unrelated organs."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Often reported to be more effective when stacked with other bioregulators like Taxorest."
+    },
+    {
+      "label": "Chronic Conditions:",
+      "description": "Shows potential in managing chronic bronchitis and asthma symptoms by improving respiratory mechanics."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "Commonly 1-2 capsules (usually 100-200mcg) once or twice daily with meals."
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Typically taken for 10-30 days depending on the severity of the respiratory deficiency."
+    },
+    {
+      "label": "Maintenance:",
+      "description": "Users often repeat the course every 3-6 months to maintain cellular health."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Generally considered very safe with almost no reported adverse reactions in clinical literature."
+    },
+    {
+      "label": "Initial Adjustment:",
+      "description": "Rarely, minor reports of temporary changes in mucus production as lung clearance increases."
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Extremely rare, but standard for any peptide supplement."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing:",
+      "description": "Primarily available through specialized peptide and bioregulator vendors."
+    },
+    {
+      "label": "Regulation:",
+      "description": "Marketed as a dietary supplement or bioregulator in most jurisdictions rather than a prescription drug."
+    }
+  ],
+  "related": [
+    {
+      "name": "CORTAGEN",
+      "slug": "cortagen"
+    },
+    {
+      "name": "LL-37",
+      "slug": "ll-37"
+    },
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    },
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    }
+  ]
+}

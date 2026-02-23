@@ -1,0 +1,131 @@
+{
+  "slug": "beta-sitosterol",
+  "url": "https://dopamine.club/substances/beta-sitosterol/",
+  "scrapedAt": "2026-02-12T16:06:07.550Z",
+  "title": "BETA-SITOSTEROL",
+  "description": "Beta-sitosterol is a plant-derived phytosterol (plant sterol) structurally similar to cholesterol, commonly found in saw palmetto extract and various plants. It primarily works by inhibiting the 5α-reductase enzyme, reducing conversion of testosterone to dihydrotestosterone (DHT), and has demonstrated anti-inflammatory and potential anti-tumorigenic properties. It is predominantly used for managing benign prostatic hyperplasia (BPH) symptoms and supporting prostate health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Herbal medicines containing beta-sitosterols may help to relieve the urinary symptoms and urinary flow problems caused by an enlarged prostate gland (benign prostatic hyperplasia)",
+      "summary": "Cochrane systematic review found that beta-sitosterol treatments were well tolerated and improved urinary symptoms and flow measures in men with mild to moderate BPH, though long-term effects require further research.",
+      "url": "https://www.cochrane.org/evidence/CD001043_herbal-medicines-containing-beta-sitosterols-may-help-relieve-urinary-symptoms-and-urinary-flow",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beta-sitosterols for benign prostatic hyperplasia",
+      "summary": "Meta-analysis of 519 men across 4 randomized controlled trials showed beta-sitosterols improved urinary symptom scores (IPSS), peak urine flow, and residual volume without reducing prostate size, with withdrawal rates similar to placebo.",
+      "url": "https://scholars.uthscsa.edu/en/publications/beta-sitosterols-for-benign-prostatic-hyperplasia-2",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exploring the Inhibitory Potential of Phytosterols β-Sitosterol, Stigmasterol, and Campesterol on 5-Alpha Reductase Activity in the Human Prostate: An In Vitro and In Silico Approach",
+      "summary": "In vitro and computational studies demonstrated that beta-sitosterol inhibits 5α-reductase type 2 enzyme activity, the key mechanism in converting testosterone to DHT, which is crucial in benign prostatic hyperplasia development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39599355/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The use of beta-sitosterol for the treatment of prostate cancer and benign prostatic hyperplasia",
+      "summary": "Review examining beta-sitosterol's role in herbal supplements for prostate health, showing anti-tumorigenic effects in prostate cancer cells and 5α-reductase inhibition similar to finasteride and dutasteride for BPH treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38148931/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences are genuinely divided, with some reporting significant improvements in urinary flow and prostate health symptoms, while others report minimal to no noticeable effects. The compound appears to work more consistently for specific BPH-related symptoms than general health enhancement."
+  },
+  "effects": [
+    {
+      "label": "BPH Symptom Relief:",
+      "description": "Most effective for mild to moderate benign prostatic hyperplasia, with measurable improvements in urinary symptom scores and flow measures"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness varies significantly between individuals, with some experiencing substantial relief while others report no noticeable changes"
+    },
+    {
+      "label": "Prostate Size:",
+      "description": "Does not reduce actual prostate size despite improving symptoms and urinary flow parameters"
+    },
+    {
+      "label": "Long-term Data:",
+      "description": "Limited evidence on long-term effectiveness, safety, and ability to prevent BPH complications beyond 26 weeks"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard BPH Dose:",
+      "description": "Clinical trials typically used preparations delivering specific amounts of beta-sitosterol, often combined with other phytosterols from saw palmetto extract"
+    },
+    {
+      "label": "Duration:",
+      "description": "Requires 4-26 weeks of consistent supplementation to assess effectiveness for urinary symptoms"
+    },
+    {
+      "label": "Formulation Types:",
+      "description": "Available as non-glucosidic beta-sitosterols or beta-sitosteryl-beta-D-glucoside preparations, with both showing efficacy"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Commonly found in saw palmetto extracts where beta-sitosterol comprises the primary active component by weight"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Withdrawal rates in clinical trials were similar to placebo (7.8% vs 8.0%), indicating good tolerability"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Side effects are rare and typically mild when they occur"
+    },
+    {
+      "label": "Hormone-Related Concerns:",
+      "description": "Theoretical concerns about DHT reduction effects, though clinical significance remains unclear"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with medications metabolized similarly to cholesterol due to structural similarities"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Commonly found in over-the-counter herbal supplements, particularly saw palmetto products and prostate health formulations"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Sold as a dietary supplement without prescription requirements, though quality and standardization may vary between manufacturers"
+    },
+    {
+      "label": "Extract Variations:",
+      "description": "Available as standalone beta-sitosterol or as part of saw palmetto extract, with varying concentrations and purity levels"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "BORON",
+      "slug": "boron"
+    },
+    {
+      "name": "D-ASPARTIC ACID",
+      "slug": "d-aspartic-acid"
+    },
+    {
+      "name": "L-CITRULLINE",
+      "slug": "l-citrulline"
+    },
+    {
+      "name": "PICEATANNOL",
+      "slug": "piceatannol"
+    }
+  ]
+}

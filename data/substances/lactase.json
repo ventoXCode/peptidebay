@@ -1,0 +1,155 @@
+{
+  "slug": "lactase",
+  "url": "https://dopamine.club/substances/lactase/",
+  "scrapedAt": "2026-02-12T16:09:07.903Z",
+  "title": "LACTASE",
+  "description": "Lactase is a digestive enzyme that breaks down lactose, the main sugar found in dairy products, into glucose and galactose for absorption. It is primarily used as a supplement by individuals with lactose intolerance who have reduced or absent lactase production, allowing them to consume dairy products without experiencing gastrointestinal symptoms like bloating, gas, and diarrhea.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Lactose intolerance: An update on its pathogenesis, diagnosis, and treatment",
+      "summary": "Comprehensive review finding lactose intolerance affects 57-65% of the global population, caused by reduced lactase enzyme activity. Treatment includes lactase supplementation, lactose-free products, and probiotics to manage symptoms and prevent nutritional deficiencies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33887513/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutritional management of lactose intolerance: the importance of diet and food labelling",
+      "summary": "Study showing 70% of adults worldwide have limited lactase expression. Treatment involves dietary lactose reduction, lactase supplementation, and probiotics, with emphasis on maintaining calcium intake to prevent bone health issues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32590986/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Digestive Enzyme Supplementation in Gastrointestinal Diseases",
+      "summary": "Review of digestive enzyme supplementation showing lactase is effective for managing lactose intolerance symptoms, with both animal-derived and plant-based/microbe-derived enzymes showing promise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26806042/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of probiotics in lactose intolerance: A systematic review",
+      "summary": "Systematic review of 15 randomized trials showing probiotics demonstrate varying but overall positive effectiveness in alleviating lactose intolerance symptoms by supplementing gastrointestinal flora.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29425071/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Prebiotic and Probiotic Supplementation on Lactase Deficiency and Lactose Intolerance",
+      "summary": "Review finding that gut microbiome composition affects lactose tolerance, and prebiotics/probiotics can modify clinical symptoms by influencing bacterial lactase activity and colonic fermentation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32443748/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lactose Maldigestion, Malabsorption, and Intolerance: A Comprehensive Review with a Focus on Current Management and Future Perspectives",
+      "summary": "Comprehensive review discussing lactose intolerance management through lactase supplementation, dietary modifications, and the role of residual lactase activity and gut microbiome in symptom severity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30388735/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lactose intolerance in infants, children, and adolescents",
+      "summary": "American Academy of Pediatrics review distinguishing types of lactase deficiency and recommending lactase-treated dairy products or oral lactase supplementation, while emphasizing dairy's importance for calcium and bone health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16951027/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Probiotics--compensation for lactase insufficiency",
+      "summary": "Study showing yogurt cultures and probiotic bacteria in fermented milk improve lactose digestion through microbial beta-galactosidase activity, with intact bacterial cell walls protecting the enzyme during gastric transit.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11157352/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users generally report lactase supplements as effective for managing lactose intolerance, with many finding relief from digestive symptoms when taking the enzyme before consuming dairy. While effectiveness varies by brand and individual sensitivity, the majority successfully use lactase to reintroduce dairy products into their diet."
+  },
+  "effects": [
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Effectiveness correlates with both lactase dose and amount of lactose consumed, requiring users to adjust intake based on dairy quantity"
+    },
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Reputable brands like major retailers's formulation and Lactaid consistently mentioned as more effective than generic alternatives"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users report complete symptom relief while others experience only partial improvement, suggesting genetic or microbiome factors"
+    },
+    {
+      "label": "Hidden Lactose Challenge:",
+      "description": "Effectiveness reduced when lactose is present in unexpected foods, requiring careful label reading and potentially multiple doses"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Pre-Meal Timing:",
+      "description": "Most users take lactase immediately before or with first bite of dairy-containing food for optimal enzyme activity"
+    },
+    {
+      "label": "Dose Adjustment:",
+      "description": "Users adjust number of pills based on dairy quantity, with more pills needed for larger servings like ice cream or milkshakes"
+    },
+    {
+      "label": "Product Instructions:",
+      "description": "Follow manufacturer guidelines which typically specify drops per amount of milk or pills per serving of dairy"
+    },
+    {
+      "label": "Threshold Testing:",
+      "description": "Users recommend finding personal tolerance levels by testing with small amounts before consuming larger dairy portions"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Most users report no adverse effects from lactase supplementation itself when taken as directed"
+    },
+    {
+      "label": "Incomplete Protection:",
+      "description": "Some users still experience mild symptoms even with lactase, particularly with very high lactose loads"
+    },
+    {
+      "label": "Product Variability:",
+      "description": "Ineffective brands may provide no symptom relief, leading users to believe lactase doesn't work when actually just poor quality"
+    },
+    {
+      "label": "No Adaptation Support:",
+      "description": "Lactase provides temporary solution but doesn't help body regain natural lactase production over time"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Lactase sold over-the-counter in various forms including tablets, capsules, drops for adding to milk, and chewables"
+    },
+    {
+      "label": "Brand Recommendations:",
+      "description": "Users frequently recommend Lactaid, store brands, and certain pharmacy generics as effective options"
+    },
+    {
+      "label": "Price Variation:",
+      "description": "Significant cost differences between brands, with some generic versions working as well as premium options at lower prices"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

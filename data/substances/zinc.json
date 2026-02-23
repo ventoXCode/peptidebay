@@ -1,0 +1,155 @@
+{
+  "slug": "zinc",
+  "url": "https://dopamine.club/substances/zinc/",
+  "scrapedAt": "2026-02-12T16:13:12.183Z",
+  "title": "ZINC",
+  "description": "Zinc is an essential trace mineral required for numerous biological functions including immune system support, protein synthesis, wound healing, DNA synthesis, and cell division. It acts as a cofactor for over 300 enzymes and plays critical roles in hormone production (including testosterone), antioxidant activity, and maintaining optimal levels of other minerals like copper. Zinc deficiency affects approximately 25% of the world's population and is linked to increased susceptibility to infections, impaired growth, and various health issues.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Zinc requirements and the risks and benefits of zinc supplementation",
+      "summary": "Comprehensive review estimating that 25% of the world's population is at risk of zinc deficiency, particularly among those with poor dietary zinc intake, while also warning about risks of chronic zinc toxicity from excessive supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16632171/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "COVID-19 and nutriceutical therapies, especially using zinc to supplement antimicrobials",
+      "summary": "Review highlighting zinc's critical role in immune function and its potential therapeutic value in supporting antimicrobial treatments, particularly for viral infections and supporting recovery in poorly nourished patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33196946/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements in dermatology: A review of the evidence for zinc, biotin, vitamin D, nicotinamide, and Polypodium",
+      "summary": "Systematic review finding limited but promising evidence for zinc supplementation in treating various dermatologic disorders, though noting lack of standardized dosing and limited large-scale trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32360756/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc supplement use and risk of aggressive prostate cancer: a 30-year follow-up study",
+      "summary": "Large prospective study of 47,240 men over 30 years examining the controversial relationship between zinc supplementation and prostate cancer incidence, particularly at high doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36326979/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Should we supplement zinc in COVID-19 patients? Evidence from a meta-analysis",
+      "summary": "Meta-analysis investigating whether zinc supplementation decreases mortality in COVID-19 patients, examining the antiviral activity and potential therapeutic efficacy of zinc.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34180610/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The diet factor in attention-deficit/hyperactivity disorder",
+      "summary": "Comprehensive review examining dietary methods for ADHD treatment, including discussion of iron deficiency and zinc supplementation as important factors in symptom management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22232312/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc nutrition and dietary zinc supplements",
+      "summary": "Review noting that over one-third of the population suffers zinc deficiency and examining various zinc supplement forms, their absorption rates, and mechanisms of maintaining zinc homeostasis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34382897/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary zinc supplements: beneficial health effects and application in food, medicine and animals",
+      "summary": "Comprehensive overview of zinc's vital role in growth and development, discussing various supplement formulations and applications across food, medical, and animal health contexts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38415843/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with zinc supplementation, particularly for immune support, illness prevention, and improved sexual health. The most common theme is significant reduction in cold and flu frequency, with many users reporting not getting sick for years after starting supplementation, though there are notable warnings about copper depletion and nausea from high doses or taking on empty stomach."
+  },
+  "effects": [
+    {
+      "label": "Deficiency Correction:",
+      "description": "Most effective when addressing actual zinc deficiency; users with diagnosed deficiencies report the most dramatic improvements in energy, mood, and immune function"
+    },
+    {
+      "label": "Preventive Benefits:",
+      "description": "Highly effective for preventing illness when taken consistently at moderate doses (15-25mg daily), with users reporting going 3-4+ years without colds"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Works best when combined with vitamin D3, magnesium, and omega-3s; effects are enhanced when copper is also supplemented to prevent depletion"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly; some users report no benefits while others experience life-changing improvements, suggesting individual zinc status and absorption varies widely"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "15-25mg daily is considered optimal for maintenance and immune support without risk of copper depletion"
+    },
+    {
+      "label": "High-Dose Warning:",
+      "description": "50mg daily commonly causes copper deficiency after several months, leading to severe symptoms including fatigue, joint pain, depression, and neurological issues"
+    },
+    {
+      "label": "Acute Illness Protocol:",
+      "description": "50-100mg at first sign of illness for 1-3 days is commonly used, but should not be continued long-term"
+    },
+    {
+      "label": "Copper Ratio:",
+      "description": "When taking zinc long-term, users recommend also taking 2mg copper daily to maintain proper mineral balance and prevent deficiency"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Nausea and Vomiting:",
+      "description": "Most commonly reported side effect, especially when taken on empty stomach or at doses above 25mg; described as severe by some users"
+    },
+    {
+      "label": "Copper Depletion:",
+      "description": "Taking 50mg daily for months causes copper deficiency with symptoms including pale skin, fatigue, depression, brain fog, joint pain, muscle stiffness, and bruising"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Can cause diarrhea and stomach upset, particularly at higher doses or when taken without food"
+    },
+    {
+      "label": "Mineral Imbalances:",
+      "description": "Competes with iron and calcium absorption; excessive zinc can disrupt multiple mineral balances in the body"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Forms Matter:",
+      "description": "Zinc glycinate and picolinate are reported as most effective and best tolerated; zinc sulfate is commonly mentioned as poorly absorbed and more likely to cause nausea"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often included in multivitamins and immune support formulas, but users warn about getting too much zinc from multiple sources"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of third-party testing and avoiding cheap brands, particularly mentioning issues with heavy metals in low-quality supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "ZINC PICOLINATE",
+      "slug": "zinc-picolinate"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    }
+  ]
+}

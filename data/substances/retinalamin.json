@@ -1,0 +1,167 @@
+{
+  "slug": "retinalamin",
+  "url": "https://dopamine.club/substances/retinalamin/",
+  "scrapedAt": "2026-02-12T16:11:00.812Z",
+  "title": "RETINALAMIN",
+  "description": "Retinalamin is a polypeptide bioregulator extracted from cattle retina tissue, consisting of a complex of naturally occurring peptides. It functions as a neuroprotective and retinoprotective agent by stimulating tissue-specific proliferation of retinal and pigmented epithelial cells, modulating neurotrophic factors, and protecting against retinal cell apoptosis. Primarily used in ophthalmology for treating glaucomatous optic neuropathy, diabetic retinopathy, retinal abiotrophy, and photochemical retinal damage.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Retinoprotective effects of Retinalamin studied in an experimental model of photochemical damage to rabbit retinas",
+      "summary": "Retinalamin administered parabulbarly in rabbits exposed to photochemical retinal damage showed functional and morphological retinoprotective effects, with optimal results when treatment began early (day 1) compared to delayed treatment (day 10).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34726859/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective therapy in advanced primary open-angle glaucoma",
+      "summary": "Regular use of Retinalamin (5mg intramuscular injections every 3 months) showed positive effects on structural and functional parameters in patients with advanced primary open-angle glaucoma over a 2-year study period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41432508/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Peptide bioregulators: delivery and efficacy",
+      "summary": "Comparison of different administration routes in 498 glaucoma patients showed that intramuscular Retinalamin increased retinal sensitivity by 122 units after 3 months, with improvements maintained at 6 months across all delivery methods tested.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32366071/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of peptides on proliferative activity of retinal and pigmented epithelial cells",
+      "summary": "In vitro studies demonstrated that Retinalamin tissue-specifically stimulates proliferation of retinal and pigmented epithelial cells in culture at certain concentrations, showing its direct cellular mechanisms of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12937684/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Objective functional monitoring of retinoprotective treatment in diabetic retinopathy",
+      "summary": "Retinalamin treatment in diabetic retinopathy patients showed significant improvements in pattern electroretinography and flash electroretinography parameters using objective electrophysiological testing with the Diopsys NOVA system.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38450466/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Objective structural and functional monitoring of polypeptide retinal neuroprotective therapy in diabetic retinopathy",
+      "summary": "OCT imaging and electrophysiological studies in 56 diabetic retinopathy patients receiving intramuscular Retinalamin showed improvements in ganglion cell complex thickness and functional retinal parameters compared to controls.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39569781/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Molecular mechanisms of neuroretinoprotection in primary open-angle glaucoma",
+      "summary": "Enzyme immunoassay testing of lacrimal fluid in 23 glaucoma patients showed that 10 intramuscular injections of Retinalamin (5mg daily) significantly modulated brain-derived neurotrophic factor (BDNF) and neuron specific enolase (NSE) levels, indicating neuroprotective molecular mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30499540/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Structural and functional changes in the retina of patients with primary open-angle glaucoma and compensated intraocular pressure while undergoing retinoprotective therapy",
+      "summary": "A randomized study of 180 patients (355 eyes) showed that intramuscular Retinalamin treatment improved visual acuity and retinal sensitivity in glaucoma patients with normalized intraocular pressure, with effects maintained over 12 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31393444/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Polypeptide bioregulators in the treatment of different-type abiotrophy of the retina",
+      "summary": "In 33 pediatric patients (ages 4-7) with various types of retinal abiotrophy, Retinalamin treatment stabilized disease progression in all cases, improved visual acuity in 82% of patients, and enhanced electroretinography parameters in 37% over 18 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15881150/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of therapeutic sensitivity of retinal ganglion cells to targeted peptide bioregulator in culture",
+      "summary": "In vitro studies using enriched retinal ganglion cell cultures from mouse retinae demonstrated that Retinalamin shows therapeutic sensitivity and potential for treating glaucomatous optic neuropathy at the cellular level.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30830079/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "Limited English-language user discussions on Retinalamin. This retinal peptide bioregulator is primarily used in Russia and Eastern European countries for ophthalmic conditions."
+  },
+  "effects": [
+    {
+      "label": "Glaucoma Management:",
+      "description": "Consistently shows positive results in primary open-angle glaucoma patients with normalized intraocular pressure, with benefits maintained over 12+ months of regular use"
+    },
+    {
+      "label": "Diabetic Retinopathy:",
+      "description": "Demonstrates objective improvements in retinal structure and function in diabetic patients without macular edema, as measured by OCT and electrophysiology"
+    },
+    {
+      "label": "Pediatric Applications:",
+      "description": "Shows high efficacy in children with retinal abiotrophy, with 82% experiencing improved visual acuity and disease stabilization in all cases"
+    },
+    {
+      "label": "Timing Dependent:",
+      "description": "Early intervention produces better outcomes than delayed treatment, particularly in acute retinal damage models"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Clinical Dose:",
+      "description": "5mg administered intramuscularly once daily for 10 consecutive days, repeated every 3-6 months for chronic conditions"
+    },
+    {
+      "label": "Parabulbar Administration:",
+      "description": "0.25-5mg per injection given parabulbarly (around the eye) for localized retinal conditions, typically in courses of 10 injections"
+    },
+    {
+      "label": "Maintenance Protocol:",
+      "description": "Quarterly courses (every 3 months) appear more effective than semi-annual (every 6 months) for advanced glaucoma based on hemodynamic parameters"
+    },
+    {
+      "label": "Total Course Dose:",
+      "description": "Complete treatment courses typically involve 50mg total (10 injections of 5mg each) regardless of administration route"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Clinical studies report minimal to no adverse effects across hundreds of patients in various trials"
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "As with any injectable medication, potential for local discomfort at intramuscular or parabulbar injection sites"
+    },
+    {
+      "label": "Long-Term Safety:",
+      "description": "Studies spanning up to 2 years show continued safety with regular quarterly administration"
+    },
+    {
+      "label": "No Systemic Toxicity:",
+      "description": "No reports of significant systemic side effects, liver toxicity, or kidney issues in clinical literature"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Medication:",
+      "description": "Available primarily in Russia and former Soviet countries as a pharmaceutical product manufactured by Geropharm LLC"
+    },
+    {
+      "label": "Clinical Use Only:",
+      "description": "Not available as an over-the-counter supplement; requires medical supervision and administration by healthcare professionals"
+    },
+    {
+      "label": "Limited Geographic Distribution:",
+      "description": "Primarily used in Russian ophthalmology practice with limited availability in Western markets"
+    }
+  ],
+  "related": [
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    },
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "BPC-157",
+      "slug": "bpc-157"
+    }
+  ]
+}

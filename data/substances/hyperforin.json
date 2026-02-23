@@ -1,0 +1,119 @@
+{
+  "slug": "hyperforin",
+  "url": "https://dopamine.club/substances/hyperforin/",
+  "scrapedAt": "2026-02-12T16:08:38.211Z",
+  "title": "HYPERFORIN",
+  "description": "Hyperforin is a phloroglucinol derivative and principal active compound in St. John's Wort (Hypericum perforatum) responsible for its antidepressant effects. It acts as a broad-spectrum reuptake inhibitor of serotonin, dopamine, norepinephrine, GABA, and glutamate through a unique mechanism involving sodium channel modulation rather than direct transporter binding. Hyperforin also upregulates 5-HT2 receptors and modulates the HPA axis, contributing to its mood-regulating properties.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Role of Hyperforin in the Pharmacological Activities of St. John's Wort",
+      "summary": "Comprehensive review demonstrating hyperforin's antidepressant activity through inhibition of multiple neurotransmitter uptake systems and its efficacy in behavioral models of depression, with clinical studies linking therapeutic efficacy to hyperforin content in a dose-dependent manner.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15492771/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hyperforin: A natural lead compound with multiple pharmacological activities",
+      "summary": "Systematic review identifying hyperforin as a lead compound with diverse pharmacological activities including anti-depression, anti-tumor, anti-dementia, and anti-diabetes properties, emphasizing its potential for innovative drug development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36372082/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report significant benefits for depression and anxiety, with particular praise for hyperforin-standardized products like Perika. The discontinuation of major hyperforin-standardized brands has caused concern among long-term users who experienced life-changing improvements in mood disorders and PMDD symptoms."
+  },
+  "effects": [
+    {
+      "label": "Standardization Critical:",
+      "description": "Clinical efficacy is directly linked to hyperforin content in a dose-dependent manner; products standardized for hypericin alone may not provide comparable benefits"
+    },
+    {
+      "label": "Long-term Success:",
+      "description": "Multiple users report taking hyperforin-standardized St. John's Wort for 20+ years with sustained benefits and no tolerance development"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "While many users experience dramatic benefits, effectiveness varies and proper product selection (hyperforin-standardized vs hypericin-standardized) is crucial"
+    },
+    {
+      "label": "Comparison to SSRIs:",
+      "description": "Users often describe it as a natural alternative to conventional antidepressants, though it works through a unique multi-target mechanism rather than selective serotonin reuptake inhibition"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dosing:",
+      "description": "Typical doses contain 300mg St. John's Wort extract standardized to hyperforin content, taken 2-3 times daily"
+    },
+    {
+      "label": "Hyperforin Content:",
+      "description": "Effective products should specify hyperforin standardization (not just hypericin); historical Perika contained specific hyperforin levels that users found most effective"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Some users report taking doses split throughout the day for sustained effects on mood and anxiety"
+    },
+    {
+      "label": "Loading Period:",
+      "description": "Benefits may take 1-3 weeks to become fully apparent, similar to conventional antidepressants"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Drug Interactions:",
+      "description": "Major concern - St. John's Wort strongly induces cytochrome P450 enzymes, significantly reducing effectiveness of birth control, antidepressants, and many other medications"
+    },
+    {
+      "label": "Photosensitivity:",
+      "description": "Increases skin sensitivity to sunlight, requiring sun protection measures during use"
+    },
+    {
+      "label": "Mania Risk:",
+      "description": "Contraindicated in bipolar disorder as it can trigger manic episodes; not suitable as first-line treatment without proper medical evaluation"
+    },
+    {
+      "label": "Serotonin Concerns:",
+      "description": "Potential for serotonergic interactions when combined with other mood-affecting supplements or medications"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Product Discontinuations:",
+      "description": "Major hyperforin-standardized products like quality brands Perika have been discontinued, causing significant concern among long-term users who relied on these formulations"
+    },
+    {
+      "label": "European Alternatives:",
+      "description": "German products like Jarsin and Neuroplant AKTIV may still offer hyperforin standardization, though availability in North America varies"
+    },
+    {
+      "label": "Standardization Variability:",
+      "description": "Most commercial St. John's Wort is standardized to hypericin (0.3%) rather than hyperforin, which may not provide equivalent antidepressant effects according to research and user experiences"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "HYPERICIN",
+      "slug": "hypericin"
+    },
+    {
+      "name": "LIMONENE",
+      "slug": "limonene"
+    }
+  ]
+}

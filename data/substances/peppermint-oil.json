@@ -1,0 +1,121 @@
+{
+  "slug": "peppermint-oil",
+  "url": "https://dopamine.club/substances/peppermint-oil/",
+  "scrapedAt": "2026-02-12T16:10:32.913Z",
+  "title": "PEPPERMINT OIL",
+  "description": "Peppermint oil is an essential oil extracted from the flowering parts and leaves of Mentha piperita, a natural hybrid of water mint and spearmint. It contains active compounds like menthol that have antispasmodic and antimicrobial properties, primarily affecting smooth muscle in the digestive tract. It has been used medicinally since ancient times, particularly for gastrointestinal conditions like irritable bowel syndrome (IBS).",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Efficacy and Safety of Peppermint Oil in a Randomized, Double-Blind Trial of Patients With Irritable Bowel Syndrome",
+      "summary": "A trial of 190 IBS patients found that small-intestinal-release peppermint oil significantly improved abdominal pain and overall IBS symptoms compared to placebo, with most side effects being mild (acid reflux and indigestion).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31473275/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Peppermint essential oil: its phytochemistry, biological activity, pharmacological effect and application",
+      "summary": "A comprehensive review examining peppermint oil's chemical composition and wide range of biological activities including antimicrobial, antioxidant, and anti-inflammatory properties with various therapeutic applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35994817/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Peppermint (Mentha piperita): an evidence-based systematic review by the Natural Standard Research Collaboration",
+      "summary": "A systematic review of peppermint's evidence base found support for its use in IBS and other digestive disorders, though noted the need for more high-quality clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18285310/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Research consistently demonstrates peppermint oil's effectiveness for IBS symptoms and abdominal pain relief, with enteric-coated formulations showing the best results. A 2022 review found it superior to placebo for improving overall IBS symptoms and reducing abdominal pain, while a 2021 American College of Gastroenterology guideline recommended it for symptom relief."
+  },
+  "effects": [
+    {
+      "label": "IBS Efficacy:",
+      "description": "Well-supported by clinical evidence for irritable bowel syndrome, with multiple studies showing superiority over placebo for symptom management"
+    },
+    {
+      "label": "Formulation Matters:",
+      "description": "Enteric-coated capsules work better than regular formulations, as they release oil in the intestines rather than stomach, reducing side effects"
+    },
+    {
+      "label": "Consistent Results:",
+      "description": "Multiple reviews and clinical guidelines recommend peppermint oil as an effective treatment for IBS symptoms and abdominal pain"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Benefits may take several weeks of consistent use to become apparent, not typically an immediate remedy"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most studies use 182-200mg of peppermint oil in enteric-coated capsules, taken 2-3 times daily"
+    },
+    {
+      "label": "Duration:",
+      "description": "Treatment periods typically range from 4-8 weeks for IBS symptoms, with effects assessed over this timeframe"
+    },
+    {
+      "label": "Timing:",
+      "description": "Best taken 30-60 minutes before meals to allow proper intestinal release and minimize gastric irritation"
+    },
+    {
+      "label": "Formulation:",
+      "description": "Enteric-coated capsules strongly preferred over regular oil to prevent acid reflux and maximize intestinal delivery"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Acid Reflux:",
+      "description": "Most common side effect is heartburn or acid reflux, particularly with non-enteric-coated formulations that release in the stomach"
+    },
+    {
+      "label": "Digestive Upset:",
+      "description": "Mild indigestion, belching, and perianal burning reported in some users, though generally mild and tolerable"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Should not be used by people allergic to menthol or with certain digestive conditions like GERD"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Generally considered safe when used appropriately, with most adverse effects being mild and manageable"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "Widely available as dietary supplement in health stores and online, no prescription required in most countries"
+    },
+    {
+      "label": "Quality Varies:",
+      "description": "Enteric-coated pharmaceutical-grade formulations preferred over essential oil products for internal use, as they ensure proper intestinal delivery and standardized dosing"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    }
+  ]
+}

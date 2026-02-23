@@ -1,0 +1,137 @@
+{
+  "slug": "chlorogenic-acid",
+  "url": "https://dopamine.club/substances/chlorogenic-acid/",
+  "scrapedAt": "2026-02-12T16:06:40.538Z",
+  "title": "CHLOROGENIC ACID",
+  "description": "Chlorogenic acid is a naturally occurring polyphenol compound found abundantly in coffee, fruits, and vegetables, particularly green coffee beans. It works primarily as an antioxidant and by modulating glucose metabolism, lipid profiles, and inflammatory pathways through mechanisms involving VEGF, ERK, and AKT signaling. Research suggests it may support cardiovascular health, metabolic function, and provide hepatoprotective effects.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Chlorogenic Acid: A Systematic Review on the Biological Functions, Mechanistic Actions, and Therapeutic Potentials",
+      "summary": "Comprehensive review demonstrating chlorogenic acid's anti-inflammatory, antioxidant, and metabolic benefits through modulation of multiple cellular pathways including glucose metabolism and lipid regulation.",
+      "url": "https://www.mdpi.com/2072-6643/16/7/924",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chlorogenic acid: A comprehensive review of the dietary sources, processing effects, bioavailability, beneficial properties, mechanisms of action, and future directions",
+      "summary": "Extensive analysis of chlorogenic acid's dietary sources, absorption characteristics, and health benefits including cardiovascular protection and antioxidant activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33337063/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chlorogenic acid intake guidance: Sources, health benefits, and safety",
+      "summary": "Evidence-based guidance on safe chlorogenic acid consumption showing benefits for metabolic health, cardiovascular function, and antioxidant protection with good safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36576278/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chlorogenic Acid Protects against Advanced Alcoholic Steatohepatitis in Rats via Modulation of Redox Homeostasis, Inflammation, and Lipogenesis",
+      "summary": "Animal study demonstrating chlorogenic acid's protective effects on liver health through reduction of oxidative stress, inflammation markers, and improved lipid metabolism in alcohol-induced liver disease.",
+      "url": "https://www.mdpi.com/2072-6643/13/11/4155",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chlorogenic acid attenuates hypertension and improves endothelial function in spontaneously hypertensive rats",
+      "summary": "Research showing chlorogenic acid's ability to reduce blood pressure and enhance vascular endothelial function in hypertensive animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16685206/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Limited direct user discussion of chlorogenic acid as a standalone supplement. Users generally focus on whole food sources like coffee and apples rather than isolated supplementation, with most evidence coming from research rather than anecdotal reports."
+  },
+  "effects": [
+    {
+      "label": "Research Evidence:",
+      "description": "Strong preclinical and animal study evidence for metabolic, cardiovascular, and hepatoprotective benefits"
+    },
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Absorption may be limited by gastric acid and digestive processes, reducing effectiveness of oral supplementation"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Effects appear to be dose-dependent with higher doses showing more pronounced benefits in research settings"
+    },
+    {
+      "label": "Whole Food Sources:",
+      "description": "May be more effective when consumed through coffee, fruits, and vegetables rather than isolated supplements"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use 40-80 mg/kg body weight showing therapeutic effects"
+    },
+    {
+      "label": "Coffee Content:",
+      "description": "A typical cup of coffee contains 70-350 mg of chlorogenic acid depending on preparation method"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Commercial supplements often provide 200-400 mg per serving, though optimal human dosing is not well established"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "May be most effective when consumed with meals to support glucose metabolism"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Research indicates good safety profile with minimal adverse effects at typical doses"
+    },
+    {
+      "label": "Digestive Effects:",
+      "description": "High doses may cause mild gastrointestinal discomfort in some individuals"
+    },
+    {
+      "label": "Blood Sugar Effects:",
+      "description": "May lower blood glucose, requiring monitoring for those on diabetes medications"
+    },
+    {
+      "label": "Limited Long-term Data:",
+      "description": "Few studies on extended use beyond several months in humans"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Readily available in coffee, green coffee extract, apples, and various fruits and vegetables"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as standardized green coffee bean extract or isolated chlorogenic acid from various manufacturers"
+    },
+    {
+      "label": "Research vs Commercial:",
+      "description": "Most compelling evidence comes from whole food sources rather than isolated supplementation"
+    }
+  ],
+  "related": [
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    },
+    {
+      "name": "HUMIC ACID",
+      "slug": "humic-acid"
+    },
+    {
+      "name": "OLEIC ACID",
+      "slug": "oleic-acid"
+    },
+    {
+      "name": "PYRUVIC ACID",
+      "slug": "pyruvic-acid"
+    }
+  ]
+}

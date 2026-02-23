@@ -1,0 +1,97 @@
+{
+  "slug": "cebaracetam",
+  "url": "https://dopamine.club/substances/cebaracetam/",
+  "scrapedAt": "2026-02-12T16:06:27.684Z",
+  "title": "CEBARACETAM",
+  "description": "Cebaracetam is a synthetic nootropic and a substituted phenyl-derivative of the racetam family, specifically featuring a piperazinone ring. It is being studied for its potential to improve cognitive impairment, particularly in the context of neurodegenerative conditions or brain injury, likely through the modulation of glutamatergic receptors.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Efficacy and safety of L-oxiracetam on cognitive function in patients with traumatic brain injury: a multicentre, randomised, double-blind, phase 3 clinical trial",
+      "summary": "This study demonstrates that members of the racetam family, like oxiracetam, significantly improve cognitive scores and neurological function in patients recovering from traumatic brain injuries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39070254/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "There is a significant lack of direct user discussion regarding Cebaracetam specifically, as most users focus on related racetams or general cognitive enhancers like creatine."
+  },
+  "effects": [
+    {
+      "label": "Clinical Status:",
+      "description": "While related compounds like oxiracetam show efficacy in Phase 3 trials, Cebaracetam remains less established in mainstream clinical use"
+    },
+    {
+      "label": "Limited Evidence:",
+      "description": "Most available data is based on chemical structure similarities to known nootropics rather than large-scale human trials"
+    },
+    {
+      "label": "Specific Targets:",
+      "description": "Appears most effective for cognitive deficits rather than healthy performance enhancement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Typical of the racetam class, clinical studies often investigate doses between 400mg and 800mg"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Usually administered 2-3 times daily due to the metabolic half-life of similar compounds"
+    },
+    {
+      "label": "Trial Protocols:",
+      "description": "In high-potency research contexts, doses are strictly controlled based on body weight"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Frequently reported with racetams, often mitigated by choline supplementation"
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Potential for sleep disruption if taken too late in the day due to stimulatory effects"
+    },
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Minor nausea or stomach upset is possible upon initial administration"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Often found through specialized nootropic vendors rather than standard supplement stores"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Generally unregulated in many jurisdictions but not approved by the FDA for medical use"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEREBROPROTEIN HYDROLYSATE",
+      "slug": "cerebroprotein-hydrolysate"
+    }
+  ]
+}

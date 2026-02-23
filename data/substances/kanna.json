@@ -1,0 +1,131 @@
+{
+  "slug": "kanna",
+  "url": "https://dopamine.club/substances/kanna/",
+  "scrapedAt": "2026-02-12T16:08:58.743Z",
+  "title": "KANNA",
+  "description": "Kanna (Sceletium tortuosum) is a succulent plant traditionally used in South Africa that contains mesembrine alkaloids which act as serotonin reuptake inhibitors (SRIs) and PDE4 inhibitors. It is primarily used for mood enhancement, anxiety reduction, and stress relief, with effects typically described as promoting a sense of well-being and mental calmness without sedation.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "A Chewable Cure 'Kanna': Biological and Pharmaceutical Properties of Sceletium tortuosum",
+      "summary": "Comprehensive review of Sceletium tortuosum's traditional use by San and Khoikhoi tribes and its modern applications for promoting well-being, relieving stress, and providing calming effects through its alkaloid content.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33924742/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Skeletons in the closet? Using a bibliometric lens to visualise phytochemical and pharmacological activities linked to Sceletium, a mood enhancer",
+      "summary": "Bibliometric analysis showing Sceletium's research growth focuses on its traditional use for mental health, with thematic areas centered on anxiolytic agents and South African traditional medicine applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38576783/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mass Spectrometry Metabolomics and Feature-Based Molecular Networking Reveals Population-Specific Chemistry in Some Species of the Sceletium Genus",
+      "summary": "Metabolomic characterization study identifying mesembrine alkaloids as key active compounds in Sceletium tortuosum, confirming its pharmaceutical importance as an anxiolytic and antidepressant.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35425789/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Direct analysis in real time high resolution mass spectrometry as a tool for rapid characterization of mind-altering plant materials and revelation of supplement adulteration--The case of Kanna",
+      "summary": "Study demonstrating analytical methods for identifying authentic Sceletium tortuosum alkaloids while revealing adulteration issues in commercial Kanna supplements, including contamination with banned stimulants like ephedrine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26821203/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with Kanna for mood enhancement, social anxiety reduction, and stress relief, with many finding it effective as an alcohol alternative. Some users note variable quality between brands and occasional underwhelming effects with inferior products, but overall sentiment favors its efficacy when sourced from reputable sources."
+  },
+  "effects": [
+    {
+      "label": "Brand Variability:",
+      "description": "Effectiveness heavily depends on source quality, with Zembrin (standardized extract) and reputable sources like sceletium.com receiving better reviews than generic brands"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Users report enhanced benefits when stacked with SAM-e and B-complex vitamins, with this combination showing sustained effectiveness without tolerance buildup"
+    },
+    {
+      "label": "Onset and Duration:",
+      "description": "Effects typically noticed within 30-60 minutes, with users reporting consistent results over weeks to months of use"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Works well for many but not universally effective, with some users reporting minimal effects even with quality products"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "25-50mg of Zembrin (standardized extract) taken once daily in the morning is most commonly recommended"
+    },
+    {
+      "label": "Powder Form:",
+      "description": "50-100mg of quality powder 1-5 times daily reported by long-term users"
+    },
+    {
+      "label": "Timing:",
+      "description": "Generally taken in the morning or before social situations rather than at night, as it can provide mild stimulation"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users take daily without tolerance issues, while others prefer 5 days on/2 days off patterns"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Most users report few to no side effects at recommended doses, making it well-tolerated compared to pharmaceutical alternatives"
+    },
+    {
+      "label": "Potential Interactions:",
+      "description": "As an SRI, caution advised when combining with other serotonergic compounds like 5-HTP or MAOIs"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Contamination and adulteration found in some commercial products, emphasizing need for third-party tested sources"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Occasional reports of no effect or underwhelming results, particularly with lower-quality or improperly dosed products"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Legal in most countries as an herbal supplement, widely available online and in some health stores"
+    },
+    {
+      "label": "Recommended Sources:",
+      "description": "sceletium.com (South African source) and Zembrin standardized extract receive consistent positive mentions for quality and consistency"
+    },
+    {
+      "label": "Form Options:",
+      "description": "Available as powder, capsules, extracts, and even in gummies and sprays, though standardized extracts like Zembrin preferred for reliability"
+    }
+  ],
+  "related": [
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    },
+    {
+      "name": "LEMON BALM",
+      "slug": "lemon-balm"
+    },
+    {
+      "name": "MAGNOLIA BARK",
+      "slug": "magnolia-bark"
+    },
+    {
+      "name": "PASSIONFLOWER",
+      "slug": "passionflower"
+    },
+    {
+      "name": "SCUTELLARIA",
+      "slug": "scutellaria"
+    }
+  ]
+}

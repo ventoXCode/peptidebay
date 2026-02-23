@@ -1,0 +1,149 @@
+{
+  "slug": "dim",
+  "url": "https://dopamine.club/substances/dim/",
+  "scrapedAt": "2026-02-12T16:07:07.782Z",
+  "title": "DIM",
+  "description": "3,3'-Diindolylmethane (DIM) is a phytonutrient derived from cruciferous vegetables and the primary in vivo metabolite of indole-3-carbinol (I3C). DIM modulates estrogen metabolism by altering the ratios of estrogen metabolites, primarily through aryl hydrocarbon receptor (AHR) signaling pathways. It is commonly used as a dietary supplement for hormone balance, particularly in women, and shows anti-inflammatory, antioxidant, and potential cancer chemopreventive properties.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Exploring the impact of 3,3'-diindolylmethane on the urinary estrogen profile of premenopausal women",
+      "summary": "DIM supplementation significantly altered urinary estrogen metabolite concentrations in premenopausal women, particularly increasing the favorable 2-hydroxyestrone:16-hydroxyestrone ratio, suggesting beneficial modulation of estrogen metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39578798/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The impact of 3,3'-diindolylmethane on estradiol and estrogen metabolism in postmenopausal women using a transdermal estradiol patch",
+      "summary": "In postmenopausal women receiving hormone therapy, DIM supplementation led to significant increases in total estrogens and altered estrogen metabolite profiles, suggesting potential drug-supplement interactions that warrant clinical consideration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40298801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Indoles Derived From Glucobrassicin: Cancer Chemoprevention by Indole-3-Carbinol and 3,3'-Diindolylmethane",
+      "summary": "I3C and DIM demonstrate effective cancer chemopreventive properties in preclinical models through multiple mechanisms, primarily modulation of aryl hydrocarbon receptor signaling, with promising results in clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34660663/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "3,3'-Diindolylmethane Exhibits Significant Metabolism after Oral Dosing in Humans",
+      "summary": "Human pharmacokinetic studies reveal that DIM undergoes robust metabolism with mono- and di-hydroxylation followed by conjugation, providing important insights for dosing strategies and bioavailability considerations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34035125/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "3,3'-diindolylmethane ameliorates cigarette smoke-induced inflammatory amplification in rheumatoid arthritis model mice by targeting AhR/NF-κB crosstalk",
+      "summary": "DIM demonstrated anti-inflammatory effects in animal models of rheumatoid arthritis by modulating the AhR/NF-κB signaling pathway, suggesting potential therapeutic applications for inflammatory conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40349797/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Unveiling the Multifaceted Pharmacological Actions of Indole-3-Carbinol and Diindolylmethane: A Comprehensive Review",
+      "summary": "Comprehensive review demonstrates I3C and DIM provide protective effects across multiple disease categories including cardiovascular, neurological, metabolic, and immune disorders through antioxidant, anti-inflammatory, and immunomodulatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40094833/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Benzo[a]pyrene toxicokinetics in humans following dietary supplementation with 3,3'-diindolylmethane or Brussels sprouts",
+      "summary": "Human clinical trial demonstrated that DIM supplementation modifies carcinogen metabolism, supporting its role in cancer chemoprevention through alteration of xenobiotic metabolizing enzymes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36642108/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with DIM are genuinely divided, with no Reddit data provided in this analysis. Research demonstrates clear biological effects on estrogen metabolism and inflammation, but clinical significance varies by individual and context, particularly regarding hormone therapy interactions."
+  },
+  "effects": [
+    {
+      "label": "Estrogen Balance:",
+      "description": "Consistently demonstrates measurable effects on estrogen metabolism in both premenopausal and postmenopausal women across multiple studies"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Undergoes significant metabolism after oral dosing with hydroxylation and conjugation, which may affect optimal dosing strategies"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects on estrogen profiles show substantial inter-individual variability, suggesting personalized approaches may be needed"
+    },
+    {
+      "label": "Hormone Therapy Interaction:",
+      "description": "Significantly interacts with menopausal hormone therapy, requiring careful monitoring when used concurrently"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "Research studies typically use doses ranging from 100-300mg daily for estrogen metabolism effects"
+    },
+    {
+      "label": "Absorption Enhanced Forms:",
+      "description": "Bioavailability-enhanced formulations may allow for lower effective doses compared to standard DIM"
+    },
+    {
+      "label": "Duration Considerations:",
+      "description": "Effects on estrogen metabolism become measurable after several weeks of consistent supplementation"
+    },
+    {
+      "label": "Clinical Monitoring:",
+      "description": "Laboratory testing of estrogen metabolites recommended when using DIM for hormone-related conditions, especially with concurrent hormone therapy"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormone Alterations:",
+      "description": "May significantly increase total estrogen levels in women using hormone replacement therapy, potentially requiring dose adjustments"
+    },
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Some preclinical studies note potential digestive disturbances, though human tolerance data is limited"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Documented interaction with transdermal estradiol patches suggests caution with other hormone medications"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Response to supplementation varies considerably between individuals, requiring personalized monitoring"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Supplement Status:",
+      "description": "Widely available as an over-the-counter dietary supplement in various formulations and doses"
+    },
+    {
+      "label": "Investigational Drug:",
+      "description": "Also being studied as an investigational pharmaceutical agent for specific therapeutic applications"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Naturally obtained from cruciferous vegetables like broccoli, Brussels sprouts, and cabbage, though supplementation provides more concentrated doses"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

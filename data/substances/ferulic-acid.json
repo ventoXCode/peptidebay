@@ -1,0 +1,125 @@
+{
+  "slug": "ferulic-acid",
+  "url": "https://dopamine.club/substances/ferulic-acid/",
+  "scrapedAt": "2026-02-12T16:07:48.065Z",
+  "title": "FERULIC ACID",
+  "description": "Ferulic acid is a phenolic compound found abundantly in plant cell walls, particularly in cereals, grains, fruits, and vegetables. It functions primarily as a potent antioxidant by neutralizing free radicals and reducing oxidative stress, while also exhibiting anti-inflammatory, antimicrobial, and potential anticancer properties. It is commonly used in skincare products, food preservation, and as a dietary supplement for its cardiovascular and neuroprotective benefits.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ferulic Acid: A Comprehensive Review",
+      "summary": "Comprehensive analysis showing ferulic acid demonstrates significant antioxidant, anti-inflammatory, antimicrobial, and anticancer properties, though clinical application is limited by poor water solubility and bioavailability challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39347187/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ferulic Acid Supplementation Improves Lipid Profiles, Oxidative Stress, and Inflammatory Status in Hyperlipidemic Subjects",
+      "summary": "Randomized controlled trial found 1000mg daily ferulic acid significantly decreased total cholesterol (8.1%), LDL-C (9.3%), oxidative stress markers (24.5%), and inflammatory markers including hs-CRP (32.66%) in hyperlipidemic subjects over six weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29865176/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ferulic Acid: Extraction, Estimation, Bioactivity and Applications for Human Health and Food",
+      "summary": "Review demonstrating ferulic acid exhibits antioxidant, anti-inflammatory, antimicrobial, anticancer, antidiabetic, cardiovascular and neuroprotective activities with applications in food preservation, pharmaceuticals, and cosmetics industries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38270296/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Limited direct user discussion of ferulic acid supplementation, with most mentions appearing in broader anti-aging and antioxidant contexts. Scientific evidence shows promising cardiovascular and anti-inflammatory benefits, but user experiences are not extensively documented in the provided Reddit data."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Well-supported by randomized controlled trials showing measurable improvements in lipid profiles within 6 weeks"
+    },
+    {
+      "label": "Bioavailability Challenge:",
+      "description": "Poor water solubility limits absorption, though it's absorbed better than some other phenolic acids"
+    },
+    {
+      "label": "Dosage Response:",
+      "description": "1000mg daily appears effective for cardiovascular benefits in clinical studies"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Often used in combination with other antioxidants in skincare and supplement formulations"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "1000mg daily used in clinical trials for cardiovascular and anti-inflammatory benefits"
+    },
+    {
+      "label": "Timing:",
+      "description": "Can be absorbed in small intestine and eliminated through urine, suggesting flexible dosing schedules"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Naturally abundant in whole grains, fruits, vegetables, and coffee as dietary intake option"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as standalone supplement or combined in antioxidant formulations"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastric Acid Concern:",
+      "description": "May be degraded or weakened by stomach acid, potentially reducing effectiveness"
+    },
+    {
+      "label": "Limited Toxicity Data:",
+      "description": "Noted as non-toxic compound in research, but long-term human safety data is limited"
+    },
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Poor water solubility may limit absorption and therapeutic effects"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "As with phenolic compounds, may interact with certain medications, though specific interactions not well documented"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Food Applications:",
+      "description": "Widely used in food industry as preservative, additive, and in edible films for packaging"
+    },
+    {
+      "label": "Supplement Market:",
+      "description": "Available as dietary supplement, though less commonly discussed than other antioxidants in user communities"
+    },
+    {
+      "label": "Natural Sources:",
+      "description": "Easily obtained through diet via cereals, grains, vegetables, fruits, and coffee consumption"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    },
+    {
+      "name": "HUMIC ACID",
+      "slug": "humic-acid"
+    },
+    {
+      "name": "OLEIC ACID",
+      "slug": "oleic-acid"
+    },
+    {
+      "name": "R-ALPHA LIPOIC ACID",
+      "slug": "r-alpha-lipoic-acid"
+    }
+  ]
+}

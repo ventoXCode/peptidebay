@@ -1,0 +1,131 @@
+{
+  "slug": "retinol",
+  "url": "https://dopamine.club/substances/retinol/",
+  "scrapedAt": "2026-02-12T16:11:01.357Z",
+  "title": "RETINOL",
+  "description": "Retinol is a fat-soluble vitamin A compound that regulates gene expression, cell differentiation, and vision. It works by converting to retinoic acid in the body, which binds to nuclear receptors to influence multiple physiological processes including skin cell turnover, immune function, and reproductive health. Primarily used for skin health, anti-aging, and vision support, with both topical and oral supplementation forms available.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vitamin A Metabolism: An Update",
+      "summary": "Comprehensive review of vitamin A biochemistry, absorption, storage in the liver, and its conversion to active forms including retinol, retinal, and retinoic acid for various physiological functions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21350678/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Retinol and retinyl esters: biochemistry and physiology",
+      "summary": "Details the metabolism and physiological roles of retinol and retinyl esters, including their storage, transport, and cellular functions in vision, gene expression, and immune response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23625372/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin A Update: Forms, Sources, Kinetics, Detection, Function, Deficiency, Therapeutic Use and Toxicity",
+      "summary": "Comprehensive analysis of vitamin A forms, bioavailability from different sources, metabolic pathways, and both therapeutic applications and toxicity concerns with various retinoid compounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34068643/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Recommended dietary intakes (RDI) of vitamin A in humans",
+      "summary": "Establishes recommended dietary allowances for vitamin A based on prevention of deficiency symptoms and adequate hepatic stores, with specific recommendations for different age groups and life stages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3565297/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users consistently report noticeable benefits for skin quality, cognitive function, and vision, particularly night vision improvements. Most find 10,000 IU taken 2-3 times weekly effective with minimal side effects when properly dosed, though some caution about long-term high-dose use and toxicity concerns."
+  },
+  "effects": [
+    {
+      "label": "Dosage Response:",
+      "description": "10,000 IU taken 2-3 times weekly appears to be the sweet spot for most users, with daily dosing potentially leading to accumulation and side effects over time"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response is highly individual with some users experiencing benefits at lower doses (5,000 IU) while others require higher amounts, likely depending on baseline deficiency status"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works best when balanced with vitamin D3, K2, and magnesium, as these nutrients interact in fat-soluble vitamin metabolism and calcium regulation"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Most noticeable effects occur within 1-4 weeks, with vision improvements often appearing first, followed by cognitive and energy benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Maintenance Dose:",
+      "description": "10,000 IU retinyl palmitate or acetate 2-3 times per week is commonly used for general health benefits without toxicity risk"
+    },
+    {
+      "label": "Loading Protocol:",
+      "description": "Some users report success with short-term higher doses (10,000 IU daily for 1-2 weeks) followed by reduced frequency for maintenance"
+    },
+    {
+      "label": "Conservative Approach:",
+      "description": "5,000 IU every other day is recommended for those concerned about accumulation or with adequate dietary vitamin A intake"
+    },
+    {
+      "label": "Upper Limit Awareness:",
+      "description": "The recommended upper limit of 10,000 IU daily should not be exceeded long-term due to liver toxicity and hypervitaminosis A risks"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Toxicity Concerns:",
+      "description": "Long-term high doses can cause liver damage, bone issues, and hypervitaminosis A symptoms including headaches, nausea, and skin changes"
+    },
+    {
+      "label": "Interaction Effects:",
+      "description": "Can deplete or imbalance other nutrients when taken without vitamin D, K2, and magnesium, potentially causing electrolyte disturbances"
+    },
+    {
+      "label": "Vivid Dreams:",
+      "description": "Multiple users report intensely vivid or unusual dreams when supplementing, particularly with retinyl acetate forms"
+    },
+    {
+      "label": "Skin Sensitivity:",
+      "description": "Some experience initial breakouts or skin changes during the first few weeks, though this often resolves with continued use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as retinyl palmitate, retinyl acetate, and cod liver oil preparations; palmitate is most common in commercial supplements"
+    },
+    {
+      "label": "Prescription vs OTC:",
+      "description": "Topical tretinoin (prescription) is more potent for skin benefits than OTC retinol products, but oral vitamin A supplements are widely available without prescription"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Users recommend reputable brands like quality brands and quality brands for oral supplementation, emphasizing the importance of third-party testing for purity"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

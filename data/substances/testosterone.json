@@ -1,0 +1,149 @@
+{
+  "slug": "testosterone",
+  "url": "https://dopamine.club/substances/testosterone/",
+  "scrapedAt": "2026-02-12T16:11:39.083Z",
+  "title": "TESTOSTERONE",
+  "description": "Testosterone is the primary male sex hormone and anabolic steroid naturally produced in the testes, ovaries, and adrenal glands. It plays crucial roles in developing male reproductive tissues, promoting muscle mass and bone density, regulating libido, and influencing mood and energy levels. Testosterone levels naturally decline with age, and both deficiency and excess can lead to various health issues.",
+  "categories": [
+    "Medicine"
+  ],
+  "research": [
+    {
+      "title": "Effect of fenugreek extract supplement on testosterone levels in male: A meta-analysis of clinical trials",
+      "summary": "Meta-analysis of four clinical trials found that fenugreek extract supplementation has a significant positive effect on total serum testosterone levels in males.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32048383/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of vitamin D supplementation on testosterone levels in men",
+      "summary": "Vitamin D supplementation (3,332 IU daily for 1 year) significantly increased total testosterone levels in healthy overweight men with initial vitamin D deficiency and low-normal testosterone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21154195/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of magnesium supplementation on testosterone levels of athletes and sedentary subjects at rest and after exhaustion",
+      "summary": "Four weeks of magnesium supplementation (10mg/kg body weight) increased both free and total testosterone levels in athletes and sedentary individuals, with greater increases observed in those who exercised.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20352370/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neither soy nor isoflavone intake affects male reproductive hormones: An expanded and updated meta-analysis of clinical studies",
+      "summary": "Comprehensive meta-analysis found no significant effects of soy or isoflavone intake on testosterone, estrogen, or other male reproductive hormones, debunking concerns about feminizing effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33383165/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Three weeks of creatine monohydrate supplementation affects dihydrotestosterone to testosterone ratio in college-aged rugby players",
+      "summary": "Creatine supplementation (25g/day for 7 days, then 5g/day for 14 days) significantly increased the ratio of dihydrotestosterone (DHT) to testosterone in college-aged male rugby players.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19741313/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Do testosterone boosters really increase serum total testosterone? A systematic review",
+      "summary": "Systematic review of 52 studies on 27 proposed testosterone boosters found that most fail to increase total testosterone, with only a few exceptions showing effectiveness in specific populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37697053/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Withania somnifera and Trigonella foenum-graecum as ingredients of testosterone-boosting supplements: Possible clinical implications",
+      "summary": "Review identified Withania somnifera (ashwagandha) and Trigonella foenum-graecum (fenugreek) as the two herbal extracts with best-documented positive effects on testosterone levels in men through different mechanisms of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38628109/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "User sentiment is generally positive, with many reporting significant improvements in energy, libido, mood, and physical performance from optimizing testosterone through lifestyle changes and targeted supplementation. However, users emphasize that proper testing, lifestyle optimization, and natural methods should precede TRT, with mixed opinions on aggressive pharmaceutical intervention."
+  },
+  "effects": [
+    {
+      "label": "Lifestyle First Approach:",
+      "description": "Most successful users emphasize that sleep optimization (8+ hours), resistance training (especially heavy compound lifts), stress management, and proper nutrition are foundational and often more effective than supplements alone"
+    },
+    {
+      "label": "Natural Boosters Show Mixed Results:",
+      "description": "Fenugreek, ashwagandha, tongkat ali, vitamin D, zinc, magnesium, and boron show the most consistent positive effects, though individual responses vary significantly and benefits are generally modest (100-300 ng/dL increases)"
+    },
+    {
+      "label": "TRT Highly Effective But Controversial:",
+      "description": "Testosterone replacement therapy produces dramatic, reliable results but users debate appropriateness, with many advocating exhausting natural methods first due to concerns about dependence and long-term effects"
+    },
+    {
+      "label": "Testing Is Essential:",
+      "description": "Users strongly emphasize getting comprehensive blood work before and during any intervention, noting that many supplement stacks fail without addressing underlying deficiencies or lifestyle factors"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Vitamin D:",
+      "description": "5,000 IU daily commonly recommended, with some using higher doses (60,000 IU monthly) for deficiency correction"
+    },
+    {
+      "label": "Magnesium:",
+      "description": "400-550mg daily (glycinate or malate forms preferred), typically taken before bed for sleep benefits"
+    },
+    {
+      "label": "Zinc:",
+      "description": "25-50mg daily, though many users warn against long-term high-dose use without copper supplementation to avoid imbalances"
+    },
+    {
+      "label": "Tongkat Ali:",
+      "description": "200-600mg daily of standardized extract, often cycled (5 days on, 2 days off) rather than taken continuously"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormonal Imbalances:",
+      "description": "Excessive supplementation (especially zinc without copper, or tongkat ali) can cause imbalances, estrogen issues, or paradoxically lower testosterone over time"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Some users report excessive energy or difficulty sleeping when testosterone levels rise rapidly, requiring adjustment periods"
+    },
+    {
+      "label": "Dependency Concerns:",
+      "description": "TRT users note lifelong commitment required and potential fertility impacts, with difficult recovery if discontinued"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Many supplements work dramatically for some users while having no effect or negative effects on others, making personalized testing and experimentation crucial"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required for TRT:",
+      "description": "Testosterone replacement therapy requires medical supervision, though online clinics have made access easier (sometimes too easy according to many physicians)"
+    },
+    {
+      "label": "Natural Supplements Widely Available:",
+      "description": "Vitamin D, zinc, magnesium, fenugreek, ashwagandha, and tongkat ali are readily available over-the-counter, though quality varies significantly by brand"
+    },
+    {
+      "label": "Quality and Testing Concerns:",
+      "description": "Users emphasize importance of third-party tested supplements and reputable brands, with warnings about contaminated or ineffective products especially in testosterone booster category"
+    }
+  ],
+  "related": [
+    {
+      "name": "TONGKAT ALI (EURYCOMA)",
+      "slug": "tongkat-ali-eurycoma"
+    },
+    {
+      "name": "IVERMECTIN",
+      "slug": "ivermectin"
+    },
+    {
+      "name": "MEMANTINE",
+      "slug": "memantine"
+    },
+    {
+      "name": "RAPAMYCIN",
+      "slug": "rapamycin"
+    },
+    {
+      "name": "TOREMIFENE",
+      "slug": "toremifene"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "vip-peptide",
+  "url": "https://dopamine.club/substances/vip-peptide/",
+  "scrapedAt": "2026-02-12T16:12:10.627Z",
+  "title": "VIP PEPTIDE",
+  "description": "Vasoactive Intestinal Peptide (VIP) is a naturally occurring neuropeptide widely distributed throughout the body, particularly abundant in the brain, gastrointestinal tract, and peripheral nervous system. It functions as a neurotransmitter and neuromodulator, influencing vasodilation, immune regulation, gastrointestinal motility, and neurological processes. VIP has been studied for its roles in migraine pathophysiology, inflammatory bowel conditions, and as a potential therapeutic agent for various gastrointestinal and neurological disorders.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Gut-brain Axis and migraine headache: a comprehensive review",
+      "summary": "Reviews the bidirectional relationship between the gastrointestinal system and central nervous system in migraine, highlighting VIP's role in the gut-brain axis and its association with migraine pathophysiology and gastrointestinal disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32054443/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vasoactive intestinal polypeptide plasma levels associated with migraine",
+      "summary": "Investigates the relationship between VIP plasma levels and migraine development, suggesting VIP may cross the blood-brain barrier and play a role in anxiety, depression, and migraine mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33446759/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Vasoactive Intestinal Polypeptide on Development of Migraine Headaches: A Randomized Clinical Trial",
+      "summary": "A clinical trial examining VIP infusion effects on migraine development, providing evidence for VIP's role as a migraine trigger and its involvement in headache pathophysiology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40183209/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vasoactive intestinal peptide as a laboratory supplement to clinical activity index in inflammatory bowel disease",
+      "summary": "Demonstrates that circulating VIP levels correlate strongly with clinical activity in inflammatory bowel disease, showing sensitivity and specificity as a biomarker for gauging disease severity in UC and Crohn's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2791804/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Immunohistochemical study of vasoactive intestinal peptide (VIP) enteric neurons in diabetic rats supplemented with L-glutamine",
+      "summary": "Examines how L-glutamine supplementation affects VIP-immunoreactive neurons in diabetic rats, showing changes in cell body and nerve fiber areas that suggest modulation of enteric nervous system function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20132654/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Postprandial effect of gastrointestinal hormones and gastric activity in patients with irritable bowel syndrome",
+      "summary": "Investigates postprandial VIP secretion and gastric activity in IBS patients, examining the role of gut peptides in altered gut regulation characteristic of irritable bowel syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37296188/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The impact of exogenous vasoactive intestinal polypeptide on inflammatory responses and mRNA expression of tight junction genes in lambs fed a high-grain diet",
+      "summary": "Evaluates exogenous VIP administration effects on inflammation and intestinal barrier function in lambs, demonstrating VIP's impact on gut inflammatory responses and tight junction integrity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39396104/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User feedback discussions about VIP peptide are limited and indirect, mostly appearing in broader supplement and biohacking contexts. Users show cautious interest in peptides generally but express concerns about sourcing quality, legitimacy of sources, and lack of clear evidence for effectiveness."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Strong correlation found between VIP levels and inflammatory bowel disease activity with good sensitivity (81%) and specificity (55%) as a biomarker"
+    },
+    {
+      "label": "Migraine Research:",
+      "description": "Clinical trials demonstrate VIP can trigger migraine-like headaches, establishing its role in headache pathophysiology but not as a therapeutic"
+    },
+    {
+      "label": "Limited Supplement Use:",
+      "description": "VIP is not commonly used as a direct supplement in biohacking communities; most discussion focuses on other peptides like BPC-157 rather than VIP specifically"
+    },
+    {
+      "label": "Research vs Practice Gap:",
+      "description": "While VIP has established physiological roles, its therapeutic application as an exogenous supplement remains experimental with limited real-world user experience"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Experimental Dosing:",
+      "description": "In animal studies, VIP is administered intraperitoneally at doses like 1.3 nmol/kg body weight, but human supplementation protocols are not well-established"
+    },
+    {
+      "label": "Clinical Trial Context:",
+      "description": "VIP infusions in research settings are carefully controlled medical procedures rather than consumer-accessible supplementation"
+    },
+    {
+      "label": "No Standard Protocol:",
+      "description": "Unlike common peptides discussed in biohacking communities (BPC-157, etc.), VIP lacks established dosing guidelines for supplementation purposes"
+    },
+    {
+      "label": "Route Matters:",
+      "description": "VIP's effects vary significantly by administration route (intraperitoneal, intravenous) and bioavailability considerations limit oral supplementation potential"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Migraine Trigger:",
+      "description": "VIP infusion can induce migraine-like headaches in susceptible individuals, particularly those with migraine history"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Minimal information exists about side effects from chronic exogenous VIP supplementation in humans"
+    },
+    {
+      "label": "Cardiovascular Effects:",
+      "description": "As a vasoactive peptide, VIP influences blood vessel dilation and cardiovascular function, requiring monitoring in therapeutic contexts"
+    },
+    {
+      "label": "Unknown Long-term Effects:",
+      "description": "The safety profile of prolonged VIP supplementation has not been adequately studied in healthy populations"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Not Commercially Available:",
+      "description": "VIP is not widely sold as a consumer supplement and is primarily used in research settings or clinical trials"
+    },
+    {
+      "label": "Research Chemical Status:",
+      "description": "When available, VIP would likely be sold as a research chemical with 'not for human consumption' labeling, similar to other experimental peptides"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "General peptide market has significant quality control issues with fake or impure products, especially from overseas sources as noted by Reddit users"
+    },
+    {
+      "label": "Medical Supervision Required:",
+      "description": "Any therapeutic use of VIP would require medical oversight due to its potent physiological effects and lack of established safety protocols"
+    }
+  ],
+  "related": [
+    {
+      "name": "PEA",
+      "slug": "pea"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    }
+  ]
+}

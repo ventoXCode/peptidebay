@@ -1,0 +1,155 @@
+{
+  "slug": "mif-1",
+  "url": "https://dopamine.club/substances/mif-1/",
+  "scrapedAt": "2026-02-12T16:09:33.842Z",
+  "title": "MIF-1",
+  "description": "MIF-1 (Melanocyte-Stimulating Hormone Release-Inhibiting Factor-1, Pro-Leu-Gly-NH2) is a naturally occurring tripeptide originally discovered as a hypothalamic hormone that acts on the brain rather than the pituitary. It functions as an endogenous opioid antagonist and modulates neurotransmitter systems including dopamine, norepinephrine, and GABA, demonstrating antidepressant, anti-stress, and neuromodulatory properties in both animal and clinical studies.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "From MIF-1 to endomorphin: the Tyr-MIF-1 family of peptides",
+      "summary": "Comprehensive review establishing MIF-1 as the first hypothalamic peptide shown to act on the brain rather than the pituitary, demonstrating antiopiate activity and serving as a prototypic molecule for discovering endogenous opioid antagonists.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17988762/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "MIF-1 is active in a chronic stress animal model of depression",
+      "summary": "Low doses of MIF-1 (0.1 and 1.0 mg/kg) significantly increased activity and decreased stress-related behaviors in chronically stressed rats, demonstrating antidepressant effects comparable to imipramine in this depression model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2568001/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neurological effects of MIF-1, MSH, and opiate peptides in clinical studies",
+      "summary": "Clinical research documenting the neurological and behavioral effects of MIF-1 in human subjects, establishing its relevance for neuropsychiatric applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6152908/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An extraordinary relationship involving MIF-1 and other peptides",
+      "summary": "Retrospective review of collaborative clinical work showing MIF-1 was effective in treating human depression with greater efficacy and faster onset of action than traditional antidepressants available at the time of clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25817911/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "MIF-1: effects on norepinephrine, dopamine and serotonin metabolism in certain discrete brain regions",
+      "summary": "MIF-1 at 5 mg/kg increased striatal tyrosine hydroxylase activity by 25% and dopamine levels in multiple brain regions, demonstrating enhanced turnover of dopamine and norepinephrine neurotransmitter systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6122214/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "MIF-1 and Tyr-MIF-1 augment GABA-stimulated benzodiazepine receptor binding",
+      "summary": "Both MIF-1 and Tyr-MIF-1 significantly augmented GABA-stimulated benzodiazepine receptor binding at low doses, indicating interactions between peptide and GABA-benzodiazepine receptor systems relevant to anxiety modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2893356/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biphasic effects of MIF-1 and Tyr-MIF-1 on apomorphine-induced stereotypy in rats",
+      "summary": "MIF-1 showed biphasic dose-dependent effects on dopamine-mediated behaviors, increasing responses at moderate doses but decreasing them at high doses, suggesting complex modulation of dopaminergic neurotransmission.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2878442/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of melanostatine (MIF-1) on focal potentials in slices of rat brain cortex",
+      "summary": "MIF-1 demonstrated activatory influence on CNS cellular activity, enhancing focal potential amplitudes and facilitating post-tetanic potentiation, supporting the neurophysiological basis for its antidepressant properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1686794/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Limited user discussion with highly specialized interest focused on experimental melanin reduction and anhedonia treatment, with users expressing cautious optimism but uncertainty about efficacy and safety due to minimal real-world experience data."
+  },
+  "effects": [
+    {
+      "label": "Depression Models:",
+      "description": "Effective at 0.1-1.0 mg/kg doses in chronic stress models with activity levels comparable to imipramine"
+    },
+    {
+      "label": "Inverted U-Shaped Curve:",
+      "description": "Clinical evidence shows increasing doses can result in decreasing therapeutic effects, requiring careful dose optimization"
+    },
+    {
+      "label": "Rapid Onset:",
+      "description": "Historical clinical trials reported faster onset of antidepressant action compared to traditional medications available at the time"
+    },
+    {
+      "label": "Regional Brain Specificity:",
+      "description": "Effects vary by brain region with notable activity in striatum, cortex, and olfactory areas but not uniformly across all regions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low Therapeutic Range:",
+      "description": "Animal studies suggest 0.1-1.0 mg/kg as optimal for antidepressant effects in chronic stress models"
+    },
+    {
+      "label": "Moderate Range Effects:",
+      "description": "3-5 mg/kg doses show neurotransmitter modulation with increased dopamine turnover and tyrosine hydroxylase activity"
+    },
+    {
+      "label": "High Dose Concerns:",
+      "description": "Doses of 10 mg/kg associated with increased stress effects and hyperalgesia, suggesting therapeutic window limitations"
+    },
+    {
+      "label": "Biphasic Dosing:",
+      "description": "Evidence suggests careful titration needed as both very low and very high doses may be less effective than moderate ranges"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "High Dose Effects:",
+      "description": "At 10 mg/kg, MIF-1 may increase stress responses and produce hyperalgesia rather than therapeutic benefits"
+    },
+    {
+      "label": "Regional Variability:",
+      "description": "Effects on neurotransmitter systems vary by brain region, potentially causing unpredictable responses in some individuals"
+    },
+    {
+      "label": "Opioid Interactions:",
+      "description": "As an opioid antagonist, may interfere with pain management or medications acting through opioid pathways"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Minimal long-term human safety data available, with most evidence from animal studies or older clinical trials"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Status:",
+      "description": "Primarily discussed in experimental contexts with limited commercial availability as a supplement or therapeutic agent"
+    },
+    {
+      "label": "Peptide Synthesis:",
+      "description": "Can potentially be synthesized or ordered through research peptide sources, but quality and purity controls are uncertain"
+    },
+    {
+      "label": "Off-Label Interest:",
+      "description": "Small community interest for experimental uses including melanin reduction and treatment-resistant anhedonia, but without established protocols"
+    }
+  ],
+  "related": [
+    {
+      "name": "LITHIUM OROTATE",
+      "slug": "lithium-orotate"
+    },
+    {
+      "name": "PREGNENOLONE",
+      "slug": "pregnenolone"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    }
+  ]
+}

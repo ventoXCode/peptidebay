@@ -1,0 +1,155 @@
+{
+  "slug": "lunasin",
+  "url": "https://dopamine.club/substances/lunasin/",
+  "scrapedAt": "2026-02-12T16:09:18.324Z",
+  "title": "LUNASIN",
+  "description": "Lunasin is a 43-amino acid bioactive peptide originally isolated from soybeans, encoded within the 2S albumin gene. It demonstrates multiple biological activities including antioxidant, anti-inflammatory, and anticancer properties through mechanisms involving chromatin binding, histone acetylation inhibition, and regulation of inflammatory cytokine production. Lunasin is heat-stable, bioavailable, and found in soy-based foods and dietary supplements.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Potential health benefits of lunasin: a multifaceted soy-derived bioactive peptide",
+      "summary": "Review of lunasin showing inherent antioxidative, anti-inflammatory, and anticancer properties, with potential role in regulating cholesterol biosynthesis. High bioavailability and heat stability support its use as a dietary supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25627564/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lunasin attenuates obesity-related inflammation in RAW264.7 cells and 3T3-L1 adipocytes by inhibiting inflammatory cytokine production",
+      "summary": "Lunasin reduced pro-inflammatory cytokines IL-1β and MCP-1 in cell models of obesity-related inflammation, demonstrating potential to attenuate chronic low-grade inflammation associated with obesity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28182687/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lunasin inhibits cell proliferation via apoptosis and reduces the production of proinflammatory cytokines in cultured rheumatoid arthritis synovial fibroblasts",
+      "summary": "Lunasin significantly inhibited proliferation and induced apoptosis in rheumatoid arthritis synovial fibroblasts while reducing production of proinflammatory cytokines, suggesting therapeutic potential for RA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25692134/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Current state of art after twenty years of the discovery of bioactive peptide lunasin",
+      "summary": "Comprehensive review documenting lunasin's chemopreventive and chemotherapeutic activity over twenty years, plus protective effects against hypercholesterolemia, obesity, metabolic syndrome, cardiovascular disorders, and inflammatory conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30716999/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effect of Soybean Lunasin on Cardiometabolic Risk Factors: A Randomized Clinical Trial",
+      "summary": "Eight-week randomized controlled trial with 335mg/day lunasin-enriched soy extract showed nonsignificant reductions in cholesterol, LDL, glucose, BMI, and waist circumference in 31 participants, suggesting limited clinical impact on cardiometabolic markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30955400/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Soybean peptide lunasin suppresses in vitro and in vivo 7,12-dimethylbenz[a]anthracene-induced tumorigenesis",
+      "summary": "Lunasin inhibited cancer cell proliferation and foci formation in vitro, and reduced tumor incidence from 67% to 50% in SENCAR mice fed lunasin-enriched soy protein, demonstrating anticancer potential in both cell and animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21535606/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The soybean peptide lunasin promotes apoptosis of mammary epithelial cells via induction of tumor suppressor PTEN",
+      "summary": "Lunasin up-regulated tumor suppressor PTEN, increased its expression and nuclear localization in mammary epithelial cells, showing distinct anticancer mechanisms similar to soy isoflavone genistein.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22864686/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Proteins and lunasin from Glycine soja inhibited inflammation by activating the Hippo pathway through phosphorylation of YAP1 kinase",
+      "summary": "Wild-type soybean proteins and enriched lunasin extract significantly decreased inflammatory cytokines IL-6, MCP-1, and TNF-α production through activation of the Hippo pathway and YAP1 phosphorylation in human monocytic cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41575308/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with lunasin are limited in the provided user data, with no direct discussion of lunasin supplementation. The general supplement discussions show mixed experiences with various compounds, ranging from transformative benefits to significant side effects, suggesting variable individual responses to bioactive peptides and nutraceuticals."
+  },
+  "effects": [
+    {
+      "label": "Preclinical Evidence:",
+      "description": "Strong cellular and animal model data supporting anti-inflammatory and anticancer effects across multiple studies"
+    },
+    {
+      "label": "Clinical Translation:",
+      "description": "Limited human clinical trial data; one RCT showed nonsignificant improvements in cardiometabolic markers at 335mg/day for 8 weeks"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Heat-stable and bioavailable peptide that survives food processing and can be absorbed from dietary sources"
+    },
+    {
+      "label": "Mechanism Specificity:",
+      "description": "Works through multiple pathways including histone acetylation inhibition, PTEN induction, and Hippo pathway activation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Clinical trial used 335mg/day lunasin-enriched soy extract for 8 weeks without reported adverse effects"
+    },
+    {
+      "label": "Dietary Content:",
+      "description": "Commercial lunasin supplements range from 9.2-25.7 mg lunasin per gram of protein in tested products"
+    },
+    {
+      "label": "Enriched Extracts:",
+      "description": "Laboratory-produced lunasin-enriched extracts can contain up to 58.2 mg lunasin per gram protein"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Present in soybeans and soy-based foods at varying concentrations depending on processing methods"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Processing Modifications:",
+      "description": "Commercial soy-based foods may contain glycated and glycoxidated lunasin forms with potentially altered activity"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Long-term human safety studies are lacking; most evidence comes from short-term trials or animal studies"
+    },
+    {
+      "label": "Clinical Trial Results:",
+      "description": "No significant adverse effects reported in the 8-week human trial at 335mg/day dose"
+    },
+    {
+      "label": "Food Matrix Effects:",
+      "description": "Post-translational modifications during food processing may affect lunasin's epigenetic regulatory capacity"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Sources:",
+      "description": "Naturally found in soybeans, soy protein concentrates, and other legume seeds with varying concentrations"
+    },
+    {
+      "label": "Commercial Supplements:",
+      "description": "Available as lunasin-based dietary supplements and lunasin-enriched soy protein products"
+    },
+    {
+      "label": "Purity Variation:",
+      "description": "Commercial products show significant variation in lunasin content (9.2-25.7 mg/g protein) requiring quality verification"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "phenylalanine",
+  "url": "https://dopamine.club/substances/phenylalanine/",
+  "scrapedAt": "2026-02-12T16:10:34.768Z",
+  "title": "PHENYLALANINE",
+  "description": "Phenylalanine is an essential amino acid that serves as a precursor to tyrosine and subsequently dopamine, norepinephrine, and epinephrine. It exists in three forms: L-phenylalanine (natural form found in proteins), D-phenylalanine (synthetic form that may inhibit endorphin breakdown), and DL-phenylalanine (DLPA, a combination of both). It is primarily used as a dietary supplement for mood support, ADHD symptoms, focus enhancement, and pain management through its role in neurotransmitter synthesis.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Essential Amino Acids and Protein Synthesis: Insights into Maximizing the Muscle and Whole-Body Response to Feeding",
+      "summary": "Study examining how essential amino acids including phenylalanine from various protein sources influence muscle and whole-body protein synthesis rates, demonstrating the importance of EAA composition in supplements and foods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33276485/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biomedical applications of microbial phenylalanine ammonia lyase: Current status and future prospects",
+      "summary": "Review of PAL enzyme that catabolizes phenylalanine, discussing its therapeutic applications including FDA-approved Palynziq for adult phenylketonuria patients and potential uses in treating tyrosine-related metabolic abnormalities and tumor regression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32828824/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutrition in phenylketonuria",
+      "summary": "Comprehensive review of phenylketonuria management through dietary phenylalanine restriction, discussing treatment approaches including medical foods, large neutral amino acids (LNAAs), and enzyme therapy for managing elevated phenylalanine levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39427751/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "How to Optimize the Effectiveness and Safety of Parkinson's Disease Therapy? - A Systematic Review of Drugs Interactions with Food and Dietary Supplements",
+      "summary": "Systematic review identifying food and supplement interactions with Parkinson's medications, noting that phenylalanine and tyrosine from dietary sources can compete with levodopa absorption, affecting treatment efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34784871/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Application of achiral-chiral two-dimensional HPLC for separation of phenylalanine and tryptophan enantiomers in dietary supplement",
+      "summary": "Development of analytical methods to separate and detect phenylalanine enantiomers in dietary supplements, achieving resolution higher than 1.5 for quality control purposes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32840880/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tyrosine supplementation for phenylketonuria",
+      "summary": "Cochrane review finding weak evidence for tyrosine supplementation in phenylketonuria patients, as tyrosine is the direct metabolite of phenylalanine and may become deficient when phenylalanine is restricted.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33427303/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences with phenylalanine are genuinely divided - while many report significant benefits for focus, mood, and energy (particularly with DLPA form), others experience no effects or concerning side effects like severe crashes, depletion symptoms, and adverse reactions when combined with alcohol or stimulants. Success appears highly individual and dependent on genetic factors and proper dosing."
+  },
+  "effects": [
+    {
+      "label": "Highly Individual Response:",
+      "description": "Effectiveness appears strongly dependent on individual biochemistry, with some users experiencing dramatic benefits while others notice nothing at all, possibly related to COMT gene variants affecting phenylalanine breakdown"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "DL-phenylalanine (DLPA) reported more effective than L-phenylalanine alone, with the D-form contributing endorphin-related benefits; typical reported effective dose is 500-1500mg"
+    },
+    {
+      "label": "Requires Cofactors:",
+      "description": "Users emphasize importance of taking with B-vitamins (especially B6) and vitamin C for proper conversion to neurotransmitters; without cofactors, effectiveness diminishes"
+    },
+    {
+      "label": "Tolerance and Cycling:",
+      "description": "Some users report diminishing effects with continuous use, recommending cycling or occasional use rather than daily supplementation to maintain effectiveness"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "Most users report taking 500-1500mg, with 500mg being common starting point and 1500mg on higher end; typically taken on empty stomach in morning"
+    },
+    {
+      "label": "Timing Protocol:",
+      "description": "Recommended to take 30 minutes before food on empty stomach for optimal absorption, as other amino acids compete for uptake"
+    },
+    {
+      "label": "Cycling Approach:",
+      "description": "Some users cycle with 5 days on, 2 days off, or use only as needed rather than daily to prevent tolerance and depletion of downstream neurotransmitters"
+    },
+    {
+      "label": "Stacking Recommendations:",
+      "description": "Often combined with B-complex vitamins, vitamin C, and sometimes with 5-HTP (taken separately, 15-20 minutes apart) for balanced neurotransmitter support"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Severe Crashes and Depletion:",
+      "description": "Multiple users report horrendous recovery periods with depleted dopamine stores, particularly when combined with alcohol or used for social situations, leading to multi-day crashes"
+    },
+    {
+      "label": "Caffeine Interaction Changes:",
+      "description": "Some report caffeine becomes ineffective or causes unusual reactions when taken with phenylalanine, possibly due to dopamine system saturation"
+    },
+    {
+      "label": "Overstimulation and Anxiety:",
+      "description": "Higher doses or sensitive individuals report jitteriness, loss of inhibition, anxiety, and difficulty sleeping due to extended half-life of metabolites"
+    },
+    {
+      "label": "Not Universal:",
+      "description": "Significant portion of users report no noticeable effects whatsoever despite trying various doses and forms, suggesting strong genetic component to response"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Both L-phenylalanine and DLPA readily available from supplement retailers, though some users note recent difficulty finding pure D-phenylalanine form specifically"
+    },
+    {
+      "label": "Form Selection Important:",
+      "description": "DLPA (combination form) most commonly recommended and available; pure D-form harder to source but sought after for endorphin-specific effects without dopamine stimulation"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of reputable brands and third-party testing, with some mentioning the need for accurate measurement by weight rather than visual estimation due to potency"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "L-DOPA",
+      "slug": "l-dopa"
+    },
+    {
+      "name": "L-TYROSINE",
+      "slug": "l-tyrosine"
+    },
+    {
+      "name": "N-ACETYL L-TYROSINE (NALT)",
+      "slug": "n-acetyl-l-tyrosine-nalt"
+    }
+  ]
+}

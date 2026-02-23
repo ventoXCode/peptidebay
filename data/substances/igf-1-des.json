@@ -1,0 +1,121 @@
+{
+  "slug": "igf-1-des",
+  "url": "https://dopamine.club/substances/igf-1-des/",
+  "scrapedAt": "2026-02-12T16:08:49.057Z",
+  "title": "IGF-1 DES",
+  "description": "IGF-1 DES is a truncated variant of Insulin-like Growth Factor 1 that lacks the first three amino acids at the N-terminus, significantly reducing its binding to IGF-binding proteins. This modification makes it approximately 10 times more potent than standard IGF-1, allowing for rapid stimulation of cellular hypertrophy and proliferation through localized receptor activation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Des(1-3)IGF-I: a truncated form of insulin-like growth factor-I",
+      "summary": "This variant is 10-fold more potent than standard IGF-1 due to reduced binding with inhibitory proteins, showing significant anabolic effects in vivo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8930132/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Secretion of insulin-like growth factor II (IGF-II) and IGF-binding protein-2 by intestinal epithelial (IEC-6) cells",
+      "summary": "Research demonstrates that IGF-1 variants are significantly more potent than insulin or IGF-II in stimulating protein synthesis and DNA replication in epithelial cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1380441/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of IGF-1 on the Cardiovascular System",
+      "summary": "IGF-1 acts as a powerful anabolic hormone that regulates cell survival, metabolic homeostasis, and vascular relaxation through nitric oxide pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31692426/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report high satisfaction with IGF-1 DES for its rapid effects on muscle fullness and injury recovery, though it is viewed as a specialized tool for experienced biohackers."
+  },
+  "effects": [
+    {
+      "label": "Binding Affinity:",
+      "description": "Highly effective because it bypasses IGF-binding proteins (IGFBPs) that usually inhibit the activity of standard IGF-1."
+    },
+    {
+      "label": "Site Injection:",
+      "description": "Most effective when administered locally to muscle groups immediately following training."
+    },
+    {
+      "label": "Gut Health:",
+      "description": "Strong evidence suggests selective anabolic effects on intestinal tissues, which may aid in inflammatory bowel conditions."
+    },
+    {
+      "label": "Potency Comparison:",
+      "description": "Notably more effective at lower doses than regular IGF-1 or IGF-1 LR3 for immediate cellular response."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Targeted Dosing:",
+      "description": "Commonly used at 20-50mcg per day, often split across bilateral muscle groups."
+    },
+    {
+      "label": "Timing:",
+      "description": "Most users recommend administration 5-20 minutes post-workout to take advantage of sensitized receptors."
+    },
+    {
+      "label": "Reconstitution:",
+      "description": "Must be reconstituted with bacteriostatic water or acetic acid and stored at cool temperatures to maintain stability."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Often used for short bursts (4-6 weeks) rather than long-term administration due to its high potency."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hypoglycemia:",
+      "description": "Users report potential drops in blood sugar levels, necessitating a post-administration carbohydrate source."
+    },
+    {
+      "label": "Local Inflammation:",
+      "description": "Temporary redness or swelling at the site of injection is common."
+    },
+    {
+      "label": "Organ Growth:",
+      "description": "Concerns regarding potential growth of unintended tissues (like the gut) if used excessively long-term."
+    },
+    {
+      "label": "Cancer Risk:",
+      "description": "High IGF-1 levels are theoretically linked to accelerated growth of pre-existing malignant cells."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Status:",
+      "description": "Primarily sold through research chemical sources; not approved for human medical use in several jurisdictions."
+    },
+    {
+      "label": "Sourcing Difficulty:",
+      "description": "High prevalence of low-quality or mislabeled product in the gray market; lab testing and verification are frequently discussed on Reddit."
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "dgl",
+  "url": "https://dopamine.club/substances/dgl/",
+  "scrapedAt": "2026-02-12T16:07:05.962Z",
+  "title": "DGL",
+  "description": "DGL (deglycyrrhizinated licorice) is a form of licorice root that has been processed to remove glycyrrhizin, allowing for higher doses without blood pressure side effects. It contains biologically active flavonoids that support gastrointestinal health by accelerating mucus secretion, protecting the mucosal lining of the stomach and esophagus, and promoting healing of irritated digestive tissues.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effectiveness of Nutritional Ingredients on Upper Gastrointestinal Conditions and Symptoms: A Narrative Review",
+      "summary": "Review of nutritional ingredients for upper GI complaints found limited robust evidence for most botanicals including DGL, though some ingredients showed potential for managing digestive symptoms when combined with other compounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35276989/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Double-blind trial of deglycyrrhizinated liquorice in gastric ulcer",
+      "summary": "Clinical trial of 760mg DGL three times daily in patients with chronic gastric ulcers found no significant healing effect compared to placebo, with no demonstrated benefit for ulcer healing or symptom improvement.",
+      "url": "https://gut.bmj.com/content/14/9/711",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Brief Review of Nutraceutical Ingredients in Gastrointestinal Disorders: Evidence and Suggestions",
+      "summary": "Review examining nutraceutical ingredients for GI disorders found DGL among commonly used botanicals, though evidence quality varies and more rigorous studies are needed to establish efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32150863/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Users report variable results with DGL for gastritis and reflux, with some experiencing significant symptom relief while others find minimal benefit. It appears most effective when combined with other ingredients like slippery elm and marshmallow root, though many users still struggle to achieve complete healing."
+  },
+  "effects": [
+    {
+      "label": "Symptom Management:",
+      "description": "Provides relief from acute reflux and gastritis symptoms but may not heal underlying damage completely for chronic conditions"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between users, with some achieving complete symptom resolution while others see minimal improvement"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Users typically report effects within 3 days to 2 weeks, though sustained healing may require longer-term use"
+    },
+    {
+      "label": "Limited Standalone Efficacy:",
+      "description": "Research shows mixed results, with some clinical trials finding no significant benefit compared to placebo for ulcer healing"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "760mg three times daily is the most commonly cited clinical dose, typically taken before meals"
+    },
+    {
+      "label": "Chewable Forms:",
+      "description": "Some users prefer chewable DGL tablets taken 20 minutes before meals for direct contact with esophageal lining"
+    },
+    {
+      "label": "Duration:",
+      "description": "Users typically trial DGL for 2-8 weeks to assess effectiveness, with some requiring ongoing use for symptom control"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Many users take DGL as part of formulas containing 300-500mg DGL plus other soothing herbs"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Direct Effects:",
+      "description": "DGL is generally well-tolerated with few reported side effects due to removal of glycyrrhizin"
+    },
+    {
+      "label": "Rebound Symptoms:",
+      "description": "Some users experience return of symptoms when discontinuing DGL, suggesting symptom management rather than cure"
+    },
+    {
+      "label": "Digestive Changes:",
+      "description": "Occasional reports of altered bowel movements or mild nausea when first starting supplementation"
+    },
+    {
+      "label": "No Blood Pressure Issues:",
+      "description": "Unlike regular licorice, DGL does not cause hypertension or potassium imbalances due to deglycyrrhization process"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "DGL is readily available from multiple supplement brands including quality brands, quality brands, and other major manufacturers"
+    },
+    {
+      "label": "Form Variety:",
+      "description": "Available as capsules, chewable tablets, and powders, with chewable forms preferred by many users for upper GI issues"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize purchasing from reputable brands to ensure proper deglycyrrhization and standardized active compound content"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BENFOTIAMINE",
+      "slug": "benfotiamine"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    }
+  ]
+}

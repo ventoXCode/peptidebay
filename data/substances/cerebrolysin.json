@@ -1,0 +1,140 @@
+{
+  "slug": "cerebrolysin",
+  "url": "https://dopamine.club/substances/cerebrolysin/",
+  "scrapedAt": "2026-02-12T16:06:29.605Z",
+  "title": "CEREBROLYSIN",
+  "description": "Cerebrolysin is a mixture of low-molecular-weight neuropeptides and amino acids derived from porcine brain tissue. It has neurotrophic effects similar to BDNF and NGF, and is used clinically for stroke recovery, dementia, and traumatic brain injury.",
+  "categories": [
+    "Peptide",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Cerebrolysin for acute ischaemic stroke",
+      "summary": "Assessment of benefits and harms of cerebrolysin for treating acute ischemic stroke, finding little to no effect on death rates and serious adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37818733/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cerebrolysin: a multi-target drug for recovery after stroke",
+      "summary": "Neuropeptide drug showing promise for brain injury recovery, particularly in moderate to severe stroke patients when combined with neurorehabilitation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30004268/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cerebrolysin for stroke, neurodegeneration, and traumatic brain injury: review of the literature and outcomes",
+      "summary": "Literature review examining cerebrolysin's potential in treating strokes, neurodegenerative disorders, and brain injuries, noting mixed clinical results.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33515100/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cerebrolysin in Patients with Subarachnoid Hemorrhage: A Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis examining cerebrolysin's effects on subarachnoid hemorrhage patients, demonstrating positive impact on reducing mortality rates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37892776/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cerebrolysin: a review of its use in dementia",
+      "summary": "Review of pig-brain-derived peptide medication showing promise in improving cognition in Alzheimer's and vascular dementia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19848437/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cerebrolysin in Vascular Dementia: Improvement of Clinical Outcome in a Randomized, Double-Blind, Placebo-Controlled Multicenter Trial",
+      "summary": "Randomized controlled trial showing cerebrolysin significantly improved cognitive function and clinical outcomes in vascular dementia patients over 24 weeks.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1052305710000388",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users with neurological conditions and biohackers alike report significant cognitive improvements. Bryan Johnson's adoption has increased interest among longevity enthusiasts."
+  },
+  "effects": [
+    {
+      "label": "Clinical Validation:",
+      "description": "Extensively studied in medical settings."
+    },
+    {
+      "label": "Fast Acting:",
+      "description": "Many users notice effects within days of starting."
+    },
+    {
+      "label": "Cumulative Benefits:",
+      "description": "Improvements often persist after treatment course."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Range:",
+      "description": "5-30ml IV or IM daily for 10-30 days."
+    },
+    {
+      "label": "Biohacker Protocols:",
+      "description": "Often 5ml IM daily for 10-20 days."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Usually administered in courses with breaks between."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Local discomfort or bruising."
+    },
+    {
+      "label": "Headaches:",
+      "description": "Some users experience transient headaches."
+    },
+    {
+      "label": "Dizziness:",
+      "description": "Occasionally reported, usually mild."
+    },
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Serious adverse events are rare."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription in Europe:",
+      "description": "Available by prescription in many countries."
+    },
+    {
+      "label": "Not FDA Approved:",
+      "description": "Not available by prescription in the US."
+    },
+    {
+      "label": "International Pharmacies:",
+      "description": "Can be sourced from overseas."
+    },
+    {
+      "label": "Cost Consideration:",
+      "description": "Can be expensive, especially branded versions."
+    }
+  ],
+  "related": [
+    {
+      "name": "Dihexa",
+      "slug": "dihexa"
+    },
+    {
+      "name": "Semax",
+      "slug": "semax"
+    },
+    {
+      "name": "CORTAGEN",
+      "slug": "cortagen"
+    },
+    {
+      "name": "CORTEXIN",
+      "slug": "cortexin"
+    },
+    {
+      "name": "HUMANIN",
+      "slug": "humanin"
+    }
+  ]
+}

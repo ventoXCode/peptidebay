@@ -1,0 +1,128 @@
+{
+  "slug": "5-amino-1mq",
+  "url": "https://dopamine.club/substances/5-amino-1mq/",
+  "scrapedAt": "2026-02-12T16:05:17.806Z",
+  "title": "5-AMINO-1MQ",
+  "description": "5-amino-1MQ blocks the enzyme NNMT, which methylates compounds involved in detoxification and is active in various tissues, including the liver and brain. Increased NNMT activity is associated with diseases like cancer and Parkinson's, making it a potential target for new therapies.",
+  "categories": [
+    "Peptide",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Selective and membrane-permeable small molecule inhibitors of nicotinamide N-methyltransferase reverse high-fat diet-induced obesity in mice",
+      "summary": "NNMT inhibitors, including 5-amino-1MQ, reduced body weight, adipose tissue, and cholesterol levels in obese mice without impacting food intake.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5826726/",
+      "source": "(National Institutes of Health)"
+    },
+    {
+      "title": "Roles of Nicotinamide N-Methyltransferase in Obesity and Type 2 Diabetes",
+      "summary": "NNMT inhibition has shown potential in managing obesity and type 2 diabetes by enhancing energy expenditure and improving insulin sensitivity.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8337113/",
+      "source": "(National Institutes of Health)"
+    },
+    {
+      "title": "Reduced calorie diet combined with NNMT inhibition establishes a distinct microbiome in DIO mice",
+      "summary": "5-amino-1MQ combined with a low-fat diet in obese mice led to distinct gut microbiome changes, promoting weight loss and metabolic regulation.",
+      "url": "https://www.nature.com/articles/s41598-021-03670-5",
+      "source": "(University of Texas Medical Branch)"
+    },
+    {
+      "title": "Discovery of Novel N-Nicotinamide Methyltransferase Inhibitors to Combat Obesity-Linked Osteoarthritis and Metabolic Disease",
+      "summary": "New NNMT inhibitors aimed at reducing white adipose tissue showed promising reductions in adiposity in obese mouse models.",
+      "url": "https://apps.dtic.mil/sti/pdfs/AD1059191.pdf",
+      "source": "(University of Texas Medical Branch)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User feedback on 5-Amino-1MQ is mixed, with some individuals experiencing significant weight loss and increased energy, while others report minimal or no effects."
+  },
+  "effects": [
+    {
+      "label": "Variable Results:",
+      "description": "The effectiveness of 5-Amino-1MQ varies among users; some achieve notable weight loss and body fat reduction, while others observe minimal changes."
+    },
+    {
+      "label": "Significant Outcomes for Obese Individuals:",
+      "description": "Those with higher body fat percentages tend to see more pronounced fat loss compared to users who are already fit."
+    },
+    {
+      "label": "Comparisons with Other Supplements:",
+      "description": "Several users mention that alternatives like semaglutide may offer more significant results in weight loss and fat reduction."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Dosage Range:",
+      "description": "Common dosages range from 50mg to 150mg per day, with users often starting at a lower dose and gradually increasing to assess tolerance."
+    },
+    {
+      "label": "Oral Consumption:",
+      "description": "The supplement is primarily taken orally in capsule or liquid form, with some users creating their own capsules from powder."
+    },
+    {
+      "label": "Dosing Strategies:",
+      "description": "Some users divide their daily dose into multiple administrations to minimize potential side effects and may take a NAD+ booster before 5-Amino-1MQ."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disturbances:",
+      "description": "Sleep disruptions, including difficulty falling asleep and altered sleep patterns, are reported by some users, particularly at higher dosages."
+    },
+    {
+      "label": "Initial Anxiety and Restlessness:",
+      "description": "A few individuals experience anxiety and restlessness when starting the supplement, which may diminish after a few weeks."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Users who administer the supplement via subcutaneous injections sometimes report painful lumps in fatty tissue."
+    },
+    {
+      "label": "Minimizing Adverse Effects:",
+      "description": "Starting with a low dose and gradually increasing may help reduce the frequency and severity of side effects."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Online Availability:",
+      "description": "5-Amino-1MQ is available from various online research chemical suppliers."
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "The supplement is considered expensive, prompting some users to source internationally to reduce expenses."
+    },
+    {
+      "label": "Product Legitimacy:",
+      "description": "Users emphasize the importance of purchasing from reputable sources to ensure authenticity due to concerns about varying product quality."
+    },
+    {
+      "label": "Challenges in Sourcing:",
+      "description": "Finding trustworthy suppliers can be difficult, and users often seek recommendations to obtain a reliable product."
+    }
+  ],
+  "related": [
+    {
+      "name": "CARDARINE",
+      "slug": "cardarine"
+    },
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "GUARANA",
+      "slug": "guarana"
+    },
+    {
+      "name": "IRISIN",
+      "slug": "irisin"
+    },
+    {
+      "name": "MOTS-C",
+      "slug": "mots-c"
+    }
+  ]
+}

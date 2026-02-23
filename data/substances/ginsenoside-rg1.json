@@ -1,0 +1,132 @@
+{
+  "slug": "ginsenoside-rg1",
+  "url": "https://dopamine.club/substances/ginsenoside-rg1/",
+  "scrapedAt": "2026-02-12T16:08:05.726Z",
+  "title": "GINSENOSIDE RG1",
+  "description": "Ginsenoside Rg1 is a bioactive saponin compound extracted from Panax ginseng, representing one of the most pharmacologically active constituents. It works through multiple mechanisms including neuroprotection, anti-inflammatory activity, modulation of the HPA axis, and enhancement of synaptic plasticity. Primarily investigated for cognitive enhancement, mood regulation, and neuroprotective effects in conditions like Alzheimer's disease and depression.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Antidepressant-like effects of ginsenoside Rg1 are due to activation of the BDNF signaling pathway and neurogenesis in the hippocampus",
+      "summary": "Rg1 demonstrated antidepressant-like effects in forced swimming and tail suspension tests through BDNF pathway activation and promotion of neurogenesis in the hippocampus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22335772/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginsenoside Rg1 in neurological diseases: From bench to bedside",
+      "summary": "Comprehensive review showing Rg1's potential in treating neuropsychiatric disorders through inhibition of HPA axis hyperfunction, regulation of synaptic plasticity, and modulation of gut microbiota, particularly effective for depression and Alzheimer's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36378298/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginsenoside Rg1 improves cognitive capability and affects the microbiota of large intestine in tree shrew model for Alzheimer's disease",
+      "summary": "Rg1 improved cognitive function in an Alzheimer's disease model and beneficially modulated gut microbiota composition, suggesting a gut-brain axis mechanism of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33634299/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective Effects and Target Network Analysis of Ginsenoside Rg1 in Cerebral Ischemia and Reperfusion Injury",
+      "summary": "Network analysis revealed Rg1's neuroprotective effects in cerebral ischemia through anti-inflammatory, antioxidant, and anti-apoptotic mechanisms involving multiple molecular pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30563020/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report significant benefits for depression, anxiety, mental clarity, and energy, with many experiencing noticeable effects within days. The compound is well-tolerated with few reported side effects, though concerns about dosing and bioavailability are common."
+  },
+  "effects": [
+    {
+      "label": "Rapid Onset:",
+      "description": "Many users report noticeable effects within 1-2 days, though some question if early benefits are placebo"
+    },
+    {
+      "label": "Cognitive Benefits:",
+      "description": "Strong evidence for improvements in memory, learning, focus, and overall cognitive function across user reports"
+    },
+    {
+      "label": "Depression Relief:",
+      "description": "Particularly effective for depression-related symptoms including anhedonia, low motivation, and mood instability"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Users report enhanced effectiveness when stacked with other adaptogens like ashwagandha, rhodiola, and bacopa"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "Common dosing is 500mg of Panax ginseng extract containing 100mg ginsenosides (20% standardization), though higher concentrations (40-45% ginsenosides) are available"
+    },
+    {
+      "label": "Leaf vs Root:",
+      "description": "Some users specifically seek high-potency leaf extract (40-45% ginsenosides) for stronger cognitive effects compared to traditional root preparations"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Most experienced users cycle adaptogens with 4 weeks on, 2 weeks off, or alternate between different adaptogens every 3 days to prevent tolerance"
+    },
+    {
+      "label": "Daily Timing:",
+      "description": "Typically taken in morning with coffee or split into multiple doses throughout the day for sustained effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Very few side effects mentioned, with most users reporting excellent tolerability compared to prescription alternatives"
+    },
+    {
+      "label": "Digestive Upset:",
+      "description": "Some users experience mild stomach irritation if taken without food"
+    },
+    {
+      "label": "Blood Thinning Concerns:",
+      "description": "Users combining with ginkgo and other supplements express concern about cumulative blood-thinning effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects appear highly individual, with some users experiencing no benefits while others report dramatic improvements"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Quality Variance:",
+      "description": "Users emphasize significant quality differences between brands, with reputable suppliers frequently recommended for standardized, high-quality extracts"
+    },
+    {
+      "label": "Extract Standards:",
+      "description": "Common standardizations range from 7-10% ginsenosides (root) to 40-45% ginsenosides (leaf), with higher percentages generally preferred for nootropic effects"
+    },
+    {
+      "label": "Accessible:",
+      "description": "Widely available from supplement retailers and online vendors, with various forms including powder, capsules, and instant packets"
+    }
+  ],
+  "related": [
+    {
+      "name": "BILOBALIDE",
+      "slug": "bilobalide"
+    },
+    {
+      "name": "GINKGOLIDE B",
+      "slug": "ginkgolide-b"
+    },
+    {
+      "name": "SARCOSINE",
+      "slug": "sarcosine"
+    },
+    {
+      "name": "THEACRINE",
+      "slug": "theacrine"
+    },
+    {
+      "name": "THEOBROMINE",
+      "slug": "theobromine"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "semaglutide",
+  "url": "https://dopamine.club/substances/semaglutide/",
+  "scrapedAt": "2026-02-12T16:11:13.164Z",
+  "title": "SEMAGLUTIDE",
+  "description": "Semaglutide is a glucagon-like peptide-1 receptor agonist (GLP-1RA) originally developed for type 2 diabetes management that also demonstrates significant weight loss effects. It works by mimicking the GLP-1 hormone, which regulates appetite, slows gastric emptying, and improves insulin secretion. Available in both injectable (Ozempic, Wegovy) and oral (Rybelsus) formulations, it has been approved for weight management in adults and adolescents with obesity.",
+  "categories": [
+    "Peptide",
+    "GLP"
+  ],
+  "research": [
+    {
+      "title": "Semaglutide for management of obesity in adolescents: efficacy, safety, and considerations for clinical practice",
+      "summary": "Semaglutide effectively reduces BMI and improves metabolic markers including hyperglycemia, liver enzymes, and lipid profiles in youth with obesity, though long-term safety data beyond 68 weeks remains limited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38774967/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Strategies for minimizing muscle loss during use of incretin-mimetic drugs for treatment of obesity",
+      "summary": "The rapid adoption of semaglutide and tirzepatide has outpaced clinical guidelines, with emerging concerns about muscle loss during treatment requiring strategies to preserve lean body mass.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39295512/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Integrating oral semaglutide into clinical practice in primary care: for whom, when, and how?",
+      "summary": "Oral semaglutide demonstrated consistent efficacy in reducing HbA1c and body weight across the PIONEER trial program, with a safety profile similar to subcutaneous GLP-1RAs, making it suitable for various patient populations with type 2 diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32815453/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Real-World Analysis of Short-Term Effectiveness of Oral Semaglutide: Impact on Glycometabolic Control and Cardiovascular Risk",
+      "summary": "Real-world analysis confirms oral semaglutide's effectiveness in improving glycemic control and reducing cardiovascular risk factors in type 2 diabetes patients after just three months of therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40573252/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Severe Hypomagnesemia and Hypocalcemia Linked to Semaglutide in Type 2 Diabetes: A Case Report",
+      "summary": "Case report describes severe hypomagnesemia and hypocalcemia in a patient taking semaglutide combined with multiple glucose-lowering medications, highlighting potential electrolyte complications with polypharmacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39757501/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Semaglutide Treatment in a Patient with Extreme Obesity and Massive Lymphedema: A Case Report",
+      "summary": "Semaglutide therapy successfully achieved significant weight loss in a patient with extreme obesity and massive lymphedema when combined with multidisciplinary care including nutrition optimization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39250902/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effect of Lifestyle Coaching Design on Patient Engagement and Weight Loss in Non-diabetic Patients of a Semaglutide-Supported Digital Obesity Program in the UK",
+      "summary": "Patients receiving proactive, personalized lifestyle coaching alongside semaglutide showed higher engagement and achieved 10.1% weight loss over 16 weeks compared to reactive standardized coaching.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39583610/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Once-Weekly Semaglutide in Adults With Alcohol Use Disorder",
+      "summary": "Phase 2 trial evaluating semaglutide's effects on alcohol consumption and craving in adults with alcohol use disorder, representing novel potential therapeutic application beyond metabolic conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41219651/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "User sentiment is predominantly positive, with most reporting significant weight loss success (25-65 lbs commonly mentioned) and improved metabolic markers. While side effects like fatigue and brain fog are noted, the majority view semaglutide as highly effective and life-changing, though concerns about cost, long-term sustainability, and weight regain after discontinuation are frequently discussed."
+  },
+  "effects": [
+    {
+      "label": "High Success Rate:",
+      "description": "Majority of users report it as the most effective weight loss intervention they've tried, with many describing it as 'life-changing' after years of unsuccessful dieting"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Effectiveness increases with dose escalation, with many users needing to progress from initial 0.25mg to 1-2.4mg weekly to maintain weight loss, some switching to tirzepatide when plateauing"
+    },
+    {
+      "label": "Lifestyle Integration Critical:",
+      "description": "Best results occur when combined with lifestyle modifications including protein-rich diets, strength training to preserve muscle mass, and behavioral changes to prevent weight regain"
+    },
+    {
+      "label": "Weight Regain Concerns:",
+      "description": "Users and studies note that discontinuation typically leads to weight regain unless eating habits are permanently modified, with many viewing it as requiring long-term or lifelong use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Escalation Protocol:",
+      "description": "Most users start at 0.25mg weekly subcutaneous injection and gradually escalate over months to 1-2.4mg weekly to minimize side effects and maximize tolerance"
+    },
+    {
+      "label": "Oral Dosing Alternative:",
+      "description": "Oral semaglutide (Rybelsus) available at 3mg, 7mg, and 14mg daily, though some users report crushing and suspending pills for customized microdosing approaches"
+    },
+    {
+      "label": "Microdosing Experiments:",
+      "description": "Some users exploring very low doses for non-weight loss benefits including blood sugar control and potential Alzheimer's prevention, though clinical evidence for microdosing is limited"
+    },
+    {
+      "label": "Maintenance Dosing:",
+      "description": "Users find they need to maintain therapeutic doses long-term, with attempts to reduce or stop medication typically resulting in weight regain and return of cravings"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Nausea, vomiting, and digestive discomfort are common especially during dose escalation, though these often resolve after initial adjustment period"
+    },
+    {
+      "label": "Fatigue and Brain Fog:",
+      "description": "Significant number of users report persistent fatigue, reduced energy, and cognitive sluggishness that can affect daily functioning and personality changes"
+    },
+    {
+      "label": "Muscle Loss:",
+      "description": "Concerns about losing lean muscle mass along with fat, requiring intentional protein intake (0.8-1g per lb body weight) and resistance training to preserve muscle"
+    },
+    {
+      "label": "Electrolyte Imbalances:",
+      "description": "Case reports and user experiences note potential for magnesium, calcium, and other mineral deficiencies, particularly when combined with other medications"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Multiple Sourcing Options:",
+      "description": "Available through prescription (Ozempic, Wegovy, Rybelsus), telehealth services, compounding pharmacies at significantly lower costs ($100-400 for multi-month supply), and international sources"
+    },
+    {
+      "label": "Cost Variability:",
+      "description": "Brand-name prescriptions extremely expensive without insurance ($1,500+ for 6 months), while compounded versions from telehealth or peptide suppliers cost $100-200 monthly, leading many to seek alternative sources"
+    },
+    {
+      "label": "Regulatory Scrutiny:",
+      "description": "Increasing government and FDA attention on compounded GLP-1s and research chemical sources, with potential future restrictions driven by pharmaceutical industry lobbying, prompting some users to stockpile supplies"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALBIGLUTIDE",
+      "slug": "albiglutide"
+    },
+    {
+      "name": "DULAGLUTIDE",
+      "slug": "dulaglutide"
+    },
+    {
+      "name": "EXENATIDE",
+      "slug": "exenatide"
+    },
+    {
+      "name": "LIRAGLUTIDE",
+      "slug": "liraglutide"
+    },
+    {
+      "name": "Retatrutide",
+      "slug": "retatrutide"
+    }
+  ]
+}

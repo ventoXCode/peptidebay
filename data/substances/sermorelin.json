@@ -1,0 +1,118 @@
+{
+  "slug": "sermorelin",
+  "url": "https://dopamine.club/substances/sermorelin/",
+  "scrapedAt": "2026-02-12T16:11:14.548Z",
+  "title": "SERMORELIN",
+  "description": "Sermorelin is a growth hormone-releasing hormone (GHRH) analog that stimulates natural GH production from the pituitary. It's FDA-approved for GH deficiency in children and used off-label for anti-aging and body composition optimization.",
+  "categories": [
+    "Peptide",
+    "GH"
+  ],
+  "research": [
+    {
+      "title": "A potentially effective drug for patients with recurrent glioma",
+      "summary": "Sermorelin could be effective for treating recurrent gliomas by inhibiting tumor cell proliferation and enhancing immune responses.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8033379/",
+      "source": "(Annals of Translational Medicine)"
+    },
+    {
+      "title": "Agonists of growth hormone-releasing hormone (GHRH) inhibit human experimental cancers",
+      "summary": "GHRH agonists like Sermorelin inhibited tumor growth by regulating the expression of key proteins in cancer cells.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6255156/",
+      "source": "(Li Ka Shing Foundation)"
+    },
+    {
+      "title": "GHRH and sleep",
+      "summary": "Sermorelin was shown to promote deep, non-REM sleep by stimulating growth hormone release, making it a potential therapeutic target for sleep disorders.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1087079204000279",
+      "source": "(University of Szeged)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Popular choice for those seeking GH benefits through natural production rather than exogenous HGH. Users report improved sleep, recovery, and gradual body composition changes."
+  },
+  "effects": [
+    {
+      "label": "Preserves Feedback:",
+      "description": "Maintains natural GH regulation."
+    },
+    {
+      "label": "Gradual Results:",
+      "description": "Benefits manifest over weeks to months."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Often combined with GHRP for amplified effects."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "200-500mcg subcutaneously before bed."
+    },
+    {
+      "label": "Daily Dosing:",
+      "description": "Usually administered once daily."
+    },
+    {
+      "label": "Duration:",
+      "description": "Often used in 3-6 month cycles."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Few side effects at normal doses."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Minor local irritation possible."
+    },
+    {
+      "label": "Flushing:",
+      "description": "Some experience temporary warmth."
+    },
+    {
+      "label": "Water Retention:",
+      "description": "Mild, less than with HGH."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription:",
+      "description": "Available from anti-aging clinics."
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "Also available from peptide suppliers."
+    },
+    {
+      "label": "Compounding Pharmacies:",
+      "description": "Can be obtained with prescription."
+    }
+  ],
+  "related": [
+    {
+      "name": "IBUTAMOREN (MK-677)",
+      "slug": "ibutamoren-mk-677"
+    },
+    {
+      "name": "Ipamorelin",
+      "slug": "ipamorelin"
+    },
+    {
+      "name": "CJC-1295",
+      "slug": "cjc-1295"
+    },
+    {
+      "name": "CJC+DAC",
+      "slug": "cjc-dac"
+    },
+    {
+      "name": "GHRP-2",
+      "slug": "ghrp-2"
+    }
+  ]
+}

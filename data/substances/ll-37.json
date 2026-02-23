@@ -1,0 +1,131 @@
+{
+  "slug": "ll-37",
+  "url": "https://dopamine.club/substances/ll-37/",
+  "scrapedAt": "2026-02-12T16:09:17.009Z",
+  "title": "LL-37",
+  "description": "LL-37 is a human antimicrobial peptide (cathelicidin) that plays a crucial role in innate immunity. It has antibacterial, antiviral, and antifungal properties, and also modulates inflammation and wound healing.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "The structure of the antimicrobial human cathelicidin LL-37 shows oligomerization and channel formation in the presence of membrane mimics",
+      "summary": "LL-37 creates a narrow tetrameric channel in bacterial cell walls, causing cell wall damage and cell death.",
+      "url": "https://doi.org/10.1038/s41598-020-74401-5",
+      "source": "(Springer Nature)"
+    },
+    {
+      "title": "Antimicrobial cathelicidin peptide LL-37 inhibits the pyroptosis of macrophages and improves the survival of polybacterial septic mice",
+      "summary": "LL-37 improves survival in septic mice by suppressing macrophage pyroptosis and inflammatory cytokine production.",
+      "url": "https://doi.org/10.1093/intimm/dxv113",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "LL-37: Cathelicidin-related antimicrobial peptide with pleiotropic activity",
+      "summary": "LL-37 exhibits broad-spectrum antibiotic activity with chemotactic and immunomodulatory properties.",
+      "url": "https://doi.org/10.1016/j.pharep.2016.03.015",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The Human Cathelicidin Antimicrobial Peptide LL-37 and Mimics are Potential Anticancer Drugs",
+      "summary": "LL-37 and its fragments demonstrate potential anticancer effects across various cancer cell lines.",
+      "url": "https://doi.org/10.3389/fonc.2015.00144",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "A comprehensive summary of LL-37, the factotum human cathelicidin peptide",
+      "summary": "LL-37 exhibits pleiotropic antibacterial, antifungal, antiviral, and chemotactic properties with immunostimulatory effects.",
+      "url": "https://doi.org/10.1016/j.cellimm.2012.11.009",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The human cathelicidin peptide LL-37 inhibits pancreatic cancer growth by suppressing autophagy and reprogramming of the tumor immune microenvironment",
+      "summary": "LL-37 inhibits pancreatic cancer growth through autophagy suppression and immune microenvironment reprogramming.",
+      "url": "https://doi.org/10.3389/fphar.2022.906625",
+      "source": "(Frontiers)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Used primarily for immune support and infection management. Users with chronic infections report benefits. More common in clinical and biohacking contexts."
+  },
+  "effects": [
+    {
+      "label": "Broad Spectrum:",
+      "description": "Active against many types of pathogens."
+    },
+    {
+      "label": "Immune Support:",
+      "description": "May help with chronic or recurring infections."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Sometimes combined with other antimicrobial peptides."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "100-500mcg subcutaneously."
+    },
+    {
+      "label": "Frequency:",
+      "description": "Often daily or every other day during acute use."
+    },
+    {
+      "label": "Duration:",
+      "description": "Cycles vary depending on indication."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Redness and irritation common."
+    },
+    {
+      "label": "Inflammatory Response:",
+      "description": "May initially increase inflammation."
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Long-term use not well studied."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Specialized Use:",
+      "description": "Not as common as other peptides."
+    },
+    {
+      "label": "Quality Critical:",
+      "description": "Purity important for injectable use."
+    }
+  ],
+  "related": [
+    {
+      "name": "CHONLUTEN",
+      "slug": "chonluten"
+    },
+    {
+      "name": "CORTAGEN",
+      "slug": "cortagen"
+    },
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    },
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    }
+  ]
+}

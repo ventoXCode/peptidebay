@@ -1,0 +1,155 @@
+{
+  "slug": "citicoline",
+  "url": "https://dopamine.club/substances/citicoline/",
+  "scrapedAt": "2026-02-12T16:06:46.845Z",
+  "title": "CITICOLINE",
+  "description": "Citicoline (CDP-choline; cytidine 5'-diphosphocholine) is a naturally occurring compound that serves as an intermediate in phospholipid metabolism and a precursor to acetylcholine. It functions as a choline donor and supports neuronal membrane integrity, with documented neuroprotective effects through multiple mechanisms including enhanced neurotransmitter synthesis and reduced oxidative stress. Primarily researched for cognitive enhancement, stroke recovery, glaucoma treatment, and neurodegenerative conditions including dementia and mild cognitive impairment.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Citicoline and Memory Function in Healthy Older Adults: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial",
+      "summary": "In 100 healthy adults aged 50-85 with age-associated memory impairment, 500mg/day of citicoline for 12 weeks significantly improved memory function compared to placebo, with no serious adverse events reported.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33978188/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Application of Citicoline in Neurological Disorders: A Systematic Review",
+      "summary": "Systematic review of 47 studies found citicoline prevents dementia progression, enhances cognitive functions in healthy individuals, improves stroke prognosis, and stimulates nerve regeneration in animal models with unclear effects in brain trauma patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33053828/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Is Citicoline Effective in Preventing and Slowing Down Dementia? A Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis demonstrated citicoline supplementation shows promise in preventing and slowing cognitive decline in dementia patients, though researchers call for more standardized trials to establish optimal dosing protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36678257/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of citicoline as a supplement in glaucoma patients: A Systematic review",
+      "summary": "First systematic review investigating citicoline's therapeutic potential in glaucoma found evidence of neuroprotective properties on retinal ganglion cells, offering a potential treatment strategy beyond intraocular pressure control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37768938/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Citicoline: A Superior Form of Choline?",
+      "summary": "Analysis reveals citicoline is significantly less toxic than choline on a molar mass basis and serves as an effective dietary source of both choline and cytidine, with authorized health claims for normal lipid metabolism and liver function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31336819/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of Citicoline in Patients With Mild Cognitive Impairment",
+      "summary": "Review of available literature shows citicoline consistently improves cognitive function in patients with mild cognitive impairment, especially of vascular origin, through diverse neuroprotective mechanisms of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36818199/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Citicoline in addictive disorders: a review of the literature",
+      "summary": "Nine clinical studies on citicoline for addiction (primarily cocaine use) found it safe, well-tolerated, and potentially beneficial for reducing craving, withdrawal symptoms, and cognitive dysfunction while attenuating neurotoxic effects of drugs of abuse.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24950234/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic applications of citicoline for stroke and cognitive dysfunction in the elderly: a review of the literature",
+      "summary": "Review highlights citicoline's promise for elderly patients with cognitive deficits and early-stage Alzheimer's disease through cholinergic and neuroprotective actions, though stroke trial results remain inconclusive.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15005642/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User experiences are genuinely divided—many report significant improvements in focus, memory, and cognitive clarity, particularly for ADHD symptoms and brain fog, while others found it ineffective or experienced no noticeable benefits. The supplement appears highly individual in its effectiveness, with positive responders praising it as transformative but a substantial portion reporting minimal to no effects."
+  },
+  "effects": [
+    {
+      "label": "Individual Response:",
+      "description": "Effectiveness varies dramatically between users—some describe it as life-changing while others report zero noticeable effects, suggesting genetic or biochemical differences in response"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works better when combined with other supplements like Huperzine A (for acetylcholine metabolism), racetams, or comprehensive nootropic stacks rather than as a standalone supplement"
+    },
+    {
+      "label": "Duration for Results:",
+      "description": "Benefits may take weeks to manifest rather than providing immediate effects, with some users noting subtle improvements that become more apparent over extended use"
+    },
+    {
+      "label": "Comparison to Other Forms:",
+      "description": "Users who tried both citicoline and Alpha-GPC report mixed preferences, with citicoline being less likely to cause depression compared to Alpha-GPC for some individuals"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most commonly used at 250-500mg daily, with clinical studies using 500mg/day showing positive results for memory and cognitive function"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken in the morning or split between morning and afternoon doses to avoid potential sleep disruption from its stimulating effects"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users take it 5 days on/2 days off or periodically rather than daily to prevent tolerance or assess ongoing effectiveness"
+    },
+    {
+      "label": "Clinical Recommendations:",
+      "description": "Psychiatrists have recommended year-long courses for brain recovery, suggesting sustained use may be necessary for structural neuroprotective benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Generally well-tolerated with few reported adverse effects in both clinical trials and user experiences, particularly at standard doses"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Some users report difficulty sleeping if taken too late in the day due to its stimulating cognitive effects"
+    },
+    {
+      "label": "Individual Sensitivities:",
+      "description": "A minority of users found it worsened their symptoms or caused headaches, though this appears uncommon compared to other nootropics"
+    },
+    {
+      "label": "Depression Risk (Alpha-GPC):",
+      "description": "Users specifically choosing citicoline over Alpha-GPC cite that the latter caused depression, suggesting citicoline may be better tolerated for mood-sensitive individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold as both a prescription medication in some countries and as a dietary supplement/food ingredient in major markets including the US and EU"
+    },
+    {
+      "label": "Reputable Brands:",
+      "description": "Users recommend purchasing from established brands with proper third-party testing and standardization"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally affordable compared to other nootropics, though pharmaceutical-grade versions prescribed by doctors may be more expensive than supplement forms"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

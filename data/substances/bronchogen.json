@@ -1,0 +1,113 @@
+{
+  "slug": "bronchogen",
+  "url": "https://dopamine.club/substances/bronchogen/",
+  "scrapedAt": "2026-02-12T16:06:16.488Z",
+  "title": "BRONCHOGEN",
+  "description": "Bronchogen is a bioregulator peptide developed in Russia, specifically targeting bronchial and lung tissue. It belongs to the Khavinson peptide family and is used to support respiratory function and promote lung tissue regeneration.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Effect of the peptide bronchogen (Ala-Asp-Glu-Leu) on DNA thermostability",
+      "summary": "Study found that bronchogen increases DNA melting temperature, acting as a stabilizing agent.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21240358/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Short Exogenous Peptides Regulate Expression of CLE, KNOX1, and GRF Family Genes in Nicotiana tabacum",
+      "summary": "Short peptides including bronchogen significantly influence tobacco plant cell culture growth at very low concentrations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28371610/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Peptides tissue-specifically stimulate cell differentiation during their aging",
+      "summary": "Certain short peptides boost differentiation marker expression in human embryonic fibroblasts, suggesting geroprotective potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22808515/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Penetration of short fluorescence-labeled peptides into the nucleus in HeLa cells and in vitro specific interaction of the peptides with DNA",
+      "summary": "Short biologically active peptides penetrate animal cell nuclei and interact with DNA and RNA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22117547/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Modulating Effect of Peptide Therapy on the Morphofunctional State of Bronchial Epithelium in Rats with Obstructive Lung Pathology",
+      "summary": "One-month bronchogen therapy in rats reversed structural damage from COPD, restoring bronchial epithelium immune and barrier functions.",
+      "url": "https://link.springer.com/article/10.1007/s10517-015-3047-x",
+      "source": "(Research Institute of Pulmonology)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Limited user reports available. Those with respiratory conditions report some improvements, but evidence is primarily from Russian research."
+  },
+  "effects": [
+    {
+      "label": "Limited Western Data:",
+      "description": "Most research comes from Russian sources."
+    },
+    {
+      "label": "Subtle Effects:",
+      "description": "Benefits may be gradual and subtle."
+    },
+    {
+      "label": "Best for Chronic Conditions:",
+      "description": "Most reports involve chronic respiratory issues."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Protocol:",
+      "description": "1-2 capsules daily for 10-30 days."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Often used in cycles with breaks between courses."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Safe:",
+      "description": "Few side effects reported."
+    },
+    {
+      "label": "Limited Data:",
+      "description": "Long-term safety not extensively studied."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Russian Suppliers:",
+      "description": "Primarily available from Russian peptide suppliers."
+    },
+    {
+      "label": "Specialized Retailers:",
+      "description": "Some international nootropic vendors carry it."
+    }
+  ],
+  "related": [
+    {
+      "name": "CHONLUTEN",
+      "slug": "chonluten"
+    },
+    {
+      "name": "CORTAGEN",
+      "slug": "cortagen"
+    },
+    {
+      "name": "LL-37",
+      "slug": "ll-37"
+    },
+    {
+      "name": "THYMALIN",
+      "slug": "thymalin"
+    },
+    {
+      "name": "VILON",
+      "slug": "vilon"
+    }
+  ]
+}

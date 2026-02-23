@@ -1,0 +1,137 @@
+{
+  "slug": "fucoidan",
+  "url": "https://dopamine.club/substances/fucoidan/",
+  "scrapedAt": "2026-02-12T16:07:52.327Z",
+  "title": "FUCOIDAN",
+  "description": "Fucoidan is a fucose-containing sulfated polysaccharide extracted primarily from brown seaweeds such as Sargassum and Fucus species. It exhibits immunomodulatory, anti-inflammatory, and antioxidant properties by modulating immune cell activity, reducing pro-inflammatory cytokines, and scavenging free radicals. Fucoidan is primarily used for immune support, cancer adjunct therapy, and inflammatory conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Important Determinants for Fucoidan Bioactivity: A Critical Review of Structure-Function Relations and Extraction Methods for Fucose-Containing Sulfated Polysaccharides from Brown Seaweeds",
+      "summary": "Comprehensive review examining how fucoidan's structure, molecular weight, and sulfation patterns determine its bioactive properties, with emphasis on extraction methods that preserve therapeutic activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22073012/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fucoidan improving spinal cord injury recovery: Modulating microenvironment and promoting remyelination",
+      "summary": "Demonstrates that fucoidan modulates the neuroinflammatory microenvironment and promotes remyelination in spinal cord injury models, showing potential for neurological recovery applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39143866/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Review on Fucoidan Structure, Extraction Techniques, and Its Role as an Immunomodulatory Agent",
+      "summary": "Systematic review documenting fucoidan's immunomodulatory effects, including activation of natural killer cells, macrophages, and T-cells, with applications in immune enhancement and cancer therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36547901/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Immunopotentiating Activity of Fucoidans and Relevance to Cancer Immunotherapy",
+      "summary": "Reviews fucoidan's ability to activate cytotoxic T lymphocytes against cancer cells and enhance antitumor immunity, supporting its potential role in cancer immunotherapy protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36826496/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Natural Polysaccharides in Breast Cancer: Fucoidan's Role in Enhancing Cisplatin Cytotoxicity and Reducing Chemotherapy Resistance",
+      "summary": "Study showing fucoidan significantly enhances cisplatin cytotoxicity in breast cancer cells while reducing IC50 values and decreasing inflammatory cytokines IL-1β and IL-6 in macrophages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38415234/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Research evidence strongly supports fucoidan's immunomodulatory and anti-inflammatory properties, though clinical human data remains limited. Most studies focus on cancer adjunct therapy and immune enhancement with promising preclinical results, but lack of standardized dosing and extraction methods creates variability in therapeutic outcomes."
+  },
+  "effects": [
+    {
+      "label": "Structure-Dependent Activity:",
+      "description": "Therapeutic effects vary significantly based on molecular weight, sulfation pattern, and extraction method used"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Shows enhanced efficacy when combined with conventional cancer treatments like cisplatin, reducing required drug doses"
+    },
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Studies demonstrate concentration-dependent effects with IC50 values ranging from 79-800 μg/ml depending on cell culture conditions"
+    },
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Effectiveness may be limited by absorption challenges due to high molecular weight and polysaccharide structure"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Extracts:",
+      "description": "Studies utilize 100-800 μg/ml concentrations for in vitro cytotoxicity and immune modulation studies"
+    },
+    {
+      "label": "Polysaccharide Content:",
+      "description": "Quality extracts contain approximately 89mg total polysaccharides per gram of dried algae weight"
+    },
+    {
+      "label": "Extract Yield:",
+      "description": "Brown seaweed extraction typically yields 7-72g fucoidan per kilogram of dried algae material"
+    },
+    {
+      "label": "Clinical Dosing:",
+      "description": "Human therapeutic doses remain unstandardized due to limited clinical trials and extraction variability"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Anticoagulant Effects:",
+      "description": "Sulfated structure may enhance bleeding risk similar to heparin in susceptible individuals"
+    },
+    {
+      "label": "Gastrointestinal Responses:",
+      "description": "High molecular weight polysaccharides may cause digestive discomfort in some users"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with chemotherapy agents and immunosuppressive medications require monitoring"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "Inconsistent extraction methods and source materials create unpredictable therapeutic responses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Sources:",
+      "description": "Available as dietary supplements from various brown seaweed species including Fucus vesiculosus and Sargassum species"
+    },
+    {
+      "label": "Extraction Standards:",
+      "description": "Lack of standardized extraction protocols results in significant product quality variation between manufacturers"
+    },
+    {
+      "label": "Research Access:",
+      "description": "High-purity fucoidan extracts primarily available through specialized research suppliers with documented structural characterization"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    }
+  ]
+}

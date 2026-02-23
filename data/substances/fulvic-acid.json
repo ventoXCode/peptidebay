@@ -1,0 +1,131 @@
+{
+  "slug": "fulvic-acid",
+  "url": "https://dopamine.club/substances/fulvic-acid/",
+  "scrapedAt": "2026-02-12T16:07:53.892Z",
+  "title": "FULVIC ACID",
+  "description": "Fulvic acid is a naturally occurring organic compound derived from humic substances in soil, peat, and decomposed organic matter. It functions primarily as a chelating agent, binding to minerals and nutrients to enhance their absorption, while also exhibiting antioxidant and anti-inflammatory properties. Traditionally used for detoxification, gut health support, and mineral supplementation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Therapeutic Potential of Fulvic Acid in Chronic Inflammatory Diseases and Diabetes",
+      "summary": "Reviews evidence that fulvic acid can modulate immune function, influence cellular oxidative state, and improve gastrointestinal function, showing promise for preventing chronic inflammatory diseases including diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30276216/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Randomized, parallel-group, double-blind, controlled study to evaluate the efficacy and safety of carbohydrate-derived fulvic acid in topical treatment of eczema",
+      "summary": "Double-blind placebo-controlled study in 36 patients demonstrated that topical fulvic acid significantly reduced eczema severity, erythema, and scaling with no adverse safety events over four weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21931500/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic Efficiency of Humic Acids in Intoxications",
+      "summary": "Reviews antioxidant and adsorption properties of humic acids, highlighting their effectiveness in heavy metal chelation, mycotoxin binding, and potential use in treating various intoxications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37046925/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Characterization of Fulvic Acid Beverages by Mineral Profile and Antioxidant Capacity",
+      "summary": "Analysis of commercial fulvic acid products found that daily portions of most products provided 45-135% of recommended daily allowance for iron, with some also being good sources of magnesium and manganese.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31766604/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Limited user data available, but research suggests potential benefits for inflammation, mineral absorption, and detoxification. Clinical studies show safety and efficacy in specific applications like eczema treatment, though broader user experiences are not well documented in available sources."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Demonstrated efficacy in controlled trials for eczema treatment with significant symptom reduction"
+    },
+    {
+      "label": "Mineral Supplementation:",
+      "description": "Effective at providing substantial portions of daily mineral requirements, particularly iron"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Studies show good safety with no significant adverse effects in therapeutic doses"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Limited large-scale human trials mean effectiveness may vary based on individual needs and health status"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Topical Application:",
+      "description": "Applied twice daily for skin conditions based on clinical study protocols"
+    },
+    {
+      "label": "Oral Supplementation:",
+      "description": "Commercial beverages and concentrates typically provide mineral content in daily servings"
+    },
+    {
+      "label": "Duration:",
+      "description": "Four-week treatment periods commonly used in clinical studies"
+    },
+    {
+      "label": "Product Variability:",
+      "description": "Concentration and mineral content varies significantly between commercial products"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Clinical studies report no significant adverse effects at therapeutic doses"
+    },
+    {
+      "label": "Safety Parameters:",
+      "description": "All measured safety parameters remained within normal limits in controlled trials"
+    },
+    {
+      "label": "Minimal Documentation:",
+      "description": "Limited large-scale data on long-term side effects"
+    },
+    {
+      "label": "Product Quality:",
+      "description": "Effectiveness and safety may depend on source material and processing methods"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Products:",
+      "description": "Available as concentrates, ready-to-drink beverages, and topical formulations globally"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Significant differences in mineral content and composition between brands"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally available as natural health product or dietary supplement without prescription"
+    }
+  ],
+  "related": [
+    {
+      "name": "OLEIC ACID",
+      "slug": "oleic-acid"
+    },
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "HUMIC ACID",
+      "slug": "humic-acid"
+    },
+    {
+      "name": "MALIC ACID",
+      "slug": "malic-acid"
+    }
+  ]
+}

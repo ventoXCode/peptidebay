@@ -1,0 +1,131 @@
+{
+  "slug": "rutin",
+  "url": "https://dopamine.club/substances/rutin/",
+  "scrapedAt": "2026-02-12T16:11:04.585Z",
+  "title": "RUTIN",
+  "description": "Rutin is a natural flavonoid glycoside found in buckwheat, citrus fruits, and other plants, known for its antioxidant, anti-inflammatory, and vascular-protective properties. It works by scavenging free radicals, modulating inflammatory pathways, and strengthening blood vessel integrity. Rutin is primarily used for cardiovascular health, venous insufficiency, hemorrhoids, and neuroprotection.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "An up-to-date review of rutin and its biological and pharmacological activities",
+      "summary": "Comprehensive review demonstrating rutin's multiple therapeutic properties including antioxidant, anti-inflammatory, neuroprotective, and cardiovascular benefits across various disease models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26535031/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Pharmacological Potential of Rutin",
+      "summary": "Review highlighting rutin's diverse pharmacological effects including antioxidant, anti-inflammatory, anti-apoptotic, and vascular protective properties, with discussion of its clinical applications.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355559/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bioavailability and efficiency of rutin as an antioxidant: a human supplementation study",
+      "summary": "Human study examining rutin's absorption and antioxidant capacity, demonstrating measurable antioxidant effects despite relatively low bioavailability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11083486/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Molecular mechanisms of neuroprotective effect of rutin",
+      "summary": "Recent review detailing rutin's neuroprotective mechanisms including antioxidant, anti-inflammatory, anti-apoptotic effects, and its role in protecting the blood-brain barrier and enhancing neural function.",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1599167/full",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report positive experiences with rutin primarily for hemorrhoids and vascular issues, with some finding benefit at standard doses (500mg) while others require higher doses (2000mg+) for noticeable effects. The compound shows promise for circulation and post-viral recovery, though individual responses vary significantly."
+  },
+  "effects": [
+    {
+      "label": "Hemorrhoid Treatment:",
+      "description": "Effectiveness varies widely; some see no benefit at 500-1000mg daily for a week, while others report success with higher doses (2000mg+) combined with bioflavonoids"
+    },
+    {
+      "label": "Vascular Benefits:",
+      "description": "Shows consistent positive results for circulatory issues when combined with nattokinase, serrapeptase, or other vascular support compounds"
+    },
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Higher doses (2000-3000mg) appear more effective than standard 500mg doses, particularly for acute conditions"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works better when combined with vitamin C, diosmin/hesperidin, or other bioflavonoids rather than as standalone supplement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "500mg daily is commonly available but may be insufficient for therapeutic effects in some conditions"
+    },
+    {
+      "label": "High Dose Protocol:",
+      "description": "2000-3000mg daily (4-6 tablets of 500mg) used by some users for hemorrhoids, though this exceeds typical recommendations"
+    },
+    {
+      "label": "Maintenance Dose:",
+      "description": "300-500mg daily appears sufficient for general vascular health and antioxidant support"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken with vitamin C to enhance absorption and effectiveness, split into multiple doses throughout the day"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Very few users report negative side effects even at high doses (2000mg+)"
+    },
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Low absorption noted in research, which may limit effectiveness at standard doses"
+    },
+    {
+      "label": "Gastrointestinal:",
+      "description": "No significant digestive issues reported, even with high-dose protocols"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Generally considered safe with users reporting sustained use without adverse effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily obtained through online supplement retailers in various forms and dosages"
+    },
+    {
+      "label": "Common Formulations:",
+      "description": "Typically sold as 500mg tablets, sometimes combined with other bioflavonoids like quercetin or hesperidin"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often found in vascular health formulas alongside diosmin, hesperidin, and other flavonoids for enhanced effectiveness"
+    }
+  ],
+  "related": [
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "GAMMA-TOCOPHEROL",
+      "slug": "gamma-tocopherol"
+    },
+    {
+      "name": "OLEUROPEIN",
+      "slug": "oleuropein"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    },
+    {
+      "name": "TETRAHYDROCURCUMIN",
+      "slug": "tetrahydrocurcumin"
+    }
+  ]
+}

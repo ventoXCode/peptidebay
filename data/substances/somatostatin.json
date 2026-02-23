@@ -1,0 +1,155 @@
+{
+  "slug": "somatostatin",
+  "url": "https://dopamine.club/substances/somatostatin/",
+  "scrapedAt": "2026-02-12T16:11:22.869Z",
+  "title": "SOMATOSTATIN",
+  "description": "Somatostatin is a peptide hormone that inhibits the secretion of various hormones including growth hormone, insulin, and glucagon, as well as reducing pancreatic and gastrointestinal secretions. It is primarily used therapeutically (often as synthetic analogs like octreotide) to treat conditions such as acromegaly, certain neuroendocrine tumors, acute pancreatitis, variceal bleeding, and dumping syndrome. As a hormone regulator rather than a supplement, somatostatin and its analogs are prescription medications administered via injection.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Somatostatin and octreotide on the treatment of acute pancreatitis - basic and clinical studies for three decades",
+      "summary": "Somatostatin and octreotide show anti-inflammatory effects in acute pancreatitis treatment beyond just reducing pancreatic secretions, with potential benefits in reducing sphincter of Oddi tone and addressing the inflammatory injury associated with the condition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21548873/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dumping Syndrome: Pragmatic Treatment Options and Experimental Approaches for Improving Clinical Outcomes",
+      "summary": "Somatostatin analogs are effective therapeutic options for managing dumping syndrome, a common complication after gastric and bariatric surgery that significantly impacts quality of life.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37954129/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glucagon and diabetes",
+      "summary": "Somatostatin supplementation can suppress excess glucagon and growth hormone secretion in diabetes management, helping to correct both hyperglycemia and hyperglucagonemia when combined with insulin therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/355737/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Esophageal varices",
+      "summary": "Somatostatin is used alongside other treatments to control acute variceal bleeding in patients with liver disease, representing a pharmacological option for this life-threatening condition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2368882/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Malignant insulinoma",
+      "summary": "Somatostatin analogs like octreotide can be used in combination with other therapies for managing neuroendocrine tumors, with octreotide scintigraphy helping identify tumors expressing somatostatin receptors for targeted treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21354956/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tumor-induced osteomalacia: An overview",
+      "summary": "Somatostatin receptor-based PET imaging is a first-line investigation for localizing phosphaturic mesenchymal tumors in tumor-induced osteomalacia, aiding in diagnosis and treatment planning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37935612/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of a single dose of N-Acetyl-5-methoxytryptamine (Melatonin) and resistance exercise on the growth hormone/IGF-1 axis in young males and females",
+      "summary": "The study examined melatonin's effects on growth hormone and somatostatin levels, finding that melatonin and resistance exercise influence the GH/IGF-1 axis and somatostatin secretion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17956623/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological interventions for acute pancreatitis",
+      "summary": "A comprehensive Cochrane review assessed various pharmacological interventions including somatostatin for acute pancreatitis, evaluating the evidence for medical treatments beyond supportive care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28431202/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User feedback discussions show somatostatin is not commonly used as a consumer supplement but rather discussed in medical contexts or indirectly through supplements that affect its pathways (like melatonin for GERD). Users report mixed experiences with supplements affecting somatostatin-related pathways, with some finding benefits while others express concerns about using peptides or hormone modulators without medical supervision."
+  },
+  "effects": [
+    {
+      "label": "Medical Applications:",
+      "description": "Proven effective for specific medical conditions including acute pancreatitis, neuroendocrine tumors, and dumping syndrome when used under medical supervision"
+    },
+    {
+      "label": "Diabetes Management:",
+      "description": "Can help control hyperglycemia and hyperglucagonemia when combined with insulin therapy in diabetic patients"
+    },
+    {
+      "label": "Diagnostic Tool:",
+      "description": "Somatostatin receptor imaging is valuable for localizing certain tumor types"
+    },
+    {
+      "label": "Not a Supplement:",
+      "description": "Functions as prescription medication rather than over-the-counter supplement, requiring medical oversight"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Medical Prescription Only:",
+      "description": "Somatostatin and analogs like octreotide are administered by healthcare providers via injection"
+    },
+    {
+      "label": "Condition-Specific Dosing:",
+      "description": "Doses vary significantly based on indication (acute pancreatitis, tumor treatment, bleeding control)"
+    },
+    {
+      "label": "Not For Self-Administration:",
+      "description": "Requires medical supervision and monitoring due to hormone-regulating effects"
+    },
+    {
+      "label": "Analog Formulations:",
+      "description": "Synthetic analogs like octreotide used more commonly than native somatostatin due to longer half-life"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Metabolic Effects:",
+      "description": "Can affect blood glucose, insulin, and glucagon levels requiring monitoring"
+    },
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "May cause digestive disturbances due to reduced GI secretions"
+    },
+    {
+      "label": "Growth Hormone Suppression:",
+      "description": "Inhibits growth hormone which could be problematic in certain populations"
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "As an injectable medication, may cause local reactions at administration sites"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Only:",
+      "description": "Somatostatin and its analogs are prescription medications not available as supplements"
+    },
+    {
+      "label": "Medical Setting:",
+      "description": "Typically administered in clinical settings for specific diagnosed conditions"
+    },
+    {
+      "label": "Not OTC:",
+      "description": "Cannot be purchased over-the-counter or through supplement retailers without prescription"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    }
+  ]
+}

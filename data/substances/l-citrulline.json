@@ -1,0 +1,155 @@
+{
+  "slug": "l-citrulline",
+  "url": "https://dopamine.club/substances/l-citrulline/",
+  "scrapedAt": "2026-02-12T16:09:03.724Z",
+  "title": "L-CITRULLINE",
+  "description": "L-Citrulline is a non-essential amino acid that converts to L-arginine in the body, increasing nitric oxide (NO) production through both NOS-dependent and NOS-independent pathways. It enhances blood flow, vascular function, and exercise performance by promoting vasodilation, and is more effective than direct L-arginine supplementation due to superior bioavailability and absorption.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of Citrulline Supplementation on Exercise Performance in Humans: A Review of the Current Literature",
+      "summary": "Comprehensive review examining L-citrulline's ergogenic properties for both aerobic and anaerobic exercise performance through enhanced L-arginine bioavailability and nitric oxide production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31977835/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "l-Citrulline Supplementation: Impact on Cardiometabolic Health",
+      "summary": "L-citrulline supplementation improves nitric oxide bioavailability more effectively than L-arginine, with beneficial impacts on cardiovascular and metabolic health markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30029482/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Supplementation with Nitric Oxide Precursors for Strength Performance: A Review of the Current Literature",
+      "summary": "L-citrulline serves as an effective precursor to L-arginine and promotes nitric oxide production, potentially improving blood flow and mechanisms contributing to skeletal muscle performance and hypertrophy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36771366/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Arginine and Citrulline Supplements for Cardiovascular Health and Athletic Performance: A Narrative Review",
+      "summary": "Review of L-citrulline and citrulline malate supplements showing potential effects on hemodynamic function, endothelial function, aerobic and anaerobic capacity, strength, power, and endurance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36904267/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A critical review of citrulline malate supplementation and exercise performance",
+      "summary": "Citrulline malate may enhance exercise performance through improved blood flow, ammonia homeostasis, or increased ATP production via greater malate availability, with potential muscle recovery benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34417881/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of food sources of nitrate, polyphenols, L-arginine and L-citrulline on endurance exercise performance: a systematic review and meta-analysis",
+      "summary": "Systematic review and meta-analysis evaluating foods containing L-citrulline and other nitric oxide-promoting compounds on endurance exercise performance outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34965876/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-Citrulline Supplementation and Exercise in the Management of Sarcopenia",
+      "summary": "Examines L-citrulline supplementation combined with exercise as a strategy for managing sarcopenia and age-related muscle loss.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34579009/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Side effects of amino acid supplements",
+      "summary": "Comprehensive examination of side effects from amino acid supplementation including citrulline, noting potential impacts on renal and gastrointestinal function, ammonia production, and nutrient competition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35043647/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report positive effects on erectile function, vascularity, workout performance, and overall blood flow. Most consider it effective, affordable, and well-tolerated with minimal side effects, though some note it requires proper dosing (3-8g daily) and may cause GI upset in sensitive individuals."
+  },
+  "effects": [
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Effects are most noticeable at 3-8g daily doses; lower doses (500-1000mg) often insufficient for significant benefits"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Most users notice blood flow improvements within 24-48 hours, with erectile benefits often appearing as next-day morning wood; cognitive effects may take 1-2 weeks"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Highly effective for those with circulation issues or erectile dysfunction; those with already optimal blood flow may notice minimal effects"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Many users report enhanced effects when combined with other nitric oxide boosters, though some find citrulline alone sufficient"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "3-6 grams daily is most commonly recommended and reported effective for vasodilation and performance benefits"
+    },
+    {
+      "label": "Timing:",
+      "description": "Can be taken pre-workout for performance or daily for consistent blood flow benefits; some users split doses (morning and evening)"
+    },
+    {
+      "label": "Powder vs Capsules:",
+      "description": "Bulk powder form preferred for cost-effectiveness and ability to achieve higher therapeutic doses (capsules often underdosed at 500-750mg)"
+    },
+    {
+      "label": "Citrulline Malate:",
+      "description": "Some users prefer citrulline malate (2:1 ratio) for additional ATP production benefits, though pure L-citrulline is also effective"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Most common side effect is stomach upset, bloating, or diarrhea, especially at higher doses or when combined with other supplements"
+    },
+    {
+      "label": "Hypotension:",
+      "description": "Excessive vasodilation can cause dizziness, lightheadedness, or headaches in some users, particularly when combined with other vasodilators"
+    },
+    {
+      "label": "Viral Reactivation:",
+      "description": "Important warning that arginine/citrulline can fuel virus replication (HSV, shingles); users with herpes history should balance with lysine supplementation"
+    },
+    {
+      "label": "Minimal Long-Term Concerns:",
+      "description": "Users report safe long-term use for years when properly dosed, with no tolerance build-up or serious adverse effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily sourced from major supplement retailersand online retailers; bulk powder is most cost-effective at approximately $0.10-0.30 per serving"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Users recommend checking for pure L-citrulline or citrulline malate without excessive fillers; some report pharmaceutical glaze and other additives in tablet forms"
+    },
+    {
+      "label": "Pre-Workout Inclusion:",
+      "description": "Commonly found in pre-workout formulas but often underdosed (1-2g); serious users prefer standalone supplementation for adequate dosing"
+    }
+  ],
+  "related": [
+    {
+      "name": "BORON",
+      "slug": "boron"
+    },
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    }
+  ]
+}

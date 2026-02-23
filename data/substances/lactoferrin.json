@@ -1,0 +1,155 @@
+{
+  "slug": "lactoferrin",
+  "url": "https://dopamine.club/substances/lactoferrin/",
+  "scrapedAt": "2026-02-12T16:09:08.439Z",
+  "title": "LACTOFERRIN",
+  "description": "Lactoferrin is a multifunctional iron-binding glycoprotein naturally found in milk and mammalian secretions with antimicrobial, anti-inflammatory, and immunomodulatory properties. It works by sequestering iron to inhibit pathogen growth, modulating immune cell activity, and protecting against oxidative stress. Primarily used for immune support, iron regulation, gut health, and infection prevention.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effect of Lactoferrin Supplementation on Inflammation, Immune Function, and Prevention of Respiratory Tract Infections in Humans: A Systematic Review and Meta-analysis",
+      "summary": "Review of 25 studies found that lactoferrin supplementation reduced systemic inflammation in 61% of studies, improved immune function in 75%, and reduced respiratory tract infection outcomes in 60% of studies in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35481594/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lactoferrin as a Potent Natural Supplement Exhibiting a Synergistic Effect with Drugs in Antimicrobial and Anticancer Therapies",
+      "summary": "Mini-review demonstrates that lactoferrin exhibits synergistic effects when combined with antimicrobial and anticancer drugs, enhancing their beneficial effects while potentially reducing side effects through its biocompatible and immunomodulatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34635039/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lactoferrin for iron-deficiency anemia in children with inflammatory bowel disease: a clinical trial",
+      "summary": "Clinical trial of 80 children with IBD and iron-deficiency anemia showed lactoferrin 100mg/day for 3 months was as effective as ferrous sulfate in improving hemoglobin, iron parameters, and reducing inflammatory markers with better compliance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35681097/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evidence-based mixture containing Lactobacillus strains and lactoferrin to prevent recurrent bacterial vaginosis: a double blind, placebo controlled, randomised clinical trial",
+      "summary": "Double-blind RCT found that combining Lactobacillus strains with bovine lactoferrin as adjuvant therapy to metronidazole significantly improved outcomes and reduced recurrence of bacterial vaginosis compared to antibiotic treatment alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30525953/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Randomised clinical trial in women with Recurrent Vulvovaginal Candidiasis: Efficacy of probiotics and lactoferrin as maintenance treatment",
+      "summary": "Randomized trial showed that oral formulation containing Lactobacillus acidophilus, Lactobacillus rhamnosus, and bovine lactoferrin as maintenance therapy for 6 months significantly reduced VVC symptoms and recurrence rates compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30565745/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Reduction of lactoferrin aggravates neuronal ferroptosis after intracerebral hemorrhagic stroke in hyperglycemic mice",
+      "summary": "Animal study found that lactoferrin reduction worsened neuronal ferroptosis after stroke in hyperglycemic conditions, suggesting lactoferrin plays a protective role through iron regulation and anti-ferroptotic mechanisms in the brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35131600/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of lactoferrin supplement on cadmium chloride induced toxicity to male rats: Toxicopathological, ultrastructural and immunological studies",
+      "summary": "Animal study demonstrated that lactoferrin supplementation significantly counteracted cadmium-induced oxidative stress, tissue damage, and inflammatory markers in liver, kidney, spleen, and lymph nodes through its antioxidant and immunomodulatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37944217/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Probiotics, Prebiotics, Lactoferrin, and Combination Products for Prevention of Mortality and Morbidity in Preterm Infants: A Systematic Review and Network Meta-Analysis",
+      "summary": "Comprehensive systematic review and network meta-analysis evaluating lactoferrin and combination products for preventing mortality and morbidity in preterm infants, assessing safety and efficacy across multiple outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37782505/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report predominantly positive experiences with lactoferrin, particularly noting profound calming effects, improved gut health, immune support, and effectiveness for various infections. While some users report no noticeable effects, the majority who respond find it beneficial with minimal side effects."
+  },
+  "effects": [
+    {
+      "label": "Response Variability:",
+      "description": "Effectiveness varies significantly between individuals, with some feeling profound effects immediately while others report no noticeable changes"
+    },
+    {
+      "label": "COVID Recovery:",
+      "description": "Multiple users report benefits for COVID-19 symptoms and long-COVID recovery, particularly when combined with other supplements"
+    },
+    {
+      "label": "Infection Prevention:",
+      "description": "Strong user consensus on effectiveness for preventing and treating recurrent bacterial and fungal infections, particularly vaginal infections"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Users report enhanced effectiveness when combined with probiotics, vitamin C, and other immune-supporting supplements"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most common dosage is 100-250mg daily, with quality brands at 250mg being frequently mentioned"
+    },
+    {
+      "label": "Timing:",
+      "description": "Users report taking either morning or evening, with some switching to evening due to calming effects"
+    },
+    {
+      "label": "Iron Management:",
+      "description": "For iron-related issues, 100mg daily dosage appears effective based on clinical trial protocols"
+    },
+    {
+      "label": "Duration:",
+      "description": "Users report benefits within days to weeks, with some taking it continuously for months without issues"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Most users report no significant side effects at standard doses"
+    },
+    {
+      "label": "Autoimmune Concerns:",
+      "description": "Users with autoimmune conditions express concerns about immune-boosting effects potentially exacerbating symptoms"
+    },
+    {
+      "label": "Sedation:",
+      "description": "Some users find the calming effect too strong for daytime use and switch to evening dosing"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Side effects appear highly individual, with most tolerating it well"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Preferences:",
+      "description": "quality brands is the most commonly mentioned and trusted brand, available from major retailers"
+    },
+    {
+      "label": "Source Concerns:",
+      "description": "European users express preference for EU-sourced lactoferrin due to different animal welfare and antibiotic standards"
+    },
+    {
+      "label": "Accessibility:",
+      "description": "Widely available as over-the-counter supplement in various forms including capsules and powders"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

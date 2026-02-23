@@ -1,0 +1,167 @@
+{
+  "slug": "bpc-157",
+  "url": "https://dopamine.club/substances/bpc-157/",
+  "scrapedAt": "2026-02-12T16:06:13.733Z",
+  "title": "BPC-157",
+  "description": "BPC-157 (Body Protection Compound-157) is a synthetic peptide derived from a protein found in human gastric juice. It has shown remarkable healing properties in various tissue types and is primarily researched for its regenerative potential in tendons, muscles, and the gastrointestinal system.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Gastric pentadecapeptide body protection compound BPC 157 and its role in accelerating musculoskeletal soft tissue healing",
+      "summary": "Reviews BPC 157's potential for healing soft tissues like tendons, ligaments, and skeletal muscles, showing positive results in animal studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30915550/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "BPC 157 and Standard Angiogenic Growth Factors. Gastrointestinal Tract Healing",
+      "summary": "Investigates how BPC 157 and other growth factors contribute to healing of gastrointestinal ulcers and tissues with consistent effectiveness across different injury models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29998800/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Stable Gastric Pentadecapeptide BPC 157 and Striated, Smooth, and Heart Muscle",
+      "summary": "Reviews BPC 157's potential in promoting healing of severely injured myotendinous junctions and muscles in rats through various administration methods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36551977/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "BPC 157 Rescued NSAID-cytotoxicity Via Stabilizing Intestinal Permeability and Enhancing Cytoprotection",
+      "summary": "Highlights BPC 157's protective effects on stomach cells against harmful agents like alcohol and NSAIDs by maintaining intestinal integrity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32445447/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+      "summary": "Retrospective study finding intra-articular BPC 157 injections significantly relieved knee pain in 87.5% of 16 patients surveyed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pentadecapeptide BPC 157 and the central nervous system",
+      "summary": "Reviews BPC 157's beneficial effects on the gut-brain axis, alleviating stroke effects and spinal cord injuries in rats through gene expression support.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8504390/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration",
+      "summary": "Found BPC 157 significantly speeds injured tendon healing by promoting fibroblast outgrowth and survival, likely through FAK-paxillin pathway activation.",
+      "url": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.00945.2010",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Stable Gastric Pentadecapeptide BPC 157 Pleiotropic Beneficial Activity and Its Possible Relations with Neurotransmitter Activity",
+      "summary": "Explores BPC 157's broad therapeutic effects in relation to neurotransmitter activity and cytoprotection for muscle and nerve disorders.",
+      "url": "https://www.mdpi.com/1424-8247/17/4/461",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Stable gastric pentadecapeptide BPC 157 can improve the healing course of spinal cord injury",
+      "summary": "Investigated BPC 157's effects on spinal cord injuries, finding it significantly improved motor function and reduced cellular damage.",
+      "url": "https://josr-online.biomedcentral.com/articles/10.1186/s13018-019-1242-6",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Stable Gastric Pentadecapeptide BPC 157-Possible Novel Therapy of Glaucoma and Other Ocular Conditions",
+      "summary": "Found BPC 157 therapy was highly effective in treating glaucoma in rats by normalizing intraocular pressure and preserving retinal health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37513963/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "BPC-157 has garnered enthusiastic reviews from users reporting accelerated recovery from injuries, particularly tendon and ligament issues. Many consider it a game-changer for healing."
+  },
+  "effects": [
+    {
+      "label": "Highly Effective for Soft Tissue:",
+      "description": "Tendon and ligament injuries show the most consistent positive responses."
+    },
+    {
+      "label": "GI Benefits:",
+      "description": "Strong anecdotal evidence for healing gut issues including IBS and leaky gut."
+    },
+    {
+      "label": "Synergy with TB-500:",
+      "description": "Many users combine with TB-500 for enhanced healing effects."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "200-500mcg per day, split into 1-2 doses."
+    },
+    {
+      "label": "Local Injection:",
+      "description": "Subcutaneous injection near injury site is considered most effective."
+    },
+    {
+      "label": "Oral Administration:",
+      "description": "Can be taken orally for systemic and GI benefits, though absorption may be lower."
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Typical cycles run 4-8 weeks."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Most users report no significant side effects."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Minor redness or irritation possible at injection sites."
+    },
+    {
+      "label": "Nausea:",
+      "description": "Occasional reports of mild nausea, especially with oral administration."
+    },
+    {
+      "label": "Limited Long-term Data:",
+      "description": "Human clinical trials are limited, so long-term effects unknown."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical Status:",
+      "description": "Sold as a research chemical, not approved for human use."
+    },
+    {
+      "label": "Online Availability:",
+      "description": "Available from peptide research suppliers."
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Third-party testing recommended due to varying product quality."
+    },
+    {
+      "label": "Storage:",
+      "description": "Requires refrigeration after reconstitution."
+    }
+  ],
+  "related": [
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    },
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    }
+  ]
+}

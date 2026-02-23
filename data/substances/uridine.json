@@ -1,0 +1,149 @@
+{
+  "slug": "uridine",
+  "url": "https://dopamine.club/substances/uridine/",
+  "scrapedAt": "2026-02-12T16:12:05.406Z",
+  "title": "URIDINE",
+  "description": "Uridine is a naturally occurring nucleoside that serves as a building block for RNA and plays a crucial role in cellular metabolism, particularly in the synthesis of phospholipids in neuronal membranes. It crosses the blood-brain barrier and is converted to uridine triphosphate (UTP), which combines with choline and DHA to support the formation of brain cell membranes and synaptic connections. Uridine is investigated for cognitive enhancement, neuroprotection, mood support, and as part of nutritional interventions for conditions involving mitochondrial dysfunction or neurological impairment.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Enhanced uridine bioavailability following administration of a triacetyluridine-rich nutritional supplement",
+      "summary": "Triacetyluridine (TAU) in supplement form achieved four-fold higher plasma uridine concentrations compared to pure uridine, reaching levels known to ameliorate mitochondrial toxicity in vitro, demonstrating superior bioavailability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21379380/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potential Neuroregenerative and Neuroprotective Effects of Uridine/Choline-Enriched Multinutrient Dietary Intervention for Mild Cognitive Impairment",
+      "summary": "Evidence suggests that uridine, choline, and DHA are key nutrients needed by the brain in MCI, with preclinical and clinical data showing the importance of nutrient bioavailability for supporting brain structure and function in prodromal Alzheimer's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33368017/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary uridine improves lipid homeostasis in high-fat diet-induced obese mice by regulating liver gene expression and metabolomic profiles",
+      "summary": "Uridine supplementation (0.4 mg/mL) improved lipid metabolism in high-fat diet-induced obese mice through modulation of liver gene expression and metabolic profiles, demonstrating regulatory effects on lipid homeostasis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41058992/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroinflammation-Modulating Properties Combining Glutathione, N-Acetylcysteine, and Uridine Monophosphate in a Formulation Supplement",
+      "summary": "A combination formulation including uridine monophosphate demonstrated neuroinflammation-modulating properties in vitro, showing potential for addressing neuropathic pain through antioxidant and anti-inflammatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41440136/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of the Efficacy of the Addition of a Combination of Pyrimidine Nucleotides and Vitamin B1 and B12 to Standard Treatment in the Management of Painful Radiculopathy",
+      "summary": "A combination of pyrimidine nucleotides (including uridine) with B vitamins showed efficacy as an addition to standard treatment for painful radiculopathy, improving quality of life in patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39683579/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplement with nucleotides in the form of uridine monophosphate or uridine stimulate intestinal development and promote nucleotide transport in weaned piglets",
+      "summary": "Uridine monophosphate and uridine supplementation significantly improved intestinal development and glucose levels in weaned piglets, demonstrating benefits for cellular replication and growth.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31177538/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biallelic hypomorphic variants in CAD cause uridine-responsive macrocytic anaemia with elevated haemoglobin-A2",
+      "summary": "Uridine supplementation successfully treated macrocytic anemia caused by genetic variants affecting pyrimidine biosynthesis, demonstrating its therapeutic role in specific metabolic disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37984840/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with uridine are genuinely divided, with some reporting mild cognitive benefits when stacked with choline sources, while many others report spaciness, brain fog, or no noticeable effects. The supplement appears to work inconsistently across individuals, with effectiveness often depending on the specific stack composition and individual neurochemistry."
+  },
+  "effects": [
+    {
+      "label": "Inconsistent Response:",
+      "description": "Many users report no noticeable effects at all, with uridine being frequently listed among supplements that \"didn't work\" or provided no subjective benefits"
+    },
+    {
+      "label": "Stack-Dependent:",
+      "description": "Appears to work better when combined with choline sources (Alpha-GPC, CDP-Choline) and omega-3s as part of the \"Mr. Happy Stack\" protocol rather than standalone use"
+    },
+    {
+      "label": "Stimulant Interaction:",
+      "description": "Some users report taking it with amphetamines or during off-days from stimulants for dopamine receptor support, though benefits are unclear"
+    },
+    {
+      "label": "Time Frame:",
+      "description": "Users rarely report immediate effects; when benefits occur, they typically emerge after consistent use over weeks, though many discontinue due to lack of response"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "250mg capsules taken once or twice daily is commonly mentioned, though some users experiment with higher doses"
+    },
+    {
+      "label": "Sublingual Administration:",
+      "description": "Some users prefer sublingual uridine for potentially better absorption, though this is less common"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Often taken continuously rather than cycled, particularly when part of a larger nootropic stack"
+    },
+    {
+      "label": "Form Preference:",
+      "description": "Uridine monophosphate (UMP) is the most commonly discussed form in user communities"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mental Fog:",
+      "description": "The most commonly reported negative effect is feeling spaced out, foggy, or having reduced mental clarity rather than enhanced cognition"
+    },
+    {
+      "label": "Grogginess:",
+      "description": "Some users report next-day tiredness or difficulty waking up when taken for sleep support"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Occasionally mentioned, particularly when not combined with adequate choline supplementation"
+    },
+    {
+      "label": "No Side Effects:",
+      "description": "Many users report taking it with no noticeable positive or negative effects whatsoever"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Supplement:",
+      "description": "Readily available from nootropics vendors and general supplement retailers, typically in powder or capsule form"
+    },
+    {
+      "label": "Moderate Cost:",
+      "description": "Generally considered affordable compared to more exotic nootropics, with a month's supply typically costing $15-30"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Fully legal as a dietary supplement in most jurisdictions with no prescription required"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "NSI-189",
+      "slug": "nsi-189"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    }
+  ]
+}

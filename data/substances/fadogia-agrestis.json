@@ -1,0 +1,138 @@
+{
+  "slug": "fadogia-agrestis",
+  "url": "https://dopamine.club/substances/fadogia-agrestis/",
+  "scrapedAt": "2026-02-12T16:07:44.848Z",
+  "title": "FADOGIA AGRESTIS",
+  "description": "Fadogia Agrestis is a shrub native to Africa, traditionally used in herbal medicine as an aphrodisiac and for its purported testosterone-boosting properties. The plant contains various bioactive compounds including alkaloids, saponins, phenolic compounds, and ursane-type triterpenoid glycosides. It is primarily marketed as a natural testosterone supplement, often stacked with Tongkat Ali, though scientific evidence for its effects in humans is limited.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of oral administration of aqueous extract of Fadogia agrestis (Schweinf. Ex Hiern) stem on some testicular function indices of male rats",
+      "summary": "Study in male rats showed that Fadogia agrestis extract (18-100 mg/kg) for 28 days significantly increased testicular weight ratio, cholesterol, and testosterone-related enzyme activities, suggesting potential effects on testicular function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18023305/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Aphrodisiac potentials of the aqueous extract of Fadogia agrestis (Schweinf. Ex Hiern) stem in male albino rats",
+      "summary": "Animal study found that Fadogia agrestis extract increased mount frequency, intromission frequency, prolonged ejaculatory latency, and significantly increased serum testosterone concentrations in a dose-dependent manner in male rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16281088/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mode of cellular toxicity of aqueous extract of Fadogia agrestis (Schweinf. Ex Hiern) stem in male rat liver and kidney",
+      "summary": "Toxicity study in rats revealed that Fadogia agrestis extract caused significant changes in liver and kidney enzyme activities and increased oxidative stress markers, raising concerns about potential hepatic and renal toxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19755438/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quantification of Phenolic Compounds from Fadogia agrestis and Dietary Supplements using UHPLC-PDA-MS",
+      "summary": "Analytical study identified and quantified 11 phenolic compounds in Fadogia agrestis samples and found that only 12 of 17 tested dietary supplements contained phenolic compounds in range of 0.3-2.7 mg per dose, highlighting quality control issues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30170324/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glycosides of ursane-type triterpenoid, benzophenone, and iridoid from Vangueria agrestis (Fadogia agrestis) and their anti-infective activities",
+      "summary": "Phytochemical analysis isolated seven compounds from Fadogia agrestis roots, including novel metabolites, with some showing inhibitory effects against Trypanosoma brucei, suggesting potential anti-parasitic properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30325205/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely divided—many report increased libido and testosterone levels, but significant concerns exist about safety, quality control, lack of human studies, and potential liver/kidney toxicity. Many users express caution about long-term use without medical supervision."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Results appear highly individual—some users experience dramatic effects while others report zero benefits, possibly due to baseline testosterone levels or product quality"
+    },
+    {
+      "label": "Synergistic Use:",
+      "description": "Most positive reports involve stacking with Tongkat Ali (400mg) and other supplements like zinc, boron, and vitamin D rather than using Fadogia alone"
+    },
+    {
+      "label": "Timing of Effects:",
+      "description": "When effective, users typically notice changes within 2-4 weeks, with testosterone peaks occurring around 2-3 months of consistent use"
+    },
+    {
+      "label": "Questionable Solo Use:",
+      "description": "Many experienced users question whether Fadogia specifically contributes to results or if benefits come primarily from lifestyle changes and other supplements in the stack"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most commonly reported dose is 400-600mg daily, though some products contain up to 1,200mg per serving"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Recommended cycling includes 3 weeks on/1 week off, 5 days on/2 days off, or 2 weeks on/1 week off to prevent receptor downregulation and potential organ stress"
+    },
+    {
+      "label": "Huberman Protocol:",
+      "description": "Popular protocol based on Andrew Huberman's recommendations suggests 425mg Fadogia + 400mg Tongkat Ali, though concerns exist about the source of these recommendations"
+    },
+    {
+      "label": "Duration Concerns:",
+      "description": "Extended use beyond 2-3 months without cycling raises safety concerns, with users reporting diminishing returns and potential side effects after 5-6 months continuous use"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Organ Toxicity:",
+      "description": "Major concern about potential liver and kidney damage based on animal studies, with users advised to get regular bloodwork to monitor enzyme levels"
+    },
+    {
+      "label": "Sexual Dysfunction:",
+      "description": "Some users report paradoxical erectile dysfunction, reduced libido, and testicular shrinkage after prolonged use or when discontinuing"
+    },
+    {
+      "label": "Quality Control Issues:",
+      "description": "Significant contamination and dosing inconsistency in commercial products, with many supplements containing minimal or no active compounds"
+    },
+    {
+      "label": "Interaction Effects:",
+      "description": "High zinc doses (50mg) commonly stacked with Fadogia can cause copper deficiency; combination with SSRIs may exacerbate sexual side effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supply Issues:",
+      "description": "Frequently out of stock at reputable vendors, often unavailable on major retailers due to popularity following podcast mentions"
+    },
+    {
+      "label": "European Access:",
+      "description": "Limited availability in EU markets, requiring international shipping from reputable suppliers; some products banned in certain countries like France"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users warn about underdosed or contaminated products from less reputable manufacturers, emphasizing the importance of third-party testing"
+    }
+  ],
+  "related": [
+    {
+      "name": "FENUGREEK",
+      "slug": "fenugreek"
+    },
+    {
+      "name": "TONGKAT ALI (EURYCOMA)",
+      "slug": "tongkat-ali-eurycoma"
+    },
+    {
+      "name": "HORNY GOAT WEED (EPIMEDIUM)",
+      "slug": "horny-goat-weed-epimedium"
+    },
+    {
+      "name": "MACA",
+      "slug": "maca"
+    },
+    {
+      "name": "Mucuna Pruriens",
+      "slug": "mucuna-pruriens"
+    }
+  ]
+}

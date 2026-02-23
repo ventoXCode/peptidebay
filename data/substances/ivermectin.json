@@ -1,0 +1,143 @@
+{
+  "slug": "ivermectin",
+  "url": "https://dopamine.club/substances/ivermectin/",
+  "scrapedAt": "2026-02-12T16:08:55.516Z",
+  "title": "IVERMECTIN",
+  "description": "Ivermectin is an antiparasitic medication originally developed to treat parasitic infections in animals and humans, including onchocerciasis, strongyloidiasis, and scabies. It works by binding to glutamate-gated chloride channels in invertebrate nerve and muscle cells, causing paralysis and death of parasites. While primarily approved for antiparasitic use, it has been investigated for potential antiviral and anticancer properties, though evidence for these applications remains limited and controversial.",
+  "categories": [
+    "Medicine"
+  ],
+  "research": [
+    {
+      "title": "Ivermectin Combined With Recombinant Methioninase (rMETase) Synergistically Eradicates MiaPaCa-2 Pancreatic Cancer Cells",
+      "summary": "In vitro study showed ivermectin combined with rMETase demonstrated synergistic effects in eradicating human pancreatic cancer cells, suggesting potential anticancer applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39740811/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ivermectin: From theory to clinical application",
+      "summary": "Comprehensive review of ivermectin's antiparasitic efficacy, with approximately 250 million people using it annually to combat filariasis, onchocerciasis, strongyloidiasis, scabies and other parasitic diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31071469/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Onchocerciasis Elimination: Progress and Challenges",
+      "summary": "Mass treatment with ivermectin has significantly changed the global landscape of onchocerciasis, with elimination targets set for 2022 in the Americas and 2030 for 12 African countries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33117052/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ivermectin as an adjuvant to anti-epileptic treatment in persons with onchocerciasis-associated epilepsy",
+      "summary": "Randomized clinical trial assessed ivermectin as an adjuvant treatment for onchocerciasis-associated epilepsy, with anecdotal evidence suggesting potential seizure frequency reduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31923177/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ivermectin-induced cell death of cervical cancer cells in vitro a consequence of precipitate formation in culture media",
+      "summary": "Study found that ivermectin's apparent anticancer effects in vitro were due to precipitate formation rather than direct biological activity, emphasizing the importance of distinguishing between free and bound drug in solution.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35605787/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A living WHO guideline on drugs for covid-19",
+      "summary": "WHO living guideline on COVID-19 treatments, addressing various therapeutic options including evaluation of ivermectin and other proposed interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32887691/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative, with most commenters expressing skepticism about off-label uses and warning against unsupervised use. Medical professionals and informed users consistently advise against taking ivermectin without proper diagnosis and prescription, citing potential serious side effects and lack of evidence for many claimed benefits."
+  },
+  "effects": [
+    {
+      "label": "Proven Parasite Treatment:",
+      "description": "Well-established efficacy for approved parasitic infections with proper medical supervision"
+    },
+    {
+      "label": "Controversial Off-Label Use:",
+      "description": "Limited to no evidence supporting use for COVID-19, cancer, or other non-parasitic conditions in humans"
+    },
+    {
+      "label": "Dosage-Dependent Risks:",
+      "description": "Overdosing can lead to severe adverse effects including neurological damage and cardiovascular issues"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users report benefits for rosacea (topical prescription formulation), but off-label self-treatment is dangerous"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Medical Prescription Only:",
+      "description": "Standard antiparasitic dosing is typically one or two doses of 6-12mg based on body weight, prescribed by physicians"
+    },
+    {
+      "label": "Self-Dosing Dangers:",
+      "description": "Multiple users reported severe adverse effects from attempting to self-dose, including accidental overdoses leading to hospitalization"
+    },
+    {
+      "label": "Long-Term Use Risks:",
+      "description": "Extended daily use is not recommended outside of specific medical conditions and can cause arrhythmia and other complications"
+    },
+    {
+      "label": "Veterinary Formulations:",
+      "description": "Users attempting to use livestock versions risk incorrect dosing and exposure to additional harmful ingredients"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cardiovascular Effects:",
+      "description": "Reports of arrhythmia, heart attacks, and cardiovascular complications, particularly in predisposed individuals"
+    },
+    {
+      "label": "Neurological Damage:",
+      "description": "Hallucinations, cognitive impairment, seizures, and potential brain damage from overdose or misuse"
+    },
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Nausea, cramps, and digestive disturbances reported by users"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Can interact with other medications and may worsen underlying health conditions when used inappropriately"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Legally available only by prescription in most countries for approved parasitic infections"
+    },
+    {
+      "label": "Online Sources Risky:",
+      "description": "Some users report finding online sources without prescription, but this carries significant legal and health risks"
+    },
+    {
+      "label": "OTC in Some Countries:",
+      "description": "Available over-the-counter in parts of Mexico, Central and South America, but importation may be illegal"
+    }
+  ],
+  "related": [
+    {
+      "name": "RAPAMYCIN",
+      "slug": "rapamycin"
+    },
+    {
+      "name": "TOREMIFENE",
+      "slug": "toremifene"
+    },
+    {
+      "name": "MEMANTINE",
+      "slug": "memantine"
+    },
+    {
+      "name": "TESTOSTERONE",
+      "slug": "testosterone"
+    },
+    {
+      "name": "Armodafinil",
+      "slug": "armodafinil"
+    }
+  ]
+}

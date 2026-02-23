@@ -1,0 +1,133 @@
+{
+  "slug": "mitoq",
+  "url": "https://dopamine.club/substances/mitoq/",
+  "scrapedAt": "2026-02-12T16:09:35.145Z",
+  "title": "MITOQ",
+  "description": "MitoQ (Mitoquinone) is a mitochondria-targeted antioxidant consisting of a ubiquinone moiety linked to a lipophilic triphenylphosphonium (TPP) cation, allowing it to penetrate and accumulate within the inner mitochondrial membrane. It primarily works by reducing mitochondrial reactive oxygen species (ROS) and is used to mitigate oxidative stress-related damage in aging, vascular health, and chronic fatigue conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of Mitoquinone (MitoQ) Supplementation on Aerobic Exercise Performance and Oxidative Damage: A Systematic Review and Meta-analysis",
+      "summary": "This meta-analysis found that while MitoQ significantly reduces exercise-induced oxidative damage, it does not improve aerobic endurance performance in healthy subjects, though it may benefit those with peripheral artery disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38981985/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chronic Supplementation With a Mitochondrial Antioxidant (MitoQ) Improves Vascular Function in Healthy Older Adults",
+      "summary": "This human trial demonstrated that MitoQ supplementation improves vascular endothelial function and reduces arterial stiffness in older adults by lowering mitochondrial oxidative stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29661838/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "MitoQ supplementation augments acute exercise-induced increases in muscle PGC1α mRNA and improves training-induced increases in peak power independent of mitochondrial content and function in untrained middle-aged men",
+      "summary": "Research indicates MitoQ can enhance mitochondrial signaling and peak power output during training in middle-aged men without necessarily changing overall mitochondrial density.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35623315/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondria-targeted therapy with metformin and MitoQ reduces oxidative stress, improves mitochondrial function, and restores metabolic homeostasis in a murine model of Gulf War Illness",
+      "summary": "MitoQ combined with metformin was shown to activate AMPK signaling, reduce inflammation, and alleviate symptoms of chronic fatigue and muscle impairment in a model of Gulf War Illness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40544605/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondria as Nutritional Targets to Maintain Muscle Health and Physical Function During Ageing",
+      "summary": "A review identifying MitoQ as a key nutritional intervention to improve mitochondrial quality control and physical function during the aging process.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39060742/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally view MitoQ as a premium, science-backed mitochondrial support supplement that is effective for systemic energy and longevity, though some find the high price point difficult to justify compared to standard CoQ10."
+  },
+  "effects": [
+    {
+      "label": "Longevity vs. Performance:",
+      "description": "Highly effective for reducing cellular damage and supporting longevity, but evidence is weak for immediate athletic performance enhancement."
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Significant advantage over standard CoQ10 due to its TPP cation, which allows it to cross the mitochondrial membrane."
+    },
+    {
+      "label": "Specific Populations:",
+      "description": "Shows higher efficacy in older adults or those with pre-existing mitochondrial dysfunction compared to young, healthy athletes."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Often combined successfully with PQQ or Metformin for enhanced metabolic and mitochondrial biogenesis effects."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "20mg daily is the most common clinically studied dose for general health and vascular benefits."
+    },
+    {
+      "label": "Maintenance Dose:",
+      "description": "Some users report maintaining benefits on 10mg daily to reduce the high monthly cost."
+    },
+    {
+      "label": "Upper Limit:",
+      "description": "Some specific formulations, like 'Blood Sugar' variants, contain up to 1000mcg of Chromium, which users note should be monitored for DNA safety concerns."
+    },
+    {
+      "label": "Morning Intake:",
+      "description": "Usually taken in the morning (often fasted) to capitalize on energy support throughout the day."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Upset:",
+      "description": "Some users report mild nausea if taken on a completely empty stomach."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Potential for sleep disruption if taken too late in the day due to increased energy levels."
+    },
+    {
+      "label": "Cost-to-Benefit Ratio:",
+      "description": "While not a physical side effect, the high price is the most cited 'negative' by users."
+    },
+    {
+      "label": "Blood Sugar Impact:",
+      "description": "Variants containing Chromium Picolinate may influence glucose levels, requiring monitoring for those on diabetic medication."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Proprietary Nature:",
+      "description": "MitoQ is a patented molecule, meaning it is primarily available through specific brand-authorized channels."
+    },
+    {
+      "label": "Dietary Supplement Status:",
+      "description": "Readily available over-the-counter as a nutritional supplement in most regions."
+    }
+  ],
+  "related": [
+    {
+      "name": "FAD",
+      "slug": "fad"
+    },
+    {
+      "name": "FMN",
+      "slug": "fmn"
+    },
+    {
+      "name": "NAD+ BOOSTERS (NMN/NR)",
+      "slug": "nad-boosters-nmn-nr"
+    },
+    {
+      "name": "NAD+",
+      "slug": "nad"
+    },
+    {
+      "name": "NADH",
+      "slug": "nadh"
+    }
+  ]
+}

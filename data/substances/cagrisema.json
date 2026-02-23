@@ -1,0 +1,127 @@
+{
+  "slug": "cagrisema",
+  "url": "https://dopamine.club/substances/cagrisema/",
+  "scrapedAt": "2026-02-12T16:06:19.075Z",
+  "title": "CAGRISEMA",
+  "description": "CagriSema is a fixed-dose combination injectable peptide consisting of semaglutide, a GLP-1 receptor agonist, and cagrilintide, a long-acting amylin analogue. It works by targeting dual satiety pathways in the brain to reduce appetite and slow gastric emptying, primarily used for the treatment of obesity and type 2 diabetes.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Creatine supplementation is safe, beneficial throughout the lifespan, and should not be restricted",
+      "summary": "Recent comprehensive reviews confirm that creatine is safe for long-term use across all ages and provides significant physical and cognitive benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38571234/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Creatine Supplementation: An Update",
+      "summary": "Creatine consistently increases lean muscle mass and exercise capacity while offering potential neuroprotective and recovery benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34234039/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of creatine supplementation on muscle strength gains—a meta-analysis and systematic review",
+      "summary": "A meta-analysis confirms that creatine significantly elevates intramuscular stores to enhance energy availability during high-intensity training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39591022/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation",
+      "summary": "High-dose creatine was found to partially reverse cognitive fatigue and metabolic changes in the brain during periods of acute sleep deprivation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38418503/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 88,
+    "summary": "Users report overwhelming success with long-term supplementation, citing it as a staple for both physical strength and unexpected 'brain fog' relief."
+  },
+  "effects": [
+    {
+      "label": "Strength Gains:",
+      "description": "Consistently rated as the most effective legal supplement for increasing 1RM (one-rep max) and explosive power."
+    },
+    {
+      "label": "Mental Stamina:",
+      "description": "High-dose protocols (15g+) appear efficacious for users dealing with neurological fatigue or 'long-COVID' symptoms."
+    },
+    {
+      "label": "Consistency:",
+      "description": "Benefits are most prominent after 2-4 weeks of daily use once muscle stores are fully saturated."
+    },
+    {
+      "label": "Reliability:",
+      "description": "Unlike many 'hyped' supplements, users frequently note this is one of the few that provides measurable objective results."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Maintenance:",
+      "description": "5g daily is the most common and sustainable dose for general health and athletic performance."
+    },
+    {
+      "label": "High-Dose Protocol:",
+      "description": "10-15g daily has been utilized by some users to address severe cognitive fatigue or larger muscle masses."
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "20g daily for 5-7 days is often used to saturate muscles quickly, though many users skip this to avoid GI distress."
+    },
+    {
+      "label": "Saturation Dosing:",
+      "description": "0.35g/kg of body weight is sometimes used as a single acute dose for temporary cognitive rescue during sleep deprivation."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Weight Gain:",
+      "description": "Initial 2-5 lbs increase due to intracellular water retention, which some users mistake for fat gain."
+    },
+    {
+      "label": "Digestive Distress:",
+      "description": "Occasional bloating or diarrhea if taken in large doses on an empty stomach without enough water."
+    },
+    {
+      "label": "Mineral Depletion:",
+      "description": "While not common for creatine, users of other long-term supplements (like NAC) warn about monitoring trace minerals like zinc."
+    },
+    {
+      "label": "Hair/Skin Changes:",
+      "description": "Anecdotal reports of changes are rare but frequently discussed; scientific literature generally does not support a causal link."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Over-the-counter and widely available globally as a dietary supplement."
+    },
+    {
+      "label": "Form Preference:",
+      "description": "Creatine Monohydrate remains the gold standard for cost-effectiveness and proven research results."
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "CAGRILINTIDE",
+      "slug": "cagrilintide"
+    },
+    {
+      "name": "CHITOSAN",
+      "slug": "chitosan"
+    }
+  ]
+}

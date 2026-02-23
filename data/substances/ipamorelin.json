@@ -1,0 +1,136 @@
+{
+  "slug": "ipamorelin",
+  "url": "https://dopamine.club/substances/ipamorelin/",
+  "scrapedAt": "2026-02-12T16:08:52.269Z",
+  "title": "IPAMORELIN",
+  "description": "Ipamorelin is the most selective GHRP, producing clean GH release without significantly affecting cortisol, prolactin, or appetite. It's considered the 'cleanest' growth hormone releasing peptide with minimal side effects.",
+  "categories": [
+    "Peptide",
+    "GH"
+  ],
+  "research": [
+    {
+      "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+      "summary": "Study examining how ipamorelin affects hormone levels in healthy males, showing dose-dependent growth hormone release with a short duration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+      "summary": "Testing safety and effectiveness of ipamorelin in treating postoperative ileus after bowel surgery; found well-tolerated but no significant improvement over placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males",
+      "summary": "Explores growth hormone secretagogues like ipamorelin as potential therapies for male hypogonadism and improving body composition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32257855/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ipamorelin, a new growth-hormone-releasing peptide, induces longitudinal bone growth in rats",
+      "summary": "Ipamorelin significantly increased bone growth rate and body weight in female rats in a dose-dependent manner.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1096637499999987",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The growth hormone secretagogue ipamorelin counteracts glucocorticoid-induced decrease in bone formation of adult rats",
+      "summary": "Combined ipamorelin with steroid treatment improved muscle strength and bone formation compared to steroid alone.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1096637401902394",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The GH secretagogues ipamorelin and GH-releasing peptide-6 increase bone mineral content in adult female rats",
+      "summary": "Both ipamorelin and GHRP-6 increased bone mineral content and body weight in young adult female rats.",
+      "url": "https://joe.bioscientifica.com/view/journals/joe/165/3/569.xml",
+      "source": "(Journal of Endocrinology)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Highly regarded for its clean effects and excellent tolerability. Users prefer it for GH benefits without hunger stimulation or hormonal disruption. Often the recommended starting GHRP."
+  },
+  "effects": [
+    {
+      "label": "Reliable Results:",
+      "description": "Consistent GH release with excellent tolerability."
+    },
+    {
+      "label": "Beginner-Friendly:",
+      "description": "Often recommended as first GHRP."
+    },
+    {
+      "label": "Synergistic:",
+      "description": "Combines well with CJC-1295 for amplified effects."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "100-300mcg per injection, 2-3 times daily."
+    },
+    {
+      "label": "Timing:",
+      "description": "Best on empty stomach, especially before bed."
+    },
+    {
+      "label": "Subcutaneous:",
+      "description": "Administered via subcutaneous injection."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal:",
+      "description": "Fewest side effects of any GHRP."
+    },
+    {
+      "label": "Possible Head Rush:",
+      "description": "Some experience temporary sensation post-injection."
+    },
+    {
+      "label": "Water Retention:",
+      "description": "Mild, less than other GHRPs."
+    },
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Excellent safety profile."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Popular Choice:",
+      "description": "Widely stocked due to popularity."
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Source from reputable vendors."
+    }
+  ],
+  "related": [
+    {
+      "name": "IBUTAMOREN (MK-677)",
+      "slug": "ibutamoren-mk-677"
+    },
+    {
+      "name": "CJC-1295",
+      "slug": "cjc-1295"
+    },
+    {
+      "name": "CJC+DAC",
+      "slug": "cjc-dac"
+    },
+    {
+      "name": "GHRP-2",
+      "slug": "ghrp-2"
+    },
+    {
+      "name": "GHRP-6",
+      "slug": "ghrp-6"
+    }
+  ]
+}

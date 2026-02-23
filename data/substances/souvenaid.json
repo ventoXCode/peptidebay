@@ -1,0 +1,155 @@
+{
+  "slug": "souvenaid",
+  "url": "https://dopamine.club/substances/souvenaid/",
+  "scrapedAt": "2026-02-12T16:11:23.400Z",
+  "title": "SOUVENAID",
+  "description": "Souvenaid is a medical food supplement containing Fortasyn Connect, a patented combination of omega-3 fatty acids (EPA/DHA), uridine monophosphate, choline, phospholipids, B vitamins, and antioxidants. It was specifically developed to support synapse formation and function in Alzheimer's disease by providing nutritional precursors needed for neuronal membrane synthesis and maintenance.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The effects of omega-3, DHA, EPA, Souvenaid in Alzheimer's disease: A systematic review and meta-analysis",
+      "summary": "Meta-analysis of 14 studies with 2,766 subjects found that CDR scale showed reduced progression of cognitive decline with n-3-PUFA supplementation, though MMSE, ADAS-cog, and adverse events showed no significant differences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38924283/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Souvenaid for Alzheimer's disease",
+      "summary": "Cochrane systematic review examining the effects of Souvenaid on incidence of dementia, cognition, functional performance, and safety in people with Alzheimer's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33320335/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of Souvenaid Combined with Acetylcholinesterase Inhibitors in the Treatment of Mild Alzheimer's Disease",
+      "summary": "Retrospective study of 220 patients found combination therapy of Souvenaid with AChEI showed improvements in cognitive function (MMSE, RAVLT, SDMT) and functional capacity compared to either treatment alone over 12 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36641676/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Souvenaid in the management of mild cognitive impairment: an expert consensus opinion",
+      "summary": "International expert panel reviewed evidence and recommended Souvenaid as an option for patients with early Alzheimer's disease, including MCI due to AD (prodromal AD), as part of a multimodal approach with lifestyle modifications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31421681/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Assessment of a Potential Synergistic Effect of Souvenaid in Mild Alzheimer's Disease Patients on Treatment with Acetylcholinesterase Inhibitors",
+      "summary": "Six-month observational study found Souvenaid combined with AChE inhibitors showed significantly lower increases in CDR scale progression compared to AChE inhibitors alone or no treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33682712/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Souvenaid reduces behavioral deficits and improves social cognition skills in frontotemporal dementia: a proof-of-concept study",
+      "summary": "Randomized crossover trial in 26 patients with behavioral variant FTD showed Souvenaid improved executive functions, social cognition, and reduced behavioral disturbances after 12 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25592742/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Economic evaluation of supplementing the diet with Souvenaid in patients with prodromal Alzheimer's disease",
+      "summary": "Economic analysis found Souvenaid supplementation in prodromal AD patients showed potential cost-effectiveness benefits in delaying progression to dementia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33308302/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Analgesic and Anxiolytic Effect of Souvenaid, a Novel Nutraceutical, Is Mediated by Alox15 Activity in the Prefrontal Cortex",
+      "summary": "Animal study demonstrated Souvenaid exhibited analgesic and anxiolytic effects mediated through Alox15 enzyme activity in the prefrontal cortex, suggesting broader therapeutic potential beyond cognitive effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27696115/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences show modest benefits for memory and cognitive function, particularly when combined with other interventions, though effects are subtle and take several weeks to manifest. Some users report improvements in recall and mental clarity, while others find benefits difficult to distinguish from placebo."
+  },
+  "effects": [
+    {
+      "label": "Onset Time:",
+      "description": "Benefits typically require 3-4 weeks of consistent use before becoming noticeable"
+    },
+    {
+      "label": "Target Population:",
+      "description": "Most effective in individuals with mild cognitive impairment or early-stage Alzheimer's disease rather than healthy adults"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Shows enhanced efficacy when used alongside AChE inhibitors compared to either treatment alone"
+    },
+    {
+      "label": "Modest Effects:",
+      "description": "Clinical improvements tend to be gradual and modest rather than dramatic; primarily slows decline"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "125ml daily (one serving) as recommended by manufacturer for Souvenaid"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically taken once daily, often with breakfast or as directed by healthcare provider"
+    },
+    {
+      "label": "Uridine Stack Alternative:",
+      "description": "Some users create DIY versions using uridine monophosphate (500-1000mg), DHA/EPA, and choline as more cost-effective option"
+    },
+    {
+      "label": "Duration:",
+      "description": "Research protocols typically range from 12 weeks to 24 months for assessment of cognitive benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal:",
+      "description": "Most common adverse events reported are mild GI symptoms including nausea and diarrhea"
+    },
+    {
+      "label": "Tolerability:",
+      "description": "Generally well-tolerated with low discontinuation rates in clinical trials"
+    },
+    {
+      "label": "Minimal Serious Effects:",
+      "description": "No significant safety concerns reported in long-term studies spanning up to 2 years"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Side effects appear minimal and uncommon based on clinical trial data"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Medical Food Status:",
+      "description": "Available as a medical food in many countries, often requiring healthcare provider recommendation"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Souvenaid is expensive; some users opt for DIY 'Mr. Happy Stack' using individual components (uridine, DHA, choline)"
+    },
+    {
+      "label": "Prescription Status:",
+      "description": "Does not require prescription in most regions but is typically recommended by physicians specializing in cognitive disorders"
+    }
+  ],
+  "related": [
+    {
+      "name": "IDRA-21",
+      "slug": "idra-21"
+    },
+    {
+      "name": "L-SERINE",
+      "slug": "l-serine"
+    },
+    {
+      "name": "N-ACETYL SEMAX",
+      "slug": "n-acetyl-semax"
+    },
+    {
+      "name": "NOBILETIN",
+      "slug": "nobiletin"
+    },
+    {
+      "name": "P21",
+      "slug": "p21"
+    }
+  ]
+}

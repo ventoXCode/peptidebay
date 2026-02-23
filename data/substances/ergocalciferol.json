@@ -1,0 +1,119 @@
+{
+  "slug": "ergocalciferol",
+  "url": "https://dopamine.club/substances/ergocalciferol/",
+  "scrapedAt": "2026-02-12T16:07:40.041Z",
+  "title": "ERGOCALCIFEROL",
+  "description": "Ergocalciferol (Vitamin D2) is a fat-soluble vitamin derived from plants and fungi that must undergo two hydroxylation steps in the body to become biologically active. It promotes calcium absorption, supports bone health, and plays roles in immune function, cell growth, and inflammation reduction. While commonly prescribed for vitamin D deficiency, research suggests D3 (cholecalciferol) may be more effective at raising and maintaining serum vitamin D levels.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Relative Efficacy of Vitamin D2 and Vitamin D3 in Improving Vitamin D Status: Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis found that vitamin D3 (cholecalciferol) is more effective than vitamin D2 (ergocalciferol) at raising and maintaining serum 25-hydroxyvitamin D levels, with D3 showing superior efficacy in correcting vitamin D deficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34684328/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cholecalciferol v. Ergocalciferol for 25-hydroxyvitamin D (25(OH)D) repletion in chronic kidney disease: a randomised clinical trial",
+      "summary": "Randomized trial in chronic kidney disease patients demonstrated that cholecalciferol (D3) was significantly more effective than ergocalciferol (D2) for achieving target vitamin D levels and maintaining them over time.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28065190/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users report that while vitamin D supplementation can help with deficiency-related symptoms like fatigue and mood issues, D2 (ergocalciferol) is generally considered inferior to D3. Many users switched from prescribed D2 to over-the-counter D3 for better results, and some report frustration with doctors prescribing high-dose D2 weekly instead of daily D3."
+  },
+  "effects": [
+    {
+      "label": "Lower Efficacy vs D3:",
+      "description": "Multiple studies and user reports confirm D2 is less effective than D3 at raising and maintaining serum vitamin D levels"
+    },
+    {
+      "label": "Requires Higher Doses:",
+      "description": "Users often need higher or more frequent doses of D2 compared to D3 to achieve the same blood level improvements"
+    },
+    {
+      "label": "Variable Absorption:",
+      "description": "Some users report D2 fails to correct deficiency even at high prescription doses (50,000 IU weekly), possibly due to cofactor deficiencies"
+    },
+    {
+      "label": "Best for Severe Deficiency:",
+      "description": "Most effective when used short-term to correct severe deficiency, then switching to daily D3 for maintenance"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Prescription Protocol:",
+      "description": "Doctors commonly prescribe 50,000 IU ergocalciferol weekly or twice weekly for severe deficiency"
+    },
+    {
+      "label": "Duration Concerns:",
+      "description": "Users report being on high-dose D2 for extended periods (6-12 weeks) with suboptimal results"
+    },
+    {
+      "label": "Cofactor Requirements:",
+      "description": "Effectiveness requires adequate magnesium and vitamin K2; users recommend taking these alongside any vitamin D supplementation"
+    },
+    {
+      "label": "Daily D3 Preferred:",
+      "description": "Most users and experts recommend switching to 2,000-10,000 IU daily D3 instead of weekly D2 megadoses"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Poor Absorption:",
+      "description": "Many users report D2 fails to raise blood levels adequately even at high doses, suggesting absorption issues"
+    },
+    {
+      "label": "Requires Cofactors:",
+      "description": "Without magnesium and K2, users report side effects like muscle twitches, anxiety, and calcium distribution problems"
+    },
+    {
+      "label": "Weekly Dosing Issues:",
+      "description": "Large weekly doses may cause fluctuating levels rather than stable daily levels, potentially affecting efficacy"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users respond poorly to D2 while responding well to D3, suggesting metabolic differences in processing the two forms"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Common:",
+      "description": "D2 is often prescribed by doctors as ergocalciferol in 50,000 IU capsules for deficiency treatment"
+    },
+    {
+      "label": "D3 Preferred OTC:",
+      "description": "Most users recommend purchasing over-the-counter D3 (cholecalciferol) instead, which is widely available and more effective"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Prescription D2 may be covered by insurance, while effective D3 supplements are inexpensive over-the-counter"
+    }
+  ],
+  "related": [
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "DAIDZEIN",
+      "slug": "daidzein"
+    },
+    {
+      "name": "EPA",
+      "slug": "epa"
+    },
+    {
+      "name": "TREMELLA",
+      "slug": "tremella"
+    }
+  ]
+}

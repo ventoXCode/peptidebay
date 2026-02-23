@@ -1,0 +1,155 @@
+{
+  "slug": "quercetin-phytosome",
+  "url": "https://dopamine.club/substances/quercetin-phytosome/",
+  "scrapedAt": "2026-02-12T16:10:53.471Z",
+  "title": "QUERCETIN PHYTOSOME",
+  "description": "Quercetin Phytosome is a specialized delivery system that combines the flavonoid quercetin with food-grade lecithin (phospholipids) to dramatically enhance its bioavailability and absorption. This formulation addresses quercetin's inherent poor solubility and low oral absorption, with clinical studies showing 20-62 fold increases in bioavailability compared to standard quercetin. It works through anti-inflammatory, antioxidant, and immunomodulatory mechanisms, making it effective for allergic conditions, immune support, and inflammatory diseases.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Improved Oral Absorption of Quercetin from Quercetin Phytosome, a New Delivery System Based on Food Grade Lecithin",
+      "summary": "Randomized crossover study in healthy volunteers demonstrated significant improvements in both in vitro solubility and oral absorption (exposure and maximum concentration) with Quercetin Phytosome compared to unformulated quercetin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30328058/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of repeated oral intake of a quercetin-containing supplement on allergic reaction: a randomized, placebo-controlled, double-blind parallel-group study",
+      "summary": "Four-week supplementation with 200mg quercetin phytosome significantly reduced allergic symptoms including eye itching, sneezing, and rhinorrhea in subjects with pollinosis compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35776034/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Improving quercetin bioavailability: A systematic review and meta-analysis of human intervention studies",
+      "summary": "Comprehensive review of 31 human studies found that lecithin phytosome formulations showed a 20.1-fold increase in quercetin bioavailability compared to quercetin aglycone, with self-emulsifying formulations showing up to 62-fold increases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40037045/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Promising Effects of 3-Month Period of Quercetin Phytosome Supplementation in the Prevention of Symptomatic COVID-19 Disease in Healthcare Workers: A Pilot Study",
+      "summary": "Three-month supplementation with 250mg quercetin phytosome twice daily showed promising effects in preventing symptomatic COVID-19 in healthcare workers compared to placebo in a pilot study of 120 subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35054459/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Two-month period of 500mg lecithin-based delivery form of quercetin daily dietary supplementation counterbalances chronic fatigue symptoms: A double-blind placebo controlled clinical trial",
+      "summary": "Daily supplementation with 500mg quercetin phytosome for two months significantly improved chronic fatigue symptoms through antioxidant, anti-inflammatory, and immunomodulating mechanisms in a double-blind controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37716119/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Supplementary prevention and management of asthma with quercetin phytosome: a pilot registry",
+      "summary": "Pilot registry study found that quercetin phytosome supplementation combined with standard management significantly reduced asthma signs and symptoms in subjects with mild-to-moderate asthmatic attacks after 30 days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31578841/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quercetin phytosome in triathlon athletes: a pilot registry study",
+      "summary": "Supplementation with quercetin phytosome in amateur triathlon athletes demonstrated enhanced recovery and reduced post-training pain, supporting its role in managing oxidative stress and improving athletic recovery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29947492/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quercetin and Its Lecithin-Based Formulation: Potential Applications for Allergic Diseases Based on a Narrative Review",
+      "summary": "Narrative review highlights quercetin's anti-inflammatory, immunomodulatory, and antioxidant effects targeting type 2-driven allergic inflammation, with lecithin-based formulations improving bioavailability and clinical efficacy for allergic conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40362785/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report strong effectiveness for immune support, allergies, and inflammation, with many praising its bioavailability advantages over standard quercetin. The majority of users recommend it and report noticeable benefits, particularly when combined with zinc for cold/flu prevention and recovery."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability Advantage:",
+      "description": "Users and research consistently confirm phytosome formulations are significantly more effective than standard quercetin, with noticeable differences in results"
+    },
+    {
+      "label": "Cold/Flu Prevention:",
+      "description": "Particularly effective when taken at first symptoms combined with 50-100mg zinc, with many users reporting ability to prevent full onset of illness"
+    },
+    {
+      "label": "Chronic Condition Management:",
+      "description": "Shows sustained effectiveness for ongoing conditions like allergies and inflammation when taken long-term (3+ years)"
+    },
+    {
+      "label": "Timing Sensitivity:",
+      "description": "Most effective when taken preventatively or at very first sign of symptoms rather than after illness is established"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "250-500mg daily for general immune support and prevention, with phytosome formulations requiring lower doses than regular quercetin"
+    },
+    {
+      "label": "Acute Treatment:",
+      "description": "500-1000mg when fighting active infection or severe allergies, often split into multiple doses throughout the day"
+    },
+    {
+      "label": "Long-Term Use:",
+      "description": "250mg daily appears safe and effective for years of continuous use based on user reports spanning 3-12 years"
+    },
+    {
+      "label": "Combination Protocol:",
+      "description": "250-500mg quercetin phytosome + 50-100mg zinc at first sign of cold, with some users adding vitamin C and NAC for enhanced effect"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report no significant side effects even with long-term daily use spanning multiple years"
+    },
+    {
+      "label": "Iron Chelation:",
+      "description": "May reduce iron levels due to natural iron-chelating properties; users with low iron should monitor levels"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Acts as cytochrome P450 inhibitor, potentially interacting with medications; users should consult healthcare providers"
+    },
+    {
+      "label": "Minimal Withdrawal:",
+      "description": "Some users note mild anxiety or return of symptoms when stopping after extended use, suggesting gradual tapering may be beneficial"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Users emphasize importance of verified phytosome formulations (Quercefit, quality brands, Indena) rather than generic quercetin for effectiveness"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Readily accessible through major supplement retailersand specialized brands, though quality varies significantly"
+    },
+    {
+      "label": "Cost Consideration:",
+      "description": "Phytosome formulations cost more than regular quercetin but users report better value due to superior absorption and lower required doses"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    }
+  ]
+}

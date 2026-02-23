@@ -1,0 +1,138 @@
+{
+  "slug": "cordyceps",
+  "url": "https://dopamine.club/substances/cordyceps/",
+  "scrapedAt": "2026-02-12T16:06:57.320Z",
+  "title": "CORDYCEPS",
+  "description": "Cordyceps is a genus of parasitic fungi used in traditional Chinese medicine for centuries. Modern research shows it may enhance athletic performance, oxygen utilization, and provide anti-aging and immune-modulating benefits.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Cordycepin for Health and Wellbeing: A Potent Bioactive Metabolite of an Entomopathogenic Medicinal Fungus Cordyceps with Its Nutraceutical and Therapeutic Potential",
+      "summary": "Cordycepin, a bioactive component of Cordyceps mushroom, has significant nutraceutical and therapeutic potential for maintaining good health and promoting overall well being.",
+      "url": "https://doi.org/10.3390/molecules25122735",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "The genus Cordyceps: a chemical and pharmacological review",
+      "summary": "Cordyceps species, particularly C. sinensis and C. militaris, demonstrate potential as chemotherapeutic agents due to their chemistry and pharmacological activity.",
+      "url": "https://doi.org/10.1111/j.2042-7158.2012.01601.x",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "Bidirectional regulatory effects of Cordyceps on arrhythmia: Clinical evaluations and network pharmacology",
+      "summary": "Cordyceps exhibits positive effects on treating arrhythmia through regulation of adrenergic signaling in cardiomyocytes and the PI3K-Akt signaling pathway.",
+      "url": "https://doi.org/10.3389/fphar.2022.948173",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "Effect of Cordyceps spp. and Cordycepin on Functions of Bones and Teeth and Related Processes",
+      "summary": "Cordyceps species and cordycepin show potential in developing regenerative medicines for bone and tooth health, expanding treatment options for osteoporosis.",
+      "url": "https://doi.org/10.3390/molecules27238170",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "Cordyceps spp.: A Review on Its Immune-Stimulatory and Other Biological Potentials",
+      "summary": "Cordyceps species demonstrate potential in immune stimulation, nitric oxide production, and other pharmacological activities.",
+      "url": "https://doi.org/10.3389/fphar.2020.602364",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "Efficacy of Cordyceps sinensis as an adjunctive treatment in kidney transplant patients",
+      "summary": "Cordyceps as an adjuvant to routine immunosuppressant therapy may benefit kidney transplant patients, though higher-quality evidence is needed.",
+      "url": "https://doi.org/10.1016/j.ctim.2016.12.007",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Bioactive compounds from Cordyceps and their therapeutic potential",
+      "summary": "Cordyceps species produce over 200 bioactive compounds exhibiting anti-microbial, anti-apoptotic, anti-cancer, anti-inflammatory, antioxidant, and immunomodulatory properties.",
+      "url": "https://doi.org/10.1080/07388551.2023.2231139",
+      "source": "(Taylor and Francis Online)"
+    }
+  ],
+  "sentiment": {
+    "positive": 70,
+    "summary": "Users report improved endurance, energy, and exercise performance. Effects are subtle but consistent. Quality and species of cordyceps can significantly impact results."
+  },
+  "effects": [
+    {
+      "label": "Species Matters:",
+      "description": "Cordyceps militaris shows more consistent results than sinensis."
+    },
+    {
+      "label": "Gradual Benefits:",
+      "description": "Effects build over weeks of consistent use."
+    },
+    {
+      "label": "Athletic Performance:",
+      "description": "Most noticeable benefits during exercise."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "1-3g daily of powder or extract."
+    },
+    {
+      "label": "Standardized Extracts:",
+      "description": "Look for extracts with guaranteed beta-glucan content."
+    },
+    {
+      "label": "Pre-Workout:",
+      "description": "Can be taken before exercise for performance benefits."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Few side effects at normal doses."
+    },
+    {
+      "label": "GI Discomfort:",
+      "description": "Some may experience mild digestive issues."
+    },
+    {
+      "label": "Autoimmune Caution:",
+      "description": "May stimulate immune system; use caution with autoimmune conditions."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in health food stores and online."
+    },
+    {
+      "label": "Quality Varies:",
+      "description": "Choose reputable brands with third-party testing."
+    },
+    {
+      "label": "Cultivated Forms:",
+      "description": "Cordyceps militaris is more sustainable and affordable."
+    }
+  ],
+  "related": [
+    {
+      "name": "DONG QUAI",
+      "slug": "dong-quai"
+    },
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "GINGER",
+      "slug": "ginger"
+    },
+    {
+      "name": "Ginseng",
+      "slug": "ginseng"
+    },
+    {
+      "name": "MACA",
+      "slug": "maca"
+    }
+  ]
+}

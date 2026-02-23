@@ -1,0 +1,97 @@
+{
+  "slug": "cartalax",
+  "url": "https://dopamine.club/substances/cartalax/",
+  "scrapedAt": "2026-02-12T16:06:24.305Z",
+  "title": "CARTALAX",
+  "description": "Cartalax is a synthetic bioregulatory tripeptide (Alanyl-Aspartyl-Glutamic acid) designed to stimulate the regeneration of cartilage and connective tissue. It works by normalizing protein synthesis within chondrocytes, thereby improving the functional state of the musculoskeletal system and slowing degenerative changes in joints and the spine.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Functional peptides for cartilage repair and regeneration",
+      "summary": "This research highlights how functional short peptides like Cartalax can promote the regeneration of cartilaginous tissue and support the repair of the musculoskeletal system.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29511631/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users and clinical descriptions emphasize its effectiveness for joint health, particularly for chronic degenerative conditions or recovery from injury, though it is often discussed within specialized peptide communities."
+  },
+  "effects": [
+    {
+      "label": "Clinical Application:",
+      "description": "Highly effective when used for osteoarthritis, osteochondrosis, and recovery from joint trauma."
+    },
+    {
+      "label": "Preventative Use:",
+      "description": "Valued in anti-aging protocols to maintain joint integrity before severe degradation occurs."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Often reported as more effective when combined with other bioregulators like Sigumir."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Sublingual Form:",
+      "description": "Commonly 2–5 ml daily (containing 0.1 mg of peptide complex) for 10 consecutive days."
+    },
+    {
+      "label": "Standard Capsule Cycle:",
+      "description": "Typically 1-2 capsules once or twice daily for 30 days, repeated every 4–6 months."
+    },
+    {
+      "label": "Maintenance:",
+      "description": "Long-term users often repeat short courses twice a year for sustained musculoskeletal support."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Risks:",
+      "description": "No significant side effects reported in clinical literature due to its nature as a short-chain amino acid complex."
+    },
+    {
+      "label": "Digestive Sensitivity:",
+      "description": "Rare reports of mild stomach upset when taking capsule forms on an empty stomach."
+    },
+    {
+      "label": "Contraindications:",
+      "description": "Generally advised against use during pregnancy or breastfeeding due to lack of specific safety data."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Formats:",
+      "description": "Available as oral capsules, sublingual liquids, and occasionally in injectable protocols for research purposes."
+    },
+    {
+      "label": "Sourcing:",
+      "description": "Primarily sold through specialized peptide distributors and anti-aging clinics; not typically found in standard pharmacies."
+    }
+  ],
+  "related": [
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "FOXO4-DRI",
+      "slug": "foxo4-dri"
+    },
+    {
+      "name": "GHK-Cu",
+      "slug": "ghk-cu"
+    }
+  ]
+}

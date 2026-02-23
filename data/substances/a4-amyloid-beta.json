@@ -1,0 +1,155 @@
+{
+  "slug": "a4-amyloid-beta",
+  "url": "https://dopamine.club/substances/a4-amyloid-beta/",
+  "scrapedAt": "2026-02-12T16:05:19.728Z",
+  "title": "A4 AMYLOID BETA",
+  "description": "A4 Amyloid Beta (Aβ) is a peptide fragment derived from amyloid precursor protein (APP) that accumulates as plaques in the brains of Alzheimer's disease patients. The buildup of Aβ plaques is considered a primary pathological feature of Alzheimer's disease, contributing to neuroinflammation, neuronal dysfunction, and cognitive decline. Reducing Aβ accumulation through various interventions is a major therapeutic target for Alzheimer's prevention and treatment.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Selenium-enriched yeast inhibited β-amyloid production and modulated autophagy in a triple transgenic mouse model of Alzheimer's disease",
+      "summary": "Selenium-enriched yeast supplementation reduced amyloid-beta deposition in the brains of Alzheimer's disease mice, suggesting selenium may help prevent or slow Aβ accumulation through autophagy modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30043821/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of n-3 FA supplementation on the release of proresolving lipid mediators by blood mononuclear cells: the OmegAD study",
+      "summary": "Omega-3 fatty acid supplementation (DHA and EPA) in Alzheimer's patients influenced specialized proresolving mediators that help reduce inflammation, potentially mediating beneficial effects against neuroinflammation associated with Aβ pathology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25616438/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Electroacupuncture ameliorates beta-amyloid pathology and cognitive impairment in Alzheimer disease via a novel mechanism involving activation of TFEB",
+      "summary": "Electroacupuncture treatment reduced beta-amyloid pathology and improved cognitive function in Alzheimer's mice by activating TFEB, which orchestrates the autophagy-lysosomal pathway to clear misfolded proteins.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33622188/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Crocetin promotes clearance of amyloid-β by inducing autophagy via the STK11/LKB1-mediated AMPK pathway",
+      "summary": "Crocetin, a natural compound from saffron, promoted clearance of amyloid-beta by inducing autophagy through the AMPK pathway, suggesting potential therapeutic use for reducing Aβ accumulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33404280/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Trial of Solanezumab in Preclinical Alzheimer's Disease",
+      "summary": "Large clinical trial of solanezumab, an anti-amyloid antibody, in cognitively unimpaired older adults with elevated amyloid levels, evaluating whether targeting Aβ can prevent cognitive decline in preclinical Alzheimer's.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37458272/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Amyloid and Tau Prediction of Cognitive and Functional Decline in Unimpaired Older Individuals: Longitudinal Data from the A4 and LEARN Studies",
+      "summary": "Study found that higher levels of amyloid and tau biomarkers in cognitively normal older individuals predicted greater cognitive and functional decline over time, with plasma P-tau217 showing strong predictive power.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39044488/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Depressive Symptoms and Amyloid Pathology",
+      "summary": "Large multi-cohort study examining the relationship between depression and amyloid pathology, finding associations between depressive symptoms and Aβ accumulation across diverse populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39841452/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Time‐restricted feeding mitigates Alzheimer's disease‐associated cognitive impairments via a B. pseudolongum‐propionic acid‐FFAR3 axis",
+      "summary": "A 4-month time-restricted feeding intervention improved cognitive function in Alzheimer's patients, with mouse studies showing effects were gut microbiota-dependent, involving Bifidobacterium pseudolongum and propionic acid reducing Aβ deposition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User discussions focus predominantly on the negative impact of amyloid-beta accumulation causing depression, cognitive decline, and Alzheimer's disease. Personal experiences shared reflect concern about family history of Alzheimer's and the devastating cognitive effects of Aβ pathology, with limited discussion of successful interventions."
+  },
+  "effects": [
+    {
+      "label": "Autophagy Enhancement:",
+      "description": "Interventions that promote autophagy (selenium, crocetin, electroacupuncture) show promise in clearing Aβ plaques in animal models"
+    },
+    {
+      "label": "Anti-inflammatory Approaches:",
+      "description": "Omega-3 fatty acids and other anti-inflammatory compounds may help reduce Aβ-associated neuroinflammation"
+    },
+    {
+      "label": "Gut-Brain Axis:",
+      "description": "Time-restricted feeding and probiotics (Bifidobacterium species) demonstrate potential for reducing Aβ through gut microbiome modulation"
+    },
+    {
+      "label": "Prevention Focus:",
+      "description": "Research increasingly suggests that interventions are most effective in preclinical stages before significant cognitive decline occurs"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Omega-3 Fatty Acids:",
+      "description": "Studies used 1.7g DHA + 0.6g EPA daily for Alzheimer's patients to influence inflammatory mediators"
+    },
+    {
+      "label": "Selenium:",
+      "description": "Selenium-enriched yeast supplementation showed benefits in animal models for reducing Aβ production"
+    },
+    {
+      "label": "Curcumin:",
+      "description": "Commonly mentioned at 1000mg doses for anti-inflammatory and anti-amyloid effects, though bioavailability remains a concern"
+    },
+    {
+      "label": "Time-Restricted Feeding:",
+      "description": "4-month intervention period showed cognitive improvements in human Alzheimer's patients"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cognitive Impairment:",
+      "description": "Aβ accumulation leads to severe memory problems, difficulty with word retrieval, and brain fog"
+    },
+    {
+      "label": "Depression and Anxiety:",
+      "description": "Amyloid pathology is strongly associated with worsening depression and may amplify stress responses, particularly in APOE4 carriers"
+    },
+    {
+      "label": "Progressive Neurodegeneration:",
+      "description": "Unchecked Aβ buildup results in accelerating cognitive decline and eventual dementia"
+    },
+    {
+      "label": "Family History Impact:",
+      "description": "Users report significant concern about genetic predisposition and witnessing family members' decline from Alzheimer's"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Context:",
+      "description": "Amyloid-beta is primarily studied as a disease marker and therapeutic target rather than a supplement or intervention itself"
+    },
+    {
+      "label": "Intervention Options:",
+      "description": "Natural compounds (curcumin, resveratrol, omega-3s), lifestyle interventions (time-restricted feeding, exercise), and experimental therapies (antibodies) are being researched to reduce Aβ accumulation"
+    },
+    {
+      "label": "Biomarker Testing:",
+      "description": "Amyloid PET scans and plasma biomarkers (P-tau217) are becoming available for detecting Aβ pathology in preclinical stages"
+    }
+  ],
+  "related": [
+    {
+      "name": "HUMANIN",
+      "slug": "humanin"
+    },
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    }
+  ]
+}

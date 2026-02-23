@@ -1,0 +1,131 @@
+{
+  "slug": "d-aspartic-acid",
+  "url": "https://dopamine.club/substances/d-aspartic-acid/",
+  "scrapedAt": "2026-02-12T16:07:00.427Z",
+  "title": "D-ASPARTIC ACID",
+  "description": "D-Aspartic acid (D-Asp) is an amino acid that plays a role in the regulation and synthesis of testosterone in the testes and pituitary gland. It has been marketed as a natural testosterone booster and is commonly used by athletes and bodybuilders seeking to enhance muscle growth, strength, and libido. However, research on its effectiveness in humans, particularly resistance-trained individuals, shows mixed and often contradictory results.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The putative effects of D-Aspartic acid on blood testosterone levels: A systematic review",
+      "summary": "Systematic review found limited evidence supporting D-aspartic acid's testosterone-boosting effects in humans, with most positive results seen only in sedentary men with potentially low baseline testosterone levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28280794/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Three and six grams supplementation of d-aspartic acid in resistance trained men",
+      "summary": "Study found that 6g daily of D-aspartic acid actually decreased total and free testosterone levels in resistance-trained men, while 3g showed no significant effects on hormonal levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25844073/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of d-aspartic acid supplementation in resistance-trained men over a three month training period",
+      "summary": "Three-month study in resistance-trained men found no significant effects of D-aspartic acid supplementation on testosterone levels, muscle strength, or body composition compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28841667/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "D-aspartic acid supplementation combined with 28 days of heavy resistance training",
+      "summary": "Study found that D-aspartic acid supplementation did not increase endogenous testosterone levels or improve muscular performance when combined with resistance training over 28 days.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24074738/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "Users report that D-aspartic acid does provide noticeable effects on libido and erectile function, but scientific evidence contradicts testosterone-boosting claims, particularly for trained individuals. The consensus is that it works primarily as a short-term libido enhancer rather than a genuine testosterone booster."
+  },
+  "effects": [
+    {
+      "label": "Training Status Matters:",
+      "description": "Research shows D-aspartic acid may have minimal effects in resistance-trained men, with some studies showing decreased rather than increased testosterone"
+    },
+    {
+      "label": "Sedentary vs Active:",
+      "description": "The only population showing potential benefits are sedentary men with possibly low baseline testosterone levels"
+    },
+    {
+      "label": "Dose-Dependent Concerns:",
+      "description": "Higher doses (6g) have been shown to decrease testosterone rather than increase it in trained individuals"
+    },
+    {
+      "label": "Inconsistent Results:",
+      "description": "Scientific literature reveals contradictory findings, with systematic reviews finding limited evidence for effectiveness in humans"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Dosage Range:",
+      "description": "Most studies test 3-6 grams daily, typically taken in the morning"
+    },
+    {
+      "label": "Lower May Be Better:",
+      "description": "3g appears safer than 6g, which has been shown to decrease testosterone in some populations"
+    },
+    {
+      "label": "Duration Concerns:",
+      "description": "Studies ranging from 28 days to 3 months show diminishing or negative effects over time"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Some users suggest cycling on and off to maintain effectiveness for libido benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Testosterone Reduction:",
+      "description": "Higher doses (6g) have been shown to significantly reduce total and free testosterone in resistance-trained men"
+    },
+    {
+      "label": "Hormonal Imbalance:",
+      "description": "May affect the hypothalamic-pituitary-gonadal axis in ways that are not fully understood"
+    },
+    {
+      "label": "No Change in Other Hormones:",
+      "description": "Studies show no concurrent changes in estradiol, SHBG, or albumin levels"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Response appears highly individual with no correlation between initial testosterone levels and responsiveness"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold as an over-the-counter supplement in powder and capsule form by numerous brands"
+    },
+    {
+      "label": "Marketing vs Reality:",
+      "description": "Heavily marketed as a testosterone booster despite limited scientific evidence supporting this claim in trained individuals"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "As with many supplements, purity and actual content may vary between brands and products"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "FOLINIC ACID",
+      "slug": "folinic-acid"
+    },
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    },
+    {
+      "name": "HUMIC ACID",
+      "slug": "humic-acid"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "melanotan-1",
+  "url": "https://dopamine.club/substances/melanotan-1/",
+  "scrapedAt": "2026-02-12T16:09:29.074Z",
+  "title": "MELANOTAN 1",
+  "description": "Melanotan 1 (Afamelanotide) is a synthetic analog of alpha-MSH that stimulates melanin production, causing skin darkening without sun exposure. It's FDA-approved for certain conditions and provides photoprotection for those with light sensitivity.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "In vitro evaluation of Poly(d,l-lactide-co-glycolide) polymer-based implants containing the α-melanocyte stimulating hormone analog, Melanotan-I",
+      "summary": "Study examined release patterns of Melanotan-I from biodegradable PLGA implants, observing three-phase release.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0168365996015441",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "An unhealthy glow? A review of melanotan use and associated clinical outcomes",
+      "summary": "Literature review on Melanotan I and II effects, identifying minor and serious adverse effects including toxidrome and melanoma.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2211266915000055",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Controlled-Release Delivery System for the α-MSH Analog Melanotan-I Using Poloxamer 407",
+      "summary": "Researchers developed controlled-release formulations using poloxamer 407 with additives for sustained delivery.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022354915501469",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "In vitro characterization and in vivo release profile of a poly (d,l-lactide-co-glycolide)-based implant delivery system for the α-MSH analog, Melanotan-I",
+      "summary": "Researchers developed biodegradable copolymer implants for sustained Melanotan-I delivery, demonstrating steady release over one month.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378517398001495",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Effect of MELANOTAN®, [Nle4, D-Phe7]-α-MSH, on melanin synthesis in humans with MC1R variant alleles",
+      "summary": "Study found MELANOTAN® significantly increased melanin, especially in those with MC1R genetic variants.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0196978105004511",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users seeking tanning without sun exposure report good results. Slower acting than MT-2 but considered safer. FDA approval for EPP lends legitimacy."
+  },
+  "effects": [
+    {
+      "label": "Slower Than MT-2:",
+      "description": "Takes longer to produce visible tanning."
+    },
+    {
+      "label": "More Natural:",
+      "description": "Produces more gradual, natural-looking results."
+    },
+    {
+      "label": "FDA Approved:",
+      "description": "Scenesse approved for erythropoietic protoporphyria."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "0.5-1mg subcutaneously daily."
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Often 1mg daily until desired tan achieved."
+    },
+    {
+      "label": "Maintenance:",
+      "description": "Reduced frequency once tan established."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Nausea:",
+      "description": "Common, especially initially."
+    },
+    {
+      "label": "Facial Flushing:",
+      "description": "Temporary redness after injection."
+    },
+    {
+      "label": "Mole Darkening:",
+      "description": "Existing moles may darken."
+    },
+    {
+      "label": "Safer Profile:",
+      "description": "Fewer side effects than MT-2."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription:",
+      "description": "FDA-approved as Scenesse for EPP."
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "Also available from peptide suppliers."
+    },
+    {
+      "label": "Higher Cost:",
+      "description": "Generally more expensive than MT-2."
+    }
+  ],
+  "related": [
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    }
+  ]
+}

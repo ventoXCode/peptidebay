@@ -1,0 +1,125 @@
+{
+  "slug": "benfotiamine",
+  "url": "https://dopamine.club/substances/benfotiamine/",
+  "scrapedAt": "2026-02-12T16:06:03.983Z",
+  "title": "BENFOTIAMINE",
+  "description": "Benfotiamine is a synthetic, fat-soluble derivative of thiamine (vitamin B1) that exhibits significantly higher bioavailability and tissue penetration than standard water-soluble thiamine. It works by activating the enzyme transketolase to inhibit harmful metabolic pathways triggered by high glucose, and it is primarily used to treat diabetic neuropathy and age-related cognitive decline.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Benfotiamine and Cognitive Decline in Alzheimer's Disease: Results of a Randomized Placebo-Controlled Phase IIa Clinical Trial",
+      "summary": "This clinical trial found that benfotiamine significantly slowed cognitive decline and improved brain glucose metabolism in patients with mild Alzheimer's disease over 12 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33074237/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "BOND study: a randomised double-blind, placebo-controlled trial over 12 months to assess the effects of benfotiamine on morphometric, neurophysiological and clinical measures in patients with type 2 diabetes with symptomatic polyneuropathy",
+      "summary": "This study evaluated whether long-term benfotiamine supplementation could improve nerve function and clinical symptoms in diabetic patients with nerve damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35115359/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Advances in the management of diabetic neuropathy",
+      "summary": "A review highlighting benfotiamine's ability to inhibit damaging glucose-driven pathways, making it a key pathogenetically oriented treatment for neuropathic complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28541026/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Benfotiamine in diabetic polyneuropathy (BENDIP): results of a randomised, double blind, placebo-controlled clinical study",
+      "summary": "Clinical results showed that higher doses of benfotiamine led to significant improvements in neuropathy pain scores compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18473286/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A double-blind, randomized, placebo-controlled clinical trial on benfotiamine treatment in patients with diabetic nephropathy",
+      "summary": "Research investigating the potential for benfotiamine to protect kidney function by reducing the production of advanced glycation end products (AGEs).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20413516/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users overwhelmingly report success using benfotiamine for nerve pain and neuropathy, often describing it as more effective than standard B-vitamins with very few side effects."
+  },
+  "effects": [
+    {
+      "label": "Superior Bioavailability:",
+      "description": "Highly effective compared to thiamine HCl because its fat-soluble nature allows it to cross cell membranes easily."
+    },
+    {
+      "label": "Neuropathy Pain:",
+      "description": "Consistently rated as an effective intervention for diabetic and alcoholic nerve damage in both clinical trials and user reports."
+    },
+    {
+      "label": "Alcohol Recovery:",
+      "description": "Used effectively to replenish thiamine levels in those recovering from severe alcohol dependence."
+    },
+    {
+      "label": "Dose-Dependent:",
+      "description": "Effectiveness often increases with higher dosages, particularly for chronic nerve pain."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Therapeutic Dose:",
+      "description": "Often taken at 300mg to 600mg daily for neuropathy management."
+    },
+    {
+      "label": "Alzheimer's Protocols:",
+      "description": "Clinical trials have utilized 300mg twice daily (600mg total) for cognitive benefits."
+    },
+    {
+      "label": "Advanced Stacking:",
+      "description": "Users often combine 150-300mg with Alpha-Lipoic Acid for synergistic nerve protection."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Low Toxicity:",
+      "description": "Generally reported to have a very high safety profile with minimal side effects even at high doses."
+    },
+    {
+      "label": "Mild GI Distress:",
+      "description": "Occasional reports of upset stomach if taken on an empty stomach."
+    },
+    {
+      "label": "Skin Rash:",
+      "description": "Rare reports of allergic skin reactions or 'vitamin smells' in sweat at extremely high doses."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Difficulty:",
+      "description": "Users report that high-quality, pure benfotiamine can be harder to find than standard B1, often appearing in 'shady' or niche brands."
+    },
+    {
+      "label": "Supplement Status:",
+      "description": "Widely available as an over-the-counter dietary supplement in the US and Europe."
+    }
+  ],
+  "related": [
+    {
+      "name": "R-ALPHA LIPOIC ACID",
+      "slug": "r-alpha-lipoic-acid"
+    },
+    {
+      "name": "VITAMIN B1 (THIAMINE)",
+      "slug": "vitamin-b1-thiamine"
+    },
+    {
+      "name": "VITAMIN B12 (COBALAMIN)",
+      "slug": "vitamin-b12-cobalamin"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    }
+  ]
+}

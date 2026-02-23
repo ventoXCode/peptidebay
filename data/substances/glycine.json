@@ -1,0 +1,110 @@
+{
+  "slug": "glycine",
+  "url": "https://dopamine.club/substances/glycine/",
+  "scrapedAt": "2026-02-12T16:08:12.779Z",
+  "title": "GLYCINE",
+  "description": "Glycine is a non-essential amino acid that serves as a key neurotransmitter and a precursor to glutathione and collagen. It acts as an inhibitory neurotransmitter in the brain and a co-agonist for NMDA receptors, primarily used to enhance sleep quality, metabolic health, and physical recovery.",
+  "categories": [
+    "Amino Acid",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Glycine ingestion improves subjective sleep quality in human volunteers, correlating with polysomnographic changes",
+      "summary": "Study finding that taking 3g of glycine before bed improves sleep quality and reduces daytime sleepiness by stabilizing sleep architecture.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17430366/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Sleep-Promoting and Hypothermic Effects of Glycine are Mediated by NMDA Receptors in the Suprachiasmatic Nucleus",
+      "summary": "Research demonstrating that glycine promotes sleep by lowering core body temperature through increased peripheral blood flow via NMDA receptor activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25533534/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An Update of the Promise of Glycine Supplementation for Enhancing Physical Performance and Recovery",
+      "summary": "A review of how glycine aids in collagen synthesis and antioxidant protection, supporting muscle recovery and joint health in athletes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39453231/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users overwhelmingly report improved sleep quality and a sense of calm, with many noting its effectiveness as an affordable and transparent addition to a recovery stack."
+  },
+  "effects": [
+    {
+      "label": "Sleep Quality:",
+      "description": "Highly effective at reducing 'sleep morning grogginess' and improving perceived restfulness."
+    },
+    {
+      "label": "Physical Recovery:",
+      "description": "Users report reduced joint pain when taken consistently with collagen or protein."
+    },
+    {
+      "label": "Onset:",
+      "description": "Sleep-promoting effects are typically felt within 30-60 minutes of ingestion."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Sleep Dose:",
+      "description": "3 grams taken approximately one hour before bedtime is the most common and research-backed amount."
+    },
+    {
+      "label": "General Wellness:",
+      "description": "1-2 grams daily for general metabolic support."
+    },
+    {
+      "label": "Athletic Recovery:",
+      "description": "5-10 grams divided throughout the day frequently used by those with high training volumes."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Upset:",
+      "description": "High doses on an empty stomach may cause mild nausea or softening of stools."
+    },
+    {
+      "label": "Vivid Dreams:",
+      "description": "Some users report an increase in dream intensity or frequency during the first week of use."
+    },
+    {
+      "label": "Daytime Drowsiness:",
+      "description": "Rarely reported unless the dose is excessively high or taken late in the morning."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Retail Availability:",
+      "description": "Widely available as an over-the-counter dietary supplement in powder and capsule form."
+    },
+    {
+      "label": "Affordability:",
+      "description": "One of the most cost-effective supplements, often purchased in bulk powder due to its naturally sweet taste."
+    }
+  ],
+  "related": [
+    {
+      "name": "ARGININE",
+      "slug": "arginine"
+    },
+    {
+      "name": "BCAAS",
+      "slug": "bcaas"
+    },
+    {
+      "name": "CITRULLINE",
+      "slug": "citrulline"
+    },
+    {
+      "name": "GLUTAMINE",
+      "slug": "glutamine"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    }
+  ]
+}

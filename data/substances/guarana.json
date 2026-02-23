@@ -1,0 +1,122 @@
+{
+  "slug": "guarana",
+  "url": "https://dopamine.club/substances/guarana/",
+  "scrapedAt": "2026-02-12T16:08:18.324Z",
+  "title": "GUARANA",
+  "description": "Guarana (Paullinia cupana) is an Amazonian plant rich in methylxanthines, particularly caffeine, and polyphenols like catechins and epicatechins. It functions as a central nervous system stimulant and antioxidant, widely used to enhance cognitive performance, reduce fatigue, and support metabolic health.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of the consumption of guarana on human health: A narrative review",
+      "summary": "A comprehensive review highlighting guarana's stimulating, anti-inflammatory, and anti-obesity effects driven by its high content of methylxanthines and flavonoids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34755935/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cognitive effects of guarana supplementation with maximal intensity cycling",
+      "summary": "Research demonstrating that guarana significantly improves reaction times and cognitive performance both before and after high-intensity physical exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36146946/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Guarana provides additional stimulation over caffeine alone in the planarian model",
+      "summary": "Laboratory evidence suggesting that the complex phytochemistry of guarana seeds produces a stronger stimulant effect than anhydrous caffeine alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25880065/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The use of guarana (Paullinia cupana) as a dietary supplement for fatigue in cancer patients",
+      "summary": "A systematic review and meta-analysis evaluating guarana's effectiveness in managing physiological fatigue in clinical populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34146166/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Guarana and Green Tea Consumption on Students' Intellectual Performances",
+      "summary": "A 2025 study found that daily guarana consumption improved reaction speed, memory, and attention scores in university students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40290036/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users overwhelmingly prefer guarana over coffee for its 'smoother' energy delivery and lack of a harsh 'crash,' noting it provides sustained alertness for hours."
+  },
+  "effects": [
+    {
+      "label": "Physical Synergies:",
+      "description": "Highly effective when taken before exercise to maintain cognitive focus under physical strain."
+    },
+    {
+      "label": "Comparison to Caffeine:",
+      "description": "Both research and users suggest guarana out-performs pure caffeine due to its secondary bioactive compounds."
+    },
+    {
+      "label": "Fatigue Reduction:",
+      "description": "Proven effective in reducing both mental fatigue from studying and physical fatigue in clinical settings."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Powder Dose:",
+      "description": "Common supplemental doses range from 500 mg to 2000 mg of seed powder daily."
+    },
+    {
+      "label": "Extract Ratios:",
+      "description": "High-potency extracts are often standardized to 10-22% caffeine, requiring much lower gram dosages."
+    },
+    {
+      "label": "Incremental Dosing:",
+      "description": "Users recommend starting with small doses (200-500 mg) to assess individual sensitivity to its potent stimulant effects."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Insomnia:",
+      "description": "Due to its long half-life, evening consumption can significantly disrupt sleep patterns."
+    },
+    {
+      "label": "Tachycardia:",
+      "description": "Excess intake may lead to a rapid heart rate or palpitations in sensitive individuals."
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report mild stomach upset if taken on an empty stomach without adequate hydration."
+    }
+  ],
+  "availability": [
+    {
+      "label": "GRAS Status:",
+      "description": "Generally Recognized As Safe (GRAS) by the FDA when used as a flavoring or dietary ingredient."
+    },
+    {
+      "label": "Market Forms:",
+      "description": "Widely available as a bulk powder, encapsulated extract, or a key ingredient in 'natural' energy drinks."
+    }
+  ],
+  "related": [
+    {
+      "name": "CATUABA",
+      "slug": "catuaba"
+    },
+    {
+      "name": "CELASTRUS PANICULATUS",
+      "slug": "celastrus-paniculatus"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    },
+    {
+      "name": "NIGELLA SATIVA",
+      "slug": "nigella-sativa"
+    },
+    {
+      "name": "5-AMINO-1MQ",
+      "slug": "5-amino-1mq"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "phosphatidylcholine",
+  "url": "https://dopamine.club/substances/phosphatidylcholine/",
+  "scrapedAt": "2026-02-12T16:10:37.320Z",
+  "title": "PHOSPHATIDYLCHOLINE",
+  "description": "Phosphatidylcholine (PC) is a phospholipid and essential component of cell membranes, particularly abundant in brain tissue and the liver. It serves as a precursor to acetylcholine, a critical neurotransmitter involved in memory, cognition, and neuromuscular function. PC is used as a dietary supplement for cognitive enhancement, liver health, and cellular membrane repair.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Choline supplements: An update",
+      "summary": "Comprehensive review showing that choline supplements including phosphatidylcholine represent an effective strategy for boosting memory and enhancing cognitive function as precursors to acetylcholine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36950691/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of phosphatidylcholine-DHA in preventing APOE4-associated Alzheimer's disease",
+      "summary": "Research demonstrates that phosphatidylcholine-DHA from fish (not supplements) may be more effective for APOE4 carriers in preventing Alzheimer's disease due to better brain transport via lysophosphatidylcholine pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30289748/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Acute Alpha-Glycerylphosphorylcholine Supplementation Enhances Cognitive Performance in Healthy Men",
+      "summary": "Double-blind study showing that alpha-GPC supplementation (a phosphatidylcholine derivative) at 315-630mg significantly enhanced cognitive performance in resistance-trained males 60 minutes after ingestion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39683633/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Phosphatidylcholine suppresses inflammatory responses in LPS-stimulated MG6 microglial cells by inhibiting NF-κB/JNK/p38 MAPK signaling",
+      "summary": "Study demonstrates phosphatidylcholine has anti-inflammatory effects in microglial cells, potentially explaining its neuroprotective properties and benefits for neurodegenerative diseases like Alzheimer's.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40720378/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mucosal protection by phosphatidylcholine",
+      "summary": "Research shows PC represents over 90% of phospholipids in intestinal mucus, providing a protective hydrophobic barrier; reduced PC content (70% lower) in ulcerative colitis suggests it plays a primary pathogenetic role.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23295697/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Different choline supplement metabolism in adults using deuterium labelling",
+      "summary": "Study comparing four choline forms found different absorption and metabolism profiles, with alpha-glycerophosphocholine and phosphatidylcholine showing distinct pharmacokinetic properties in healthy adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36840817/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vertical Association Between Dietary Total Choline and L-alpha-glycerylphosphorylcholine and the Cognitive Function in Chinese Adults Aged over 55",
+      "summary": "Analysis of 7,659 adults over 55 showed associations between dietary choline intake (average 178.8 mg/day total choline, 16.3 mg/day GPC) and cognitive function scores.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39519545/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements for intestinal inflammation",
+      "summary": "Review identifies phosphatidylcholine as one of several dietary supplements with anti-inflammatory effects beneficial for managing intestinal inflammatory diseases and IBD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36479492/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report genuine cognitive benefits including improved memory and focus, but experiences vary significantly. Some users experience depression or 'emptiness' from acetylcholine increases, while others find PC beneficial when combined with other nootropics. Effectiveness appears highly individual."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies dramatically between users; those with already-high acetylcholine may experience negative effects while those deficient see benefits"
+    },
+    {
+      "label": "Dosage-Dependent:",
+      "description": "840mg PC (containing ~126mg choline) can produce noticeable effects, but some users need higher doses while others find even moderate doses cause issues"
+    },
+    {
+      "label": "Combination Benefits:",
+      "description": "PC appears most effective when stacked with other compounds like phosphatidylserine, DHA, or as part of comprehensive nootropic formulations"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Food-derived PC (fish, lecithin) may be more effective than supplements, particularly for APOE4 carriers, due to different metabolism and transport mechanisms"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "Common doses range from 75-840mg PC per serving, with 840mg being a typical therapeutic dose for cognitive benefits"
+    },
+    {
+      "label": "Choline Content:",
+      "description": "Users should note that PC supplements contain only 15% actual choline by weight, so 840mg PC provides approximately 126mg choline"
+    },
+    {
+      "label": "Lecithin Alternative:",
+      "description": "Lecithin (15% PC by composition) is suggested as a cost-effective alternative to isolated PC supplements"
+    },
+    {
+      "label": "Timing and Frequency:",
+      "description": "Most users take PC once daily, typically mid-day, with effects noticeable within 60 minutes according to research"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Acetylcholine-Induced Depression:",
+      "description": "Multiple users report feelings of emptiness, emotional flatness, or depression that can last for days after discontinuation"
+    },
+    {
+      "label": "Sweating and Jitters:",
+      "description": "Some experience physical symptoms including sweaty palms, faster heartbeat, and jittery sensations similar to other cholinergic supplements"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Day-long headaches reported by some users, particularly when first starting supplementation"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Side effects appear highly dependent on individual acetylcholine levels and genetic factors; what helps some users causes problems for others"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Options:",
+      "description": "Available from various reputable supplement brands, with high-quality liposomal forms being more expensive but potentially more effective"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Lecithin (sunflower or soy) is recommended as a much cheaper alternative providing similar benefits at 2-3% of the cost of isolated PC"
+    },
+    {
+      "label": "Form Variations:",
+      "description": "Available as capsules, powder, and liquid liposomal preparations, with lecithin granules being the most economical option"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "APOAEQUORIN",
+      "slug": "apoaequorin"
+    }
+  ]
+}

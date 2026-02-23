@@ -1,0 +1,155 @@
+{
+  "slug": "laminarin",
+  "url": "https://dopamine.club/substances/laminarin/",
+  "scrapedAt": "2026-02-12T16:09:09.206Z",
+  "title": "LAMINARIN",
+  "description": "Laminarin is a polysaccharide extracted from brown seaweeds (Laminaria species) composed primarily of β-1,3-glucan chains. It functions as a prebiotic that modulates gut microbiota, exhibits immunomodulatory and anti-inflammatory properties, and enhances intestinal barrier function. Primarily studied in animal nutrition, particularly for improving growth performance and gastrointestinal health in weaned pigs and poultry.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Laminarin-rich extract improves growth performance, small intestinal morphology, gene expression of nutrient transporters and the large intestinal microbial composition of piglets during the critical post-weaning period",
+      "summary": "Supplementation with 300 ppm laminarin improved growth performance, enhanced small intestinal morphology and nutrient transporter expression, and favorably modulated gut microbiota composition in weaned piglets.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31640819/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of a Laminarin Rich Macroalgal Extract on the Caecal and Colonic Microbiota in the Post-Weaned Pig",
+      "summary": "Dietary laminarin at 300 ppm increased feed intake, growth rate, and body weight while reducing pathogenic Enterobacteriaceae and increasing beneficial Prevotella bacteria in the gut of weaned pigs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32168972/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of dietary supplementation with a laminarin-rich extract on the growth performance and gastrointestinal health in broilers",
+      "summary": "Broiler chickens supplemented with 300 ppm laminarin showed improved body weight, daily gain, and feed intake, along with enhanced expression of nutrient transporters and improved intestinal integrity markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34098504/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplementation of laminarin improves the reproductive performance of sows and the growth of suckling piglets",
+      "summary": "Laminarin supplementation in sow diets enhanced reproductive performance, improved antioxidant capacity, reduced inflammatory responses, and promoted beneficial gut microbiota homeostasis in both sows and their offspring.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37689725/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Laminarin favorably modulates gut microbiota in mice fed a high-fat diet",
+      "summary": "Laminarin supplementation slowed weight gain in high-fat diet-fed mice and induced favorable changes in gut microbial community composition, demonstrating potential prebiotic anti-obesity effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27713958/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary administration of laminarin improves the growth performance and immune responses in Epinephelus coioides",
+      "summary": "Laminarin supplementation enhanced growth performance, improved immunological parameters, and upregulated immune-related gene expression in grouper fish, demonstrating immunostimulatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25266890/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Feeding Marine Polysaccharides to Alleviate the Negative Effects Associated with Weaning in Pigs",
+      "summary": "This review highlights laminarin's prebiotic, antibacterial, anti-oxidant, and immunomodulatory activities, positioning it as a promising natural alternative to antibiotics for managing post-weaning stress in pigs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34573610/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Seaweed Components as Potential Modulators of the Gut Microbiota",
+      "summary": "Laminarin and other seaweed polysaccharides demonstrate prebiotic potential by enhancing beneficial bacterial populations and promoting short-chain fatty acid production, which supports gastrointestinal health and immune function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34201794/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "There is insufficient Reddit user experience data available to assess sentiment. The available research focuses exclusively on animal models (pigs, poultry, fish) with no substantial human user reports or testimonials."
+  },
+  "effects": [
+    {
+      "label": "Growth Performance:",
+      "description": "Demonstrates consistent improvements in weight gain, feed conversion ratio, and daily feed intake across multiple animal species at optimal doses"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Effectiveness appears optimal at 300-400 ppm (mg/kg) in pig and poultry diets, with higher doses not necessarily providing additional benefits"
+    },
+    {
+      "label": "Prebiotic Activity:",
+      "description": "Functions effectively as a prebiotic by selectively promoting beneficial gut bacteria and producing short-chain fatty acids"
+    },
+    {
+      "label": "Application Specificity:",
+      "description": "Most evidence supports use during critical stress periods (weaning, dietary transitions) rather than continuous supplementation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Optimal Range:",
+      "description": "300-400 mg/kg (ppm) of feed demonstrated best results in pig and poultry studies for growth and gut health improvements"
+    },
+    {
+      "label": "Lower Dose Effects:",
+      "description": "100-200 mg/kg shows modest benefits but less consistent than higher doses"
+    },
+    {
+      "label": "Species Variation:",
+      "description": "Fish studies used 5-15 g/kg with benefits observed, suggesting dose requirements may vary by species and application"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits typically observed after 14-35 days of supplementation in animal feeding trials"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Animal studies report no significant adverse effects at studied doses up to 800 mg/kg"
+    },
+    {
+      "label": "Weight Gain Rebound:",
+      "description": "In obesity studies, weight gain resumed after cessation of laminarin supplementation, suggesting effects may not persist"
+    },
+    {
+      "label": "Dose Ceiling:",
+      "description": "Very high doses (>800 mg/kg) do not provide additional benefits and may have diminishing returns"
+    },
+    {
+      "label": "Human Data Lacking:",
+      "description": "No human safety or side effect data available as research is limited to animal models"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research-Only Status:",
+      "description": "Laminarin is primarily available as a research compound for animal nutrition studies, not as a consumer supplement"
+    },
+    {
+      "label": "Extraction Source:",
+      "description": "Commercially extracted from brown seaweeds (Laminaria hyperborea, L. digitata) with purity typically around 65% laminarin content"
+    },
+    {
+      "label": "Agricultural Applications:",
+      "description": "Mainly used in animal feed industry as a natural growth promoter and antibiotic alternative, not marketed for human consumption"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

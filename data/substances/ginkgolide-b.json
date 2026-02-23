@@ -1,0 +1,126 @@
+{
+  "slug": "ginkgolide-b",
+  "url": "https://dopamine.club/substances/ginkgolide-b/",
+  "scrapedAt": "2026-02-12T16:08:04.431Z",
+  "title": "GINKGOLIDE B",
+  "description": "Ginkgolide B is a terpene lactone compound extracted from Ginkgo biloba leaves, standardized in extracts like EGb 761. It works primarily as a platelet-activating factor (PAF) antagonist, improves cerebral blood flow, and exhibits neuroprotective and antioxidant properties. It is used for cognitive enhancement, vascular disorders, and neuroprotection in aging and neurodegenerative conditions.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Human pharmacokinetics of ginkgo terpene lactones and impact of carboxylation in blood on their platelet-activating factor antagonistic activity",
+      "summary": "Ginkgolides A and B showed high systemic exposure with oral bioavailability mostly >100%, terminal half-lives of 6-13 hours, and platelet-activating factor antagonistic activity that is reduced upon carboxylation in blood.",
+      "url": "https://www.nature.com/articles/s41401-018-0086-7",
+      "source": "(Nature)"
+    },
+    {
+      "title": "Ginkgolide B production in cultured cells derived from Ginkgo biloba L. leaves",
+      "summary": "Cell suspension cultures derived from Ginkgo biloba leaves successfully produced ginkgolide B, with maximum production reached by day 13 of subculture using optimized medium conditions.",
+      "url": "https://link.springer.com/article/10.1007/BF00232783",
+      "source": "(Springer)"
+    },
+    {
+      "title": "Cognitive Impairment and Nootropic Drugs: Mechanism of Action and Spectrum of Effects",
+      "summary": "Ginkgo biloba extracts act through multiple mechanisms including neurotransmitter modulation, cerebral vasodilation, antioxidant activity, and neuroprotection, showing efficacy in cognitive dysfunction from aging and dementia.",
+      "url": "https://link.springer.com/article/10.1134/S1819712423020198",
+      "source": "(Springer)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users consistently report that Ginkgo biloba improves alertness, concentration, focus, and memory, with beneficial effects on cerebral circulation and neuroprotection. While not extensively discussed as a standalone supplement, it is frequently included in effective cognitive enhancement stacks with positive outcomes."
+  },
+  "effects": [
+    {
+      "label": "Memory and Learning:",
+      "description": "Effective for improving cognitive function in aging, dementia, and neurodegenerative conditions through enhanced cerebral blood flow"
+    },
+    {
+      "label": "Standardization Matters:",
+      "description": "EGb 761 extract standardized to 24% flavonoids and 6% terpene lactones (including ginkgolides) shows consistent therapeutic effects"
+    },
+    {
+      "label": "Bioavailability Variation:",
+      "description": "Ginkgolides A and B demonstrate high oral bioavailability (>100%), while ginkgolides C and J show lower bioavailability (6-15%)"
+    },
+    {
+      "label": "Long-term Use:",
+      "description": "Historical use spanning millennia in traditional Chinese medicine, with modern research supporting efficacy for vascular and cognitive disorders"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "EGb 761 extract standardized to 24% flavone glycosides and 6% terpene lactones is the research-supported formulation"
+    },
+    {
+      "label": "Clinical Doses:",
+      "description": "Typically 120-240mg of standardized extract daily, divided into 2-3 doses"
+    },
+    {
+      "label": "Bioactive Compounds:",
+      "description": "Ginkgolides A and B are the primary active terpene lactones with highest systemic exposure"
+    },
+    {
+      "label": "Terminal Half-life:",
+      "description": "Ginkgolides have half-lives ranging from 4-13 hours depending on formulation and administration route"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Carboxylation Effects:",
+      "description": "Ginkgolides undergo carboxylation in blood which reduces their platelet-activating factor antagonistic activity"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May interact with anticoagulants and other medications due to platelet-activating factor antagonism"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal side effects when using standardized extracts at recommended doses"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies based on genetic factors and baseline cognitive status"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Ginkgo biloba extracts are among the most commonly used herbal supplements worldwide"
+    },
+    {
+      "label": "Standardization Important:",
+      "description": "Look for EGb 761 or similar standardized extracts rather than non-standardized products"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Avoid purchasing from major retailers due to commingling and counterfeit issues; prefer direct manufacturers or reputable retailers like online retailers"
+    }
+  ],
+  "related": [
+    {
+      "name": "BILOBALIDE",
+      "slug": "bilobalide"
+    },
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "CEREBROPROTEIN HYDROLYSATE",
+      "slug": "cerebroprotein-hydrolysate"
+    },
+    {
+      "name": "NOBILETIN",
+      "slug": "nobiletin"
+    },
+    {
+      "name": "CARNOSIC ACID",
+      "slug": "carnosic-acid"
+    }
+  ]
+}

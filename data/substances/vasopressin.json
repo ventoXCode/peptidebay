@@ -1,0 +1,131 @@
+{
+  "slug": "vasopressin",
+  "url": "https://dopamine.club/substances/vasopressin/",
+  "scrapedAt": "2026-02-12T16:12:08.042Z",
+  "title": "VASOPRESSIN",
+  "description": "Vasopressin (arginine vasopressin/AVP) is a neuropeptide hormone produced in the hypothalamus that regulates water balance, blood pressure, and plays a crucial role in social behavior and cognition. Research indicates that cerebrospinal fluid (CSF) vasopressin concentration is a biomarker of social functioning, with low levels associated with autism spectrum disorder and social impairment in both children and primates.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Cerebrospinal Fluid Vasopressin Concentration Is a Biomarker of Autistic Social Impairment and Hypothalamic Vasopressin Gene Expression in Humans",
+      "summary": "Study found that CSF vasopressin concentration serves as a biomarker for social impairment in autism, with low levels predicting autistic traits and social difficulties in both children and adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41496709/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nebulized vasopressin penetrates CSF and improves social functioning in low-social monkeys",
+      "summary": "Nebulized vasopressin administration improved face recognition and prosocial responses to affiliative communication cues in low-social rhesus monkeys without inducing aggression, with vasopressin levels increasing in CSF following administration.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11626171/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vasopressin as Possible Treatment Option in Autism Spectrum Disorder",
+      "summary": "Review suggests vasopressin may contribute to multiple ASD symptoms including social skills, communication, motor function, and sleep disturbances, with potential as a targeted treatment though likely only beneficial for certain subgroups.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37892977/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neonatal CSF vasopressin concentration predicts later medical record diagnoses of autism spectrum disorder",
+      "summary": "Neonatal CSF AVP concentrations were significantly lower among ASD cases than controls and individually predicted case status, suggesting a neurochemical marker of ASD may be present very early in life.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32341146/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Limited user experience data available. One user reported trying vasopressin 20 years ago without finding it particularly helpful for social interaction. Another user expressed interest in trying it for social anxiety but hasn't yet used it, indicating curiosity but limited practical feedback."
+  },
+  "effects": [
+    {
+      "label": "Research Evidence:",
+      "description": "Strong preclinical evidence in primate models showing improvements in social cognition and face recognition"
+    },
+    {
+      "label": "Autism Applications:",
+      "description": "Low CSF vasopressin levels strongly correlate with social impairment in ASD, suggesting replacement therapy potential"
+    },
+    {
+      "label": "Administration Method:",
+      "description": "Nebulized vasopressin successfully penetrates the CNS and increases CSF levels in animal models"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "May only be effective for specific subgroups (those with vasopressin deficiency, primarily males) rather than general population"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Historical Use:",
+      "description": "Was available as nasal spray in Scandinavian countries approximately 20 years ago before being removed from market"
+    },
+    {
+      "label": "Research Dosing:",
+      "description": "Studies used nebulized administration in primates, though specific human dosing protocols are not well-established"
+    },
+    {
+      "label": "Clinical Trials:",
+      "description": "Both vasopressin agonists and paradoxically V1a receptor antagonists have shown effectiveness in some trials"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Limited long-term human safety data available; removed from some markets for undisclosed reasons"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Aggression Concerns:",
+      "description": "May increase aggression in neurotypical individuals with intact vasopressin signaling, though not observed in low-social subjects"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "One user reported it wasn't particularly helpful 20 years ago, suggesting variable individual responses"
+    },
+    {
+      "label": "Limited Data:",
+      "description": "Minimal user-reported side effects due to very limited availability and usage"
+    },
+    {
+      "label": "Market Removal:",
+      "description": "Historical removal from Scandinavian markets suggests potential safety or efficacy concerns"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Current Access:",
+      "description": "Extremely limited availability; not readily accessible as a supplement in most markets"
+    },
+    {
+      "label": "Historical Markets:",
+      "description": "Previously available in Scandinavian countries but removed approximately 20 years ago"
+    },
+    {
+      "label": "Research Use:",
+      "description": "Primarily available through research protocols; one user mentioned being unable to find affordable US sources in the past"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "L-SERINE",
+      "slug": "l-serine"
+    },
+    {
+      "name": "LUTEOLIN",
+      "slug": "luteolin"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

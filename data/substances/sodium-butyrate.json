@@ -1,0 +1,123 @@
+{
+  "slug": "sodium-butyrate",
+  "url": "https://dopamine.club/substances/sodium-butyrate/",
+  "scrapedAt": "2026-02-12T16:11:21.582Z",
+  "title": "SODIUM BUTYRATE",
+  "description": "Sodium butyrate is the salt form of butyric acid, a short-chain fatty acid (SCFA) produced by the gut microbiota that acts as a potent histone deacetylase (HDAC) inhibitor. It modulates gene expression to improve mitochondrial function, regulate energy metabolism, and support intestinal barrier integrity.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Sodium butyrate epigenetically modulates high-fat diet-induced skeletal muscle mitochondrial adaptation, obesity and insulin resistance through nucleosome positioning",
+      "summary": "This study demonstrates that sodium butyrate can prevent high-fat diet-induced obesity and insulin resistance by improving mitochondrial function and oxidative metabolism in skeletal muscle.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25559882/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sodium butyrate improves memory function in an Alzheimer's disease mouse model when administered at an advanced stage of disease progression",
+      "summary": "Research found that sodium butyrate administration can restore memory function and improve cognitive performance even in late-stage neurodegenerative models by elevating histone acetylation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21593570/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-obesity effect of butyrate links to modulation of gut microbiome and epigenetic regulation of muscular circadian clock",
+      "summary": "Butyrate supplementation was found to reduce weight gain and enhance fatty acid oxidation by regulating the muscle's circadian clock genes and increasing histone acetylation.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0955286324000238",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Sodium butyrate improves memory and modulates the activity of histone deacetylases in aged rats after the administration of d-galactose",
+      "summary": "This paper highlights butyrate's ability to reverse memory decline associated with aging and oxidative stress through the modulation of epigenetic markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30304709/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users generally view sodium butyrate as a powerful 'biological' tool for gut health and longevity, often reporting significant improvements in brain fog and digestive stability when combined with prebiotics."
+  },
+  "effects": [
+    {
+      "label": "Obesity Prevention:",
+      "description": "Highly effective in animal models for preventing weight gain despite high-calorie intake."
+    },
+    {
+      "label": "Cognitive Recovery:",
+      "description": "Shows significant promise in reversing symptoms of age-related memory loss and neurodegeneration."
+    },
+    {
+      "label": "Insulin Sensitivity:",
+      "description": "Effectively promotes glucose homeostasis and reduces insulin resistance through skeletal muscle adaptations."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Works best when combined with dietary fiber (prebiotics) that fuel endogenous butyrate production."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Concentration:",
+      "description": "Often studied in concentrations that achieve significant pan-histone acetylation in target tissues."
+    },
+    {
+      "label": "Dietary Supplementation:",
+      "description": "Frequently taken in capsule form (often Tributyrin or Sodium Butyrate) to bypass early digestion."
+    },
+    {
+      "label": "Bioavailability Note:",
+      "description": "Users often discuss 'scented' vs. 'unscented' versions, noting that the salt form has a distinct, strong odor."
+    },
+    {
+      "label": "Fiber Loading:",
+      "description": "Many users aim for 20-30g of prebiotic fiber to naturally stimulate high internal levels of butyrate."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Odor:",
+      "description": "The most commonly reported 'side effect' is a strong, cheese-like odor in the supplement and occasionally in breath/sweat."
+    },
+    {
+      "label": "Digestive Discomfort:",
+      "description": "High initial doses may cause mild cramping or changes in bowel habits as the microbiome shifts."
+    },
+    {
+      "label": "Electrolyte Balance:",
+      "description": "As a sodium salt, users with hypertension may need to monitor total daily sodium intake."
+    }
+  ],
+  "availability": [
+    {
+      "label": "OTC Status:",
+      "description": "Widely available as an over-the-counter dietary supplement in many regions."
+    },
+    {
+      "label": "Formulations:",
+      "description": "Available in standard sodium butyrate capsules, as well as more shelf-stable or time-released forms like Tributyrin."
+    }
+  ],
+  "related": [
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "CINSULIN",
+      "slug": "cinsulin"
+    }
+  ]
+}

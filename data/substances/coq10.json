@@ -1,0 +1,162 @@
+{
+  "slug": "coq10",
+  "url": "https://dopamine.club/substances/coq10/",
+  "scrapedAt": "2026-02-12T16:06:55.988Z",
+  "title": "COQ10",
+  "description": "Coenzyme Q10 (CoQ10) is a naturally occurring compound that plays a crucial role in mitochondrial energy production and serves as a powerful antioxidant in cellular membranes. It is essential for ATP synthesis through the electron transport chain and its production declines with age and certain medications like statins. CoQ10 is primarily used for cardiovascular health, energy production, fertility support, migraine prevention, and addressing mitochondrial dysfunction.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Coenzyme Q10 supplementation: Efficacy, safety, and formulation challenges",
+      "summary": "Comprehensive review establishing CoQ10 as the third most consumed dietary supplement with potential therapeutic applications in cardiovascular and neurodegenerative diseases, noting excellent safety record and absorption challenges due to hydrophobicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33325173/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Coenzyme Q10 on Statin-Induced Myopathy: An Updated Meta-Analysis of Randomized Controlled Trials",
+      "summary": "Meta-analysis of 12 randomized controlled trials investigating whether CoQ10 supplementation ameliorates statin-induced myopathy and muscle symptoms, addressing the association between statin treatment and CoQ10 depletion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30371340/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effect of CoQ10 supplementation on ART treatment and oocyte quality in older women",
+      "summary": "CoQ10 supplementation improved fertilization rates, embryo quality, and reduced chromosomal abnormalities in women aged 31+ undergoing IVF/IVM treatment, with proposed mechanisms including restoration of mitochondrial function and reduction of oxidative stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37102567/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antioxidants and Fertility in Women with Ovarian Aging: A Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis evaluating various antioxidants including CoQ10 for fertility outcomes in women with ovarian aging, addressing the role of oxidative stress in age-related fertility decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39019217/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondrial Dysfunction and Coenzyme Q10 Supplementation in Post-Viral Fatigue Syndrome: An Overview",
+      "summary": "Review examining CoQ10's role in treating post-viral fatigue syndromes including ME/CFS, fibromyalgia, and long COVID, focusing on mitochondrial dysfunction as a key pathological mechanism in these conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38203745/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Coenzyme Q10 supplementation for prophylaxis in adult patients with migraine-a meta-analysis",
+      "summary": "Meta-analysis demonstrating CoQ10's effectiveness in reducing severity, frequency, and duration of migraine attacks in adult patients when used as prophylactic treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33402403/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Improvement of migraine symptoms with a proprietary supplement containing riboflavin, magnesium and Q10",
+      "summary": "Randomized, double-blind, multicenter trial showing significant reduction in migraine days (from 6.2 to reduced levels) with a combination supplement containing CoQ10, magnesium, and riboflavin over 3 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25916335/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and Optimal Dose of Coenzyme Q10 Supplementation on Inflammation-Related Biomarkers",
+      "summary": "GRADE-assessed systematic review and meta-analysis of 67 randomized controlled trials evaluating CoQ10's effects on inflammatory biomarkers and determining optimal dosing for anti-inflammatory benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37118903/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Coenzyme Q10: absorption, tissue uptake, metabolism and pharmacokinetics",
+      "summary": "Review establishing that CoQ10 has slow and limited absorption due to hydrophobicity, peak plasma levels at 6 hours, elimination half-life of 33 hours, and that solubilized formulations show enhanced bioavailability with uptake in all tissues including heart and brain mitochondria.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16551570/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report significant improvements in energy levels, mental clarity, and overall well-being, with CoQ10 being particularly praised for mitochondrial health support. Multiple users describe dramatic benefits especially when combined with other mitochondrial-supporting supplements, though some note quality concerns with certain brands and the importance of proper dosing."
+  },
+  "effects": [
+    {
+      "label": "Dosage Matters:",
+      "description": "Most effective results reported at 300-400mg daily, with users noting that lower doses may not produce noticeable effects; ubiquinol form noted as more bioavailable though more expensive"
+    },
+    {
+      "label": "Timeline for Results:",
+      "description": "Users typically report feeling effects within 2 weeks to 2 months, with skin, energy, and mood improvements becoming noticeable after consistent daily use"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "CoQ10 appears most effective when combined with other mitochondrial supporters (PQQ 40mg, NAD, magnesium glycinate) rather than as standalone supplement"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Independent testing revealed 0 of 10 CoQ10 products met label claims, with 6 having less than 5% of claimed dosage; users emphasize buying from reputable brands with third-party testing"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Preventive Dose:",
+      "description": "100-200mg daily commonly used for general health, cardiovascular support, and as part of longevity stacks"
+    },
+    {
+      "label": "Therapeutic Dose:",
+      "description": "300-400mg daily reported most effective for significant energy improvements, mitochondrial support, and addressing chronic fatigue"
+    },
+    {
+      "label": "Statin Users:",
+      "description": "Higher doses often recommended to counteract CoQ10 depletion from statin medications, though many doctors don't inform patients about this need"
+    },
+    {
+      "label": "Form Considerations:",
+      "description": "Ubiquinol (reduced form) noted as more bioavailable than ubiquinone (oxidized form), particularly for older adults, though significantly more expensive"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Excessive Energy:",
+      "description": "Some users report difficulty sleeping due to too much energy, particularly when taking higher doses or later in the day"
+    },
+    {
+      "label": "Minimal Reported Issues:",
+      "description": "CoQ10 has excellent safety profile with very few side effects reported by users, making it well-tolerated for long-term use"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "A minority of users report no noticeable effects even after months of supplementation, suggesting individual response variability"
+    },
+    {
+      "label": "Quality-Related Problems:",
+      "description": "Ineffective products from low-quality brands may lead to no benefits, which users may incorrectly attribute to CoQ10 itself rather than poor product quality"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Critical:",
+      "description": "Users strongly advise buying from reputable brands with third-party testing and avoiding cheap generic brands and unverified sellers"
+    },
+    {
+      "label": "Third-Party Testing:",
+      "description": "Independent testing revealed widespread quality issues with many supplements containing less than 10% of claimed CoQ10 content, emphasizing importance of verified manufacturers"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "CoQ10 is legal and available over-the-counter globally as dietary supplement, often sold at health food stores, pharmacies, and online retailers"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA LIPOIC ACID",
+      "slug": "alpha-lipoic-acid"
+    },
+    {
+      "name": "NAD+ (NMN/NR)",
+      "slug": "nad-nmn-nr"
+    },
+    {
+      "name": "BETA-ALANINE",
+      "slug": "beta-alanine"
+    },
+    {
+      "name": "CARNOSINE",
+      "slug": "carnosine"
+    },
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    }
+  ]
+}

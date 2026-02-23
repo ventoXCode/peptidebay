@@ -1,0 +1,155 @@
+{
+  "slug": "rose-hip-extract",
+  "url": "https://dopamine.club/substances/rose-hip-extract/",
+  "scrapedAt": "2026-02-12T16:11:03.252Z",
+  "title": "ROSE HIP EXTRACT",
+  "description": "Rose Hip Extract is derived from the fruit of Rosa species (particularly Rosa canina) and contains high levels of antioxidants including vitamin C, phenolic compounds, and carotenoids. It works primarily through anti-inflammatory mechanisms by inhibiting neutrophil chemotaxis, reducing C-reactive protein levels, and modulating metabolic pathways including fructokinase inhibition and PPAR activation. Traditionally used for immune support, it has demonstrated effects on metabolic health, inflammation, cardiovascular function, and joint health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Anti-prediabetic effect of rose hip (Rosa canina) extract in spontaneously diabetic Torii rats",
+      "summary": "Rose hip extract at 100mg/kg daily for 12 weeks improved impaired glucose tolerance, promoted insulin secretion, preserved pancreatic beta-cell function, and suppressed advanced glycation end-products formation in prediabetic rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28182280/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rose hip inhibits chemotaxis and chemiluminescence of human peripheral blood neutrophils in vitro and reduces certain inflammatory parameters in vivo",
+      "summary": "Daily intake of rose hip powder reduced chemotaxis of peripheral blood neutrophils and lowered serum creatinine and C-reactive protein levels in healthy subjects, demonstrating anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17657440/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary rose hip exerts antiatherosclerotic effects and increases nitric oxide-mediated dilation in ApoE-null mice",
+      "summary": "Rose hip supplementation reduced atherosclerotic plaque formation, lowered plasma cholesterol, and increased nitric oxide-mediated arterial dilation in mice fed a high-fat diet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28399420/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of rose hip intake on risk markers of type 2 diabetes and cardiovascular disease: a randomized, double-blind, cross-over investigation in obese persons",
+      "summary": "Rose hip supplementation in obese individuals showed potential benefits for metabolic and cardiovascular risk markers through modulation of inflammatory and metabolic pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22166897/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Daily intake of rosehip extract decreases abdominal visceral fat in preobese subjects",
+      "summary": "Rosehip extract supplementation at 100mg/kg body weight demonstrated anti-obesity effects by reducing visceral fat accumulation and body weight gain in animal and human studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25834460/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The anti-inflammatory properties of rose-hip",
+      "summary": "Rose hip extract reduced chemotaxis of neutrophils and monocytes in vitro and lowered serum CRP levels after four weeks of daily supplementation in patients with osteoarthritis and healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17657447/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rose hip exerts antidiabetic effects via a mechanism involving PPARα and oxidative stress modulation",
+      "summary": "Rose hip powder prevented obesity and improved glucose tolerance in mice on a high-fat diet through mechanisms involving PPAR-α activation and reduction of hepatic lipid accumulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20959531/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic Applications of Rose Hips from Different Rosa Species",
+      "summary": "Comprehensive review documenting rose hip's traditional uses and pharmacological effects including antioxidant, anti-inflammatory, antimicrobial, and metabolic benefits based on its phytochemical composition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28587101/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report rose hip as a beneficial component in supplement stacks, particularly when combined with vitamin C for immune support and general health. While rarely used as a standalone supplement, it's consistently included in well-regarded formulations without reported negative effects, suggesting quiet effectiveness and good tolerability."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Use:",
+      "description": "Most effective when combined with vitamin C (typically 1000mg vitamin C with rose hips), appearing in well-reviewed supplement stacks without standalone use being common"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Animal studies show clear benefits at 100mg/kg body weight; human studies use varying doses from 500mg to several grams daily with positive metabolic outcomes"
+    },
+    {
+      "label": "Preventive Benefits:",
+      "description": "Strongest evidence for preventing prediabetic progression, reducing inflammation markers, and supporting cardiovascular health rather than treating acute conditions"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Consistently well-tolerated in studies lasting weeks to months with no significant adverse effects reported at therapeutic doses"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Combination:",
+      "description": "Typically found in 1000mg vitamin C supplements with 25-50mg rose hip extract for immune support and antioxidant benefits"
+    },
+    {
+      "label": "Standalone Supplementation:",
+      "description": "Research supports 500mg-1500mg daily doses for metabolic and anti-inflammatory effects, though less commonly used alone by consumers"
+    },
+    {
+      "label": "Timing Flexibility:",
+      "description": "Generally taken with meals alongside other supplements; no specific timing requirements mentioned in user reports or studies"
+    },
+    {
+      "label": "Extract Concentration:",
+      "description": "Products vary between whole fruit powder and concentrated extracts; standardization to ascorbic acid and phenolic content important for consistency"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Very few side effects reported in both research studies and user experiences, suggesting excellent safety profile"
+    },
+    {
+      "label": "Digestive Tolerance:",
+      "description": "Well-tolerated even in combination with multiple other supplements; no GI distress commonly reported unlike some vitamin C formulations"
+    },
+    {
+      "label": "No Drug Interactions:",
+      "description": "Users taking rose hip in complex supplement stacks report no obvious interactions or contraindications with other compounds"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Studies spanning weeks to months show sustained benefits without development of tolerance or emerging side effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Formulation Ingredient:",
+      "description": "Widely available as an additive in vitamin C supplements from major brands (quality brands, quality brands, etc.) rather than standalone products"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Found in both budget and premium supplement lines; extract quality and concentration varies significantly between manufacturers"
+    },
+    {
+      "label": "Accessibility:",
+      "description": "Readily available over-the-counter in pharmacies, health food stores, and online retailers with no regulatory restrictions or prescription requirements"
+    }
+  ],
+  "related": [
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "GAMMA-TOCOPHEROL",
+      "slug": "gamma-tocopherol"
+    },
+    {
+      "name": "OLEUROPEIN",
+      "slug": "oleuropein"
+    }
+  ]
+}

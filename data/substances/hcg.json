@@ -1,0 +1,109 @@
+{
+  "slug": "hcg",
+  "url": "https://dopamine.club/substances/hcg/",
+  "scrapedAt": "2026-02-12T16:08:21.323Z",
+  "title": "HCG",
+  "description": "Human Chorionic Gonadotropin (hCG) is a glycoprotein hormone that mimics luteinizing hormone (LH), primarily functioning to support the corpus luteum and progesterone production during early pregnancy. In clinical and off-label settings, it is used to maintain testicular function during hormone replacement, treat infertility, and occasionally as an adjunct in weight management protocols.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Human Chorionic Gonadotropin: The Pregnancy Hormone and More",
+      "summary": "This review explores hCG's role beyond pregnancy, highlighting its function in steroidogenesis and its clinical application in treating reproductive disorders and certain malignancies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28505108/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "hCG: Biological Functions and Clinical Applications",
+      "summary": "The paper details how hCG acts through LH receptors to promote steroid production and its essential role in maintaining early gestational health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28937611/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Human Chorionic Gonadotropin - StatPearls",
+      "summary": "A comprehensive clinical overview of hCG's use in distinguishing pregnancy types, monitoring pregnancy loss, and its application in in-vitro fertilization care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30422553/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report high satisfaction with hCG for maintaining testicular volume and libido during TRT, though some find managing estrogen levels to be a significant challenge."
+  },
+  "effects": [
+    {
+      "label": "Fertility Preservation:",
+      "description": "Highly effective at maintaining sperm production for men on testosterone replacement therapy"
+    },
+    {
+      "label": "Quick Onset:",
+      "description": "Users often report feeling 'fuller' or seeing changes in testicular size within 1-2 weeks of starting a protocol"
+    },
+    {
+      "label": "Mood Stabilization:",
+      "description": "Reported to fix the 'flatness' or lack of emotion some men feel when using exogenous testosterone alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "TRT Adjunct:",
+      "description": "Commonly reported doses range from 250 IU to 500 IU administered two to three times per week"
+    },
+    {
+      "label": "Monotherapy/PCT:",
+      "description": "Higher doses of 1,000 IU to 2,000 IU every other day are sometimes used for short durations to jumpstart natural production"
+    },
+    {
+      "label": "Subcutaneous Injection:",
+      "description": "Most users prefer shallow injections into abdominal fat using insulin syringes for ease and steady absorption"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Estrogen Spikes:",
+      "description": "hCG can cause a significant increase in aromatization, leading to sensitive nipples or water retention"
+    },
+    {
+      "label": "Gynecomastia:",
+      "description": "Risks of breast tissue development if estrogen is not monitored and managed with an aromatase inhibitor"
+    },
+    {
+      "label": "Acne:",
+      "description": "Increased hormonal fluctuations can lead to skin breakouts on the back, shoulders, or face"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Available legally via prescription for infertility or as part of a medically supervised TRT program"
+    },
+    {
+      "label": "Storage Requirements:",
+      "description": "Lyophilized powder is stable at room temperature but must be refrigerated once reconstituted with bacteriostatic water"
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "CAGRILINTIDE",
+      "slug": "cagrilintide"
+    },
+    {
+      "name": "CAGRISEMA",
+      "slug": "cagrisema"
+    }
+  ]
+}

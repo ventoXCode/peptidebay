@@ -1,0 +1,143 @@
+{
+  "slug": "sunifiram",
+  "url": "https://dopamine.club/substances/sunifiram/",
+  "scrapedAt": "2026-02-12T16:11:36.141Z",
+  "title": "SUNIFIRAM",
+  "description": "Sunifiram (DM235) is a synthetic nootropic compound structurally related to piracetam but reported to be up to 1000x more potent. It appears to enhance cognitive function primarily through modulation of AMPA receptors and the glycine-binding site of NMDA receptors, increasing acetylcholine release and enhancing hippocampal long-term potentiation (LTP). Despite promising preclinical research in animal models, it has never been studied in human clinical trials.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Pharmacological characterization of DM232 (unifiram) and DM235 (sunifiram), new potent cognition enhancers",
+      "summary": "Sunifiram demonstrated cognition-enhancing properties four orders of magnitude more potent than piracetam, increasing acetylcholine release and hippocampal activity through AMPA receptor involvement without binding to major central receptors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16834757/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Novel nootropic drug sunifiram enhances hippocampal synaptic efficacy via glycine-binding site of N-methyl-D-aspartate receptor",
+      "summary": "Sunifiram enhanced NMDAR-dependent long-term potentiation in mouse hippocampal slices at 10-100 nM concentrations in a bell-shaped dose-response curve, with effects blocked by glycine-binding site antagonists.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23733502/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "DM235 (sunifiram): a novel nootropic with potential as a cognitive enhancer",
+      "summary": "Sunifiram prevented amnesia induced by scopolamine, mecamylamine, baclofen, and clonidine at doses of 0.001-0.1 mg/kg, showing comparable efficacy to established nootropics but at much lower doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12070754/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Novel nootropic drug sunifiram improves cognitive deficits via CaM kinase II and protein kinase C activation in olfactory bulbectomized mice",
+      "summary": "Sunifiram improved spatial memory and hippocampal LTP in olfactory bulbectomized mice at 0.01-1.0 mg/kg doses through NMDAR-dependent mechanisms involving CaMKII and PKC activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23295391/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "AMPA-receptor activation is involved in the antiamnesic effect of DM 232 (unifiram) and DM 235 (sunifiram)",
+      "summary": "Both compounds reversed AMPA receptor antagonist-induced amnesia and increased excitatory synaptic transmission in rat hippocampus, confirming AMPA receptor involvement in their cognitive-enhancing effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14600801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Unifi nootropics from the lab to the web: a story of academic (and industrial) shortcomings",
+      "summary": "A cautionary review noting that sunifiram and unifiram were never protected by patent, have limited preclinical studies, unknown long-term toxicity, and yet are widely sold online despite never being studied in humans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25831025/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative or highly cautious, with many experienced users warning against sunifiram due to lack of human studies, reports of hospitalization, concerns about excitotoxicity, and preference for safer alternatives like unifiram. Most knowledgeable users recommend avoiding it entirely."
+  },
+  "effects": [
+    {
+      "label": "Potency Concerns:",
+      "description": "While research suggests high potency, user experiences are highly variable with many reporting minimal or negative effects"
+    },
+    {
+      "label": "Combination Risks:",
+      "description": "Frequently reported problems when stacked with other racetams, noopept, or stimulants, suggesting negative synergistic effects"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Experienced users consistently warn it has never been studied in humans and at least one hospitalization has been reported"
+    },
+    {
+      "label": "Preference for Alternatives:",
+      "description": "Many users who tried both sunifiram and unifiram report unifiram as safer and more effective with better tolerability"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Starting Dose:",
+      "description": "4-5mg commonly mentioned as initial dose, though users express uncertainty due to lack of established guidelines"
+    },
+    {
+      "label": "Range Reported:",
+      "description": "Doses mentioned from 5-10mg, with some users reporting negative effects even at these low doses"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "Users mention 5 days on, 2 days off protocols, though optimal cycling is unknown"
+    },
+    {
+      "label": "Dose Sensitivity:",
+      "description": "Bell-shaped dose-response curve noted in research, suggesting more is not better and optimal dosing is critical"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disruption:",
+      "description": "Insomnia and inability to sleep reported, particularly when taken later in day or combined with stimulants"
+    },
+    {
+      "label": "Anxiety and Akathisia:",
+      "description": "Multiple reports of severe anxiety, restlessness, and agitation, especially with phenylpiracetam combination"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Massive headaches reported when combined with multiple racetams"
+    },
+    {
+      "label": "Excitotoxicity Risk:",
+      "description": "Users and research warn about potential for excitotoxicity with chronic use, recommending NMDA antagonists if using"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Online Availability:",
+      "description": "Widely available from nootropic vendors despite never being approved for human use or having safety data"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Unregulated research compound with no medical approval, sold as research chemical rather than supplement"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users recommend spectroscopy testing to verify product identity and purity due to unregulated nature"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

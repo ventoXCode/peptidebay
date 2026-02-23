@@ -1,0 +1,4157 @@
+[
+  {
+    "slug": "5-amino-1mq",
+    "title": "5-amino-1mq",
+    "categories": [
+      "Peptide",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/5-amino-1mq/"
+  },
+  {
+    "slug": "5-htp",
+    "title": "5-htp",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/5-htp/"
+  },
+  {
+    "slug": "9-me-bc",
+    "title": "9-me-bc",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/9-me-bc/"
+  },
+  {
+    "slug": "a4-amyloid-beta",
+    "title": "a4 amyloid beta",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/a4-amyloid-beta/"
+  },
+  {
+    "slug": "ac-262536",
+    "title": "ac-262536",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/ac-262536/"
+  },
+  {
+    "slug": "ace-031",
+    "title": "ace-031",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/ace-031/"
+  },
+  {
+    "slug": "acetyl-l-carnitine",
+    "title": "acetyl-l-carnitine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/acetyl-l-carnitine/"
+  },
+  {
+    "slug": "adamantyl-carbonyl-proline",
+    "title": "adamantyl carbonyl proline",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/adamantyl-carbonyl-proline/"
+  },
+  {
+    "slug": "adamax",
+    "title": "adamax",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/adamax/"
+  },
+  {
+    "slug": "adiponectin",
+    "title": "adiponectin",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/adiponectin/"
+  },
+  {
+    "slug": "adipotide",
+    "title": "adipotide",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/adipotide/"
+  },
+  {
+    "slug": "adrafinil",
+    "title": "adrafinil",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/adrafinil/"
+  },
+  {
+    "slug": "agaricus-blazei",
+    "title": "agaricus blazei",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/agaricus-blazei/"
+  },
+  {
+    "slug": "agarikon-mushroom",
+    "title": "agarikon mushroom",
+    "categories": [
+      "Adaptogen"
+    ],
+    "url": "https://dopamine.club/substances/agarikon-mushroom/"
+  },
+  {
+    "slug": "agmatine",
+    "title": "agmatine",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/agmatine/"
+  },
+  {
+    "slug": "ahk--tripeptide-3-",
+    "title": "ahk (tripeptide-3)",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/ahk--tripeptide-3-/"
+  },
+  {
+    "slug": "ahk-cu",
+    "title": "ahk-cu",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/ahk-cu/"
+  },
+  {
+    "slug": "albiglutide",
+    "title": "albiglutide",
+    "categories": [
+      "Peptide",
+      "GLP"
+    ],
+    "url": "https://dopamine.club/substances/albiglutide/"
+  },
+  {
+    "slug": "allithiamine",
+    "title": "allithiamine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/allithiamine/"
+  },
+  {
+    "slug": "aloe-vera",
+    "title": "aloe vera",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/aloe-vera/"
+  },
+  {
+    "slug": "alpha-lipoic-acid",
+    "title": "alpha lipoic acid",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/alpha-lipoic-acid/"
+  },
+  {
+    "slug": "alpha-gpc",
+    "title": "alpha-gpc",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/alpha-gpc/"
+  },
+  {
+    "slug": "alpha-ketoglutarate--akg-",
+    "title": "alpha-ketoglutarate (akg)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/alpha-ketoglutarate--akg-/"
+  },
+  {
+    "slug": "alpha-tocopherol",
+    "title": "alpha-tocopherol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/alpha-tocopherol/"
+  },
+  {
+    "slug": "american-ginseng",
+    "title": "american ginseng",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/american-ginseng/"
+  },
+  {
+    "slug": "amylase",
+    "title": "amylase",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/amylase/"
+  },
+  {
+    "slug": "anandamide",
+    "title": "anandamide",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/anandamide/"
+  },
+  {
+    "slug": "andrographis",
+    "title": "andrographis",
+    "categories": [
+      "Adaptogen"
+    ],
+    "url": "https://dopamine.club/substances/andrographis/"
+  },
+  {
+    "slug": "aniracetam",
+    "title": "aniracetam",
+    "categories": [
+      "Nootropic",
+      "Racetam"
+    ],
+    "url": "https://dopamine.club/substances/aniracetam/"
+  },
+  {
+    "slug": "anserine",
+    "title": "anserine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/anserine/"
+  },
+  {
+    "slug": "aod-9604",
+    "title": "aod-9604",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/aod-9604/"
+  },
+  {
+    "slug": "apigenin",
+    "title": "apigenin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/apigenin/"
+  },
+  {
+    "slug": "apoaequorin",
+    "title": "apoaequorin",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/apoaequorin/"
+  },
+  {
+    "slug": "ara-290",
+    "title": "ara-290",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/ara-290/"
+  },
+  {
+    "slug": "arginine",
+    "title": "arginine",
+    "categories": [
+      "Amino Acid",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/arginine/"
+  },
+  {
+    "slug": "argireline",
+    "title": "argireline",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/argireline/"
+  },
+  {
+    "slug": "armodafinil",
+    "title": "armodafinil",
+    "categories": [
+      "Nootropic",
+      "Medicine"
+    ],
+    "url": "https://dopamine.club/substances/armodafinil/"
+  },
+  {
+    "slug": "artemisinin",
+    "title": "artemisinin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/artemisinin/"
+  },
+  {
+    "slug": "artichoke-extract",
+    "title": "artichoke extract",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/artichoke-extract/"
+  },
+  {
+    "slug": "ashitaba",
+    "title": "ashitaba",
+    "categories": [
+      "Adaptogen"
+    ],
+    "url": "https://dopamine.club/substances/ashitaba/"
+  },
+  {
+    "slug": "ashwagandha",
+    "title": "ashwagandha",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ashwagandha/"
+  },
+  {
+    "slug": "astaxanthin",
+    "title": "astaxanthin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/astaxanthin/"
+  },
+  {
+    "slug": "astragaloside-iv",
+    "title": "astragaloside iv",
+    "categories": [
+      "Adaptogen"
+    ],
+    "url": "https://dopamine.club/substances/astragaloside-iv/"
+  },
+  {
+    "slug": "astragalus",
+    "title": "astragalus",
+    "categories": [
+      "Adaptogen"
+    ],
+    "url": "https://dopamine.club/substances/astragalus/"
+  },
+  {
+    "slug": "astragalus-polysaccharides",
+    "title": "astragalus polysaccharides",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/astragalus-polysaccharides/"
+  },
+  {
+    "slug": "atomoxetine",
+    "title": "atomoxetine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/atomoxetine/"
+  },
+  {
+    "slug": "b7-33",
+    "title": "b7-33",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/b7-33/"
+  },
+  {
+    "slug": "bacopa",
+    "title": "bacopa",
+    "categories": [
+      "Herb",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/bacopa/"
+  },
+  {
+    "slug": "baicalein",
+    "title": "baicalein",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/baicalein/"
+  },
+  {
+    "slug": "baicalin",
+    "title": "baicalin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/baicalin/"
+  },
+  {
+    "slug": "banaba-leaf-extract",
+    "title": "banaba leaf extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/banaba-leaf-extract/"
+  },
+  {
+    "slug": "bcaas",
+    "title": "bcaas",
+    "categories": [
+      "Amino Acid",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/bcaas/"
+  },
+  {
+    "slug": "beetroot-extract",
+    "title": "beetroot extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/beetroot-extract/"
+  },
+  {
+    "slug": "benfotiamine",
+    "title": "benfotiamine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/benfotiamine/"
+  },
+  {
+    "slug": "berberine",
+    "title": "berberine",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/berberine/"
+  },
+  {
+    "slug": "bergamot",
+    "title": "bergamot",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/bergamot/"
+  },
+  {
+    "slug": "beta-alanine",
+    "title": "beta-alanine",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/beta-alanine/"
+  },
+  {
+    "slug": "beta-carotene",
+    "title": "beta-carotene",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/beta-carotene/"
+  },
+  {
+    "slug": "beta-glucans",
+    "title": "beta-glucans",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/beta-glucans/"
+  },
+  {
+    "slug": "beta-sitosterol",
+    "title": "beta-sitosterol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/beta-sitosterol/"
+  },
+  {
+    "slug": "betaine-hcl",
+    "title": "betaine hcl",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/betaine-hcl/"
+  },
+  {
+    "slug": "bilobalide",
+    "title": "bilobalide",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/bilobalide/"
+  },
+  {
+    "slug": "biotin",
+    "title": "biotin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/biotin/"
+  },
+  {
+    "slug": "bitter-melon-extract",
+    "title": "bitter melon extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/bitter-melon-extract/"
+  },
+  {
+    "slug": "black-cohosh",
+    "title": "black cohosh",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/black-cohosh/"
+  },
+  {
+    "slug": "bms-564929",
+    "title": "bms-564929",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/bms-564929/"
+  },
+  {
+    "slug": "bone-broth-protein",
+    "title": "bone broth protein",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/bone-broth-protein/"
+  },
+  {
+    "slug": "boron",
+    "title": "boron",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/boron/"
+  },
+  {
+    "slug": "boswellia",
+    "title": "boswellia",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/boswellia/"
+  },
+  {
+    "slug": "bpc-157",
+    "title": "bpc-157",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/bpc-157/"
+  },
+  {
+    "slug": "brivaracetam",
+    "title": "brivaracetam",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/brivaracetam/"
+  },
+  {
+    "slug": "bromantane",
+    "title": "bromantane",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/bromantane/"
+  },
+  {
+    "slug": "bromelain",
+    "title": "bromelain",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/bromelain/"
+  },
+  {
+    "slug": "bronchogen",
+    "title": "bronchogen",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/bronchogen/"
+  },
+  {
+    "slug": "butyrate",
+    "title": "butyrate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/butyrate/"
+  },
+  {
+    "slug": "caffeine",
+    "title": "caffeine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/caffeine/"
+  },
+  {
+    "slug": "cagrilintide",
+    "title": "cagrilintide",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/cagrilintide/"
+  },
+  {
+    "slug": "cagrisema",
+    "title": "cagrisema",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/cagrisema/"
+  },
+  {
+    "slug": "calcium-alpha-ketoglutarate",
+    "title": "calcium alpha-ketoglutarate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/calcium-alpha-ketoglutarate/"
+  },
+  {
+    "slug": "calcium-citrate",
+    "title": "calcium citrate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/calcium-citrate/"
+  },
+  {
+    "slug": "cardarine",
+    "title": "cardarine",
+    "categories": [
+      "SARM",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cardarine/"
+  },
+  {
+    "slug": "cardiogen",
+    "title": "cardiogen",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/cardiogen/"
+  },
+  {
+    "slug": "carnosic-acid",
+    "title": "carnosic acid",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/carnosic-acid/"
+  },
+  {
+    "slug": "carnosine",
+    "title": "carnosine",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/carnosine/"
+  },
+  {
+    "slug": "cartalax",
+    "title": "cartalax",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/cartalax/"
+  },
+  {
+    "slug": "carvacrol",
+    "title": "carvacrol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/carvacrol/"
+  },
+  {
+    "slug": "casein-protein",
+    "title": "casein protein",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/casein-protein/"
+  },
+  {
+    "slug": "cat-s-claw",
+    "title": "cat's claw",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cat-s-claw/"
+  },
+  {
+    "slug": "catuaba",
+    "title": "catuaba",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/catuaba/"
+  },
+  {
+    "slug": "cdp-choline",
+    "title": "cdp-choline",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/cdp-choline/"
+  },
+  {
+    "slug": "cebaracetam",
+    "title": "cebaracetam",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/cebaracetam/"
+  },
+  {
+    "slug": "celastrus-paniculatus",
+    "title": "celastrus paniculatus",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/celastrus-paniculatus/"
+  },
+  {
+    "slug": "centrophenoxine",
+    "title": "centrophenoxine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/centrophenoxine/"
+  },
+  {
+    "slug": "cerebrolysin",
+    "title": "cerebrolysin",
+    "categories": [
+      "Peptide",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/cerebrolysin/"
+  },
+  {
+    "slug": "cerebroprotein-hydrolysate",
+    "title": "cerebroprotein hydrolysate",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/cerebroprotein-hydrolysate/"
+  },
+  {
+    "slug": "chaga-mushroom",
+    "title": "chaga mushroom",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/chaga-mushroom/"
+  },
+  {
+    "slug": "chamomile",
+    "title": "chamomile",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/chamomile/"
+  },
+  {
+    "slug": "chaste-tree--vitex-",
+    "title": "chaste tree (vitex)",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/chaste-tree--vitex-/"
+  },
+  {
+    "slug": "chitosan",
+    "title": "chitosan",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/chitosan/"
+  },
+  {
+    "slug": "chlorella",
+    "title": "chlorella",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/chlorella/"
+  },
+  {
+    "slug": "chlorogenic-acid",
+    "title": "chlorogenic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/chlorogenic-acid/"
+  },
+  {
+    "slug": "chlorophyll",
+    "title": "chlorophyll",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/chlorophyll/"
+  },
+  {
+    "slug": "cholecalciferol",
+    "title": "cholecalciferol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cholecalciferol/"
+  },
+  {
+    "slug": "choline-bitartrate",
+    "title": "choline bitartrate",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/choline-bitartrate/"
+  },
+  {
+    "slug": "chondroitin",
+    "title": "chondroitin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/chondroitin/"
+  },
+  {
+    "slug": "chonluten",
+    "title": "chonluten",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/chonluten/"
+  },
+  {
+    "slug": "chromium-picolinate",
+    "title": "chromium picolinate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/chromium-picolinate/"
+  },
+  {
+    "slug": "cinnamon-extract",
+    "title": "cinnamon extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cinnamon-extract/"
+  },
+  {
+    "slug": "cinsulin",
+    "title": "cinsulin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cinsulin/"
+  },
+  {
+    "slug": "cistanche",
+    "title": "cistanche",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cistanche/"
+  },
+  {
+    "slug": "citicoline",
+    "title": "citicoline",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/citicoline/"
+  },
+  {
+    "slug": "citrulline",
+    "title": "citrulline",
+    "categories": [
+      "Amino Acid",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/citrulline/"
+  },
+  {
+    "slug": "citrulline-malate",
+    "title": "citrulline malate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/citrulline-malate/"
+  },
+  {
+    "slug": "cjc-1295",
+    "title": "cjc-1295",
+    "categories": [
+      "Peptide",
+      "GH"
+    ],
+    "url": "https://dopamine.club/substances/cjc-1295/"
+  },
+  {
+    "slug": "cjc-dac",
+    "title": "cjc+dac",
+    "categories": [
+      "Peptide",
+      "GH"
+    ],
+    "url": "https://dopamine.club/substances/cjc-dac/"
+  },
+  {
+    "slug": "cla",
+    "title": "cla",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cla/"
+  },
+  {
+    "slug": "clitoria-ternatea",
+    "title": "clitoria ternatea",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/clitoria-ternatea/"
+  },
+  {
+    "slug": "cocoa-flavanols",
+    "title": "cocoa flavanols",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cocoa-flavanols/"
+  },
+  {
+    "slug": "colchicine",
+    "title": "colchicine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/colchicine/"
+  },
+  {
+    "slug": "collagen-peptides",
+    "title": "collagen peptides",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/collagen-peptides/"
+  },
+  {
+    "slug": "collagen-type-ii",
+    "title": "collagen type ii",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/collagen-type-ii/"
+  },
+  {
+    "slug": "colostrum",
+    "title": "colostrum",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/colostrum/"
+  },
+  {
+    "slug": "coluracetam",
+    "title": "coluracetam",
+    "categories": [
+      "Nootropic",
+      "Racetam"
+    ],
+    "url": "https://dopamine.club/substances/coluracetam/"
+  },
+  {
+    "slug": "convolvulus-pluricaulis",
+    "title": "convolvulus pluricaulis",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/convolvulus-pluricaulis/"
+  },
+  {
+    "slug": "copper",
+    "title": "copper",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/copper/"
+  },
+  {
+    "slug": "coq10",
+    "title": "coq10",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/coq10/"
+  },
+  {
+    "slug": "cordycepin",
+    "title": "cordycepin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cordycepin/"
+  },
+  {
+    "slug": "cordyceps",
+    "title": "cordyceps",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cordyceps/"
+  },
+  {
+    "slug": "cortagen",
+    "title": "cortagen",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/cortagen/"
+  },
+  {
+    "slug": "cortexin",
+    "title": "cortexin",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/cortexin/"
+  },
+  {
+    "slug": "creatine-monohydrate",
+    "title": "creatine monohydrate",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/creatine-monohydrate/"
+  },
+  {
+    "slug": "cyanidin",
+    "title": "cyanidin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/cyanidin/"
+  },
+  {
+    "slug": "d-aspartic-acid",
+    "title": "d-aspartic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/d-aspartic-acid/"
+  },
+  {
+    "slug": "d-chiro-inositol",
+    "title": "d-chiro-inositol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/d-chiro-inositol/"
+  },
+  {
+    "slug": "d-ribose",
+    "title": "d-ribose",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/d-ribose/"
+  },
+  {
+    "slug": "daidzein",
+    "title": "daidzein",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/daidzein/"
+  },
+  {
+    "slug": "dandelion-root",
+    "title": "dandelion root",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/dandelion-root/"
+  },
+  {
+    "slug": "dasatinib",
+    "title": "dasatinib",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/dasatinib/"
+  },
+  {
+    "slug": "decapeptide-12",
+    "title": "decapeptide-12",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/decapeptide-12/"
+  },
+  {
+    "slug": "demoxytocin",
+    "title": "demoxytocin",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/demoxytocin/"
+  },
+  {
+    "slug": "devil-s-claw",
+    "title": "devil's claw",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/devil-s-claw/"
+  },
+  {
+    "slug": "dgl",
+    "title": "dgl",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/dgl/"
+  },
+  {
+    "slug": "dha",
+    "title": "dha",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/dha/"
+  },
+  {
+    "slug": "dihexa",
+    "title": "dihexa",
+    "categories": [
+      "Peptide",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/dihexa/"
+  },
+  {
+    "slug": "dim",
+    "title": "dim",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/dim/"
+  },
+  {
+    "slug": "dimethylaminoethanol--dmae-",
+    "title": "dimethylaminoethanol (dmae)",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/dimethylaminoethanol--dmae-/"
+  },
+  {
+    "slug": "dimethylglycine",
+    "title": "dimethylglycine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/dimethylglycine/"
+  },
+  {
+    "slug": "dimiracetam",
+    "title": "dimiracetam",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/dimiracetam/"
+  },
+  {
+    "slug": "diosmin",
+    "title": "diosmin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/diosmin/"
+  },
+  {
+    "slug": "dmae",
+    "title": "dmae",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/dmae/"
+  },
+  {
+    "slug": "doliracetam",
+    "title": "doliracetam",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/doliracetam/"
+  },
+  {
+    "slug": "donepezil",
+    "title": "donepezil",
+    "categories": [
+      "Medicine",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/donepezil/"
+  },
+  {
+    "slug": "dong-quai",
+    "title": "dong quai",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/dong-quai/"
+  },
+  {
+    "slug": "dsip--delta-sleep-inducing-peptide-",
+    "title": "dsip (delta sleep-inducing peptide)",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/dsip--delta-sleep-inducing-peptide-/"
+  },
+  {
+    "slug": "dulaglutide",
+    "title": "dulaglutide",
+    "categories": [
+      "Peptide",
+      "GLP"
+    ],
+    "url": "https://dopamine.club/substances/dulaglutide/"
+  },
+  {
+    "slug": "dupracetam",
+    "title": "dupracetam",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/dupracetam/"
+  },
+  {
+    "slug": "ecdysterone",
+    "title": "ecdysterone",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ecdysterone/"
+  },
+  {
+    "slug": "echinacea",
+    "title": "echinacea",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/echinacea/"
+  },
+  {
+    "slug": "ecklonia-cava",
+    "title": "ecklonia cava",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ecklonia-cava/"
+  },
+  {
+    "slug": "egcg--green-tea-extract-",
+    "title": "egcg (green tea extract)",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/egcg--green-tea-extract-/"
+  },
+  {
+    "slug": "elderberry",
+    "title": "elderberry",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/elderberry/"
+  },
+  {
+    "slug": "eleuthero",
+    "title": "eleuthero",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/eleuthero/"
+  },
+  {
+    "slug": "emoxypine",
+    "title": "emoxypine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/emoxypine/"
+  },
+  {
+    "slug": "epa",
+    "title": "epa",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/epa/"
+  },
+  {
+    "slug": "epicatechin",
+    "title": "epicatechin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/epicatechin/"
+  },
+  {
+    "slug": "epitalon",
+    "title": "epitalon",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/epitalon/"
+  },
+  {
+    "slug": "ergocalciferol",
+    "title": "ergocalciferol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ergocalciferol/"
+  },
+  {
+    "slug": "ergothioneine",
+    "title": "ergothioneine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ergothioneine/"
+  },
+  {
+    "slug": "etiracetam",
+    "title": "etiracetam",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/etiracetam/"
+  },
+  {
+    "slug": "everolimus",
+    "title": "everolimus",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/everolimus/"
+  },
+  {
+    "slug": "evodiamine",
+    "title": "evodiamine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/evodiamine/"
+  },
+  {
+    "slug": "exenatide",
+    "title": "exenatide",
+    "categories": [
+      "Peptide",
+      "GLP"
+    ],
+    "url": "https://dopamine.club/substances/exenatide/"
+  },
+  {
+    "slug": "fad",
+    "title": "fad",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fad/"
+  },
+  {
+    "slug": "fadogia-agrestis",
+    "title": "fadogia agrestis",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fadogia-agrestis/"
+  },
+  {
+    "slug": "fasoracetam",
+    "title": "fasoracetam",
+    "categories": [
+      "Nootropic",
+      "Racetam"
+    ],
+    "url": "https://dopamine.club/substances/fasoracetam/"
+  },
+  {
+    "slug": "fennel",
+    "title": "fennel",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fennel/"
+  },
+  {
+    "slug": "fenugreek",
+    "title": "fenugreek",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fenugreek/"
+  },
+  {
+    "slug": "ferulic-acid",
+    "title": "ferulic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ferulic-acid/"
+  },
+  {
+    "slug": "fisetin",
+    "title": "fisetin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fisetin/"
+  },
+  {
+    "slug": "fmn",
+    "title": "fmn",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fmn/"
+  },
+  {
+    "slug": "folinic-acid",
+    "title": "folinic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/folinic-acid/"
+  },
+  {
+    "slug": "follistatin-344",
+    "title": "follistatin 344",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/follistatin-344/"
+  },
+  {
+    "slug": "forskolin",
+    "title": "forskolin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/forskolin/"
+  },
+  {
+    "slug": "foxo4-dri",
+    "title": "foxo4-dri",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/foxo4-dri/"
+  },
+  {
+    "slug": "fucoidan",
+    "title": "fucoidan",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fucoidan/"
+  },
+  {
+    "slug": "fucoxanthin",
+    "title": "fucoxanthin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fucoxanthin/"
+  },
+  {
+    "slug": "fulvic-acid",
+    "title": "fulvic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/fulvic-acid/"
+  },
+  {
+    "slug": "gaba",
+    "title": "gaba",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/gaba/"
+  },
+  {
+    "slug": "galantamine",
+    "title": "galantamine",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/galantamine/"
+  },
+  {
+    "slug": "gamma-tocopherol",
+    "title": "gamma-tocopherol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/gamma-tocopherol/"
+  },
+  {
+    "slug": "garlic-extract",
+    "title": "garlic extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/garlic-extract/"
+  },
+  {
+    "slug": "gdf-11",
+    "title": "gdf-11",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/gdf-11/"
+  },
+  {
+    "slug": "gelatin",
+    "title": "gelatin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/gelatin/"
+  },
+  {
+    "slug": "genistein",
+    "title": "genistein",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/genistein/"
+  },
+  {
+    "slug": "ghk-cu",
+    "title": "ghk-cu",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/ghk-cu/"
+  },
+  {
+    "slug": "ghrelin",
+    "title": "ghrelin",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/ghrelin/"
+  },
+  {
+    "slug": "ghrp-2",
+    "title": "ghrp-2",
+    "categories": [
+      "Peptide",
+      "GH"
+    ],
+    "url": "https://dopamine.club/substances/ghrp-2/"
+  },
+  {
+    "slug": "ghrp-6",
+    "title": "ghrp-6",
+    "categories": [
+      "Peptide",
+      "GH"
+    ],
+    "url": "https://dopamine.club/substances/ghrp-6/"
+  },
+  {
+    "slug": "ginger",
+    "title": "ginger",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ginger/"
+  },
+  {
+    "slug": "ginkgo-biloba",
+    "title": "ginkgo biloba",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/ginkgo-biloba/"
+  },
+  {
+    "slug": "ginkgolide-b",
+    "title": "ginkgolide b",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/ginkgolide-b/"
+  },
+  {
+    "slug": "ginseng",
+    "title": "ginseng",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ginseng/"
+  },
+  {
+    "slug": "ginsenoside-rg1",
+    "title": "ginsenoside rg1",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/ginsenoside-rg1/"
+  },
+  {
+    "slug": "ginsenosides",
+    "title": "ginsenosides",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ginsenosides/"
+  },
+  {
+    "slug": "gla",
+    "title": "gla",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/gla/"
+  },
+  {
+    "slug": "glp-1",
+    "title": "glp-1",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/glp-1/"
+  },
+  {
+    "slug": "glpg-0492",
+    "title": "glpg-0492",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/glpg-0492/"
+  },
+  {
+    "slug": "glucosamine",
+    "title": "glucosamine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/glucosamine/"
+  },
+  {
+    "slug": "glutamine",
+    "title": "glutamine",
+    "categories": [
+      "Amino Acid",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/glutamine/"
+  },
+  {
+    "slug": "glutathione",
+    "title": "glutathione",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/glutathione/"
+  },
+  {
+    "slug": "glycerol",
+    "title": "glycerol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/glycerol/"
+  },
+  {
+    "slug": "glycine",
+    "title": "glycine",
+    "categories": [
+      "Amino Acid",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/glycine/"
+  },
+  {
+    "slug": "gonadorelin",
+    "title": "gonadorelin",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/gonadorelin/"
+  },
+  {
+    "slug": "gotu-kola",
+    "title": "gotu kola",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/gotu-kola/"
+  },
+  {
+    "slug": "grape-seed-extract",
+    "title": "grape seed extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/grape-seed-extract/"
+  },
+  {
+    "slug": "gsk-2849466",
+    "title": "gsk-2849466",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/gsk-2849466/"
+  },
+  {
+    "slug": "gsk-2881078",
+    "title": "gsk-2881078",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/gsk-2881078/"
+  },
+  {
+    "slug": "gsk-971086",
+    "title": "gsk-971086",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/gsk-971086/"
+  },
+  {
+    "slug": "gtx-027",
+    "title": "gtx-027",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/gtx-027/"
+  },
+  {
+    "slug": "guarana",
+    "title": "guarana",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/guarana/"
+  },
+  {
+    "slug": "gw0742",
+    "title": "gw0742",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/gw0742/"
+  },
+  {
+    "slug": "gymnema-sylvestre",
+    "title": "gymnema sylvestre",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/gymnema-sylvestre/"
+  },
+  {
+    "slug": "hawthorn",
+    "title": "hawthorn",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/hawthorn/"
+  },
+  {
+    "slug": "hcg",
+    "title": "hcg",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/hcg/"
+  },
+  {
+    "slug": "he-shou-wu",
+    "title": "he shou wu",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/he-shou-wu/"
+  },
+  {
+    "slug": "hexarelin",
+    "title": "hexarelin",
+    "categories": [
+      "Peptide",
+      "GH"
+    ],
+    "url": "https://dopamine.club/substances/hexarelin/"
+  },
+  {
+    "slug": "hgh-fragment-176-191",
+    "title": "hgh fragment 176-191",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/hgh-fragment-176-191/"
+  },
+  {
+    "slug": "hmb",
+    "title": "hmb",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/hmb/"
+  },
+  {
+    "slug": "hmg",
+    "title": "hmg",
+    "categories": [
+      "Peptide",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/hmg/"
+  },
+  {
+    "slug": "honokiol",
+    "title": "honokiol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/honokiol/"
+  },
+  {
+    "slug": "horny-goat-weed--epimedium-",
+    "title": "horny goat weed (epimedium)",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/horny-goat-weed--epimedium-/"
+  },
+  {
+    "slug": "human-relaxin-2",
+    "title": "human relaxin-2",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/human-relaxin-2/"
+  },
+  {
+    "slug": "humanin",
+    "title": "humanin",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/humanin/"
+  },
+  {
+    "slug": "humic-acid",
+    "title": "humic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/humic-acid/"
+  },
+  {
+    "slug": "huperzine-a",
+    "title": "huperzine a",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/huperzine-a/"
+  },
+  {
+    "slug": "hyaluronic-acid",
+    "title": "hyaluronic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/hyaluronic-acid/"
+  },
+  {
+    "slug": "hydergine",
+    "title": "hydergine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/hydergine/"
+  },
+  {
+    "slug": "hydrafinil",
+    "title": "hydrafinil",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/hydrafinil/"
+  },
+  {
+    "slug": "hydroxytyrosol",
+    "title": "hydroxytyrosol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/hydroxytyrosol/"
+  },
+  {
+    "slug": "hyperforin",
+    "title": "hyperforin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/hyperforin/"
+  },
+  {
+    "slug": "hypericin",
+    "title": "hypericin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/hypericin/"
+  },
+  {
+    "slug": "i3c",
+    "title": "i3c",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/i3c/"
+  },
+  {
+    "slug": "ibutamoren--mk-677-",
+    "title": "ibutamoren (mk-677)",
+    "categories": [
+      "Peptide",
+      "GH"
+    ],
+    "url": "https://dopamine.club/substances/ibutamoren--mk-677-/"
+  },
+  {
+    "slug": "idebenone",
+    "title": "idebenone",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/idebenone/"
+  },
+  {
+    "slug": "idra-21",
+    "title": "idra-21",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/idra-21/"
+  },
+  {
+    "slug": "igf-1",
+    "title": "igf-1",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/igf-1/"
+  },
+  {
+    "slug": "igf-1-des",
+    "title": "igf-1 des",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/igf-1-des/"
+  },
+  {
+    "slug": "igf-1-lr3",
+    "title": "igf-1 lr3",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/igf-1-lr3/"
+  },
+  {
+    "slug": "immunoglobulins",
+    "title": "immunoglobulins",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/immunoglobulins/"
+  },
+  {
+    "slug": "iodine",
+    "title": "iodine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/iodine/"
+  },
+  {
+    "slug": "ipamorelin",
+    "title": "ipamorelin",
+    "categories": [
+      "Peptide",
+      "GH"
+    ],
+    "url": "https://dopamine.club/substances/ipamorelin/"
+  },
+  {
+    "slug": "irisin",
+    "title": "irisin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/irisin/"
+  },
+  {
+    "slug": "iron",
+    "title": "iron",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/iron/"
+  },
+  {
+    "slug": "iron-bisglycinate",
+    "title": "iron bisglycinate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/iron-bisglycinate/"
+  },
+  {
+    "slug": "ivermectin",
+    "title": "ivermectin",
+    "categories": [
+      "Medicine"
+    ],
+    "url": "https://dopamine.club/substances/ivermectin/"
+  },
+  {
+    "slug": "jiaogulan",
+    "title": "jiaogulan",
+    "categories": [
+      "Herb",
+      "Adaptogen"
+    ],
+    "url": "https://dopamine.club/substances/jiaogulan/"
+  },
+  {
+    "slug": "jujube",
+    "title": "jujube",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/jujube/"
+  },
+  {
+    "slug": "kaempferol",
+    "title": "kaempferol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/kaempferol/"
+  },
+  {
+    "slug": "kanna",
+    "title": "kanna",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/kanna/"
+  },
+  {
+    "slug": "kava",
+    "title": "kava",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/kava/"
+  },
+  {
+    "slug": "kisspeptin",
+    "title": "kisspeptin",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/kisspeptin/"
+  },
+  {
+    "slug": "kpv",
+    "title": "kpv",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/kpv/"
+  },
+  {
+    "slug": "kratom",
+    "title": "kratom",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/kratom/"
+  },
+  {
+    "slug": "l-carnitine",
+    "title": "l-carnitine",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/l-carnitine/"
+  },
+  {
+    "slug": "l-carnosine",
+    "title": "l-carnosine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/l-carnosine/"
+  },
+  {
+    "slug": "l-citrulline",
+    "title": "l-citrulline",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/l-citrulline/"
+  },
+  {
+    "slug": "l-dopa",
+    "title": "l-dopa",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/l-dopa/"
+  },
+  {
+    "slug": "l-glutamine",
+    "title": "l-glutamine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/l-glutamine/"
+  },
+  {
+    "slug": "l-serine",
+    "title": "l-serine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/l-serine/"
+  },
+  {
+    "slug": "l-theanine",
+    "title": "l-theanine",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/l-theanine/"
+  },
+  {
+    "slug": "l-tyrosine",
+    "title": "l-tyrosine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/l-tyrosine/"
+  },
+  {
+    "slug": "lactase",
+    "title": "lactase",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lactase/"
+  },
+  {
+    "slug": "lactoferrin",
+    "title": "lactoferrin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lactoferrin/"
+  },
+  {
+    "slug": "laminarin",
+    "title": "laminarin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/laminarin/"
+  },
+  {
+    "slug": "lavender",
+    "title": "lavender",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lavender/"
+  },
+  {
+    "slug": "lemon-balm",
+    "title": "lemon balm",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/lemon-balm/"
+  },
+  {
+    "slug": "leucine",
+    "title": "leucine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/leucine/"
+  },
+  {
+    "slug": "lgd-4033",
+    "title": "lgd-4033",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/lgd-4033/"
+  },
+  {
+    "slug": "limonene",
+    "title": "limonene",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/limonene/"
+  },
+  {
+    "slug": "linalool",
+    "title": "linalool",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/linalool/"
+  },
+  {
+    "slug": "lion-s-mane",
+    "title": "lion's mane",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lion-s-mane/"
+  },
+  {
+    "slug": "lipase",
+    "title": "lipase",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lipase/"
+  },
+  {
+    "slug": "liposomal-vitamin-c",
+    "title": "liposomal vitamin c",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/liposomal-vitamin-c/"
+  },
+  {
+    "slug": "liraglutide",
+    "title": "liraglutide",
+    "categories": [
+      "Peptide",
+      "GLP"
+    ],
+    "url": "https://dopamine.club/substances/liraglutide/"
+  },
+  {
+    "slug": "lithium-orotate",
+    "title": "lithium orotate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lithium-orotate/"
+  },
+  {
+    "slug": "ll-37",
+    "title": "ll-37",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/ll-37/"
+  },
+  {
+    "slug": "lumbrokinase",
+    "title": "lumbrokinase",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lumbrokinase/"
+  },
+  {
+    "slug": "lunasin",
+    "title": "lunasin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lunasin/"
+  },
+  {
+    "slug": "lutein",
+    "title": "lutein",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lutein/"
+  },
+  {
+    "slug": "luteolin",
+    "title": "luteolin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/luteolin/"
+  },
+  {
+    "slug": "lycopene",
+    "title": "lycopene",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lycopene/"
+  },
+  {
+    "slug": "lysine",
+    "title": "lysine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/lysine/"
+  },
+  {
+    "slug": "maca",
+    "title": "maca",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/maca/"
+  },
+  {
+    "slug": "magnesium-citrate",
+    "title": "magnesium citrate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/magnesium-citrate/"
+  },
+  {
+    "slug": "magnesium-glycinate",
+    "title": "magnesium glycinate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/magnesium-glycinate/"
+  },
+  {
+    "slug": "magnesium-l-threonate",
+    "title": "magnesium l-threonate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/magnesium-l-threonate/"
+  },
+  {
+    "slug": "magnesium-orotate",
+    "title": "magnesium orotate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/magnesium-orotate/"
+  },
+  {
+    "slug": "magnesium-taurate",
+    "title": "magnesium taurate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/magnesium-taurate/"
+  },
+  {
+    "slug": "magnolia-bark",
+    "title": "magnolia bark",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/magnolia-bark/"
+  },
+  {
+    "slug": "maitake",
+    "title": "maitake",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/maitake/"
+  },
+  {
+    "slug": "malic-acid",
+    "title": "malic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/malic-acid/"
+  },
+  {
+    "slug": "marshmallow-root",
+    "title": "marshmallow root",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/marshmallow-root/"
+  },
+  {
+    "slug": "matrine",
+    "title": "matrine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/matrine/"
+  },
+  {
+    "slug": "melanotan-1",
+    "title": "melanotan 1",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/melanotan-1/"
+  },
+  {
+    "slug": "melanotan-2",
+    "title": "melanotan 2",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/melanotan-2/"
+  },
+  {
+    "slug": "melatonin",
+    "title": "melatonin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/melatonin/"
+  },
+  {
+    "slug": "memantine",
+    "title": "memantine",
+    "categories": [
+      "Medicine"
+    ],
+    "url": "https://dopamine.club/substances/memantine/"
+  },
+  {
+    "slug": "menaquinone-7",
+    "title": "menaquinone-7",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/menaquinone-7/"
+  },
+  {
+    "slug": "menthol",
+    "title": "menthol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/menthol/"
+  },
+  {
+    "slug": "methylene-blue",
+    "title": "methylene blue",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/methylene-blue/"
+  },
+  {
+    "slug": "mgf",
+    "title": "mgf",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/mgf/"
+  },
+  {
+    "slug": "mif-1",
+    "title": "mif-1",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/mif-1/"
+  },
+  {
+    "slug": "milk-thistle",
+    "title": "milk thistle",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/milk-thistle/"
+  },
+  {
+    "slug": "mitoq",
+    "title": "mitoq",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/mitoq/"
+  },
+  {
+    "slug": "mk-3984",
+    "title": "mk-3984",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/mk-3984/"
+  },
+  {
+    "slug": "modafinil",
+    "title": "modafinil",
+    "categories": [
+      "Nootropic",
+      "Medicine"
+    ],
+    "url": "https://dopamine.club/substances/modafinil/"
+  },
+  {
+    "slug": "modified-grf-1-29",
+    "title": "modified grf 1-29",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/modified-grf-1-29/"
+  },
+  {
+    "slug": "mots-c",
+    "title": "mots-c",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/mots-c/"
+  },
+  {
+    "slug": "msm",
+    "title": "msm",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/msm/"
+  },
+  {
+    "slug": "mucuna-pruriens",
+    "title": "mucuna pruriens",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/mucuna-pruriens/"
+  },
+  {
+    "slug": "myricetin",
+    "title": "myricetin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/myricetin/"
+  },
+  {
+    "slug": "n-acetyl-epitalon",
+    "title": "n-acetyl epitalon",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/n-acetyl-epitalon/"
+  },
+  {
+    "slug": "n-acetyl-glucosamine",
+    "title": "n-acetyl glucosamine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/n-acetyl-glucosamine/"
+  },
+  {
+    "slug": "n-acetyl-l-tyrosine--nalt-",
+    "title": "n-acetyl l-tyrosine (nalt)",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/n-acetyl-l-tyrosine--nalt-/"
+  },
+  {
+    "slug": "n-acetyl-selank",
+    "title": "n-acetyl selank",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/n-acetyl-selank/"
+  },
+  {
+    "slug": "n-acetyl-semax",
+    "title": "n-acetyl semax",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/n-acetyl-semax/"
+  },
+  {
+    "slug": "nac",
+    "title": "nac",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/nac/"
+  },
+  {
+    "slug": "nad-",
+    "title": "nad+",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/nad-/"
+  },
+  {
+    "slug": "nad---nmn-nr-",
+    "title": "nad+ (nmn/nr)",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/nad---nmn-nr-/"
+  },
+  {
+    "slug": "nad--boosters--nmn-nr-",
+    "title": "nad+ boosters (nmn/nr)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/nad--boosters--nmn-nr-/"
+  },
+  {
+    "slug": "nadh",
+    "title": "nadh",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/nadh/"
+  },
+  {
+    "slug": "nattokinase",
+    "title": "nattokinase",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/nattokinase/"
+  },
+  {
+    "slug": "nefiracetam",
+    "title": "nefiracetam",
+    "categories": [
+      "Nootropic",
+      "Racetam"
+    ],
+    "url": "https://dopamine.club/substances/nefiracetam/"
+  },
+  {
+    "slug": "neurotrophin-3",
+    "title": "neurotrophin-3",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/neurotrophin-3/"
+  },
+  {
+    "slug": "nigella-sativa",
+    "title": "nigella sativa",
+    "categories": [
+      "Adaptogen",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/nigella-sativa/"
+  },
+  {
+    "slug": "nobiletin",
+    "title": "nobiletin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/nobiletin/"
+  },
+  {
+    "slug": "noopept",
+    "title": "noopept",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/noopept/"
+  },
+  {
+    "slug": "nsi-189",
+    "title": "nsi-189",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/nsi-189/"
+  },
+  {
+    "slug": "oleic-acid",
+    "title": "oleic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/oleic-acid/"
+  },
+  {
+    "slug": "oleuropein",
+    "title": "oleuropein",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/oleuropein/"
+  },
+  {
+    "slug": "olive-leaf-extract",
+    "title": "olive leaf extract",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/olive-leaf-extract/"
+  },
+  {
+    "slug": "omega-3",
+    "title": "omega-3",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/omega-3/"
+  },
+  {
+    "slug": "ornithine",
+    "title": "ornithine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ornithine/"
+  },
+  {
+    "slug": "ostarine",
+    "title": "ostarine",
+    "categories": [
+      "SARM",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/ostarine/"
+  },
+  {
+    "slug": "oxaloacetate",
+    "title": "oxaloacetate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/oxaloacetate/"
+  },
+  {
+    "slug": "oxiracetam",
+    "title": "oxiracetam",
+    "categories": [
+      "Nootropic",
+      "Racetam"
+    ],
+    "url": "https://dopamine.club/substances/oxiracetam/"
+  },
+  {
+    "slug": "oxytocin",
+    "title": "oxytocin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/oxytocin/"
+  },
+  {
+    "slug": "p21",
+    "title": "p21",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/p21/"
+  },
+  {
+    "slug": "p7c3",
+    "title": "p7c3",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/p7c3/"
+  },
+  {
+    "slug": "pacap",
+    "title": "pacap",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pacap/"
+  },
+  {
+    "slug": "pal-ghk--palmitoyl-tripeptide-1-",
+    "title": "pal-ghk (palmitoyl tripeptide-1)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pal-ghk--palmitoyl-tripeptide-1-/"
+  },
+  {
+    "slug": "papain",
+    "title": "papain",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/papain/"
+  },
+  {
+    "slug": "parthenolide",
+    "title": "parthenolide",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/parthenolide/"
+  },
+  {
+    "slug": "passionflower",
+    "title": "passionflower",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/passionflower/"
+  },
+  {
+    "slug": "pea",
+    "title": "pea",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pea/"
+  },
+  {
+    "slug": "peg-mgf",
+    "title": "peg-mgf",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/peg-mgf/"
+  },
+  {
+    "slug": "peppermint-oil",
+    "title": "peppermint oil",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/peppermint-oil/"
+  },
+  {
+    "slug": "phenibut",
+    "title": "phenibut",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/phenibut/"
+  },
+  {
+    "slug": "phenotropil",
+    "title": "phenotropil",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/phenotropil/"
+  },
+  {
+    "slug": "phenylalanine",
+    "title": "phenylalanine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/phenylalanine/"
+  },
+  {
+    "slug": "phenylpiracetam",
+    "title": "phenylpiracetam",
+    "categories": [
+      "Nootropic",
+      "Racetam"
+    ],
+    "url": "https://dopamine.club/substances/phenylpiracetam/"
+  },
+  {
+    "slug": "phloretin",
+    "title": "phloretin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/phloretin/"
+  },
+  {
+    "slug": "phosphatidylcholine",
+    "title": "phosphatidylcholine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/phosphatidylcholine/"
+  },
+  {
+    "slug": "phosphatidylserine",
+    "title": "phosphatidylserine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/phosphatidylserine/"
+  },
+  {
+    "slug": "phylloquinone",
+    "title": "phylloquinone",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/phylloquinone/"
+  },
+  {
+    "slug": "picamilon",
+    "title": "picamilon",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/picamilon/"
+  },
+  {
+    "slug": "piceatannol",
+    "title": "piceatannol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/piceatannol/"
+  },
+  {
+    "slug": "pinealon",
+    "title": "pinealon",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/pinealon/"
+  },
+  {
+    "slug": "piperine",
+    "title": "piperine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/piperine/"
+  },
+  {
+    "slug": "piracetam",
+    "title": "piracetam",
+    "categories": [
+      "Nootropic",
+      "Racetam"
+    ],
+    "url": "https://dopamine.club/substances/piracetam/"
+  },
+  {
+    "slug": "piritinol",
+    "title": "piritinol",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/piritinol/"
+  },
+  {
+    "slug": "pomegranate-extract",
+    "title": "pomegranate extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pomegranate-extract/"
+  },
+  {
+    "slug": "pqq",
+    "title": "pqq",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pqq/"
+  },
+  {
+    "slug": "pramiracetam",
+    "title": "pramiracetam",
+    "categories": [
+      "Nootropic",
+      "Racetam"
+    ],
+    "url": "https://dopamine.club/substances/pramiracetam/"
+  },
+  {
+    "slug": "pramlintide",
+    "title": "pramlintide",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/pramlintide/"
+  },
+  {
+    "slug": "pregnenolone",
+    "title": "pregnenolone",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pregnenolone/"
+  },
+  {
+    "slug": "propionyl-l-carnitine",
+    "title": "propionyl-l-carnitine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/propionyl-l-carnitine/"
+  },
+  {
+    "slug": "prostatilen",
+    "title": "prostatilen",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/prostatilen/"
+  },
+  {
+    "slug": "protease",
+    "title": "protease",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/protease/"
+  },
+  {
+    "slug": "prucalopride",
+    "title": "prucalopride",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/prucalopride/"
+  },
+  {
+    "slug": "pt-141",
+    "title": "pt-141",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/pt-141/"
+  },
+  {
+    "slug": "pterostilbene",
+    "title": "pterostilbene",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pterostilbene/"
+  },
+  {
+    "slug": "punicalagins",
+    "title": "punicalagins",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/punicalagins/"
+  },
+  {
+    "slug": "pycnogenol",
+    "title": "pycnogenol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pycnogenol/"
+  },
+  {
+    "slug": "pyridoxal-5-phosphate",
+    "title": "pyridoxal-5-phosphate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pyridoxal-5-phosphate/"
+  },
+  {
+    "slug": "pyruvic-acid",
+    "title": "pyruvic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/pyruvic-acid/"
+  },
+  {
+    "slug": "quercetin",
+    "title": "quercetin",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/quercetin/"
+  },
+  {
+    "slug": "quercetin-phytosome",
+    "title": "quercetin phytosome",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/quercetin-phytosome/"
+  },
+  {
+    "slug": "r-alpha-lipoic-acid",
+    "title": "r-alpha lipoic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/r-alpha-lipoic-acid/"
+  },
+  {
+    "slug": "rad-140",
+    "title": "rad-140",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/rad-140/"
+  },
+  {
+    "slug": "rapamycin",
+    "title": "rapamycin",
+    "categories": [
+      "Medicine"
+    ],
+    "url": "https://dopamine.club/substances/rapamycin/"
+  },
+  {
+    "slug": "rapastinel",
+    "title": "rapastinel",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/rapastinel/"
+  },
+  {
+    "slug": "red-clover",
+    "title": "red clover",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/red-clover/"
+  },
+  {
+    "slug": "red-yeast-rice",
+    "title": "red yeast rice",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/red-yeast-rice/"
+  },
+  {
+    "slug": "rehmannia",
+    "title": "rehmannia",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/rehmannia/"
+  },
+  {
+    "slug": "reishi",
+    "title": "reishi",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/reishi/"
+  },
+  {
+    "slug": "resveratrol",
+    "title": "resveratrol",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/resveratrol/"
+  },
+  {
+    "slug": "retatrutide",
+    "title": "retatrutide",
+    "categories": [
+      "Peptide",
+      "GLP"
+    ],
+    "url": "https://dopamine.club/substances/retatrutide/"
+  },
+  {
+    "slug": "retinalamin",
+    "title": "retinalamin",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/retinalamin/"
+  },
+  {
+    "slug": "retinol",
+    "title": "retinol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/retinol/"
+  },
+  {
+    "slug": "rhodiola-rosea",
+    "title": "rhodiola rosea",
+    "categories": [
+      "Herb",
+      "Adaptogen"
+    ],
+    "url": "https://dopamine.club/substances/rhodiola-rosea/"
+  },
+  {
+    "slug": "rhoifolin",
+    "title": "rhoifolin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/rhoifolin/"
+  },
+  {
+    "slug": "rose-hip-extract",
+    "title": "rose hip extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/rose-hip-extract/"
+  },
+  {
+    "slug": "rosmarinic-acid",
+    "title": "rosmarinic acid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/rosmarinic-acid/"
+  },
+  {
+    "slug": "rutin",
+    "title": "rutin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/rutin/"
+  },
+  {
+    "slug": "s-23",
+    "title": "s-23",
+    "categories": [
+      "SARM"
+    ],
+    "url": "https://dopamine.club/substances/s-23/"
+  },
+  {
+    "slug": "s-acetyl-glutathione",
+    "title": "s-acetyl glutathione",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/s-acetyl-glutathione/"
+  },
+  {
+    "slug": "salicin",
+    "title": "salicin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/salicin/"
+  },
+  {
+    "slug": "same",
+    "title": "same",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/same/"
+  },
+  {
+    "slug": "sandalwood",
+    "title": "sandalwood",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/sandalwood/"
+  },
+  {
+    "slug": "sapropterin",
+    "title": "sapropterin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/sapropterin/"
+  },
+  {
+    "slug": "sarcosine",
+    "title": "sarcosine",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/sarcosine/"
+  },
+  {
+    "slug": "saw-palmetto",
+    "title": "saw palmetto",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/saw-palmetto/"
+  },
+  {
+    "slug": "schisandra",
+    "title": "schisandra",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/schisandra/"
+  },
+  {
+    "slug": "scutellaria",
+    "title": "scutellaria",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/scutellaria/"
+  },
+  {
+    "slug": "selank",
+    "title": "selank",
+    "categories": [
+      "Peptide",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/selank/"
+  },
+  {
+    "slug": "selenium",
+    "title": "selenium",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/selenium/"
+  },
+  {
+    "slug": "selenomethionine",
+    "title": "selenomethionine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/selenomethionine/"
+  },
+  {
+    "slug": "semaglutide",
+    "title": "semaglutide",
+    "categories": [
+      "Peptide",
+      "GLP"
+    ],
+    "url": "https://dopamine.club/substances/semaglutide/"
+  },
+  {
+    "slug": "semax",
+    "title": "semax",
+    "categories": [
+      "Peptide",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/semax/"
+  },
+  {
+    "slug": "sermorelin",
+    "title": "sermorelin",
+    "categories": [
+      "Peptide",
+      "GH"
+    ],
+    "url": "https://dopamine.club/substances/sermorelin/"
+  },
+  {
+    "slug": "serrapeptase",
+    "title": "serrapeptase",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/serrapeptase/"
+  },
+  {
+    "slug": "shiitake",
+    "title": "shiitake",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/shiitake/"
+  },
+  {
+    "slug": "shilajit",
+    "title": "shilajit",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/shilajit/"
+  },
+  {
+    "slug": "silybin",
+    "title": "silybin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/silybin/"
+  },
+  {
+    "slug": "skf-38393",
+    "title": "skf-38393",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/skf-38393/"
+  },
+  {
+    "slug": "skq1",
+    "title": "skq1",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/skq1/"
+  },
+  {
+    "slug": "slippery-elm",
+    "title": "slippery elm",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/slippery-elm/"
+  },
+  {
+    "slug": "slu-pp-332",
+    "title": "slu-pp-332",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/slu-pp-332/"
+  },
+  {
+    "slug": "sodium-ascorbate",
+    "title": "sodium ascorbate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/sodium-ascorbate/"
+  },
+  {
+    "slug": "sodium-bicarbonate",
+    "title": "sodium bicarbonate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/sodium-bicarbonate/"
+  },
+  {
+    "slug": "sodium-butyrate",
+    "title": "sodium butyrate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/sodium-butyrate/"
+  },
+  {
+    "slug": "solcoseryl",
+    "title": "solcoseryl",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/solcoseryl/"
+  },
+  {
+    "slug": "somatostatin",
+    "title": "somatostatin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/somatostatin/"
+  },
+  {
+    "slug": "souvenaid",
+    "title": "souvenaid",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/souvenaid/"
+  },
+  {
+    "slug": "spermidine",
+    "title": "spermidine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/spermidine/"
+  },
+  {
+    "slug": "spirulina",
+    "title": "spirulina",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/spirulina/"
+  },
+  {
+    "slug": "sr-9011",
+    "title": "sr-9011",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/sr-9011/"
+  },
+  {
+    "slug": "sr9009--stenabolic-",
+    "title": "sr9009 (stenabolic)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/sr9009--stenabolic-/"
+  },
+  {
+    "slug": "ss-31",
+    "title": "ss-31",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/ss-31/"
+  },
+  {
+    "slug": "stinging-nettle",
+    "title": "stinging nettle",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/stinging-nettle/"
+  },
+  {
+    "slug": "strontium-citrate",
+    "title": "strontium citrate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/strontium-citrate/"
+  },
+  {
+    "slug": "sulbutiamine",
+    "title": "sulbutiamine",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/sulbutiamine/"
+  },
+  {
+    "slug": "sulforaphane",
+    "title": "sulforaphane",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/sulforaphane/"
+  },
+  {
+    "slug": "suma",
+    "title": "suma",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/suma/"
+  },
+  {
+    "slug": "sunifiram",
+    "title": "sunifiram",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/sunifiram/"
+  },
+  {
+    "slug": "tau-peptide",
+    "title": "tau peptide",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tau-peptide/"
+  },
+  {
+    "slug": "taurine",
+    "title": "taurine",
+    "categories": [
+      "Nootropic",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/taurine/"
+  },
+  {
+    "slug": "tb-500",
+    "title": "tb-500",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/tb-500/"
+  },
+  {
+    "slug": "tesamorelin",
+    "title": "tesamorelin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tesamorelin/"
+  },
+  {
+    "slug": "testosterone",
+    "title": "testosterone",
+    "categories": [
+      "Medicine"
+    ],
+    "url": "https://dopamine.club/substances/testosterone/"
+  },
+  {
+    "slug": "tetrahydrocurcumin",
+    "title": "tetrahydrocurcumin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tetrahydrocurcumin/"
+  },
+  {
+    "slug": "theacrine",
+    "title": "theacrine",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/theacrine/"
+  },
+  {
+    "slug": "theobromine",
+    "title": "theobromine",
+    "categories": [
+      "Supplement",
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/theobromine/"
+  },
+  {
+    "slug": "thymalin",
+    "title": "thymalin",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/thymalin/"
+  },
+  {
+    "slug": "thymus-extract",
+    "title": "thymus extract",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/thymus-extract/"
+  },
+  {
+    "slug": "tirzepatide",
+    "title": "tirzepatide",
+    "categories": [
+      "Peptide",
+      "GLP"
+    ],
+    "url": "https://dopamine.club/substances/tirzepatide/"
+  },
+  {
+    "slug": "tocotrienols",
+    "title": "tocotrienols",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tocotrienols/"
+  },
+  {
+    "slug": "tongkat-ali--eurycoma-",
+    "title": "tongkat ali (eurycoma)",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tongkat-ali--eurycoma-/"
+  },
+  {
+    "slug": "toremifene",
+    "title": "toremifene",
+    "categories": [
+      "Medicine"
+    ],
+    "url": "https://dopamine.club/substances/toremifene/"
+  },
+  {
+    "slug": "trans-resveratrol",
+    "title": "trans-resveratrol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/trans-resveratrol/"
+  },
+  {
+    "slug": "tremella",
+    "title": "tremella",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tremella/"
+  },
+  {
+    "slug": "trh",
+    "title": "trh",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/trh/"
+  },
+  {
+    "slug": "tribulus-terrestris",
+    "title": "tribulus terrestris",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tribulus-terrestris/"
+  },
+  {
+    "slug": "tributyrin",
+    "title": "tributyrin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tributyrin/"
+  },
+  {
+    "slug": "trigonelline",
+    "title": "trigonelline",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/trigonelline/"
+  },
+  {
+    "slug": "tryptophan",
+    "title": "tryptophan",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/tryptophan/"
+  },
+  {
+    "slug": "tudca",
+    "title": "tudca",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/tudca/"
+  },
+  {
+    "slug": "turkesterone",
+    "title": "turkesterone",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/turkesterone/"
+  },
+  {
+    "slug": "turkey-tail-mushroom",
+    "title": "turkey tail mushroom",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/turkey-tail-mushroom/"
+  },
+  {
+    "slug": "turmeric--curcumin-",
+    "title": "turmeric (curcumin)",
+    "categories": [
+      "Herb",
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/turmeric--curcumin-/"
+  },
+  {
+    "slug": "udca",
+    "title": "udca",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/udca/"
+  },
+  {
+    "slug": "unifiram",
+    "title": "unifiram",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/unifiram/"
+  },
+  {
+    "slug": "uridine",
+    "title": "uridine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/uridine/"
+  },
+  {
+    "slug": "urolithin-a",
+    "title": "urolithin a",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/urolithin-a/"
+  },
+  {
+    "slug": "valerian-root",
+    "title": "valerian root",
+    "categories": [
+      "Herb"
+    ],
+    "url": "https://dopamine.club/substances/valerian-root/"
+  },
+  {
+    "slug": "vanadium",
+    "title": "vanadium",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vanadium/"
+  },
+  {
+    "slug": "vasopressin",
+    "title": "vasopressin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vasopressin/"
+  },
+  {
+    "slug": "vesilute",
+    "title": "vesilute",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vesilute/"
+  },
+  {
+    "slug": "vilon",
+    "title": "vilon",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/vilon/"
+  },
+  {
+    "slug": "vinpocetine",
+    "title": "vinpocetine",
+    "categories": [
+      "Nootropic"
+    ],
+    "url": "https://dopamine.club/substances/vinpocetine/"
+  },
+  {
+    "slug": "vip-peptide",
+    "title": "vip peptide",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/vip-peptide/"
+  },
+  {
+    "slug": "vitamin-b-complex",
+    "title": "vitamin b complex",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b-complex/"
+  },
+  {
+    "slug": "vitamin-b1--thiamine-",
+    "title": "vitamin b1 (thiamine)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b1--thiamine-/"
+  },
+  {
+    "slug": "vitamin-b12--cobalamin-",
+    "title": "vitamin b12 (cobalamin)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b12--cobalamin-/"
+  },
+  {
+    "slug": "vitamin-b2--riboflavin-",
+    "title": "vitamin b2 (riboflavin)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b2--riboflavin-/"
+  },
+  {
+    "slug": "vitamin-b3--niacin-",
+    "title": "vitamin b3 (niacin)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b3--niacin-/"
+  },
+  {
+    "slug": "vitamin-b5--pantothenic-acid-",
+    "title": "vitamin b5 (pantothenic acid)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b5--pantothenic-acid-/"
+  },
+  {
+    "slug": "vitamin-b6--pyridoxine-",
+    "title": "vitamin b6 (pyridoxine)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b6--pyridoxine-/"
+  },
+  {
+    "slug": "vitamin-b8--inositol-",
+    "title": "vitamin b8 (inositol)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b8--inositol-/"
+  },
+  {
+    "slug": "vitamin-b9--folate-",
+    "title": "vitamin b9 (folate)",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-b9--folate-/"
+  },
+  {
+    "slug": "vitamin-c",
+    "title": "vitamin c",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-c/"
+  },
+  {
+    "slug": "vitamin-d3",
+    "title": "vitamin d3",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-d3/"
+  },
+  {
+    "slug": "vitamin-e",
+    "title": "vitamin e",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-e/"
+  },
+  {
+    "slug": "vitamin-k",
+    "title": "vitamin k",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/vitamin-k/"
+  },
+  {
+    "slug": "whey-protein-isolate",
+    "title": "whey protein isolate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/whey-protein-isolate/"
+  },
+  {
+    "slug": "wild-yam",
+    "title": "wild yam",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/wild-yam/"
+  },
+  {
+    "slug": "wogonin",
+    "title": "wogonin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/wogonin/"
+  },
+  {
+    "slug": "wolverine-stack",
+    "title": "wolverine stack",
+    "categories": [
+      "Peptide"
+    ],
+    "url": "https://dopamine.club/substances/wolverine-stack/"
+  },
+  {
+    "slug": "xanthohumol",
+    "title": "xanthohumol",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/xanthohumol/"
+  },
+  {
+    "slug": "yohimbine",
+    "title": "yohimbine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/yohimbine/"
+  },
+  {
+    "slug": "zeaxanthin",
+    "title": "zeaxanthin",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/zeaxanthin/"
+  },
+  {
+    "slug": "zinc",
+    "title": "zinc",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/zinc/"
+  },
+  {
+    "slug": "zinc-carnosine",
+    "title": "zinc carnosine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/zinc-carnosine/"
+  },
+  {
+    "slug": "zinc-l-carnosine",
+    "title": "zinc l-carnosine",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/zinc-l-carnosine/"
+  },
+  {
+    "slug": "zinc-picolinate",
+    "title": "zinc picolinate",
+    "categories": [
+      "Supplement"
+    ],
+    "url": "https://dopamine.club/substances/zinc-picolinate/"
+  }
+]

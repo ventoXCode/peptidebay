@@ -1,0 +1,156 @@
+{
+  "slug": "liraglutide",
+  "url": "https://dopamine.club/substances/liraglutide/",
+  "scrapedAt": "2026-02-12T16:09:15.675Z",
+  "title": "LIRAGLUTIDE",
+  "description": "Liraglutide is a glucagon-like peptide-1 (GLP-1) receptor agonist, a synthetic peptide that shares 97% amino acid sequence identity with native human GLP-1. It works by mimicking the incretin hormone GLP-1, which stimulates insulin secretion, suppresses glucagon release, slows gastric emptying, and reduces appetite through central nervous system mechanisms. Primarily approved for treating type 2 diabetes mellitus and obesity, it has also shown potential benefits in reducing cardiovascular risk, sarcopenia, and metabolic syndrome.",
+  "categories": [
+    "Peptide",
+    "GLP"
+  ],
+  "research": [
+    {
+      "title": "Liraglutide improves senescence and ameliorating diabetic sarcopenia via the YAP-TAZ pathway",
+      "summary": "Liraglutide demonstrated protective effects against diabetic sarcopenia in rat models, improving muscle health and reducing cellular senescence through the YAP-TAZ pathway, beyond its established glucose-lowering and weight-reducing benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39987624/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Liraglutide prevents high glucose level induced insulinoma cells apoptosis by targeting autophagy",
+      "summary": "Liraglutide protected pancreatic beta cells from high glucose-induced apoptosis by modulating autophagy pathways, suggesting a mechanism for preserving beta cell function in type 2 diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23489805/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of GLP-1 receptor agonists on waist circumference among type 2 diabetes patients: a systematic review and network meta-analysis",
+      "summary": "Network meta-analysis found liraglutide 1.8mg daily reduced waist circumference by 5.24cm and 1.2mg daily by 4.73cm in type 2 diabetes patients, demonstrating significant effects on abdominal obesity beyond weight loss.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25115635/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of liraglutide on body composition in people living with obesity or overweight: A systematic review",
+      "summary": "Systematic review of 15 RCTs showed liraglutide consistently reduced total weight, fat mass, and visceral adipose tissue by 12.49-23% compared to placebo, effectively targeting visceral fat associated with cardiometabolic risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39904668/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Liraglutide, a glucagon-like peptide-1 analog, inhibits high glucose-induced oxidative stress and apoptosis in neonatal rat cardiomyocytes",
+      "summary": "Liraglutide protected cardiomyocytes from high glucose-induced damage by reducing oxidative stress and apoptosis, demonstrating cardioprotective effects that may help prevent diabetic cardiomyopathy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30988759/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Liraglutide and resveratrol alleviated cyclosporin A induced nephrotoxicity in rats through improving antioxidant status, apoptosis and pro-inflammatory markers",
+      "summary": "Liraglutide demonstrated renoprotective effects by improving kidney function, reducing inflammation, and enhancing antioxidant status in rats with drug-induced nephrotoxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38986220/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of liraglutide on metabolic syndrome in WBN/Kob diabetic fatty rats supplemented with a high-fat diet",
+      "summary": "Liraglutide reduced body weight gain, food intake, hyperglycemia, and improved glucose tolerance in a dose-dependent manner in a severe metabolic syndrome rat model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32318661/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Liraglutide-induced autoimmune hepatitis",
+      "summary": "Case report documented a rare instance of marker-negative autoimmune hepatitis associated with liraglutide therapy, highlighting the importance of monitoring liver function during treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24733687/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment regarding liraglutide and GLP-1 agonists is genuinely mixed, with some users reporting significant benefits for weight loss and metabolic health, while others express concerns about long-term dependency, side effects, and the general trend toward pharmaceutical interventions over lifestyle modifications. The discussions show both enthusiasm for the therapeutic potential and caution about unknown long-term consequences."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Studies show 1.8mg daily produces greater effects than 1.2mg, with visceral fat reduction and waist circumference improvements being dose-related"
+    },
+    {
+      "label": "Consistent Results:",
+      "description": "Multiple systematic reviews and RCTs demonstrate reliable weight loss and metabolic improvements compared to placebo across diverse populations"
+    },
+    {
+      "label": "Beyond Glycemic Control:",
+      "description": "Benefits extend to cardiovascular protection, neuroprotection, anti-inflammatory effects, and potential cognitive benefits"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between individuals, with some experiencing dramatic benefits while others see minimal response"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Type 2 Diabetes:",
+      "description": "Standard dosing starts at 0.6mg daily, titrated up to 1.2-1.8mg daily based on tolerance and response"
+    },
+    {
+      "label": "Weight Management:",
+      "description": "Typical dosing for obesity is 3.0mg daily (marketed as higher-dose formulation), started gradually to minimize GI side effects"
+    },
+    {
+      "label": "Subcutaneous Administration:",
+      "description": "Once-daily injection, typically in abdomen, thigh, or upper arm, with gradual dose escalation over 4-8 weeks"
+    },
+    {
+      "label": "Off-Label Intermittent Use:",
+      "description": "Some users experiment with intermittent dosing (e.g., only on fasting days) though this lacks clinical evidence"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Nausea, vomiting, diarrhea, and constipation are most common, particularly during dose escalation, typically improving over time"
+    },
+    {
+      "label": "Rare Hepatotoxicity:",
+      "description": "Case reports document autoimmune hepatitis and liver enzyme elevation, requiring monitoring of liver function"
+    },
+    {
+      "label": "Dependency Concerns:",
+      "description": "Users report difficulty maintaining weight loss after discontinuation, with appetite returning to baseline or higher"
+    },
+    {
+      "label": "Long-Term Unknowns:",
+      "description": "Limited data on effects of multi-year use, with concerns about pancreatic health, thyroid effects, and unknown metabolic adaptations"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Liraglutide is available only by prescription in most countries, approved for type 2 diabetes (Victoza) and obesity (Saxenda)"
+    },
+    {
+      "label": "High Cost:",
+      "description": "Significant expense even with insurance coverage, with many users reporting affordability issues and insurance companies often not covering weight loss indications"
+    },
+    {
+      "label": "Growing Use:",
+      "description": "Increasing popularity has led to supply shortages and expanded off-label use, particularly among biohackers seeking metabolic optimization"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALBIGLUTIDE",
+      "slug": "albiglutide"
+    },
+    {
+      "name": "DULAGLUTIDE",
+      "slug": "dulaglutide"
+    },
+    {
+      "name": "EXENATIDE",
+      "slug": "exenatide"
+    },
+    {
+      "name": "Retatrutide",
+      "slug": "retatrutide"
+    },
+    {
+      "name": "SEMAGLUTIDE",
+      "slug": "semaglutide"
+    }
+  ]
+}

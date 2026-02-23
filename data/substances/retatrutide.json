@@ -1,0 +1,130 @@
+{
+  "slug": "retatrutide",
+  "url": "https://dopamine.club/substances/retatrutide/",
+  "scrapedAt": "2026-02-12T16:11:00.031Z",
+  "title": "RETATRUTIDE",
+  "description": "Retatrutide is a novel triple agonist targeting GLP-1, GIP, and glucagon receptors. In clinical trials, it produced unprecedented weight loss results, making it potentially the most effective obesity treatment developed.",
+  "categories": [
+    "Peptide",
+    "GLP"
+  ],
+  "research": [
+    {
+      "title": "Retatrutide, A Trigonal Glp-1, Gip And Glucagon Receptor Agonist, And Its Role In Weight Reduction",
+      "summary": "Study found retatrutide significantly reduces weight, waist circumference, and BMI in overweight adults while improving cardiometabolic parameters.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0735109724038920",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Retatrutide, a GIP, GLP-1 and glucagon receptor agonist, for people with type 2 diabetes: a randomized, double-blind, placebo and active-controlled, parallel-group, phase 2 trial",
+      "summary": "Retatrutide significantly improved blood sugar control and reduced body weight across various doses, demonstrating higher effectiveness than placebo and dulaglutide.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S014067362301053X",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The Effect Of Triple-Hormone-Receptor Agonist Retatrutide, A Novel Medication For Weight Loss, On Blood Pressure",
+      "summary": "Retatrutide showed potential to significantly lower both systolic and diastolic blood pressure based on phase 2 trials.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0735109724038701",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Retatrutide showing promise in obesity (and type 2 diabetes)",
+      "summary": "Retatrutide led to significant weight loss over 24 weeks but frequently caused gastrointestinal side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37947489/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A review of an investigational drug Retatrutide, a novel triple agonist agent for the treatment of obesity",
+      "summary": "Retatrutide, in Phase III trials, has shown promising weight loss results in earlier trials, indicating potential for treating obesity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38367045/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 70,
+    "summary": "Early adopters report dramatic weight loss exceeding semaglutide results. Side effects similar to other GLP-1 agonists. Not yet FDA approved but generating significant interest."
+  },
+  "effects": [
+    {
+      "label": "Most Effective Weight Loss:",
+      "description": "Highest recorded in clinical trials."
+    },
+    {
+      "label": "Dose-Dependent:",
+      "description": "Higher doses produce greater weight loss."
+    },
+    {
+      "label": "Under Development:",
+      "description": "Still in clinical trials."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Trial Doses:",
+      "description": "1-12mg weekly in phase 2 trials."
+    },
+    {
+      "label": "Weekly Injection:",
+      "description": "Administered once weekly."
+    },
+    {
+      "label": "Dose Titration:",
+      "description": "Started low and increased gradually."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "GI Effects:",
+      "description": "Nausea, vomiting, diarrhea common."
+    },
+    {
+      "label": "Similar to GLP-1s:",
+      "description": "Side effect profile comparable to semaglutide."
+    },
+    {
+      "label": "Dose-Related:",
+      "description": "Higher doses mean more side effects."
+    },
+    {
+      "label": "Generally Manageable:",
+      "description": "Most side effects decrease over time."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Not Yet Approved:",
+      "description": "Still in phase 3 clinical trials."
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "Available from some peptide suppliers."
+    },
+    {
+      "label": "Future Availability:",
+      "description": "Expected FDA review pending trial completion."
+    }
+  ],
+  "related": [
+    {
+      "name": "ALBIGLUTIDE",
+      "slug": "albiglutide"
+    },
+    {
+      "name": "DULAGLUTIDE",
+      "slug": "dulaglutide"
+    },
+    {
+      "name": "EXENATIDE",
+      "slug": "exenatide"
+    },
+    {
+      "name": "LIRAGLUTIDE",
+      "slug": "liraglutide"
+    },
+    {
+      "name": "SEMAGLUTIDE",
+      "slug": "semaglutide"
+    }
+  ]
+}

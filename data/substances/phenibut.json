@@ -1,0 +1,155 @@
+{
+  "slug": "phenibut",
+  "url": "https://dopamine.club/substances/phenibut/",
+  "scrapedAt": "2026-02-12T16:10:33.681Z",
+  "title": "PHENIBUT",
+  "description": "Phenibut (β-phenyl-γ-aminobutyric acid) is a GABA analogue that functions primarily as a GABAB receptor agonist, originally developed in Russia as an anxiolytic and nootropic medication. It crosses the blood-brain barrier more effectively than GABA and also acts on α2-δ subunits of voltage-dependent calcium channels, producing anxiolytic, sedative, and cognitive-enhancing effects. While used as a prescription medication in Russia, it is sold as an unregulated dietary supplement in Western countries despite significant potential for physical dependence and addiction.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Phenibut (β-Phenyl-γ-Aminobutyric Acid): an Easily Obtainable 'Dietary Supplement' With Propensities for Physical Dependence and Addiction",
+      "summary": "Review highlighting phenibut's potent psychoactive properties similar to prescription sedatives, with growing case reports documenting physical dependence, severe withdrawal symptoms, and addiction potential despite its marketing as a dietary supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30852710/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Systematic Review of Phenibut Withdrawals",
+      "summary": "Analysis of 15 withdrawal cases found average usage of 13.6 g/day, with 87% being males averaging 31.8 years old, most presenting at emergency departments with severe withdrawal symptoms requiring medical intervention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39376891/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A systematic review of phenibut withdrawal focusing on complications, therapeutic approaches, and single substance versus polysubstance withdrawal",
+      "summary": "Comprehensive review characterizing phenibut withdrawal's natural history, documenting severe symptoms including delirium, hallucinations, and seizures, with summary of published treatment strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38112312/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Phenibut dependence",
+      "summary": "Case report of patient who self-medicated anxiety and insomnia with phenibut, developing tolerance and significant withdrawal within 3-4 hours, successfully treated with gradual baclofen substitution over 9 weeks at approximately 10mg baclofen per gram of phenibut.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23391959/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Reasons for use and experiences of using phenibut, a mixed methods analysis of online reports",
+      "summary": "Analysis of 229 user reports found phenibut was primarily used for recreation, managing psychiatric problems (anxiety, insomnia), as benzodiazepine substitute, withdrawal management, and performance enhancement, with males comprising 92% of users.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37184879/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quantity of phenibut in dietary supplements before and after FDA warnings",
+      "summary": "Study examining phenibut-containing dietary supplements found they continue to be sold despite FDA warnings that phenibut is not permitted in over-the-counter supplements, following over 80 cases of coma and death associated with phenibut.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34550038/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Phenibut (β-Phenyl-γ-aminobutyric Acid) Dependence and Management of Withdrawal: Emerging Nootropics of Abuse",
+      "summary": "Case report describing phenibut withdrawal syndrome with coingestion of alcohol, successfully managed with baclofen taper, highlighting the need for clinician awareness of phenibut dependence presentation and withdrawal management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29854531/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "F-phenibut (β-(4-Fluorophenyl)-GABA), a potent GABAB receptor agonist, activates an outward-rectifying K+ current and suppresses the generation of action potentials in mouse cerebellar Purkinje cells",
+      "summary": "Study demonstrating F-phenibut, a fluorinated phenibut derivative available as nootropic supplement, binds GABAB receptors with higher affinity than phenibut, potentially leading to more serious adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32735986/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 25,
+    "summary": "User sentiment is predominantly negative, with overwhelming warnings about addiction potential, severe withdrawal symptoms, and dangerous side effects. While some users report initial positive effects for anxiety and socialization, the consensus strongly advises against use due to high risk of dependence and life-threatening withdrawal."
+  },
+  "effects": [
+    {
+      "label": "High Initial Efficacy:",
+      "description": "Users consistently report strong initial effects for anxiety and social situations, often comparing it favorably to prescription anxiolytics"
+    },
+    {
+      "label": "Rapid Tolerance Development:",
+      "description": "Effectiveness decreases dramatically with regular use, requiring dose escalation and leading to dependence within weeks to months"
+    },
+    {
+      "label": "Severe Withdrawal Risk:",
+      "description": "Multiple case reports and user experiences document dangerous withdrawal symptoms including seizures, delirium, and hallucinations requiring hospitalization"
+    },
+    {
+      "label": "Not Sustainable:",
+      "description": "Nearly universal consensus that phenibut cannot be used safely long-term, with most experienced users strongly warning others against starting use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Recreational Range:",
+      "description": "Users report 250-750mg for social anxiety relief, with some taking up to 1-2g for stronger effects"
+    },
+    {
+      "label": "Dangerous Escalation:",
+      "description": "Case reports document users increasing to 13.6g/day average due to tolerance, with ranges from 1.5-28.5g/day"
+    },
+    {
+      "label": "Spacing Requirements:",
+      "description": "Experienced users emphasize maximum twice weekly use with at least 3 days between doses to avoid dependence"
+    },
+    {
+      "label": "Withdrawal Dosing:",
+      "description": "Medical management uses baclofen substitution at approximately 10mg baclofen per 1g phenibut, tapered over weeks to months"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Severe Withdrawal Syndrome:",
+      "description": "Reports of extreme anxiety, seizures, delirium, hallucinations, and agitated states requiring emergency medical intervention within hours of cessation"
+    },
+    {
+      "label": "Physical Dependence:",
+      "description": "Rapid development of addiction with tolerance, compulsive redosing, and inability to function without the substance"
+    },
+    {
+      "label": "Cognitive Impairment:",
+      "description": "Users report brain fog, sedation, and impaired decision-making, particularly at higher doses or with prolonged use"
+    },
+    {
+      "label": "Life-Threatening Complications:",
+      "description": "Over 80 documented cases of coma and death associated with phenibut consumption and withdrawal"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Unregulated Supplement Status:",
+      "description": "Widely available online from nootropics vendors despite FDA warnings and lack of approval as dietary supplement in the US"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Available from various online supplement suppliers, though legal status and regulatory oversight remain problematic"
+    },
+    {
+      "label": "International Variation:",
+      "description": "Prescription medication in Russia but uncontrolled substance sold as supplement in Western countries, creating regulatory confusion"
+    }
+  ],
+  "related": [
+    {
+      "name": "GABA",
+      "slug": "gaba"
+    },
+    {
+      "name": "EMOXYPINE",
+      "slug": "emoxypine"
+    },
+    {
+      "name": "PICAMILON",
+      "slug": "picamilon"
+    },
+    {
+      "name": "TRYPTOPHAN",
+      "slug": "tryptophan"
+    },
+    {
+      "name": "L-Theanine",
+      "slug": "l-theanine"
+    }
+  ]
+}

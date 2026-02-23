@@ -1,0 +1,155 @@
+{
+  "slug": "iodine",
+  "url": "https://dopamine.club/substances/iodine/",
+  "scrapedAt": "2026-02-12T16:08:51.729Z",
+  "title": "IODINE",
+  "description": "Iodine is an essential trace element required for thyroid hormone synthesis (T3 and T4), which regulate metabolism, brain development, and various enzymatic processes. While iodine deficiency can lead to hypothyroidism, goiter, and cognitive impairments, excessive intake can paradoxically cause both hypothyroidism and hyperthyroidism through mechanisms like the Wolff-Chaikoff effect. Adequate iodine intake is particularly critical during pregnancy and early development for proper neurodevelopment.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A concise review of Hashimoto thyroiditis (HT) and the importance of iodine, selenium, vitamin D and gluten on the autoimmunity and dietary management of HT patients",
+      "summary": "Reviews how iodine supplementation, along with selenium, vitamin D, and gluten-free diets, may benefit patients with Hashimoto's thyroiditis, though careful supplementation of deficiencies is recommended for dietary management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28315909/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The epidemiology of thyroid disease",
+      "summary": "Iodine deficiency is the most common cause of thyroid disorders worldwide, leading to goiter and hypothyroidism, while in iodine-replete areas autoimmune disease predominates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21893493/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Iodine-induced thyroid dysfunction",
+      "summary": "Excess iodine is generally well tolerated, but individuals with underlying thyroid disease may develop iodine-induced hypothyroidism or hyperthyroidism following acute or chronic exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22820214/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Iodine deficiency: Clinical implications",
+      "summary": "Iodine is crucial for thyroid hormone synthesis and fetal neurodevelopment, with potential consequences of deficiency including goiter, hypothyroidism, and impaired cognitive development, particularly affecting women of childbearing age.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28322679/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutrition and brain development in early life",
+      "summary": "Severe acute malnutrition, chronic undernutrition, iron deficiency, and iodine deficiency clearly impair brain development, though direct evidence of intervention impacts remains scarce.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24684384/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The epidemiology of global micronutrient deficiencies",
+      "summary": "Iodine deficiency is widespread globally and results in goiter, mental retardation, or reduced cognitive function, being a common contributor to poor growth and intellectual impairments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26045325/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Iodine Deficiency and Supplementation in Pregnancy",
+      "summary": "Iodine deficiency during pregnancy is the leading preventable cause of neurodevelopmental impairments worldwide, with pregnant women requiring 220-250 μg/day and lactating women 250-290 μg/day.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30829881/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Iodine and Hyperthyroidism: A Double-Edged Sword",
+      "summary": "Excessive iodine exposure can lead to hyperthyroidism due to failure of normal homeostatic mechanisms, occurring most frequently in historically iodine-deficient regions but also in areas with optimal intakes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39510448/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report mixed experiences with iodine supplementation, with some experiencing dramatic improvements in energy, brain fog, and hypothyroid symptoms after addressing deficiency, while others report negative effects or uncertainty about proper dosing. The narrow therapeutic window and potential for both deficiency and excess to cause thyroid problems creates significant confusion among users."
+  },
+  "effects": [
+    {
+      "label": "Deficiency Context:",
+      "description": "Highly effective for those with confirmed deficiency (no iodized salt, no seafood, no dairy), but problematic when not deficient"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response highly dependent on thyroid health status, with those having autoimmune thyroid conditions at higher risk for adverse effects"
+    },
+    {
+      "label": "Timing of Benefits:",
+      "description": "Noticeable improvements typically within 1-2 weeks for deficient individuals, with full benefits developing over months"
+    },
+    {
+      "label": "Narrow Window:",
+      "description": "Both too little and too much cause thyroid dysfunction, making proper dosing critical and self-supplementation risky without testing"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Supplement Dose:",
+      "description": "150-300 mcg daily from kelp or iodine supplements commonly used by Reddit users"
+    },
+    {
+      "label": "Eggs and Salt:",
+      "description": "2 eggs daily (90 mcg) plus iodized salt (1 gram contains ~77 mcg) as food-based approach"
+    },
+    {
+      "label": "RDA Guidelines:",
+      "description": "150 mcg/day for adults, 220-250 mcg/day during pregnancy, 250-290 mcg/day during lactation"
+    },
+    {
+      "label": "Upper Limit:",
+      "description": "1,100 mcg/day (1.1 mg) is the tolerable upper intake level, with excessive doses causing thyroid dysfunction"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Thyroid Dysfunction:",
+      "description": "Both hypothyroidism and hyperthyroidism possible with excess intake, especially in those with existing thyroid conditions"
+    },
+    {
+      "label": "Acne:",
+      "description": "Iodine-related acne reported with kelp supplements, presenting as monomorphic inflammatory pustules on face and trunk"
+    },
+    {
+      "label": "Brain Fog from Excess:",
+      "description": "Some users report brain fog and diarrhea when taking iodine supplements alongside multivitamins containing iodine"
+    },
+    {
+      "label": "Autoimmune Flares:",
+      "description": "Potential worsening of Hashimoto's thyroiditis or other autoimmune thyroid conditions with supplementation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Sources:",
+      "description": "Available as kelp supplements, potassium iodide, Lugol's solution, and in most multivitamins; iodized salt widely available"
+    },
+    {
+      "label": "Testing Recommended:",
+      "description": "Users emphasize importance of testing thyroid function (TSH, T3, T4) and iodine levels before supplementing due to narrow therapeutic window"
+    },
+    {
+      "label": "Dietary Assessment:",
+      "description": "Many users unaware of their iodine status until assessing diet (dairy, seafood, iodized salt consumption), highlighting need for evaluation before supplementation"
+    }
+  ],
+  "related": [
+    {
+      "name": "COPPER",
+      "slug": "copper"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "DIMETHYLGLYCINE",
+      "slug": "dimethylglycine"
+    },
+    {
+      "name": "ELEUTHERO",
+      "slug": "eleuthero"
+    },
+    {
+      "name": "IRON BISGLYCINATE",
+      "slug": "iron-bisglycinate"
+    }
+  ]
+}

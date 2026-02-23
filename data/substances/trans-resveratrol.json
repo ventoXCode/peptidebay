@@ -1,0 +1,155 @@
+{
+  "slug": "trans-resveratrol",
+  "url": "https://dopamine.club/substances/trans-resveratrol/",
+  "scrapedAt": "2026-02-12T16:11:51.756Z",
+  "title": "TRANS-RESVERATROL",
+  "description": "Trans-resveratrol is a polyphenolic compound found naturally in grapes, berries, and other plants that acts as a phytoestrogen and activates SIRT1 pathways. It has demonstrated antioxidant, anti-inflammatory, and potential anti-aging properties through multiple mechanisms including NAD+ metabolism support and mitochondrial function enhancement. Research suggests benefits for bone density, cardiovascular health, glucose metabolism, and longevity, though bioavailability is enhanced when consumed with dietary fats.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Regular Supplementation With Resveratrol Improves Bone Mineral Density in Postmenopausal Women: A Randomized, Placebo-Controlled Trial",
+      "summary": "A 24-month randomized controlled trial found that resveratrol supplementation significantly improved bone mineral density in postmenopausal women, supporting its bone-protective role similar to effects seen in animal models of osteoporosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32564438/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of resveratrol supplementation in regulation of glucose hemostasis, inflammation and oxidative stress in patients with diabetes mellitus type 2: A randomized, placebo-controlled trial",
+      "summary": "200mg daily resveratrol supplementation for 24 weeks significantly improved glucose homeostasis, reduced inflammatory markers (TNF-α, IL-6, hs-CRP), and decreased oxidative stress in type 2 diabetic patients on oral hypoglycemic drugs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35240291/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gut microbiota-derived 4-hydroxyphenylacetic acid from resveratrol supplementation prevents obesity through SIRT1 signaling activation",
+      "summary": "Resveratrol supplementation ameliorated high-fat-diet-induced obesity by enhancing beneficial gut bacteria (Akkermansia, Bacteroides, Blautia) and producing metabolites that activate SIRT1 signaling, as confirmed through antibiotic depletion and fecal microbiota transplantation studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39725607/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Trans-resveratrol supplement lowers lipid peroxidation responses of exercise in male Wistar rats",
+      "summary": "Trans-resveratrol supplementation demonstrated antioxidant properties by reducing lipid peroxidation and protecting against exercise-induced oxidative damage in muscle fibers of male rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32400317/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Mediterranean Diet, Curcumin, and Resveratrol on Mild-to-Moderate Active Ulcerative Colitis: A Multicenter Randomized Clinical Trial",
+      "summary": "An 8-week trial combining Mediterranean diet with resveratrol supplementation showed improvements in disease activity, inflammatory markers, and quality of life in patients with mild-to-moderate active ulcerative colitis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38794742/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of dietary polyphenol supplementation in the treatment of non-alcoholic fatty liver disease: A systematic review and meta-analysis",
+      "summary": "Systematic review and meta-analysis found that dietary polyphenol supplementation including resveratrol showed efficacy in treating non-alcoholic fatty liver disease with favorable safety profiles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36159792/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Trans-Resveratrol Enhances the Anticoagulant Activity of Warfarin in a Mouse Model",
+      "summary": "Trans-resveratrol at 0.5% dietary concentration enhanced warfarin's anticoagulant effects in mice and slightly increased CYP1A1 activity, suggesting potential drug interactions requiring monitoring in patients taking anticoagulants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26947597/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Immunotoxicity studies of trans-resveratrol in male B(6)C(3)F(1)/N mice",
+      "summary": "A 28-day study in mice found no treatment-related immunotoxic effects from trans-resveratrol at doses up to 2500 mg/kg/day, with no impacts on humoral, cell-mediated, or innate immune function despite previous findings of decreased thymus weight.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33213203/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Users report mixed experiences with resveratrol, with many longevity-focused biohackers including it in their stacks alongside NMN for anti-aging benefits. However, concerns exist about bioavailability, optimal dosing, effectiveness compared to marketing claims, and some reports of side effects, with debates about whether benefits justify the cost."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Users emphasize that resveratrol must be dissolved in fat (olive oil, coconut oil) for optimal absorption, with claims of 10-100x increased bioavailability when taken with dietary fats"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Most effective when stacked with other compounds like NMN, TMG, quercetin, and curcumin rather than as standalone supplement"
+    },
+    {
+      "label": "Dose-Response Variation:",
+      "description": "Effectiveness appears highly individual, with some users noticing benefits at 500mg while others follow David Sinclair's 1g daily protocol"
+    },
+    {
+      "label": "Mixed Evidence:",
+      "description": "Skepticism exists about whether resveratrol optimizes flawed testing methods or provides genuine benefits, with some studies published after initial hype suggesting potential DNA replicative stress"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most common dosing is 500mg-1000mg daily of trans-resveratrol, typically taken in morning with fat source"
+    },
+    {
+      "label": "David Sinclair Protocol:",
+      "description": "1 gram daily is frequently referenced as the high-end dose used by longevity researchers, though this exceeds typical supplement bottle recommendations"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Users often reduce from 1g to 500mg doses to balance effectiveness with expense, reporting 80% of benefits at half the dose"
+    },
+    {
+      "label": "Timing and Form:",
+      "description": "Taken with morning meals containing fat, with some users preferring liposomal forms for enhanced absorption despite higher cost"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Kidney Concerns:",
+      "description": "Some users report warnings about long-term kidney damage with extended resveratrol use, leading to discontinuation"
+    },
+    {
+      "label": "Exercise Blunting:",
+      "description": "Reports that resveratrol may blunt the beneficial effects of exercise, similar to metformin, causing concern for fitness-focused users"
+    },
+    {
+      "label": "Warfarin Interaction:",
+      "description": "Research confirms resveratrol enhances anticoagulant effects of blood thinners, requiring medical monitoring for users on such medications"
+    },
+    {
+      "label": "Individual Reactions:",
+      "description": "Varied reports of side effects at higher doses (600-1200mg) that were 'not worth whatever benefit,' though specifics often undetailed"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Quality Concerns:",
+      "description": "Significant concerns about resveratrol supplement scams and purity, with users emphasizing need for verified trans-resveratrol rather than low-purity products containing ineffective cis-resveratrol"
+    },
+    {
+      "label": "Brand Recommendations:",
+      "description": "Toniiq and quality brands frequently mentioned for quality and third-party testing, though quality brands criticized for high prices; users recommend verifying 99% trans-resveratrol purity"
+    },
+    {
+      "label": "Cost Factor:",
+      "description": "Described as 'not cheap' with monthly costs varying significantly by brand and dosage, leading many users to seek bulk sources or lower doses to manage expenses"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

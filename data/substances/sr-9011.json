@@ -1,0 +1,141 @@
+{
+  "slug": "sr-9011",
+  "url": "https://dopamine.club/substances/sr-9011/",
+  "scrapedAt": "2026-02-12T16:11:25.203Z",
+  "title": "SR-9011",
+  "description": "SR-9011 is a synthetic compound marketed as a selective androgen receptor modulator (SARM), though there is limited scientific evidence supporting its classification or safety. SARMs are often sold as dietary supplements via the internet with claims of performance enhancement, but studies show many products are mislabeled, contaminated, or contain unapproved pharmaceutical ingredients that pose health risks.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Chemical Composition and Labeling of Substances Marketed as Selective Androgen Receptor Modulators and Sold via the Internet",
+      "summary": "Analysis of 44 SARM products sold online found that 39% were mislabeled and many contained unapproved drugs, demonstrating significant quality control issues with internet-marketed SARMs including potential contamination and incorrect labeling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29183075/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prohibited Contaminants in Dietary Supplements",
+      "summary": "Review found that poor manufacturing processes and intentional contamination with banned substances continue to occur in dietary supplements, with weight loss and muscle-building supplements posing greater contamination risks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28850291/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Unapproved Pharmaceutical Ingredients in Dietary Supplements Associated with FDA Warnings",
+      "summary": "Analysis of FDA's tainted supplements database revealed widespread contamination with unapproved pharmaceutical ingredients in supplements marketed for sexual enhancement, weight loss, and muscle building between 2007-2016.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30325005/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Supplements: A Gateway to Doping?",
+      "summary": "Review found that dietary supplements widely used by athletes are often contaminated with prohibited substances, leading to unintentional doping, with many athletes lacking knowledge of supplement regulations and turning to unreliable information sources.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36839238/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Supplements: Regulatory Challenges and Research Resources",
+      "summary": "Overview of scientific and regulatory challenges in supplement research highlights issues with safety, quality, and efficacy assessment in an increasingly global marketplace with limited pre-market oversight.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29300341/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 15,
+    "summary": "Based on available scientific literature, SR-9011 and similar SARMs sold online face severe quality and safety concerns, with studies showing widespread mislabeling, contamination, and presence of unapproved pharmaceutical ingredients. No reliable user experience data was available for SR-9011 specifically."
+  },
+  "effects": [
+    {
+      "label": "No Clinical Evidence:",
+      "description": "Lack of peer-reviewed human trials demonstrating safety or efficacy for SR-9011"
+    },
+    {
+      "label": "Marketing Claims Unverified:",
+      "description": "Performance enhancement claims are not supported by rigorous scientific research"
+    },
+    {
+      "label": "Quality Control Issues:",
+      "description": "Significant variability in actual product composition versus label claims"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Not approved by FDA and sold as research chemical or dietary supplement without proper oversight"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "No Established Dose:",
+      "description": "No scientifically validated dosing guidelines exist for human use"
+    },
+    {
+      "label": "Research Chemical Status:",
+      "description": "Typically sold for research purposes only, not human consumption"
+    },
+    {
+      "label": "Safety Profile Unknown:",
+      "description": "Lack of toxicology data and long-term safety studies in humans"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Unknown how different individuals may respond due to absence of clinical trials"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Unknown Safety Profile:",
+      "description": "Comprehensive side effect profile has not been established through clinical research"
+    },
+    {
+      "label": "Contamination Effects:",
+      "description": "Side effects may result from unlabeled contaminants rather than the intended compound"
+    },
+    {
+      "label": "Liver and Kidney Concerns:",
+      "description": "General SARM category has raised concerns about hepatotoxicity and renal effects"
+    },
+    {
+      "label": "Hormonal Disruption:",
+      "description": "Potential for endocrine system interference similar to other performance-enhancing substances"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Internet Sales:",
+      "description": "Primarily available through online retailers as research chemicals or dietary supplements"
+    },
+    {
+      "label": "Legal Gray Area:",
+      "description": "Not approved for human consumption but sold in unregulated supplement market"
+    },
+    {
+      "label": "Third-Party Testing Recommended:",
+      "description": "Independent laboratory testing advised due to high contamination rates"
+    },
+    {
+      "label": "FDA Warnings:",
+      "description": "Products containing SARMs have received FDA warning letters for unapproved drug claims"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "pinealon",
+  "url": "https://dopamine.club/substances/pinealon/",
+  "scrapedAt": "2026-02-12T16:10:40.522Z",
+  "title": "PINEALON",
+  "description": "Pinealon is a synthetic tripeptide (Glu-Asp-Arg) originally derived from brain tissue extracts that demonstrates neuroprotective and geroprotective properties. It works by suppressing reactive oxygen species accumulation, modulating cell cycle processes, potentially interacting with DNA to regulate gene expression, and reducing neuroinflammation. Primary research applications include cognitive enhancement, neuroprotection against hypoxia and oxidative stress, anti-aging effects, and support for brain health in elderly populations.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Pinealon increases cell viability by suppression of free radical levels and activating proliferative processes",
+      "summary": "Pinealon demonstrated dose-dependent reduction of ROS accumulation and necrotic cell death in multiple cell types, with effects on ERK 1/2 activation and cell cycle modification suggesting both antioxidant activity and direct genome interaction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21978084/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "EDR Peptide: Possible Mechanism of Gene Expression and Protein Synthesis Regulation Involved in the Pathogenesis of Alzheimer's Disease",
+      "summary": "The EDR peptide (Pinealon) shows neuroprotective properties by activating gene expression and protein synthesis involved in neuronal function, reducing apoptosis, and potentially interfering with dendritic spine elimination in Alzheimer's disease models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33396470/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Regulation of content of cytokines in blood serum and of caspase-3 activity in brains of old rats in model of sharp hypoxic hypoxia with Cortexin and Pinealon",
+      "summary": "In hypoxic conditions, Pinealon promoted increased neurogenesis and decreased neuroinflammatory reactions to reference levels in old rats, while reducing caspase-3 activity in brain tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25051764/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Investigation of antihypoxic properties of short peptides",
+      "summary": "Among several short regulatory peptides tested, Pinealon demonstrated the most pronounced antihypoxic effects in hypobaric hypoxia models, working through stimulation of internal antioxidative enzyme systems and potentially limiting excitotoxic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18546825/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of peptide geroprotectors on the navigation system learning and caspase-3 in brain structures in rats of different age",
+      "summary": "Pinealon showed prevalent positive effects on learning in both young and old animals compared to cortexin, with regional changes in caspase-3 activity in brain structures suggesting functional state of caspase-3 determines learning ability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28976148/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Analysis of some parameters of biological age and adaptation possibilities of workers of locomotive brigades",
+      "summary": "Two-week Pinealon supplementation (100 mcg twice daily) improved biological age parameters and adaptive reaction effectiveness in locomotive workers exposed to occupational stressors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22708445/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of Mono- and Divalent Ions in Peptide Glu-Asp-Arg-DNA Interaction",
+      "summary": "Pinealon can partially penetrate the major groove of DNA and interact with base atoms, particularly N7 and O6 of guanine, with Mg2+ ions promoting DNA-EDR interaction through effective screening of negatively charged phosphate groups.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30762356/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative analysis of different methods of geroprotective",
+      "summary": "Combined use of oligopeptide preparations including Pinealon showed the most pronounced positive impact on biological age indicators, with oligopeptide drugs being among the safest interventions regarding biochemical and immunological parameters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28539017/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences with Pinealon are genuinely mixed, with limited direct feedback available. Some users report positive neuroprotective and cognitive benefits when stacked with other peptides, while others express skepticism about claims of DNA integration and struggle to find reliable sources."
+  },
+  "effects": [
+    {
+      "label": "Research-Backed Benefits:",
+      "description": "Scientific studies consistently demonstrate neuroprotective effects, anti-hypoxic properties, and improvements in biological age markers, particularly in elderly populations and stress models"
+    },
+    {
+      "label": "Limited Direct User Feedback:",
+      "description": "Unlike more popular peptides, Pinealon has minimal direct user testimonials on Reddit, with most mentions occurring in the context of larger peptide stacks rather than standalone use"
+    },
+    {
+      "label": "Professional Prescription:",
+      "description": "Several users mention naturopaths and doctors recommending Pinealon specifically for neurological conditions, suggesting clinical recognition of its potential benefits"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Users report Pinealon appears to work better when stacked with other neuroprotective compounds like Semax, Selank, and mitochondrial-supporting peptides rather than as monotherapy"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Protocol:",
+      "description": "Studies typically used 100 mcg twice daily (200 mcg total) for two-week courses with positive effects on biological age and adaptation"
+    },
+    {
+      "label": "Clinical Prescription:",
+      "description": "Practitioners prescribe Pinealon for sleep and neuroprotection, though specific dosing protocols are not detailed in user reports"
+    },
+    {
+      "label": "Reconstitution Questions:",
+      "description": "New users report receiving 10 mg vials requiring reconstitution, indicating research peptide sourcing rather than standardized pharmaceutical preparations"
+    },
+    {
+      "label": "Administration Routes:",
+      "description": "Some users discuss intranasal administration as potentially more effective for certain peptides including Pinealon, though specific protocols are not well-established"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Negative Reports:",
+      "description": "Very few direct side effect reports from users, suggesting either good tolerability or limited widespread use compared to other peptides"
+    },
+    {
+      "label": "Sourcing Concerns:",
+      "description": "Users express difficulty finding legitimate Pinealon products, with many online marketplace listings appearing questionable or potentially containing incorrect compounds"
+    },
+    {
+      "label": "DNA Interaction Skepticism:",
+      "description": "Some users express concern about marketing claims regarding amino acids integrating into DNA, viewing such statements as scientifically questionable"
+    },
+    {
+      "label": "Unknown Long-Term Effects:",
+      "description": "Lack of extensive user reports on long-term use leaves questions about extended supplementation safety and efficacy"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Peptide Status:",
+      "description": "Pinealon appears primarily available through research peptide suppliers requiring reconstitution, not as a standardized pharmaceutical product in most markets"
+    },
+    {
+      "label": "Marketplace Quality Concerns:",
+      "description": "Multiple users warn that Pinealon products found on general marketplaces are likely unreliable or potentially counterfeit, recommending specialized peptide suppliers instead"
+    },
+    {
+      "label": "Limited Mainstream Availability:",
+      "description": "Compared to more popular peptides discussed on Reddit, Pinealon has restricted availability and requires more specialized sourcing through research chemical vendors"
+    }
+  ],
+  "related": [
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "CORTAGEN",
+      "slug": "cortagen"
+    },
+    {
+      "name": "DSIP (Delta Sleep-Inducing Peptide)",
+      "slug": "dsip"
+    },
+    {
+      "name": "Epitalon",
+      "slug": "epitalon"
+    },
+    {
+      "name": "HUMANIN",
+      "slug": "humanin"
+    }
+  ]
+}

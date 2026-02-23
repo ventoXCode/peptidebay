@@ -1,0 +1,142 @@
+{
+  "slug": "huperzine-a",
+  "url": "https://dopamine.club/substances/huperzine-a/",
+  "scrapedAt": "2026-02-12T16:08:34.607Z",
+  "title": "HUPERZINE A",
+  "description": "Huperzine A is a natural compound extracted from Chinese club moss that inhibits acetylcholinesterase, increasing acetylcholine levels in the brain. It enhances memory, learning, and may have neuroprotective properties.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Huperzine A and Its Neuroprotective Molecular Signaling in Alzheimer's Disease",
+      "summary": "Reviews how Huperzine A, an alkaloid from club moss, interacts with molecular pathways including Wnt signaling, synaptic mechanisms, and amyloid-β accumulation to provide neuroprotection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34770940/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginkgolides and Huperzine A for complementary treatment of Alzheimer's disease",
+      "summary": "Highlights positive outcomes from plant-based therapies including Huperzine A in improving cognitive function and neuropsychiatric symptoms in Alzheimer's patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35384262/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Delineating biosynthesis of Huperzine A, A plant-derived medicine for the treatment of Alzheimer's disease",
+      "summary": "Explores alternative production methods for Huperzine A, including biosynthesis and pathway engineering, to address supply constraints from slow-growing plant sources.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35914626/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Disease-Modifying Activity of Huperzine A on Alzheimer's Disease: Evidence from Preclinical Studies on Rodent Models",
+      "summary": "Animal studies demonstrate Huperzine A's potential to improve memory and reduce harmful brain substances, though findings require further confirmation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36499562/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of Huperzine A on dementia and mild cognitive impairment: An overview of systematic reviews",
+      "summary": "Meta-analysis finding Huperzine A may benefit Alzheimer's patients with cognitive function but lacks sufficient evidence for other cognitive impairments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33851462/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective effect of huperzine-A against cadmium chloride-induced Huntington's disease in Drosophila melanogaster model",
+      "summary": "Laboratory studies suggest Huperzine A reduces neurodegenerative symptoms in cell and fly models, indicating promise for Huntington's disease.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1018364724002313",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Huperzine A injection ameliorates motor and cognitive abnormalities via regulating multiple pathways in a murine model of Parkinson's disease",
+      "summary": "Injectable Huperzine A improved motor and cognitive function in mice with Parkinson's disease by reducing inflammation and oxidative stress.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S001429992300482X",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 70,
+    "summary": "Users report improved memory and mental clarity. Popular in nootropic stacks, particularly for cholinergic enhancement. Long half-life requires careful dosing."
+  },
+  "effects": [
+    {
+      "label": "Potent AChE Inhibitor:",
+      "description": "More selective than donepezil."
+    },
+    {
+      "label": "Long-Lasting:",
+      "description": "Effects persist due to long half-life."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Works well with choline sources."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "50-200mcg once or twice daily."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Recommended due to long half-life (cycle 2-4 weeks on/off)."
+    },
+    {
+      "label": "Start Low:",
+      "description": "Begin with 50mcg to assess response."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cholinergic Effects:",
+      "description": "Nausea, headache, muscle twitching possible."
+    },
+    {
+      "label": "GI Issues:",
+      "description": "Digestive discomfort in some users."
+    },
+    {
+      "label": "Accumulation:",
+      "description": "Can build up due to long half-life."
+    },
+    {
+      "label": "Not with AChE Inhibitors:",
+      "description": "Avoid combining with donepezil or similar drugs."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement:",
+      "description": "Available in most nootropic and supplement stores."
+    },
+    {
+      "label": "Various Forms:",
+      "description": "Capsules, tablets, and powder."
+    },
+    {
+      "label": "Affordable:",
+      "description": "Generally inexpensive."
+    }
+  ],
+  "related": [
+    {
+      "name": "GALANTAMINE",
+      "slug": "galantamine"
+    },
+    {
+      "name": "LION",
+      "slug": "lion-s-mane"
+    },
+    {
+      "name": "CHOLINE BITARTRATE",
+      "slug": "choline-bitartrate"
+    },
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    },
+    {
+      "name": "PQQ",
+      "slug": "pqq"
+    }
+  ]
+}

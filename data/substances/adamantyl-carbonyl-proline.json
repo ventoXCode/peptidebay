@@ -1,0 +1,102 @@
+{
+  "slug": "adamantyl-carbonyl-proline",
+  "url": "https://dopamine.club/substances/adamantyl-carbonyl-proline/",
+  "scrapedAt": "2026-02-12T16:05:21.996Z",
+  "title": "ADAMANTYL CARBONYL PROLINE",
+  "description": "Adamantyl Carbonyl Proline is a synthetic nootropic compound that combines an adamantane structure with a proline derivative. It is theorized to act as a cognitive enhancer and neuroprotective agent, though specific mechanisms of action are not well-established in published literature. The compound appears to be primarily marketed for cognitive enhancement purposes.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [],
+  "sentiment": {
+    "positive": 50,
+    "summary": "No direct user experiences with Adamantyl Carbonyl Proline were found in the provided user data. The discussions focused on related amino acids (proline and glycine) for collagen synthesis and joint recovery, with users reporting mixed experiences regarding efficacy and some concerns about side effects."
+  },
+  "effects": [
+    {
+      "label": "Limited Direct Evidence:",
+      "description": "No specific user reports or research papers were available for Adamantyl Carbonyl Proline itself"
+    },
+    {
+      "label": "Related Compounds:",
+      "description": "Users found proline supplementation moderately helpful when combined with other collagen building blocks like glycine and vitamin C"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Response to amino acid supplementation varied significantly between users, with some reporting benefits and others no noticeable effects"
+    },
+    {
+      "label": "Absorption Concerns:",
+      "description": "Some users with digestive issues reported difficulty absorbing amino acid supplements effectively"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Proline Powder:",
+      "description": "Users mentioned taking proline in powder form but did not specify exact dosages"
+    },
+    {
+      "label": "Collagen-Based:",
+      "description": "When taken as part of collagen supplements, typical dosing was 6 grams daily"
+    },
+    {
+      "label": "Combined with Vitamin C:",
+      "description": "Users recommended taking proline with at least 1 gram of vitamin C for optimal collagen synthesis"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Daily supplementation was the most common approach mentioned"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Urinary Frequency:",
+      "description": "Increased nighttime urination reported by some users taking collagen/proline supplements"
+    },
+    {
+      "label": "Cancer Concerns:",
+      "description": "Some users expressed concern about research linking proline metabolism to cancer"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "General concerns about absorption and gastrointestinal tolerance, particularly in those with IBS"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Nighttime awakening due to increased urination was noted as a potential quality of life issue"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Limited Information:",
+      "description": "No specific sourcing or availability information was provided for Adamantyl Carbonyl Proline in the user discussions"
+    },
+    {
+      "label": "Related Supplements:",
+      "description": "Proline and glycine powders are readily available through supplement retailers"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "ALORACETAM",
+      "slug": "aloracetam"
+    }
+  ]
+}

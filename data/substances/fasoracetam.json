@@ -1,0 +1,126 @@
+{
+  "slug": "fasoracetam",
+  "url": "https://dopamine.club/substances/fasoracetam/",
+  "scrapedAt": "2026-02-12T16:07:45.872Z",
+  "title": "FASORACETAM",
+  "description": "Fasoracetam is a nootropic compound in the racetam family that modulates metabotropic glutamate receptors (mGluRs) and upregulates GABA-B receptors. It has been investigated primarily for treating ADHD in adolescents with specific glutamatergic gene variants, and shows promise for reducing anxiety, improving focus, and potentially aiding recovery from GABAergic drug dependence.",
+  "categories": [
+    "Nootropic",
+    "Racetam"
+  ],
+  "research": [
+    {
+      "title": "Fasoracetam in adolescents with ADHD and glutamatergic gene network variants disrupting mGluR neurotransmitter signaling",
+      "summary": "Clinical trial demonstrated that fasoracetam improved ADHD symptoms in adolescents with specific genetic variants affecting glutamate signaling, providing evidence for personalized medicine approaches in ADHD treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29339723/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beyond stimulants: a systematic review of randomised controlled trials assessing novel compounds for ADHD",
+      "summary": "Systematic review identified fasoracetam among novel non-stimulant options in development for ADHD treatment, representing alternatives for patients who don't respond to or tolerate traditional stimulants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31167583/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Study of Fasoracetam's Solid State Forms: A Potential Anti-Alzheimer Pharmaceutical",
+      "summary": "Research examined the chemical stability and formulation properties of fasoracetam for potential use in treating Alzheimer's disease, identifying challenges with its low melting point and hydrated forms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28109793/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report fasoracetam as highly effective for anxiety reduction, focus improvement, and ADHD symptom management. Many describe it as their favorite racetam, with particular praise for its anxiolytic effects and ability to restore GABA receptor function after benzodiazepine or phenibut use."
+  },
+  "effects": [
+    {
+      "label": "ADHD Management:",
+      "description": "Multiple users with diagnosed ADHD report it as one of the most effective nootropics they've tried, particularly when pharmaceutical options failed or weren't tolerated"
+    },
+    {
+      "label": "Tolerance Prevention:",
+      "description": "Commonly stacked with phenibut to prevent tolerance buildup and enhance effects through GABA-B receptor sensitization"
+    },
+    {
+      "label": "Build-Up Period:",
+      "description": "Effects are noticed immediately but continue to build over 1-2 weeks of consistent use, requiring daily administration rather than cycling for sustained benefits"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Clinical trials used high doses (80mg+) for ADHD, and users report higher doses (40-80mg) are more effective than lower doses for noticeable cognitive benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most users report taking 10-80mg daily, with 40-80mg being the range where ADHD and anxiety benefits become pronounced"
+    },
+    {
+      "label": "Clinical Dose:",
+      "description": "Research studies used higher doses than typical user reports, suggesting therapeutic effects may require 80mg or more for ADHD treatment"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Recommended for daily use rather than cycling, as benefits accumulate over time and consistent dosing maintains GABA-B receptor upregulation"
+    },
+    {
+      "label": "With Choline:",
+      "description": "Some users recommend pairing with a choline source (Alpha-GPC or CDP-choline) as with other racetams, though opinions vary on necessity"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Users consistently note few to no side effects at standard doses, making it well-tolerated compared to other racetams"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Some users report headaches, which may be alleviated by adding a choline source to the stack"
+    },
+    {
+      "label": "Tolerance Concerns:",
+      "description": "While used to prevent tolerance to other substances, long-term fasoracetam use itself has limited data on dependency or tolerance development"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "A minority of users report feeling no effects or finding it less effective than expected, suggesting individual response variation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Specialized Suppliers:",
+      "description": "Commonly sourced from specialized nootropics suppliers, with quality varying by vendor"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Generally legal to purchase as a research chemical or supplement in most jurisdictions, though not FDA-approved as a medication"
+    },
+    {
+      "label": "Shortage Concerns:",
+      "description": "Some users mention difficulty sourcing fasoracetam during vendor shortages, suggesting less consistent availability than more common racetams"
+    }
+  ],
+  "related": [
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    },
+    {
+      "name": "COLURACETAM",
+      "slug": "coluracetam"
+    },
+    {
+      "name": "NEFIRACETAM",
+      "slug": "nefiracetam"
+    },
+    {
+      "name": "Oxiracetam",
+      "slug": "oxiracetam"
+    },
+    {
+      "name": "Phenylpiracetam",
+      "slug": "phenylpiracetam"
+    }
+  ]
+}

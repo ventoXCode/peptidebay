@@ -1,0 +1,149 @@
+{
+  "slug": "bergamot",
+  "url": "https://dopamine.club/substances/bergamot/",
+  "scrapedAt": "2026-02-12T16:06:05.348Z",
+  "title": "BERGAMOT",
+  "description": "Bergamot (Citrus bergamia) is a citrus fruit extract standardized for polyphenolic flavonoids including naringin, neohesperidin, and neoeriocitrin. It works primarily by inhibiting HMG-CoA reductase (similar to statins), reducing cholesterol synthesis, and improving lipid metabolism through effects on AMPK and PPAR pathways. It is primarily used for managing dyslipidemia, reducing LDL cholesterol, and improving metabolic health markers.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Clinical Trial on the Effect of a Dietary Supplement Containing Dry Artichoke and Bergamot Extracts on Metabolic and Vascular Risk Factors in Individuals with Suboptimal Cholesterol Levels",
+      "summary": "In 90 subjects with suboptimal cholesterol, 6 weeks of bergamot and artichoke extract significantly improved triglycerides, apolipoprotein B-100, and apolipoprotein AI levels compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38892519/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bergamot Reduces Plasma Lipids, Atherogenic Small Dense LDL, and Subclinical Atherosclerosis in Subjects with Moderate Hypercholesterolemia: A 6 Months Prospective Study",
+      "summary": "Six months of bergamot extract in 80 subjects with moderate hypercholesterolemia reduced LDL cholesterol, small dense LDL particles, and markers of subclinical atherosclerosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26851838/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bergamot phytosome improved visceral fat and plasma lipid profiles in overweight and obese class I subject with mild hypercholesterolemia: A randomized placebo controlled trial",
+      "summary": "In 64 overweight/obese subjects, 12 weeks of bergamot phytosome (500mg twice daily) significantly reduced visceral adipose tissue and improved metabolic lipid profiles compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33188552/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of a novel nutraceutical combination on low-density lipoprotein cholesterol and other markers of cardiometabolic health in adults with hypercholesterolaemia",
+      "summary": "A combination of plant sterols, bergamot extract, artichoke leaf extract and hydroxytyrosol significantly reduced LDL cholesterol and improved cardiometabolic markers in adults with hypercholesterolemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40147213/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Bergamot Polyphenols on Mitochondrial Dysfunction and Sarcoplasmic Reticulum Stress in Diabetic Cardiomyopathy",
+      "summary": "Bergamot polyphenols improved mitochondrial function and reduced sarcoplasmic reticulum stress in diabetic cardiomyopathy models, suggesting protective effects on cardiac health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34371986/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dramatic Suppression of Lipogenesis and No Increase in Beta-Oxidation Gene Expression Are among the Key Effects of Bergamot Flavonoids in Fatty Liver Disease",
+      "summary": "Bergamot polyphenol fraction dramatically suppressed lipogenesis genes and prevented cafeteria diet-induced fatty liver disease in rat models through effects on metabolic pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39061835/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Role of Nutraceuticals in Statin Intolerant Patients",
+      "summary": "Comprehensive review identifies bergamot as one of the evidence-based nutraceutical alternatives for cholesterol management in patients who cannot tolerate statins.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29957236/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are limited in the provided data, but the scientific evidence shows consistent lipid-lowering effects with generally good tolerability. Clinical trials report minimal side effects, though long-term user experiences are not well represented in the available User feedback discussions."
+  },
+  "effects": [
+    {
+      "label": "Lipid Management:",
+      "description": "Effective as monotherapy for mild-moderate hypercholesterolemia, with effects comparable to low-dose statins in some studies"
+    },
+    {
+      "label": "Statin Alternative:",
+      "description": "Well-documented option for statin-intolerant patients or those seeking non-pharmaceutical approaches"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Enhanced effects when combined with other nutraceuticals like artichoke extract, plant sterols, or red yeast rice"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Significant improvements typically observed after 6-12 weeks of consistent supplementation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "500-1000mg daily of standardized bergamot extract (typically 38-40% polyphenolic fraction)"
+    },
+    {
+      "label": "Phytosome Form:",
+      "description": "500mg twice daily (1000mg total) shows enhanced bioavailability and efficacy"
+    },
+    {
+      "label": "Duration:",
+      "description": "Minimum 6 weeks recommended, with optimal benefits at 12+ weeks"
+    },
+    {
+      "label": "Timing:",
+      "description": "Usually taken with meals to improve absorption and reduce potential GI effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Clinical trials report minimal adverse effects with good safety profile"
+    },
+    {
+      "label": "Gastrointestinal:",
+      "description": "Mild digestive discomfort possible, especially at higher doses or on empty stomach"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May potentiate statin effects if combined; theoretical interaction with CYP3A4 substrates"
+    },
+    {
+      "label": "Photosensitivity:",
+      "description": "Unlike bergamot essential oil, standardized extracts have minimal photosensitizing furanocoumarins"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Form:",
+      "description": "Widely available as dietary supplements, often standardized to 38-40% polyphenolic content"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Look for products with standardized polyphenolic fractions and third-party testing; phytosome formulations may offer better bioavailability"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Classified as dietary supplement in most countries; not regulated as drug despite statin-like mechanism"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    }
+  ]
+}

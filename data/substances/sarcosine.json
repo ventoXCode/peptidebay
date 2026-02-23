@@ -1,0 +1,144 @@
+{
+  "slug": "sarcosine",
+  "url": "https://dopamine.club/substances/sarcosine/",
+  "scrapedAt": "2026-02-12T16:11:09.098Z",
+  "title": "SARCOSINE",
+  "description": "Sarcosine (N-methylglycine) is an endogenous amino acid that acts as a glycine transporter-1 (GlyT-1) inhibitor, enhancing NMDA receptor function by increasing glycine availability at the glycine binding site. It is primarily investigated for its potential therapeutic effects in schizophrenia, depression, and cognitive enhancement through modulation of glutamatergic neurotransmission.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "A possible role for sarcosine in the management of schizophrenia",
+      "summary": "Editorial highlighting that sarcosine has pharmacological activity to boost NMDA receptor functioning and shows evidence for efficacy in treating schizophrenia symptoms, suggesting psychiatrists could consider its use for patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31685041/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sarcosine (N-methylglycine) treatment for acute schizophrenia: a randomized, double-blind study",
+      "summary": "Study of 20 acutely symptomatic patients found that those receiving 2g daily sarcosine were more likely to respond with 20% or more reduction in symptoms, particularly among antipsychotic-naive patients, with minimal side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17659263/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of add-on sarcosine in patients with major depressive disorder: A randomized controlled trial",
+      "summary": "Randomized controlled trial demonstrating that sarcosine as add-on therapy to conventional antidepressants showed efficacy and safety benefits for patients with major depressive disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39180989/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of N-methyl-D-aspartate receptor modulator augmentation in schizophrenia: A meta-analysis of randomised, placebo-controlled trials",
+      "summary": "Meta-analysis of 40 trials involving 4,937 patients found that NMDA receptor modulators including sarcosine showed efficacy for improving symptoms of schizophrenia when used as augmentation therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33406959/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of sarcosine and N, N-dimethylglycine on NMDA receptor-mediated excitatory field potentials",
+      "summary": "Research examining the mechanisms by which sarcosine enhances NMDA receptor function through glycine site potentiation, supporting its role as a glycine transporter-1 inhibitor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28245819/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "In Vitro and In Vivo Neuroprotective Effects of Sarcosine",
+      "summary": "Study demonstrating neuroprotective properties of sarcosine both in laboratory and animal models, suggesting potential therapeutic applications for neurological conditions.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9587910/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report significant mood improvements and antidepressant effects from sarcosine, with many describing it as one of the strongest mood boosters they've tried. While some report it can be overstimulating at higher doses, the majority find it effective for depression and anhedonia with minimal side effects."
+  },
+  "effects": [
+    {
+      "label": "Depression and Anhedonia:",
+      "description": "Highly effective for treatment-resistant depression and anhedonia, particularly when combined with NAC, with users reporting return of emotional range and motivation"
+    },
+    {
+      "label": "Schizophrenia Symptoms:",
+      "description": "Shows promise for both positive and negative symptoms of schizophrenia, with research and user reports supporting efficacy particularly in combination with standard medications"
+    },
+    {
+      "label": "Dosage-Dependent Response:",
+      "description": "Effects appear strongest at 1-2 grams daily, with higher doses potentially causing overstimulation and requiring cycling rather than continuous use"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Works exceptionally well for some users but may cause overstimulation or require careful dosing adjustments, with effects sometimes being too strong for daily continuous use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Effective Dose:",
+      "description": "1-2 grams daily appears to be the most commonly effective range, taken either as single morning dose or split between morning and afternoon"
+    },
+    {
+      "label": "Starting Protocol:",
+      "description": "Users recommend starting low and gradually increasing, as even small amounts can produce noticeable effects in sensitive individuals"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "Many users report needing to cycle sarcosine (a few days on, then off) to avoid overstimulation and maintain effectiveness"
+    },
+    {
+      "label": "Combination Dosing:",
+      "description": "When stacked with NAC, users typically take 1g sarcosine with 1200-1800mg NAC for synergistic effects on mood and anhedonia"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Overstimulation:",
+      "description": "At higher doses or with continuous use, some users experience excessive mental energy, restlessness, and difficulty sleeping if taken too late in the day"
+    },
+    {
+      "label": "Prostate Cancer Marker:",
+      "description": "Can show up in urine tests as a potential prostate cancer indicator, requiring disclosure to healthcare providers to avoid misdiagnosis"
+    },
+    {
+      "label": "Potential Progression Concern:",
+      "description": "Some research suggests sarcosine may play a role in prostate cancer progression, though this remains debated in the scientific literature"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Some users report feeling 'weird' or experiencing side effects that don't occur with similar compounds like glycine, suggesting individual variation in response"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Status:",
+      "description": "Freely available as a dietary supplement without prescription in most countries, though availability may vary by region"
+    },
+    {
+      "label": "Online Sources:",
+      "description": "Commonly purchased from specialized nootropic vendors like BrainVitaminz, Powder City, and SmartPowders, with varying pricing and availability"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users recommend purchasing from reputable suppliers and note that prices can vary significantly, with some sources being overpriced compared to alternatives"
+    }
+  ],
+  "related": [
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "THEACRINE",
+      "slug": "theacrine"
+    },
+    {
+      "name": "THEOBROMINE",
+      "slug": "theobromine"
+    },
+    {
+      "name": "5-HTP",
+      "slug": "5-htp"
+    },
+    {
+      "name": "Agmatine",
+      "slug": "agmatine"
+    }
+  ]
+}

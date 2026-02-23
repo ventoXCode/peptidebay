@@ -1,0 +1,139 @@
+{
+  "slug": "tributyrin",
+  "url": "https://dopamine.club/substances/tributyrin/",
+  "scrapedAt": "2026-02-12T16:11:54.104Z",
+  "title": "TRIBUTYRIN",
+  "description": "Tributyrin is a triglyceride containing three molecules of butyrate, acting as a high-bioavailability prodrug of butyric acid. It functions as a histone deacetylase (HDAC) inhibitor and a primary energy source for colonocytes, widely used to support intestinal barrier integrity, modulate inflammation, and promote systemic metabolic health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Tributyrin administration improves intestinal development and health in pre-weaned dairy calves fed milk replacer",
+      "summary": "This study found that tributyrin improves intestinal immune and barrier functions while positively modulating gut microbial composition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35949196/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary tributyrin, an HDAC inhibitor, promotes muscle growth through enhanced terminal differentiation of satellite cells",
+      "summary": "Research indicates tributyrin enhances the activity of muscle stem cells, leading to a significant increase in DNA:protein ratios and overall muscle growth efficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29845774/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of tributyrin supplementation in milk replacer on diarrhoea occurrence in preweaning Holstein calves",
+      "summary": "Tributyrin supplementation was shown to significantly reduce the frequency and severity of neonatal diarrhea by strengthening the intestinal antioxidant barrier.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37121158/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Tributyrin Attenuates Intestinal Inflammation, Enhances Mitochondrial Function, and Induces Mitophagy in Piglets Challenged with Diquat",
+      "summary": "Tributyrin reduced markers of inflammation (TNF-α, IL-6) and improved mitochondrial function and antioxidant capacity under oxidative stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30599507/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prophylactic tributyrin treatment mitigates chronic-binge ethanol-induced intestinal barrier and liver injury",
+      "summary": "Experimental evidence suggests tributyrin protects the gut lining and liver from damage caused by acute or chronic alcohol consumption.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28087985/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Maternal tributyrin supplementation in late pregnancy and lactation improves offspring immunity, gut microbiota, and diarrhea rate in a sow model",
+      "summary": "Maternal supplementation improved the immune status and gut health of offspring, highlighting its systemic impact on microbiome development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37168115/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users and researchers are highly optimistic about tributyrin's potential as a 'biohack' for lifespan extension and neurological 'dekindling' via HDAC inhibition, though it is primarily recognized for its potent gut-healing properties."
+  },
+  "effects": [
+    {
+      "label": "Superior Bioavailability:",
+      "description": "Unlike liquid butyrate which has a foul odor and low reach, tributyrin safely reaches the hindgut for maximum efficacy."
+    },
+    {
+      "label": "Anti-Inflammatory:",
+      "description": "Consistently reduces pro-inflammatory cytokines like TNF-α and IL-6 in multiple animal models."
+    },
+    {
+      "label": "Growth Promotion:",
+      "description": "Demonstrates clear improvements in average daily gain and feed efficiency in developing organisms."
+    },
+    {
+      "label": "Alcohol Protection:",
+      "description": "Effectively mitigates intestinal and liver injury induced by ethanol consumption."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "General Gut Support:",
+      "description": "Research doses in large animal models often use 0.2% to 0.3% of total caloric intake."
+    },
+    {
+      "label": "High-Dose Therapeutic:",
+      "description": "Human cancer trials have explored up to 400 mg/kg, though this is far above standard supplemental levels."
+    },
+    {
+      "label": "Calf/Livestock Model:",
+      "description": "Common experimental doses range from 2g per liter of milk replacer to 8.3g per kg of feed."
+    },
+    {
+      "label": "Prodrug Advantage:",
+      "description": "Because it is a prodrug, users can achieve higher systemic butyrate levels without the digestive distress of pure butyric acid."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Shift:",
+      "description": "Rapid changes in gut microbiota may cause temporary bloating or changes in bowel habits."
+    },
+    {
+      "label": "Odor:",
+      "description": "Though less pungent than butyric acid, some concentrated forms can still have a distinct, slightly unpleasant smell."
+    },
+    {
+      "label": "Metabolic Changes:",
+      "description": "High doses may influence lipid metabolism and gene expression in the liver."
+    },
+    {
+      "label": "Unknown Long-term Human Data:",
+      "description": "Most current data is derived from animal models (porcine, bovine) or specific clinical cancer trials."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Form:",
+      "description": "Widely available as a specialized gut health supplement, often labeled as 'Liquid Butyrate' or 'CoreBiome'."
+    },
+    {
+      "label": "Agricultural Roots:",
+      "description": "Historically used as a livestock feed additive before gaining popularity in the biohacking and longevity communities."
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

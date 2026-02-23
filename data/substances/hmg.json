@@ -1,0 +1,104 @@
+{
+  "slug": "hmg",
+  "url": "https://dopamine.club/substances/hmg/",
+  "scrapedAt": "2026-02-12T16:08:24.579Z",
+  "title": "HMG",
+  "description": "Human Menopausal Gonadotropin (HMG) is a purified hormonal compound consisting of follicle-stimulating hormone (FSH) and luteinizing hormone (LH). It works by directly stimulating the gonads to promote testosterone production, sperm maturation, and ovarian follicle growth, primarily used for treating infertility and hypogonadism.",
+  "categories": [
+    "Peptide",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "β-Hydroxy-β-methyl butyrate (HMB) supplementation elevates testosterone levels without significant changes to cortisol, IGF-1, or growth hormone in adults: a GRADE-assessed systematic review and meta-analysis of controlled trials",
+      "summary": "This meta-analysis of 15 trials found that HMB (a metabolite often linked to HMG discussions in muscle contexts) significantly increases testosterone levels in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40612317/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of HMB supplementation on hormonal adaptations following resistance training: a systematic review and meta-analysis",
+      "summary": "Research indicates that supplementation can lead to greater adaptations in resting testosterone and IGF-1 levels when combined with resistance training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37308703/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users highly value HMG for its efficacy in restoring natural testosterone production and fertility, particularly during or after anabolic steroid cycles."
+  },
+  "effects": [
+    {
+      "label": "Superiority to hCG:",
+      "description": "Often reported as more effective than hCG alone for fertility because it contains both FSH and LH."
+    },
+    {
+      "label": "Clinical Reliability:",
+      "description": "Highly effective for those with hypogonadotropic hypogonadism to achieve pregnancy reaching high success rates."
+    },
+    {
+      "label": "Anabolic Recovery:",
+      "description": "Proves effective in maintaining testicular volume and function during aggressive supplement cycles."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Fertility Protocol:",
+      "description": "Often administered at 75-150 IU two to three times per week."
+    },
+    {
+      "label": "Symmetry with hCG:",
+      "description": "Frequently stacked with 500-1000 IU of hCG for a comprehensive hormonal restart."
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Typically used for 3-6 weeks depending on the degree of hormonal suppression."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Injection Site Reaction:",
+      "description": "Mild redness or swelling at the subcutaneous or intramuscular injection point."
+    },
+    {
+      "label": "Ovarian Hyperstimulation:",
+      "description": "A risk in female users where ovaries become swollen and painful."
+    },
+    {
+      "label": "Estrogen Fluctuations:",
+      "description": "Increased testosterone can lead to higher estrogen levels, potentially causing bloating or nipple sensitivity."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Medical Status:",
+      "description": "Available via prescription as a fertility medication (e.g., Menopur)."
+    },
+    {
+      "label": "Research Sourcing:",
+      "description": "Frequently sourced through specialty peptide suppliers for research and off-label hormonal recovery."
+    }
+  ],
+  "related": [
+    {
+      "name": "ARGININE",
+      "slug": "arginine"
+    },
+    {
+      "name": "BORON",
+      "slug": "boron"
+    },
+    {
+      "name": "CISTANCHE",
+      "slug": "cistanche"
+    },
+    {
+      "name": "CITRULLINE",
+      "slug": "citrulline"
+    },
+    {
+      "name": "FADOGIA AGRESTIS",
+      "slug": "fadogia-agrestis"
+    }
+  ]
+}

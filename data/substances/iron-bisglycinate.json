@@ -1,0 +1,149 @@
+{
+  "slug": "iron-bisglycinate",
+  "url": "https://dopamine.club/substances/iron-bisglycinate/",
+  "scrapedAt": "2026-02-12T16:08:54.694Z",
+  "title": "IRON BISGLYCINATE",
+  "description": "Iron bisglycinate is a chelated form of iron where iron is bound to two glycine molecules, creating a highly bioavailable supplement used to treat and prevent iron deficiency and iron deficiency anemia. This chelated form is absorbed more efficiently than traditional iron salts like ferrous sulfate, with reduced gastrointestinal side effects. It works by replenishing iron stores, enabling proper hemoglobin formation and oxygen transport throughout the body.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The effects of oral ferrous bisglycinate supplementation on hemoglobin and ferritin concentrations in adults and children: a systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis found ferrous bisglycinate effectively increases hemoglobin and ferritin concentrations with fewer gastrointestinal adverse events compared to iron salts, demonstrating superior bioavailability and tolerability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36728680/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and Safety of Ferrous Bisglycinate and Folinic Acid in the Control of Iron Deficiency in Pregnant Women: A Randomized, Controlled Trial",
+      "summary": "Study in pregnant women showed ferrous bisglycinate (24mg elemental iron) was as effective as ferrous fumarate (66mg) in improving iron status with better bioavailability and fewer side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35276810/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Iron Bisglycinate Chelate and Polymaltose Iron for the Treatment of Iron Deficiency Anemia: A Pilot Randomized Trial",
+      "summary": "Double-blind study in anemic children found iron bisglycinate chelate significantly increased hemoglobin, ferritin, and mean corpuscular hemoglobin with good tolerability and low incidence of adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30280670/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Low-Dose Prophylactic Oral Iron Supplementation (Ferrous Fumarate, Ferrous Bisglycinate, and Ferrous Sulphate) in Pregnancy Is Not Associated With Clinically Significant Gastrointestinal Complaints",
+      "summary": "Randomized study found low-dose iron bisglycinate (25mg) in pregnancy was not associated with clinically significant gastrointestinal complaints, demonstrating good tolerability compared to traditional iron salts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39582678/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Low-dose ferrous bisglycinate chelate supplementation in chronic kidney disease and hemodialysis patients",
+      "summary": "Low-dose ferrous bisglycinate improved serum iron concentration and transferrin saturation in CKD and hemodialysis patients after 16 weeks, demonstrating efficacy in special populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35358119/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Treatment of mild non-chemotherapy-induced iron deficiency anemia in cancer patients: comparison between oral ferrous bisglycinate chelate and ferrous sulfate",
+      "summary": "In cancer patients with mild anemia, ferrous bisglycinate (28mg then 14mg daily) was equally effective as ferrous sulfate (105mg daily) in increasing hemoglobin and ferritin with significantly fewer adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22795809/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Assessment of the Efficacy of a Low-Dose Iron Supplement in Restoring Iron Levels to Normal Range among Healthy Premenopausal Women with Iron Deficiency without Anemia",
+      "summary": "Low-dose liquid fermented iron-bisglycinate (27mg) effectively improved blood-iron status in premenopausal women with iron deficiency without anemia over 8 weeks without increasing constipation or GI distress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37299583/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report iron bisglycinate effectively resolves fatigue and energy issues when iron deficiency is confirmed through blood testing, with significantly better tolerability than ferrous sulfate. Most users emphasize the importance of testing before supplementing and appreciate the reduced gastrointestinal side effects."
+  },
+  "effects": [
+    {
+      "label": "Test Before Supplementing:",
+      "description": "Overwhelmingly strong user consensus that iron supplementation should only be done after confirming deficiency through blood tests (ferritin, iron panel, TIBC)"
+    },
+    {
+      "label": "Works When Deficient:",
+      "description": "Users consistently report iron bisglycinate is highly effective when actual deficiency exists, with noticeable improvements in 2-8 weeks"
+    },
+    {
+      "label": "Superior to Ferrous Sulfate:",
+      "description": "Users who switched from ferrous sulfate report bisglycinate causes significantly fewer digestive issues while being equally or more effective"
+    },
+    {
+      "label": "Bioavailability Matters:",
+      "description": "Even people eating iron-rich diets report they can still be deficient, and the chelated form appears to absorb better than food sources alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most common effective doses range from 18-27mg elemental iron daily for deficiency correction, with some using up to 60-80mg under medical supervision"
+    },
+    {
+      "label": "Lower Doses Effective:",
+      "description": "Studies and users confirm that 24-27mg of bisglycinate can be as effective as 60-105mg of iron salts due to superior absorption"
+    },
+    {
+      "label": "Take With Vitamin C:",
+      "description": "Users recommend taking with vitamin C to enhance absorption, though the chelated form is less dependent on stomach acid than iron salts"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Most users take on an empty stomach or with meals depending on tolerance; some cycle or take every other day once levels normalize"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal GI Issues:",
+      "description": "Users consistently report significantly fewer gastrointestinal side effects (constipation, nausea, stomach pain) compared to ferrous sulfate"
+    },
+    {
+      "label": "Avoid Without Deficiency:",
+      "description": "Users warn against taking iron when not deficient, as excess iron can cause problems including potential organ damage"
+    },
+    {
+      "label": "Monitor Copper Levels:",
+      "description": "Some users note zinc and iron supplementation can affect copper status, recommending periodic blood work to monitor"
+    },
+    {
+      "label": "Constipation (Mild):",
+      "description": "While much less common than with iron salts, some users still experience mild constipation that can be managed with magnesium"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Iron bisglycinate is readily available from major supplement brands, with users frequently mentioning quality brands, quality brands, and other reputable manufacturers"
+    },
+    {
+      "label": "Price Variation:",
+      "description": "Generally more expensive than ferrous sulfate but users consider it worth the cost due to better tolerance and absorption"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Users emphasize choosing reputable brands with third-party testing, as chelated forms can vary significantly in quality and actual bioavailability"
+    }
+  ],
+  "related": [
+    {
+      "name": "COPPER",
+      "slug": "copper"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "DIMETHYLGLYCINE",
+      "slug": "dimethylglycine"
+    },
+    {
+      "name": "ELEUTHERO",
+      "slug": "eleuthero"
+    },
+    {
+      "name": "IODINE",
+      "slug": "iodine"
+    }
+  ]
+}

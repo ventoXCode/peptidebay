@@ -1,0 +1,113 @@
+{
+  "slug": "eleuthero",
+  "url": "https://dopamine.club/substances/eleuthero/",
+  "scrapedAt": "2026-02-12T16:07:36.572Z",
+  "title": "ELEUTHERO",
+  "description": "Eleuthero (Eleutherococcus senticosus), also known as Siberian ginseng, is an adaptogenic herb traditionally used in Chinese and Russian medicine. It works by modulating stress response pathways, inhibiting inflammatory markers (MAPKs, NF-κB), and increasing brain-derived neurotrophic factor (BDNF), which contributes to stress reduction, immune support, and improved physical endurance. The European Medicines Agency has approved it for treating symptoms of asthenia (fatigue and weakness).",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Eleutherococcus root: a comprehensive review of its phytochemistry and pharmacological potential in the context of its adaptogenic effect",
+      "summary": "Comprehensive review showing Eleuthero's adaptogenic effects are due to anti-inflammatory, immunomodulatory, and neuroprotective activities, though clinical evidence for asthenia treatment remains limited and heterogeneous.",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1683795/full",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally view Eleuthero positively as part of adaptogen stacks for energy and stress, with many reporting it helps combat fatigue when combined with other herbs. However, it's rarely discussed as a standalone supplement, and effectiveness appears moderate compared to other adaptogens like Rhodiola or Ashwagandha."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Effects:",
+      "description": "Most effective when combined with other adaptogens like Rhodiola, Ashwagandha, or Asian Ginseng rather than as standalone"
+    },
+    {
+      "label": "Subtle Benefits:",
+      "description": "Users report more subtle, background effects compared to stronger adaptogens or stimulants"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between individuals, with some reporting no noticeable effects"
+    },
+    {
+      "label": "Research Limitations:",
+      "description": "Clinical evidence is limited by poor standardization of preparations and heterogeneous trial quality"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Traditional Range:",
+      "description": "6-12g daily of root material in American sources, 9-27g in Chinese medicine traditions"
+    },
+    {
+      "label": "Modern Dosing:",
+      "description": "Commercial extracts typically use 100-400mg standardized to eleutherosides B and E"
+    },
+    {
+      "label": "Stack Component:",
+      "description": "Often dosed at 100-200mg when part of multi-ingredient adaptogen formulas"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Effectiveness heavily dependent on proper standardization and quality of plant material"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users and research indicate minimal side effects at recommended doses"
+    },
+    {
+      "label": "Mild Stimulation:",
+      "description": "Some users may experience slight stimulant-like effects, though less pronounced than caffeine"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May interact with medications metabolized by cytochrome P450 enzymes"
+    },
+    {
+      "label": "Quality Issues:",
+      "description": "Poor quality preparations may lack efficacy or contain contaminants"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in many commercial adaptogen blends and available as standalone supplements from brands like quality brands"
+    },
+    {
+      "label": "Standardization Important:",
+      "description": "Look for products standardized to eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) content"
+    },
+    {
+      "label": "EMA Approved:",
+      "description": "Recognized by European Medicines Agency for traditional use in treating symptoms of fatigue and weakness"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "COPPER",
+      "slug": "copper"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "DIMETHYLGLYCINE",
+      "slug": "dimethylglycine"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "magnesium-taurate",
+  "url": "https://dopamine.club/substances/magnesium-taurate/",
+  "scrapedAt": "2026-02-12T16:09:24.895Z",
+  "title": "MAGNESIUM TAURATE",
+  "description": "Magnesium taurate is a chelated form of magnesium bound to the amino acid taurine, combining the benefits of both compounds for cardiovascular and neurological support. This form provides highly bioavailable magnesium while taurine contributes additional calming effects on the nervous system and supports heart function. It is primarily used for cardiovascular health, blood pressure regulation, anxiety reduction, and sleep quality improvement.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The effects of magnesium L-threonate (Magtein®) on cognitive performance and sleep quality in adults: a randomised, double-blind, placebo-controlled trial",
+      "summary": "Magnesium L-threonate supplementation improved overall cognitive performance, working and episodic memory, reduced brain cognitive age by 7.5 years, and showed improvements in sleep-related impairment compared to placebo in adults with dissatisfied sleep.",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1729164/full",
+      "source": "(Web Search)"
+    },
+    {
+      "title": "Magnesium and taurine, first proven to be preventive for cardiovascular risks",
+      "summary": "Higher urinary taurine and magnesium levels were inversely associated with blood pressure, cholesterol, and obesity risk, with the prevalence of hypertension and hypercholesterolemia being significantly lower in those with highest intake levels.",
+      "url": "https://journals.lww.com/jhypertension/abstract/2021/04001/magnesium_and_taurine,_first_proven_to_be.428.aspx",
+      "source": "(Web Search)"
+    },
+    {
+      "title": "Magnesium-L-threonate improves sleep quality and daytime functioning in adults with self-reported sleep problems: A randomized controlled trial",
+      "summary": "Three weeks of magnesium L-threonate supplementation improved both subjective and objective sleep scores and daytime functioning in adults with self-reported sleep problems, demonstrating it is safe and well-tolerated.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39252819/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effectiveness of Magnesium Supplementation on Sleep Quality and Mood for Adults with Poor Sleep Quality: A Randomized Double-Blind Placebo-Controlled Crossover Pilot Trial",
+      "summary": "A crossover pilot trial examining 1g/day magnesium supplementation showed improvements in sleep quality measures and mood outcomes in adults with nonclinical insomnia symptoms.",
+      "url": "https://esmed.org/MRA/mra/article/view/5410",
+      "source": "(Web Search)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are limited with magnesium taurate specifically, as most available research focuses on other magnesium forms like L-threonate. The available evidence suggests magnesium supplementation generally shows promise for sleep and anxiety support, though individual responses vary significantly."
+  },
+  "effects": [
+    {
+      "label": "Sleep Benefits:",
+      "description": "Consistently demonstrated improvements in both subjective sleep quality ratings and objective sleep metrics across multiple studies"
+    },
+    {
+      "label": "Cardiovascular Effects:",
+      "description": "Strong inverse associations between magnesium/taurine intake and cardiovascular risk factors including blood pressure and cholesterol"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies based on baseline magnesium status, with greater benefits seen in those with deficiency or suboptimal levels"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Benefits typically emerge within 2-3 weeks of consistent supplementation, with continued improvements over longer periods"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "1-2 grams daily of magnesium taurate, typically split into divided doses"
+    },
+    {
+      "label": "Elemental Magnesium:",
+      "description": "Equivalent to approximately 125-250mg of elemental magnesium depending on the formulation"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken in the evening or before bed to support sleep quality and relaxation"
+    },
+    {
+      "label": "Duration:",
+      "description": "Clinical trials show benefits with 2-6 weeks of consistent use, with safety demonstrated for longer-term supplementation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Effects:",
+      "description": "Minimal gastrointestinal side effects compared to other magnesium forms, though some may experience mild stomach upset"
+    },
+    {
+      "label": "General Tolerability:",
+      "description": "Well-tolerated across studies with low dropout rates due to adverse events"
+    },
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Side effects are typically dose-dependent, with higher doses more likely to cause digestive discomfort"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Considered safe for most adults when used at recommended doses, with no serious adverse events reported in clinical trials"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Availability:",
+      "description": "Available as a dietary supplement from various manufacturers, though less common than magnesium oxide or citrate"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Choose products from reputable manufacturers with third-party testing to ensure purity and accurate labeling"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Freely available as a nutritional supplement without prescription in most countries"
+    }
+  ],
+  "related": [
+    {
+      "name": "MAGNESIUM CITRATE",
+      "slug": "magnesium-citrate"
+    },
+    {
+      "name": "MAGNESIUM GLYCINATE",
+      "slug": "magnesium-glycinate"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    },
+    {
+      "name": "KAVA",
+      "slug": "kava"
+    }
+  ]
+}

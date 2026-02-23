@@ -1,0 +1,156 @@
+{
+  "slug": "schisandra",
+  "url": "https://dopamine.club/substances/schisandra/",
+  "scrapedAt": "2026-02-12T16:11:10.484Z",
+  "title": "SCHISANDRA",
+  "description": "Schisandra chinensis is a traditional Chinese medicinal berry containing bioactive lignans (schisandrins) with adaptogenic, hepatoprotective, and neuroprotective properties. It works by modulating neurotransmitters, reducing oxidative stress, inhibiting inflammatory pathways, and regulating metabolic enzymes including cytochrome P450. Primarily used as a dietary supplement for liver health, cognitive function, stress adaptation, and athletic performance enhancement.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Systematic analysis of the pharmacological function of Schisandra as a potential exercise supplement",
+      "summary": "Network pharmacology analysis identified Schisandra chinensis as having potential benefits for exercise performance through multiple active compounds and biological pathways, supporting its use as an exercise supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35152622/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Schisandra lignans ameliorate nonalcoholic steatohepatitis by regulating aberrant metabolism of phosphatidylethanolamines",
+      "summary": "Schisandra lignans effectively treated non-alcoholic fatty liver disease in mice by regulating lipid metabolism and reducing hepatic lipid accumulation through phosphatidylethanolamine pathway modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37655337/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective Effect of Schisandra Chinensis on Methyl-4-Phenyl-1,2,3,6-Tetrahydropyridine-Induced Parkinsonian Syndrome in C57BL/6 Mice",
+      "summary": "Schisandra extract demonstrated neuroprotective effects in a Parkinson's disease mouse model by protecting dopaminergic neurons and reducing behavioral deficits caused by neurotoxin exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31330885/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Schisandrin A in Schisandra chinensis Upregulates the LDL Receptor by Inhibiting PCSK9 Protein Stabilization in Steatotic Model",
+      "summary": "Schisandrin A demonstrated hypocholesterolemic activity by inhibiting PCSK9 protein and upregulating LDL receptors, significantly reducing blood cholesterol and improving liver markers in obese mice fed a Western diet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37997262/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Schisandra chinensis berry extract protects against steatosis by inhibiting histone acetylation in oleic acid-treated HepG2 cells and in the livers of diet-induced obese mice",
+      "summary": "Schisandra extract reduced hepatic fat accumulation through inhibiting histone acetyltransferase activity and downregulating lipogenic gene expression in both cell culture and animal models of obesity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29173646/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of schisandra lignans on the absorption of protopanaxadiol-type ginsenosides mediated by P-glycoprotein and protopanaxatriol-type ginsenosides mediated by CYP3A4",
+      "summary": "Schisandra lignans significantly affect the absorption of ginseng compounds by inhibiting P-glycoprotein and CYP3A4 enzymes, demonstrating important herb-herb interactions when used in combination formulas.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37597677/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Schisandra chinensis Bee Pollen Ameliorates Colitis in Mice by Modulating Gut Microbiota and Regulating Treg/Th17 Balance",
+      "summary": "Schisandra bee pollen extract effectively reduced colitis symptoms by restoring gut microbiota balance, reducing inflammation, and regulating immune cell balance between regulatory and helper T cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38397562/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Interactions between natural products and cancer treatments: underlying mechanisms and clinical importance",
+      "summary": "Review highlighting that Schisandra and other natural products can interact with cancer treatments through modulation of drug-metabolizing enzymes and transporters, emphasizing the need for caution with concurrent use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36707434/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with Schisandra as part of adaptogen stacks for anxiety, stress, and mood support. It's commonly included in combination formulas and rarely mentioned as causing problems, with most negative feedback directed at other supplements in their stacks rather than Schisandra specifically."
+  },
+  "effects": [
+    {
+      "label": "Combination Use:",
+      "description": "Most commonly used as part of multi-ingredient stacks rather than standalone, suggesting users view it as a supporting rather than primary therapeutic agent"
+    },
+    {
+      "label": "Tolerability:",
+      "description": "Rarely mentioned as causing side effects or problems, indicating good general tolerability compared to other adaptogens like ashwagandha"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Frequently paired with bacopa, ginkgo, and ginseng in cognitive/mood formulas, with users reporting good results from these combinations"
+    },
+    {
+      "label": "Onset Timeline:",
+      "description": "When mentioned in blends that showed rapid effects (like the Brahmi blend), suggesting potential for relatively quick action compared to other adaptogens"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "500mg appears common in commercial blends and user-reported stacks, representing a moderate standardized dose"
+    },
+    {
+      "label": "Blend Proportions:",
+      "description": "Often used as a smaller component (500mg) relative to primary herbs like bacopa (7g) in combination formulas"
+    },
+    {
+      "label": "Cycling Approach:",
+      "description": "Some users mention cycling adaptogens including Schisandra every other day to maintain effectiveness and prevent tolerance"
+    },
+    {
+      "label": "Integration Timing:",
+      "description": "Typically taken as part of morning or pre-workout routines when included in energy/cognitive support protocols"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reports:",
+      "description": "Very few direct negative reports about Schisandra specifically, suggesting low incidence of problematic side effects"
+    },
+    {
+      "label": "Sleep Effects:",
+      "description": "One user reported potent stimulating effects from a Brahmi blend containing Schisandra that initially disrupted sleep"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Research papers emphasize CYP3A4 and P-glycoprotein inhibition, potentially affecting medication metabolism (tacrolimus, cancer treatments)"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Like other adaptogens, effects may vary, but fewer polarized responses compared to ashwagandha or lion's mane"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Formulas:",
+      "description": "Widely available in pre-made adaptogen and nootropic blends rather than as standalone products in user discussions"
+    },
+    {
+      "label": "Quality Brands:",
+      "description": "Users recommend purchasing from reputable brands with third-party testing when selecting adaptogen combinations that include Schisandra"
+    },
+    {
+      "label": "Accessibility:",
+      "description": "Appears readily available as part of supplement stacks without special sourcing concerns or legality issues mentioned"
+    }
+  ],
+  "related": [
+    {
+      "name": "ASHWAGANDHA",
+      "slug": "ashwagandha"
+    },
+    {
+      "name": "Cordyceps",
+      "slug": "cordyceps"
+    },
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "Ginseng",
+      "slug": "ginseng"
+    },
+    {
+      "name": "HOLY BASIL (TULSI)",
+      "slug": "holy-basil-tulsi"
+    }
+  ]
+}

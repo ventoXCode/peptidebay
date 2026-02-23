@@ -1,0 +1,162 @@
+{
+  "slug": "carnosine",
+  "url": "https://dopamine.club/substances/carnosine/",
+  "scrapedAt": "2026-02-12T16:06:23.757Z",
+  "title": "CARNOSINE",
+  "description": "Carnosine is a naturally occurring dipeptide composed of beta-alanine and histidine, found primarily in skeletal muscle and brain tissue. It functions as an intracellular buffer, antioxidant, and anti-glycation agent with properties that include pH regulation, metal ion chelation, and scavenging of reactive oxygen species. Carnosine is used primarily for athletic performance enhancement, anti-aging, gut health restoration, and potentially for neurological and metabolic support.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Carnosine and Beta-Alanine Supplementation in Human Medicine: Narrative Review and Critical Assessment",
+      "summary": "Comprehensive review showing carnosine and its precursor beta-alanine have wide-ranging effects including anti-inflammatory, antioxidant, antiglycation, and immunomodulatory properties with applications across multiple areas of human medicine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37049610/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of beta-alanine supplementation on muscle carnosine and exercise performance",
+      "summary": "Beta-alanine supplementation increases muscle carnosine content and total muscle buffer capacity, improving performance during high-intensity exercise lasting more than 60 seconds and delaying onset of neuromuscular fatigue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20479615/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis",
+      "summary": "Systematic review and meta-analysis confirming beta-alanine supplementation improves exercise capacity and performance, with effects modeled using advanced statistical methods accounting for data dependencies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27797728/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "International society of sports nutrition position stand: Beta-Alanine",
+      "summary": "Official position statement confirming beta-alanine supplementation increases muscle carnosine levels and improves performance in high-intensity exercise, particularly exercises lasting 60-240 seconds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26175657/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Patented Dietary Supplement (Hydroxy-Methyl-Butyrate, Carnosine, Magnesium, Butyrate, Lactoferrin) Is a Promising Therapeutic Target for Age-Related Sarcopenia",
+      "summary": "Randomized controlled trial showing a supplement combination including carnosine improved muscle mass and function in sarcopenia through regulation of gut permeability and anti-inflammatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38732615/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc carnosine: Frontiers advances of supplement for cancer therapy",
+      "summary": "Review examining zinc-carnosine's role in cancer therapy, discussing zinc's importance in brain function and evidence that zinc metabolic imbalance contributes to various diseases including cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35605299/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effect of β-Alanine Supplementation on Performance, Cognitive Function and Resiliency in Soldiers",
+      "summary": "Evidence suggests beta-alanine supplementation increases carnosine in the brain and may enhance resilience to post-traumatic stress disorder, mild traumatic brain injury, and heat stress, though cognitive benefits require more research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36839397/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carnosine Supplementation Has No Effect on Inflammatory Markers in Adults with Prediabetes and Type 2 Diabetes",
+      "summary": "Randomized controlled trial found that carnosine supplementation did not significantly affect inflammatory markers in adults with prediabetes and type 2 diabetes, despite theoretical anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39599686/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Histidine in Health and Disease: Metabolism, Physiological Importance, and Use as a Supplement",
+      "summary": "Histidine is essential for carnosine synthesis and has unique roles in proton buffering, metal chelation, and antioxidant activity, with histidine-containing dipeptides like carnosine serving specific physiological functions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32235743/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report predominantly positive experiences with carnosine and beta-alanine, particularly noting significant benefits for athletic performance, gut health (zinc-carnosine), mental energy, and anti-aging effects. While some users found no noticeable benefits or experienced minor side effects like tingling, the majority recommend it and report measurable improvements."
+  },
+  "effects": [
+    {
+      "label": "High-Intensity Exercise:",
+      "description": "Most effective for exercises lasting 60-240 seconds and repeated high-intensity bouts; benefits are well-established in research and confirmed by athletes and fitness enthusiasts"
+    },
+    {
+      "label": "Gut Restoration:",
+      "description": "Zinc-carnosine form shows particularly high effectiveness for healing stomach lining, reducing inflammation, and managing H. pylori, with users reporting dramatic improvements within weeks"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly by individual, with some users experiencing immediate benefits while others notice no effects; baseline carnosine levels and specific health conditions influence outcomes"
+    },
+    {
+      "label": "Chronic Loading Required:",
+      "description": "Beta-alanine requires 2-4 weeks of consistent supplementation to increase muscle carnosine levels sufficiently; acute dosing is ineffective, requiring patience for results to manifest"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Beta-Alanine (Athletic Performance):",
+      "description": "Research supports 2-6g daily in divided doses to minimize tingling (paresthesia); common protocols use 3-5g daily for 4+ weeks to saturate muscle carnosine"
+    },
+    {
+      "label": "L-Carnosine (General Health):",
+      "description": "Users report 500mg daily for mental energy and anti-aging benefits, though some formulations in complexes use 25mg as part of broader stacks"
+    },
+    {
+      "label": "Zinc-Carnosine (Gut Health):",
+      "description": "Studies and user reports suggest 75-150mg twice daily on empty stomach, typically taken 30-60 minutes before meals for optimal gastric mucosa protection"
+    },
+    {
+      "label": "Loading and Maintenance:",
+      "description": "Some users follow loading protocols of higher doses (6g beta-alanine) for 2-4 weeks, then maintenance doses of 2-3g daily; timing with meals can reduce tingling sensation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Paresthesia (Tingling):",
+      "description": "Beta-alanine commonly causes harmless tingling sensations in face, neck, and hands at higher doses; users report this is dose-dependent and can be minimized by dividing doses or using sustained-release formulations"
+    },
+    {
+      "label": "Taurine Depletion:",
+      "description": "Some research suggests beta-alanine may deplete taurine levels due to competition for transporters; users concerned about this may co-supplement with taurine"
+    },
+    {
+      "label": "Digestive Effects:",
+      "description": "Some users report mild GI upset with zinc-carnosine or carnosine, though this is less common than with other supplements; taking with small amounts of food may help"
+    },
+    {
+      "label": "Minimal Long-Term Concerns:",
+      "description": "Research indicates beta-alanine and carnosine are generally safe for long-term use with few serious side effects reported in clinical trials or user experiences"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Beta-Alanine:",
+      "description": "Widely available from sports nutrition brands and general supplement retailers; Creapure and other branded forms ensure quality; often included in pre-workout formulas though typically in sub-therapeutic doses"
+    },
+    {
+      "label": "Zinc-Carnosine (PepZinGI):",
+      "description": "Available as trademarked PepZinGI form from reputable supplement brands; users recommend seeking PepZinGI specifically for standardized zinc-to-carnosine ratio"
+    },
+    {
+      "label": "L-Carnosine vs N-Acetyl-Carnosine:",
+      "description": "L-carnosine is standard oral form; N-acetyl-L-carnosine is used specifically in eye drops for cataracts, with users reporting success sourcing from specialty retailers"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA LIPOIC ACID",
+      "slug": "alpha-lipoic-acid"
+    },
+    {
+      "name": "COQ10",
+      "slug": "coq10"
+    },
+    {
+      "name": "L-CARNITINE",
+      "slug": "l-carnitine"
+    },
+    {
+      "name": "NAD+ (NMN/NR)",
+      "slug": "nad-nmn-nr"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    }
+  ]
+}

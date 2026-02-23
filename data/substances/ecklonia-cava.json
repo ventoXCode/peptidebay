@@ -1,0 +1,161 @@
+{
+  "slug": "ecklonia-cava",
+  "url": "https://dopamine.club/substances/ecklonia-cava/",
+  "scrapedAt": "2026-02-12T16:07:28.874Z",
+  "title": "ECKLONIA CAVA",
+  "description": "Ecklonia cava is a brown seaweed rich in phlorotannins, a unique class of marine polyphenols with potent antioxidant properties. It works primarily through AMPK and SIRT1 activation, reducing oxidative stress, inflammation, and modulating lipid metabolism. Its primary uses include neuroprotection, metabolic health support, and antioxidant supplementation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ecklonia cava Ameliorates Cognitive Impairment on Amyloid β-Induced Neurotoxicity by Modulating Oxidative Stress and Synaptic Function in Institute of Cancer Research (ICR) Mice",
+      "summary": "Ecklonia cava improved cognitive function in mice with Alzheimer's-like conditions by reducing oxidative stress and supporting synaptic function in the brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39199197/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Influence of Supplementation of Ecklonia cava Polyphenols on Learning, Memory, and Brain Fatty Acid Composition in Mice",
+      "summary": "Mice supplemented with Ecklonia cava polyphenols showed improved spatial learning and memory retention, along with increased DHA levels in brain and retinal tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37594112/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Brown Alga Ecklonia cava polyphenol extract ameliorates hepatic lipogenesis, oxidative stress, and inflammation by activation of AMPK and SIRT1 in high-fat diet-induced obese mice",
+      "summary": "Ecklonia cava supplementation reduced body weight, fat deposition, and insulin resistance in obese mice through AMPK and SIRT1 activation pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25479240/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Marine Polyphenol Phlorotannins as a Natural Sleep Aid for Treatment of Insomnia: A Review of Sedative-Hypnotic Effects and Mechanism of Action",
+      "summary": "Phlorotannins from brown algae exert sedative-hypnotic effects via GABA-A receptor modulation, suggesting potential as natural sleep aids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36547921/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Ecklonia cava Extract on Neuronal Damage and Apoptosis in PC-12 Cells against Oxidative Stress",
+      "summary": "Ecklonia cava extract protected neuronal cells from oxidative damage and apoptosis while reducing intracellular oxidative stress in vitro.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33782218/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dieckol, a major phlorotannin in Ecklonia cava, suppresses lipid accumulation in the adipocytes of high-fat diet-fed zebrafish and mice: Inhibition of early adipogenesis via cell-cycle arrest and AMPKα activation",
+      "summary": "Dieckol from Ecklonia cava reduced body weight gain by 38% and fat accumulation in mice through inhibition of adipogenesis and AMPK activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25944759/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of a dieckol-rich extract (AG-dieckol) of brown algae, Ecklonia cava, in pre-diabetic individuals: a double-blind, randomized, placebo-controlled clinical trial",
+      "summary": "In pre-diabetic adults, 12 weeks of Ecklonia cava supplementation significantly reduced postprandial glucose levels with no adverse effects reported.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25608849/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective Effect of Brown Alga Phlorotannins against Hyper-inflammatory Responses in Lipopolysaccharide-Induced Sepsis Models",
+      "summary": "Ecklonia cava extract increased survival rates in septic mice and reduced inflammatory markers through inhibition of the NFκB pathway and HO-1 activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26730445/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of supplementation with Ecklonia cava polyphenol on endurance performance of college students",
+      "summary": "College students supplemented with Ecklonia cava polyphenols showed improvements in endurance exercise performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20190354/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report Ecklonia cava as a solid antioxidant supplement with some cognitive and calming benefits, though it's not typically mentioned as a standalone solution. It appears more commonly as part of comprehensive stacks rather than a primary intervention."
+  },
+  "effects": [
+    {
+      "label": "Antioxidant Profile:",
+      "description": "Highly regarded for its fat-soluble antioxidant properties and extended half-life compared to water-soluble alternatives"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Users find it works better as part of comprehensive stacks rather than standalone supplementation"
+    },
+    {
+      "label": "Research-Practice Gap:",
+      "description": "Strong preclinical evidence exists, but limited user reports suggest benefits may be subtle or require longer-term use"
+    },
+    {
+      "label": "Metabolic Applications:",
+      "description": "Research shows clear benefits for blood sugar and weight management, though user reports focus more on antioxidant use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "300mg appears common in user stacks for general antioxidant support"
+    },
+    {
+      "label": "Blood Pressure Support:",
+      "description": "1,500mg daily used in clinical trials for metabolic benefits"
+    },
+    {
+      "label": "Timing:",
+      "description": "No specific timing requirements mentioned; often taken with other daily supplements"
+    },
+    {
+      "label": "Long-term Use:",
+      "description": "Users report taking it continuously as part of regular supplement routines without cycling"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reports:",
+      "description": "Very few side effects mentioned in user discussions"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Clinical trials report no significant adverse events at studied doses"
+    },
+    {
+      "label": "Antioxidant Concerns:",
+      "description": "One user questioned whether combining multiple high-ORAC supplements might be excessive"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Limited user data makes it difficult to assess common side effects beyond research findings"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Form:",
+      "description": "Available as standardized extracts, often labeled by phlorotannin or dieckol content"
+    },
+    {
+      "label": "Stacking Context:",
+      "description": "Commonly included in comprehensive antioxidant or nootropic formulations"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Limited discussion of specific brands or quality markers beyond dieckol standardization"
+    }
+  ],
+  "related": [
+    {
+      "name": "L-SERINE",
+      "slug": "l-serine"
+    },
+    {
+      "name": "RAPASTINEL",
+      "slug": "rapastinel"
+    },
+    {
+      "name": "SODIUM BUTYRATE",
+      "slug": "sodium-butyrate"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    }
+  ]
+}

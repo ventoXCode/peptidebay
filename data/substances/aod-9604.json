@@ -1,0 +1,137 @@
+{
+  "slug": "aod-9604",
+  "url": "https://dopamine.club/substances/aod-9604/",
+  "scrapedAt": "2026-02-12T16:05:48.884Z",
+  "title": "AOD-9604",
+  "description": "AOD-9604 is a synthetic peptide consisting of amino acids 176-191 from the C-terminal region of human growth hormone, with an additional tyrosine residue at the N-terminus. It was developed to mimic the lipolytic (fat-burning) properties of growth hormone without the diabetogenic side effects, working through interaction with beta-3 adrenergic receptors to promote fat breakdown and potentially aid in cartilage regeneration.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice",
+      "summary": "AOD9604 reduced body weight and body fat in obese mice through interaction with beta-3 adrenergic receptors, increasing beta-3-AR RNA expression and lipolytic sensitivity, though effects were abolished in beta-3-AR knockout mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11713213/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Intra-articular Injection of AOD9604 with or without Hyaluronic Acid in Rabbit Osteoarthritis Model",
+      "summary": "Intra-articular injection of AOD9604 combined with hyaluronic acid showed the best results in reducing cartilage degeneration and lameness in a rabbit osteoarthritis model, with significantly better outcomes than either treatment alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26275694/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Detection and in vitro metabolism of AOD9604",
+      "summary": "A validated detection method for AOD9604 in urine was developed with a detection limit of 50 pg/mL, identifying six metabolites with one stable metabolite (CRSVEGSCG) showing significantly better stability than the parent compound.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25208511/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Obesity drugs in clinical development",
+      "summary": "AOD-9604 was described as a human growth hormone fragment that increases adipose tissue breakdown and was under clinical development as a potential anti-obesity therapy, though only reaching phase II trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16625817/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+      "summary": "AOD-9604 is discussed among growth hormone secretagogues that activate IGF-1 signaling and satellite cell repair pathways, showing promise in orthopaedic applications though clinical evidence remains limited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41490200/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative, with most experienced users reporting AOD-9604 as ineffective for fat loss, describing it as 'trash' that 'does absolutely nothing for most who take it.' The peptide failed phase II efficacy trials and users generally recommend alternatives like full GH peptides or GLP-1 agonists instead."
+  },
+  "effects": [
+    {
+      "label": "Failed Clinical Trials:",
+      "description": "AOD-9604 failed phase II efficacy trials and was not approved, indicating lack of clinical effectiveness"
+    },
+    {
+      "label": "User Consensus Poor:",
+      "description": "Overwhelming majority of experienced users describe it as ineffective, with recommendations to use alternative peptides instead"
+    },
+    {
+      "label": "Requires Caloric Deficit:",
+      "description": "Research indicates AOD-9604 only shows effects when combined with caloric restriction, not as standalone treatment"
+    },
+    {
+      "label": "Better Alternatives Available:",
+      "description": "Users consistently recommend full GH peptides, GLP-1 agonists (semaglutide, tirzepatide, retatrutide), or other proven compounds over AOD-9604"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "0.25 mg daily is commonly mentioned in research and user discussions"
+    },
+    {
+      "label": "Extended Duration:",
+      "description": "Studies used 4-7 week protocols with weekly injections, suggesting long-term use is required to see any potential effects"
+    },
+    {
+      "label": "Reconstitution Recommendation:",
+      "description": "0.6% acetic acid recommended instead of standard bacteriostatic water to prevent clumping"
+    },
+    {
+      "label": "Subcutaneous Administration:",
+      "description": "Typically administered subcutaneously, though intra-articular injection studied for joint applications"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Users report few adverse effects, though this correlates with lack of effectiveness"
+    },
+    {
+      "label": "Reconstitution Problems:",
+      "description": "Frequent reports of peptide clumping and gelling when reconstituted improperly"
+    },
+    {
+      "label": "No Significant Safety Concerns:",
+      "description": "Research and users indicate AOD-9604 appears safe with minimal adverse events reported"
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Standard peptide injection reactions possible but not commonly emphasized"
+    }
+  ],
+  "availability": [
+    {
+      "label": "503A Compounding Pharmacies:",
+      "description": "Available through prescription from compounding pharmacies in the US"
+    },
+    {
+      "label": "FDA Regulatory Action:",
+      "description": "FDA voted against including AOD-9604 in the list of bulk substances that can be compounded under section 503A"
+    },
+    {
+      "label": "Online Sources:",
+      "description": "Mentioned as available through internet websites, though quality and legality varies by jurisdiction"
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "CAGRILINTIDE",
+      "slug": "cagrilintide"
+    },
+    {
+      "name": "CAGRISEMA",
+      "slug": "cagrisema"
+    },
+    {
+      "name": "CHITOSAN",
+      "slug": "chitosan"
+    }
+  ]
+}

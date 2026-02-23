@@ -1,0 +1,162 @@
+{
+  "slug": "beta-alanine",
+  "url": "https://dopamine.club/substances/beta-alanine/",
+  "scrapedAt": "2026-02-12T16:06:05.888Z",
+  "title": "BETA-ALANINE",
+  "description": "Beta-alanine is a non-essential amino acid that combines with histidine to form carnosine, an intracellular dipeptide buffer in skeletal muscle. By increasing muscle carnosine content, beta-alanine supplementation enhances the muscle's ability to buffer hydrogen ions during high-intensity exercise, potentially delaying fatigue and improving performance in activities lasting 60 seconds to several minutes. It is one of the most researched and widely used sports supplements, particularly popular among athletes engaged in anaerobic and high-intensity training.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis",
+      "summary": "This comprehensive meta-analysis found that β-alanine supplementation significantly improves exercise capacity and performance, particularly for high-intensity activities. The effect was most pronounced in exercises lasting 60-240 seconds that rely heavily on anaerobic metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27797728/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "International society of sports nutrition position stand: Beta-Alanine",
+      "summary": "The ISSN position stand concludes that beta-alanine supplementation (4-6g daily for at least 2-4 weeks) increases muscle carnosine content and improves performance in high-intensity exercise, with particular benefits for trained athletes and military personnel.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26175657/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of beta-alanine supplementation on muscle carnosine and exercise performance",
+      "summary": "Beta-alanine supplementation increases muscle carnosine content by up to 80%, improving muscle buffer capacity. Studies demonstrated performance improvements in high-intensity exercise lasting more than 60 seconds and during multiple bouts of intense activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20479615/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of β-alanine supplementation on exercise performance: a meta-analysis",
+      "summary": "Meta-analysis of 15 studies showed β-alanine supplementation significantly improved exercise outcomes compared to placebo, with median effect sizes of 0.374 for beta-alanine versus 0.108 for placebo, demonstrating clear ergogenic benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22270875/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effect of β-Alanine Supplementation on Performance, Cognitive Function and Resiliency in Soldiers",
+      "summary": "Beyond athletic performance, β-alanine may enhance resilience to PTSD, mild traumatic brain injury, and heat stress by elevating carnosine in the brain, though more human research is needed to confirm these neuroprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36839397/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Beta-Alanine Supplementation on Maximal Intensity Exercise in Trained Young Male Individuals: A Systematic Review and Meta-Analysis",
+      "summary": "Systematic review specifically in trained young males confirmed beta-alanine's effectiveness for maximal and supramaximal intensity exercise, supporting its use as an ergogenic aid for athletes performing short-duration, high-intensity activities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39032921/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of β-Alanine Supplementation on Subjects Performing High-Intensity Functional Training",
+      "summary": "Four weeks of β-alanine supplementation significantly reduced neuromuscular fatigue and improved performance in subjects performing high-intensity functional training (HIFT), with measurable improvements in both central and peripheral fatigue markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39064783/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of creatine and beta-alanine supplementation on performance and endocrine responses in strength/power athletes",
+      "summary": "Combining creatine with beta-alanine produced greater improvements in lean body mass and body composition compared to creatine alone or placebo during a 10-week resistance training program in collegiate football players.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17136944/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Supplements for Athletic Performance in Women: Beta-Alanine, Caffeine, and Nitrate",
+      "summary": "Research on beta-alanine in female athletes is severely limited, with only nine studies identified in healthy women under 40, highlighting the need for more sex-specific research given physiological differences and hormonal fluctuations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35196646/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report beta-alanine as an effective, evidence-based supplement for high-intensity exercise performance, particularly for CrossFit and anaerobic activities. The characteristic tingling sensation (paresthesia) is widely recognized but generally well-tolerated, and most users view it as a reliable ergogenic aid when taken consistently for 3-5 weeks."
+  },
+  "effects": [
+    {
+      "label": "Loading Period Required:",
+      "description": "Effectiveness requires consistent daily dosing for 3-5 weeks to saturate muscle carnosine stores; immediate pre-workout effects are minimal beyond the tingling sensation"
+    },
+    {
+      "label": "Activity-Specific Benefits:",
+      "description": "Most effective for high-intensity, anaerobic activities lasting 60 seconds to 4 minutes; less beneficial for pure strength training or long-duration endurance activities"
+    },
+    {
+      "label": "Individual Response Variation:",
+      "description": "While research strongly supports efficacy, some users report minimal subjective performance improvements despite the physiological mechanism being well-established"
+    },
+    {
+      "label": "Comparable to Creatine:",
+      "description": "Frequently mentioned alongside creatine as one of the most evidence-based, reliable sports supplements available, with consistent research backing"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "2-6 grams per day is most commonly used, with many splitting doses (e.g., 2.5g twice daily) to minimize tingling intensity"
+    },
+    {
+      "label": "Pre-Workout Inclusion:",
+      "description": "Typical pre-workout formulas contain 2-3g per serving; dedicated users often supplement additional beta-alanine to reach optimal 4-6g daily total"
+    },
+    {
+      "label": "Loading Protocol:",
+      "description": "Some users mention taking higher doses initially to accelerate carnosine saturation, though consistent daily dosing for several weeks is more important than acute loading"
+    },
+    {
+      "label": "Long-Term Supplementation:",
+      "description": "Users report taking beta-alanine continuously for months to years as part of their supplement stack without diminishing effects or tolerance development"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Paresthesia (Tingling):",
+      "description": "The most universally reported effect - tingling, itching sensation in face, neck, and extremities occurring 15-30 minutes after ingestion; intensity dose-dependent and typically subsides within an hour"
+    },
+    {
+      "label": "Minimal Serious Side Effects:",
+      "description": "Users consistently report beta-alanine as very safe with virtually no concerning adverse effects beyond the tingling sensation"
+    },
+    {
+      "label": "Potential Taurine Depletion:",
+      "description": "Some users mention concerns about beta-alanine competing with taurine for absorption, though clinical significance is debated"
+    },
+    {
+      "label": "Gastrointestinal Tolerance:",
+      "description": "Generally well-tolerated; some users report mild stomach discomfort with higher single doses, which can be mitigated by splitting doses throughout the day"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available and Affordable:",
+      "description": "Readily accessible through bulk powder suppliers and various sports nutrition brands; powder form is most cost-effective"
+    },
+    {
+      "label": "Pre-Workout Staple:",
+      "description": "Included in most commercial pre-workout formulas at 1.5-3g per serving, though serious users often buy bulk powder to ensure adequate daily dosing"
+    },
+    {
+      "label": "Quality and Purity:",
+      "description": "Generally consistent quality across reputable brands; users recommend third-party tested sources and mention CarnoSyn as a branded, research-backed form of beta-alanine"
+    }
+  ],
+  "related": [
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    },
+    {
+      "name": "ALPHA LIPOIC ACID",
+      "slug": "alpha-lipoic-acid"
+    },
+    {
+      "name": "COQ10",
+      "slug": "coq10"
+    },
+    {
+      "name": "L-CARNITINE",
+      "slug": "l-carnitine"
+    },
+    {
+      "name": "NAD+ (NMN/NR)",
+      "slug": "nad-nmn-nr"
+    }
+  ]
+}

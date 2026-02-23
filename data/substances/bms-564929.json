@@ -1,0 +1,109 @@
+{
+  "slug": "bms-564929",
+  "url": "https://dopamine.club/substances/bms-564929/",
+  "scrapedAt": "2026-02-12T16:06:11.542Z",
+  "title": "BMS-564929",
+  "description": "BMS-564929 is a potent, orally active nonsteroidal selective androgen receptor modulator (SARM) designed to treat age-related declines in muscle mass and physical function. It works by acting as a high-affinity agonist for androgen receptors in muscle and bone while maintaining significant tissue selectivity to avoid stimulating the prostate.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "Ockham's Razor and Selective Androgen Receptor Modulators (SARMs): Are We Overlooking the Role of 5α-Reductase?",
+      "summary": "This study explains how SARMs like BMS-564929 achieve selectivity because they are not substrates for 5α-reductase, preventing the localized amplification of androgenic effects in the prostate.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17339601/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Selective Androgen Receptor Modulators (SARMs) as Function Promoting Therapies",
+      "summary": "Research indicates that nonsteroidal SARMs act as full agonists in muscle and bone while acting as only partial agonists in the prostate, offering a safer profile than traditional steroids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19357508/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Selective androgen receptor modulators: the future of androgen therapy?",
+      "summary": "Clinical analysis suggests that SARMs represent a promising class of drugs for treating muscle wasting and hypogonadism with significantly reduced side effects compared to testosterone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31658005/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "While clinical research is highly optimistic about its tissue selectivity, user data for this specific compound is sparse compared to more common SARMs, leading to a cautious but generally curious sentiment regarding its muscle-building potential."
+  },
+  "effects": [
+    {
+      "label": "High Potency:",
+      "description": "In preclinical models, it has shown to be more potent than testosterone in stimulating muscle growth per milligram"
+    },
+    {
+      "label": "Tissue Selectivity:",
+      "description": "Highly effective at separating muscle-building benefits from undesirable androgenic side effects"
+    },
+    {
+      "label": "Oral Bioavailability:",
+      "description": "Unlike many traditional androgens, it is designed for effective oral administration"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Trials:",
+      "description": "Doses in human research have been evaluated at very low levels (e.g., 0.1 mg to 1 mg) due to its high potency"
+    },
+    {
+      "label": "Preclinical Range:",
+      "description": "Animal studies utilized doses ranging from 0.03 to 3 mg/kg to determine anabolic thresholds"
+    },
+    {
+      "label": "Experimental Use:",
+      "description": "Users often caution that due to high binding affinity, 'less is more' to maintain selectivity"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormonal Suppression:",
+      "description": "Like all SARMs, it may suppress natural testosterone production at higher dosages"
+    },
+    {
+      "label": "Lipid Changes:",
+      "description": "Potential reduction in HDL (good) cholesterol, a common trait across the SARM class"
+    },
+    {
+      "label": "SHBG Reduction:",
+      "description": "Likely to cause a decrease in Sex Hormone-Binding Globulin levels during active use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Currently not FDA-approved for human use and prohibited by WADA for competitive athletes"
+    },
+    {
+      "label": "Research Only:",
+      "description": "Primarily available through chemical supply companies for laboratory research purposes"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "GLPG-0492",
+      "slug": "glpg-0492"
+    },
+    {
+      "name": "GSK-2849466",
+      "slug": "gsk-2849466"
+    },
+    {
+      "name": "GSK-2881078",
+      "slug": "gsk-2881078"
+    },
+    {
+      "name": "GSK-971086",
+      "slug": "gsk-971086"
+    }
+  ]
+}

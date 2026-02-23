@@ -1,0 +1,139 @@
+{
+  "slug": "tudca",
+  "url": "https://dopamine.club/substances/tudca/",
+  "scrapedAt": "2026-02-12T16:11:55.948Z",
+  "title": "TUDCA",
+  "description": "Tauroursodeoxycholic acid (TUDCA) is a hydrophilic bile acid derivative that acts as a chemical chaperone to reduce endoplasmic reticulum (ER) stress and prevent apoptosis. It is primarily used to support liver health, treat cholestatic conditions, and is being investigated for neuroprotective effects in neurodegenerative diseases.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Bile acid metabolites predict multiple sclerosis progression and supplementation is safe in progressive disease",
+      "summary": "A clinical trial found that 2g daily of TUDCA is safe and tolerable for patients with progressive multiple sclerosis, potentially slowing brain and retinal atrophy while modulating the gut microbiome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39447576/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tauroursodeoxycholic acid (TUDCA) supplementation prevents cognitive impairment and amyloid deposition in APP/PS1 mice",
+      "summary": "Long-term TUDCA supplementation in an Alzheimer’s model prevented memory defects and reduced amyloid-beta plaque deposition in the brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22974733/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Combination of tauroursodeoxycholic acid, co-enzyme Q10 and creatine demonstrates additive neuroprotective effects in in-vitro models of Parkinson's disease",
+      "summary": "TUDCA combined with CoQ10 and creatine showed synergistic protection against mitochondrial dysfunction and protein misfolding in human dopaminergic neurons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39764390/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Promoting longevity in aged liver through NLRP3 inflammasome inhibition using tauroursodeoxycholic acid (TUDCA) and SCD probiotics",
+      "summary": "TUDCA application inhibited liver inflammation and oxidative stress in aged models, suggesting a role in promoting hepatic longevity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38851091/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Synbiotic Intervention with Inulin and Lactiplantibacillus plantarum LPm77 Attenuates Type 2 Diabetes via Enhanced TUDCA Metabolism and Gut-Liver Axis Modulation",
+      "summary": "Research indicates that TUDCA metabolism plays a crucial role in managing metabolic disorders like Type 2 diabetes by modulating the gut-liver axis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40708558/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potential therapeutic action of tauroursodeoxycholic acid against cholestatic liver injury via hepatic Fxr/Nrf2 and CHOP-DR5-caspase-8 pathway",
+      "summary": "TUDCA protects the liver from cholestatic injury by activating detoxifying pathways and inhibiting cell death signaling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36795945/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "The majority of users report significant improvements in liver markers and digestion, with several noting unexpected benefits for mood and brain fog. While one vocal minority warns of potential toxicity, the consensus among biohackers is that it is a powerful tool for metabolic and neurological health."
+  },
+  "effects": [
+    {
+      "label": "Neuroprotection:",
+      "description": "Highly effective in preclinical models for preventing memory loss in Alzheimer's and Parkinson's contexts."
+    },
+    {
+      "label": "Liver Health:",
+      "description": "Clinically recognized for its ability to treat biliary disorders and protect against alcohol-related or chemical liver stress."
+    },
+    {
+      "label": "Digestive Support:",
+      "description": "Users find it helpful for fat digestion and managing issues related to bile flow."
+    },
+    {
+      "label": "Additive Synergy:",
+      "description": "Works significantly better when stacked with antioxidants like CoQ10 or N-Acetylcysteine (NAC)."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Liver Support:",
+      "description": "Commonly taken at 250mg to 500mg daily by recreational users."
+    },
+    {
+      "label": "Clinical Neuroprotection:",
+      "description": "Higher doses of 1,000mg to 2,000mg daily (often split into two doses) have been used in MS and ALS clinical trials."
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken on an empty stomach for gut-related issues, though research is currently inconclusive on the impact of food."
+    },
+    {
+      "label": "Cycle Duration:",
+      "description": "Many users cycle TUDCA, using it for 4-8 weeks during periods of high physiological stress."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Some users report diarrhea or loose stools, particularly at doses exceeding 1,000mg."
+    },
+    {
+      "label": "Dehydration:",
+      "description": "Reports of increased thirst or dry mouth at higher supplemental ranges."
+    },
+    {
+      "label": "Potential Toxicity Debate:",
+      "description": "A subset of concerns exists regarding UDCA's metabolite effects at very high doses, though TUDCA is generally considered safer due to its hydrophilic nature."
+    },
+    {
+      "label": "Pruritus:",
+      "description": "Itching has been occasionally noted in clinical settings for cholestatic patients."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "Widely available as a dietary supplement in the US and Europe."
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users frequently emphasize sourcing from reputable brands to ensure it is not 'fake' or under-dosed."
+    }
+  ],
+  "related": [
+    {
+      "name": "DHA",
+      "slug": "dha"
+    },
+    {
+      "name": "COCOA FLAVANOLS",
+      "slug": "cocoa-flavanols"
+    },
+    {
+      "name": "ERGOTHIONEINE",
+      "slug": "ergothioneine"
+    },
+    {
+      "name": "MYRICETIN",
+      "slug": "myricetin"
+    },
+    {
+      "name": "N-ACETYL SEMAX",
+      "slug": "n-acetyl-semax"
+    }
+  ]
+}

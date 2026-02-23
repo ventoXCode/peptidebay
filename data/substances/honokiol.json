@@ -1,0 +1,131 @@
+{
+  "slug": "honokiol",
+  "url": "https://dopamine.club/substances/honokiol/",
+  "scrapedAt": "2026-02-12T16:08:25.349Z",
+  "title": "HONOKIOL",
+  "description": "Honokiol is a bioactive polyphenol compound extracted from Magnolia bark that has been used in traditional medicine for centuries. It works primarily as a positive allosteric modulator of GABA-A receptors and demonstrates anxiolytic, neuroprotective, and anti-inflammatory properties. Research indicates potential therapeutic applications in anxiety, sleep disorders, neurodegenerative diseases, and cancer.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Neuro-Modulating Effects of Honokiol: A Review",
+      "summary": "Comprehensive review of honokiol's neuroprotective and neuromodulatory effects, including anxiolytic properties, GABA-A receptor modulation, and potential applications in treating neurological disorders and anxiety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24062717/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Honokiol: A review of its pharmacological potential and therapeutic insights",
+      "summary": "Extensive review of honokiol's pharmacological mechanisms including anti-inflammatory, antioxidant, anxiolytic, and neuroprotective effects across various therapeutic applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34362632/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Honokiol: A Review of Its Anticancer Potential and Mechanisms",
+      "summary": "Systematic review of honokiol's anticancer properties and molecular mechanisms, demonstrating potential in inducing apoptosis and inhibiting tumor growth across multiple cancer types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31877609/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective effects of honokiol: from chemistry to medicine",
+      "summary": "Review of honokiol's neuroprotective mechanisms including antioxidant activity, anti-inflammatory effects, and therapeutic potential in neurodegenerative diseases and brain injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28817221/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are genuinely divided, with some reporting significant benefits for anxiety and sleep while others experience minimal effects or unwanted sedation. The lack of substantial User feedback suggests limited widespread adoption and mixed real-world effectiveness."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Response to honokiol appears highly individual, with some users experiencing strong effects while others report minimal benefits"
+    },
+    {
+      "label": "Dosage Sensitivity:",
+      "description": "Effectiveness may be dose-dependent, with higher doses producing more pronounced sedative effects"
+    },
+    {
+      "label": "Comparison to Alternatives:",
+      "description": "May be less potent than pharmaceutical anxiolytics but potentially safer with fewer side effects"
+    },
+    {
+      "label": "Research-Practice Gap:",
+      "description": "Strong preclinical evidence exists, but limited user reports suggest real-world effectiveness may not match research findings"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Research typically uses 200-1000mg doses, with most studies examining 200-500mg for anxiolytic effects"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken 30-60 minutes before bedtime for sleep benefits or as needed for anxiety relief"
+    },
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Absorption may be limited; some formulations use enhanced delivery systems or recommend taking with fats"
+    },
+    {
+      "label": "Stacking:",
+      "description": "Commonly combined with magnolol (another Magnolia bark compound) or other GABAergic supplements"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sedation:",
+      "description": "Primary side effect is excessive drowsiness or sedation, particularly at higher doses"
+    },
+    {
+      "label": "Tolerance:",
+      "description": "Potential for reduced effectiveness with chronic daily use, similar to other GABAergic compounds"
+    },
+    {
+      "label": "Mild GI Effects:",
+      "description": "Some users report digestive discomfort or nausea, particularly on empty stomach"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with other CNS depressants, benzodiazepines, or sedatives due to GABAergic activity"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Market:",
+      "description": "Widely available as a dietary supplement, often sold as Magnolia bark extract standardized to honokiol content"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "Significant differences in purity and concentration between brands; third-party testing recommended"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Generally legal as a dietary supplement in most countries with no prescription required"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "KAVA",
+      "slug": "kava"
+    },
+    {
+      "name": "LAVENDER",
+      "slug": "lavender"
+    },
+    {
+      "name": "MAGNESIUM TAURATE",
+      "slug": "magnesium-taurate"
+    },
+    {
+      "name": "APIGENIN",
+      "slug": "apigenin"
+    }
+  ]
+}

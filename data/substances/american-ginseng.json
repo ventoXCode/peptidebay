@@ -1,0 +1,131 @@
+{
+  "slug": "american-ginseng",
+  "url": "https://dopamine.club/substances/american-ginseng/",
+  "scrapedAt": "2026-02-12T16:05:44.962Z",
+  "title": "AMERICAN GINSENG",
+  "description": "American ginseng (Panax quinquefolius) is a medicinal herb containing bioactive ginsenosides that undergo gut microbiota-mediated biotransformation into more potent metabolites like compound K. Research demonstrates its ability to modulate inflammation via TLR4/NF-κB pathway inhibition, strengthen intestinal barrier function, and selectively promote beneficial gut bacteria like Lactobacillus and Bifidobacterium, with applications in metabolic disorders, inflammatory conditions, and cognitive function.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The potential of medicinal food plant Panax ginseng C. A. Mey. in managing chronic diseases via gut microbiota regulation: a systematic review of mechanisms and evidence",
+      "summary": "Review of 102 studies showing ginsenosides increase bioavailability 3-5 fold through gut microbiota transformation, reduce inflammatory cytokines 40-60%, upregulate tight junction proteins 2.3-fold, and increase probiotic abundance (Lactobacillus ↑2.1-fold, Bifidobacterium ↑1.8-fold) with therapeutic potential for metabolic disorders and IBD.",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1650565/full",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "American Ginseng Attenuates Colitis-Associated Colon Carcinogenesis in Mice: Impact on Gut Microbiota and Metabolomics",
+      "summary": "American ginseng reduced inflammation and colon tumor development in an AOM/DSS mouse model by modulating gut microbiota composition and metabolic profiles, demonstrating anti-cancer and anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27443884/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A randomized, placebo-controlled trial investigating the acute and chronic benefits of American Ginseng (Cereboost) on mood and cognition in healthy young adults, including in vitro investigation of gut microbiota changes",
+      "summary": "Cereboost (American ginseng extract) improved working memory and attention in healthy young adults, with effects amplified after 2 weeks of supplementation. Concurrent in vitro study showed increased acetate, propionate, and butyrate production linked to increased Akkermansia muciniphila and Lactobacillus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34396468/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exploring the use of panaxynol from American ginseng to combat intestinal inflammation and colon cancer",
+      "summary": "Study investigating panaxynol, a bioactive component of American ginseng, for its potential anti-inflammatory and anti-cancer effects in intestinal inflammation and colon cancer models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38915278/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with American ginseng (Panax) are genuinely mixed, with some reporting placebo-like effects or minimal benefits, while others incorporate it into their daily stacks. Several users question its effectiveness compared to other adaptogens, though cognitive and mood benefits are occasionally noted when combined with other supplements."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly person-dependent, with some users experiencing no noticeable benefits while others report subtle cognitive improvements"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Acute effects may be minimal, but chronic supplementation (2+ weeks) appears more effective for cognitive and mood benefits based on clinical trials"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Often stacked with other adaptogens or nootropics rather than used alone, suggesting limited standalone efficacy for some users"
+    },
+    {
+      "label": "Long-term Use Concerns:",
+      "description": "Some sources recommend cycling rather than continuous daily use beyond 3 months, particularly for traditional Panax ginseng varieties"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Typical supplementation ranges from 500mg-1000mg daily, with Cereboost extract studied at lower standardized doses"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Users and some sources suggest taking ginseng for periods up to 3 months followed by breaks rather than continuous daily use"
+    },
+    {
+      "label": "Timing Flexibility:",
+      "description": "Can be taken with or without food, though some users prefer morning dosing for potential energizing effects"
+    },
+    {
+      "label": "Extract vs Whole:",
+      "description": "Standardized extracts like Cereboost may provide more consistent effects than generic ginseng products"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Most users report no significant side effects when taken alone at recommended doses"
+    },
+    {
+      "label": "Overstimulation Risk:",
+      "description": "When combined with other stimulants or adaptogens (maca, tribulus), some users report increased heart rate and blood pressure"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Small subset of users report feeling 'weird' or experiencing anxiety, though this appears uncommon"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Some budget brands may contain minimal active ingredients, with one analysis showing only 4% DNA match in certain store brands"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold over-the-counter in most supplement stores and online retailers without prescription requirements"
+    },
+    {
+      "label": "Brand Quality Varies:",
+      "description": "Standardized extracts from reputable brands (like Cereboost) may be more reliable than generic ginseng products, with significant quality differences reported"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally affordable as a standalone supplement, though quality extracts may command premium pricing"
+    }
+  ],
+  "related": [
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "DAIDZEIN",
+      "slug": "daidzein"
+    },
+    {
+      "name": "EPA",
+      "slug": "epa"
+    },
+    {
+      "name": "ERGOCALCIFEROL",
+      "slug": "ergocalciferol"
+    }
+  ]
+}

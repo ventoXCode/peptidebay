@@ -1,0 +1,149 @@
+{
+  "slug": "solcoseryl",
+  "url": "https://dopamine.club/substances/solcoseryl/",
+  "scrapedAt": "2026-02-12T16:11:22.119Z",
+  "title": "SOLCOSERYL",
+  "description": "Solcoseryl is a protein-free hemodialysate derived from calf blood containing low-molecular-weight compounds including nucleotides, amino acids, and electrolytes. It works by enhancing cellular oxygen utilization, stimulating tissue respiration, and promoting cellular metabolism, with applications in wound healing, tissue regeneration, and ischemic conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Histological Evaluation of Wound Healing in Horses Treated with the Protein-Free Hemodialysate Solcoseryl and its Hexosylceramide Fraction",
+      "summary": "Solcoseryl demonstrated significant wound healing properties in equine models, promoting tissue regeneration and epithelialization through its hexosylceramide fraction and cellular metabolism enhancement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Solcoseryl prevents inflammatory and hypoxic but not toxic liver damage in rodents",
+      "summary": "Solcoseryl effectively protected against endotoxin-induced and hypoxic liver damage by inhibiting TNF-α release from Kupffer cells, though it showed no effect against direct hepatotoxins.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Solcoseryl, a tissue respiration stimulating agent, significantly enhances the effect of capacitively coupled electric field on the promotion of bone formation around dental implants",
+      "summary": "Combined treatment with Solcoseryl and electric field stimulation significantly improved bone formation, contact ratio, and mechanical stability around dental implants compared to controls.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12755779/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cooperative effects in vitro on fibroblast and keratinocyte functions related to wound healing by transforming growth factor-beta and a low molecular weight fraction from hemolyzed blood",
+      "summary": "Solcoseryl normalized fibroblast viability and keratinocyte activity under serum-deprived conditions, demonstrating complementary effects with TGF-beta in wound healing processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7945526/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparison of Corneal Epithelial Wound Healing between Topical RCI001, Solcoseryl, and Polydeoxyribonucleotide in the Murine Ocular Alkali Burn Model",
+      "summary": "Solcoseryl demonstrated significant corneal epithelial healing effects in alkali burn models, though RCI001 showed superior results in comparative testing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37309557/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of solcoseryl on flap survival",
+      "summary": "Solcoseryl treatment improved surgical flap survival rates in experimental models, likely through enhanced tissue oxygenation and cellular metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6172712/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Modification of radiosensitivity by the so-called tissue recovery stimulator. I. Radiosensitizing effects of solcoseryl",
+      "summary": "Solcoseryl enhanced radiosensitivity of V79 cells by inhibiting radiation-induced G2 phase arrest, though it did not affect split-dose recovery or potentially lethal damage repair.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1293298/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Limited User feedback exists for Solcoseryl specifically, with most user experiences focused on other supplements. The scientific literature shows consistent efficacy for wound healing and tissue recovery applications, though human use cases appear uncommon in modern supplement communities."
+  },
+  "effects": [
+    {
+      "label": "Wound Applications:",
+      "description": "Highly effective for skin wounds, corneal injuries, and surgical flap survival based on animal studies"
+    },
+    {
+      "label": "Ischemic Protection:",
+      "description": "Demonstrated efficacy in preventing hypoxic liver damage and improving cerebral blood flow"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Shows enhanced effects when combined with growth factors or electrical stimulation"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Most evidence comes from veterinary and experimental models with limited modern human clinical trials"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Topical Application:",
+      "description": "Applied directly to wounds or as eye gel for corneal healing"
+    },
+    {
+      "label": "Injectable Form:",
+      "description": "2 ml/kg intravenously used in animal studies for systemic effects"
+    },
+    {
+      "label": "Culture Medium:",
+      "description": "0.1-1.0% concentration effective for cell culture and embryo development"
+    },
+    {
+      "label": "Clinical Use:",
+      "description": "Historical use in Europe for chronic inflammatory and hypoxic conditions"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Toxicity:",
+      "description": "Described as non-toxic with long history of clinical use"
+    },
+    {
+      "label": "Radiosensitization:",
+      "description": "May increase sensitivity to radiation therapy in some contexts"
+    },
+    {
+      "label": "Limited Modern Data:",
+      "description": "Few contemporary reports on adverse effects in human use"
+    },
+    {
+      "label": "Protein-Free Formulation:",
+      "description": "Reduces allergic reaction risk compared to serum-based products"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Regional Availability:",
+      "description": "Primarily available in European and some Asian markets, limited in North America"
+    },
+    {
+      "label": "Historical Product:",
+      "description": "More commonly used in veterinary medicine and older clinical literature than current human supplementation"
+    },
+    {
+      "label": "Prescription Status:",
+      "description": "Varies by country; often used in clinical settings rather than as over-the-counter supplement"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "D-RIBOSE",
+      "slug": "d-ribose"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

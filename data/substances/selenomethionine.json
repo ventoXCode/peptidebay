@@ -1,0 +1,125 @@
+{
+  "slug": "selenomethionine",
+  "url": "https://dopamine.club/substances/selenomethionine/",
+  "scrapedAt": "2026-02-12T16:11:12.628Z",
+  "title": "SELENOMETHIONINE",
+  "description": "Selenomethionine is an organic form of selenium that is naturally found in foods and serves as the primary dietary source of this essential trace element. It is incorporated into selenoproteins that regulate thyroid hormone metabolism, provide antioxidant protection, support immune function, and protect against oxidative damage. Selenomethionine has higher bioavailability than inorganic selenium forms and is stored in body tissues, particularly skeletal muscle.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of selenomethionine supplementation on selenium status and thyroid hormone concentrations in healthy adults",
+      "summary": "Selenomethionine supplementation effectively increased selenium status and influenced thyroid hormone metabolism in healthy adults, demonstrating its role in supporting thyroid function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19403637/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative effects of two different forms of selenium on oxidative stress biomarkers in healthy men: a randomized clinical trial",
+      "summary": "This randomized trial compared selenomethionine to other selenium forms and found differential effects on oxidative stress markers, with selenomethionine showing distinct metabolic properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24938534/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Selenium Kinetics in Humans Change Following 2 Years of Supplementation With Selenomethionine",
+      "summary": "After 2 years of 200 mcg/day selenomethionine supplementation, selenium kinetics changed significantly with increased incorporation into body pools and plasma selenium doubling in most compartments, though absorption rates remained unchanged.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33815253/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report selenomethionine as generally well-tolerated at appropriate doses (100-200 mcg), with benefits for thyroid support and as part of comprehensive supplement regimens. However, concerns about toxicity at higher doses and potential negative effects when selenium status is already adequate temper enthusiasm, with several users reporting adverse reactions when combined with inflammatory conditions."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability:",
+      "description": "Selenomethionine shows superior absorption compared to inorganic selenium forms like selenite, with 28-46% stored in skeletal muscle"
+    },
+    {
+      "label": "Dose-Dependent:",
+      "description": "Benefits are most apparent in those with low selenium status; those with adequate levels may experience no benefit or potential harm"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly based on baseline selenium status, geographic location (soil selenium content), and diet"
+    },
+    {
+      "label": "Synergy Required:",
+      "description": "Often works best when combined with other nutrients like zinc for thyroid support or iodine for optimal thyroid function"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "100-200 mcg daily is most commonly used and recommended, with 200 mcg considered safe below the 400 mcg upper limit"
+    },
+    {
+      "label": "Maintenance Dose:",
+      "description": "100 mcg daily appears sufficient for general health maintenance in most users"
+    },
+    {
+      "label": "Upper Limit:",
+      "description": "400 mcg is the established upper limit; doses above 200 mcg should be approached cautiously"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users take 5 days on, 2 days off to prevent potential mineral depletion from long-term use"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Pro-Inflammatory Response:",
+      "description": "Some users with chronic inflammatory conditions or dysbiosis report worsening fatigue, brain fog, anxiety, and sleep issues"
+    },
+    {
+      "label": "Mineral Depletion:",
+      "description": "Long-term use may deplete zinc, copper, and other trace minerals, requiring additional supplementation"
+    },
+    {
+      "label": "Toxicity Risk:",
+      "description": "Doses approaching or exceeding 400 mcg can cause selenosis symptoms including gastrointestinal distress, hair loss, and neurological issues"
+    },
+    {
+      "label": "Overmethylation Symptoms:",
+      "description": "When combined with methylated B vitamins, some users experience headaches, irritability, and brain zaps"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Forms:",
+      "description": "Available as selenomethionine (organic) or selenite (inorganic), with selenomethionine being the preferred form"
+    },
+    {
+      "label": "Brand Recommendations:",
+      "description": "quality brands, quality brands, and quality brands are commonly mentioned brands; most multivitamins contain 50-200 mcg"
+    },
+    {
+      "label": "Dietary Sources:",
+      "description": "High selenium foods like Brazil nuts, chicken, and fish may provide adequate intake without supplementation for many people"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "bilobalide",
+  "url": "https://dopamine.club/substances/bilobalide/",
+  "scrapedAt": "2026-02-12T16:06:08.894Z",
+  "title": "BILOBALIDE",
+  "description": "Bilobalide is a sesquiterpene trilactone compound found in Ginkgo biloba extract (EGb 761), which demonstrates neuroprotective and vascular protective properties. It works by protecting against neuronal damage, improving cerebral blood flow, and modulating neurotransmitter systems. Primarily used in the treatment of mild-to-moderate dementia, cognitive decline, and neuropsychiatric symptoms associated with aging.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Efficacy and tolerability of Ginkgo biloba extract EGb 761® in dementia: a systematic review and meta-analysis of randomized placebo-controlled trials",
+      "summary": "Systematic review and meta-analysis found that EGb 761 treatment resulted in significant improvements in cognition, psychopathology, functional measures and quality of life in patients with mild-to-moderate dementia compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25489239/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginkgo biloba extract EGb 761® in dementia with neuropsychiatric features: A randomised, placebo-controlled trial to confirm the efficacy and safety of a daily dose of 240 mg",
+      "summary": "24-week trial with 410 outpatients demonstrated that 240mg daily dose of EGb 761 significantly improved cognition (SKT scores) and neuropsychiatric symptoms (NPI scores) in patients with mild-to-moderate dementia, with improvements in quality of life and functional measures.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22498180/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginkgo biloba for Preventing Cognitive Decline in Older Adults: A Randomized Trial",
+      "summary": "Large randomized trial examining Ginkgo biloba for preventing cognitive decline in older adults, providing evidence on its efficacy in dementia prevention and cognitive maintenance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19934467/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginkgo biloba extract EGb 761® in the symptomatic treatment of mild-to-moderate dementia: a profile of its use",
+      "summary": "Comprehensive profile review concluded that EGb 761 displays positive effects on cognitive outcomes, neuropsychiatric symptoms, and functional abilities in adults with mild-to-moderate dementia, with good tolerability and safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30546253/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "User sentiment is genuinely mixed, with discussions focusing primarily on brand selection and quality concerns rather than personal experiences with bilobalide specifically. Users debate between quality brands and reputable suppliers for standardization and transparency, with concerns about third-party testing and COA availability being the main topic rather than efficacy or side effects."
+  },
+  "effects": [
+    {
+      "label": "Dementia Treatment:",
+      "description": "Clinical trials show significant improvements in SKT cognitive scores and NPI neuropsychiatric scores compared to placebo over 24 weeks"
+    },
+    {
+      "label": "Dosage Response:",
+      "description": "240mg daily dose of EGb 761 extract demonstrated consistent efficacy across multiple trials for mild-to-moderate dementia"
+    },
+    {
+      "label": "Time Frame:",
+      "description": "Benefits typically observed within 24 weeks of treatment, with improvements in cognition, behavior, and functional measures"
+    },
+    {
+      "label": "Standardization Matters:",
+      "description": "Effectiveness depends on proper standardization to ginkgo flavonol glycosides, terpene lactones (including bilobalide), and kaempferol content"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Clinical Dose:",
+      "description": "240mg daily of standardized EGb 761 extract is the most researched and effective dose for dementia treatment"
+    },
+    {
+      "label": "Standardization Requirements:",
+      "description": "Products should be standardized to total ginkgo flavonol glycosides, total terpene lactones (including bilobalide), and kaempferol"
+    },
+    {
+      "label": "Single Daily Dose:",
+      "description": "240mg can be taken as a once-daily dose based on clinical trial protocols"
+    },
+    {
+      "label": "Long-term Use:",
+      "description": "Clinical trials demonstrate safety and efficacy over 24-week periods with continued treatment"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Clinical trials report good tolerability with minimal adverse effects at standard doses"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "No specific bilobalide side effects reported in Reddit data; user concerns focus on product quality and standardization"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Limited User feedback of personal experiences with bilobalide specifically, as most users discuss whole Ginkgo biloba extract"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Research demonstrates acceptable safety profile in elderly populations with dementia over extended treatment periods"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Selection:",
+      "description": "Users debate between quality brands and reputable suppliers, with concerns about standardization transparency and third-party testing"
+    },
+    {
+      "label": "Standardization Variations:",
+      "description": "Different brands standardize to different markers (kaempferol and bilobalides vs. total glycosides and lactones), affecting product comparison"
+    },
+    {
+      "label": "COA Access:",
+      "description": "Users express frustration with brands requiring email requests for Certificates of Analysis rather than public posting, questioning transparency"
+    }
+  ],
+  "related": [
+    {
+      "name": "GINKGOLIDE B",
+      "slug": "ginkgolide-b"
+    },
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "L-Theanine",
+      "slug": "l-theanine"
+    },
+    {
+      "name": "SARCOSINE",
+      "slug": "sarcosine"
+    },
+    {
+      "name": "THEACRINE",
+      "slug": "theacrine"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "vitamin-e",
+  "url": "https://dopamine.club/substances/vitamin-e/",
+  "scrapedAt": "2026-02-12T16:13:06.009Z",
+  "title": "VITAMIN E",
+  "description": "Vitamin E is a fat-soluble antioxidant compound, primarily in the form of alpha-tocopherol, that protects cells from oxidative damage by neutralizing free radicals. It functions as both a nutrient and a hormone-like molecule, binding to cellular receptors to regulate gene expression and support immune function, cardiovascular health, and cellular protection. Vitamin E is commonly supplemented for antioxidant support, though its role in disease prevention remains controversial.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vitamin E: How much is enough, too much and why!",
+      "summary": "Comprehensive review explaining vitamin E's role as a required dietary nutrient, discussing optimal dosing, bioavailability, mechanisms for tissue enrichment via TTPA protein, and evaluation of safety and potential benefits in chronic disease prevention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34699937/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antioxidants and Exercise Performance: With a Focus on Vitamin E and C Supplementation",
+      "summary": "Found that vitamin E supplementation does not appear beneficial for most athletes except those training at altitude or seeking short-term performance enhancement, and may actually impair training adaptations by blocking anabolic signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33203106/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin E at a high dose as an anti-ferroptosis drug and not just a supplement for COVID-19 treatment",
+      "summary": "Proposes that high-dose vitamin E may function as an anti-ferroptosis drug rather than just a dietary supplement, potentially having therapeutic applications beyond basic nutritional supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33938041/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Association of vitamin E on the risk of ovarian cancer: a meta-analysis",
+      "summary": "Meta-analysis of 14 studies including 4,597 patients found a summary relative risk of 0.95 for ovarian cancer with vitamin E intake, suggesting minimal to no protective effect against ovarian cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31774115/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin E supplementation in pregnancy",
+      "summary": "Cochrane systematic review of 21 trials involving 22,129 pregnant women found insufficient evidence to support routine vitamin E supplementation during pregnancy for preventing complications like pre-eclampsia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26343254/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer: US Preventive Services Task Force Recommendation Statement",
+      "summary": "US Preventive Services Task Force concluded there is insufficient evidence to recommend routine vitamin supplementation, including vitamin E, for preventing cardiovascular disease or cancer in generally healthy adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35727271/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment toward vitamin E is genuinely mixed, with most discussions showing it as a background supplement in larger stacks rather than a standalone solution. Users rarely report dramatic positive or negative effects from vitamin E specifically, though it appears regularly in anti-aging and general health protocols with neutral to mildly positive expectations."
+  },
+  "effects": [
+    {
+      "label": "Minimal Standalone Impact:",
+      "description": "Most users report no noticeable effects when taking vitamin E alone, unlike more immediately perceptible supplements like magnesium or vitamin D"
+    },
+    {
+      "label": "Research Contradictions:",
+      "description": "Scientific literature shows mixed results with many studies finding insufficient evidence for disease prevention benefits"
+    },
+    {
+      "label": "Stack Component:",
+      "description": "Works best as part of a comprehensive supplement regimen rather than as a primary intervention"
+    },
+    {
+      "label": "Long-Term vs Short-Term:",
+      "description": "Benefits appear oriented toward long-term cellular protection rather than acute symptom relief"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "Most multivitamins and user stacks contain 15-400 IU of vitamin E as part of daily supplementation"
+    },
+    {
+      "label": "High-Dose Caution:",
+      "description": "Research warns against megadosing, with some studies suggesting potential harm from excessive supplementation"
+    },
+    {
+      "label": "Food Sources Preferred:",
+      "description": "Many users and experts recommend obtaining vitamin E primarily from diet (nuts, seeds, oils) rather than high-dose supplements"
+    },
+    {
+      "label": "Synergistic Dosing:",
+      "description": "Often combined with vitamin C, selenium, and other antioxidants in ratios found in quality multivitamins"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Nausea in Stacks:",
+      "description": "Vitamin E in multivitamins occasionally contributes to nausea, though typically in combination with other nutrients like zinc"
+    },
+    {
+      "label": "Minimal Adverse Reports:",
+      "description": "Users rarely report specific side effects from vitamin E supplementation at standard doses"
+    },
+    {
+      "label": "Absorption Competition:",
+      "description": "May compete with other fat-soluble vitamins (A, D, K) if taken in excessive amounts"
+    },
+    {
+      "label": "Exercise Adaptation Interference:",
+      "description": "Research suggests high-dose vitamin E may impair training adaptations by blocking cellular stress signals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in virtually all multivitamins and readily available as standalone supplement in various forms (d-alpha-tocopherol, mixed tocopherols)"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Natural forms (d-alpha-tocopherol) are preferentially retained in the body compared to synthetic forms (dl-alpha-tocopherol)"
+    },
+    {
+      "label": "Budget-Friendly:",
+      "description": "Generally inexpensive and included in most basic supplement regimens without significant cost considerations"
+    }
+  ],
+  "related": [
+    {
+      "name": "VITAMIN B3 (NIACIN)",
+      "slug": "vitamin-b3-niacin"
+    },
+    {
+      "name": "VITAMIN K",
+      "slug": "vitamin-k"
+    },
+    {
+      "name": "LIPOSOMAL VITAMIN C",
+      "slug": "liposomal-vitamin-c"
+    },
+    {
+      "name": "VITAMIN B COMPLEX",
+      "slug": "vitamin-b-complex"
+    },
+    {
+      "name": "VITAMIN B1 (THIAMINE)",
+      "slug": "vitamin-b1-thiamine"
+    }
+  ]
+}

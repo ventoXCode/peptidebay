@@ -1,0 +1,162 @@
+{
+  "slug": "carnosic-acid",
+  "url": "https://dopamine.club/substances/carnosic-acid/",
+  "scrapedAt": "2026-02-12T16:06:22.969Z",
+  "title": "CARNOSIC ACID",
+  "description": "Carnosic acid is a phenolic diterpene compound primarily found in rosemary (Rosmarinus officinalis) and sage. It functions as a potent antioxidant by activating the Nrf2 pathway, which upregulates antioxidant defense genes, and exhibits anti-inflammatory, neuroprotective, and metabolic effects. Research indicates benefits for metabolic health, obesity prevention, cognitive protection, and immune support.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Nutraceutical activation of Sirt1: a review",
+      "summary": "Carnosic acid is identified as a nutraceutical that enhances Sirt1 synthesis or protein expression, contributing to anti-aging effects and improved healthspan through deacetylase activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36522127/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carnosic acid attenuates obesity-induced glucose intolerance and hepatic fat accumulation by modulating genes of lipid metabolism in C57BL/6J-ob/ob mice",
+      "summary": "A 0.02% dietary carnosic acid significantly decreased body weight, liver weight, blood triglycerides, and improved glucose tolerance while reducing hepatic fat accumulation through modulation of lipogenic and lipolytic genes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25348739/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carnosic acid as a major bioactive component in rosemary extract ameliorates high-fat-diet-induced obesity and metabolic syndrome in mice",
+      "summary": "Rosemary extract supplementation (containing carnosic acid) significantly reduced body weight gain by 69%, epididymal fat by 79%, and improved fasting glucose, insulin levels, and reduced oxidative stress markers compared to high-fat diet controls.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25929334/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nrf2 activator PB125® as a carnosic acid-based therapeutic agent against respiratory viral diseases, including COVID-19",
+      "summary": "PB125, a carnosic acid-based composition, provides potent Nrf2 activation and shows promise as a therapeutic agent for respiratory viral diseases by maintaining metabolic balance and providing antioxidant protection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34058321/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prevention and Treatment of Influenza, Influenza-Like Illness, and Common Cold by Herbal, Complementary, and Natural Therapies",
+      "summary": "Plant extracts containing carnosic acid were found effective for prevention and treatment of viral respiratory illnesses, offering natural therapeutic alternatives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27055821/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary carnosic acid suppresses hepatic steatosis formation via regulation of hepatic fatty acid metabolism in high-fat diet-fed mice",
+      "summary": "Dietary carnosic acid at 0.02% markedly reduced steatosis grade, HOMA-IR index, body weight gain, and liver weight while decreasing expression of lipogenic genes and increasing lipolysis markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23964317/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carnosic acid-rich rosemary leaf extract limits weight gain and improves cholesterol levels and glycaemia in mice on a high-fat diet",
+      "summary": "Rosemary extract standardized to 20% carnosic acid reduced body weight gain by 69% and epididymal fat by 79%, improved fasting glucose levels, and was associated with increased fecal fat excretion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21676274/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carnosic Acid Modulates Increased Hepatic Lipogenesis and Adipocytes Differentiation in Ovariectomized Mice Fed Normal or High-Fat Diets",
+      "summary": "Carnosic acid supplementation improved lipid profiles, reduced body and liver weight, and modulated hepatic lipogenesis and adipocyte differentiation in ovariectomized mice, suggesting potential for postmenopausal metabolic health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30558262/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carnosic acid attenuates cartilage degeneration through induction of heme oxygenase-1 in human articular chondrocytes",
+      "summary": "Carnosic acid demonstrated cartilage-protective effects by inducing heme oxygenase-1 expression, reducing inflammatory markers, and attenuating cartilage degradation in osteoarthritis models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29678719/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with carnosic acid are limited in the Reddit data provided, with most discussions focusing on other supplements. The compound appears in supplement stacks but without specific feedback on its individual effects or user satisfaction."
+  },
+  "effects": [
+    {
+      "label": "Weight Management:",
+      "description": "Studies show 69% reduction in weight gain and 79% reduction in fat accumulation when supplemented at 0.02% of diet"
+    },
+    {
+      "label": "Metabolic Health:",
+      "description": "Consistently improves glucose tolerance, insulin sensitivity, and lipid profiles across multiple animal studies"
+    },
+    {
+      "label": "Dose-Dependent Effects:",
+      "description": "Research indicates optimal effects at 0.02% dietary intake (approximately 500mg per kg body weight in animal models)"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Most evidence comes from animal studies and in vitro research, with limited clinical trials in humans to confirm optimal dosing"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dosing:",
+      "description": "Animal studies use 0.01-0.02% of diet (w/w), roughly equivalent to 500mg per kg body weight daily"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Typically available as rosemary extract standardized to 20-80% carnosic acid content"
+    },
+    {
+      "label": "Duration:",
+      "description": "Studies show benefits emerging within 12-16 weeks of consistent supplementation"
+    },
+    {
+      "label": "Safety Threshold:",
+      "description": "In vitro hepatotoxicity observed at 94.8 μM, suggesting relatively wide safety margin at typical supplemental doses"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hepatotoxicity Potential:",
+      "description": "High doses (94.8 μM) showed dose-dependent hepatotoxicity in primary human hepatocytes, though well above typical supplemental levels"
+    },
+    {
+      "label": "CYP450 Interactions:",
+      "description": "Does not exhibit significant time-dependent inhibition of major cytochrome P450 enzymes at studied concentrations"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Animal studies report no significant adverse effects at therapeutic doses over extended periods"
+    },
+    {
+      "label": "Limited Human Safety Data:",
+      "description": "Most safety information derives from animal studies; human clinical safety profiles remain incomplete"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Found abundantly in rosemary (Rosmarinus officinalis) and sage, available as whole herb or concentrated extracts"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as rosemary extract capsules or powders, typically standardized to 20-80% carnosic acid content"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally recognized as safe (GRAS) as a food ingredient; available over-the-counter as dietary supplement"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "CYANIDIN",
+      "slug": "cyanidin"
+    }
+  ]
+}

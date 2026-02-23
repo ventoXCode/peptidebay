@@ -1,0 +1,156 @@
+{
+  "slug": "quercetin",
+  "url": "https://dopamine.club/substances/quercetin/",
+  "scrapedAt": "2026-02-12T16:10:52.703Z",
+  "title": "QUERCETIN",
+  "description": "Quercetin is a naturally occurring flavonoid found in fruits, vegetables, and plants that acts as a potent antioxidant and anti-inflammatory compound. It works by modulating various cellular pathways including reducing oxidative stress, inhibiting inflammatory mediators, and acting as a zinc ionophore to support immune function. Quercetin is commonly used as a dietary supplement for allergies, inflammation, cardiovascular health, and immune support, typically in doses ranging from 200-1000mg daily.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Safety Aspects of the Use of Quercetin as a Dietary Supplement",
+      "summary": "Review of human intervention studies found that quercetin supplementation up to 1000mg daily is generally well-tolerated with rarely reported adverse effects that are mild in nature, though long-term safety data beyond 12 weeks at high doses is limited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29127724/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quercetin, Inflammation and Immunity",
+      "summary": "Comprehensive review demonstrating quercetin's mechanisms in reducing inflammation and supporting immune function through modulation of inflammatory pathways and immune cell activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26999194/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of repeated oral intake of a quercetin-containing supplement on allergic reaction",
+      "summary": "Randomized controlled trial of 66 subjects showed that 200mg daily quercetin supplementation for 4 weeks significantly reduced allergic symptoms including eye itching and nasal discomfort in adults with pollinosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35776034/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quercetin supplementation prevents kidney damage and improves long-term prognosis in hypertensive patients",
+      "summary": "Analysis of 5,801 hypertensive patients found that for every 10mg/day increase in quercetin intake, kidney damage prevalence decreased by 8%, with quercetin being a protective factor for kidney health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39243217/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Improving quercetin bioavailability: A systematic review and meta-analysis of human intervention studies",
+      "summary": "Systematic review of 31 studies found that quercetin bioavailability is significantly affected by chemical structure and formulation, with quercetin-3-O-oligoglucosides showing 2-fold higher bioavailability than other forms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40037045/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quercetin Supplement to Aspirin Attenuates Lipopolysaccharide-Induced Pre-eclampsia-Like Impairments in Rats",
+      "summary": "Animal study demonstrated that quercetin supplementation enhances aspirin's therapeutic effects in pre-eclampsia models by modulating the NLRP3 inflammasome pathway.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36136273/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Flavonoid Quercetin Supplement Promotes Antiviral Innate Responses",
+      "summary": "Mouse study showed quercetin supplementation enhanced antiviral immune responses against viral infection by reshaping gut microbiome and host metabolome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38752791/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Do Interventions with Diet or Dietary Supplements Reduce the Disease Activity Score in Rheumatoid Arthritis",
+      "summary": "Systematic review of RCTs examining various dietary interventions and supplements including quercetin for reducing disease activity in rheumatoid arthritis patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33003645/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with quercetin, particularly for allergies, histamine intolerance, and inflammation, with many noting it as an effective component of their supplement stacks. While some users report minimal effects or prefer it combined with other compounds like bromelain for better absorption, the majority find it beneficial with few side effects."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Users emphasize importance of taking quercetin with bromelain or choosing phytosome formulations for significantly better absorption, with standard quercetin having poor bioavailability"
+    },
+    {
+      "label": "Histamine Management:",
+      "description": "Particularly effective for those with mast cell activation syndrome (MCAS) or histamine intolerance, with many reporting it helps manage symptoms when antihistamines alone are insufficient"
+    },
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Most effective results reported at 500-1000mg daily doses, with lower doses (200mg) showing benefits for allergies but requiring consistency over weeks"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works best when combined with other supplements like zinc, vitamin C, NAC, or as part of anti-aging/senolytic protocols with fisetin"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Allergy Management:",
+      "description": "200-500mg daily, often taken with bromelain for enhanced absorption, used consistently during allergy season"
+    },
+    {
+      "label": "Anti-Inflammatory/General Use:",
+      "description": "500-1000mg daily split into multiple doses, commonly part of broader supplement stacks"
+    },
+    {
+      "label": "Immune Support:",
+      "description": "500mg taken with zinc (25-50mg) and vitamin C during illness or as prevention, leveraging zinc ionophore properties"
+    },
+    {
+      "label": "Senolytic Protocol:",
+      "description": "Higher doses (1000mg+) used intermittently as part of anti-aging protocols, often combined with fisetin and taken monthly rather than daily"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Thyroid Concerns:",
+      "description": "Some users and research note quercetin may disrupt thyroid function, with recommendations to avoid for those with hypothyroid conditions"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Occasional reports of nausea or stomach discomfort, particularly at higher doses or when taken on empty stomach"
+    },
+    {
+      "label": "Drying Effects:",
+      "description": "Some users report dry sinuses, skin, or mouth, particularly at doses above 500mg daily"
+    },
+    {
+      "label": "Minimal Overall:",
+      "description": "Most users report no significant side effects, with quercetin being well-tolerated at standard doses (200-1000mg daily)"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Form Matters:",
+      "description": "Users strongly recommend quercetin phytosome or liposomal formulations over standard quercetin for significantly better absorption and effectiveness"
+    },
+    {
+      "label": "Brand Quality:",
+      "description": "Users recommend reputable brands with third-party testing, emphasizing combining with bromelain for better absorption"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Easily accessible over-the-counter at various price points, though quality formulations cost more; increased demand during COVID led to temporary supply issues"
+    }
+  ],
+  "related": [
+    {
+      "name": "ARTICHOKE EXTRACT",
+      "slug": "artichoke-extract"
+    },
+    {
+      "name": "BERBERINE",
+      "slug": "berberine"
+    },
+    {
+      "name": "PTEROSTILBENE",
+      "slug": "pterostilbene"
+    },
+    {
+      "name": "RESVERATROL",
+      "slug": "resveratrol"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    }
+  ]
+}

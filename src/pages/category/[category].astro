@@ -1,0 +1,216 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import substances from '../../../data/substances.json';
+
+export function getStaticPaths() {
+  // Define categories inside getStaticPaths
+  const CATEGORIES = [
+    { slug: 'peptide', name: 'Peptides', color: '#00ff9d' },
+    { slug: 'supplement', name: 'Supplements', color: '#ffb700' },
+    { slug: 'nootropic', name: 'Nootropics', color: '#00d4ff' },
+    { slug: 'sarm', name: 'SARMs', color: '#e6ff00' },
+    { slug: 'adaptogen', name: 'Adaptogens', color: '#a855f7' },
+    { slug: 'herb', name: 'Herbs', color: '#22c55e' },
+    { slug: 'medicine', name: 'Medicines', color: '#ff2d2d' },
+    { slug: 'amino-acid', name: 'Amino Acids', color: '#22c55e' },
+  ];
+  
+  return CATEGORIES.map(cat => ({
+    params: { category: cat.slug },
+    props: { name: cat.name, color: cat.color, allCategories: CATEGORIES }
+  }));
+}
+
+const { category } = Astro.params;
+const { name: categoryName, color: categoryColor, allCategories } = Astro.props;
+
+// Filter substances by PRIMARY category only
+const filteredSubstances = substances.filter(s => 
+  s.categories && s.categories.length > 0 && 
+  s.categories[0].toLowerCase() === category?.toLowerCase()
+);
+
+// Generate element symbol from name
+function getSymbol(name: string): string {
+  const cleanName = name.toUpperCase().replace(/[^A-Z0-9]/g, '');
+  return cleanName.slice(0, 3);
+}
+
+// Get other categories
+const otherCategories = allCategories.filter((c: {slug: string, name: string, color: string}) => c.slug !== category);
+---
+
+<BaseLayout 
+  title={`${categoryName} - The Lab`} 
+  description={`Browse ${filteredSubstances.length} ${categoryName.toLowerCase()} compounds. Research information, dosing, and studies.`}
+>
+
+<!-- Breadcrumb -->
+<nav class="bg-industrial-900/50 border-b border-industrial-800">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+    <ol class="flex items-center gap-2 text-sm">
+      <li><a href="/" class="text-industrial-400 hover:text-chem-green transition-colors">Home</a></li>
+      <li class="text-industrial-600">/</li>
+      <li><a href="/database" class="text-industrial-400 hover:text-chem-green transition-colors">The Lab</a></li>
+      <li class="text-industrial-600">/</li>
+      <li class="font-medium" style={`color: ${categoryColor}`}>{categoryName}</li>
+    </ol>
+  </div>
+</nav>
+
+<section class="py-8 lg:py-12">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    
+    <!-- Header -->
+    <div class="mb-8">
+      <div class="flex items-center gap-4 mb-4">
+        <div class="element-card p-4 text-center">
+          <div class="text-2xl font-substance font-bold" style={`color: ${categoryColor}`}>
+            {categoryName.slice(0, 3).toUpperCase()}
+          </div>
+        </div>
+        <div>
+          <h1 class="font-heading text-3xl sm:text-4xl font-bold text-industrial-100">
+            <span style={`color: ${categoryColor}`}>{categoryName}</span>
+          </h1>
+          <p class="text-industrial-400 mt-1">
+            {filteredSubstances.length} compounds in this category
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Search -->
+    <div class="mb-8">
+      <div class="relative max-w-2xl">
+        <input 
+          type="text" 
+          id="search-input"
+          placeholder={`Search ${categoryName.toLowerCase()}...`}
+          class="search-lab w-full pl-12"
+        />
+        <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-industrial-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+      </div>
+    </div>
+
+    <!-- Results count -->
+    <div class="mb-6 text-sm text-industrial-400 font-mono">
+      Showing <span id="visible-count" style={`color: ${categoryColor}`}>{filteredSubstances.length}</span> compounds
+    </div>
+
+    <!-- Substance Grid -->
+    <div id="substance-grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+      {filteredSubstances.map((substance, index) => {
+        const symbol = getSymbol(substance.title);
+        
+        return (
+          <a 
+            href={`/substances/${substance.slug}`}
+            class="substance-card element-card group"
+            data-title={substance.title.toLowerCase()}
+            style={`animation-delay: ${(index % 30) * 30}ms; --cat-color: ${categoryColor}`}
+          >
+            {/* Category number */}
+            <div class="text-xs font-mono opacity-70" style={`color: ${categoryColor}`}>
+              {String(index + 1).padStart(2, '0')}
+            </div>
+            
+            {/* Symbol */}
+            <div class="text-3xl sm:text-2xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors my-2">
+              {symbol}
+            </div>
+            
+            {/* Full name */}
+            <div class="text-xs text-industrial-300 truncate" title={substance.title}>
+              {substance.title}
+            </div>
+            
+            {/* Arrow */}
+            <div class="mt-2 flex items-center justify-end">
+              <span class="text-xs" style={`color: ${categoryColor}`}>→</span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+
+    <!-- Empty state -->
+    <div id="empty-state" class="hidden text-center py-16">
+      <div class="text-6xl mb-4">🧪</div>
+      <h3 class="font-heading text-xl text-industrial-300 mb-2">No compounds found</h3>
+      <p class="text-industrial-500">Try adjusting your search</p>
+    </div>
+
+    <!-- Other categories -->
+    <div class="mt-16 pt-8 border-t border-industrial-800">
+      <h2 class="font-heading text-lg text-industrial-400 mb-4">Browse Other Categories</h2>
+      <div class="flex flex-wrap gap-3">
+        {otherCategories.map(cat => (
+          <a 
+            href={`/category/${cat.slug}`}
+            class="category-pill bg-industrial-800/50 border-industrial-600 hover:bg-industrial-700/50 transition-colors"
+            style={`border-left-color: ${cat.color}`}
+          >
+            <span class="w-2 h-2 rounded-full" style={`background: ${cat.color}`}></span>
+            {cat.name}
+          </a>
+        ))}
+      </div>
+    </div>
+
+  </div>
+</section>
+
+</BaseLayout>
+
+<style>
+  .substance-card {
+    animation: dissolve-in 0.6s ease-out forwards;
+    opacity: 0;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const substanceCards = document.querySelectorAll('.substance-card');
+    const visibleCount = document.getElementById('visible-count');
+    const emptyState = document.getElementById('empty-state');
+    const grid = document.getElementById('substance-grid');
+    
+    function filterSubstances() {
+      const searchTerm = searchInput?.value.toLowerCase() || '';
+      let count = 0;
+      
+      substanceCards.forEach((card) => {
+        const el = card as HTMLElement;
+        const title = el.dataset.title || '';
+        
+        if (title.includes(searchTerm)) {
+          el.style.display = '';
+          count++;
+        } else {
+          el.style.display = 'none';
+        }
+      });
+      
+      if (visibleCount) {
+        visibleCount.textContent = String(count);
+      }
+      
+      if (emptyState && grid) {
+        if (count === 0) {
+          emptyState.classList.remove('hidden');
+          grid.classList.add('hidden');
+        } else {
+          emptyState.classList.add('hidden');
+          grid.classList.remove('hidden');
+        }
+      }
+    }
+    
+    searchInput?.addEventListener('input', filterSubstances);
+  });
+</script>

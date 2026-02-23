@@ -1,0 +1,103 @@
+{
+  "slug": "colchicine",
+  "url": "https://dopamine.club/substances/colchicine/",
+  "scrapedAt": "2026-02-12T16:06:51.591Z",
+  "title": "COLCHICINE",
+  "description": "Colchicine is a potent anti-inflammatory alkaloid derived from the Colchicum autumnale plant that primarily works by inhibiting microtubule polymerization and the NLRP3 inflammasome. It effectively reduces the production of pro-inflammatory cytokines like IL-1β and is standard therapy for gout, familial Mediterranean fever, and pericarditis.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Colchicine --- update on mechanisms of action and therapeutic uses",
+      "summary": "This review details how colchicine inhibits neutrophil chemotaxis and the NLRP3 inflammasome, providing a broad mechanism for treating various systemic inflammatory conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26228647/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cardiovascular effects and safety of long-term colchicine treatment: Cochrane review and meta-analysis",
+      "summary": "A meta-analysis of 39 trials found that while colchicine did not affect all-cause mortality, it significantly reduced cardiovascular mortality in several analytical models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/200106/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users view colchicine as a powerful medical tool for acute pain but express high caution regarding its narrow therapeutic index and dangerous drug interactions."
+  },
+  "effects": [
+    {
+      "label": "Acute Gout:",
+      "description": "Highly effective when taken at the very first sign of a flare-up"
+    },
+    {
+      "label": "Cardiovascular Protection:",
+      "description": "Shows promise in reducing risk for patients with high cardiovascular inflammation"
+    },
+    {
+      "label": "Therapeutic Window:",
+      "description": "Effectiveness is limited by a very narrow range between a healing dose and a toxic dose"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Gout Flare:",
+      "description": "Often initiated at 1.2mg followed by 0.6mg an hour later"
+    },
+    {
+      "label": "Chronic Prophylaxis:",
+      "description": "Low doses such as 0.5mg to 0.6mg daily are used to prevent inflammatory recurrence"
+    },
+    {
+      "label": "Lethal Limit:",
+      "description": "Noted as lethal at doses of approximately 1 mg/kg of body weight"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Common reports of diarrhea, nausea, and abdominal pain"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Dangerous interactions with CYP3A4 inhibitors like Quercetin or Grapefruit"
+    },
+    {
+      "label": "Toxicity:",
+      "description": "Overdose can lead to multi-organ failure due to its systemic effect on cell division"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Generally regulated as a prescription medication rather than an over-the-counter supplement"
+    },
+    {
+      "label": "Sourcing Caution:",
+      "description": "Should not be confused with botanical extracts due to its high toxicity profile"
+    }
+  ],
+  "related": [
+    {
+      "name": "GAMMA-TOCOPHEROL",
+      "slug": "gamma-tocopherol"
+    },
+    {
+      "name": "OLEUROPEIN",
+      "slug": "oleuropein"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    },
+    {
+      "name": "RUTIN",
+      "slug": "rutin"
+    },
+    {
+      "name": "TETRAHYDROCURCUMIN",
+      "slug": "tetrahydrocurcumin"
+    }
+  ]
+}

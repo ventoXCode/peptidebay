@@ -1,0 +1,161 @@
+{
+  "slug": "agaricus-blazei",
+  "url": "https://dopamine.club/substances/agaricus-blazei/",
+  "scrapedAt": "2026-02-12T16:05:25.332Z",
+  "title": "AGARICUS BLAZEI",
+  "description": "Agaricus blazei Murill (ABM), also known as the Brazilian mushroom or jisongrong, is a medicinal mushroom containing bioactive compounds including β-glucans, polysaccharides, polypeptides, and ergosterol. It works primarily through immunomodulation, antioxidant activity, and modulation of the Th1/Th2 immune balance, with demonstrated effects on inflammation, oxidative stress, and metabolic pathways including Keap1/Nrf2/ARE signaling.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The mushroom Agaricus Blazei Murill in combination with metformin and gliclazide improves insulin resistance in type 2 diabetes: a randomized, double-blinded, and placebo-controlled clinical trial",
+      "summary": "In a randomized controlled trial of 72 type 2 diabetes patients, ABM extract (1500 mg daily for 12 weeks) combined with standard diabetes medications significantly improved insulin resistance measured by HOMA-IR.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17309383/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplementation with Agaricus blazei murill extract prevents diet-induced obesity and insulin resistance in rats",
+      "summary": "ABM supplementation protected rats against high-fat diet-induced obesity, insulin resistance, glucose intolerance, and inflammation markers without reducing food intake, suggesting metabolic benefits independent of caloric restriction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23592663/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Agaricus blazei polypeptide exerts a protective effect on D-galactose-induced aging mice via the Keap1/Nrf2/ARE and P53/Trim32 signaling pathways",
+      "summary": "A novel 3 kD polypeptide from ABM significantly improved antioxidant markers (T-AOC, CAT) and reduced oxidative stress (MDA, ROS) in aging mice through activation of key longevity-related signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33200472/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Phase I Clinical Study of the Dietary Supplement, Agaricus blazei Murill, in Cancer Patients in Remission",
+      "summary": "Safety study of 78 cancer survivors taking 1.8-5.4g ABM daily for 6 months found only 12% experienced adverse events (mostly mild digestive issues), with no dose-dependent toxicity, supporting safety at tested dosages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21584278/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hot water extract of Agaricus blazei Murrill specifically inhibits growth and induces apoptosis in human pancreatic cancer cells",
+      "summary": "ABM hot water extract demonstrated specific anti-cancer activity against human pancreatic cancer cell lines through induction of apoptosis, suggesting potential therapeutic applications for pancreatic cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30514293/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The beneficial effects of Agaricus blazei Murrill on hepatic antioxidant enzymes and the pancreatic tissue recovery in streptozotocin-induced diabetic rats",
+      "summary": "ABM extracts, particularly ethyl acetate extract, improved hepatic antioxidant enzyme activity (SOD, CAT, glutathione) and promoted pancreatic tissue recovery in diabetic rats, suggesting hepatoprotective and pancreatic regenerative effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32160646/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gastroprotective effect of hydroalcoholic extract from Agaricus blazei Murill against ethanol-induced gastric ulcer in mice",
+      "summary": "ABM extract demonstrated protective effects against ethanol-induced gastric ulcers in mice, showing gastroprotective properties through anti-inflammatory and antioxidant mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35292374/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hypolipidemic effect of the edible mushroom Agaricus blazei in rats subjected to a hypercholesterolemic diet",
+      "summary": "1% ABM supplementation for 6 weeks significantly reduced total cholesterol, non-HDL cholesterol, and atherogenic index while decreasing abdominal fat weight in rats fed a high cholesterol diet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24203633/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pro-inflammatory effects of the mushroom Agaricus blazei and its consequences on atherosclerosis development",
+      "summary": "In ApoE-deficient mice, 6-12 weeks of ABM supplementation unexpectedly enhanced leukocyte activation and migration, potentially increasing atherosclerosis development, raising safety concerns for cardiovascular-compromised individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22086299/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences show mixed results, with some incorporating ABM into comprehensive stacks for immune and metabolic support, while others question the value relative to cost and express concerns about over-supplementation. Limited standalone discussion suggests ABM is typically used as part of broader supplement regimens rather than as a primary intervention."
+  },
+  "effects": [
+    {
+      "label": "Limited Standalone Data:",
+      "description": "Most Reddit users take ABM as part of complex multi-supplement stacks, making isolated effects difficult to assess"
+    },
+    {
+      "label": "Supporting Role:",
+      "description": "Typically used as a complementary ingredient rather than primary therapeutic agent in user protocols"
+    },
+    {
+      "label": "Research-Practice Gap:",
+      "description": "Strong research support for metabolic and immune benefits, but limited user discussion of specific effects"
+    },
+    {
+      "label": "Professional Guidance:",
+      "description": "Users seeking significant health improvements are frequently advised to consult healthcare providers rather than rely on supplement stacks alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Range:",
+      "description": "Research studies used 1,500-5,400 mg daily of ABM extract, typically divided into 2-3 doses"
+    },
+    {
+      "label": "Mushroom Blends:",
+      "description": "Users commonly take 143-1,000 mg of ABM mycelium as part of multi-mushroom formulations"
+    },
+    {
+      "label": "Duration:",
+      "description": "Clinical safety established for 6-12 weeks; some users report longer-term use as part of maintenance stacks"
+    },
+    {
+      "label": "Fermented Forms:",
+      "description": "Some brands offer fermented ABM claiming improved bioavailability, though user verification is limited"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Clinical trials reported mild nausea and diarrhea in about 12% of users, typically non-serious"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "One documented case of liver dysfunction related to food allergy/drug lymphocyte product in clinical study"
+    },
+    {
+      "label": "Cardiovascular Concerns:",
+      "description": "Research in ApoE-deficient mice showed pro-inflammatory effects and potential atherosclerosis promotion, suggesting caution for those with cardiovascular issues"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users and studies report good tolerability with minimal adverse effects at recommended doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Multiple Brands:",
+      "description": "Available from companies like quality brands, SoTru, and various medicinal mushroom specialists, with varying forms (powder, capsules, fermented)"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users express difficulty verifying quality and active compound content, with brands often unable to provide comprehensive COAs or research backing fermentation claims"
+    },
+    {
+      "label": "Pricing:",
+      "description": "Considered expensive by users, particularly in proprietary blends, with bulk powder forms potentially more cost-effective"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "centrophenoxine",
+  "url": "https://dopamine.club/substances/centrophenoxine/",
+  "scrapedAt": "2026-02-12T16:06:29.071Z",
+  "title": "CENTROPHENOXINE",
+  "description": "Centrophenoxine (meclofenoxate) is a nootropic compound that combines DMAE (dimethylaminoethanol) with para-chlorophenoxyacetic acid (pCPA). It acts as a cholinergic precursor and has been studied for its potential to reduce lipofuscin (age pigment) accumulation in neurons, enhance membrane fluidity, and support cognitive function. While prescribed in some countries for dementia and cognitive decline, it remains unapproved by the FDA in the United States but is sold as a dietary supplement.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "The unapproved drug centrophenoxine (meclofenoxate) in cognitive enhancement dietary supplements",
+      "summary": "Study found centrophenoxine present in all seven analyzed US dietary supplements at dosages ranging from 79-251mg per serving, with daily intake recommendations exposing consumers to 237-752mg despite FDA non-approval.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35959800/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Modulatory effects of centrophenoxine on different regions of ageing rat brain",
+      "summary": "Six-week administration to aged rats increased activities of antioxidant enzymes (catalase, SOD, glutathione reductase) and altered glutathione content, suggesting beneficial effects on oxidative stress in aging brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16137852/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Centrophenoxine: effects on aging mammalian brain",
+      "summary": "Treatment in old mice for three months significantly improved learning performance in T-maze tests and reduced neuronal lipofuscin pigment in cerebral cortex and hippocampus compared to untreated controls.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/342588/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of centrophenoxine on lipofuscin in the retinal pigment epithelium of old mice",
+      "summary": "Three months of daily subcutaneous injections in 17-month-old mice resulted in significant reduction of lipofuscin pigment in retinal pigment epithelium while melanin remained unchanged.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6410295/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fluidizing effects of centrophenoxine in vitro on brain and liver membranes from different age groups of mice",
+      "summary": "In vitro study demonstrated centrophenoxine directly increased membrane fluidity in both synaptic plasma membranes and liver microsomes, with greater effects in liver tissue, independent of age.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3023777/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of centrophenoxine on cholinephosphotransferase activity in maternal and fetal guinea pig lung",
+      "summary": "Centrophenoxine and its metabolite p-chlorophenoxyacetate inhibited cholinephosphotransferase activity in adult lung but not fetal lung when administered to pregnant animals, though direct fetal administration caused inhibition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2548832/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences with centrophenoxine are genuinely divided, with some reporting improved focus and cognitive benefits when stacked with racetams, while others experienced depression, attention issues, increased typos, and sleep disruption. The compound appears to work well for certain individuals in specific stacks but produces adverse effects in others, suggesting high individual variability."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Stacking:",
+      "description": "Most effective when combined with racetams (piracetam, aniracetam, oxiracetam) rather than as standalone supplement"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Highly variable responses among users, with some experiencing significant benefits while others report cognitive impairment"
+    },
+    {
+      "label": "Dose-Dependent:",
+      "description": "Effects appear related to dosage, with some users finding lower doses (250-300mg) more tolerable than higher doses (500mg+)"
+    },
+    {
+      "label": "Time Course:",
+      "description": "Some users report immediate effects while others note benefits develop over days to weeks of consistent use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most commonly used at 250-500mg per serving, with many products containing 300-500mg capsules"
+    },
+    {
+      "label": "Daily Intake:",
+      "description": "Users typically take 500-1000mg daily split into 1-2 doses, often in morning and early afternoon"
+    },
+    {
+      "label": "Cycling Patterns:",
+      "description": "Some experienced users alternate centrophenoxine with other choline sources (CDP-choline, Alpha-GPC) rather than daily continuous use"
+    },
+    {
+      "label": "Safety Concerns:",
+      "description": "Research found supplement labels recommending 237-752mg daily, though long-term safety at these doses remains unclear"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mood Effects:",
+      "description": "Multiple users report depression, decreased emotional response, and general apathy when taking centrophenoxine"
+    },
+    {
+      "label": "Cognitive Impairment:",
+      "description": "Some experience increased typos, attention deficits, poor listening comprehension, and brain fog rather than improvement"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Reports of early waking, altered sleep patterns, and difficulty falling asleep despite daytime fatigue"
+    },
+    {
+      "label": "Paradoxical Energy:",
+      "description": "Some users note increased evening energy and impulsivity that interferes with normal sleep schedules"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Available as dietary supplement in US despite FDA non-approval; prescribed medication in China and some other countries"
+    },
+    {
+      "label": "Common Sources:",
+      "description": "Various nootropic suppliers sell centrophenoxine online, typically in 250-500mg capsules"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Independent testing confirms presence and quantity vary between products, raising questions about manufacturing consistency"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "APOAEQUORIN",
+      "slug": "apoaequorin"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "diosmin",
+  "url": "https://dopamine.club/substances/diosmin/",
+  "scrapedAt": "2026-02-12T16:07:16.189Z",
+  "title": "DIOSMIN",
+  "description": "Diosmin is a semisynthetic flavonoid glycoside, often combined with hesperidin in a 9:1 ratio as micronized purified flavonoid fraction (MPFF). It works by improving venous tone, reducing capillary permeability, protecting endothelial function, and exerting anti-inflammatory effects primarily through modulation of inflammatory markers and oxidative stress pathways. Primarily used for chronic venous disease, hemorrhoids, and venous leg ulcers.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Efficacy of micronized purified flavonoid fraction (Daflon®) on improving individual symptoms, signs and quality of life in patients with chronic venous disease: a systematic review and meta-analysis of randomized double-blind placebo-controlled trials",
+      "summary": "Systematic review and meta-analysis demonstrating MPFF (Daflon) significantly improves individual venous symptoms, signs, and quality of life across the spectrum of chronic venous disease severity in randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29385792/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of the Flavonoid Diosmin on Post Exercise Muscle Soreness - A Randomized Controlled Trial",
+      "summary": "Randomized controlled trial in athletes showing diosmin supplementation significantly reduced delayed-onset muscle soreness (DOMS) and improved athletic performance during pre-season training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40818103/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dual modulatory effects of diosmin on calcium oxalate kidney stone formation processes",
+      "summary": "Study demonstrating diosmin has protective effects against kidney stone formation by modulating crystallization, aggregation, and cellular interactions in calcium oxalate stone disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34328112/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nephroprotective Effect of Diosmin against Cisplatin-Induced Kidney Damage by Modulating IL-1β, IL-6, TNFα and Renal Oxidative Damage",
+      "summary": "Animal study showing diosmin significantly protects against cisplatin-induced kidney damage by reducing inflammatory markers (IL-1β, IL-6, TNFα) and oxidative stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36770968/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Literature Review of Pharmacological Agents to Improve Venous Leg Ulcer Healing",
+      "summary": "Comprehensive review identifying diosmin and MPFF as effective pharmacological agents for accelerating venous leg ulcer healing when used alongside compression therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33166265/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Diosmin abrogates chemically induced hepatocarcinogenesis via alleviation of oxidative stress, hyperproliferative and inflammatory markers in murine model",
+      "summary": "Animal study demonstrating diosmin's chemopreventive efficacy against liver cancer through reduction of oxidative stress, inflammatory markers (COX-2, iNOS), and proliferation markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23665045/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effectiveness of Hesperidin, Diosmin and Proanthocyanidins Nutritional Supplementation on Cognitive and Motor Functions in Older Adults: A Pilot Randomized Control Study",
+      "summary": "Pilot RCT showing combination supplementation with hesperidin, diosmin, and proanthocyanidins improved cognitive and motor functions in older adults by optimizing blood microcirculation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40694049/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A nutraceutical composition containing diosmin and hesperidin has osteogenic and anti-resorptive effects and expands the anabolic window of teriparatide",
+      "summary": "Animal study showing diosmin-hesperidin combination promotes bone regeneration, increases peak bone mass in growing rats, and restores trabecular bones in osteopenic models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31306971/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report generally positive experiences with diosmin, particularly for hemorrhoids, venous issues, and circulation improvement. Many report noticeable benefits for vascular health and erectile function, though effectiveness varies and high doses are often needed for hemorrhoid treatment."
+  },
+  "effects": [
+    {
+      "label": "Chronic Venous Disease:",
+      "description": "Strong evidence from systematic reviews showing improvement in venous symptoms, signs, and quality of life across severity spectrum"
+    },
+    {
+      "label": "Hemorrhoid Treatment:",
+      "description": "Mixed user experiences - some find it ineffective at standard doses (450-500mg), many report needing 2-6g daily combined with hesperidin for noticeable results"
+    },
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Both research and users indicate higher doses (1-2g+) are more effective than standard recommendations, particularly for hemorrhoids and venous issues"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Users report better results when combining with hesperidin, rutin, horse chestnut, and other flavonoids rather than using diosmin alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Medical Dose:",
+      "description": "450-500mg twice daily for chronic venous disease, often combined with hesperidin in 9:1 ratio (MPFF formulation)"
+    },
+    {
+      "label": "High-Dose Protocol for Hemorrhoids:",
+      "description": "Users report taking 2-4g daily (4-8 tablets of 450/50mg diosmin/hesperidin) for severe hemorrhoid symptoms"
+    },
+    {
+      "label": "Athletic Recovery:",
+      "description": "100mg/kg body weight used in research for reducing DOMS; users experimenting with 500-1000mg for circulation and performance"
+    },
+    {
+      "label": "Duration:",
+      "description": "Users report needing several weeks to months for full effects on venous issues; acute hemorrhoid flares may require 3-5 day high-dose protocols"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Stress:",
+      "description": "Multiple users concerned about liver/kidney stress from high doses, particularly when combining multiple flavonoids and supplements"
+    },
+    {
+      "label": "Bleeding Risk:",
+      "description": "One case report of spontaneous intraventricular hemorrhage with prolonged use, users report blood-thinning properties when combined with other supplements"
+    },
+    {
+      "label": "Copper Depletion:",
+      "description": "Users report zinc-copper imbalance concerns when taking high-dose flavonoids alongside zinc supplementation"
+    },
+    {
+      "label": "Telomerase Inhibition:",
+      "description": "Some users concerned about hesperidin's strong telomerase inhibition, though unclear if this affects normal cells or primarily cancer cells"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Brands:",
+      "description": "quality brands widely mentioned but facing quality concerns after Chinese acquisition; users seeking alternatives with better quality control and COAs"
+    },
+    {
+      "label": "Formulations:",
+      "description": "Most commonly found as diosmin/hesperidin combination (450/50mg or 500/50mg), also available in MPFF (Daflon) branded formulation"
+    },
+    {
+      "label": "Sourcing Challenges:",
+      "description": "Users report difficulty finding reputable brands; quality brands offers rutin and horse chestnut but not pure diosmin, leading to multi-supplement stacking"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "COLLAGEN TYPE II",
+      "slug": "collagen-type-ii"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    },
+    {
+      "name": "GELATIN",
+      "slug": "gelatin"
+    }
+  ]
+}

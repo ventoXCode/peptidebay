@@ -1,0 +1,154 @@
+{
+  "slug": "selank",
+  "url": "https://dopamine.club/substances/selank/",
+  "scrapedAt": "2026-02-12T16:11:11.550Z",
+  "title": "SELANK",
+  "description": "Selank is a Russian peptide derived from tuftsin with anxiolytic and nootropic properties. It modulates GABA and serotonin systems, reducing anxiety while enhancing cognitive function without sedation or dependency.",
+  "categories": [
+    "Peptide",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Expression of inflammation-related genes in mouse spleen under tuftsin analog Selank",
+      "summary": "Found significant changes in 34 inflammation-related genes, confirming Selank's immune-regulating role.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167011511000863",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The temporary dynamics of inflammation-related genes expression under tuftsin analog Selank action",
+      "summary": "Selank and its Gly-Pro fragment similarly influenced multiple immune-related genes.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0161589013005440",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Selank Administration Affects the Expression of Some Genes Involved in GABAergic Neurotransmission",
+      "summary": "Selank induces changes in GABA neurotransmission genes, suggesting a mechanism similar to benzodiazepines.",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2016.00031/full",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "Peptide-based Anxiolytics: The Molecular Aspects of Heptapeptide Selank Biological Activity",
+      "summary": "Selank functions as a positive allosteric modulator of GABA receptors, offering anxiety relief.",
+      "url": "https://www.eurekaselect.com/article/93226",
+      "source": "(Institute of Molecular Genetics)"
+    },
+    {
+      "title": "Physiological Effects of Selank and Its Fragments",
+      "summary": "Analyzed data on Selank's benefits including anxiety reduction, cognitive enhancement, and immune stimulation.",
+      "url": "https://link.springer.com/article/10.1134/S1062359019040071",
+      "source": "(Institute of Molecular Genetics)"
+    },
+    {
+      "title": "Use of Selank to correct measures of integrative brain activity in adult rats from Antenatal Hypoxia",
+      "summary": "Selank improved sensory attention, learning, and behaviors in rats while restoring serotonin balance.",
+      "url": "https://link.springer.com/article/10.1007/s11055-008-0030-2",
+      "source": "(Institute of Cell Biophysics)"
+    },
+    {
+      "title": "The effectiveness of selank in the treatment of adjustment disorder",
+      "summary": "Selank significantly reduced symptoms of Adjustment Disorder including somatic complaints.",
+      "url": "https://ww.e-medjournal.com/index.php/psp/article/view/86",
+      "source": "(Ukrainian Scientific Research Institute)"
+    },
+    {
+      "title": "Peptide Selank Enhances the Effect of Diazepam in Reducing Anxiety",
+      "summary": "Selank works similarly to benzodiazepines and can enhance diazepam's effects under chronic stress.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1155/2017/5091027",
+      "source": "(Institute of Molecular Genetics)"
+    },
+    {
+      "title": "Selank and Short Peptides of the Tuftsin Family in the Regulation of Adaptive Behavior in Stress",
+      "summary": "Evaluated peptide compounds including Selank for emotional and antistress effects.",
+      "url": "https://link.springer.com/article/10.1023/A:1025988519919",
+      "source": "(V. V. Zakusov Research Institute)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Highly regarded for anxiety relief without sedation or addiction. Users report calm focus and improved stress resilience. Often preferred over semax for anxiety-prone individuals."
+  },
+  "effects": [
+    {
+      "label": "Fast Acting:",
+      "description": "Effects often noticed within hours."
+    },
+    {
+      "label": "No Tolerance:",
+      "description": "Maintains effectiveness with continued use."
+    },
+    {
+      "label": "Versatile:",
+      "description": "Benefits both anxiety and cognitive function."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "250-500mcg intranasally, 1-3 times daily."
+    },
+    {
+      "label": "Subcutaneous:",
+      "description": "Can also be injected subcutaneously."
+    },
+    {
+      "label": "Daily Use:",
+      "description": "Can be used consistently without tolerance."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Very Well Tolerated:",
+      "description": "Few side effects reported."
+    },
+    {
+      "label": "Nasal Irritation:",
+      "description": "Minor with intranasal use."
+    },
+    {
+      "label": "Fatigue:",
+      "description": "Some report tiredness at higher doses."
+    },
+    {
+      "label": "Excellent Safety:",
+      "description": "No significant adverse effects documented."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Russian Origin:",
+      "description": "Approved medication in Russia."
+    },
+    {
+      "label": "Nasal Spray:",
+      "description": "Often sold as premade nasal spray."
+    }
+  ],
+  "related": [
+    {
+      "name": "Semax",
+      "slug": "semax"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    },
+    {
+      "name": "DEMOXYTOCIN",
+      "slug": "demoxytocin"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "slug": "exenatide",
+  "url": "https://dopamine.club/substances/exenatide/",
+  "scrapedAt": "2026-02-12T16:07:43.518Z",
+  "title": "EXENATIDE",
+  "description": "Exenatide is a glucagon-like peptide-1 (GLP-1) receptor agonist used primarily as an antidiabetic medication for type 2 diabetes mellitus. It works by stimulating insulin secretion, delaying gastric emptying, increasing satiety, and reducing glucagon release, which collectively improve glycemic control. Beyond diabetes management, emerging research suggests potential neuroprotective effects in Parkinson's disease and benefits for metabolic health including weight loss and cardiovascular risk reduction.",
+  "categories": [
+    "Peptide",
+    "GLP"
+  ],
+  "research": [
+    {
+      "title": "Exenatide efficacy and safety: a systematic review",
+      "summary": "Exenatide 10 μg twice daily improved HbA1c by approximately 1.0% over 30 weeks and was associated with weight loss of 1.0-2.5 kg, showing similar glycemic control to insulin regimens but with weight loss advantages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19719703/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical Benefits of Therapeutic Interventions Targeting Mitochondria in Parkinson's Disease Patients",
+      "summary": "Among compounds tested in randomized clinical trials for Parkinson's disease, only exenatide has shown promising neuroprotective and symptomatic effects, though translation to clinical practice requires confirmation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37005519/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The anti-diabetic drug exenatide counteracts hepatocarcinogenesis through cAMP-PKA-EGFR-STAT3 axis",
+      "summary": "Exenatide demonstrated protective effects against hepatocellular carcinoma development in preclinical models, suggesting potential anti-cancer properties beyond its antidiabetic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28319060/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of GLP-1 receptor agonist versus omega-3 fatty acids supplement on obesity-induced alterations of mitochondrial respiration",
+      "summary": "Exenatide administration improved obesity-induced mitochondrial dysfunction, demonstrating beneficial effects on cellular energy metabolism in multiple tissues including skeletal muscle, liver, and adipose tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37033212/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cardiovascular Outcomes with Once-Weekly GLP-1 RAs: Clinical and Economic Implications",
+      "summary": "GLP-1 receptor agonists including exenatide show beneficial effects on cardiovascular risk factors and potential reduction in major adverse cardiac events, with low risk of hypoglycemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30156446/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exenatide use and incidence of pancreatic and thyroid cancer: A retrospective cohort study",
+      "summary": "A large retrospective cohort study examined cancer risk associated with exenatide use in type 2 diabetes patients, addressing safety concerns regarding pancreatic and thyroid cancer incidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30474347/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of GLP-1 receptor agonists on waist circumference among type 2 diabetes patients",
+      "summary": "Network meta-analysis showed significant reductions in waist circumference with liraglutide and exenatide treatment, demonstrating benefits for abdominal obesity beyond glycemic control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25115635/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Exenatide plus Metformin versus Metformin alone on insulin resistance in women with Polycystic Ovary Syndrome",
+      "summary": "Combination therapy of exenatide plus metformin showed superior improvements in insulin resistance, BMI, and metabolic parameters compared to metformin alone in overweight and obese women with PCOS.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40301112/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "user discussions show limited direct user experience with exenatide specifically, with most GLP-1 discussions focused on newer agents. The available context suggests users are exploring GLP-1s for various applications beyond diabetes, including intermittent fasting support and metabolic optimization, though concerns about dependency and appropriate use patterns are frequently mentioned."
+  },
+  "effects": [
+    {
+      "label": "Diabetes Management:",
+      "description": "Shows similar efficacy to insulin regimens for glycemic control but with advantage of weight loss rather than weight gain"
+    },
+    {
+      "label": "Metabolic Health:",
+      "description": "Improves multiple metabolic parameters including insulin resistance, lipid profiles, and cardiovascular risk markers"
+    },
+    {
+      "label": "PCOS Treatment:",
+      "description": "When combined with metformin, demonstrates superior improvements in insulin resistance and metabolic outcomes compared to metformin alone"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Clinical effectiveness varies, with best results seen in patients with poor glycemic control on oral medications"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Diabetes Dose:",
+      "description": "10 μg twice daily subcutaneously is the most commonly studied and prescribed dose"
+    },
+    {
+      "label": "Titration Approach:",
+      "description": "Often started at lower doses (5 μg) and increased to minimize gastrointestinal side effects"
+    },
+    {
+      "label": "Extended Release:",
+      "description": "Once-weekly formulations available for improved convenience and compliance"
+    },
+    {
+      "label": "Short-Acting Strategy:",
+      "description": "Some users explore using short half-life (2.4 hours) for targeted intermittent fasting support without continuous suppression"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Nausea and gastrointestinal adverse events are the most common side effects, particularly during initiation"
+    },
+    {
+      "label": "Cancer Concerns:",
+      "description": "Retrospective studies have examined pancreatic and thyroid cancer risk, though evidence remains inconclusive"
+    },
+    {
+      "label": "Hypoglycemia Risk:",
+      "description": "Low risk when used alone but increased when combined with insulin or sulfonylureas"
+    },
+    {
+      "label": "Dependency Concerns:",
+      "description": "Users express concerns about long-term GLP-1 dependence and preference for short-acting formulations to avoid continuous suppression"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Exenatide is a prescription medication requiring medical supervision, primarily prescribed by endocrinologists and primary care physicians"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Insurance coverage varies significantly, with out-of-pocket costs being prohibitive for some patients, particularly for brand-name formulations"
+    },
+    {
+      "label": "Formulation Options:",
+      "description": "Available in both twice-daily immediate-release and once-weekly extended-release preparations"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALBIGLUTIDE",
+      "slug": "albiglutide"
+    },
+    {
+      "name": "DULAGLUTIDE",
+      "slug": "dulaglutide"
+    },
+    {
+      "name": "LIRAGLUTIDE",
+      "slug": "liraglutide"
+    },
+    {
+      "name": "Retatrutide",
+      "slug": "retatrutide"
+    },
+    {
+      "name": "SEMAGLUTIDE",
+      "slug": "semaglutide"
+    }
+  ]
+}

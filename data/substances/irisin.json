@@ -1,0 +1,155 @@
+{
+  "slug": "irisin",
+  "url": "https://dopamine.club/substances/irisin/",
+  "scrapedAt": "2026-02-12T16:08:53.047Z",
+  "title": "IRISIN",
+  "description": "Irisin is a myokine (muscle-derived hormone) secreted during exercise, particularly through activation of PGC-1α in skeletal muscle. It promotes metabolic health by inducing browning of white adipose tissue, improving glucose metabolism, enhancing mitochondrial function, and supporting neurogenesis and cognitive function. Irisin acts primarily through binding to integrin αV/β5 receptors.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Recent Advances in Nutraceuticals for the Treatment of Sarcopenic Obesity",
+      "summary": "Irisin supplementation enhances oxidative metabolism, prevents insulin resistance and obesity, and improves bone quality. It is recommended for increasing muscle mass and reducing body fat in aging populations with sarcopenic obesity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37686886/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Irisin interaction with adipose tissue secretions by exercise training and flaxseed oil supplement",
+      "summary": "High-intensity interval training significantly increased plasma irisin and nesfatin-1 while decreasing resistin. Flaxseed oil supplementation combined with exercise created metabolic crosstalk between skeletal muscle and adipose tissues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30654813/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of vitamin D supplementation on metabolic parameters, serum irisin and obesity values in women with subclinical hypothyroidism",
+      "summary": "Vitamin D supplementation in hypothyroid women improved metabolic parameters and influenced irisin levels, suggesting a connection between vitamin D status and irisin production in metabolic regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38179303/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Taurine supplementation increases irisin levels after high intensity physical training in obese women",
+      "summary": "Taurine supplementation combined with high-intensity training significantly increased irisin levels in obese women, suggesting synergistic effects for metabolic improvement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31226435/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Swimming exercise versus L-carnosine supplementation for Alzheimer's dementia in rats",
+      "summary": "Both exercise and L-carnosine supplementation increased hippocampal FNDC5/irisin expression in Alzheimer's disease models, demonstrating neuroprotective effects and improved cognitive function through irisin pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35091983/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Circulating irisin and glucose metabolism in overweight/obese women: effects of α-lipoic acid and eicosapentaenoic acid",
+      "summary": "Alpha-lipoic acid and EPA supplementation during weight loss programs influenced irisin production in adipocytes, with positive associations between irisin and improved glucose metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25820474/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prospective effects of cholecalciferol supplementation on irisin levels in sedentary postmenopausal women",
+      "summary": "Vitamin D supplementation for 12 months in postmenopausal women with hypovitaminosis D increased irisin levels, suggesting vitamin D's role in muscle-bone health through irisin modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37736331/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Correlation between the blood level of irisin and the severity of acute myocardial infarction in exercise-trained rats",
+      "summary": "Exercise training increased serum irisin levels and reduced severity of myocardial infarction, demonstrating cardioprotective effects through irisin-mediated mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30265651/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Research demonstrates strong metabolic and neuroprotective benefits of irisin activation through exercise and supplementation strategies. Studies consistently show improvements in fat loss, muscle preservation, glucose metabolism, and cognitive function with various irisin-promoting interventions."
+  },
+  "effects": [
+    {
+      "label": "Exercise Synergy:",
+      "description": "Most effective when combined with high-intensity interval training or resistance exercise, which naturally stimulates irisin production"
+    },
+    {
+      "label": "Supplementation Strategies:",
+      "description": "Ursolic acid (450mg) increases irisin and IGF-1 levels, promoting strength gains and fat loss without significant muscle mass increase"
+    },
+    {
+      "label": "Nutrient Cofactors:",
+      "description": "Vitamin D, omega-3s (EPA), taurine, and alpha-lipoic acid enhance irisin production and effectiveness when combined with physical activity"
+    },
+    {
+      "label": "Time Course:",
+      "description": "Benefits typically observed within 8-10 weeks of consistent intervention, with metabolic improvements appearing before significant body composition changes"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Ursolic Acid:",
+      "description": "450mg daily has been studied in bodybuilders for increasing irisin, IGF-1, and skeletal muscle strength"
+    },
+    {
+      "label": "Vitamin D:",
+      "description": "30,000 IU monthly or equivalent daily dosing improves irisin levels in deficient individuals"
+    },
+    {
+      "label": "Taurine:",
+      "description": "Supplementation combined with high-intensity training effectively increases irisin response"
+    },
+    {
+      "label": "Exercise Protocol:",
+      "description": "5 sessions per week of high-intensity interval training (90-95% VO2max) or resistance training optimally stimulates irisin production"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Direct Effects:",
+      "description": "No significant adverse effects reported from irisin-promoting supplements in clinical studies"
+    },
+    {
+      "label": "Ursolic Acid Concerns:",
+      "description": "Some animal studies suggest potential anti-fertility effects (reduced spermatogenesis), requiring caution in younger males"
+    },
+    {
+      "label": "Indirect Effects:",
+      "description": "Side effects primarily related to companion supplements (vitamin D, omega-3s) rather than irisin modulation itself"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Long-term use of irisin-promoting interventions appears safe based on multi-year exercise studies and ancient medicinal use (ursolic acid from plants)"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Indirect Supplementation:",
+      "description": "No direct irisin supplement available; achieved through exercise or compounds like ursolic acid (found in apple peels, rosemary)"
+    },
+    {
+      "label": "Natural Sources:",
+      "description": "Irisin production stimulated by regular physical activity, particularly high-intensity training and resistance exercise"
+    },
+    {
+      "label": "Supplement Synergists:",
+      "description": "Widely available supplements like vitamin D, omega-3s, taurine, and CoQ10 can enhance irisin production when combined with exercise"
+    }
+  ],
+  "related": [
+    {
+      "name": "SR9009 (STENABOLIC)",
+      "slug": "sr9009-stenabolic"
+    },
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    },
+    {
+      "name": "L-CARNOSINE",
+      "slug": "l-carnosine"
+    },
+    {
+      "name": "MK-3984",
+      "slug": "mk-3984"
+    }
+  ]
+}

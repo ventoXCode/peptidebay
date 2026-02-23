@@ -1,0 +1,168 @@
+{
+  "slug": "ashwagandha",
+  "url": "https://dopamine.club/substances/ashwagandha/",
+  "scrapedAt": "2026-02-12T16:05:55.339Z",
+  "title": "ASHWAGANDHA",
+  "description": "Ashwagandha (Withania somnifera) is an ancient medicinal herb classified as an adaptogen, meaning it helps the body manage stress. It has been used in Ayurvedic medicine for over 3,000 years and has gained significant popularity for its potential benefits on anxiety, cortisol levels, and physical performance.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pharmacological evaluation of Ashwagandha highlighting its healthcare claims, safety, and toxicity aspects",
+      "summary": "Withania somnifera, or Ashwagandha, is an important medicinal plant used in Indian traditional medicine for over 3,000 years with documented health benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32242751/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Withania somnifera on Stress and the Stress-Related Neuropsychiatric Disorders Anxiety, Depression, and Insomnia",
+      "summary": "Review showing Ashwagandha may reduce stress, anxiety, depression, and insomnia through various biological pathways, though consensus on optimal dosage remains unclear.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34254920/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ashwagandha (Withania somnifera)–Current Research on the Health-Promoting Activities: A Narrative Review",
+      "summary": "Research demonstrates Ashwagandha exhibits neuroprotective, sedative, adaptogenic, anti-inflammatory, antimicrobial, cardioprotective, and anti-diabetic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37111543/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An investigation into the stress-relieving and pharmacological actions of an ashwagandha extract",
+      "summary": "A 60-day study found 240 mg daily of ashwagandha extract significantly reduced anxiety and stress levels, with notable reductions in stress hormones.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31517876/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Ashwagandha on Physical Performance: Systematic Review and Bayesian Meta-Analysis",
+      "summary": "Analysis found Ashwagandha generally more effective than placebo in improving strength, cardiorespiratory fitness, and recovery in healthy individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33670194/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An insight into the potential varieties of Ashwagandha for better therapeutic efficacy",
+      "summary": "India is the largest Ashwagandha producer globally. Study compares cultivar characteristics, highlighting CIMAP-Pratap as highest-yielding variety.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1872203223000537",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Mutagenicity and safety evaluation of Ashwagandha root aqueous extract in different models",
+      "summary": "Ashwagandha root extract did not exhibit any mutagenic effects and was not toxic when administered orally up to 2000 mg/kg.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214750023001415",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Sub-acute toxicity of Ashwagandha root extract in wistar rats",
+      "summary": "Evaluation showed no toxicity or significant biochemical and histopathological changes at doses up to 800 mg/kg/day, suggesting safety at high doses.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214750023001221",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Ashwagandha as a multipotent neuroprotective remedy for genetically induced motor dysfunction",
+      "summary": "Testing on fruit fly models showed Ashwagandha root extract improved lifespan, reduced motor dysfunction, and mitigated neurodegeneration symptoms.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378874123007651",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "A validated green UPLC method for quantification of synthetic pharmaceutical adulterants in ashwagandha extract",
+      "summary": "Researchers developed chromatography methods to detect contamination with synthetic drugs like Sildenafil in Ashwagandha extracts.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352554123003315",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Ashwagandha receives predominantly positive feedback, especially for stress and anxiety reduction. Users appreciate its gentle, adaptogenic effects, though results can take several weeks to manifest."
+  },
+  "effects": [
+    {
+      "label": "Consistent for Anxiety:",
+      "description": "Strong evidence and user reports for reducing anxiety and stress."
+    },
+    {
+      "label": "Gradual Onset:",
+      "description": "Effects typically build over 4-8 weeks of consistent use."
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies; some users feel effects quickly, others need longer."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "300-600mg of root extract daily, standardized to withanolides."
+    },
+    {
+      "label": "KSM-66 Extract:",
+      "description": "Popular standardized extract, typically dosed at 300-600mg."
+    },
+    {
+      "label": "Timing:",
+      "description": "Can be taken morning or evening; evening may be better for sleep benefits."
+    },
+    {
+      "label": "With Food:",
+      "description": "Best absorbed when taken with meals."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Safe:",
+      "description": "Well-tolerated by most users with few side effects."
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report mild stomach upset, especially on empty stomach."
+    },
+    {
+      "label": "Drowsiness:",
+      "description": "Can cause tiredness in some individuals, especially at higher doses."
+    },
+    {
+      "label": "Thyroid Caution:",
+      "description": "May affect thyroid hormone levels; those with thyroid conditions should consult doctor."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold as a dietary supplement in most health stores and online."
+    },
+    {
+      "label": "Multiple Forms:",
+      "description": "Available as powder, capsules, and liquid extracts."
+    },
+    {
+      "label": "Brand Variations:",
+      "description": "KSM-66 and Sensoril are popular standardized extracts with clinical backing."
+    },
+    {
+      "label": "Affordable:",
+      "description": "Generally inexpensive compared to other nootropics."
+    }
+  ],
+  "related": [
+    {
+      "name": "HOLY BASIL (TULSI)",
+      "slug": "holy-basil-tulsi"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    },
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    },
+    {
+      "name": "KAVA",
+      "slug": "kava"
+    }
+  ]
+}

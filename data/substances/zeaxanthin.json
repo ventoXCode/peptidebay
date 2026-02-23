@@ -1,0 +1,167 @@
+{
+  "slug": "zeaxanthin",
+  "url": "https://dopamine.club/substances/zeaxanthin/",
+  "scrapedAt": "2026-02-12T16:13:11.642Z",
+  "title": "ZEAXANTHIN",
+  "description": "Zeaxanthin is a fat-soluble carotenoid antioxidant that, along with lutein, selectively accumulates in the macula of the eye where it forms macular pigment. It functions by filtering harmful blue light and providing antioxidant protection to retinal cells, helping to prevent age-related macular degeneration and supporting visual performance.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Lutein + zeaxanthin and omega-3 fatty acids for age-related macular degeneration: the Age-Related Eye Disease Study 2 (AREDS2) randomized clinical trial",
+      "summary": "Major clinical trial with over 4,000 participants showing that lutein and zeaxanthin supplementation reduced the risk of progression to advanced age-related macular degeneration when added to antioxidant formulations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23644932/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Long-term Outcomes of Adding Lutein/Zeaxanthin and ω-3 Fatty Acids to the AREDS Supplements on Age-Related Macular Degeneration Progression: AREDS2 Report 28",
+      "summary": "Ten-year follow-up of AREDS2 confirmed sustained benefits of lutein/zeaxanthin supplementation in slowing progression to late-stage AMD, particularly in patients at high risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35653117/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lutein and Zeaxanthin Supplementation Improves Dynamic Visual and Cognitive Performance in Children: A Randomized, Double-Blind, Parallel, Placebo-Controlled Study",
+      "summary": "Study of 60 children found that 10mg lutein and 2mg zeaxanthin daily for 180 days improved visual function, cognitive performance, and brain-derived neurotrophic factor levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38363462/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral Antioxidant and Lutein/Zeaxanthin Supplements Slow Geographic Atrophy Progression to the Fovea in Age-Related Macular Degeneration",
+      "summary": "Analysis of AREDS and AREDS2 data demonstrated that lutein/zeaxanthin supplementation significantly slowed the progression of geographic atrophy to the central vision area in AMD patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39025435/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Omega-3 fatty acid, carotenoid and vitamin E supplementation improves working memory in older adults: A randomised clinical trial",
+      "summary": "Randomized trial showed that combined supplementation with omega-3s, carotenoids including lutein and zeaxanthin, and vitamin E significantly improved working memory performance in older adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34999335/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Supplementation With Carotenoids, Omega-3 Fatty Acids, and Vitamin E Has a Positive Effect on the Symptoms and Progression of Alzheimer's Disease",
+      "summary": "12-month trial in Alzheimer's patients found that supplementation with carotenoids (including 10mg lutein and 2mg zeaxanthin) combined with omega-3s and vitamin E improved cognitive function and behavioral symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36093704/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary carotenoids and cognitive function among US adults, NHANES 2011-2014",
+      "summary": "Analysis of 2,700+ adults aged 60+ found associations between higher dietary intake of lutein and zeaxanthin and better performance on cognitive tests including memory and processing speed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30326796/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of an antioxidant supplement containing high dose lutein and zeaxanthin on macular pigment and skin carotenoid levels",
+      "summary": "Study of 20mg lutein and 4mg zeaxanthin daily for 16 weeks showed significant increases in macular pigment optical density and skin carotenoid levels, indicating successful tissue accumulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32581313/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lutein, zeaxanthin, and meso-zeaxanthin: The basic and clinical science underlying carotenoid-based nutritional interventions against ocular disease",
+      "summary": "Comprehensive review detailing how lutein and zeaxanthin protect the retina through blue light filtration and antioxidant effects, with evidence supporting their role in preventing age-related eye diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26541886/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potential roles of dietary zeaxanthin and lutein in macular health and function",
+      "summary": "Review establishing that lutein and zeaxanthin concentrate in the macula, provide oxidative defense, filter blue light, and can be quantified via macular pigment optical density measurements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36094616/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report positive experiences with lutein and zeaxanthin for eye health, particularly reduced eye strain, less dry eyes, and improved visual clarity. Many report noticeable benefits within weeks and recommend it as essential for screen-heavy lifestyles and aging eye health."
+  },
+  "effects": [
+    {
+      "label": "Preventive vs. Corrective:",
+      "description": "Research shows strong evidence for preventing age-related macular degeneration progression (up to 30% reduction), but limited ability to reverse existing vision problems like nearsightedness"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Users typically notice eye strain relief within 2-4 weeks, while macular pigment density changes require 6+ weeks; full protective benefits develop over months"
+    },
+    {
+      "label": "Screen Protection:",
+      "description": "Particularly effective for people with heavy computer and phone use, acting as 'internal sunglasses' by filtering blue-violet light around 450-460nm"
+    },
+    {
+      "label": "Combination Benefits:",
+      "description": "Most effective when combined with omega-3s and other antioxidants; synergistic effects noted in both research and user reports"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Ratio:",
+      "description": "Research consistently uses 10mg lutein + 2mg zeaxanthin (5:1 ratio), which users and researchers recommend maintaining for optimal benefits"
+    },
+    {
+      "label": "High Dose Protocol:",
+      "description": "Some users report success with 20mg lutein + 4mg zeaxanthin for more severe eye issues or heavier screen use"
+    },
+    {
+      "label": "Timing:",
+      "description": "Fat-soluble, so best taken with meals containing dietary fats for optimal absorption; daily consistency important for tissue accumulation"
+    },
+    {
+      "label": "Loading Period:",
+      "description": "Benefits accumulate over time as carotenoids deposit in the macula; 6-16 weeks needed to reach significant tissue levels"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Skin Pigmentation:",
+      "description": "High doses can cause yellow-orange skin tint, particularly noticeable with beta-carotene combination; generally harmless and reversible"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Very few users report negative side effects; considered one of the safest supplements with excellent tolerability"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users report no noticeable effects even at standard doses, possibly due to dietary intake or genetic factors affecting absorption"
+    },
+    {
+      "label": "Interaction Considerations:",
+      "description": "Generally safe to combine with other supplements; often stacked with astaxanthin, omega-3s, and vitamin E without issues"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Brands:",
+      "description": "Users frequently mention quality brands, quality brands, and various major retailers options as reliable, affordable sources"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Spinach, kale, and egg yolks provide natural lutein and zeaxanthin, with spinach being particularly rich (18mg per 100g raw)"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Supplements are expensive in some regions; users debate whether dietary intake from daily spinach consumption is sufficient versus supplementation"
+    }
+  ],
+  "related": [
+    {
+      "name": "FISETIN",
+      "slug": "fisetin"
+    },
+    {
+      "name": "KAEMPFEROL",
+      "slug": "kaempferol"
+    },
+    {
+      "name": "LUTEIN",
+      "slug": "lutein"
+    },
+    {
+      "name": "NADH",
+      "slug": "nadh"
+    },
+    {
+      "name": "NOBILETIN",
+      "slug": "nobiletin"
+    }
+  ]
+}

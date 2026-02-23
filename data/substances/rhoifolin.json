@@ -1,0 +1,161 @@
+{
+  "slug": "rhoifolin",
+  "url": "https://dopamine.club/substances/rhoifolin/",
+  "scrapedAt": "2026-02-12T16:11:02.715Z",
+  "title": "RHOIFOLIN",
+  "description": "Rhoifolin (apigenin-7-O-neohesperidoside) is a naturally occurring flavonoid glycoside found primarily in citrus fruits and plants like Teucrium polium and Plumula Nelumbinis. It works through multiple mechanisms including anti-inflammatory pathways (TLR4/NF-κB inhibition), antioxidant activity, and regulation of cellular processes like apoptosis and autophagy. Research shows potential benefits for cancer prevention, liver protection, inflammatory conditions, and cognitive health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Rhoifolin from Plumula Nelumbinis exhibits anti-cancer effects in pancreatic cancer via AKT/JNK signaling pathways",
+      "summary": "Rhoifolin demonstrated maximum inhibitory effect among tested flavonoids on pancreatic cancer cells, inhibiting proliferation and promoting apoptosis through AKT/JNK pathway modulation and TGF-β2/SMAD2 signaling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35383226/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rhoifolin Alleviates Alcoholic Liver Disease In Vivo and In Vitro via Inhibition of the TLR4/NF-κB Signaling Pathway",
+      "summary": "Rhoifolin showed hepatoprotective effects in alcoholic liver disease models by reducing liver pathological injury, lowering serum aminotransferase levels, and inhibiting inflammatory pathways through TLR4/NF-κB suppression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35645775/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ameliorative Effects of Rhoifolin in Scopolamine-Induced Amnesic Zebrafish Model",
+      "summary": "Rhoifolin demonstrated neuroprotective effects in zebrafish, improving anxiety and memory impairments induced by scopolamine while reducing oxidative stress in brain tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32635149/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rhoifolin Ameliorates Osteoarthritis via Regulating Autophagy",
+      "summary": "Rhoifolin significantly alleviated IL-1β-induced inflammatory responses, cartilage degradation, and autophagy dysfunction in rat chondrocytes, showing therapeutic potential for osteoarthritis through autophagy regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34122080/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exploring the Antioxidant and Anti-Inflammatory Effects of Rhoifolin Isolated from Teucrium Polium on Rats' Lungs Exposed to Tobacco Smoke",
+      "summary": "Rhoifolin treatment reduced cigarette smoke-induced lung inflammation and oxidative stress in rats, decreasing proinflammatory cytokines and protecting lung tissue from morphological changes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39001681/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rhoifolin ameliorates titanium particle-stimulated osteolysis and attenuates osteoclastogenesis via RANKL-induced NF-κB and MAPK pathways",
+      "summary": "Rhoifolin inhibited osteoclastogenesis and reduced titanium particle-induced bone loss through suppression of NF-κB and MAPK signaling pathways, showing promise for preventing prosthetic loosening.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30854667/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitigative potential of rhoifolin against cisplatin prompted testicular toxicity",
+      "summary": "Rhoifolin supplementation (20 mg/kg) protected against cisplatin-induced testicular damage in rats by improving biochemical markers, reducing inflammation, and maintaining spermatogenic and hormonal function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37915485/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Citrus rhoifolin alleviated DSS-induced acute colitis by activating CEMIP/SLC7A11-mediated cystine uptake and inhibiting epithelial ferroptosis",
+      "summary": "Rhoifolin alleviated ulcerative colitis symptoms by inhibiting ferroptosis in intestinal epithelial cells through activation of CEMIP/SLC7A11-mediated cystine uptake and reduction of reactive oxygen species.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39570404/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rhoifolin protects cecal ligation and puncture induced sepsis mice model by regulating inflammatory pathway",
+      "summary": "Rhoifolin (20-40 mg/kg) improved survival rate and food intake in septic mice, reduced liver function enzymes and cytokines, and decreased oxidative stress in lung tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37059211/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 15,
+    "summary": "No Reddit user experiences were found specifically discussing rhoifolin supplementation. The available user data focuses on other supplements like creatine, magnesium, NAC, and AG1 greens powders, with no mention of rhoifolin in any posts or comments."
+  },
+  "effects": [
+    {
+      "label": "Cancer Research:",
+      "description": "Demonstrated anti-proliferative effects in pancreatic, hepatocellular, and breast cancer cell lines in vitro and in vivo studies"
+    },
+    {
+      "label": "Inflammatory Conditions:",
+      "description": "Effective in animal models of colitis, sepsis, arthritis, and cigarette smoke-induced lung inflammation"
+    },
+    {
+      "label": "Liver Protection:",
+      "description": "Shows significant hepatoprotective effects in alcoholic liver disease and autoimmune hepatitis models"
+    },
+    {
+      "label": "Cognitive Effects:",
+      "description": "Improved memory and reduced anxiety in scopolamine-induced amnesia models, suggesting neuroprotective potential"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Animal Studies:",
+      "description": "Typical doses range from 20-40 mg/kg in rodent models for systemic effects"
+    },
+    {
+      "label": "In Vitro Concentrations:",
+      "description": "Cell culture studies use varying concentrations depending on target effect and cell type"
+    },
+    {
+      "label": "Human Dosing:",
+      "description": "No established human clinical dosing guidelines available from current research"
+    },
+    {
+      "label": "Duration:",
+      "description": "Animal studies typically run 1-9 weeks, with some showing benefits within days"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Safety Data:",
+      "description": "Human safety profile not well-established due to lack of clinical trials"
+    },
+    {
+      "label": "Theoretical Concerns:",
+      "description": "As a bioactive flavonoid, may interact with medications metabolized through similar pathways"
+    },
+    {
+      "label": "Tolerance:",
+      "description": "Animal studies at tested doses show good tolerance with minimal adverse effects reported"
+    },
+    {
+      "label": "Long-term Effects:",
+      "description": "No long-term human safety data available; animal studies suggest good safety profile"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Found in citrus fruits (especially grapefruit), Teucrium polium, and other plant species"
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "Primarily available as isolated compound for research purposes, not widely sold as dietary supplement"
+    },
+    {
+      "label": "Clinical Access:",
+      "description": "Not approved as pharmaceutical or widely marketed supplement; availability limited to research settings"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    }
+  ]
+}

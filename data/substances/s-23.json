@@ -1,0 +1,131 @@
+{
+  "slug": "s-23",
+  "url": "https://dopamine.club/substances/s-23/",
+  "scrapedAt": "2026-02-12T16:11:05.122Z",
+  "title": "S-23",
+  "description": "S-23 is a selective androgen receptor modulator (SARM) developed as an experimental male hormonal contraceptive but never approved for therapeutic use. It binds to androgen receptors with high selectivity and has been investigated in animal models for potential anabolic effects. S-23 is not available as a legitimate pharmaceutical or dietary supplement but is sold through unregulated online channels and has been detected in multiple doping cases.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "Detection of the selective androgen receptor modulator S-23 and its metabolites in equine urine and plasma following oral administration",
+      "summary": "Study identified S-23 and seven phase I metabolites in equine samples after oral administration, establishing analytical targets for doping control in horses using liquid chromatography-mass spectrometry methods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38982651/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Investigations Into the Urinary Metabolite Elimination Profile of the Selective Androgen Receptor Modulator S-23 in Studies Mimicking Contaminated Product Ingestion for Doping Control Purposes",
+      "summary": "Human urinary elimination studies with microdoses (1-50 μg) of S-23 characterized metabolite profiles to help differentiate between inadvertent contamination exposure and intentional doping abuse.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40277337/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "In vitro characterization of S-23 metabolites produced by human liver microsomes, and subsequent application to urine after a controlled oral administration",
+      "summary": "First controlled human administration study (approximately 8 mg oral dose) identified S-23 metabolites using liver microsome incubations and advanced mass spectrometry techniques for detection in human urine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35182830/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Characterization of in vitro generated metabolites of the selective androgen receptor modulators S-22 and S-23 and in vivo comparison to post-administration canine urine specimens",
+      "summary": "Phase I and II metabolism of S-23 was characterized using hepatic enzymes and canine models to identify urinary metabolites for sports drug testing programs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20967890/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 25,
+    "summary": "User discussions consistently express concerns about S-23 being an unregulated, research-only compound associated with doping violations. The compound appears primarily in contexts of contaminated supplements and anti-doping research rather than positive user experiences, indicating it is not recommended for human consumption."
+  },
+  "effects": [
+    {
+      "label": "Research Status:",
+      "description": "Never approved for therapeutic use in humans and remains an investigational compound only"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Very limited controlled human studies exist, with most research focused on detection and metabolism rather than efficacy"
+    },
+    {
+      "label": "Animal Models Only:",
+      "description": "Therapeutic benefits demonstrated only in animal studies, not validated in human clinical trials"
+    },
+    {
+      "label": "Contamination Risk:",
+      "description": "Frequently found as an undeclared contaminant in dietary supplements purchased online"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Experimental Doses:",
+      "description": "Research studies used microdoses ranging from 1-50 μg for metabolite profiling"
+    },
+    {
+      "label": "Single Administration Study:",
+      "description": "One controlled study administered approximately 8 mg orally to characterize metabolites"
+    },
+    {
+      "label": "No Clinical Guidelines:",
+      "description": "No established safe or effective dosing protocols exist for human use"
+    },
+    {
+      "label": "Unregulated Products:",
+      "description": "Products sold online contain unknown and variable amounts with no quality control"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Unknown Safety Profile:",
+      "description": "Comprehensive side effect data in humans is not available due to lack of clinical trials"
+    },
+    {
+      "label": "Hormonal Disruption:",
+      "description": "Potential for significant endocrine system effects based on mechanism of action as contraceptive agent"
+    },
+    {
+      "label": "Contamination Exposure:",
+      "description": "Risk of unintentional exposure through tainted supplements leading to anti-doping violations"
+    },
+    {
+      "label": "Long-term Risks:",
+      "description": "Long-term safety completely unknown as compound has not undergone proper human safety testing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Not Approved:",
+      "description": "S-23 is not approved by any regulatory agency for human use and is not available as a legitimate pharmaceutical"
+    },
+    {
+      "label": "Illegal Sales:",
+      "description": "Sold through uncontrolled online websites as a research chemical or supplement product, often contaminating other supplements"
+    },
+    {
+      "label": "Prohibited Substance:",
+      "description": "Banned in competitive sports by anti-doping organizations worldwide since 2008"
+    }
+  ],
+  "related": [
+    {
+      "name": "AC-262536",
+      "slug": "ac-262536"
+    },
+    {
+      "name": "ACP-105",
+      "slug": "acp-105"
+    },
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "ARCARINE (ORM-11984)",
+      "slug": "arcarine-orm-11984"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    }
+  ]
+}

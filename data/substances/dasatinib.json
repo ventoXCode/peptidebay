@@ -1,0 +1,125 @@
+{
+  "slug": "dasatinib",
+  "url": "https://dopamine.club/substances/dasatinib/",
+  "scrapedAt": "2026-02-12T16:07:03.502Z",
+  "title": "DASATINIB",
+  "description": "Dasatinib is a potent second-generation tyrosine kinase inhibitor that targets BCR-ABL and Src family kinases. While primarily used as an antineoplastic agent for Philadelphia chromosome-positive leukemias, it is increasingly studied in longevity research as a senolytic due to its ability to selectively induce apoptosis in senescent cells.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Dasatinib and Quercetin as Senolytic Drugs Improve Fat Deposition and Exhibit Antifibrotic Effects in the Medaka Metabolic Dysfunction-Associated Steatotic Liver Disease Model",
+      "summary": "This study demonstrates that the combination of dasatinib and quercetin effectively removes senescent cells, reduces liver fat deposition, and provides anti-fibrotic benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39727647/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Emerging use of senolytics and senomorphics against aging and chronic diseases",
+      "summary": "A review of how dasatinib acts as a senolytic to eliminate cells in cycle arrest, potentially treating age-related disorders like atherosclerosis and type 2 diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32578904/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Real‐World Outcomes With Low‐Dose Dasatinib (50 mg) in Imatinib-Resistant Chronic Myeloid Leukemia",
+      "summary": "Research indicates that a lower dose of 50mg may maintain clinical efficacy while significantly improving the safety profile compared to the standard 100mg dose.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12784371/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Drugs induced pulmonary arterial hypertension",
+      "summary": "This paper identifies dasatinib as a known risk factor for developing severe pulmonary arterial hypertension, which is often reversible upon cessation of the drug.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23972547/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Apigenin on Pharmacokinetics of Dasatinib and Probable Interaction Mechanism",
+      "summary": "Study findings suggest that common flavonoids like apigenin can significantly alter the plasma concentration and bioavailability of dasatinib through metabolic interactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36838589/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users are highly optimistic about its powerful senolytic 'age-reversal' potential, but the community is deeply cautious due to its profile as a high-potency chemotherapy drug with serious systemic risks."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Action:",
+      "description": "Most effective as a longevity tool when combined with Quercetin (the D+Q protocol) to broaden the range of targeted senescent cells."
+    },
+    {
+      "label": "Intermittent Efficacy:",
+      "description": "Unlike daily supplements, it is frequently used in 'pulses' to clear cells without constant systemic exposure."
+    },
+    {
+      "label": "Disease Management:",
+      "description": "Highly effective for imatinib-resistant leukemia, showing deep molecular responses."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Senolytic Protocol:",
+      "description": "Common off-label longevity dosage is 100mg taken once weekly or for 2-3 consecutive days once a month."
+    },
+    {
+      "label": "Standard Clinical Dose:",
+      "description": "For leukemia, the approved dose is 100mg daily, though 50mg is increasingly studied for better tolerance."
+    },
+    {
+      "label": "Pulse Frequency:",
+      "description": "Longevity enthusiasts often debate between monthly vs. quarterly cycles to allow for healthy cell recovery."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Fluid Retention:",
+      "description": "Risk of pleural effusion (fluid around the lungs) and peripheral edema even at lower doses."
+    },
+    {
+      "label": "Hematologic Stress:",
+      "description": "Potential for myelosuppression, including temporary drops in white blood cell and platelet counts."
+    },
+    {
+      "label": "Pulmonary Hypertension:",
+      "description": "A rare but serious risk of increased blood pressure in the lung arteries."
+    },
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Nausea and hemorrhagic colitis have been reported in clinical settings."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Only:",
+      "description": "Heavily regulated as a chemotherapy agent, requiring strict medical supervision."
+    },
+    {
+      "label": "High Cost:",
+      "description": "Traditional pharmaceutical versions are extremely expensive, leading longevity users to seek specialized sourcing or clinical trials."
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

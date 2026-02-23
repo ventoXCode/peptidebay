@@ -1,0 +1,133 @@
+{
+  "slug": "glucosamine",
+  "url": "https://dopamine.club/substances/glucosamine/",
+  "scrapedAt": "2026-02-12T16:08:09.925Z",
+  "title": "GLUCOSAMINE",
+  "description": "Glucosamine is a natural amino sugar and a precursor for glycosaminoglycans, which are essential components of joint cartilage and synovial fluid. It works by stimulating the production of cartilage-building proteins and inhibiting inflammatory enzymes, primarily used to manage osteoarthritis and maintain joint structural integrity.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Efficacy and tolerability of an undenatured type II collagen supplement in modulating knee osteoarthritis symptoms: a multicenter randomized, double-blind, placebo-controlled study",
+      "summary": "This study found that while glucosamine and chondroitin provided some relief for knee osteoarthritis, undenatured type II collagen was significantly more effective at reducing pain and improving functional scores.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26822714/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Association of habitual glucosamine use with risk of cardiovascular disease: prospective study in UK Biobank",
+      "summary": "A large-scale prospective study suggesting that regular use of glucosamine supplements is associated with a lower risk of cardiovascular disease events and death.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31088786/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Liquid combination of hyaluronan, glucosamine, and chondroitin as a dietary supplement for knee osteoarthritis patients with moderate knee pain",
+      "summary": "Researchers demonstrated that a daily liquid supplement containing glucosamine significantly improved physical function and quality of life in patients with moderate knee pain over 8 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34622845/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glucosamine and Chondroitin Use in Relation to C-Reactive Protein Concentration: Results by Supplement Form, Formulation, and Dose",
+      "summary": "This study found that regular glucosamine use is associated with lower levels of C-reactive protein (CRP), indicating its potential role in reducing systemic inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33290138/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glucosamine sulfate for osteoarthritis",
+      "summary": "A clinical review highlighting that glucosamine sulfate may act as a chondroprotective agent, potentially reversing or stopping the progression of joint disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9606480/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users are largely divided; many athletes and elderly users report significant reductions in 'joint clicking' and chronic ache, while a substantial minority find it ineffective or experience mild digestive issues."
+  },
+  "effects": [
+    {
+      "label": "Delayed Onset:",
+      "description": "Most users and studies note that benefits typically take 4-8 weeks of consistent use to become noticeable."
+    },
+    {
+      "label": "Sulfate vs. HCl:",
+      "description": "Clinical consensus and user feedback suggest Glucosamine Sulfate is generally more effective than the Hydrochloride (HCl) version."
+    },
+    {
+      "label": "Synergistic Stacking:",
+      "description": "Effectiveness is notably higher when combined with Chondroitin or MSM rather than taken alone."
+    },
+    {
+      "label": "Moderate Pain Focus:",
+      "description": "It appears most effective for those with mild to moderate joint issues rather than severe, bone-on-bone arthritis."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "1500 mg per day is the most common and clinically validated dosage used in studies."
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Many users prefer taking 500 mg three times daily to maintain steady levels and minimize potential GI distress."
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users report success with a 'loading dose' of 2000-3000 mg for the first two weeks, though this is not standard medical advice."
+    },
+    {
+      "label": "Pet Weight-Based Dosing:",
+      "description": "In veterinary applications, doses are strictly scaled by body weight, often following a 20-30 mg/kg guideline."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Some users report bloating, gas, or mild nausea, especially when taken on an empty stomach."
+    },
+    {
+      "label": "Shellfish Allergy Risks:",
+      "description": "Traditional glucosamine is derived from shellfish; users with allergies must seek 'vegan' or 'biofermented' versions."
+    },
+    {
+      "label": "Asthma Warning:",
+      "description": "Rare reports suggest potential for asthma exacerbations in predisposed individuals."
+    },
+    {
+      "label": "Blood Sugar Impact:",
+      "description": "Occasional user concerns regarding insulin sensitivity, though clinical data on this remains inconclusive."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "Widely available globally as a dietary supplement in pharmacies, grocery stores, and online."
+    },
+    {
+      "label": "Sourcing Variety:",
+      "description": "Available in multiple forms, including shellfish-derived (chitosan) and biofermented (vegetarian) options."
+    }
+  ],
+  "related": [
+    {
+      "name": "CHONDROITIN",
+      "slug": "chondroitin"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "GAMMA-TOCOPHEROL",
+      "slug": "gamma-tocopherol"
+    },
+    {
+      "name": "OLEUROPEIN",
+      "slug": "oleuropein"
+    },
+    {
+      "name": "R-ALPHA LIPOIC ACID",
+      "slug": "r-alpha-lipoic-acid"
+    }
+  ]
+}

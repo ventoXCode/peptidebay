@@ -1,0 +1,125 @@
+{
+  "slug": "decapeptide-12",
+  "url": "https://dopamine.club/substances/decapeptide-12/",
+  "scrapedAt": "2026-02-12T16:07:04.266Z",
+  "title": "DECAPEPTIDE-12",
+  "description": "Decapeptide-12 is a synthetic oligopeptide designed as a potent tyrosinase inhibitor to address skin hyperpigmentation. It works by binding to the enzyme tyrosinase, preventing the overproduction of melanin without the cytotoxicity or irritation often associated with traditional treatments like hydroquinone.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Open-label evaluation of a novel skin brightening system containing 0.01% decapeptide-12 in combination with 20% buffered glycolic acid for the treatment of mild to moderate facial melasma",
+      "summary": "This 16-week study found that a 0.01% decapeptide-12 system reduced melasma severity by 60% and was well-tolerated in Hispanic female patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23839199/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Enhanced skin retention and permeation of a novel peptide via structural modification, chemical enhancement, and microneedles",
+      "summary": "Research indicated that decapeptide-12 is safer than hydroquinone and can reduce melanin content by over 50% after 16 weeks of twice-daily use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34242628/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Combined topical delivery and dermalinfusion of decapeptide-12 accelerates resolution of post-inflammatory hyperpigmentation in skin of color",
+      "summary": "Combining topical decapeptide-12 with dermalinfusion was found to safely accelerate the clearing of post-inflammatory hyperpigmentation in patients with skin of color.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24385124/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Open-label evaluation of the skin-brightening efficacy of a skin-brightening system using decapeptide-12",
+      "summary": "A clinical evaluation demonstrating the safety and efficacy of decapeptide-12 when used as part of a comprehensive skin-brightening regimen.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22401652/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A split-face, double-blind, randomized and placebo-controlled pilot evaluation of a novel oligopeptide for the treatment of recalcitrant melasma",
+      "summary": "Early pilot data showed decapeptide-12 significantly diminished the appearance of stubborn melasma by up to 50% over a 16-week period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19663110/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users and clinical data consistently report high satisfaction due to its effectiveness in brightening skin without the harsh irritation or 'ghosting' effects of traditional depigmenting agents."
+  },
+  "effects": [
+    {
+      "label": "High Efficacy:",
+      "description": "Shown to be up to 17 times more potent as a tyrosinase inhibitor than hydroquinone in laboratory settings."
+    },
+    {
+      "label": "Cumulative Results:",
+      "description": "Maximum benefits are typically observed after 12 to 16 weeks of consistent use."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Effectiveness is significantly improved when paired with chemical exfoliants like glycolic acid."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Concentration:",
+      "description": "Most clinical systems utilize a concentration of 0.01% decapeptide-12."
+    },
+    {
+      "label": "Frequency:",
+      "description": "Recommended for twice-daily topical application (morning and evening)."
+    },
+    {
+      "label": "Application:",
+      "description": "Often delivered via creams or specialized 'dermalinfusion' procedures for deeper penetration."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "High Tolerability:",
+      "description": "Notable for a lack of adverse events such as redness, itching, or peeling in clinical trials."
+    },
+    {
+      "label": "Non-Cytotoxic:",
+      "description": "Unlike hydroquinone, it does not damage or kill melanocytes, making it safer for long-term use."
+    },
+    {
+      "label": "Low Irritation:",
+      "description": "Generally suitable for sensitive skin or those who cannot tolerate standard bleaching agents."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Cosmetic Ingredient:",
+      "description": "Found in premium dermatological brightening systems and medical-grade skincare lines."
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Often sold as part of a multi-step kit including sunscreens and cleansers to maximize results."
+    },
+    {
+      "label": "Professional Use:",
+      "description": "Frequently administered or recommended by dermatologists for managing 'recalcitrant' pigmentation cases."
+    }
+  ],
+  "related": [
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "COLLAGEN PEPTIDES",
+      "slug": "collagen-peptides"
+    },
+    {
+      "name": "DSIP (Delta Sleep-Inducing Peptide)",
+      "slug": "dsip"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    }
+  ]
+}

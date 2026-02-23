@@ -1,0 +1,128 @@
+{
+  "slug": "citrulline",
+  "url": "https://dopamine.club/substances/citrulline/",
+  "scrapedAt": "2026-02-12T16:06:47.383Z",
+  "title": "CITRULLINE",
+  "description": "L-Citrulline is a nonessential amino acid that serves as a potent precursor to L-arginine, effectively increasing nitric oxide synthesis in the body. It is primarily used to enhance vasodilation, improve blood flow, and support cardiovascular health and exercise performance.",
+  "categories": [
+    "Amino Acid",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ergogenic effects of a 10-day L-citrulline supplementation on time to exhaustion and cardiorespiratory and metabolic responses in healthy individuals",
+      "summary": "A 10-day supplementation protocol of 100 mg/kg per day was found to improve time to exhaustion and oxygen uptake during high-intensity exercise in healthy adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39234567/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Citrulline Supplementation on Exercise Performance in Humans: A Review of the Current Literature",
+      "summary": "A comprehensive review indicating that citrulline supplementation can enhance high-intensity strength and power performance while reducing muscle soreness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31977835/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A critical review of citrulline malate supplementation and exercise performance",
+      "summary": "This review analyzes the specific benefits of the malate form in improving metabolic efficiency during resistance training and aerobic exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34419991/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral L-citrulline supplementation improves erection hardness in men with mild erectile dysfunction",
+      "summary": "Short-term supplementation was shown to be safe and psychologically well-accepted, significantly improving erection hardness scores in men with mild ED.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21195829/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users overwhelmingly recommend Citrulline for its reliable 'pump' in the gym and noticeable improvements in circulatory health and sexual function, though some caution is urged for those prone to viral outbreaks."
+  },
+  "effects": [
+    {
+      "label": "Exercise Performance:",
+      "description": "Highly effective for increasing 'pump' and time to exhaustion, particularly when taken as Citrulline Malate."
+    },
+    {
+      "label": "Erectile Quality:",
+      "description": "Frequently cited as a natural alternative or adjunct to ED medications like Cialis for improving hardness and sensitivity."
+    },
+    {
+      "label": "Circulatory Issues:",
+      "description": "Users report success using it to manage symptoms of Raynaud’s disease by forcing capillary perfusion."
+    },
+    {
+      "label": "Consistency:",
+      "description": "While some notice immediate effects on 'morning wood,' others suggest it takes daily use to reach full ergogenic potential."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Performance Dosing:",
+      "description": "6,000–8,000 mg of Citrulline Malate taken roughly 60 minutes before exercise is the standard for gym-goers."
+    },
+    {
+      "label": "Circulatory Health:",
+      "description": "2,000 mg taken three times daily (6,000 mg total) is often used for long-term blood pressure and erectile support."
+    },
+    {
+      "label": "Body-Weight Relative:",
+      "description": "Recent research suggests 100 mg per kg of body weight daily for 10 days to maximize time to exhaustion."
+    },
+    {
+      "label": "Minimalist Start:",
+      "description": "Beginners often start with 750mg to 1,500mg daily to assess tolerance and blood pressure response."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Herpes/Shingles Flare-ups:",
+      "description": "Arginine and Citrulline can fuel viral replication, leading to painful shingles or cold sore recurrences."
+    },
+    {
+      "label": "Hypotension:",
+      "description": "Large doses (3,000mg+) may cause a temporary drop in blood pressure, leading to lightheadedness or fatigue."
+    },
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Higher doses, particularly in malate form, can cause mild stomach upset or diarrhea in sensitive individuals."
+    },
+    {
+      "label": "Dental Health:",
+      "description": "Bulk powder forms are acidic and may be harmful to tooth enamel if not rinsed properly."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Bulk Powder:",
+      "description": "Users strongly prefer bulk powder for cost-effectiveness, as capsules typically contain insufficient doses for performance goals."
+    },
+    {
+      "label": "Form Comparison:",
+      "description": "Citrulline Malate (often 2:1 ratio) is preferred for exercise, while L-Citrulline is preferred for pure circulatory health."
+    }
+  ],
+  "related": [
+    {
+      "name": "ARGININE",
+      "slug": "arginine"
+    },
+    {
+      "name": "BCAAS",
+      "slug": "bcaas"
+    },
+    {
+      "name": "GLUTAMINE",
+      "slug": "glutamine"
+    },
+    {
+      "name": "L-CITRULLINE",
+      "slug": "l-citrulline"
+    },
+    {
+      "name": "GLYCINE",
+      "slug": "glycine"
+    }
+  ]
+}

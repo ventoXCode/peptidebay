@@ -1,0 +1,121 @@
+{
+  "slug": "igf-1",
+  "url": "https://dopamine.club/substances/igf-1/",
+  "scrapedAt": "2026-02-12T16:08:48.216Z",
+  "title": "IGF-1",
+  "description": "Insulin-like growth factor-1 (IGF-1) is a primary mediator of growth hormone (GH) that promotes cellular growth, differentiation, and anabolic effects in almost every tissue of the body. It plays a critical role in bone development and muscle hypertrophy by activating signaling pathways like mTOR and PI3K.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Supplementing With Which Form of Creatine (Hydrochloride or Monohydrate) Alongside Resistance Training Can Have More Impacts on Anabolic/Catabolic Hormones, Strength and Body Composition?",
+      "summary": "This study demonstrates that resistance training combined with creatine supplementation significantly increases serum IGF-1 levels, contributing to improved muscle mass and strength.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39545789/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Betaine supplement enhances skeletal muscle differentiation in murine myoblasts via IGF-1 signaling activation",
+      "summary": "Research indicates that betaine supplementation improves muscle fiber maturation and hypertrophy by increasing the expression of the IGF-1 receptor and activating its signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23870626/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The influence of arginine supplementation on IGF-1: A systematic review and meta-analysis",
+      "summary": "A meta-analysis exploring how arginine intake affects circulating IGF-1 levels, noting its role as a potential secretagogue for the growth hormone/IGF-1 axis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37202084/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Creatine Supplementation and Skeletal Muscle Metabolism for Building Muscle Mass- Review of the Potential Mechanisms of Action",
+      "summary": "This review highlights that creatine increases muscle mass partly by modulating the IGF-1/mTOR pathway, serving as a cellular stressor that triggers protein synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28595527/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The influence of vitamin D supplementation on IGF-1 levels in humans: A systematic review and meta-analysis",
+      "summary": "A large-scale analysis found that Vitamin D supplementation significantly increases circulating IGF-1 concentrations in humans, suggesting a synergistic relationship for bone and muscle health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31816443/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "While users highly value IGF-1 for its powerful muscle-building and recovery effects, there is a strong undercurrent of concern regarding its link to accelerated aging, hair loss, and potential cancer risk."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Boosters:",
+      "description": "Supplements like creatine, Vitamin D, and arginine are scientifically noted to naturally elevate circulating IGF-1 levels."
+    },
+    {
+      "label": "Gut Health Connection:",
+      "description": "Microbial metabolites like short-chain fatty acids (SCFAs) can stimulate liver production of IGF-1."
+    },
+    {
+      "label": "Hair Aging Paradox:",
+      "description": "High levels of IGF-1 in the skin may paradoxically speed up hair follicle aging and graying despite its growth-promoting reputation."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Natural Support:",
+      "description": "Users often stack Vitamin D (2000-5000 IU) and Creatine (3-5g) to maximize endogenous production."
+    },
+    {
+      "label": "Colostrum Supplementation:",
+      "description": "Some users report benefits for gut and muscle health using 400mg to 5g of colostrum daily as a source of growth factors."
+    },
+    {
+      "label": "Ketogenic Regulation:",
+      "description": "For those with excessively high levels, a ketogenic diet or fasting is frequently suggested to lower insulin-driven IGF-1."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Dermatological Issues:",
+      "description": "Elevated IGF-1 is strongly linked to acne breakouts (zits) through the stimulation of sebaceous glands."
+    },
+    {
+      "label": "Cancer Risk:",
+      "description": "Concerns exist regarding the potential for high IGF-1 levels to accelerate the growth of existing solid malignancies, such as prostate cancer."
+    },
+    {
+      "label": "Insulin Sensitivity:",
+      "description": "Chronic pharmacological elevation (via HGH or peptides) can negatively impact glucose metabolism and lead to pre-diabetic states."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Peptide Market:",
+      "description": "Users often source IGF-1 or its secretagogues (CJC-1295, Ipamorelin) through 'grey market' research chemical sources due to limited medical prescriptions."
+    },
+    {
+      "label": "Diagnostic Monitoring:",
+      "description": "Advanced health panels (like Function or Superpower) are commonly used by biohackers to monitor IGF-1 levels because standard doctors may not test it without specific symptoms."
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BORON",
+      "slug": "boron"
+    },
+    {
+      "name": "CALCIUM ALPHA-KETOGLUTARATE",
+      "slug": "calcium-alpha-ketoglutarate"
+    }
+  ]
+}

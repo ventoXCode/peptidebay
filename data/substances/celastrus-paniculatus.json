@@ -1,0 +1,142 @@
+{
+  "slug": "celastrus-paniculatus",
+  "url": "https://dopamine.club/substances/celastrus-paniculatus/",
+  "scrapedAt": "2026-02-12T16:06:28.215Z",
+  "title": "CELASTRUS PANICULATUS",
+  "description": "Celastrus paniculatus, known as the 'Intellect Tree,' is a climbing shrub used in Ayurvedic medicine to enhance cognitive function and treat neurological disorders. It works by modulating central monoamine turnover (norepinephrine, dopamine, and serotonin) and inhibiting acetylcholinesterase, while providing potent neuroprotective and antioxidant effects.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Celastrus paniculatus seed extract exhibits neuroprotective effects against MPP(+)-induced apoptotic cell death via GSK-3β in a Parkinson's disease model",
+      "summary": "This study demonstrated that Celastrus seed extract protects neurons from cell death and oxidative stress by targeting specific apoptotic pathways, suggesting potential in treating Parkinson's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38357231/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective effect of Celastrus paniculatus on chronic stress-induced cognitive impairment",
+      "summary": "Researchers found that Celastrus oil reverses spatial learning and memory deficits caused by chronic stress while reducing anxiety-like behavior in animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28066108/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nootropic activity of Celastrus paniculatus seed",
+      "summary": "The aqueous extract shown dose-dependent memory improvement by reducing acetylcholinesterase activity, effectively acting as a natural cognitive enhancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20645820/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Amelioration of modified chronic unpredictable stress using Celastrus paniculatus seed oil alone and in combination with fluoxetine",
+      "summary": "The oil showed significant antidepressant and anti-anxiety effects, and enhanced the efficacy of the antidepressant fluoxetine when used in combination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35943180/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Celastrus paniculatus on passive avoidance performance and biogenic amine turnover in albino rats",
+      "summary": "This foundational study found that Celastrus oil significantly improves memory retention by altering the levels of norepinephrine, dopamine, and serotonin in the brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7500635/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gastroprotective and Antiulcer Effects of Celastrus paniculatus seed oil against several gastric ulcer models in rats",
+      "summary": "Evidence suggests the seed oil provides significant protection against gastric ulcers and reduces stomach acid secretion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28816560/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hypolipidemic Effect of Celastrus paniculatus in Experimentally Induced Hypercholesterolemic Wistar Rats",
+      "summary": "The methanolic extract was shown to significantly reduce total cholesterol and LDL levels while increasing beneficial HDL cholesterol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21966115/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users generally regard it as a potent Ayurvedic 'brain tonic' and a mainstay in advanced nootropic stacks for intensive cognitive work, though its potency requires careful balancing."
+  },
+  "effects": [
+    {
+      "label": "Stack Synergy:",
+      "description": "Highly effective when combined with other nootropics like Modafinil or Huperzine, though it may overwhelm some users if not carefully titrated."
+    },
+    {
+      "label": "Dose-Dependent Cholinergic Action:",
+      "description": "Its memory-enhancing effects correlate strongly with its ability to inhibit acetylcholinesterase."
+    },
+    {
+      "label": "Stress Reversal:",
+      "description": "Proven effective in reversing the actual cognitive deficits and biochemical markers caused by chronic unpredictable stress."
+    },
+    {
+      "label": "Broad Biological Utility:",
+      "description": "Beyond the brain, it shows measurable effectiveness in lowering lipids and protecting the stomach lining."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Animal Study Equivalence:",
+      "description": "Effective dosages in rat studies range from 65 mg/kg (methanolic extract) to 400-600 mg/kg (seed oil)."
+    },
+    {
+      "label": "Human Extract Variation:",
+      "description": "Often used as 'Jyotishmati' oil or standardized seed extracts; users recommend starting low to assess tolerance due to its potency."
+    },
+    {
+      "label": "Combination Dosing:",
+      "description": "When used with SSRIs like fluoxetine, lower doses (50 mg/kg in mice) still showed synergistic benefits for mood and cognition."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Reversible Liver Changes:",
+      "description": "High doses in animal studies showed focal necrosis in the liver, though these changes were found to be completely reversible after treatment stopped."
+    },
+    {
+      "label": "Antispermatogenic Effects:",
+      "description": "Potential for temporary germ cell depletion and arrest of spermatogenesis, suggesting use as a reversible antifertility agent."
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "Risk of becoming 'manic' if used excessively without grounding practices, according to traditional and user accounts."
+    },
+    {
+      "label": "Gastrointestinal Activity:",
+      "description": "While it can protect the stomach, its laxative and emetic properties at high doses are noted in traditional texts."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Ayurvedic Sourcing:",
+      "description": "Widely available as 'Malkanguni' or 'Jyotishmati' oil through traditional herbal suppliers and specialized nootropic vendors."
+    },
+    {
+      "label": "Extract Types:",
+      "description": "sold in various forms including raw seeds, seed oil (cold-pressed), and aqueous or methanolic extracts, which differ significantly in potency."
+    }
+  ],
+  "related": [
+    {
+      "name": "CLITORIA TERNATEA",
+      "slug": "clitoria-ternatea"
+    },
+    {
+      "name": "CONVOLVULUS PLURICAULIS",
+      "slug": "convolvulus-pluricaulis"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    },
+    {
+      "name": "GOTU KOLA",
+      "slug": "gotu-kola"
+    },
+    {
+      "name": "GUARANA",
+      "slug": "guarana"
+    }
+  ]
+}

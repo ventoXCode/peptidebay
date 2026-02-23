@@ -1,0 +1,127 @@
+{
+  "slug": "pyruvic-acid",
+  "url": "https://dopamine.club/substances/pyruvic-acid/",
+  "scrapedAt": "2026-02-12T16:10:52.157Z",
+  "title": "PYRUVIC ACID",
+  "description": "Pyruvic acid (pyruvate) is a three-carbon alpha-keto acid that serves as a key metabolite in cellular energy production through glycolysis and the citric acid cycle. It acts as an intersection point between carbohydrate, fat, and protein metabolism, and supplementation has been studied primarily for weight loss, antioxidant effects, and metabolic support. Available as sodium pyruvate or ethyl pyruvate, it is marketed as both a fat loss aid and exercise performance enhancer.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pyruvate supplementation for weight loss: a systematic review and meta-analysis of randomized clinical trials",
+      "summary": "Systematic review found that pyruvate supplementation may assist in weight reduction, though the magnitude of effect was modest and more well-controlled studies are needed to establish clinical efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24188231/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of pyruvate supplementation on body composition in overweight individuals",
+      "summary": "Six-week double-blind study of 6g daily pyruvate supplementation in overweight individuals showed potential effects on body weight and composition, though results were limited to this specific population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10355844/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Current knowledge about pyruvate supplementation: A brief review",
+      "summary": "Comprehensive review concluded that despite promising early results, well-controlled studies in physically active people show pyruvate supplementation lasting more than one week has no ergogenic effects, though it may have other metabolic benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39309457/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exogenous Pyruvate in Defense Against Human-Exposure Toxicants: A Review of In Vitro and In Vivo Evidence",
+      "summary": "Review of cell and animal studies demonstrates that exogenous pyruvate compounds exert cytoprotective effects primarily through neutralization of reactive oxygen species and anti-inflammatory mechanisms during exposure to various toxicants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40943235/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative, with most evidence suggesting pyruvate supplementation provides minimal to no noticeable benefits for weight loss or performance enhancement. The scientific consensus indicates early promising results were not replicated in well-controlled studies, particularly for athletic performance after one week of use."
+  },
+  "effects": [
+    {
+      "label": "Limited Clinical Evidence:",
+      "description": "Despite early promising results, later well-controlled human studies failed to demonstrate significant benefits for exercise performance or body composition"
+    },
+    {
+      "label": "Minimal User Reports:",
+      "description": "Pyruvate is rarely mentioned in user discussions of effective supplements, suggesting low real-world adoption and perceived efficacy"
+    },
+    {
+      "label": "Dose-Response Uncertain:",
+      "description": "Studies used 6g daily, but optimal dosing and duration remain unclear with conflicting results"
+    },
+    {
+      "label": "Population-Specific:",
+      "description": "Any potential benefits appear limited to specific populations (overweight individuals) rather than general use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Research Dose:",
+      "description": "6 grams daily was used in most clinical trials examining weight loss and body composition"
+    },
+    {
+      "label": "Divided Dosing:",
+      "description": "Some studies split doses throughout the day, though optimal timing is not established"
+    },
+    {
+      "label": "Duration Matters:",
+      "description": "Studies suggest effects, if any, may diminish after one week of continuous supplementation"
+    },
+    {
+      "label": "Forms Available:",
+      "description": "Typically supplemented as sodium pyruvate or calcium pyruvate, with sodium pyruvate being most common"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "High doses may cause digestive discomfort, though specific side effects are rarely documented in research"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Long-term safety data is lacking, with most studies being short duration (weeks to months)"
+    },
+    {
+      "label": "No Major Concerns:",
+      "description": "Available evidence suggests pyruvate supplementation at studied doses is generally well-tolerated"
+    },
+    {
+      "label": "Interaction Unknown:",
+      "description": "Potential interactions with medications or other supplements are not well-studied"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercially Available:",
+      "description": "Sold as sodium pyruvate or calcium pyruvate supplements, though less common than other weight loss aids"
+    },
+    {
+      "label": "Low Market Presence:",
+      "description": "Rarely discussed in supplement communities compared to more popular metabolic or performance supplements, suggesting limited consumer adoption"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "MALIC ACID",
+      "slug": "malic-acid"
+    },
+    {
+      "name": "R-ALPHA LIPOIC ACID",
+      "slug": "r-alpha-lipoic-acid"
+    },
+    {
+      "name": "VITAMIN B5 (PANTOTHENIC ACID)",
+      "slug": "vitamin-b5-pantothenic-acid"
+    },
+    {
+      "name": "IRISIN",
+      "slug": "irisin"
+    }
+  ]
+}

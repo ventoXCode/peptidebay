@@ -1,0 +1,108 @@
+{
+  "slug": "cardarine",
+  "url": "https://dopamine.club/substances/cardarine/",
+  "scrapedAt": "2026-02-12T16:06:21.465Z",
+  "title": "CARDARINE",
+  "description": "Cardarine (GW501516) is a synthetic PPARδ receptor agonist originally developed to treat metabolic and cardiovascular diseases. It functions by switching the body's energy metabolism from glucose to fatty acids, significantly enhancing oxidative capacity and physical endurance.",
+  "categories": [
+    "SARM",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "GW501516 (Cardarine): Pharmacological and Clinical Effects",
+      "summary": "This review highlights how Cardarine stimulates mitochondrial function and fatty acid oxidation, improving endurance and metabolic health while noting controversies regarding cancer risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37520022/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A metabolomic study of the PPARδ agonist GW501516 for enhancing running endurance in Kunming mice",
+      "summary": "Research demonstrates that Cardarine increases running endurance by promoting specific consumption of fatty acids and reducing glucose utilization, independent of exercise training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25943483/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Users highly praise Cardarine for its 'miraculous' effects on cardiovascular endurance and fat loss, but the community is deeply divided due to well-known animal study data linking it to rapid cancer development."
+  },
+  "effects": [
+    {
+      "label": "Performance:",
+      "description": "Extremely effective for aerobic performance; often referred to as 'exercise in a pill' for its ability to mimic training effects."
+    },
+    {
+      "label": "Recomping:",
+      "description": "Highly effective at preserving muscle tissue while in a caloric deficit when stacked with other compounds like Ostarine."
+    },
+    {
+      "label": "Fast-Acting:",
+      "description": "Many users report noticing the endurance benefits within the first few days of administration."
+    },
+    {
+      "label": "Metabolic Switch:",
+      "description": "Shows promise in helping users transition into ketosis faster by mimicking the fat-burning state."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "10mg per day is the most commonly cited starting dose for fat loss and health benefits."
+    },
+    {
+      "label": "Performance Dose:",
+      "description": "20mg per day is frequently used by athletes to maximize endurance gains during intense training cycles."
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Users typically recommend cycles of 8 to 12 weeks followed by an equal time off to mitigate potential long-term risks."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Carcinogenic Risk:",
+      "description": "The primary concern is the potential for accelerated tumor growth, based on early animal studies that halted clinical development."
+    },
+    {
+      "label": "Sleep Disturbance:",
+      "description": "Some users report increased energy leading to difficulties falling asleep if taken too late in the day."
+    },
+    {
+      "label": "Liver Strain:",
+      "description": "While less hepatotoxic than oral steroids, users often include liver support like NAC when stacking Cardarine."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Only:",
+      "description": "Cardarine is not FDA-approved for human use and is sold as a 'research chemical,' meaning it is not intended for human consumption."
+    },
+    {
+      "label": "WADA Status:",
+      "description": "Categorized as a S4 Hormone and Metabolic Modulator; it is strictly banned in all competitive sports and tested for frequently."
+    }
+  ],
+  "related": [
+    {
+      "name": "5-AMINO-1MQ",
+      "slug": "5-amino-1mq"
+    },
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "GUARANA",
+      "slug": "guarana"
+    },
+    {
+      "name": "GW0742",
+      "slug": "gw0742"
+    },
+    {
+      "name": "IRISIN",
+      "slug": "irisin"
+    }
+  ]
+}

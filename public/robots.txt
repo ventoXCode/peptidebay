@@ -1,0 +1,11 @@
+# PeptideBay Robots.txt
+# https://peptidebay.shop
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://peptidebay.shop/sitemap-index.xml
+
+# Disallow admin/internal paths (none currently)
+# Disallow: /admin/

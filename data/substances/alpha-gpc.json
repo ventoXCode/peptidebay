@@ -1,0 +1,155 @@
+{
+  "slug": "alpha-gpc",
+  "url": "https://dopamine.club/substances/alpha-gpc/",
+  "scrapedAt": "2026-02-12T16:05:36.989Z",
+  "title": "ALPHA-GPC",
+  "description": "Alpha-GPC (L-alpha-glycerylphosphorylcholine) is a choline-containing compound that serves as a precursor to acetylcholine, a neurotransmitter critical for memory and cognitive function. With 41% choline content by weight and the ability to cross the blood-brain barrier, it is used to support cognitive function, memory enhancement, and neuroprotection in conditions ranging from mild cognitive impairment to Alzheimer's disease. It is available as both a prescription medicine and dietary supplement, depending on the country.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Activity of Choline Alphoscerate on Adult-Onset Cognitive Dysfunctions: A Systematic Review and Meta-Analysis",
+      "summary": "Systematic review of randomized controlled trials found that alpha-GPC effectively improves cognitive impairment in patients with adult-onset neurological disorders, supporting its use for treating cognitive decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36683513/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Choline supplements: An update",
+      "summary": "Comprehensive review showing that choline supplements including alpha-GPC represent an effective strategy for boosting memory and enhancing cognitive function as acetylcholine precursors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36950691/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Late treatment with choline alfoscerate increases hippocampal neurogenesis and provides protection against seizure-induced neuronal death and cognitive impairment",
+      "summary": "Animal study demonstrated that alpha-GPC increases hippocampal neurogenesis and provides neuroprotection against seizure-induced damage while improving cognitive function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27765578/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Treatment with soybean lecithin-derived α-GPC improves scopolamine-induced cognitive declines in mice via regulating cholinergic neurotransmission",
+      "summary": "Study found that alpha-GPC improved cognitive deficits in mice by regulating cholinergic neurotransmission and enhancing neural plasticity in the hippocampus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39765138/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Choline Containing Phospholipids on the Neurovascular Unit: A Review",
+      "summary": "Review examining how choline-containing phospholipids including alpha-GPC contribute to maintaining neurovascular unit integrity and blood-brain barrier function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36212684/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Molecular mechanisms mediating the effects of L-alpha-glycerylphosphorylcholine on behavioral and biochemical parameters in young and aged rats",
+      "summary": "Research showed alpha-GPC reverses scopolamine-induced amnesia and improves performance in behavioral tasks in both young and aged animals through enhanced phosphatidylinositol signaling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1409797/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Choline Alphoscerate: A Therapeutic Option for the Management of Subthreshold Depression in the Older Population",
+      "summary": "Review highlighting alpha-GPC as a treatment option for subthreshold depression in elderly patients, addressing both cognitive and mood symptoms without traditional antidepressant side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40126282/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of egg yolk choline intake on cognitive functions and plasma choline levels in healthy middle-aged and older Japanese",
+      "summary": "Randomized controlled trial showing that 300mg daily egg yolk choline (containing alpha-GPC, PC, and LPC) improved cognitive functions in healthy middle-aged and older adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37340479/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with Alpha-GPC, particularly noting enhanced focus, mental clarity, and motivation. While some concerns exist about cardiovascular effects from one study and occasional reports of diminishing effectiveness over time, the majority of users find it beneficial for cognitive enhancement, especially when combined with other nootropics."
+  },
+  "effects": [
+    {
+      "label": "Rapid Onset:",
+      "description": "Many users report feeling effects within days to weeks, with some experiencing benefits even when dietary choline intake seems adequate from eggs"
+    },
+    {
+      "label": "Works Well in Stacks:",
+      "description": "Commonly paired with other nootropics like L-theanine, creatine, caffeine, racetams, and Lion's Mane for synergistic cognitive benefits"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness varies significantly between users, with some experiencing dramatic improvements while others notice minimal effects or require cycling"
+    },
+    {
+      "label": "May Address Deficiencies:",
+      "description": "Appears particularly effective for those with PEMT gene mutations or underlying choline deficiencies, even if dietary intake seems adequate"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "300-600mg is the most commonly recommended range, with many users taking 300mg daily for cognitive enhancement"
+    },
+    {
+      "label": "Pre-Workout Use:",
+      "description": "300-600mg taken before workouts or work sessions is mentioned by Andrew Huberman and users for improved focus and performance"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Some users cycle 5 days on/2 days off or 4 weeks on/2 weeks off to prevent tolerance and mitigate potential cardiovascular concerns"
+    },
+    {
+      "label": "Start Low:",
+      "description": "New users are advised to start with lower doses (150-300mg) to assess tolerance before increasing"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cardiovascular Concerns:",
+      "description": "One study showed 46% increased stroke risk in people over 50, leading some users to avoid or cycle the supplement carefully with aspirin"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Some long-term users report that after 12-18 months of daily use, effects dramatically diminish or reverse, causing depression and anxiety"
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "When combined with other stimulants or cholinergics, some users experience uncomfortable stimulation, anxiety, or feeling 'too wired'"
+    },
+    {
+      "label": "TMAO Production:",
+      "description": "Alpha-GPC can increase TMAO levels which may contribute to cardiovascular risks, though phosphatidylcholine may be a safer alternative"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Alpha-GPC is readily available as a dietary supplement from various brands, though quality varies significantly between manufacturers"
+    },
+    {
+      "label": "Prescription vs Supplement:",
+      "description": "In some countries it is available as a prescription medicine, while in others (US, Canada, China as of 2024) it is approved as a food supplement or new food resource"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users recommend choosing reputable brands and verifying enantio-purity, as the L-form is the active isomer and manufacturing quality matters"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    },
+    {
+      "name": "CEREBROPROTEIN HYDROLYSATE",
+      "slug": "cerebroprotein-hydrolysate"
+    }
+  ]
+}

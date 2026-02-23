@@ -1,0 +1,131 @@
+{
+  "slug": "d-chiro-inositol",
+  "url": "https://dopamine.club/substances/d-chiro-inositol/",
+  "scrapedAt": "2026-02-12T16:07:01.028Z",
+  "title": "D-CHIRO-INOSITOL",
+  "description": "D-chiro-inositol (DCI) is a naturally occurring stereoisomer of inositol that functions as a secondary messenger in insulin signaling pathways. It works by improving insulin sensitivity and glucose metabolism, primarily through replenishment of insulin-mediating phosphoglycans. DCI is most commonly used to manage polycystic ovary syndrome (PCOS), where it helps restore ovulatory function, reduce androgen levels, and improve metabolic parameters.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ovulatory and Metabolic Effects of d-Chiro-Inositol in the Polycystic Ovary Syndrome",
+      "summary": "In 44 obese women with PCOS, 1200mg daily of DCI significantly improved insulin sensitivity, reduced free testosterone by 54%, lowered blood pressure and triglycerides, and restored ovulation in 86% of women compared to 27% in placebo group.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10330404/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative efficacy of combined myo-inositol and D-chiro inositol versus metformin across PCOS Phenotypes",
+      "summary": "A 12-week trial showed that MI+DCI combination (40:1 ratio) significantly improved insulin sensitivity, SHBG levels, ovarian volume, menstrual regularity, BMI, quality of life, and stress scores in PCOS patients, with comparable efficacy to metformin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39846371/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "D-Chiro-inositol and its significance in polycystic ovary syndrome: a systematic review",
+      "summary": "This systematic review consolidates evidence showing DCI's role in improving insulin resistance, hormonal profiles, and ovulatory function in PCOS patients through its action as an insulin mediator.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21142777/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of myo-inositol and d-chiro-inositol combination on menstrual cycle regulation and improving insulin resistance in young women with polycystic ovary syndrome",
+      "summary": "Randomized controlled trial demonstrated that MI+DCI combination effectively regulated menstrual cycles and improved insulin resistance in young women with PCOS.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34624138/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users with PCOS report significant improvements in menstrual regularity, ovulation, insulin sensitivity, and hormonal balance. Most users recommend it as a first-line treatment for PCOS symptoms, particularly when combined with myo-inositol at the 40:1 ratio."
+  },
+  "effects": [
+    {
+      "label": "PCOS Management:",
+      "description": "Highly effective for managing PCOS symptoms, with comparable or superior results to metformin in some studies, particularly for phenotypes C and D"
+    },
+    {
+      "label": "Insulin Sensitivity:",
+      "description": "Produces dramatic improvements in insulin action, with plasma insulin curves decreasing by over 60% in clinical trials"
+    },
+    {
+      "label": "Phenotype-Specific Response:",
+      "description": "May be particularly effective for certain PCOS phenotypes, especially those without severe metabolic dysfunction"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Works best when combined with myo-inositol at 40:1 ratio (MI:DCI), providing synergistic benefits for both metabolic and reproductive outcomes"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most clinical trials used 1200mg daily of DCI alone, showing significant therapeutic effects at this dosage"
+    },
+    {
+      "label": "Combination Ratio:",
+      "description": "When combined with myo-inositol, optimal ratio is 40:1 (MI:DCI), which mirrors the physiological ratio in human tissues"
+    },
+    {
+      "label": "Duration:",
+      "description": "Treatment periods of 6-12 weeks show measurable improvements, with continued benefits observed with ongoing supplementation"
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Some users report better tolerance and efficacy when splitting daily dose into two administrations"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Clinical trials report minimal adverse effects, with most patients completing full treatment courses without issues"
+    },
+    {
+      "label": "Gastrointestinal Symptoms:",
+      "description": "Some users may experience mild digestive upset, particularly when initiating therapy or at higher doses"
+    },
+    {
+      "label": "Ovarian Response:",
+      "description": "In rare cases, excessive DCI supplementation may negatively impact oocyte quality; maintaining proper MI:DCI ratio is important"
+    },
+    {
+      "label": "Hypoglycemia Risk:",
+      "description": "Improved insulin sensitivity may require adjustment of diabetic medications to prevent low blood sugar in susceptible individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "DCI is readily available as a dietary supplement both standalone and in combination formulas with myo-inositol"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "40:1 MI:DCI ratio products are specifically formulated for PCOS and are preferred over standalone DCI for most users"
+    },
+    {
+      "label": "Prescription Status:",
+      "description": "Available over-the-counter as a nutritional supplement in most countries, though some practitioners may recommend specific pharmaceutical-grade formulations"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHROMIUM PICOLINATE",
+      "slug": "chromium-picolinate"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "chromium-picolinate",
+  "url": "https://dopamine.club/substances/chromium-picolinate/",
+  "scrapedAt": "2026-02-12T16:06:44.002Z",
+  "title": "CHROMIUM PICOLINATE",
+  "description": "Chromium picolinate is a chemical compound consisting of trivalent chromium and picolinic acid, designed to improve the bioavailability of this essential trace mineral. It functions by potentiating the action of insulin, thereby playing a critical role in the metabolism of carbohydrates, lipids, and proteins.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A double-blind, placebo-controlled, exploratory trial of chromium picolinate in atypical depression: effect on carbohydrate craving",
+      "summary": "This study found that chromium picolinate may significantly reduce carbohydrate cravings and improve symptoms in patients suffering from atypical depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16184071/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chromium Picolinate Intake and Risk of Type 2 Diabetes: an Evidence-Based Review by the United States Food and Drug Administration",
+      "summary": "An FDA review concluded there is limited and uncertain evidence that chromium picolinate may reduce the risk of insulin resistance and type 2 diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16875454/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users frequently report success in curbing sugar cravings and managing 'emotional eating,' though many question its significant impact on actual fat loss without diet changes."
+  },
+  "effects": [
+    {
+      "label": "Sugar Cravings:",
+      "description": "Highly effective for many users in reducing the frequency and intensity of intense sugar binges."
+    },
+    {
+      "label": "Weight Loss:",
+      "description": "Clinical evidence shows a modest benefit (approx. 1kg over placebo), which users feel is only effective when paired with exercise."
+    },
+    {
+      "label": "Insulin Sensitivity:",
+      "description": "Most effective in individuals who already have compromised glucose metabolism or high-sugar diets."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Range:",
+      "description": "Most supplements and studies utilize doses between 200 mcg and 1,000 mcg per day."
+    },
+    {
+      "label": "Craving Control:",
+      "description": "Users often find 400-600 mcg to be the 'sweet spot' for managing appetite."
+    },
+    {
+      "label": "Tolerable Upper Limit:",
+      "description": "The Institute of Medicine (IOM) previously noted a lack of toxicity but sets general intake guidelines around 25-35 mcg for basic nutrition."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Kidney Stress:",
+      "description": "Some users express concern regarding potential renal toxicity with long-term, high-dose usage."
+    },
+    {
+      "label": "Skin Reactions:",
+      "description": "While rare, some anecdotal reports mention potential interactions or sensitivities when paired with intensive skin treatments like Accutane."
+    },
+    {
+      "label": "Hypoglycemia:",
+      "description": "Potential for lightheadedness if taken on an empty stomach by individuals with already low blood sugar."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "Widely available as a standalone mineral supplement or as a key ingredient in 'fat burner' stacks."
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Unrestricted and sold globally as a common dietary supplement."
+    }
+  ],
+  "related": [
+    {
+      "name": "D-CHIRO-INOSITOL",
+      "slug": "d-chiro-inositol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    }
+  ]
+}

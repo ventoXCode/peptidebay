@@ -1,0 +1,149 @@
+{
+  "slug": "oxytocin",
+  "url": "https://dopamine.club/substances/oxytocin/",
+  "scrapedAt": "2026-02-12T16:10:21.136Z",
+  "title": "OXYTOCIN",
+  "description": "Oxytocin is a neuropeptide hormone produced in the hypothalamus that plays a crucial role in social bonding, trust, empathy, and emotional regulation. It can be administered intranasally to potentially enhance social cognition, reduce anxiety, and improve mood, though research shows mixed results particularly in autism spectrum disorder and social anxiety treatment.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The effect of oxytocin nasal spray on social interaction in young children with autism: a randomized clinical trial",
+      "summary": "This double-blind RCT of 87 children with autism found that 16 IU twice daily for 12 weeks showed no overall benefit on social responsiveness, though younger children (3-5 years) showed some improvement. Oxytocin was well tolerated with minimal side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36302965/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Optimal dose of oxytocin to improve social impairments and repetitive behaviors in autism spectrum disorders: meta-analysis and dose–response meta-analysis",
+      "summary": "Meta-analysis of RCTs found that higher doses of intranasal oxytocin (48 IU or more per day) showed beneficial effects on social impairments and repetitive behaviors in autism, while lower doses were ineffective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38815399/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chronic oxytocin administration stimulates the oxytocinergic system in children with autism",
+      "summary": "Four weeks of intranasal oxytocin (12 IU twice daily) in children with autism increased salivary oxytocin levels and reduced OXTR DNA methylation post-treatment, suggesting stimulation of the endogenous oxytocinergic system with improved feelings of secure attachment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38841895/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oxytocin and autism: a systematic review of randomized controlled trials",
+      "summary": "Systematic review of seven RCTs found most studies reported statistically significant improvements in repetitive behaviors, eye gaze, and emotion recognition with medium effect sizes, though studies had small samples and medium to high risk of bias.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24679173/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chronic oxytocin administration as a tool for investigation and treatment: A cross-disciplinary systematic review",
+      "summary": "Cross-disciplinary review found that chronic oxytocin administration can be beneficial under certain circumstances with minimal and inconsistent side effects, though effects vary across functional domains and more research is needed on long-term treatment protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31647964/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Microbial lysate upregulates host oxytocin",
+      "summary": "Research demonstrated that certain probiotic bacteria, particularly Lactobacillus reuteri, can stimulate endogenous oxytocin production in the host, suggesting a gut-brain connection for oxytocin regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27825953/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Probiotic and Oxytocin Combination Therapy in Patients with Autism Spectrum Disorder: A Randomized, Double-Blinded, Placebo-Controlled Pilot Trial",
+      "summary": "Pilot trial combining Lactobacillus plantarum PS128 probiotic with oxytocin showed potential therapeutic benefits in children with ASD, though specific efficacy outcomes were not definitively established in this preliminary study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34062986/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences are genuinely divided - some report significant improvements in mood, social connection, and anxiety with nasal spray oxytocin, while others find minimal effects or prefer natural methods like L. reuteri probiotics. Effectiveness appears highly individual with notable placebo considerations."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent:",
+      "description": "Research and user reports suggest higher doses (48 IU+ daily) are more effective than lower doses for measurable benefits in social function and repetitive behaviors"
+    },
+    {
+      "label": "Age Factor:",
+      "description": "Younger populations (children 3-5 years) appear to respond better to oxytocin supplementation than older children or adults"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness is highly variable - some users experience profound effects while others notice nothing, suggesting genetic or physiological differences in response"
+    },
+    {
+      "label": "Natural vs Synthetic:",
+      "description": "Many users prefer stimulating endogenous production through L. reuteri probiotics, hugging, massage, or social connection over synthetic nasal spray administration"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Nasal Spray:",
+      "description": "16-24 IU per dose, typically twice daily (morning and night) for total of 32-48 IU daily"
+    },
+    {
+      "label": "Higher Doses:",
+      "description": "Research suggests 48 IU or more daily may be needed for consistent therapeutic effects in autism"
+    },
+    {
+      "label": "L. reuteri Probiotic:",
+      "description": "Biogaia Osfortis or Gastrus strains taken daily, often made into yogurt for enhanced colonization"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users report taking oxytocin spray as needed rather than continuously, with effectiveness maintained"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Research trials report oxytocin is generally well-tolerated with fewer side effects than placebo in controlled studies"
+    },
+    {
+      "label": "Brain Fog:",
+      "description": "Some users report experiencing brain fog lasting for days after oxytocin use, particularly with certain formulations"
+    },
+    {
+      "label": "Variable Response:",
+      "description": "Individual reactions vary widely, with some experiencing no noticeable effects and others having strong responses"
+    },
+    {
+      "label": "Probiotic Effects:",
+      "description": "L. reuteri can cause spontaneous erections and increased libido in some users, which may be unexpected"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription in Some Regions:",
+      "description": "Oxytocin nasal spray typically requires prescription in the US, though some sources mention availability from compounding pharmacies"
+    },
+    {
+      "label": "International Options:",
+      "description": "Can be purchased online from Japanese sources or specific international sources like Khemcorp without prescription in some jurisdictions"
+    },
+    {
+      "label": "Probiotic Alternative:",
+      "description": "L. reuteri supplements (Biogaia brand) are widely available over-the-counter and may stimulate natural oxytocin production"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "HYPERFORIN",
+      "slug": "hyperforin"
+    },
+    {
+      "name": "HYPERICIN",
+      "slug": "hypericin"
+    }
+  ]
+}

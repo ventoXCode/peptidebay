@@ -1,0 +1,149 @@
+{
+  "slug": "dmae",
+  "url": "https://dopamine.club/substances/dmae/",
+  "scrapedAt": "2026-02-12T16:07:16.725Z",
+  "title": "DMAE",
+  "description": "DMAE (2-dimethylaminoethanol) is a compound structurally similar to choline that may serve as a precursor to acetylcholine, a neurotransmitter involved in memory and cognitive function. It has been studied for potential cognitive enhancement, anti-aging effects, and has been used topically in skincare formulations. DMAE is available as a dietary supplement and has been investigated for various neurological and dermatological applications.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Effects of dimethylaminoethanol pyroglutamate (DMAE p-Glu) against memory deficits induced by scopolamine: evidence from preclinical and clinical studies",
+      "summary": "DMAE pyroglutamate demonstrated procholinergic and promnesic effects in both animal models and human studies, showing potential for improving cognitive deficits related to cholinergic dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19756528/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "In vivo skin effects of a dimethylaminoethanol (DMAE) based formulation",
+      "summary": "Topical DMAE application increased dermal thickness and collagen fiber thickness in mice, and improved skin hydration in human volunteers, suggesting potential anti-aging benefits for skin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20095140/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "New insights on dimethylaminoethanol (DMAE) features as a free radical scavenger",
+      "summary": "DMAE demonstrated ability to scavenge hydroxyl, ascorbyl, and lipid radicals in vitro, supporting its potential role as an antioxidant compound.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22300295/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Use of DMAE (2-dimethylaminoethanol) in the induction of lucid dreams",
+      "summary": "DMAE was proposed as a supplement that may facilitate the induction of lucid dreams, though this was a hypothesis paper rather than a controlled study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3173167/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dimethylaminoethanol affects the viability of human cultured fibroblasts",
+      "summary": "Study found that DMAE directly affected cultured human fibroblasts, raising questions about its mechanism of action beyond simple muscle contraction theories.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17940822/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of dimethylaminoethanol and compound amino acid on D-galactose induced skin aging model of rat",
+      "summary": "DMAE and amino acid supplementation showed antiaging effects on skin in a rat model of accelerated aging, potentially through antioxidant mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25133239/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative disposition of dimethylaminoethanol and choline in rats and mice following oral or intravenous administration",
+      "summary": "Pharmacokinetic study characterizing the absorption, distribution, metabolism, and excretion of DMAE in rodents, providing safety and toxicology data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31100288/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 42,
+    "summary": "User experiences with DMAE are genuinely divided, with some reporting mild cognitive benefits or use in pre-workout stacks, while many others report negligible effects or find it ineffective compared to expectations. Most users don't consider it a standout nootropic."
+  },
+  "effects": [
+    {
+      "label": "Subtle or Absent Effects:",
+      "description": "Many users report negligible or very subtle effects from DMAE supplementation, with effectiveness often questioned compared to other nootropics"
+    },
+    {
+      "label": "Better in Combinations:",
+      "description": "When effects are noticed, they tend to occur when DMAE is stacked with other supplements rather than used alone"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Response appears highly individual, with some users finding mild benefits while others experience no noticeable changes"
+    },
+    {
+      "label": "Not a Primary Nootropic:",
+      "description": "Generally not considered a first-line or standout nootropic supplement by experienced users, often overshadowed by other options"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Commonly mentioned doses range from 100-1200mg daily, with lower doses around 100-500mg being more typical"
+    },
+    {
+      "label": "Pre-Workout Use:",
+      "description": "When used in pre-workout contexts, doses are typically included as part of larger formulations rather than standalone"
+    },
+    {
+      "label": "Third of Recommended:",
+      "description": "Some users report taking only a third of the recommended dosage when stacking with other choline sources"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Generally taken in the morning or before activities requiring focus, avoided in evening due to potential stimulant effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Choline Overload:",
+      "description": "When combined with multiple choline sources (Alpha-GPC, CDP-Choline), users report potential for depression and attention issues"
+    },
+    {
+      "label": "Minimal Standalone Effects:",
+      "description": "Most common complaint is lack of noticeable effects rather than negative side effects"
+    },
+    {
+      "label": "Topical Skin Concerns:",
+      "description": "Some research suggests concentrated topical DMAE may affect fibroblast viability, raising questions about skincare applications"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "When side effects occur, they tend to be mild, with most users reporting no adverse reactions at standard doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "DMAE is readily available as a dietary supplement from various online retailers and supplement companies"
+    },
+    {
+      "label": "Part of Formulations:",
+      "description": "Often found as an ingredient in pre-workout supplements and nootropic blends rather than purchased standalone"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users recommend purchasing from reputable brands with third-party testing, though standalone DMAE is less commonly purchased than other nootropics"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

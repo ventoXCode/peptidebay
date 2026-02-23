@@ -1,0 +1,137 @@
+{
+  "slug": "kisspeptin",
+  "url": "https://dopamine.club/substances/kisspeptin/",
+  "scrapedAt": "2026-02-12T16:09:00.026Z",
+  "title": "KISSPEPTIN",
+  "description": "Kisspeptin is a neuropeptide that plays a crucial role in reproductive hormone regulation. It stimulates GnRH release, which triggers the production of LH and FSH. Research explores its use for fertility, hypogonadism, and hormone optimization.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Kisspeptin and its Current Clinical Status- A Systematic Review",
+      "summary": "Kisspeptin is presented as a multipurpose drug with fewer side effects, promoting normal physiological processes in various conditions.",
+      "url": "https://doi.org/10.2174/0109298673251224230919093656",
+      "source": "(Bentham Science)"
+    },
+    {
+      "title": "Kisspeptin and Polycystic Ovary Syndrome",
+      "summary": "Research indicates higher kisspeptin levels in PCOS women, suggesting an overactive KISS1 system may contribute to irregular menstrual cycles.",
+      "url": "https://doi.org/10.3389/fendo.2019.00298",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "Potential roles for the kisspeptin/kisspeptin receptor system in implantation and placentation",
+      "summary": "Kisspeptins and KISS1R play crucial roles in implantation and placentation, with levels potentially serving as diagnostic markers.",
+      "url": "https://doi.org/10.1093/humupd/dmy046",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "The kisspeptin-GnRH pathway in human reproductive health and disease",
+      "summary": "Kisspeptin plays a key role in human reproduction; manipulating its signaling may offer novel therapies.",
+      "url": "https://doi.org/10.1093/humupd/dmu009",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "The role of kisspeptin in the control of gonadotrophin secretion",
+      "summary": "Kisspeptins regulate the hypothalamic-pituitary-gonadal axis and reproduction, integrating signals from internal and external sources.",
+      "url": "https://doi.org/10.1093/humupd/dmn058",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "There is Kisspeptin – And Then There is Kisspeptin",
+      "summary": "Kisspeptin regulates glucose homeostasis, insulin secretion, food intake, and body composition.",
+      "url": "https://doi.org/10.1016/j.tem.2015.07.008",
+      "source": "(Cell Press Journal)"
+    },
+    {
+      "title": "Kisspeptin-54 stimulates the hypothalamic-pituitary gonadal axis in human males",
+      "summary": "Elevating kisspeptin-54 significantly increases circulating LH, FSH, and testosterone levels in human males.",
+      "url": "https://doi.org/10.1097/01.OGX.0000251011.40001.96",
+      "source": "(LWW Journals)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "Limited user reports as it's primarily used in clinical/research settings. Those using for hormone optimization report mixed results. More commonly discussed in fertility contexts."
+  },
+  "effects": [
+    {
+      "label": "Clinical Applications:",
+      "description": "Primary use in clinical fertility treatment."
+    },
+    {
+      "label": "Variable Response:",
+      "description": "Effects on testosterone vary individually."
+    },
+    {
+      "label": "Pulsatile Dosing:",
+      "description": "Natural kisspeptin signaling is pulsatile."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Protocols:",
+      "description": "Variable depending on application."
+    },
+    {
+      "label": "Clinical Use:",
+      "description": "Typically IV or subcutaneous administration."
+    },
+    {
+      "label": "Timing:",
+      "description": "Often used in pulsatile fashion to mimic physiology."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Data:",
+      "description": "Safety profile in recreational use not well established."
+    },
+    {
+      "label": "Hormonal Effects:",
+      "description": "Can significantly impact reproductive hormones."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Possible with subcutaneous administration."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from select peptide suppliers."
+    },
+    {
+      "label": "Specialized Use:",
+      "description": "Not as commonly available as other peptides."
+    },
+    {
+      "label": "Clinical Setting:",
+      "description": "Most experience from clinical trials."
+    }
+  ],
+  "related": [
+    {
+      "name": "GONADORELIN",
+      "slug": "gonadorelin"
+    },
+    {
+      "name": "HCG",
+      "slug": "hcg"
+    },
+    {
+      "name": "Melanotan 2",
+      "slug": "melanotan-2"
+    },
+    {
+      "name": "PT-141",
+      "slug": "pt-141"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    }
+  ]
+}

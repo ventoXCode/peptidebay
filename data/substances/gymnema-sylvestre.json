@@ -1,0 +1,145 @@
+{
+  "slug": "gymnema-sylvestre",
+  "url": "https://dopamine.club/substances/gymnema-sylvestre/",
+  "scrapedAt": "2026-02-12T16:08:19.974Z",
+  "title": "GYMNEMA SYLVESTRE",
+  "description": "Gymnema Sylvestre is a woody climbing shrub native to India and Africa, traditionally known as 'Gudmar' or 'sugar destroyer' for its unique ability to temporarily suppress the taste of sweetness. It contains gymnemic acids which interact with taste receptors and inhibit sugar absorption in the intestines while potentially stimulating insulin secretion from the pancreas.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Gymnema Sylvestre Supplementation Restores Normoglycemia, Corrects Dyslipidemia, and Transcriptionally Modulates Pancreatic and Hepatic Gene Expression in Alloxan-Induced Hyperglycemic Rats",
+      "summary": "This study demonstrated that Gymnema sylvestre significantly lowered blood glucose, increased insulin levels, and improved lipid profiles by reducing LDL and triglycerides while raising HDL.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37110174/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of Gymnema Sylvestre supplementation on lipid profile, glycemic control, blood pressure, and anthropometric indices in adults: A systematic review and meta-analysis",
+      "summary": "A meta-analysis showing that Gymnema supplementation is effective in improving cardiometabolic risk factors, including blood sugar and lipid levels in humans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36580574/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of Gymnema sylvestre in High-Fat Diet-Induced Metabolic Disorders",
+      "summary": "Research found that Gymnema significantly suppressed weight gain and reduced serum levels of lipids and insulin in subjects fed a high-fat diet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28514906/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective effects of Gymnema sylvestre on streptozotocin-induced diabetic neuropathy in rats",
+      "summary": "The extract showed potential in protecting against diabetic complications like nerve pain and neuropathy by reducing oxidative stress and improving pain thresholds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26136876/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Synergistic Antioxidant and Antidiabetic Effects of Caesalpinia bonduc (L.) and Gymnema sylvestre (Retz.) in Alloxan-Induced Diabetic Rats",
+      "summary": "Findings suggest that Gymnema provides potent antioxidant benefits and works synergistically with other herbs to manage diabetic symptoms and oxidative damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40354793/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Inhibitory Effects of Gymnema (Gymnema sylvestre) Leaves on Tumour Promotion in Two-Stage Mouse Skin Carcinogenesis",
+      "summary": "The triterpenoids in Gymnema exhibited significant anti-inflammatory and anti-tumor-promoting activities in animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24734106/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gymnema sylvestre for Diabetes: From Traditional Herb to Future's Therapeutic",
+      "summary": "A review highlighting Gymnema's role as a potent hypoglycemic agent and its growing importance in modern pharmacological diabetes management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27834124/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "The vast majority of users report high satisfaction, particularly for its 'magic' ability to eliminate sugar cravings and its effectiveness in weight management and blood sugar control."
+  },
+  "effects": [
+    {
+      "label": "Cravings:",
+      "description": "Extremely effective at 'breaking' sugar addiction; users report that sweets taste like 'sand' or 'cardboard' immediately after use."
+    },
+    {
+      "label": "Weight Management:",
+      "description": "Highly effective as a tool for caloric deficit by eliminating liquid calories and snacks."
+    },
+    {
+      "label": "Metabolic Health:",
+      "description": "Meta-analyses confirm its efficacy in reducing HbA1c and improving lipid profiles in clinical settings."
+    },
+    {
+      "label": "Consistency:",
+      "description": "Requires consistent daily use to maintain its metabolic benefits, though taste suppression is immediate."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Capsule:",
+      "description": "400–600 mg daily of an extract standardized to 25% gymnemic acids is the most common regimen."
+    },
+    {
+      "label": "Taste Suppression:",
+      "description": "A few drops of liquid extract on the tongue or a small amount of lozenge powder 5-10 minutes before meals."
+    },
+    {
+      "label": "Splitting Doses:",
+      "description": "Many users find success taking 200 mg three times daily before each major meal to manage insulin response."
+    },
+    {
+      "label": "Upper Limit:",
+      "description": "Research papers note dosages up to 10g per day, but user consensus suggests significantly lower doses are sufficient for most."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hypoglycemia:",
+      "description": "Potential for blood sugar to drop too low, especially if taken with existing diabetes medications like insulin or glimepiride."
+    },
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Some users report mild stomach cramping or loose stools when starting a new protocol."
+    },
+    {
+      "label": "Taste Alteration:",
+      "description": "The loss of sweet taste can be jarring and may affect the enjoyment of healthy foods like fruit or vegetables."
+    },
+    {
+      "label": "Liver Enzymes:",
+      "description": "While rare, some systematic reviews suggest monitoring liver health when using high-dose herbal concentrates."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Unrestricted worldwide; widely available as an over-the-counter dietary supplement in health stores."
+    },
+    {
+      "label": "Form Factors:",
+      "description": "Available in capsules, loose leaf tea, liquid tinctures, and specialized 'anti-sugar' lozenges."
+    }
+  ],
+  "related": [
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "CINSULIN",
+      "slug": "cinsulin"
+    }
+  ]
+}

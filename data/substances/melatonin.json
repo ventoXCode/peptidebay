@@ -1,0 +1,155 @@
+{
+  "slug": "melatonin",
+  "url": "https://dopamine.club/substances/melatonin/",
+  "scrapedAt": "2026-02-12T16:09:30.357Z",
+  "title": "MELATONIN",
+  "description": "Melatonin is a naturally occurring neurohormone synthesized by the pineal gland that regulates circadian rhythms and the sleep-wake cycle. It acts as a chronobiotic, antioxidant, and anti-inflammatory agent, with supplemental forms used primarily to improve sleep onset and quality. Melatonin levels decline with age and can be affected by various physiological conditions and environmental factors.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effect of melatonin supplementation on sleep quality: a systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis found melatonin supplementation significantly improved sleep quality as measured by the Pittsburgh Sleep Quality Index across various disease populations, with consistent benefits observed in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33417003/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Is Melatonin the 'Next Vitamin D'?: A Review of Emerging Science, Clinical Uses, Safety, and Dietary Supplements",
+      "summary": "Comprehensive review highlighting melatonin's potent antioxidant, immune-active, and mitochondrial regulatory properties, with emerging applications in cancer, Alzheimer's disease, fertility, and COVID-19 beyond its traditional sleep-promoting role.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36235587/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of melatonin and magnesium in a novel supplement delivery system on sleep scores, body composition and metabolism",
+      "summary": "Combined melatonin and magnesium supplementation significantly improved sleep scores and metabolic parameters in healthy individuals with sleep disturbances, demonstrating synergistic effects when used together.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38745424/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of melatonin in sleep deprivation-induced intestinal barrier dysfunction in mice",
+      "summary": "Study demonstrated melatonin's protective effects against sleep deprivation-induced intestinal damage, reducing inflammation and preserving gut barrier integrity through its antioxidant and anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30929267/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Melatonin Natural Health Products and Supplements: Presence of Serotonin and Significant Variability of Melatonin Content",
+      "summary": "Analysis of 31 commercial melatonin supplements revealed significant variability in content (-83% to +478% of labeled amount) and lot-to-lot inconsistency, raising concerns about supplement quality and standardization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27855744/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exercise-induced oxidative stress and melatonin supplementation: current evidence",
+      "summary": "Review found melatonin supplementation strengthens antioxidant status in trained athletes and helps protect against exercise-induced oxidative damage through its potent free radical scavenging properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34470608/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of tart cherry juice (Prunus cerasus) on melatonin levels and enhanced sleep quality",
+      "summary": "Tart cherry juice concentrate significantly increased urinary melatonin levels and improved sleep quality measures compared to placebo, suggesting dietary sources can effectively boost melatonin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22038497/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The efficacy of exogenous melatonin supplement in ameliorating irritable bowel syndrome severity: A meta-analysis",
+      "summary": "Meta-analysis of randomized controlled trials demonstrated melatonin supplementation significantly reduced IBS severity scores and improved quality of life in patients with irritable bowel syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36257872/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 52,
+    "summary": "User experiences with melatonin are genuinely divided, with some reporting significant sleep improvements while others experience side effects like vivid nightmares, grogginess, or no effect at all. Many users find success only when combining it with other supplements like magnesium, while standalone use often produces inconsistent results."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Effectiveness varies significantly with dosage, with 0.5-3mg often being more effective than standard 5-10mg doses for most users"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Success rates are highly individual, with some users experiencing no benefits while others report life-changing improvements in sleep quality"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Works significantly better when combined with magnesium glycinate, L-theanine, or glycine rather than as a standalone supplement"
+    },
+    {
+      "label": "Diminishing Returns:",
+      "description": "Many users report tolerance development and reduced effectiveness with daily long-term use, requiring cycling or breaks to maintain efficacy"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low Dose Recommended:",
+      "description": "0.5-3mg is frequently cited as optimal, with higher doses (5-10mg) often causing more side effects without additional benefits"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Taking 30-60 minutes before desired sleep time is standard, though some users report better results with 1-2 hour advance timing"
+    },
+    {
+      "label": "Cycling Strategy:",
+      "description": "Users recommend not taking daily to prevent tolerance, with some cycling 5 days on/2 days off or using only as needed"
+    },
+    {
+      "label": "Start Low:",
+      "description": "Beginning with 0.5-1mg and gradually increasing if needed is widely recommended to find minimum effective dose"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Vivid Nightmares:",
+      "description": "Extremely common complaint of intense, disturbing dreams and nightmares, particularly with doses above 3mg or daily use"
+    },
+    {
+      "label": "Morning Hangover:",
+      "description": "Persistent grogginess, brain fog, and difficulty waking up reported frequently, especially with higher doses or extended-release forms"
+    },
+    {
+      "label": "Hormonal Concerns:",
+      "description": "Users note concerns about long-term hormonal effects since melatonin is a hormone, with some experiencing mood changes"
+    },
+    {
+      "label": "Sleep Architecture Disruption:",
+      "description": "Some users report waking up at 3-4am regularly despite taking melatonin, suggesting potential sleep cycle fragmentation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Quality Varies Significantly:",
+      "description": "Studies show commercial supplements contain -83% to +478% of labeled content, making brand selection critical"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Over-the-counter in US and many countries, available in various forms (tablets, gummies, sublingual, extended-release)"
+    },
+    {
+      "label": "Third-Party Testing Important:",
+      "description": "Users emphasize choosing brands with third-party verification due to significant quality control issues in the supplement industry"
+    }
+  ],
+  "related": [
+    {
+      "name": "APIGENIN",
+      "slug": "apigenin"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    }
+  ]
+}

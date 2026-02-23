@@ -1,0 +1,156 @@
+{
+  "slug": "pqq",
+  "url": "https://dopamine.club/substances/pqq/",
+  "scrapedAt": "2026-02-12T16:10:43.754Z",
+  "title": "PQQ",
+  "description": "Pyrroloquinoline quinone (PQQ) is a redox-active quinone compound that functions as a powerful antioxidant and mitochondrial biogenesis stimulator. It enhances cellular energy production by promoting the growth of new mitochondria and protecting existing ones from oxidative damage, while also influencing cell signaling pathways related to metabolism and neuroprotection. PQQ is found naturally in some foods and is commonly supplemented for cognitive enhancement, energy support, and anti-aging purposes.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Dietary pyrroloquinoline quinone (PQQ) alters indicators of inflammation and mitochondrial-related metabolism in human subjects",
+      "summary": "A human crossover study found that PQQ supplementation (0.2-0.3 mg/kg) reduced inflammation markers including C-reactive protein and IL-6, while positively affecting mitochondrial-related metabolism and antioxidant status.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24231099/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Dietary Pyrroloquinoline Quinone Disodium Salt on Cognitive Function in Healthy Volunteers: A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study",
+      "summary": "A randomized controlled trial demonstrated that PQQ supplementation significantly improved cognitive function in healthy volunteers, including enhanced attention, processing speed, and working memory.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34415830/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Pyrroloquinoline Quinone (PQQ) Supplementation on Aerobic Exercise Performance and Indices of Mitochondrial Biogenesis in Untrained Men",
+      "summary": "Six weeks of PQQ supplementation (20 mg/day) with endurance training showed trends toward improved aerobic performance and increased markers of mitochondrial biogenesis (PGC-1α) in untrained males.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31860387/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The impact of six-week dihydrogen-pyrroloquinoline quinone supplementation on mitochondrial biomarkers, brain metabolism, and cognition in elderly individuals with mild cognitive impairment: a randomized controlled trial",
+      "summary": "In elderly patients with mild cognitive impairment, six weeks of PQQ supplementation improved mitochondrial biomarkers and showed positive trends in brain metabolism and cognitive function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38908296/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pyrroloquinoline quinone alleviates natural aging-related osteoporosis via a novel MCM3-Keap1-Nrf2 axis-mediated stress response and Fbn1 upregulation",
+      "summary": "Animal studies showed that dietary PQQ supplementation prevented age-related osteoporosis by activating antioxidant pathways and improving bone health through mitochondrial protection mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37365714/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pyrroloquinoline-quinone to reduce fat accumulation and ameliorate obesity progression",
+      "summary": "Research demonstrated that PQQ reduces visceral and hepatic fat accumulation by inhibiting lipogenesis and enhancing mitochondrial function, suggesting benefits for obesity management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37214340/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Metabolic and Biochemical Effects of Pyrroloquinoline Quinone (PQQ) on Inflammation and Mitochondrial Dysfunction: Potential Health Benefits in Obesity and Future Perspectives",
+      "summary": "A comprehensive review found that PQQ combats inflammation and mitochondrial dysfunction associated with obesity, showing potential for improving metabolic health and body composition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39334686/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Recent progress in studies on the health benefits of pyrroloquinoline quinone",
+      "summary": "A review article summarizing PQQ's physiological importance found it stimulates mitochondrial biogenesis, provides neuroprotection, exhibits anti-diabetic effects, and demonstrates growth-promoting activity in mammals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26168402/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report substantial improvements in energy levels, mental clarity, and overall vitality from PQQ, particularly when combined with CoQ10. The majority describe it as a game-changer for mitochondrial health with noticeable effects on stamina and cognitive function, though some note the high cost as a barrier."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Combinations:",
+      "description": "Most effective when paired with CoQ10 (ubiquinol), with users reporting this combination provides superior results compared to either supplement alone"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "While many report dramatic benefits, effectiveness appears dose-dependent and timing-sensitive, with some users needing to adjust intake schedules"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Noticeable effects typically reported within 2-4 weeks of consistent use, with cumulative benefits over months"
+    },
+    {
+      "label": "Context-Dependent:",
+      "description": "Works best as part of comprehensive mitochondrial support protocols including magnesium, B-vitamins, and other cofactors"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dosing:",
+      "description": "Most common effective dose is 10-40mg daily, with 20mg being the most frequently cited amount in both studies and user reports"
+    },
+    {
+      "label": "Combination Protocol:",
+      "description": "Users typically pair 10-20mg PQQ with 100-400mg CoQ10 (ubiquinol form) for optimal mitochondrial support"
+    },
+    {
+      "label": "Timing:",
+      "description": "Generally taken in the morning or early afternoon to avoid potential sleep disruption from increased energy levels"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users report benefits from continuous use while others cycle on and off, though no clear consensus on necessity of cycling"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disruption:",
+      "description": "The most commonly reported side effect is difficulty sleeping or excessive energy if taken too late in the day"
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "Some users report feeling overly energized or manic-like symptoms, suggesting individual sensitivity varies significantly"
+    },
+    {
+      "label": "Cost Concerns:",
+      "description": "While not a physiological side effect, the high price point ($40+ for quality brands) is frequently mentioned as a practical limitation"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Overall, very few serious side effects reported, with most users tolerating it well when dosing is appropriate"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality:",
+      "description": "Premium formulations with third-party testing are recommended; users note significant price variation between brands"
+    },
+    {
+      "label": "Form Variations:",
+      "description": "Available as standalone PQQ or pre-combined with CoQ10; disodium salt form is most common and well-studied"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "High-quality PQQ is expensive compared to other supplements, with monthly costs ranging from $30-60+ depending on dosage and brand"
+    }
+  ],
+  "related": [
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    },
+    {
+      "name": "ALPHA LIPOIC ACID",
+      "slug": "alpha-lipoic-acid"
+    },
+    {
+      "name": "BETA-ALANINE",
+      "slug": "beta-alanine"
+    },
+    {
+      "name": "CHOLINE BITARTRATE",
+      "slug": "choline-bitartrate"
+    },
+    {
+      "name": "COQ10",
+      "slug": "coq10"
+    }
+  ]
+}

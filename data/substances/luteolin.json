@@ -1,0 +1,155 @@
+{
+  "slug": "luteolin",
+  "url": "https://dopamine.club/substances/luteolin/",
+  "scrapedAt": "2026-02-12T16:09:19.946Z",
+  "title": "LUTEOLIN",
+  "description": "Luteolin is a naturally occurring flavonoid found in various plants including chamomile, celery, and parsley. It works primarily through anti-inflammatory and antioxidant mechanisms, including modulation of mast cell activity, PPAR-γ pathway activation, and reduction of oxidative stress. It has been studied for neuroprotection, metabolic health, and immune system regulation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Protective effects of luteolin against amyloid beta-induced oxidative stress and mitochondrial impairments through peroxisome proliferator-activated receptor γ-dependent mechanism in Alzheimer's disease",
+      "summary": "Luteolin protected against Alzheimer's-related oxidative stress and mitochondrial dysfunction through PPAR-γ pathway activation, demonstrating neuroprotective properties in preclinical models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37597424/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective effects of luteolin against cognitive impairment induced by amyloid-β peptide",
+      "summary": "Luteolin ameliorated learning and memory impairment in rats by regulating the cholinergic system, increasing antioxidant enzymes, and improving Bcl-2/Bax ratio.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26261557/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Luteolin modulates macrophage phenotypic switching via the AMPK-PPARγ pathway to alleviate ulcerative colitis in mice",
+      "summary": "Luteolin demonstrated anti-inflammatory effects by modulating macrophage phenotype through AMPK-PPARγ signaling, showing potential for inflammatory bowel conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39603400/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ultramicronized Palmitoylethanolamide and Luteolin Supplement Combined with Olfactory Training to Treat Post-COVID-19 Olfactory Impairment",
+      "summary": "A combination of PEA and luteolin improved post-COVID olfactory function in a multi-center trial, with no adverse effects reported.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35450527/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Luteolin: Nature's promising warrior against Alzheimer's and Parkinson's disease",
+      "summary": "Review highlighting luteolin's neuroprotective properties through antioxidant and anti-inflammatory mechanisms, showing promise for neurodegenerative disease prevention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38091364/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Altilix® Supplement Containing Chlorogenic Acid and Luteolin Improved Hepatic and Cardiometabolic Parameters in Subjects with Metabolic Syndrome",
+      "summary": "A 6-month randomized trial showed luteolin-containing supplement improved metabolic parameters, liver function, and cardiovascular markers in metabolic syndrome patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31731527/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A case series of a luteolin formulation (NeuroProtek®) in children with autism spectrum disorders",
+      "summary": "Luteolin formulation improved GI symptoms in 75% of children with ASD, with improvements in attention and social interaction, though this was an uncontrolled case series.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22697063/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bioavailability and Pharmaco-therapeutic Potential of Luteolin in Overcoming Alzheimer's Disease",
+      "summary": "Review examining luteolin's mechanisms against Alzheimer's including suppression of Aβ aggregation, anti-inflammatory effects, and modulation of multiple transcription factors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30892166/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences are genuinely mixed, with some reporting significant anxiety and inflammation relief, particularly when combined with PEA or in mast cell protocols, while others note minimal effects or difficulty assessing impact due to complex stacking regimens. Concerns about supplement quality and bioavailability are common."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Most effective when combined with other compounds like PEA, quercetin, or as part of comprehensive mast cell/inflammation protocols rather than standalone use"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between users, with some experiencing pronounced benefits for anxiety and inflammation while others notice little to no effect"
+    },
+    {
+      "label": "Bioavailability Concerns:",
+      "description": "Users frequently question whether non-liposomal forms effectively cross the blood-brain barrier, with premium liposomal versions being expensive"
+    },
+    {
+      "label": "Long-term Use Unclear:",
+      "description": "Limited user data on long-term effectiveness, with most reports covering short-term use of weeks to months"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most commonly mentioned dose is 50-75 mg daily, often from brands like quality brands or specialized formulations"
+    },
+    {
+      "label": "Combination Protocols:",
+      "description": "Typically used at 50-100 mg when part of larger supplement stacks for mast cell activation or neuroinflammation"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Users report taking with meals or with piperine/bioperine for enhanced absorption, particularly for non-liposomal forms"
+    },
+    {
+      "label": "Conservative Approach:",
+      "description": "Most users stick to recommended label doses due to limited personal experimentation data and high cost of quality forms"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report no noticeable side effects when taking luteolin at recommended doses"
+    },
+    {
+      "label": "Difficult to Isolate:",
+      "description": "When side effects occur in complex stacks (as seen in several posts), attribution to luteolin specifically is unclear"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Some users express concern about supplement purity and contamination, particularly with cheaper brands from online retailers"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "Users taking multiple supplements simultaneously make it difficult to determine if adverse effects are luteolin-specific or due to interactions"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Premium Pricing:",
+      "description": "Liposomal forms like Algonot's PureLut are expensive and under patent, creating accessibility barriers for users seeking optimal bioavailability"
+    },
+    {
+      "label": "Brand Skepticism:",
+      "description": "Users report poor ratings and suspected fake reviews for cheaper generic brands, leading to hesitation about non-premium options"
+    },
+    {
+      "label": "Limited Standalone Use:",
+      "description": "Often purchased as part of combination products (NeuroProtek, Testosterone Elite) rather than standalone luteolin supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "FISETIN",
+      "slug": "fisetin"
+    }
+  ]
+}

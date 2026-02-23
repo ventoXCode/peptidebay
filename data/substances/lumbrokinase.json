@@ -1,0 +1,155 @@
+{
+  "slug": "lumbrokinase",
+  "url": "https://dopamine.club/substances/lumbrokinase/",
+  "scrapedAt": "2026-02-12T16:09:17.788Z",
+  "title": "LUMBROKINASE",
+  "description": "Lumbrokinase is a group of fibrinolytic enzymes extracted from earthworms (particularly Lumbricus rubellus and Eisenia fetida) that has been used in traditional Chinese medicine for thousands of years. It works primarily by breaking down fibrin and preventing blood clot formation through direct fibrinolytic activity, independent of plasminogen. Clinically, it is used to support cardiovascular health, treat thrombotic conditions, and has shown potential benefits in reducing ischemia-reperfusion injury in various organs.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Sirt1 Activation by Post-ischemic Treatment With Lumbrokinase Protects Against Myocardial Ischemia-Reperfusion Injury",
+      "summary": "Post-ischemic lumbrokinase treatment significantly reduced arrhythmias and myocardial damage in rats through activation of Sirt1 signaling pathways, while improving cardiac function and reducing oxidative stress and apoptosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29962953/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lumbrokinase regulates endoplasmic reticulum stress to improve neurological deficits in ischemic stroke",
+      "summary": "Lumbrokinase treatment improved neurological outcomes in ischemic stroke models by regulating endoplasmic reticulum stress pathways, suggesting potential therapeutic applications beyond its fibrinolytic properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36223864/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lumbrokinase attenuates myocardial ischemia-reperfusion injury by inhibiting TLR4 signaling",
+      "summary": "Lumbrokinase protected against heart tissue damage following ischemia-reperfusion by suppressing inflammatory TLR4 signaling pathways and reducing inflammatory mediator expression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27503317/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Recombinant protein production of earthworm lumbrokinase for potential antithrombotic application",
+      "summary": "Review of lumbrokinase production methods via genetic engineering, highlighting its fibrinolytic properties and potential for treating thrombosis-related conditions with improved bioavailability through recombinant technology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24416067/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lumbrokinase Extracted from Earthworms Synergizes with Bevacizumab and Chemotherapeutics in Treating Non-Small Cell Lung Cancer",
+      "summary": "Lumbrokinase demonstrated anti-cancer effects in non-small cell lung cancer by inactivating BPTF/VEGF and NF-κB/COX-2 signaling pathways and showed synergistic effects when combined with bevacizumab and chemotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39062456/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological effects of bioactive agents in earthworm extract: A comprehensive review",
+      "summary": "Comprehensive review detailing multiple bioactive components in earthworm extract including lumbrokinase, with documented antitumor, antithrombotic, antiviral, antibacterial, anti-inflammatory, antioxidant, and wound-healing properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38957072/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lumbrokinase, a Fibrinolytic Enzyme, Prevents Intra-Abdominal Adhesion by Inhibiting the Migrative and Adhesive Activities of Fibroblast",
+      "summary": "Lumbrokinase significantly reduced intra-abdominal adhesions following surgery in animal models by inhibiting fibroblast migration and adhesion through attenuation of AP-1/ICAM-1 signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36685669/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lumbrokinase-containing gelatin nanofibers with multiple bioactivities for effective skin wound healing",
+      "summary": "Lumbrokinase-incorporated nanofibers demonstrated enhanced wound healing properties with antibacterial, anti-inflammatory, and tissue regeneration benefits in skin wound models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40236807/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Research shows consistent cardiovascular and anti-inflammatory benefits, but User feedback discussions contain minimal direct user experiences with lumbrokinase specifically. The general supplement sentiment in the communities is cautious, with users emphasizing the importance of quality sources, appropriate dosing, and monitoring for mineral depletion with long-term enzyme use."
+  },
+  "effects": [
+    {
+      "label": "Clinical Use Duration:",
+      "description": "Has been used clinically in Asia for over 10 years to support cardiovascular health with established safety profile"
+    },
+    {
+      "label": "Mechanism Specificity:",
+      "description": "Works through direct fibrinolytic action independent of plasminogen, distinguishing it from other thrombolytic agents"
+    },
+    {
+      "label": "Multi-system Benefits:",
+      "description": "Shows efficacy beyond clot dissolution including anti-cancer, wound healing, and organ protection properties"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Demonstrates enhanced effectiveness when combined with other therapies such as bevacizumab in cancer treatment"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dosing:",
+      "description": "Animal studies typically use dose-dependent protocols with higher doses showing greater protective effects"
+    },
+    {
+      "label": "Clinical Context:",
+      "description": "Used orally as supplement for cardiovascular support, though specific human dosing protocols vary by application"
+    },
+    {
+      "label": "Duration Considerations:",
+      "description": "Long-term enzyme supplementation may require monitoring of trace minerals (zinc, copper, selenium)"
+    },
+    {
+      "label": "Administration Timing:",
+      "description": "Post-ischemic treatment protocols show effectiveness even when administered 20 minutes after injury onset"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mineral Depletion:",
+      "description": "Long-term protease enzyme use may deplete trace minerals requiring supplementation monitoring"
+    },
+    {
+      "label": "Bleeding Risk:",
+      "description": "As a fibrinolytic agent, may increase bleeding risk particularly when combined with anticoagulants"
+    },
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "High doses of enzymes can potentially affect intestinal mucosa with prolonged use"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Sulfur/thiol groups in enzyme complexes may cause issues in individuals with heavy metal burden or sulfur sensitivity"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Status:",
+      "description": "Available as oral supplement primarily marketed for cardiovascular health support"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Recombinant production methods are being developed to improve purity and consistency over earthworm-extracted forms"
+    },
+    {
+      "label": "Traditional Use:",
+      "description": "Dried earthworm powder has been used in traditional Chinese medicine for thousands of years and remains available"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

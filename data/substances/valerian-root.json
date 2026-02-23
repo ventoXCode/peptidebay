@@ -1,0 +1,143 @@
+{
+  "slug": "valerian-root",
+  "url": "https://dopamine.club/substances/valerian-root/",
+  "scrapedAt": "2026-02-12T16:12:06.673Z",
+  "title": "VALERIAN ROOT",
+  "description": "Valerian root (Valeriana officinalis) is an herbal supplement derived from a perennial plant native to Europe and Asia. It contains bioactive compounds including valerenic acids, sesquiterpenes, and valepotriates that interact with GABA-A receptors in the brain, producing sedative and anxiolytic effects. Primarily used for treating insomnia, sleep disturbances, and anxiety, though clinical evidence for its efficacy remains inconclusive.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Standardized Extract of Valeriana officinalis Improves Overall Sleep Quality in Human Subjects with Sleep Complaints: A Randomized, Double-Blind, Placebo-Controlled, Clinical Study",
+      "summary": "In a clinical trial with 80 adults, valerian extract significantly improved Pittsburgh Sleep Quality Index scores and sleep parameters compared to placebo over 8 weeks, demonstrating effectiveness for sleep complaints.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37910276/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Valeriana officinalis root extracts have potent anxiolytic effects in laboratory rats",
+      "summary": "Laboratory studies showed that valerian root extract and its active component valerenic acid significantly reduced anxious behavior in rats through GABA-ergic mechanisms similar to benzodiazepines.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20042323/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Valerian extract alters functional brain connectivity: A randomized double-blind placebo-controlled trial",
+      "summary": "A 4-week trial with 64 volunteers found that valerian extract altered brain connectivity measured by EEG, though both valerian and placebo groups showed improvements in anxiety and stress scales with no significant between-group differences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30632220/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Valerian as a hypnotic for Hispanic patients",
+      "summary": "Twenty Hispanic outpatients with insomnia reported significant improvements in sleep quality with valerian root supplementation, with 16 of 20 patients rating their insomnia as moderately to extremely improved by week 2.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10975170/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An Alternative Cause of Encephalopathy: Valerian Root Overdose",
+      "summary": "Case report documenting encephalopathy resulting from the combination of valerian root with GABA supplements, highlighting potential risks of excessive use and drug interactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34659971/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Application of Cryopreserved Human Intestinal Mucosa and Cryopreserved Human Enterocytes in the Evaluation of Herb-Drug Interactions",
+      "summary": "Laboratory testing found that valerian root extract demonstrated significant CYP3A inhibitory potential in human intestinal tissue, suggesting possible drug interactions with medications metabolized by this pathway.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32719085/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with valerian root for sleep, with many describing it as effective for falling asleep faster despite its notoriously unpleasant smell. Most users find it works well short-term, though some report tolerance development and recommend cycling, while side effects like vivid dreams and morning grogginess are occasionally mentioned."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Response to valerian is highly individual, with some users experiencing profound sleep improvements while others find it ineffective or only mildly helpful"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Multiple users report that valerian works well initially but loses effectiveness over time, requiring cycling or increased doses to maintain benefits"
+    },
+    {
+      "label": "Dosage Sensitivity:",
+      "description": "Standard doses often prove insufficient for larger individuals or those with severe insomnia, with many users reporting the need to double or triple recommended amounts"
+    },
+    {
+      "label": "Combination Enhancement:",
+      "description": "Valerian appears more effective when combined with other sleep aids like magnesium glycinate, L-theanine, or melatonin, though this increases complexity"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most supplements contain 300-600mg of valerian extract, typically taken 30-60 minutes before bedtime for sleep support"
+    },
+    {
+      "label": "Higher Doses:",
+      "description": "Users with severe sleep issues commonly report taking 2-3 times the recommended dose (1200-1800mg) to achieve desired effects"
+    },
+    {
+      "label": "Tea vs. Extract:",
+      "description": "Users report that valerian tea is significantly weaker than concentrated extracts or capsules, with many finding tea ineffective"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "To prevent tolerance, some users recommend taking valerian 4-5 nights per week rather than daily, or cycling with other sleep supplements"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Vivid Dreams/Nightmares:",
+      "description": "One of the most commonly reported side effects, with several users noting intensified or disturbing dream content that can be problematic for PTSD sufferers"
+    },
+    {
+      "label": "Morning Grogginess:",
+      "description": "Users frequently report feeling drowsy, hungover, or mentally dull the next day, particularly at higher doses"
+    },
+    {
+      "label": "Unpleasant Odor:",
+      "description": "Nearly all users comment on valerian's characteristic foul smell, variously described as dirty feet, butthole, or decomposing matter, which some find intolerable"
+    },
+    {
+      "label": "Tolerance and Dependence:",
+      "description": "Some users report withdrawal symptoms including anxiety, irritability, and rebound insomnia when discontinuing after chronic use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Valerian is sold over-the-counter at pharmacies, health stores, and online retailers as a dietary supplement, with no prescription required"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Users note significant differences between brands, with some recommending tinctures over capsules for better absorption and effectiveness"
+    },
+    {
+      "label": "GRAS Status:",
+      "description": "Valerian is classified as Generally Recognized as Safe by the FDA for food use, though quality control varies among supplement manufacturers"
+    }
+  ],
+  "related": [
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    },
+    {
+      "name": "LEMON BALM",
+      "slug": "lemon-balm"
+    },
+    {
+      "name": "MAGNOLIA BARK",
+      "slug": "magnolia-bark"
+    },
+    {
+      "name": "PASSIONFLOWER",
+      "slug": "passionflower"
+    },
+    {
+      "name": "SCUTELLARIA",
+      "slug": "scutellaria"
+    }
+  ]
+}

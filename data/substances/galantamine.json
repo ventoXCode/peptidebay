@@ -1,0 +1,104 @@
+{
+  "slug": "galantamine",
+  "url": "https://dopamine.club/substances/galantamine/",
+  "scrapedAt": "2026-02-12T16:07:55.251Z",
+  "title": "GALANTAMINE",
+  "description": "Galantamine is a competitive and reversible acetylcholinesterase inhibitor that also acts as an allosteric modulator of nicotinic acetylcholine receptors. It is primarily used to treat cognitive decline in Alzheimer's disease by increasing acetylcholine levels and enhancing neurotransmission.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Galantamine for dementia due to Alzheimer's disease and mild cognitive impairment",
+      "summary": "This systematic review found that galantamine significantly improves cognitive function and daily living activities in Alzheimer's patients at doses of 16mg to 24mg daily, though it showed little benefit for mild cognitive impairment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39501538/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Galantamine in AD",
+      "summary": "A 12-month study demonstrated that galantamine significantly improved cognition and global function in mild to moderate Alzheimer's patients, with benefits maintained over a full year of treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10867792/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report high effectiveness for cognitive enhancement and lucid dreaming induction, though many note significant gastrointestinal trade-offs."
+  },
+  "effects": [
+    {
+      "label": "Alzheimer's Symptoms:",
+      "description": "Highly effective for symptomatic relief of memory loss in confirmed Alzheimer's cases."
+    },
+    {
+      "label": "MCI Limitations:",
+      "description": "Research suggests it is not effective for people with only mild cognitive impairment compared to a placebo."
+    },
+    {
+      "label": "Long-term Stability:",
+      "description": "Clinical trials show that therapeutic responses can be maintained for at least 12 months with consistent dosing."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Maintenance:",
+      "description": "16 mg to 24 mg daily is the most common range for treating cognitive decline."
+    },
+    {
+      "label": "Initial Scaling:",
+      "description": "Typically started at a lower dose (e.g., 8 mg) and escalated over several weeks to minimize side effects."
+    },
+    {
+      "label": "Lucid Dreaming Protocol:",
+      "description": "User reports suggest taking 4-8 mg after 4-5 hours of sleep to target REM cycles."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Nausea and vomiting are the most frequently reported adverse effects, especially during the initial phase."
+    },
+    {
+      "label": "Diarrhea:",
+      "description": "Frequently cited in clinical trials as a common reaction to acetylcholinesterase inhibition."
+    },
+    {
+      "label": "Sleep Disturbances:",
+      "description": "Can cause vivid dreams or insomnia if taken too close to the initial onset of sleep."
+    }
+  ],
+  "availability": [
+    {
+      "label": "FDA Approval:",
+      "description": "Regulated and approved as a prescription medication (Reminyl/Razadyne) for Alzheimer's disease."
+    },
+    {
+      "label": "Supplement Market:",
+      "description": "Often available as a dietary supplement in some regions, though quality and source purity can vary significantly."
+    }
+  ],
+  "related": [
+    {
+      "name": "Huperzine A",
+      "slug": "huperzine-a"
+    },
+    {
+      "name": "LION",
+      "slug": "lion-s-mane"
+    },
+    {
+      "name": "CHOLINE BITARTRATE",
+      "slug": "choline-bitartrate"
+    },
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    },
+    {
+      "name": "PQQ",
+      "slug": "pqq"
+    }
+  ]
+}

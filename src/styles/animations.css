@@ -1,0 +1,300 @@
+/* PeptideBay Animations - Chemistry themed effects */
+
+/* ========================================
+   Glowing Effects
+   ======================================== */
+
+@keyframes glow-pulse {
+  0%, 100% {
+    box-shadow: 0 0 5px rgba(0, 255, 157, 0.2),
+                0 0 10px rgba(0, 255, 157, 0.1);
+  }
+  50% {
+    box-shadow: 0 0 15px rgba(0, 255, 157, 0.4),
+                0 0 30px rgba(0, 255, 157, 0.2);
+  }
+}
+
+@keyframes text-glow-pulse {
+  0%, 100% {
+    text-shadow: 0 0 10px rgba(0, 255, 157, 0.5),
+                 0 0 20px rgba(0, 255, 157, 0.3);
+  }
+  50% {
+    text-shadow: 0 0 15px rgba(0, 255, 157, 0.7),
+                 0 0 30px rgba(0, 255, 157, 0.4);
+  }
+}
+
+@keyframes border-glow {
+  0%, 100% {
+    border-color: rgba(0, 255, 157, 0.3);
+  }
+  50% {
+    border-color: rgba(0, 255, 157, 0.8);
+  }
+}
+
+/* ========================================
+   Chemistry Effects
+   ======================================== */
+
+/* Dissolve/fade in like chemical reaction */
+@keyframes dissolve-in {
+  0% {
+    opacity: 0;
+    filter: blur(8px) saturate(0%);
+    transform: scale(0.95);
+  }
+  50% {
+    filter: blur(2px) saturate(50%);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0) saturate(100%);
+    transform: scale(1);
+  }
+}
+
+/* Crystallize effect - elements appearing */
+@keyframes crystallize {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) rotate(-3deg);
+    filter: blur(4px);
+  }
+  30% {
+    opacity: 0.5;
+    transform: scale(1.02) rotate(1deg);
+  }
+  60% {
+    transform: scale(0.98) rotate(-0.5deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+    filter: blur(0);
+  }
+}
+
+/* Molecule bond animation */
+@keyframes bond-pulse {
+  0%, 100% {
+    stroke-opacity: 0.3;
+    stroke-width: 1;
+  }
+  50% {
+    stroke-opacity: 0.8;
+    stroke-width: 2;
+  }
+}
+
+/* Beaker filling effect */
+@keyframes beaker-fill {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* ========================================
+   Lab Effects
+   ======================================== */
+
+/* Flickering light effect */
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  10% { opacity: 0.9; }
+  20% { opacity: 1; }
+  30% { opacity: 0.85; }
+  40% { opacity: 1; }
+  50% { opacity: 0.95; }
+  60% { opacity: 1; }
+  70% { opacity: 0.9; }
+  80% { opacity: 1; }
+  90% { opacity: 0.88; }
+}
+
+/* Smoke/vapor rise */
+@keyframes vapor-rise {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.1;
+  }
+  100% {
+    transform: translateY(-100px) scale(1.5);
+    opacity: 0;
+  }
+}
+
+/* Bunsen flame */
+@keyframes flame-flicker {
+  0%, 100% {
+    transform: scaleY(1) scaleX(1);
+    filter: brightness(1);
+  }
+  25% {
+    transform: scaleY(1.1) scaleX(0.95);
+    filter: brightness(1.1);
+  }
+  50% {
+    transform: scaleY(0.95) scaleX(1.05);
+    filter: brightness(0.95);
+  }
+  75% {
+    transform: scaleY(1.05) scaleX(0.98);
+    filter: brightness(1.05);
+  }
+}
+
+/* ========================================
+   UI Animations
+   ======================================== */
+
+/* Staggered entrance */
+@keyframes stagger-in {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Subtle bounce */
+@keyframes bounce-subtle {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Scan line effect */
+@keyframes scan-line {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+/* ========================================
+   Animation Utility Classes
+   ======================================== */
+
+.animate-glow-pulse {
+  animation: glow-pulse 2s ease-in-out infinite;
+}
+
+.animate-text-glow-pulse {
+  animation: text-glow-pulse 2s ease-in-out infinite;
+}
+
+.animate-border-glow {
+  animation: border-glow 3s ease-in-out infinite;
+}
+
+.animate-dissolve-in {
+  animation: dissolve-in 0.6s ease-out forwards;
+}
+
+.animate-crystallize {
+  animation: crystallize 0.5s ease-out forwards;
+}
+
+.animate-flicker {
+  animation: flicker 3s linear infinite;
+}
+
+.animate-vapor {
+  animation: vapor-rise 3s ease-out infinite;
+}
+
+.animate-flame {
+  animation: flame-flicker 0.5s ease-in-out infinite;
+}
+
+.animate-stagger-in {
+  animation: stagger-in 0.5s ease-out forwards;
+}
+
+.animate-bounce-subtle {
+  animation: bounce-subtle 2s ease-in-out infinite;
+}
+
+/* Staggered delay classes */
+.stagger-1 { animation-delay: 0.1s; }
+.stagger-2 { animation-delay: 0.2s; }
+.stagger-3 { animation-delay: 0.3s; }
+.stagger-4 { animation-delay: 0.4s; }
+.stagger-5 { animation-delay: 0.5s; }
+
+/* Scroll-triggered animations (add via JS intersection observer) */
+.scroll-animate {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.scroll-animate.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Card hover lift effect */
+.hover-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3),
+              0 0 15px rgba(0, 255, 157, 0.1);
+}
+
+/* Shimmer loading effect */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(
+    90deg,
+    rgba(61, 61, 61, 0.1) 0%,
+    rgba(61, 61, 61, 0.2) 50%,
+    rgba(61, 61, 61, 0.1) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* ========================================
+   Reduced Motion Support
+   ======================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

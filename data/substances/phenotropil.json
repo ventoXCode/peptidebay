@@ -1,0 +1,155 @@
+{
+  "slug": "phenotropil",
+  "url": "https://dopamine.club/substances/phenotropil/",
+  "scrapedAt": "2026-02-12T16:10:34.218Z",
+  "title": "PHENOTROPIL",
+  "description": "Phenotropil (also known as fonturacetam or carphedon) is a nootropic drug derived from piracetam with an added phenyl group, providing enhanced blood-brain barrier penetration. It exhibits multiple pharmacological effects including cognitive enhancement, anxiolytic, antidepressant, anti-inflammatory, and stimulant properties, primarily working through modulation of neurotransmitter systems and demonstrating neuroprotective effects in cerebral ischemia and neurodegeneration.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Investigation into stereoselective pharmacological activity of phenotropil",
+      "summary": "Research comparing R- and S-enantiomers found that R-phenotropil showed significant locomotor activity increases at 10-50 mg/kg and antidepressant effects at 50-100 mg/kg, while both enantiomers demonstrated different pharmacological profiles in behavioral tests.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21689376/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of nootropic drugs on behavior of BALB/c and C57BL/6 mice in the exploratory cross-maze test",
+      "summary": "Phenotropil improved exploratory behavior in anxious BALB/c mice, reduced anxiety, and increased locomotor activity, demonstrating clear positive modulation of spontaneous orientation in mice with initially low exploratory efficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23025044/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative evaluation of the neuroprotective activity of phenotropil and piracetam in laboratory animals with experimental cerebral ischemia",
+      "summary": "Phenotropil demonstrated superior neuroprotective properties compared to piracetam, reducing neurological deficiency, maintaining cognitive functions, increasing survival rates, and promoting restoration of cerebral blood flow in ischemic conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17523446/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of nootropic drugs on hippocampal and cortical BDNF levels in mice with different exploratory behavior efficacy",
+      "summary": "Phenotropil increased brain-derived neurotrophic factor (BDNF) levels in the hippocampus of mice with low exploratory efficiency, suggesting its nootropic effects may be mediated through BDNF-dependent neuroplasticity mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20095391/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Psychoimmunomodulatory effect of phenotropil in animals with immune stress",
+      "summary": "Phenotropil at 25 mg/kg demonstrated psychoimmunomodulatory effects in rats with LPS-induced immune stress, preventing anxiety and fear responses while improving locomotor activity and immunoreactivity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22442801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Identification and evaluation of the neuroleptic activity of phenotropil",
+      "summary": "Phenotropil showed marked neuroleptic activity in models of both positive and negative psychosis symptoms without sedative effects or adverse reactions typical of traditional antipsychotics, while exhibiting anxiolytic and antidepressant actions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23994920/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Complex treatment of epilepsy with phenotropil",
+      "summary": "When added to antiepileptic drugs, phenotropil at 100 mg daily for 2 months significantly reduced seizure frequency and improved EEG parameters with reduction in epileptiform changes in epilepsy patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18379471/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological effects of fonturacetam (Actitropil) and prospects for its clinical use",
+      "summary": "Comprehensive analysis indicates phenylpiracetam shows promise for cerebral ischemia, neurodegenerative diseases, epilepsy, and mental disorders, with adaptogenic properties and mitochondrial protective effects affecting neurotransmitter systems and metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39269293/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with phenotropil for focus, energy, and cognitive enhancement, with many noting immediate stimulant effects and improved productivity. Some users experience initial side effects like anxiety or crashes, which can be mitigated with choline supplementation or dosage adjustments."
+  },
+  "effects": [
+    {
+      "label": "First-Time Use:",
+      "description": "Effects are often noticeable on first use with immediate impact, though some users report sleepiness initially before the body adapts to stimulant properties"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effectiveness varies significantly between individuals, with some experiencing strong benefits while others report minimal effects or adverse reactions"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Users note that effects may diminish after 4-8 weeks of continuous use, with cycling recommended to maintain effectiveness"
+    },
+    {
+      "label": "Comparison to Other Nootropics:",
+      "description": "Generally considered more potent than piracetam for acute effects, with users preferring it for one-time or intermittent use rather than daily supplementation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "100mg is commonly mentioned as a starting dose, with users reporting noticeable effects at this level"
+    },
+    {
+      "label": "Optimal Range:",
+      "description": "200-300mg appears to be the sweet spot for most users, providing mood boost, energy, and productivity without excessive side effects"
+    },
+    {
+      "label": "Maximum Dose:",
+      "description": "500mg per day is cited as the upper limit, with higher doses not necessarily providing better results and potentially increasing crash severity"
+    },
+    {
+      "label": "Timing & Cycling:",
+      "description": "Users recommend taking earlier in the day to avoid sleep disruption, with 2-3 days on followed by rest periods, or 5 days on with weekends off to prevent tolerance"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Energy Crash:",
+      "description": "Multiple users report significant crashes 5+ hours after dosing, particularly at higher doses (200mg+), with fatigue and mood decline"
+    },
+    {
+      "label": "Anxiety & Overstimulation:",
+      "description": "Some users experience increased anxiety, restlessness, or jitteriness, especially at doses above 100mg without choline supplementation"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Reported by several users, typically preventable or reducible by adding CDP-choline or alpha-GPC to the regimen"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Can interfere with sleep if taken too late in the day, with users noting the importance of morning administration"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Banned by WADA for competitive sports since 1998, but available as a dietary supplement in some regions with varying regulatory status internationally"
+    },
+    {
+      "label": "Original Russian Formulation:",
+      "description": "Users specifically seek out original Russian phenotropil brands, suggesting quality and formulation differences between sources"
+    },
+    {
+      "label": "Prescription vs OTC:",
+      "description": "Availability varies by country, with some regions requiring prescription while others allow over-the-counter purchase as a nootropic supplement"
+    }
+  ],
+  "related": [
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "CAFFEINE",
+      "slug": "caffeine"
+    },
+    {
+      "name": "HYDRAFINIL",
+      "slug": "hydrafinil"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    }
+  ]
+}

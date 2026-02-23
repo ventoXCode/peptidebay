@@ -1,0 +1,137 @@
+{
+  "slug": "igf-1-lr3",
+  "url": "https://dopamine.club/substances/igf-1-lr3/",
+  "scrapedAt": "2026-02-12T16:08:49.977Z",
+  "title": "IGF-1 LR3",
+  "description": "Insulin-like Growth Factor 1 Long R3 (IGF-1 LR3) is a synthetic analog of human IGF-1 modified with an arginine substitution and an N-terminus extension to significantly reduce its affinity for binding proteins. This modification extends its half-life to approximately 20-30 hours, allowing for prolonged activation of the IGF-1 receptor to stimulate cellular proliferation, protein synthesis, and tissue regeneration.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Inhibition of activin-like kinase 4/5 attenuates cancer cachexia associated muscle wasting",
+      "summary": "This study demonstrated that IGF-1 LR3 increases muscle fiber differentiation and nuclei count, showing synergistic potential in preventing muscle wasting when combined with myostatin inhibitors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31285507/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Revolutionary decellularized Alstroemeria stem-based nerve conduit integrated with GelMA and controlled IGF-1 LR3 release for enhanced rat sciatic nerve regeneration",
+      "summary": "Research showed that controlled release of IGF-1 LR3 significantly enhances nerve regeneration and functional recovery in sciatic nerve injury models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41015370/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sheep recombinant IGF-1 promotes organ-specific growth in fetal sheep",
+      "summary": "Experiments confirmed that IGF-1 LR3 increases body weight, organ growth, and skeletal muscle myoblast proliferation, though it lacks the physiological regulation of natural IGF-1.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36091374/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Coronary vascular growth matches IGF-1-stimulated cardiac growth in fetal sheep",
+      "summary": "Administration of IGF-1 LR3 was found to increase cardiomyocyte proliferation and heart mass while maintaining proportional coronary vascular conductance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32573852/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Attenuated glucose-stimulated insulin secretion during an acute IGF-1 LR3 infusion into fetal sheep does not persist in isolated islets",
+      "summary": "Infusion of IGF-1 LR3 was shown to decrease plasma insulin concentrations and reduce glucose-stimulated insulin secretion in vivo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37114757/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally acknowledge its high potency for muscle growth and injury recovery, but frequent concerns regarding long-term cancer risks and impacts on insulin sensitivity create a cautious sentiment."
+  },
+  "effects": [
+    {
+      "label": "Anabolic Potency:",
+      "description": "Considered significantly more effective than standard IGF-1 due to its resistance to binding proteins."
+    },
+    {
+      "label": "Half-Life:",
+      "description": "Its extended duration of action (20+ hours) allows for systemic effects rather than just localized growth."
+    },
+    {
+      "label": "Vascular Benefits:",
+      "description": "Research indicates it can promote cardiac and vascular growth in proportion to muscle expansion."
+    },
+    {
+      "label": "Age Factors:",
+      "description": "Users with low natural IGF-1 baselines report more dramatic improvements in fatigue and recovery."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Experimental Range:",
+      "description": "Common anecdotal research doses range from 20mcg to 100mcg per day."
+    },
+    {
+      "label": "Administration:",
+      "description": "Typically administered via subcutaneous or intramuscular injection due to its peptide structure."
+    },
+    {
+      "label": "Protocol Length:",
+      "description": "Frequently cycled for 4-6 weeks to avoid excessive down-regulation of native receptors."
+    },
+    {
+      "label": "Timing:",
+      "description": "Often used post-workout to leverage peak nutrient sensitivity for recovery."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hypoglycemia:",
+      "description": "Can cause significant drops in blood sugar levels due to its insulin-like action."
+    },
+    {
+      "label": "Insulin Resistance:",
+      "description": "Long-term use or high doses can impair natural glucose-stimulated insulin secretion."
+    },
+    {
+      "label": "Organ Growth:",
+      "description": "Potential for unwanted growth of internal organs (visceromegaly) with prolonged use."
+    },
+    {
+      "label": "Cancer Risk:",
+      "description": "Concerns exist that elevated IGF-1 levels may accelerate the growth of existing undiagnosed tumors."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemicals:",
+      "description": "Primarily sold through research chemical sources as 'not for human consumption'."
+    },
+    {
+      "label": "Grey Market:",
+      "description": "Significant presence in the bodybuilding community, though quality and purity vary between sources."
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Specifically banned by WADA and most professional athletic organizations as a performance-enhancing drug."
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    }
+  ]
+}

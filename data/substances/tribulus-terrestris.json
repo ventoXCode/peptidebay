@@ -1,0 +1,156 @@
+{
+  "slug": "tribulus-terrestris",
+  "url": "https://dopamine.club/substances/tribulus-terrestris/",
+  "scrapedAt": "2026-02-12T16:11:53.573Z",
+  "title": "TRIBULUS TERRESTRIS",
+  "description": "Tribulus terrestris is a plant from the Zygophyllaceae family containing bioactive compounds including steroidal saponins, flavonoids, and alkaloids. It is traditionally used in Ayurvedic and Chinese medicine and commonly marketed as a supplement for sexual health, athletic performance, and testosterone enhancement. The mechanism involves potential effects on nitric oxide production and SHBG (sex hormone-binding globulin) inhibition, though clinical evidence for testosterone-boosting effects remains limited and controversial.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pro-sexual and androgen enhancing effects of Tribulus terrestris L.: Fact or Fiction",
+      "summary": "Comprehensive review found scant and inconclusive scientific evidence supporting claims that Tribulus terrestris acts as an aphrodisiac or androgen-enhancing supplement, despite its widespread marketing for these purposes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26727646/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Tribulus (Tribulus terrestris L.) Supplementation on Erectile Dysfunction and Testosterone Levels in Men-A Systematic Review of Clinical Trials",
+      "summary": "Systematic review evaluating clinical trials found insufficient evidence that Tribulus terrestris supplementation significantly improves erectile function or increases serum testosterone levels in men.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40219032/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Do 'testosterone boosters' really increase serum total testosterone? A systematic review",
+      "summary": "Comprehensive systematic review of testosterone booster supplements over two decades found that most products, including those containing Tribulus terrestris, lack verified efficacy in increasing total testosterone levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37697053/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rhabdomyolysis Risk: The Dangers of Tribulus Terrestris, an Over-the-Counter Supplement",
+      "summary": "Case report documented severe rhabdomyolysis in a 71-year-old patient taking Tribulus terrestris while on atorvastatin, highlighting potential dangerous interactions between this supplement and statin medications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39012853/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of 6 Weeks of Tribulus terrestris L. Supplementation on Body Composition, Hormonal Response, Perceived Exertion, and CrossFit Performance: A Randomized, Single-Blind, Placebo-Controlled Study",
+      "summary": "Six-week randomized controlled trial found that Tribulus terrestris supplementation did not significantly improve body composition, hormonal response, or CrossFit performance compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34836225/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Tribulus terrestris L. supplementation on Exercise-Induced Oxidative Stress and Delayed Onset Muscle Soreness Markers: A Pilot Study",
+      "summary": "Pilot study found that Tribulus terrestris supplementation showed some effects on attenuating oxidative stress and inflammatory responses to exercise, though results were preliminary and require further investigation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36073362/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Supplement with Tribulus terrestris L. Extract Exhibits Protective Effects on Ischemic Stroke Rats",
+      "summary": "Animal study demonstrated that gross saponins from Tribulus terrestris reduced inflammatory markers and exhibited neuroprotective effects in rats with ischemic stroke through anti-inflammatory pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37876150/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Photosensitivity induced by Tribulus terrestris extract supplement",
+      "summary": "Case report documented photosensitivity reaction caused by Tribulus terrestris extract supplementation, indicating potential dermatological side effects from its use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40580949/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User consensus is predominantly negative, with most reporting minimal to no effects on testosterone or performance, and many experiencing side effects. The majority of experienced users and commenters recommend avoiding it in favor of proven alternatives, consistently calling it ineffective or a waste of money."
+  },
+  "effects": [
+    {
+      "label": "Testosterone Claims Disputed:",
+      "description": "Scientific reviews and user consensus strongly indicate Tribulus does not significantly increase testosterone levels, with research showing no verified efficacy"
+    },
+    {
+      "label": "Placebo vs Real Effects:",
+      "description": "Many users and experts suggest any perceived benefits are likely placebo, with controlled studies failing to demonstrate meaningful improvements in hormonal markers or performance"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "A small subset of users report positive responses, particularly for libido, suggesting possible responders based on individual biochemistry or SHBG levels"
+    },
+    {
+      "label": "Comparison to Alternatives:",
+      "description": "Users consistently rate other supplements (L-Tyrosine, Tongkat Ali, Maca) as more effective, with many recommending actual TRT over any herbal testosterone boosters"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Range:",
+      "description": "Users typically take 750-1500mg daily, often split between morning and afternoon doses, though standardization varies significantly between products"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Multiple users suggest cycling on/off to prevent tolerance, with some taking breaks every few weeks or one day off per week"
+    },
+    {
+      "label": "Extract Standardization:",
+      "description": "Bulgarian extracts and products standardized for saponin content (40-45%) are mentioned as potentially more effective than generic formulations"
+    },
+    {
+      "label": "Overdose Concerns:",
+      "description": "Doses above 2000mg daily are rarely discussed, with higher amounts not appearing to provide additional benefits and possibly increasing side effect risk"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cardiovascular Effects:",
+      "description": "Users report heart racing, elevated blood pressure, anxiety, and irregular heart rate, particularly when combined with other stimulants"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Documented cases of severe rhabdomyolysis when combined with statins, and potential interactions with other cardiovascular medications"
+    },
+    {
+      "label": "Erectile Issues:",
+      "description": "Paradoxically, some users report decreased erectile function or going limp during sexual activity after initial positive effects"
+    },
+    {
+      "label": "Photosensitivity:",
+      "description": "Medical case reports document skin photosensitivity reactions, and users should be aware of potential dermatological side effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily purchased online and in supplement stores, though quality and standardization vary significantly between brands and countries"
+    },
+    {
+      "label": "Brand Skepticism:",
+      "description": "Users express concerns about proprietary blends, insufficient dosing in combination products, and deceptive marketing, particularly from Vietnamese brands"
+    },
+    {
+      "label": "Unregulated Market:",
+      "description": "As an unregulated supplement, actual content may not match labels, with users recommending reputable brands like NOW Sports or standardized Bulgarian extracts"
+    }
+  ],
+  "related": [
+    {
+      "name": "FADOGIA AGRESTIS",
+      "slug": "fadogia-agrestis"
+    },
+    {
+      "name": "FENUGREEK",
+      "slug": "fenugreek"
+    },
+    {
+      "name": "HORNY GOAT WEED (EPIMEDIUM)",
+      "slug": "horny-goat-weed-epimedium"
+    },
+    {
+      "name": "MACA",
+      "slug": "maca"
+    },
+    {
+      "name": "Mucuna Pruriens",
+      "slug": "mucuna-pruriens"
+    }
+  ]
+}

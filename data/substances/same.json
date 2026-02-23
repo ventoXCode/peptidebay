@@ -1,0 +1,143 @@
+{
+  "slug": "same",
+  "url": "https://dopamine.club/substances/same/",
+  "scrapedAt": "2026-02-12T16:11:06.965Z",
+  "title": "SAME",
+  "description": "S-Adenosylmethionine (SAMe) is a naturally occurring molecule in the body that serves as a methyl donor in numerous biochemical reactions. It plays a critical role in neurotransmitter synthesis, liver function, and methylation processes. SAMe is primarily used as a supplement for depression, liver health, joint pain (osteoarthritis), and mood disorders.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Efficacy of a food supplement based on S-adenosyl methionine and probiotic strains in subjects with subthreshold depression and mild-to-moderate depression: A monocentric, randomized, cross-over, double-blind, placebo-controlled clinical trial",
+      "summary": "A combination of SAMe (200mg/day) and probiotics significantly reduced depression symptoms on both HAM-D and PHQ-9 scales compared to placebo in subjects with subthreshold and mild-to-moderate depression over three months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36411659/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "S-Adenosylmethionine (SAMe) in major depressive disorder (MDD): a clinician-oriented systematic review",
+      "summary": "Systematic review found SAMe showed antidepressant effects in several trials, with some studies showing significant improvement over placebo, though results were mixed when compared to other antidepressants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32958049/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Adjunctive S-adenosylmethionine (SAMe) in treating non-remittent major depressive disorder: An 8-week double-blind, randomized, controlled trial",
+      "summary": "Study of 107 patients found no significant difference between 800mg/day SAMe and placebo as adjunctive treatment for depression, with both groups showing 50%+ response rates due to high placebo response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30006096/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety and efficacy of S-adenosylmethionine (SAMe) for osteoarthritis",
+      "summary": "Meta-analysis found SAMe was more effective than placebo in reducing functional limitation in osteoarthritis patients and appeared comparable to NSAIDs for pain relief, with fewer adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12019049/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "S-Adenosylmethionine (SAMe) for Liver Health: A Systematic Review",
+      "summary": "Systematic review of 15 high-quality studies found SAMe effective in improving liver-related parameters with few adverse events, primarily mild gastrointestinal complaints.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39519500/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "S-adenosylmethionine and depression",
+      "summary": "Review of clinical studies found SAMe safe and effective in treating mild and moderate depression, with potential as complementary or alternative therapy to traditional antidepressants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12043126/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User sentiment is genuinely mixed, with some reporting significant mood improvements and others experiencing no effects or side effects. Many users note SAMe works well for specific conditions like liver health and joint pain, but effectiveness for depression varies considerably, with some experiencing emotional blunting or no response."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies dramatically between users, with some experiencing life-changing benefits while others notice no effects whatsoever"
+    },
+    {
+      "label": "Depression Treatment:",
+      "description": "Results for depression are mixed in both research and user reports, with some finding it as effective as SSRIs and others finding it ineffective or inferior to prescription medications"
+    },
+    {
+      "label": "Combined Therapy:",
+      "description": "SAMe appears to work better when combined with other supplements (probiotics, B-vitamins) or as adjunctive therapy rather than standalone treatment"
+    },
+    {
+      "label": "Onset Time:",
+      "description": "Users report effects can take 2-4 weeks to become noticeable, with some experiencing immediate benefits and others requiring longer supplementation periods"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Depression Dose:",
+      "description": "200-800mg daily is commonly used for mood support, with some clinical trials using up to 1600mg daily for major depressive disorder"
+    },
+    {
+      "label": "Liver Health Dose:",
+      "description": "1000-1200mg daily is frequently mentioned for liver support and detoxification purposes"
+    },
+    {
+      "label": "Timing:",
+      "description": "Most users take SAMe in the morning on an empty stomach for best absorption, as it can be activating for some people"
+    },
+    {
+      "label": "Forms:",
+      "description": "Enteric-coated tablets and sublingual forms (like methylcobalamin) are preferred for better absorption and reduced gastrointestinal upset"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Mild nausea, upset stomach, and digestive discomfort are the most commonly reported side effects, particularly at higher doses"
+    },
+    {
+      "label": "Emotional Blunting:",
+      "description": "Some users report feeling emotionally flat, numb, or experiencing reduced emotional range while taking SAMe"
+    },
+    {
+      "label": "Activation/Anxiety:",
+      "description": "A subset of users experience increased anxiety, restlessness, or overstimulation, particularly those sensitive to methylation"
+    },
+    {
+      "label": "Serotonin Concerns:",
+      "description": "Rare reports of serotonin syndrome-like symptoms when combined with other antidepressants, requiring medical supervision when used with SSRIs"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "SAMe is widely available as an OTC supplement in the US and many countries, found in pharmacies and health food stores"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of choosing reputable brands with enteric-coated formulations to ensure stability and absorption"
+    },
+    {
+      "label": "Cost Factor:",
+      "description": "SAMe is relatively expensive compared to other supplements, with quality products costing $30-60 per month at therapeutic doses"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "GLA",
+      "slug": "gla"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    }
+  ]
+}

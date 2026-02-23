@@ -1,0 +1,119 @@
+{
+  "slug": "ghrelin",
+  "url": "https://dopamine.club/substances/ghrelin/",
+  "scrapedAt": "2026-02-12T16:08:00.541Z",
+  "title": "GHRELIN",
+  "description": "Ghrelin is a 28-amino acid gastric peptide hormone that serves as the endogenous ligand for the growth hormone secretagogue receptor (GHSR). It plays a critical role in neuroendocrine regulation by stimulating growth hormone release, Increasing appetite (orexigenic effect), and coordinating energy metabolism between the gut and the brain.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Molecular Mechanisms and Health Benefits of Ghrelin: A Narrative Review",
+      "summary": "This review details how ghrelin activates the GHSR to promote appetite, pleasure-reward eating, and various metabolic functions throughout the body.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36235843/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Structure and physiological actions of ghrelin",
+      "summary": "This research explains the unique n-octanoylation modification of ghrelin required for its biological activity and its production in the stomach and hypothalamus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24381790/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ghrelin: Integrative Neuroendocrine Peptide in Health and Disease",
+      "summary": "Researchers identified ghrelin as a mediator of growth hormone release that coordinates energy needs with growth processes and body weight regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15024307/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ghrelin: Structure and Function",
+      "summary": "A foundational study using reverse pharmacology to identify ghrelin as the natural ligand for the growth hormone secretagogue receptor in rat and human tissues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15805548/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally value Ghrelin mimetics for muscle growth and recovery, but frequently report significant challenges with intense hunger and potential blood sugar disruption."
+  },
+  "effects": [
+    {
+      "label": "Appetite Induction:",
+      "description": "Highly effective at triggering hunger, making it useful for those struggling with wasting syndromes or poor caloric intake."
+    },
+    {
+      "label": "Muscle Recovery:",
+      "description": "Users report improved recovery times and better sleep quality when using ghrelin-mimicking peptides."
+    },
+    {
+      "label": "Anabolic Synergy:",
+      "description": "Often cited as most effective when combined with other compounds to maximize growth hormone pulses."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Frequency:",
+      "description": "Commonly administered via peptide mimetics (like Ipamorelin or GHRPs) 1-3 times daily."
+    },
+    {
+      "label": "Timing:",
+      "description": "Most effective when taken on an empty stomach to avoid interference from blood glucose and insulin levels."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Users often recommend cycling the compound to prevent receptor desensitization."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Intense Hunger:",
+      "description": "The most common side effect, which can lead to unwanted fat gain if diet is not strictly controlled."
+    },
+    {
+      "label": "Water Retention:",
+      "description": "Users frequently report 'moon face' or edema due to sodium and water storage."
+    },
+    {
+      "label": "Lethargy:",
+      "description": "High pulses of growth hormone can lead to daytime sleepiness or a 'heavy' feeling."
+    },
+    {
+      "label": "Insulin Resistance:",
+      "description": "Long-term use or high doses may negatively impact glycemic control."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemicals:",
+      "description": "Primarily sourced as research-grade peptides through specialized online vendors."
+    },
+    {
+      "label": "Clinical Use:",
+      "description": "Approved pharmaceutical versions (like Anamorelin) are regulated and typically indicated for cancer cachexia."
+    }
+  ],
+  "related": [
+    {
+      "name": "FOLLISTATIN 344",
+      "slug": "follistatin-344"
+    },
+    {
+      "name": "MODIFIED GRF 1-29",
+      "slug": "modified-grf-1-29"
+    },
+    {
+      "name": "SS-31",
+      "slug": "ss-31"
+    },
+    {
+      "name": "WOLVERINE STACK",
+      "slug": "wolverine-stack"
+    },
+    {
+      "name": "ACE-031",
+      "slug": "ace-031"
+    }
+  ]
+}

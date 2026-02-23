@@ -1,0 +1,125 @@
+{
+  "slug": "papain",
+  "url": "https://dopamine.club/substances/papain/",
+  "scrapedAt": "2026-02-12T16:10:29.909Z",
+  "title": "PAPAIN",
+  "description": "Papain is a proteolytic enzyme derived from papaya (Carica papaya) that breaks down proteins into smaller peptides and amino acids. It functions as a digestive aid by supporting protein digestion in the gastrointestinal tract and has applications in reducing inflammation and improving digestive health. Papain is commonly used in digestive enzyme supplements, often combined with bromelain and other proteases.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Papaya preparation (Caricol®) in digestive disorders",
+      "summary": "Clinical observations revealed positive effects of papaya preparation on abnormal digestion, providing evidence for its physiological effects in humans with digestive disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23524622/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Proteases from Pineapple and Papaya on Protein Digestive Capacity and Gut Microbiota in Healthy C57BL/6 Mice",
+      "summary": "Study examined how papain affects protein digestive capacity and gut microbiota composition, showing dose-dependent effects on mucosal permeability in intestinal tissue models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36355110/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exploring the extraction, functional properties, and industrial applications of papain from Carica papaya",
+      "summary": "Comprehensive review of papain's extraction methods, functional properties, and diverse industrial applications including pharmaceutical and food processing uses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39077990/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with papain-containing digestive enzymes, noting improvements in protein digestion, reduced bloating, and better stomach health. Most users report it works well for digestive support with minimal side effects, though effectiveness varies by individual and formulation quality."
+  },
+  "effects": [
+    {
+      "label": "Digestive Aid:",
+      "description": "Most effective when taken with meals containing protein, with users reporting noticeable improvements in digestion within days to weeks"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Works best when combined with other proteolytic enzymes like bromelain and various proteases rather than as a standalone supplement"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between individuals, with some experiencing dramatic improvements while others notice minimal effects"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "OTC papaya enzyme supplements vary widely in actual papain content, with some products containing much lower protein concentrations than labeled amounts"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most digestive enzyme formulations contain 15-50mg papain per serving, typically taken with meals"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Usually taken 1-2 times daily with protein-containing meals, or as needed for digestive support"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often found in enzyme blends at 4-10mg alongside other proteases like bromelain (100-500mg) and various other digestive enzymes"
+    },
+    {
+      "label": "Empty Stomach:",
+      "description": "Some users take proteolytic enzyme blends on an empty stomach for anti-inflammatory effects rather than digestive support"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal to no side effects when taking papain-containing digestive enzymes at recommended doses"
+    },
+    {
+      "label": "Potential Allergies:",
+      "description": "Some individuals may experience allergic reactions to papain, particularly those sensitive to papaya or latex"
+    },
+    {
+      "label": "Odor Issues:",
+      "description": "Enzyme supplements containing papain may have unpleasant sulfur-based smells due to the molecular structure"
+    },
+    {
+      "label": "Digestive Concerns:",
+      "description": "Rarely, users report increased stomach sensitivity or reflux, though this is uncommon at normal doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Wide Availability:",
+      "description": "Papain is commonly found in over-the-counter digestive enzyme supplements at pharmacies and health food stores, often as papaya enzyme chewables"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Independent testing shows significant variation in actual papain content between brands, with some containing much less than labeled amounts"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Most commonly available in multi-enzyme formulations rather than as isolated papain supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

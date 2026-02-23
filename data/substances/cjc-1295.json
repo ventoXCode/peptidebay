@@ -1,0 +1,130 @@
+{
+  "slug": "cjc-1295",
+  "url": "https://dopamine.club/substances/cjc-1295/",
+  "scrapedAt": "2026-02-12T16:06:48.452Z",
+  "title": "CJC-1295",
+  "description": "CJC-1295 is a synthetic growth hormone-releasing hormone (GHRH) analog that stimulates growth hormone secretion. It provides sustained GH release and is popular for anti-aging, muscle growth, fat loss, and recovery enhancement.",
+  "categories": [
+    "Peptide",
+    "GH"
+  ],
+  "research": [
+    {
+      "title": "Prolonged stimulation of growth hormone and insulin-like growth factor I secretion by CJC-1295 in healthy adults",
+      "summary": "CJC-1295 effectively increases growth hormone and IGF-I levels in healthy adults with potential therapeutic utility.",
+      "url": "https://doi.org/10.1210/JC.2005-1536",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "Once-daily administration of CJC-1295 normalizes growth in the GHRH knockout mouse",
+      "summary": "Once-daily CJC-1295 maintains normal body composition and growth in GHRH knockout mice.",
+      "url": "https://doi.org/10.1152/AJPENDO.00201.2006",
+      "source": "(American Journal of Physiology)"
+    },
+    {
+      "title": "Human growth hormone-releasing factor albumin bioconjugates activate the GRF receptor on the anterior pituitary in rats: identification of CJC-1295",
+      "summary": "CJC-1295 is a stable, active human growth hormone-releasing factor analog with extended plasma half-life.",
+      "url": "https://doi.org/10.1210/EN.2004-1286",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "Pulsatile secretion of growth hormone persists during continuous stimulation by CJC-1295",
+      "summary": "CJC-1295 increases GH secretion and IGF-I production with preserved pulsatility, suggesting clinical utility.",
+      "url": "https://doi.org/10.1210/JC.2006-1702",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "Netnography of Female Use of the Synthetic Growth Hormone CJC-1295: Pulses and Potions",
+      "summary": "Females self-medicate with CJC-1295 for weight loss, muscle enhancement, youthful skin, improved sleep, and injury healing.",
+      "url": "https://doi.org/10.3109/10826084.2015.1082595",
+      "source": "(Taylor and Francis Online)"
+    }
+  ],
+  "sentiment": {
+    "positive": 70,
+    "summary": "Users report improved sleep, recovery, and body composition. Often preferred stacked with a GHRP for synergistic GH release. Results take weeks to become noticeable."
+  },
+  "effects": [
+    {
+      "label": "Synergy with GHRPs:",
+      "description": "Best results when combined with GHRP-2 or GHRP-6."
+    },
+    {
+      "label": "Gradual Benefits:",
+      "description": "Changes in body composition take 2-3 months to manifest."
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Results vary based on age and baseline GH levels."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "1-2mg per week, divided into 2-3 injections."
+    },
+    {
+      "label": "Timing:",
+      "description": "Often injected before bed to complement natural GH pulse."
+    },
+    {
+      "label": "Subcutaneous:",
+      "description": "Typically administered via subcutaneous injection."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Water Retention:",
+      "description": "Temporary bloating possible during initial use."
+    },
+    {
+      "label": "Numbness/Tingling:",
+      "description": "Some users experience paresthesia."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Minor irritation at injection site."
+    },
+    {
+      "label": "Joint Pain:",
+      "description": "Possible with elevated GH levels."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide research suppliers."
+    },
+    {
+      "label": "Not FDA Approved:",
+      "description": "Sold for research purposes only."
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Source from reputable vendors."
+    }
+  ],
+  "related": [
+    {
+      "name": "CJC+DAC",
+      "slug": "cjc-dac"
+    },
+    {
+      "name": "GHRP-2",
+      "slug": "ghrp-2"
+    },
+    {
+      "name": "GHRP-6",
+      "slug": "ghrp-6"
+    },
+    {
+      "name": "IBUTAMOREN (MK-677)",
+      "slug": "ibutamoren-mk-677"
+    },
+    {
+      "name": "Ipamorelin",
+      "slug": "ipamorelin"
+    }
+  ]
+}

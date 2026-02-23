@@ -1,0 +1,290 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import substances from '../../data/substances.json';
+
+// Category colors - using hex values for inline styles
+const categoryColors: Record<string, string> = {
+  'Peptide': '#00ff9d',
+  'Supplement': '#ffb700', 
+  'Nootropic': '#00d4ff',
+  'SARM': '#e6ff00',
+  'Adaptogen': '#a855f7',
+  'Herb': '#22c55e',
+  'Medicine': '#ff2d2d',
+  'Amino Acid': '#22c55e',
+};
+
+// Count PRIMARY categories only (first in the list)
+const primaryCategoryCounts: Record<string, number> = {};
+substances.forEach(s => {
+  if (s.categories && s.categories.length > 0) {
+    const primary = s.categories[0];
+    primaryCategoryCounts[primary] = (primaryCategoryCounts[primary] || 0) + 1;
+  }
+});
+
+// Only include categories that have at least 1 primary substance
+const categories = Object.entries(primaryCategoryCounts)
+  .filter(([name, count]) => count > 0)
+  .sort((a, b) => b[1] - a[1])
+  .map(([name, count]) => ({ name, count }));
+
+// Generate element symbol from name
+function getSymbol(name: string): string {
+  const cleanName = name.toUpperCase().replace(/[^A-Z0-9]/g, '');
+  if (cleanName.length <= 3) return cleanName;
+  
+  const parts = name.split(/[-_\s]/);
+  if (parts.length > 1) {
+    return parts.map(p => p[0]).join('').toUpperCase().slice(0, 3);
+  }
+  
+  return cleanName.slice(0, 3);
+}
+
+function getPrimaryCategory(cats: string[]): string {
+  return cats[0] || 'Unknown';
+}
+
+function getCategoryIndex(cats: string[]): number {
+  const idx = categories.findIndex(c => c.name === cats[0]);
+  return idx >= 0 ? idx + 1 : 0;
+}
+
+function getCategoryColor(cat: string): string {
+  return categoryColors[cat] || '#6d6d6d';
+}
+---
+
+<BaseLayout title="The Lab - Database" description="Browse 506+ research compounds including peptides, nootropics, supplements, and more.">
+  
+<section class="py-8 lg:py-12">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Header -->
+    <div class="mb-8">
+      <h1 class="font-heading text-3xl sm:text-4xl font-bold text-industrial-100 mb-2">
+        <span class="text-chem-green">The Lab</span>
+      </h1>
+      <p class="text-industrial-400">
+        Comprehensive compound database — Browse, search, and research
+      </p>
+    </div>
+
+    <!-- Search and Filters -->
+    <div class="mb-8 space-y-4">
+      <!-- Search -->
+      <div class="relative max-w-2xl">
+        <input 
+          type="text" 
+          id="search-input"
+          placeholder="Search compounds..."
+          class="search-lab w-full pl-12"
+        />
+        <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-industrial-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+      </div>
+      
+      <!-- Category Filters - Only categories with primary substances -->
+      <div class="flex flex-wrap gap-2">
+        <button 
+          class="filter-pill active"
+          data-category="all"
+          style="--cat-color: #00ff9d"
+        >
+          <span class="filter-dot" style="background: #00ff9d"></span>
+          All ({substances.length})
+        </button>
+        {categories.map(cat => (
+          <button 
+            class="filter-pill"
+            data-category={cat.name.toLowerCase()}
+            style={`--cat-color: ${getCategoryColor(cat.name)}`}
+          >
+            <span class="filter-dot" style={`background: ${getCategoryColor(cat.name)}`}></span>
+            {cat.name} ({cat.count})
+          </button>
+        ))}
+      </div>
+    </div>
+
+    <!-- Results count -->
+    <div class="mb-6 text-sm text-industrial-400 font-mono">
+      Showing <span id="visible-count" class="text-chem-green">{substances.length}</span> compounds
+    </div>
+
+    <!-- Substance Grid - Periodic Table Style -->
+    <div id="substance-grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+      {substances.map((substance, index) => {
+        const symbol = getSymbol(substance.title);
+        const primaryCat = getPrimaryCategory(substance.categories);
+        const catColor = getCategoryColor(primaryCat);
+        const catIndex = getCategoryIndex(substance.categories);
+        
+        return (
+          <a 
+            href={`/substances/${substance.slug}`}
+            class="substance-card element-card group"
+            data-title={substance.title.toLowerCase()}
+            data-primary-category={primaryCat.toLowerCase()}
+            style={`animation-delay: ${(index % 50) * 20}ms; --cat-color: ${catColor}`}
+          >
+            {/* Category number (like atomic number) */}
+            <div class="text-xs font-mono opacity-70 cat-text">
+              {String(catIndex).padStart(2, '0')}
+            </div>
+            
+            {/* Symbol (large) */}
+            <div class="text-3xl sm:text-2xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors my-2">
+              {symbol}
+            </div>
+            
+            {/* Full name */}
+            <div class="text-xs text-industrial-300 truncate" title={substance.title}>
+              {substance.title}
+            </div>
+            
+            {/* Category indicator */}
+            <div class="mt-2 flex items-center justify-between">
+              <span class="text-xs opacity-70 cat-text">
+                {primaryCat}
+              </span>
+              <span class="text-xs text-industrial-500">→</span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+
+    <!-- Empty state -->
+    <div id="empty-state" class="hidden text-center py-16">
+      <div class="text-6xl mb-4">🧪</div>
+      <h3 class="font-heading text-xl text-industrial-300 mb-2">No compounds found</h3>
+      <p class="text-industrial-500">Try adjusting your search or filters</p>
+    </div>
+  </div>
+</section>
+
+</BaseLayout>
+
+<style>
+  .substance-card {
+    opacity: 1;
+    animation: dissolve-in 0.5s ease-out forwards;
+  }
+  
+  .cat-text {
+    color: var(--cat-color, #6d6d6d);
+  }
+  
+  .filter-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.375rem 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background: rgba(28, 28, 28, 0.5);
+    border: 1px solid #3d3d3d;
+    border-left-width: 4px;
+    border-left-color: var(--cat-color, #3d3d3d);
+    cursor: pointer;
+    transition: all 0.2s;
+    color: #9d9d9d;
+    white-space: nowrap;
+  }
+  
+  .filter-pill:hover {
+    background: rgba(61, 61, 61, 0.5);
+    color: #cdcdcd;
+  }
+  
+  .filter-pill.active {
+    color: var(--cat-color, #00ff9d);
+    background: rgba(0, 255, 157, 0.1);
+    border-color: var(--cat-color, #00ff9d);
+    border-left-color: var(--cat-color, #00ff9d);
+  }
+  
+  .filter-dot {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 9999px;
+    flex-shrink: 0;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const filterPills = document.querySelectorAll('.filter-pill');
+    const substanceCards = document.querySelectorAll('.substance-card');
+    const visibleCount = document.getElementById('visible-count');
+    const emptyState = document.getElementById('empty-state');
+    const grid = document.getElementById('substance-grid');
+    
+    let activeCategory = 'all';
+    
+    function filterSubstances() {
+      const searchTerm = searchInput?.value.toLowerCase() || '';
+      let count = 0;
+      
+      substanceCards.forEach((card) => {
+        const el = card as HTMLElement;
+        const title = el.dataset.title || '';
+        // Use PRIMARY category only for filtering
+        const primaryCategory = el.dataset.primaryCategory || '';
+        
+        const matchesSearch = title.includes(searchTerm);
+        const matchesCategory = activeCategory === 'all' || primaryCategory === activeCategory;
+        
+        if (matchesSearch && matchesCategory) {
+          el.style.display = '';
+          count++;
+        } else {
+          el.style.display = 'none';
+        }
+      });
+      
+      if (visibleCount) {
+        visibleCount.textContent = String(count);
+      }
+      
+      if (emptyState && grid) {
+        if (count === 0) {
+          emptyState.classList.remove('hidden');
+          grid.classList.add('hidden');
+        } else {
+          emptyState.classList.add('hidden');
+          grid.classList.remove('hidden');
+        }
+      }
+    }
+    
+    searchInput?.addEventListener('input', filterSubstances);
+    
+    filterPills.forEach(pill => {
+      pill.addEventListener('click', () => {
+        filterPills.forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        activeCategory = (pill as HTMLElement).dataset.category || 'all';
+        filterSubstances();
+      });
+    });
+    
+    // Check URL for category filter
+    const urlParams = new URLSearchParams(window.location.search);
+    const urlCategory = urlParams.get('category');
+    if (urlCategory) {
+      const targetPill = document.querySelector(`[data-category="${urlCategory}"]`);
+      if (targetPill) {
+        filterPills.forEach(p => p.classList.remove('active'));
+        targetPill.classList.add('active');
+        activeCategory = urlCategory;
+        filterSubstances();
+      }
+    }
+  });
+</script>

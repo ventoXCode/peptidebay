@@ -1,0 +1,131 @@
+{
+  "slug": "ac-262536",
+  "url": "https://dopamine.club/substances/ac-262536/",
+  "scrapedAt": "2026-02-12T16:05:20.276Z",
+  "title": "AC-262536",
+  "description": "AC-262536 is a non-steroidal selective androgen receptor modulator (SARM) that acts as a partial agonist at the androgen receptor. It was developed for potential therapeutic use in androgen replacement therapy and demonstrates anabolic effects on muscle and bone with reduced androgenic effects on the prostate compared to testosterone.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "Pharmacological characterization of AC-262536, a novel selective androgen receptor modulator",
+      "summary": "AC-262536 demonstrated potent partial agonist activity at the androgen receptor in rats, significantly improving anabolic parameters like levator ani muscle growth and suppressing elevated LH levels while having minimal androgenic effects on prostate and seminal vesicles compared to testosterone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18164613/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Equine metabolism of the selective androgen receptor modulator AC-262536 in vitro and in urine, plasma and hair following oral administration",
+      "summary": "This study investigated AC-262536 metabolism in horses following oral administration to identify appropriate analytical targets for doping control, as SARMs pose a significant threat in sports due to their growth and bone-promoting effects with fewer side effects than anabolic steroids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32959959/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Development of a multi-residue high-throughput UHPLC-MS/MS method for routine monitoring of SARM compounds in equine and bovine blood",
+      "summary": "A screening method was developed for detecting AC-262536 and other SARMs in animal blood with a detection capability of 1 ng/mL, addressing the threat these compounds pose to animal sports integrity and food safety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32519780/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Simultaneous detection of different chemical classes of selective androgen receptor modulators in urine by liquid chromatography-mass spectrometry-based techniques",
+      "summary": "Analytical procedures were developed and validated to detect AC-262536 and 18 other SARMs in human urine for anti-doping purposes, targeting both parent compounds and their main metabolites.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33383501/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 20,
+    "summary": "AC-262536 is not discussed in the provided user experiences, which focus entirely on other supplements like creatine, magnesium, NAC, and various health interventions. There is no available user sentiment data for this compound."
+  },
+  "effects": [
+    {
+      "label": "Preclinical Evidence:",
+      "description": "Shows beneficial anabolic effects in 2-week studies in castrated male rats with improved muscle parameters"
+    },
+    {
+      "label": "Tissue Selectivity:",
+      "description": "Demonstrates superior safety profile compared to testosterone regarding prostate effects"
+    },
+    {
+      "label": "Clinical Development:",
+      "description": "Not currently available therapeutically despite being developed for androgen replacement therapy"
+    },
+    {
+      "label": "Detection Methods:",
+      "description": "Easily detectable in anti-doping tests with established analytical methods for blood and urine"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Human Dosing:",
+      "description": "No established human dosing protocols available as the compound has not progressed to approved therapeutic use"
+    },
+    {
+      "label": "Research Context:",
+      "description": "Animal studies used doses calibrated for therapeutic research but human equivalent doses are not published"
+    },
+    {
+      "label": "Administration Route:",
+      "description": "Studied via oral administration in preclinical models"
+    },
+    {
+      "label": "No User Guidelines:",
+      "description": "Absence of legitimate medical prescribing information due to lack of regulatory approval"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Safety Data:",
+      "description": "Long-term human safety data is not available as the compound never reached approved therapeutic use"
+    },
+    {
+      "label": "Hormonal Effects:",
+      "description": "As a SARM, potential for hormonal disruption and suppression of natural testosterone production is likely"
+    },
+    {
+      "label": "Regulatory Concerns:",
+      "description": "Listed as a prohibited substance in sports doping control due to performance-enhancing effects"
+    },
+    {
+      "label": "Unknown Long-term Risks:",
+      "description": "Insufficient clinical trials to establish complete safety profile in humans"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Not Therapeutically Available:",
+      "description": "Despite pharmaceutical development, AC-262536 is not approved for medical use in any jurisdiction"
+    },
+    {
+      "label": "Illegal Supplements:",
+      "description": "Available through illegal online supplement products despite lack of approval and regulatory oversight"
+    },
+    {
+      "label": "Prohibited Substance:",
+      "description": "Banned in both human and animal sports, subject to anti-doping testing protocols"
+    }
+  ],
+  "related": [
+    {
+      "name": "ACP-105",
+      "slug": "acp-105"
+    },
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "ARCARINE (ORM-11984)",
+      "slug": "arcarine-orm-11984"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    },
+    {
+      "name": "GLPG-0492",
+      "slug": "glpg-0492"
+    }
+  ]
+}

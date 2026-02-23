@@ -1,0 +1,131 @@
+{
+  "slug": "tremella",
+  "url": "https://dopamine.club/substances/tremella/",
+  "scrapedAt": "2026-02-12T16:11:52.291Z",
+  "title": "TREMELLA",
+  "description": "Tremella fuciformis, also known as white jelly mushroom or snow fungus, is an edible medicinal mushroom traditionally used in Asian medicine. Its primary bioactive compounds are polysaccharides that exhibit antioxidant, immunomodulatory, and skin-enhancing properties by promoting hyaluronic acid production and supporting cellular hydration. It is commonly used for skin health, cognitive support, and overall wellness.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Recent advances in polysaccharides from Tremella fuciformis: isolation, structures, bioactivities and application",
+      "summary": "Comprehensive review showing Tremella polysaccharides exhibit broad health-promoting effects including microbial homeostasis, immunomodulatory, antioxidant, anti-hyperglycemic, and anti-hyperlipidemia properties, making them promising candidates for functional foods and therapeutic agents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39506868/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A review on the production, structure, bioactivities and applications of Tremella polysaccharides",
+      "summary": "Review documenting the diverse biological activities of Tremella polysaccharides with potential applications in disease prevention and treatment, highlighting their value in developing functional foods and pharmaceutical products.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33858263/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Structure, bioactivities and applications of the polysaccharides from Tremella fuciformis mushroom: A review",
+      "summary": "Analysis of Tremella polysaccharide structure-activity relationships showing significant antioxidant, anti-aging, and immunomodulatory effects with applications in cosmetics and functional foods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30342120/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The potential cutaneous benefits of Tremella fuciformis",
+      "summary": "Study examining Tremella's skin benefits, particularly its ability to enhance skin hydration, reduce oxidative stress, and support collagen synthesis through its polysaccharide content.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36757441/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report positive effects on skin hydration, mood enhancement, and focus, with minimal side effects at recommended doses. The supplement is generally well-tolerated and valued as a collagen alternative, though some users report water retention at higher doses."
+  },
+  "effects": [
+    {
+      "label": "Skin Benefits:",
+      "description": "Highly effective for skin hydration and appearance, frequently recommended alongside hyaluronic acid, vitamin C, and L-lysine for comprehensive skin support"
+    },
+    {
+      "label": "Onset Time:",
+      "description": "Effects appear relatively quickly, with users reporting noticeable benefits within days to weeks of consistent use"
+    },
+    {
+      "label": "Duration of Effect:",
+      "description": "Benefits tend to wear off throughout the day, suggesting multiple daily doses may be beneficial for sustained effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Generally well-tolerated with consistent positive reports, though effectiveness for focus and mood may vary between individuals"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "500-1000mg daily is the most commonly used dose, typically taken in the morning with good results"
+    },
+    {
+      "label": "Higher Doses:",
+      "description": "Some users take 1000mg twice daily for enhanced cognitive effects, though this may increase water retention risk"
+    },
+    {
+      "label": "Manufacturer Recommendation:",
+      "description": "Commercial products typically recommend 1/2 teaspoon (approximately 500-1000mg) daily for powder forms"
+    },
+    {
+      "label": "Dosage Warning:",
+      "description": "Exceeding recommended doses (3-4x standard) may lead to water retention and weight gain according to user reports"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Water Retention:",
+      "description": "The most commonly reported side effect at higher doses, causing increased body water weight and bloating"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "At recommended doses, users report virtually no negative side effects"
+    },
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Side effects appear primarily when significantly exceeding recommended dosages (3-4x normal)"
+    },
+    {
+      "label": "Reversible Effects:",
+      "description": "Water retention resolves when dosage is reduced back to recommended levels"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Recommendations:",
+      "description": "Real Mushrooms brand is frequently mentioned and trusted by users for quality Tremella supplements"
+    },
+    {
+      "label": "Product Forms:",
+      "description": "Available as both powder and capsule forms, with 500-1000mg capsules being popular"
+    },
+    {
+      "label": "Stacking Compatibility:",
+      "description": "Commonly stacked with other mushroom supplements (Lion's Mane, Chaga) and skin supplements without reported interactions"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    }
+  ]
+}

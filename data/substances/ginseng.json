@@ -1,0 +1,142 @@
+{
+  "slug": "ginseng",
+  "url": "https://dopamine.club/substances/ginseng/",
+  "scrapedAt": "2026-02-12T16:08:05.187Z",
+  "title": "GINSENG",
+  "description": "Ginseng is an adaptogenic herb used for thousands of years in traditional medicine. It contains ginsenosides that support energy, cognitive function, immune health, and stress resilience. Common varieties include Panax ginseng (Asian) and American ginseng.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ginseng: A dietary supplement as immune-modulator in various diseases",
+      "summary": "Ginseng has potential as a dietary supplement for modulating immunity against various diseases, including cancer, autoimmune diseases, and viral and bacterial infections.",
+      "url": "https://doi.org/10.1016/J.TIFS.2018.11.008",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "A Review of Authenticity and Authentication of Commercial Ginseng Herbal Medicines and Food Supplements",
+      "summary": "Authenticity of commercial ginseng herbal products varies globally, with 76% being authentic and 24% adulterated.",
+      "url": "https://doi.org/10.3389/fphar.2020.612071",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "Ginseng for cognition",
+      "summary": "Ginseng may improve cognitive function, behavior, and quality of life in healthy individuals without significant adverse events.",
+      "url": "https://doi.org/10.1002/14651858.CD007769.pub2",
+      "source": "(Cochrane Library)"
+    },
+    {
+      "title": "Pharmacological potential of ginseng and its major component ginsenosides",
+      "summary": "Ginseng has potential therapeutic benefits, including antioxidative, anticancer, and immune system enhancement, but may have drug interactions.",
+      "url": "https://doi.org/10.1016/j.jgr.2020.02.004",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Ginseng in Traditional Herbal Prescriptions",
+      "summary": "Ginseng's functions in traditional herbal prescriptions have been studied and may contribute to expanding its use in modern therapeutic interventions.",
+      "url": "https://doi.org/10.5142/jgr.2012.36.3.225",
+      "source": "(Korea Science)"
+    },
+    {
+      "title": "Efficacy and safety of ginseng",
+      "summary": "Ginseng's efficacy and safety remain inconclusive, with contradictory evidence in epidemiological and clinical studies.",
+      "url": "https://doi.org/10.1017/S1368980000000550",
+      "source": "(Cambridge University Press)"
+    },
+    {
+      "title": "Ginseng as a Treatment for Fatigue: A Systematic Review",
+      "summary": "Ginseng shows promise as a viable treatment for fatigue in people with chronic illness, but more methodologically strong research is needed.",
+      "url": "https://doi.org/10.1089/acm.2017.0361",
+      "source": "(Liebert Pub)"
+    }
+  ],
+  "sentiment": {
+    "positive": 70,
+    "summary": "Users commonly report improved energy, mental clarity, and stress resilience. Quality and type of ginseng significantly impact results. Generally well-tolerated with long history of safe use."
+  },
+  "effects": [
+    {
+      "label": "Type Matters:",
+      "description": "Panax ginseng (Asian) more stimulating; American ginseng more calming."
+    },
+    {
+      "label": "Quality Dependent:",
+      "description": "Standardized extracts most effective."
+    },
+    {
+      "label": "Cumulative Benefits:",
+      "description": "Effects often improve with continued use."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "200-400mg standardized extract daily."
+    },
+    {
+      "label": "Ginsenoside Content:",
+      "description": "Look for 4-7% ginsenosides."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Traditional use often includes cycling periods."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Safe:",
+      "description": "Well-tolerated at recommended doses."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "May cause sleep issues if taken late in day."
+    },
+    {
+      "label": "Headaches:",
+      "description": "Occasionally reported."
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May interact with blood thinners and diabetes medications."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in health food stores and pharmacies worldwide."
+    },
+    {
+      "label": "Multiple Forms:",
+      "description": "Capsules, teas, tinctures, and whole root."
+    },
+    {
+      "label": "Price Varies:",
+      "description": "Quality ginseng can be expensive; beware of cheap imitations."
+    }
+  ],
+  "related": [
+    {
+      "name": "Cordyceps",
+      "slug": "cordyceps"
+    },
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "MACA",
+      "slug": "maca"
+    },
+    {
+      "name": "SCHISANDRA",
+      "slug": "schisandra"
+    },
+    {
+      "name": "TONGKAT ALI (EURYCOMA)",
+      "slug": "tongkat-ali-eurycoma"
+    }
+  ]
+}

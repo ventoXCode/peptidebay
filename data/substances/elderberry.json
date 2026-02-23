@@ -1,0 +1,143 @@
+{
+  "slug": "elderberry",
+  "url": "https://dopamine.club/substances/elderberry/",
+  "scrapedAt": "2026-02-12T16:07:36.034Z",
+  "title": "ELDERBERRY",
+  "description": "Elderberry (Sambucus nigra) is a fruit rich in anthocyanins, flavonoids, and polyphenols that has been traditionally used to treat respiratory infections. It works by modulating inflammatory cytokines, exhibiting antiviral properties, and supporting immune function through its high antioxidant content, particularly cyanidin-3-glucoside.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Elderberry for prevention and treatment of viral respiratory illnesses: a systematic review",
+      "summary": "Systematic review found elderberry supplementation substantially reduced upper respiratory symptoms and duration of viral illnesses, with evidence supporting both prevention and treatment of colds and flu.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33827515/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Black elderberry (Sambucus nigra) supplementation effectively treats upper respiratory symptoms: A meta-analysis of randomized, controlled clinical trials",
+      "summary": "Meta-analysis of 180 participants found elderberry supplementation yielded a large effect size in reducing upper respiratory symptoms, presenting an alternative to antibiotic misuse.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30670267/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Elderberry Supplementation Reduces Cold Duration and Symptoms in Air-Travellers: A Randomized, Double-Blind Placebo-Controlled Clinical Trial",
+      "summary": "Study of 312 air travelers found elderberry extract reduced cold duration and severity of symptoms compared to placebo, particularly beneficial for those under travel-related stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27023596/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Pros and Cons of Using Elderberry (Sambucus nigra) for Prevention and Treatment of COVID-19",
+      "summary": "Review concluded elderberry appears appropriate for prevention and initial treatment of viral disease due to its ability to modulate inflammatory cytokines, with insufficient evidence supporting concerns about cytokine storm risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36518861/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Elderberry Extracts: Characterization of the Polyphenolic Chemical Composition, Quality Consistency, Safety, Adulteration, and Attenuation of Oxidative Stress- and Inflammation-Induced Health Disorders",
+      "summary": "Elderberry contains approximately 80% anthocyanins of total polyphenol content, contributing to high antioxidant and anti-inflammatory capacities with demonstrated cardiovascular, anti-diabetic, and immune-stimulatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37049909/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Select Dietary Supplement Ingredients for Preserving and Protecting the Immune System in Healthy Individuals: A Systematic Review",
+      "summary": "Systematic review identified elderberry among select ingredients with evidence for preserving immune health in healthy individuals facing life stressors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36364865/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users consistently report elderberry as an effective immune support supplement, particularly for preventing and reducing severity of colds and flu. Most incorporate it into their wellness routines during cold/flu season with positive results, though it's typically used as part of a broader supplement stack rather than as a standalone remedy."
+  },
+  "effects": [
+    {
+      "label": "Seasonal Use:",
+      "description": "Most effective when taken preventatively during cold and flu season, with users reporting success in avoiding or minimizing illness"
+    },
+    {
+      "label": "Complementary Role:",
+      "description": "Typically stacked with vitamin C, D, zinc, and other immune supplements rather than used alone"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Works well for many users but effectiveness varies, with some reporting minimal benefit"
+    },
+    {
+      "label": "Research Support:",
+      "description": "Strong evidence from multiple meta-analyses and clinical trials supporting efficacy for upper respiratory infections"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Daily Prevention:",
+      "description": "Users commonly take elderberry supplements daily during cold/flu season as preventative measure"
+    },
+    {
+      "label": "Acute Dosing:",
+      "description": "Increased dosing at first sign of symptoms is a common user strategy"
+    },
+    {
+      "label": "Gummy Forms:",
+      "description": "Airborne and similar gummy formulations frequently mentioned as convenient delivery method"
+    },
+    {
+      "label": "Extract Standardization:",
+      "description": "Research uses standardized membrane-filtered extracts, though specific dosing varies by product"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report no side effects when using properly prepared elderberry supplements"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Rare reports of allergic reactions mentioned in medical literature"
+    },
+    {
+      "label": "Raw Berry Caution:",
+      "description": "Uncooked berries, bark, leaves and roots can be toxic due to cyanide-releasing compounds"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users note importance of reputable brands due to potential for adulteration in supplement market"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily found in major retailers like major retailers and health food stores in various forms (gummies, capsules, syrups)"
+    },
+    {
+      "label": "Brand Variety:",
+      "description": "Multiple brands mentioned including Airborne, with users noting importance of quality sourcing"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as standalone supplements or commonly included in immune support formulations"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

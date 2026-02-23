@@ -1,0 +1,160 @@
+{
+  "slug": "modafinil",
+  "url": "https://dopamine.club/substances/modafinil/",
+  "scrapedAt": "2026-02-12T16:09:36.228Z",
+  "title": "MODAFINIL",
+  "description": "Modafinil is a wakefulness-promoting agent originally developed to treat narcolepsy, shift work sleep disorder, and sleep apnea. It has gained popularity as a cognitive enhancer due to its ability to promote alertness and improve focus without the jittery effects of traditional stimulants.",
+  "categories": [
+    "Nootropic",
+    "Medicine"
+  ],
+  "research": [
+    {
+      "title": "Modafinil Treatment of Cocaine Dependence: A Systematic Review and Meta-Analysis",
+      "summary": "Analysis of 11 trials assessing modafinil's effectiveness for treating cocaine dependency, concluding it is not generally superior to placebo, though US subgroup analysis showed some promise for abstinence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28350194/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Caffeine and modafinil modulate the effects of sleep deprivation on thalamic resting-state functional connectivity",
+      "summary": "Both substances affected functional brain connectivity after 36 hours of sleep deprivation, providing insights into neural mechanisms and potential strategies for mitigating cognitive impairment.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S138994572400368X",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Modafinil Therapy and Mental Status Following Aneurysmal Subarachnoid Hemorrhage",
+      "summary": "Modafinil improved alertness and orientation shortly after administration in aSAH patients, suggesting beneficial effects for early mental recovery in acute care settings.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1878875024002535",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Effects of modafinil on nocturnal sleep patterns in patients with narcolepsy",
+      "summary": "Modafinil improved daytime sleepiness without significantly worsening nighttime sleep, reducing awakenings in females and increasing sleep onset latency in children/adolescents.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389945724001928",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Chronic administration of caffeine, modafinil, AVL-3288 and CX516 induces time-dependent complex effects on cognition and mood",
+      "summary": "In sleep-deprived mice, caffeine reduced anxiety and enhanced memory over time; AVL-3288 and CX516 improved cognition without depression-like effects, unlike other substances tested.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S009130572400087X",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Effects of modafinil on epileptiform activity in absence epilepsy",
+      "summary": "Modafinil significantly reduced both number and duration of epileptic seizures in absence epilepsy models, suggesting potential as a preventive treatment.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1687850723001620",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Comparison of Solriamfetol and Modafinil on Arousal and Anxiety-Related Behaviors in Narcoleptic Mice",
+      "summary": "Both drugs promoted wakefulness effectively; solriamfetol did so without significant anxiety or locomotor increases, while modafinil induced anxiety-related behaviors.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1878747923000971",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Atomoxetine promotes incentive value of modafinil and sensitizes exploratory behavior",
+      "summary": "Combined modafinil and atomoxetine showed noradrenergic system increases addictive potential and exploratory behavior in rats.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0091305723001053",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Modafinil exerts anticonvulsive effects against lithium-pilocarpine-induced status epilepticus in rats",
+      "summary": "Modafinil decreased seizure severity and brain inflammation in status epilepticus, potentially through TNF-α and nitric oxide pathway mechanisms.",
+      "url": "https://sciencedirect.com/science/article/abs/pii/S1525505022000981",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Modafinil ameliorates the decline in pronunciation-related working memory caused by sleep deprivation",
+      "summary": "Modafinil significantly improved task accuracy and response times compared to placebo in sleep-deprived men, counteracting cognitive decline from acute sleep deprivation.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1074742722000491",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users generally report positive experiences with modafinil for productivity and focus, though individual responses vary. Many consider it effective for demanding cognitive tasks."
+  },
+  "effects": [
+    {
+      "label": "Highly Effective for Sleep Disorders:",
+      "description": "Proven efficacy for narcolepsy and shift work disorder."
+    },
+    {
+      "label": "Cognitive Enhancement:",
+      "description": "Mixed evidence for healthy individuals, but many users report subjective benefits."
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Some users report diminished effects over time with daily use."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "100-200mg once daily, typically in the morning."
+    },
+    {
+      "label": "Starting Low:",
+      "description": "Many recommend starting with 50-100mg to assess tolerance."
+    },
+    {
+      "label": "Timing:",
+      "description": "Best taken early in the day to avoid sleep interference."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headache:",
+      "description": "Most common side effect, often mitigated by staying well-hydrated."
+    },
+    {
+      "label": "Appetite Suppression:",
+      "description": "Many users experience reduced hunger."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Can occur if taken too late in the day."
+    },
+    {
+      "label": "Rare but Serious:",
+      "description": "Stevens-Johnson syndrome has been reported in rare cases."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Modafinil is a Schedule IV controlled substance in the US."
+    },
+    {
+      "label": "Generic Availability:",
+      "description": "Generic versions are significantly cheaper than brand name Provigil."
+    },
+    {
+      "label": "Online Sources:",
+      "description": "Various international pharmacies offer modafinil, though legality varies by country."
+    }
+  ],
+  "related": [
+    {
+      "name": "Armodafinil",
+      "slug": "armodafinil"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "CAFFEINE",
+      "slug": "caffeine"
+    },
+    {
+      "name": "HYDRAFINIL",
+      "slug": "hydrafinil"
+    },
+    {
+      "name": "PHENOTROPIL",
+      "slug": "phenotropil"
+    }
+  ]
+}

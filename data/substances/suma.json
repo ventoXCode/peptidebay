@@ -1,0 +1,113 @@
+{
+  "slug": "suma",
+  "url": "https://dopamine.club/substances/suma/",
+  "scrapedAt": "2026-02-12T16:11:35.611Z",
+  "title": "SUMA",
+  "description": "Suma (Pfaffia paniculata), also known as Brazilian ginseng, is an adaptogenic herb containing ecdysteroids, particularly ecdysterone, along with germanium, vitamin K, and various minerals. It has been traditionally used as an adaptogen for stress management and energy enhancement, with Soviet weightlifters reportedly using it to support athletic performance, though scientific evidence for its anabolic effects in humans remains limited.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Selected herbals and human exercise performance",
+      "summary": "Review examining various herbs including suma (ecdysterone) for exercise performance enhancement, noting these herbs are used despite limited scientific evidence of their effectiveness in controlled human trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10919969/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences with suma are limited but generally positive, with reports of improved energy and adaptogenic effects. However, most discussion focuses on its uncertain effectiveness for muscle building and the need for high doses to achieve noticeable benefits."
+  },
+  "effects": [
+    {
+      "label": "Limited Anabolic Impact:",
+      "description": "Despite ecdysteroid content, muscle-building effects are not impressive compared to other supplements due to rapid metabolization"
+    },
+    {
+      "label": "Dosage Requirements:",
+      "description": "Users report needing to \"absolutely overdose\" to achieve noticeable effects, suggesting low bioavailability"
+    },
+    {
+      "label": "Better as Adaptogen:",
+      "description": "More effective for general stress management and energy than for targeted muscle building"
+    },
+    {
+      "label": "Historical Use:",
+      "description": "While used by Soviet athletes, it was likely in conjunction with anabolic steroids, making independent effects unclear"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "3 grams of root powder taken 2-3 times daily is commonly reported"
+    },
+    {
+      "label": "High Purity Extract:",
+      "description": "For ecdysterone specifically, 95%+ purity extracts at ~400mg/day for 180lb individuals are recommended"
+    },
+    {
+      "label": "Root Powder Preference:",
+      "description": "Some users prefer whole root powder for the combination of germanium, vitamin K, ecdysterone, and minerals"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Users report taking it as part of broader adaptogen stacks rather than as a standalone supplement"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "False Positive Testing:",
+      "description": "Historical concerns about false positives on steroid tests, though suma is not on the 2012 WADA ban list"
+    },
+    {
+      "label": "Minimal Reported Issues:",
+      "description": "Users report few negative side effects from suma supplementation"
+    },
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Higher doses may be needed for effects, but no specific toxicity concerns mentioned at typical doses"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effects appear subtle and variable between individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercially Available:",
+      "description": "Widely available as root powder and extracts from herbal suppliers"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Effective ecdysterone products require 95%+ purity extracts, which are rare and expensive in commercial products"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Root powder is more affordable than high-purity extracts, though requiring larger doses"
+    }
+  ],
+  "related": [
+    {
+      "name": "ELEUTHERO",
+      "slug": "eleuthero"
+    },
+    {
+      "name": "VITAMIN B5 (PANTOTHENIC ACID)",
+      "slug": "vitamin-b5-pantothenic-acid"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    }
+  ]
+}

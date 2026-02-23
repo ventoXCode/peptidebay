@@ -1,0 +1,137 @@
+{
+  "slug": "malic-acid",
+  "url": "https://dopamine.club/substances/malic-acid/",
+  "scrapedAt": "2026-02-12T16:09:26.973Z",
+  "title": "MALIC ACID",
+  "description": "Malic acid is an organic compound naturally found in fruits, particularly apples, that plays a crucial role in the Krebs cycle (citric acid cycle) for cellular energy production. It functions as an intermediate in ATP generation within mitochondria and may enhance aerobic metabolism, reduce lactate accumulation, and support exercise performance. Malic acid is commonly supplemented in combination with L-citrulline or as a standalone ingredient for energy support and exercise recovery.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Effects of L-Citrulline and Malic Acid on Substrate Utilisation and Lactate Elimination",
+      "summary": "Study examining how L-citrulline combined with malic acid affects substrate metabolism and lactate clearance during exercise, suggesting potential benefits for aerobic energy production and recovery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Malic acid supplementation increases urinary citrate excretion and urinary pH: implications for the potential treatment of calcium oxalate stone disease",
+      "summary": "Research showing malic acid supplementation significantly increases urinary citrate levels and pH, which may help prevent calcium oxalate kidney stones through similar mechanisms as traditional citrate therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24059642/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Malate-oligosaccharide Solution on Antioxidant Capacity of Endurance Athletes",
+      "summary": "Investigation into how malate-oligosaccharide solutions affect antioxidant status in endurance athletes, suggesting potential benefits for oxidative stress management during prolonged exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Citrulline/malate promotes aerobic energy production in human exercising muscle",
+      "summary": "31P-MRS study demonstrating that citrulline malate supplementation enhances aerobic ATP production during exercise and accelerates phosphocreatine recovery post-exercise in human skeletal muscle.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A critical review of citrulline malate supplementation and exercise performance",
+      "summary": "Comprehensive review analyzing the evidence for citrulline malate's effects on exercise performance, noting that benefits may be attributed to both the citrulline and malate components working synergistically.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User sentiment about malic acid is limited in the provided data, as most discussions focus on broader supplement stacks or other compounds. When mentioned specifically in citrulline malate combinations, users report mixed results with some experiencing improved energy and recovery while others notice minimal effects, suggesting individual response variability."
+  },
+  "effects": [
+    {
+      "label": "Exercise Performance:",
+      "description": "Most effective when combined with L-citrulline, with research showing measurable improvements in ATP production and phosphocreatine recovery"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Response appears highly individual, with some users reporting significant benefits while others notice little to no effect from malate-containing supplements"
+    },
+    {
+      "label": "Dosage-Dependent:",
+      "description": "Effectiveness seems related to adequate dosing, typically 3-6 grams when combined with citrulline in research studies"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Benefits appear to accumulate with consistent use rather than providing immediate acute effects, requiring several weeks of supplementation"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Citrulline Malate Dose:",
+      "description": "6-8 grams total (typically 2:1 ratio of citrulline to malate) taken 30-60 minutes pre-exercise"
+    },
+    {
+      "label": "Standalone Malic Acid:",
+      "description": "1.2-2.8 grams daily when used independently, though less commonly supplemented alone"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Pre-workout timing appears most beneficial for exercise performance, though some protocols use split dosing throughout the day"
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users report better results after a loading period of 7-14 days of consistent use"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Higher doses may cause stomach upset, bloating, or diarrhea in sensitive individuals, particularly when taken on an empty stomach"
+    },
+    {
+      "label": "Minimal Reported Issues:",
+      "description": "When used at recommended doses, malic acid appears well-tolerated with few significant adverse effects reported"
+    },
+    {
+      "label": "Combination Effects:",
+      "description": "Side effects are difficult to isolate when malic acid is consumed as part of multi-ingredient supplements"
+    },
+    {
+      "label": "Acidity Concerns:",
+      "description": "As an organic acid, excessive intake may affect dental health or cause digestive discomfort in susceptible individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available in Combinations:",
+      "description": "Most commonly found as citrulline malate in pre-workout supplements and sports nutrition products"
+    },
+    {
+      "label": "Standalone Availability:",
+      "description": "Pure malic acid supplements are less common but available through specialty supplement retailers"
+    },
+    {
+      "label": "Cost-Effective:",
+      "description": "Generally inexpensive compared to many other performance supplements, particularly when purchased as part of citrulline malate blends"
+    }
+  ],
+  "related": [
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    },
+    {
+      "name": "OLEIC ACID",
+      "slug": "oleic-acid"
+    },
+    {
+      "name": "PYRUVIC ACID",
+      "slug": "pyruvic-acid"
+    },
+    {
+      "name": "R-ALPHA LIPOIC ACID",
+      "slug": "r-alpha-lipoic-acid"
+    },
+    {
+      "name": "VITAMIN B5 (PANTOTHENIC ACID)",
+      "slug": "vitamin-b5-pantothenic-acid"
+    }
+  ]
+}

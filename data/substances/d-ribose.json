@@ -1,0 +1,113 @@
+{
+  "slug": "d-ribose",
+  "url": "https://dopamine.club/substances/d-ribose/",
+  "scrapedAt": "2026-02-12T16:07:01.596Z",
+  "title": "D-RIBOSE",
+  "description": "D-Ribose is a five-carbon sugar that serves as a fundamental building block for adenosine triphosphate (ATP), the primary energy molecule in cells. It works via the pentose phosphate pathway to bypass slow rate-limiting steps in nucleotide synthesis, facilitating the restoration of cellular energy levels during metabolic stress or intense physical activity.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Understanding D-Ribose and Mitochondrial Function",
+      "summary": "This review explains how D-ribose supports mitochondrial health by enhancing ATP production via the pentose phosphate pathway, especially when mitochondrial function declines due to aging or disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29780691/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The influence of D-ribose ingestion and fitness level on performance and recovery",
+      "summary": "A double-blind study found that 10g/day of D-ribose improved power output, lowered perceived exertion, and reduced muscle damage markers in lower-fitness individuals during high-intensity exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29290163/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondrial bioenergetics and D-ribose in HFpEF: a brief narrative review",
+      "summary": "Research suggests D-ribose may improve cardiac relaxation and clinical symptoms in heart failure patients by addressing mitochondrial energy deficits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34805366/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report significant increases in physical endurance and recovery, though some find the effects diminish over time or do not address anxiety-related fatigue."
+  },
+  "effects": [
+    {
+      "label": "Fitness Level Variance:",
+      "description": "Highly effective for those with lower VO2 max or metabolic stress, while highly trained individuals may see fewer incremental benefits."
+    },
+    {
+      "label": "Diminishing Returns:",
+      "description": "Some users report a 'fizzle out' effect where benefits are strong for the first few days but decline with continued use."
+    },
+    {
+      "label": "Post-Viral Recovery:",
+      "description": "Cited as a beneficial component in complex stacks for managing Long COVID symptoms like muscle weakness and fatigue."
+    },
+    {
+      "label": "Fast-Acting:",
+      "description": "Often noted for its immediate impact on energy levels when taken just before or during exercise."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Performance Dose:",
+      "description": "5g (one scoop) taken before or during workouts is a common and effective user protocol."
+    },
+    {
+      "label": "Clinical Loading:",
+      "description": "10g per day, often split into two doses, used in studies to observe significant improvements in recovery markers."
+    },
+    {
+      "label": "Maintenance Sips:",
+      "description": "Some users prefer dissolving 5g in water and sipping it throughout the day to maintain steady energy levels."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Anxiety Sensitivity:",
+      "description": "While rare, some users with pre-existing anxiety found it did not alleviate fatigue and occasionally exacerbated restlessness."
+    },
+    {
+      "label": "Blood Sugar Impact:",
+      "description": "As a sugar, users monitor its effect on glucose, though studies show it does not typically cause the same spikes as dextrose."
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "High doses may be associated with mild nausea or GI upset in sensitive individuals."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "Widely available as a standalone powder or as an ingredient in complex 'mitochondrial support' blends."
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often found in specialized antioxidant formulas like Riboceine (D-Ribose-L-Cysteine)."
+    }
+  ],
+  "related": [
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    },
+    {
+      "name": "L-CARNOSINE",
+      "slug": "l-carnosine"
+    }
+  ]
+}

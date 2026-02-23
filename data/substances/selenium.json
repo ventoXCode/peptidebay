@@ -1,0 +1,155 @@
+{
+  "slug": "selenium",
+  "url": "https://dopamine.club/substances/selenium/",
+  "scrapedAt": "2026-02-12T16:11:12.088Z",
+  "title": "SELENIUM",
+  "description": "Selenium is an essential trace mineral that functions as a cofactor for 25 selenoproteins involved in antioxidant defense, thyroid hormone metabolism, and immune function. It exists in multiple forms including inorganic (sodium selenite), organic (selenomethionine from yeast), and nanoparticle formulations, with varying bioavailability and toxicity profiles. Selenium supplementation requires careful dosing as both deficiency and excess can cause serious health issues, with a narrow margin between therapeutic and toxic levels.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Selenium nanoparticles as a nutritional supplement",
+      "summary": "Selenium nanoparticles represent a novel supplementation approach with lower toxicity than traditional forms and ability to gradually release selenium after ingestion, demonstrating anticancer and antimicrobial properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27356860/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Selenium in the supplement as the probable cause of hair loss and nail dystrophy",
+      "summary": "Case report documenting selenium toxicity from supplements causing hair loss and nail problems, highlighting the importance of proper dosing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37594173/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Improving the selenium supply of vegans and omnivores with Brazil nut butter compared to a dietary supplement in a randomized controlled trial",
+      "summary": "Randomized trial comparing Brazil nuts to supplements for improving selenium status in vegans and omnivores, demonstrating effective food-based selenium delivery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39891729/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Selenium status and immunity",
+      "summary": "Review of randomized controlled trials examining selenium's effects on immune function, finding limited and conflicting data for different immunity parameters with uncertain optimal intake levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35983607/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Acute selenium toxicity associated with a dietary supplement",
+      "summary": "Outbreak investigation of 201 cases of acute selenium poisoning from a supplement containing 200 times the labeled concentration, causing diarrhea, fatigue, hair loss, joint pain, and nail problems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20142570/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Selenium Species in Diabetes Mellitus Type 2",
+      "summary": "Review finding that selenium's relationship with type 2 diabetes follows a U-shaped curve, where both too low and too high intake increase diabetes risk, with effects depending on chemical form and baseline selenium status.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37880477/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of Selenium on Bone Health: From Element to Therapeutics",
+      "summary": "Systematic review of selenium's effects on bone health showing controversial results, emphasizing that optimal selenium intake is critical as both deficiency and toxicity are hazardous.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35056706/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Selenium and Human Health",
+      "summary": "Overview of selenium research covering supply, biochemical effects, and biomedical importance, noting the micronutrient remains incompletely understood despite 200 years since discovery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28042811/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "User sentiment is genuinely mixed, with many reporting positive effects for energy, mood, and thyroid support, but significant concerns about toxicity and side effects. Multiple users experienced problems from excess selenium including hair loss, brain fog, and body odor, while others found it highly beneficial when correcting deficiency."
+  },
+  "effects": [
+    {
+      "label": "Deficiency Response:",
+      "description": "Highly effective for users with documented selenium deficiency, with rapid improvements in energy, mood, and physical symptoms within days to weeks"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly based on baseline selenium status, diet, and geographic location, with some users seeing dramatic benefits while others experience no effect or toxicity"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Users report different results from various selenium forms - Brazil nuts generally well-tolerated, while synthetic supplements more likely to cause over-supplementation"
+    },
+    {
+      "label": "Narrow Therapeutic Window:",
+      "description": "Many users accidentally exceeded safe levels due to selenium's presence in multiple supplements, highlighting the need for careful tracking of total intake"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Supplementation:",
+      "description": "Most commonly reported dose is 25 mcg daily, often included in NAC or multivitamin formulations, considered safe for general supplementation"
+    },
+    {
+      "label": "Brazil Nut Alternative:",
+      "description": "1-2 Brazil nuts daily provides approximately 50-100 mcg selenium and is frequently recommended as a natural, self-limiting source"
+    },
+    {
+      "label": "Therapeutic Range:",
+      "description": "Users successfully addressing deficiency typically use 50-200 mcg daily, though higher doses increase toxicity risk significantly"
+    },
+    {
+      "label": "Toxicity Threshold:",
+      "description": "Multiple reports of problems beginning at doses above 200 mcg daily, with one outbreak case documenting severe toxicity at 41,749 mcg daily from mislabeled supplement"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hair and Nail Problems:",
+      "description": "Most commonly reported toxicity symptom includes hair loss, brittle nails, nail discoloration, and changes in hair texture or premature graying"
+    },
+    {
+      "label": "Neurological Effects:",
+      "description": "Brain fog, tingling sensations, stiff neck, and cognitive impairment reported with excess selenium intake"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Nausea, diarrhea, excessive thirst, and body odor (particularly garlic-like smell) associated with higher doses"
+    },
+    {
+      "label": "Skin Changes:",
+      "description": "Users report skin becoming dull, tired-looking, developing dark circles, or experiencing breakouts when selenium levels are either too low or too high"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widespread Availability:",
+      "description": "Selenium readily available as standalone supplement, in multivitamins, combined with NAC, or as selenium-enriched yeast, with doses typically 25-200 mcg per serving"
+    },
+    {
+      "label": "Natural Food Sources:",
+      "description": "Brazil nuts most commonly recommended food source, with users preferring this over supplements to avoid over-supplementation, also found in fish and organ meats"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of third-party testing and avoiding low-quality brands, with one major outbreak traced to manufacturing error producing 200x labeled concentration"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

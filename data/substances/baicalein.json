@@ -1,0 +1,131 @@
+{
+  "slug": "baicalein",
+  "url": "https://dopamine.club/substances/baicalein/",
+  "scrapedAt": "2026-02-12T16:06:00.834Z",
+  "title": "BAICALEIN",
+  "description": "Baicalein is a bioactive flavonoid compound extracted from the roots of Scutellaria baicalensis (Chinese skullcap). It demonstrates neuroprotective, anti-inflammatory, and antioxidant properties by modulating multiple cellular pathways including NLRP3 inflammasome, Nrf2/HO-1, and MAPK signaling cascades. Research indicates potential therapeutic applications in neurodegenerative diseases, anxiety, depression, and cognitive function through reduction of neuroinflammation and oxidative stress.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Mitigating neurodegenerative diseases: the protective influence of baicalin and baicalein through neuroinflammation regulation",
+      "summary": "Baicalein and baicalin show protective effects in animal models of neurodegenerative diseases by inhibiting pro-inflammatory cytokines, suppressing microglial activation, and regulating inflammatory signaling cascades including TLR4, MAPK, and NLRP3 inflammasome pathways.",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1425731/full",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective effects of baicalin and baicalein on the central nervous system and the underlying mechanisms",
+      "summary": "Multiple studies demonstrate that baicalein effectively reduces severity of depression, stroke, and CNS degenerative disorders by exerting antioxidant and anti-inflammatory effects, regulating programmed cell death, and reducing mitochondrial dysfunction.",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025Heliy..1141002S/abstract",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of baicalin in depression: preclinical evidence construction based on meta-analysis",
+      "summary": "Meta-analysis of preclinical studies shows baicalin significantly improves depressive symptoms in animal models, increasing sucrose preference and reducing immobility in forced swim and tail suspension tests, demonstrating antidepressant potential.",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1425094/full",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Baicalein: Multiple Pharmacological Activities, Pharmacokinetics, and Clinical Trials",
+      "summary": "Comprehensive review demonstrates baicalein's therapeutic potential across multiple conditions including neurodegenerative diseases and cardiovascular health through modulation of oxidative stress, inflammatory responses, and specific molecular pathways, showing it is well-tolerated as a potential nutritional supplement.",
+      "url": "https://link.springer.com/article/10.1007/s43450-024-00575-y",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are limited in the provided data, but scientific literature demonstrates consistent neuroprotective and anti-inflammatory effects in preclinical models. The compound shows promise for mood, anxiety, and cognitive support, though human clinical data remains limited."
+  },
+  "effects": [
+    {
+      "label": "Preclinical Evidence:",
+      "description": "Strong animal model data showing consistent benefits across depression, anxiety, and neuroprotection studies"
+    },
+    {
+      "label": "Mechanism Clarity:",
+      "description": "Well-documented molecular mechanisms including Nrf2/HO-1, NLRP3 inflammasome, and MAPK pathway modulation"
+    },
+    {
+      "label": "Bioavailability Considerations:",
+      "description": "Flavonoid compound with potential absorption limitations requiring appropriate formulation or delivery methods"
+    },
+    {
+      "label": "Clinical Translation:",
+      "description": "Promising preclinical results warrant human clinical trials to confirm therapeutic efficacy and optimal dosing"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use doses ranging from 10-100 mg/kg body weight depending on condition"
+    },
+    {
+      "label": "Human Equivalence:",
+      "description": "Direct human equivalent doses need clinical validation but may range from moderate to higher supplemental doses"
+    },
+    {
+      "label": "Timing:",
+      "description": "Effects on neuroinflammation and neuroprotection suggest benefits from consistent daily administration"
+    },
+    {
+      "label": "Formulation:",
+      "description": "Bioavailability may be enhanced through specific delivery systems or combination with other compounds"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "General Tolerability:",
+      "description": "Literature indicates baicalein is well-tolerated in preclinical studies with minimal adverse effects reported"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "As a bioactive flavonoid, may interact with cytochrome P450 enzymes affecting drug metabolism"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Side effect profile in humans requires more clinical investigation"
+    },
+    {
+      "label": "Dosing Considerations:",
+      "description": "Higher doses may require monitoring though specific toxicity thresholds not well-established in humans"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Source:",
+      "description": "Derived from Scutellaria baicalensis (Chinese skullcap), available as standardized extracts"
+    },
+    {
+      "label": "Supplement Market:",
+      "description": "Available through specialized supplement vendors focusing on nootropics and herbal compounds"
+    },
+    {
+      "label": "Research Status:",
+      "description": "Primarily studied in preclinical models with emerging interest for clinical application"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "HYPERFORIN",
+      "slug": "hyperforin"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "lysine",
+  "url": "https://dopamine.club/substances/lysine/",
+  "scrapedAt": "2026-02-12T16:09:21.273Z",
+  "title": "LYSINE",
+  "description": "L-Lysine is an essential amino acid that the body cannot produce and must be obtained through diet or supplementation. It plays critical roles in protein synthesis, collagen formation, calcium absorption, and immune function. Lysine is particularly noted for its ability to inhibit viral replication by competing with arginine, making it effective against herpes simplex virus (HSV-1) outbreaks.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Lysine: Sources, Metabolism, Physiological Importance, and Use as a Supplement",
+      "summary": "Comprehensive review examining lysine metabolism, post-translational modifications in proteins, and its role in homoarginine and carnitine synthesis, highlighting its importance in epigenetic regulation and nutritional applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41009362/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-lysine dietary supplementation for childhood and adolescent growth: Promises and precautions",
+      "summary": "Review examining lysine supplementation for promoting growth in children, particularly in developing countries with cereal-based diets, while highlighting safety considerations and optimal dosing strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38740261/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comprehensive Safety Assessment of l-Lysine Supplementation from Clinical Studies: A Systematic Review",
+      "summary": "Systematic review of 71 studies with 3,357 subjects found lysine doses up to 17.5g/day for up to 1,095 days caused mainly mild gastrointestinal symptoms, establishing a provisional no-observed-adverse-effect level of 6.0g/day.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33000161/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety assessment of L-lysine oral intake: a systematic review",
+      "summary": "Comprehensive safety evaluation using systematic review methodology to establish safe upper intake limits for lysine supplementation in humans, analyzing adverse events across multiple clinical studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30661148/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-lysine supplementation attenuates experimental autoimmune hepatitis in a chronic murine model",
+      "summary": "Animal study showing lysine supplementation partially reversed liver injury and reduced pro-inflammatory cytokine expression in an autoimmune hepatitis model, suggesting potential protective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37648521/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lysine supplementation is not effective for the prevention or treatment of feline herpesvirus 1 infection in cats: a systematic review",
+      "summary": "Systematic review found no scientific merit for lysine supplementation in preventing or treating feline herpesvirus-1, contradicting its widespread veterinary use despite popularity among practitioners.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26573523/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users overwhelmingly report lysine as highly effective for preventing and managing cold sores (HSV-1 outbreaks), with many describing it as 'life-changing' and significantly reducing outbreak frequency from daily/weekly to rare occurrences. The vast majority recommend it and consider it an essential supplement for herpes management."
+  },
+  "effects": [
+    {
+      "label": "Timing Critical:",
+      "description": "Effectiveness is highest when taken consistently at the same time daily (similar to birth control) or immediately at first sign of outbreak symptoms"
+    },
+    {
+      "label": "Brand Matters:",
+      "description": "Users emphasize that quality/brand significantly affects results, with quality brands and quality brands frequently mentioned as effective brands"
+    },
+    {
+      "label": "Arginine Balance:",
+      "description": "Effectiveness enhanced by avoiding high-arginine foods (peanuts, chocolate, nuts, arugula) which can trigger outbreaks by competing with lysine absorption"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "While most users report excellent results, a small minority note minimal effectiveness, suggesting individual biological variation in response"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Maintenance Dose:",
+      "description": "500-1,000mg daily for prevention, taken consistently at the same time each day for best results"
+    },
+    {
+      "label": "Acute Outbreak:",
+      "description": "2,000-8,000mg daily at first sign of outbreak, typically split into 1,000-2,000mg doses twice daily"
+    },
+    {
+      "label": "Loading Protocol:",
+      "description": "Some users take 2,000mg at first tingle, then 2,000mg twelve hours later to stop outbreak before it appears"
+    },
+    {
+      "label": "Duration:",
+      "description": "Most effective when taken long-term (months to years) for prevention; acute treatment typically 3-7 days"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Mild stomach discomfort or nausea reported at higher doses (above 3,000mg), typically resolved by taking with food"
+    },
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Vast majority of users report no significant side effects at standard preventive doses (500-1,000mg daily)"
+    },
+    {
+      "label": "Arginine Depletion:",
+      "description": "Very high doses may theoretically reduce arginine levels, though users rarely report this as problematic in practice"
+    },
+    {
+      "label": "Safe Long-term:",
+      "description": "Users report taking lysine daily for years (2-5+ years) without developing tolerance or significant adverse effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Over-the-counter supplement available at most pharmacies, health stores, and online retailers without prescription"
+    },
+    {
+      "label": "Affordable:",
+      "description": "Generally inexpensive supplement, with monthly supply typically costing under $15-20 for standard preventive dosing"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Users emphasize importance of reputable brands; commonly recommended brands include quality brands, quality brands, and quality brands for consistent results"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

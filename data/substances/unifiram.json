@@ -1,0 +1,143 @@
+{
+  "slug": "unifiram",
+  "url": "https://dopamine.club/substances/unifiram/",
+  "scrapedAt": "2026-02-12T16:12:04.875Z",
+  "title": "UNIFIRAM",
+  "description": "Unifiram (DM232) is a synthetic nootropic compound structurally related to racetams but significantly more potent, estimated to be four orders of magnitude stronger than piracetam. It appears to work by modulating AMPA receptors and increasing acetylcholine release in the cerebral cortex, enhancing cognition, memory consolidation, and reversing experimentally-induced amnesia. Despite promising preclinical research, Unifiram has no human clinical trials and remains an experimental compound with unknown long-term safety profile.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Pharmacological characterization of DM232 (unifiram) and DM235 (sunifiram), new potent cognition enhancers",
+      "summary": "Unifiram and sunifiram are four orders of magnitude more potent than piracetam as cognition enhancers, able to increase acetylcholine release and prevent amnesia through AMPA receptor modulation without showing affinity for major central receptors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16834757/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Unifi nootropics from the lab to the web: a story of academic (and industrial) shortcomings",
+      "summary": "This review discusses how Unifiram and Sunifiram, identified as very potent cognition enhancers, were never patented and appeared on online markets despite having only limited preclinical studies and unknown long-term toxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25831025/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Structure-activity relationship studies on unifiram (DM232) and sunifiram (DM235), two novel and potent cognition enhancing drugs",
+      "summary": "SAR studies identified structural analogs of Unifiram with varying cognitive effects, including some compounds with amnesia-inducing properties and others with analgesic activity in neuropathic pain models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14697772/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Enantioselective synthesis and preliminary pharmacological evaluation of the enantiomers of unifiram (DM232), a potent cognition-enhancing agent",
+      "summary": "The (R)-(+) enantiomer of Unifiram showed 3 to 10-fold higher potency than its (S)-(-) enantiomer in cognitive tests and acetylcholine release assays, suggesting stereochemical specificity in its mechanism of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16787332/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "AMPA-receptor activation is involved in the antiamnesic effect of DM 232 (unifiram) and DM 235 (sunifiram)",
+      "summary": "Unifiram and sunifiram reversed AMPA receptor antagonist-induced amnesia and enhanced excitatory synaptic transmission in rat hippocampus, confirming AMPA receptor involvement in their cognition-enhancing mechanism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14600801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Design, synthesis, and preliminary pharmacological evaluation of 1, 4-diazabicyclo[4.3.0]nonan-9-ones as a new class of highly potent nootropic agents",
+      "summary": "Initial discovery paper showing Unifiram (DM232) as an outstanding nootropic compound with activity at doses as low as 0.001 mg/kg subcutaneously, representing a new class of highly potent cognition enhancers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10821709/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with Unifiram are genuinely divided, with some reporting impressive cognitive enhancement and memory benefits at very low doses (5-10mg), while others express concern about the lack of human safety data, potential excitotoxicity, and risks associated with AMPA receptor potentiation. Many experienced users acknowledge its effectiveness but caution against regular use due to unknown long-term consequences."
+  },
+  "effects": [
+    {
+      "label": "High Potency:",
+      "description": "Research and user reports consistently note Unifiram is thousands of times more potent than piracetam, with effects felt at doses as low as 5-10mg"
+    },
+    {
+      "label": "Rapid Onset:",
+      "description": "Effects typically peak within 1 hour and can include a noticeable afterglow lasting 4+ hours after administration"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between users, with some finding it superior to other nootropics and others experiencing minimal benefits or adverse reactions"
+    },
+    {
+      "label": "Preference Over Sunifiram:",
+      "description": "Multiple users report that Unifiram is 'pretty great' while sunifiram 'sucks', suggesting meaningful differences between these structural analogs"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Starting Dose:",
+      "description": "Most users begin with 5-10mg, taken sublingually or orally, which appears to be effective for the majority"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Common patterns include occasional use (not daily) or 2-3 times daily when used, with most experienced users recommending against continuous daily administration"
+    },
+    {
+      "label": "Tolerance Concerns:",
+      "description": "Users note potential for rapid tolerance development, making cycling or intermittent use preferable to daily dosing"
+    },
+    {
+      "label": "Ultra-Low Effective Dose:",
+      "description": "Research indicates activity at doses as low as 0.001 mg/kg (approximately 0.07mg for a 70kg human), though user reports typically involve higher doses of 5-10mg"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Excitotoxicity Risk:",
+      "description": "Major concern raised by informed users about potential glutamate-mediated excitotoxicity due to AMPA receptor potentiation, with recommendations to use protective agents like magnesium or memantine"
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "Reports of anxiety, insomnia, headaches, and 'psychotic' effects when combined with other stimulants or used at higher doses"
+    },
+    {
+      "label": "Unusual Sensations:",
+      "description": "Several users describe an 'electric tingle' on the scalp and altered thought patterns that feel 'somewhat psychedelic' and unfamiliar"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Multiple reports of severe insomnia and inability to sleep when used later in the day or combined with other nootropics"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Unregulated Market:",
+      "description": "Available from online nootropic vendors despite lack of human safety data or regulatory approval, raising quality control and ethical concerns"
+    },
+    {
+      "label": "No Prescription Required:",
+      "description": "Sold as a research chemical or dietary supplement without medical oversight, making it easily accessible but potentially risky"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "No standardization or third-party testing requirements, with users advised to verify purity through independent testing if possible"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

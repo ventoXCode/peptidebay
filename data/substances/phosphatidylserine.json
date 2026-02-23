@@ -1,0 +1,149 @@
+{
+  "slug": "phosphatidylserine",
+  "url": "https://dopamine.club/substances/phosphatidylserine/",
+  "scrapedAt": "2026-02-12T16:10:37.852Z",
+  "title": "PHOSPHATIDYLSERINE",
+  "description": "Phosphatidylserine (PS) is a phospholipid naturally found in high concentrations in brain cell membranes, particularly important for neuronal structure and function. It supports cognitive processes including memory formation, neurotransmission, and cell signaling, while also playing a role in cortisol regulation. PS is used primarily for cognitive enhancement, memory support, stress management, and athletic recovery.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Phosphatidylserine and the human brain",
+      "summary": "Review of 127 articles concluding that PS (300-800 mg/day) is efficiently absorbed, crosses the blood-brain barrier, and safely slows or reverses biochemical alterations in nerve cells, supporting cognitive functions including short-term memory formation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25933483/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of a food supplement containing phosphatidylserine on cognitive function in Chinese older adults with mild cognitive impairment",
+      "summary": "Randomized controlled trial demonstrating that PS supplementation improved cognitive function in older adults with mild cognitive impairment over 13 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39317299/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of phosphatidylserine administration on memory and symptoms of attention-deficit hyperactivity disorder",
+      "summary": "Double-blind study showing 200 mg/day PS supplementation significantly improved ADHD symptoms, short-term auditory memory, and mental performance in children aged 4-14 years over 2 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23495677/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel Study Investigating the Efficacy of a Whole Coffee Cherry Extract and Phosphatidylserine Formulation",
+      "summary": "42-day study in 138 healthy adults (40-65 years) with self-reported memory problems showed PS-containing supplement improved memory, accuracy, focus, concentration, and learning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36929344/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of Phosphatidylserine and Omega-3 Fatty Acid-Containing Supplement on Late Life Depression",
+      "summary": "Study found that PS combined with omega-3 fatty acids (100mg PS, 119mg DHA, 70mg EPA three times daily) improved depression symptoms in elderly patients over 12 weeks, as measured by clinical evaluations and salivary cortisol levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26266022/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Improvement of short-term memory performance in aged beagles by a nutraceutical supplement containing phosphatidylserine",
+      "summary": "PS-containing supplement improved short-term visuospatial memory in aged dogs in a crossover trial, with effects being long-lasting, suggesting neuroprotective benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18481547/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Magtein®, Magnesium L-Threonate, -Based Formula Improves Brain Cognitive Functions in Healthy Chinese Adults",
+      "summary": "Double-blind study showing a formula containing magnesium L-threonate and phosphatidylserine improved cognitive test performance in 109 healthy adults aged 18-65 years at 2g/day dosage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36558392/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 73,
+    "summary": "Users generally report positive experiences with PS, particularly for focus, stress reduction, and sleep quality. While some report no effects or mild issues like insomnia, the majority found it effective for managing cortisol, improving cognitive function, and enhancing mood, with many describing it as one of the few nootropics that actually worked for them."
+  },
+  "effects": [
+    {
+      "label": "Response Variability:",
+      "description": "Effectiveness varies significantly between individuals, with some experiencing immediate benefits while others notice minimal effects or need extended use"
+    },
+    {
+      "label": "Cortisol-Specific Benefits:",
+      "description": "Most effective for users with high cortisol levels or stress-related issues; those without cortisol imbalances may see less benefit"
+    },
+    {
+      "label": "Honeymoon Effect:",
+      "description": "Some users report strong initial effects that may diminish over time, suggesting potential tolerance development or adaptation"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Often works better when combined with other supplements like magnesium, omega-3s, or adaptogens, particularly for cognitive and stress benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "100-200mg taken once or twice daily, commonly recommended for cognitive support and general use"
+    },
+    {
+      "label": "Cortisol Management:",
+      "description": "200-400mg taken in the evening (1-2 hours before bed) specifically for reducing nighttime cortisol spikes"
+    },
+    {
+      "label": "Higher Doses:",
+      "description": "Some studies and users report using 300-800mg daily for more pronounced cognitive effects, though lower doses are more common"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Evening dosing preferred for cortisol reduction and sleep support, though some users report it keeps them awake and prefer morning use"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disturbances:",
+      "description": "Paradoxically, some users report insomnia or wakefulness despite PS being promoted for sleep, with timing of dose being critical"
+    },
+    {
+      "label": "Emotional Blunting:",
+      "description": "A subset of users report reduced emotional range or feeling emotionally flat, similar to effects reported with some adaptogens"
+    },
+    {
+      "label": "Physical Sensations:",
+      "description": "Rare reports of unusual effects like subcutaneous sweating or elevated blood pressure in sensitive individuals"
+    },
+    {
+      "label": "Source-Dependent Effects:",
+      "description": "Soy-derived PS may be less effective than bovine-derived for cortisol reduction, with some formulations showing no effect at doses up to 750mg"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Concerns:",
+      "description": "Generic sellers frequently found to have products with less than 10-75% of labeled potency; reputable brands with third-party testing recommended"
+    },
+    {
+      "label": "Form Variations:",
+      "description": "Most modern supplements use soy-derived PS due to prion disease concerns with bovine sources, though bovine-derived may be more effective for cortisol"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often sold in formulations with DHA, omega-3s, B vitamins, or magnesium, which may enhance effectiveness for specific goals"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

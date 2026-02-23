@@ -1,0 +1,155 @@
+{
+  "slug": "p7c3",
+  "url": "https://dopamine.club/substances/p7c3/",
+  "scrapedAt": "2026-02-12T16:10:22.208Z",
+  "title": "P7C3",
+  "description": "P7C3 is a neuroprotective aminopropyl carbazole compound that enhances cellular NAD+ levels by activating nicotinamide phosphoribosyltransferase (NAMPT), the rate-limiting enzyme in the NAD salvage pathway. It promotes neurogenesis, protects neurons from apoptosis, and has demonstrated therapeutic potential in animal models of neurodegenerative diseases, traumatic brain injury, stroke, and peripheral neuropathy.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "P7C3 Neuroprotective Chemicals Function by Activating the Rate-limiting Enzyme in NAD Salvage",
+      "summary": "Identified that P7C3 compounds activate NAMPT to boost NAD+ levels, providing neuroprotection through enhanced cellular energy metabolism and prevention of neuronal death in various injury models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25215490/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacologic reversal of advanced Alzheimer's disease in mice and identification of potential therapeutic nodes in human brain",
+      "summary": "Demonstrated that P7C3-A20 treatment reversed advanced Alzheimer's pathology in mice by restoring NAD+ levels, achieving full neurological recovery including cognition restoration and neuroprotection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41435831/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "P7C3-A20 treatment one year after TBI in mice repairs the blood-brain barrier, arrests chronic neurodegeneration, and restores cognition",
+      "summary": "Showed that P7C3-A20 administered even one year post-traumatic brain injury repaired the blood-brain barrier, halted ongoing neurodegeneration, and restored cognitive function in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33087571/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological augmentation of nicotinamide phosphoribosyltransferase (NAMPT) protects against paclitaxel-induced peripheral neuropathy",
+      "summary": "Found that P7C3-A20 prevented chemotherapy-induced peripheral neuropathy by stimulating NAMPT activity, protecting peripheral sensory neurons without reducing anticancer drug efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29626/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Combined adult neurogenesis and BDNF mimic exercise effects on cognition in an Alzheimer's mouse model",
+      "summary": "Demonstrated that P7C3 combined with exercise-mimicking interventions enhanced hippocampal neurogenesis and improved cognitive function in Alzheimer's disease models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30190379/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nampt activator P7C3 ameliorates diabetes and improves skeletal muscle function modulating cell metabolism and lipid mediators",
+      "summary": "Showed that P7C3 treatment improved insulin resistance, rescued diabetes, and enhanced skeletal muscle function through NAMPT activation and metabolic modulation in diabetic mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35060352/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "P7C3 suppresses astrocytic senescence to protect dopaminergic neurons: Implication in the mouse model of Parkinson's disease",
+      "summary": "Found that P7C3 protected dopaminergic neurons in Parkinson's models by suppressing astrocytic senescence and reducing neuroinflammation through NAMPT pathway activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39056208/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Discovery of a proneurogenic, neuroprotective chemical",
+      "summary": "Original discovery paper showing P7C3 enhances neurogenesis in adult hippocampus by protecting newborn neurons from apoptosis, with benefits for cognitive function in aged animals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20603013/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Strong positive sentiment with users expressing excitement about the neuroprotective potential demonstrated in research. The User feedback focuses primarily on the promising animal study results showing Alzheimer's reversal, with commenters highlighting P7C3's unique mechanism of boosting NAD+ levels and its potential applications across multiple neurodegenerative conditions."
+  },
+  "effects": [
+    {
+      "label": "Disease Models:",
+      "description": "Demonstrated efficacy across multiple animal models including Alzheimer's, Parkinson's, TBI, stroke, and peripheral neuropathy"
+    },
+    {
+      "label": "Delayed Treatment:",
+      "description": "Effective even when administered long after initial injury (up to one year post-TBI in studies)"
+    },
+    {
+      "label": "Blood-Brain Barrier:",
+      "description": "Successfully penetrates BBB and achieves therapeutic concentrations in brain tissue"
+    },
+    {
+      "label": "Functional Recovery:",
+      "description": "Not just prevents decline but actually reverses existing pathology and restores lost function in animal studies"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use 10-30 mg/kg body weight, though human equivalent doses not yet established"
+    },
+    {
+      "label": "Clinical Status:",
+      "description": "Not yet approved for human use; still in preclinical/early clinical development stages"
+    },
+    {
+      "label": "Treatment Duration:",
+      "description": "Studies show benefits with both acute treatment and prolonged administration over weeks to months"
+    },
+    {
+      "label": "Administration Route:",
+      "description": "Subcutaneous injection used in research; oral bioavailability and optimal delivery method still being investigated"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Human Data:",
+      "description": "Safety profile in humans not yet fully characterized as compound is still in research phase"
+    },
+    {
+      "label": "Animal Safety:",
+      "description": "Generally well-tolerated in animal studies with no major adverse effects reported at therapeutic doses"
+    },
+    {
+      "label": "Long-term Effects:",
+      "description": "Chronic dosing studies in animals show sustained benefits without evidence of tolerance or toxicity"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with other NAD-modulating compounds or metabolic pathways not fully explored"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Currently only available as research compound, not approved for human therapeutic use"
+    },
+    {
+      "label": "Clinical Development:",
+      "description": "Multiple research groups studying P7C3 derivatives for various neurological conditions"
+    },
+    {
+      "label": "Patent Status:",
+      "description": "Protected by patents; commercial availability likely years away pending clinical trial results"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "CALCIUM ALPHA-KETOGLUTARATE",
+      "slug": "calcium-alpha-ketoglutarate"
+    },
+    {
+      "name": "DHA",
+      "slug": "dha"
+    }
+  ]
+}

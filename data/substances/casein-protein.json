@@ -1,0 +1,143 @@
+{
+  "slug": "casein-protein",
+  "url": "https://dopamine.club/substances/casein-protein/",
+  "scrapedAt": "2026-02-12T16:06:25.381Z",
+  "title": "CASEIN PROTEIN",
+  "description": "Casein is a slow-digesting protein derived from milk that provides a sustained release of amino acids over several hours. It is commonly used as a dietary supplement to support muscle recovery, promote satiety, and provide prolonged protein availability, particularly when consumed before sleep or during extended periods without food.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pre-sleep casein protein ingestion: new paradigm in post-exercise recovery nutrition",
+      "summary": "Pre-sleep casein protein intake can enhance post-exercise recovery by providing sustained amino acid delivery during overnight sleep, supporting muscle protein synthesis and recovery processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32698256/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Time-divided ingestion pattern of casein-based protein supplement stimulates an increase in fat-free body mass during resistance training in young untrained men",
+      "summary": "Time-divided supplementation of casein protein (morning and evening doses) was superior to concentrated pre-workout timing for increasing fat-free body mass during 8 weeks of resistance training in young men.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19628107/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pre-sleep protein in casein supplement or whole-food form has no impact on resting energy expenditure or hunger in women",
+      "summary": "Pre-sleep casein protein consumption (30g) in either supplement or cottage cheese form did not significantly affect next-morning resting energy expenditure or appetite in active women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30249314/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fast-digestive protein supplement for ten days overcomes muscle anabolic resistance in healthy elderly men",
+      "summary": "While this study compared fast-digesting soluble milk proteins to casein, it demonstrated that protein quality and digestion rate significantly impact muscle protein synthesis, with casein being a slower-release alternative for sustained amino acid availability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26008820/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Utilización de las proteínas séricas y caseínas como suplementos dietéticos para la prolongación del efecto de saciedad en mujeres obesas",
+      "summary": "In a 10-week study of 60 overweight women, whey protein showed superior effects on weight loss and satiety compared to casein and maltodextrin, though casein still demonstrated modest benefits over control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27019242/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Five-Ingredient Nutritional Supplement and Home-Based Resistance Exercise Improve Lean Mass and Strength in Free-Living Elderly",
+      "summary": "A multi-ingredient supplement containing casein protein combined with home-based resistance training improved lean mass and strength in elderly men over 12 weeks, demonstrating casein's role in age-related muscle preservation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32785021/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report positive experiences with casein protein, particularly for sustained protein delivery and muscle recovery. Most users appreciate its slow-digesting properties for overnight muscle protein synthesis and satiety benefits, though some note it's less versatile than whey protein for certain applications."
+  },
+  "effects": [
+    {
+      "label": "Timing Matters:",
+      "description": "Most effective when consumed before sleep or during extended periods without food (8+ hours), as the slow digestion provides sustained amino acid delivery when it's most needed"
+    },
+    {
+      "label": "Training Enhancement:",
+      "description": "Demonstrates clear benefits for muscle mass and strength gains when combined with resistance training, particularly when timing is optimized (time-divided dosing)"
+    },
+    {
+      "label": "Comparative Performance:",
+      "description": "Generally less effective than whey protein for rapid post-workout recovery but superior for sustained overnight muscle protein synthesis and satiety"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies by individual goals - highly effective for overnight recovery and muscle preservation, but may not be ideal as the sole protein source for immediate post-workout needs"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Pre-Sleep Standard:",
+      "description": "30-40g consumed 30-90 minutes before bed is the most commonly studied and recommended dose for overnight muscle protein synthesis"
+    },
+    {
+      "label": "Time-Divided Protocol:",
+      "description": "Some research suggests splitting daily casein intake (e.g., morning and evening doses) may be superior to single concentrated doses for muscle mass gains"
+    },
+    {
+      "label": "Daily Supplementation:",
+      "description": "Total daily casein intake typically ranges from 30-70g depending on individual protein needs, training intensity, and dietary protein from other sources"
+    },
+    {
+      "label": "Whole Food Alternative:",
+      "description": "Cottage cheese (150-200g) can provide equivalent casein protein to supplements, with studies showing similar effects on recovery and metabolism"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report bloating, gas, or slower digestion, particularly with larger doses or when consumed too close to bedtime"
+    },
+    {
+      "label": "Lactose Sensitivity:",
+      "description": "Individuals with lactose intolerance may experience gastrointestinal discomfort, though most casein isolates contain minimal lactose"
+    },
+    {
+      "label": "Milk Allergy Concerns:",
+      "description": "Contraindicated for individuals with cow's milk protein allergy, as casein is a primary milk allergen"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Overall, casein is well-tolerated with few serious side effects reported in clinical studies when used at recommended doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Casein protein supplements are readily available from most supplement retailers, health food stores, and online marketplaces in various forms (micellar casein, calcium caseinate)"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally more expensive than whey protein per serving, but prices vary significantly by brand and form, with micellar casein typically being the premium option"
+    },
+    {
+      "label": "Whole Food Sources:",
+      "description": "Accessible through dairy products like cottage cheese, Greek yogurt, and milk, providing natural casein without supplementation for those who prefer whole foods"
+    }
+  ],
+  "related": [
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "lavender",
+  "url": "https://dopamine.club/substances/lavender/",
+  "scrapedAt": "2026-02-12T16:09:09.957Z",
+  "title": "LAVENDER",
+  "description": "Lavender (Lavandula angustifolia) is a flowering plant whose essential oil and extracts contain bioactive compounds including linalool and linalyl acetate that interact with GABA neurotransmitter systems. It has been studied primarily for anxiolytic (anxiety-reducing) and sedative properties, with a patented oral preparation called Silexan showing efficacy comparable to conventional anti-anxiety medications in clinical trials.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of Lavender on Anxiety, Depression, and Physiological Parameters: Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis found lavender significantly reduced anxiety (effect size -0.72), depression (-0.43), and systolic blood pressure (-0.23) compared to placebo, with oral administration showing stronger effects than aromatherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34775136/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Is lavender an anxiolytic drug? A systematic review of randomised clinical trials",
+      "summary": "Systematic review of 15 RCTs found that oral lavender supplements showed therapeutic effects for anxiety reduction, though methodological limitations in many studies warrant further research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22464012/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinician guidelines for the treatment of psychiatric disorders with nutraceuticals and phytoceuticals: The World Federation of Societies of Biological Psychiatry (WFSBP) and Canadian Network for Mood and Anxiety Treatments (CANMAT) Taskforce",
+      "summary": "International clinical guidelines evaluated lavender among other botanical treatments for psychiatric disorders, providing evidence-based recommendations for mental health applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35311615/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nip it in the Bud: Botanicals for Anxiety - a Practical Prescriber's Guide",
+      "summary": "Clinical review identified lavender as having the best available evidence among botanical anxiolytics, with the patented form Silexan showing efficacy comparable to conventional first-line treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36048322/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Plant Extracts for Sleep Disturbances: A Systematic Review",
+      "summary": "Systematic review evaluating various plant extracts for sleep complaints found lavender among the botanicals with supportive evidence for improving sleep quality and reducing sleep onset difficulties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32382286/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Medicinal Plants for Child Mental Health: Clinical Insights, Active Compounds, and Perspectives for Rational Use",
+      "summary": "Review of botanical medicines for pediatric mental health found lavender among herbal treatments with clinical evidence for managing anxiety, agitation, and mood disturbances in children and adolescents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41007011/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "Users report modest benefits for anxiety and sleep, with lavender working best as part of supplement stacks rather than as a standalone solution. Many find it provides subtle calming effects but note it's less effective than expected based on marketing claims."
+  },
+  "effects": [
+    {
+      "label": "Standalone Efficacy:",
+      "description": "Most users find lavender works better as part of a supplement stack rather than alone, with effects described as subtle or mild"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between users, with some reporting noticeable benefits while others experience minimal to no effects"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Oral lavender oil (particularly Silexan) appears more consistently effective than aromatherapy or tea preparations based on both research and user reports"
+    },
+    {
+      "label": "Complementary Role:",
+      "description": "Works best when combined with other anxiolytics or sleep aids like magnesium, lemon balm, or L-theanine rather than as primary treatment"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Oral:",
+      "description": "50-80mg of lavender oil extract (Silexan formulation) taken once daily is the most studied and recommended dose"
+    },
+    {
+      "label": "Sleep Stacks:",
+      "description": "Users typically combine 50mg lavender extract with 300mg lemon balm, magnesium, and low-dose melatonin for sleep support"
+    },
+    {
+      "label": "Aromatherapy:",
+      "description": "Essential oil used in diffusers or applied topically (diluted) for relaxation, though dosing is less standardized"
+    },
+    {
+      "label": "Timing:",
+      "description": "Best taken 30-60 minutes before bed for sleep benefits, or during the day for ongoing anxiety management"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Generally well-tolerated with few reported adverse effects at recommended doses"
+    },
+    {
+      "label": "Drowsiness:",
+      "description": "Some users report mild sedation or grogginess, particularly at higher doses or when combined with other sedatives"
+    },
+    {
+      "label": "Limited Efficacy:",
+      "description": "Most common complaint is insufficient effectiveness rather than negative side effects"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Rare reports of skin irritation or allergic responses with topical application of essential oil"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Accessible as essential oils, capsules, teas, and supplements from health food stores, pharmacies, and online retailers"
+    },
+    {
+      "label": "Silexan Brand:",
+      "description": "The patented oral lavender oil preparation used in clinical studies (marketed as CalmAid or Lasea) is available over-the-counter in many countries"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Users note significant differences between brands and formulations, with pharmaceutical-grade oral preparations showing more consistent results than aromatherapy products"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    },
+    {
+      "name": "KAVA",
+      "slug": "kava"
+    },
+    {
+      "name": "MAGNESIUM TAURATE",
+      "slug": "magnesium-taurate"
+    },
+    {
+      "name": "APIGENIN",
+      "slug": "apigenin"
+    }
+  ]
+}

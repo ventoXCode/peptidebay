@@ -1,0 +1,105 @@
+{
+  "slug": "gtx-027",
+  "url": "https://dopamine.club/substances/gtx-027/",
+  "scrapedAt": "2026-02-12T16:08:17.787Z",
+  "title": "GTX-027",
+  "description": "GTx-027 is a nonsteroidal Selective Androgen Receptor Modulator (SARM) designed to target androgen receptors in muscle and bone while minimizing activity in androgenic tissues like the prostate or skin. It functions by mimicking the anabolic effects of testosterone, specifically demonstrating the ability to increase pelvic floor muscle mass and suppress muscle degradation genes in preclinical models.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "Tissue Selective Androgen Receptor Modulators (SARMs) Increase Pelvic Floor Muscle Mass in Ovariectomized Mice",
+      "summary": "This study found that GTx-027 increases pelvic floor muscle mass and reverses the expression of genes associated with muscle wasting in animal models of postmenopausal muscle loss.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27681158/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User consensus is limited as GTx-027 is primarily a research chemical; while preclinical data is viewed positively for pelvic health, its extreme rarity in the consumer market leads to skepticism regarding the authenticity of available products."
+  },
+  "effects": [
+    {
+      "label": "Stress Urinary Incontinence:",
+      "description": "Highly effective in animal models for treating muscle weakness associated with involuntary urine leakage."
+    },
+    {
+      "label": "Postmenopausal Support:",
+      "description": "Specifically effective in reversing muscle loss caused by estrogen deficiency in ovariectomized subjects."
+    },
+    {
+      "label": "Comparison to Enobosarm:",
+      "description": "Shows similar potency to Ostarine (GTx-024) but with potentially distinct tissue-selective profiles."
+    },
+    {
+      "label": "Clinical Status:",
+      "description": "While promising in labs, it lacks the extensive human trial data of more popular SARMs like Ostarine or Ligandrol."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Animal Study Dose:",
+      "description": "Research models often utilize doses equivalent to restoring normal muscle weight in mice, which requires conversion for human relevance."
+    },
+    {
+      "label": "Research Benchmarking:",
+      "description": "Frequently compared to 3mg doses of Enobosarm in clinical discussions regarding female pelvic health."
+    },
+    {
+      "label": "Standardization:",
+      "description": "No established human recreational dose exists due to its status as a specialized research compound rather than a mass-market supplement."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormonal Suppression:",
+      "description": "As an AR ligand, it carries a theoretical risk of suppressing natural testosterone or interfering with endocrine balance."
+    },
+    {
+      "label": "Unknown Long-term Profile:",
+      "description": "Due to the lack of widespread human use, long-term safety and organ toxicity data are limited compared to earlier SARMs."
+    },
+    {
+      "label": "Virilization Risk:",
+      "description": "Though designed to be selective, high doses in females could potentially lead to androgenic side effects like hair growth or voice deepening."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Only:",
+      "description": "Not approved for human consumption or available through standard retail channels; strictly limited to the research chemical market."
+    },
+    {
+      "label": "Sourcing Difficulty:",
+      "description": "Extremely rare compared to other SARMs; most 'GTx-027' sold online is scrutinized by the community for authenticity."
+    },
+    {
+      "label": "Legality:",
+      "description": "Generally falls under the same regulatory categories as other SARMs, which are prohibited for use in professional sports by WADA."
+    }
+  ],
+  "related": [
+    {
+      "name": "AC-262536",
+      "slug": "ac-262536"
+    },
+    {
+      "name": "ACP-105",
+      "slug": "acp-105"
+    },
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "ARCARINE (ORM-11984)",
+      "slug": "arcarine-orm-11984"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    }
+  ]
+}

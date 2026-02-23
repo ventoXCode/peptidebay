@@ -1,0 +1,137 @@
+{
+  "slug": "phloretin",
+  "url": "https://dopamine.club/substances/phloretin/",
+  "scrapedAt": "2026-02-12T16:10:36.470Z",
+  "title": "PHLORETIN",
+  "description": "Phloretin is a natural dihydrochalcone flavonoid found primarily in apples and apple tree bark that exhibits anti-inflammatory, antioxidant, and neuroprotective properties. It works by modulating multiple signaling pathways including NF-κB and Nrf2, trapping reactive dicarbonyl species, and inhibiting specific ion channels and glucose transporters. Research suggests potential benefits for cognitive function, inflammation reduction, and cellular protection against oxidative stress.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Molecular Pharmacology of Phloretin: Anti-Inflammatory Mechanisms of Action",
+      "summary": "Comprehensive review detailing phloretin's anti-inflammatory mechanisms through inhibition of cytokine signaling pathways, suppression of COX and iNOS, and protective effects in multiple organ systems including cardiovascular, hepatic, renal, and nervous tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36671913/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nootropic, neuroprotective and neurotrophic effects of phloretin in scopolamine induced amnesia in mice",
+      "summary": "In vitro and animal studies demonstrated that phloretin significantly influences neuronal membrane fluidity and potential, decreased excitotoxicity, and showed nootropic and neuroprotective effects in scopolamine-induced amnesia models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26071678/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Apple Polyphenols, Phloretin and Phloridzin: New Trapping Agents of Reactive Dicarbonyl Species",
+      "summary": "Research identified phloretin as an effective trapping agent for reactive dicarbonyl species, providing antioxidant protection that may contribute to preventing oxidative stress-related diseases and cellular damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18821783/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Phloretin and Phloridzin on Ca2+ Handling, the Action Potential, and Ion Currents in Rat Ventricular Myocytes",
+      "summary": "Study revealed that phloretin affects cardiac cellular function by modulating calcium handling, inhibiting transient outward potassium currents, and increasing action potential duration in ventricular myocytes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17371848/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Flavonoids and their role in oxidative stress, inflammation, and human diseases",
+      "summary": "Comprehensive review discussing how flavonoids including phloretin modulate oxidative stress and chronic inflammation, which are key drivers in pathogenesis of cancers, cardiovascular diseases, neurodegenerative disorders, and autoimmune conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39579819/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Very limited User feedback specifically about phloretin, with only one brief mention in a supplement stack context. Insufficient user experience data to establish clear sentiment, though related flavonoid compounds show generally positive but varied responses."
+  },
+  "effects": [
+    {
+      "label": "Research Support:",
+      "description": "Strong preclinical evidence for anti-inflammatory and antioxidant effects across multiple organ systems"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "As a metabolite of phlorizin (found in apples), bioavailability may vary depending on source and formulation"
+    },
+    {
+      "label": "Mechanism Diversity:",
+      "description": "Works through multiple complementary pathways rather than single-target action"
+    },
+    {
+      "label": "Clinical Data:",
+      "description": "Limited human clinical trials available; most evidence from in vitro and animal studies"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Studies typically use concentrations ranging from micromolar to millimolar in vitro"
+    },
+    {
+      "label": "Transdermal Application:",
+      "description": "One Reddit user mentioned transdermal phloretin use, though specific dosing not provided"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Can be obtained through apple consumption, particularly from apple peels and seeds"
+    },
+    {
+      "label": "Standardization:",
+      "description": "Limited commercial supplement standardization data available"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cardiac Effects:",
+      "description": "May affect cardiac ion channels and action potential duration based on cellular studies"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Insufficient long-term human safety data from clinical trials"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential interactions with medications affecting cardiac function or glucose transport"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects may vary significantly based on individual physiology and concurrent medications"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Form:",
+      "description": "Available as isolated compound or in apple extract supplements, though less common than other flavonoids"
+    },
+    {
+      "label": "Natural Sources:",
+      "description": "Found in apples, apple cider, and apple tree bark products"
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "More commonly available through specialty chemical suppliers for research purposes"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

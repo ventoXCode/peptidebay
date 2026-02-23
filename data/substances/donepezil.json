@@ -1,0 +1,130 @@
+{
+  "slug": "donepezil",
+  "url": "https://dopamine.club/substances/donepezil/",
+  "scrapedAt": "2026-02-12T16:07:18.044Z",
+  "title": "DONEPEZIL",
+  "description": "Donepezil is an acetylcholinesterase inhibitor FDA-approved for Alzheimer's disease. By preventing acetylcholine breakdown, it enhances cholinergic transmission and cognitive function. Some use it off-label for cognitive enhancement.",
+  "categories": [
+    "Medicine",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Donepezil for dementia due to Alzheimer's disease",
+      "summary": "Evaluates donepezil's modest benefits in cognitive function and daily living activities over 12-24 weeks, noting higher doses produce more adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29923184/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical efficacy and safety of donepezil in the treatment of Alzheimer's disease in Chinese patients",
+      "summary": "Reviews donepezil effectiveness in Chinese populations, finding it generally safe with potential impacts on disease biomarkers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30349215/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of donepezil, galantamine, and rivastigmine for the treatment of Alzheimer's disease",
+      "summary": "Systematic review comparing three cholinesterase inhibitors through comprehensive database searches to evaluate their therapeutic effectiveness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18686744/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of Donepezil and Memantine on Behavioral and Psychological Symptoms of Alzheimer Disease",
+      "summary": "Study of 85 moderate Alzheimer's patients found both medications significantly reduced behavioral symptoms, with good tolerability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34851866/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Donepezil in the treatment of ischemic stroke: Review and future perspective",
+      "summary": "Explores donepezil's potential neuroprotective effects in ischemic stroke, noting preclinical promise but limited clinical evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33058916/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Mixed reports for cognitive enhancement in healthy individuals. More consistently beneficial for those with cognitive impairment. Side effects can be significant."
+  },
+  "effects": [
+    {
+      "label": "Best for Impairment:",
+      "description": "Most effective for treating cognitive decline."
+    },
+    {
+      "label": "Variable in Healthy:",
+      "description": "Benefits less consistent in cognitively healthy individuals."
+    },
+    {
+      "label": "Long Half-Life:",
+      "description": "Reaches steady state after several weeks."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Medical Dose:",
+      "description": "5-10mg daily for Alzheimer's treatment."
+    },
+    {
+      "label": "Off-Label Use:",
+      "description": "Often 2.5-5mg for cognitive enhancement."
+    },
+    {
+      "label": "Once Daily:",
+      "description": "Long half-life allows single daily dosing."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cholinergic Effects:",
+      "description": "Nausea, diarrhea, and muscle cramps common."
+    },
+    {
+      "label": "Sleep Disturbances:",
+      "description": "Insomnia and vivid dreams reported."
+    },
+    {
+      "label": "Bradycardia:",
+      "description": "Can slow heart rate; caution with cardiac conditions."
+    },
+    {
+      "label": "GI Issues:",
+      "description": "Digestive problems frequent, especially initially."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "FDA-approved medication requiring prescription."
+    },
+    {
+      "label": "Generic Available:",
+      "description": "Affordable generic versions widely available."
+    },
+    {
+      "label": "International Pharmacies:",
+      "description": "May be obtained from overseas sources."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    }
+  ]
+}

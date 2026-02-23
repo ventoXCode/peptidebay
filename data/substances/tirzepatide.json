@@ -1,0 +1,150 @@
+{
+  "slug": "tirzepatide",
+  "url": "https://dopamine.club/substances/tirzepatide/",
+  "scrapedAt": "2026-02-12T16:11:43.053Z",
+  "title": "TIRZEPATIDE",
+  "description": "Tirzepatide is a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist approved for treating type 2 diabetes and obesity. It works by enhancing insulin secretion, suppressing appetite, slowing gastric emptying, and improving glucose metabolism. The medication has recently received FDA approval for moderate to severe obstructive sleep apnea in adults with obesity, making it the first drug approved for this indication.",
+  "categories": [
+    "Peptide",
+    "GLP"
+  ],
+  "research": [
+    {
+      "title": "Strategies for minimizing muscle loss during use of incretin-mimetic drugs for treatment of obesity",
+      "summary": "Review highlighting the need for clinical practice guidelines to address muscle loss risks with semaglutide and tirzepatide, emphasizing strategies to prevent adverse effects during obesity treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39295512/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tirzepatide, a dual GLP-1 and GIP receptor agonist, promotes bone loss in obese mice via gut microbial-related metabolites",
+      "summary": "Animal study showing tirzepatide may promote bone loss through effects on gut microbiota and metabolites, raising concerns about skeletal health in long-term use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41089557/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effectiveness and sustainability of health outcomes from a holistic digital weight-loss service with concomitant initiation of tirzepatide",
+      "summary": "UK randomized controlled trial evaluating a digital weight-loss service combining tirzepatide with personalized lifestyle coaching, measuring effectiveness and sustainability of outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39223862/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exit Interviews Examining the Patient Experience in Clinical Trials of Tirzepatide for Treatment of Type 2 Diabetes",
+      "summary": "Qualitative study of patient experiences in SURPASS-2 and SURPASS-3 trials, providing insights into treatment benefits that are meaningful to patients with type 2 diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35513765/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effectiveness of SGLT2 inhibitors, incretin-based therapies, and finerenone on cardiorenal outcomes: a meta-analysis and network meta-analysis",
+      "summary": "Meta-analysis comparing SGLT2 inhibitors, GLP-1RAs, tirzepatide, and finerenone on cardiovascular and kidney outcomes, establishing relative efficacy between treatment classes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41354946/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Visual demonstration of weight loss and health risk improvement with a dual GIP and GLP-1 receptor agonist",
+      "summary": "Study developing visual methods to present complex weight loss and health-risk data from GLP-1 receptor agonist trials, demonstrating improvements in adiposity and clinical measures.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40659850/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Estimated minimum prices and lowest available national prices for antiobesity medications: Improving affordability and access to treatment",
+      "summary": "Analysis of current treatment costs and estimated minimum prices for antiobesity medications including tirzepatide, highlighting affordability barriers to access.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36815242/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users report overwhelmingly positive experiences with tirzepatide, describing it as a \"game changer\" and \"life-changing\" for weight loss and metabolic health. Most users praise its effectiveness in reducing food cravings and achieving significant weight loss, though some report gastrointestinal side effects and concerns about weight regain after stopping."
+  },
+  "effects": [
+    {
+      "label": "Rapid Onset:",
+      "description": "Many users report feeling effects within hours of the first dose, with noticeable appetite suppression and satiety occurring almost immediately"
+    },
+    {
+      "label": "Dose Response:",
+      "description": "Users find lower doses (2.5-5mg) often sufficient for maintaining benefits, with some successfully microdosing at 1mg weekly for maintenance without significant side effects"
+    },
+    {
+      "label": "Comparison to Alternatives:",
+      "description": "Users who tried both semaglutide and tirzepatide generally report tirzepatide as more effective, with some noting it feels \"stronger\" than branded Zepbound"
+    },
+    {
+      "label": "Maintenance Challenges:",
+      "description": "Studies show 82% of patients regain weight within one year of stopping, leading users to treat it as a chronic medication requiring long-term use rather than short-term intervention"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Starting Dose:",
+      "description": "Clinical protocols begin at 2.5mg weekly for 4 weeks, though some users experiment with even lower starting doses of 1mg to assess tolerance"
+    },
+    {
+      "label": "Titration Schedule:",
+      "description": "Standard uptitration increases by 2.5mg every 4 weeks up to 15mg maximum, though many users find therapeutic benefit at 5-7.5mg without needing higher doses"
+    },
+    {
+      "label": "Microdosing Protocols:",
+      "description": "Some users successfully maintain benefits with 1-1.75mg weekly or even daily dosing at 2.75mg per day using insulin pens for precise administration"
+    },
+    {
+      "label": "Maintenance Strategy:",
+      "description": "Users report better outcomes spacing doses every 7-10 days rather than stretching to 14 days, with consistent weekly dosing preferred for sustained appetite control"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Sulfur burps, nausea, and vomiting are commonly reported, especially at higher doses or when eating too much, with some batches appearing more potent than labeled"
+    },
+    {
+      "label": "Muscle Loss Concerns:",
+      "description": "Research and user discussions highlight risk of muscle loss during rapid weight loss, emphasizing need for high protein intake and resistance training"
+    },
+    {
+      "label": "Sleep Disturbances:",
+      "description": "Some users report sleep quality issues, though others experience improved sleep; effects appear individualized and dose-dependent"
+    },
+    {
+      "label": "Bone Health:",
+      "description": "Animal studies suggest potential bone loss concerns with long-term use, though human data is still emerging and users are not yet widely reporting skeletal issues"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription vs Compounded:",
+      "description": "Available as branded Zepbound by prescription, but many users access compounded versions from peptide vendors at significantly lower cost ($400 for 4 weeks vs $1000+ per dose branded)"
+    },
+    {
+      "label": "Regulatory Scrutiny:",
+      "description": "Recent Attorney General letter to FDA signals potential crackdown on compounded GLP-1s and research chemical sources, with users advised to stock up if concerned about future restrictions"
+    },
+    {
+      "label": "Insurance Coverage:",
+      "description": "Most insurance plans do not cover tirzepatide for weight loss without diabetes diagnosis, forcing patients to pay out-of-pocket or use compounding pharmacies for affordable access"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALBIGLUTIDE",
+      "slug": "albiglutide"
+    },
+    {
+      "name": "DULAGLUTIDE",
+      "slug": "dulaglutide"
+    },
+    {
+      "name": "EXENATIDE",
+      "slug": "exenatide"
+    },
+    {
+      "name": "LIRAGLUTIDE",
+      "slug": "liraglutide"
+    },
+    {
+      "name": "Retatrutide",
+      "slug": "retatrutide"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "zinc-l-carnosine",
+  "url": "https://dopamine.club/substances/zinc-l-carnosine/",
+  "scrapedAt": "2026-02-12T16:13:13.254Z",
+  "title": "ZINC L-CARNOSINE",
+  "description": "Zinc L-Carnosine is a chelated complex of zinc and the dipeptide L-carnosine, primarily used for gastrointestinal health and mucosal protection. It works by stabilizing gut integrity, reducing inflammation, providing antioxidant effects, and stimulating repair processes in the digestive tract. The compound is also being investigated for potential benefits in immune function, wound healing, and metabolic health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Zinc carnosine, a health food supplement that stabilises small bowel integrity and stimulates gut repair processes",
+      "summary": "Zinc carnosine significantly reduced indomethacin-induced intestinal damage in animal models and improved gut permeability in human volunteers, demonstrating protective effects on small bowel integrity and stimulation of gut repair mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16777920/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of zinc carnosine in the treatment of colorectal cancer and its potential in combination with immunotherapy in vivo",
+      "summary": "Zinc-L-carnosine showed anti-tumor effects in colorectal cancer models by inhibiting proliferation, invasion, and migration while enhancing the tumor immune microenvironment, suggesting potential as adjuvant cancer therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36375474/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc L-Carnosine Protects CCD-18co Cells from L-Buthionine Sulfoximine-Induced Oxidative Stress via the Induction of Metallothionein and Superoxide Dismutase 1 Expression",
+      "summary": "Zinc L-carnosine protected colon cells from oxidative stress by upregulating antioxidant enzymes metallothionein and superoxide dismutase 1, demonstrating cellular protective mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32146577/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Polaprezinc (Zinc-L-Carnosine Complex) as an Add-on Therapy for Binge Eating Disorder and Bulimia Nervosa, and the Possible Involvement of Zinc Deficiency in These Conditions: A Pilot Study",
+      "summary": "In a 16-week trial, polaprezinc (150mg/day) significantly reduced binge eating episodes and improved zinc deficiency symptoms in patients with binge eating disorder and bulimia nervosa receiving antidepressants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33044355/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Drug repositioning of polaprezinc for bone fracture healing",
+      "summary": "Polaprezinc accelerated bone fracture healing in mouse models by enhancing osteogenesis and osteoclast differentiation, suggesting potential as a supplement for skeletal tissue engineering and recovery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35577977/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc, Carnosine, and Neurodegenerative Diseases",
+      "summary": "Review discusses how zinc-carnosine complex shows protective effects against neurodegenerative diseases including Alzheimer's and vascular dementia through antioxidant, metal chelating, and anti-glycation mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29382141/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of Zinc L-Carnosine in the prevention and treatment of gastrointestinal mucosal disease in humans: a review",
+      "summary": "Comprehensive review indicates zinc L-carnosine is effective for treating gastric ulcers, NSAID-induced damage, and maintaining gastrointestinal mucosal integrity through multiple protective mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35659631/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A comparison of the cellular actions of polaprezinc (zinc-L-carnosine) and ZnCl2",
+      "summary": "Polaprezinc demonstrated superior cellular protection compared to zinc chloride under oxidative stress conditions while providing similar zinc-related benefits, indicating the carnosine component adds protective value.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22683432/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report predominantly positive experiences with zinc L-carnosine for gut health and immune support, with many noting reduced illness frequency and improved digestive symptoms. While some users experienced side effects from excessive zinc intake (typically from other zinc forms), zinc L-carnosine specifically is well-regarded for its targeted benefits."
+  },
+  "effects": [
+    {
+      "label": "Illness Prevention:",
+      "description": "Highly effective for immune support when taken consistently, with users reporting 50-100mg zinc reducing cold frequency and severity dramatically"
+    },
+    {
+      "label": "Gut Health:",
+      "description": "Particularly effective for protecting intestinal lining and healing gastrointestinal damage, especially NSAID-induced issues"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness depends heavily on baseline zinc status, with deficient individuals seeing most dramatic benefits"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Most effective when taken at first signs of illness or used preventatively rather than waiting until symptoms are severe"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Preventative Dose:",
+      "description": "15-25mg daily for general immune support and gut health maintenance, often as zinc L-carnosine complex"
+    },
+    {
+      "label": "Therapeutic Dose:",
+      "description": "50-100mg at first signs of illness for 3-5 days, though higher doses should be temporary to avoid copper depletion"
+    },
+    {
+      "label": "Gut Healing Protocol:",
+      "description": "75-150mg polaprezinc (zinc L-carnosine) divided into 2 doses daily for specific gastrointestinal conditions"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Many users take zinc 5 days on, 2 days off, or cycle usage to prevent mineral imbalances and copper depletion"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Copper Depletion:",
+      "description": "Most commonly reported issue with long-term high-dose zinc (>40mg daily), causing fatigue, anemia, neurological symptoms, and white hair"
+    },
+    {
+      "label": "Mood Changes:",
+      "description": "Some users report irritability, anger, or anhedonia with excessive zinc intake, particularly doses above 25mg daily"
+    },
+    {
+      "label": "Nausea:",
+      "description": "Taking zinc on empty stomach commonly causes stomach upset; best taken with food to minimize gastrointestinal discomfort"
+    },
+    {
+      "label": "Mineral Imbalances:",
+      "description": "Long-term supplementation without copper can lead to trace mineral deficiencies requiring comprehensive supplementation or blood testing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Zinc L-carnosine (polaprezinc) is available as over-the-counter supplement in most countries, though quality varies significantly by brand"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Users emphasize importance of choosing chelated forms like zinc L-carnosine over zinc sulfate for better absorption and fewer side effects"
+    },
+    {
+      "label": "Medical Use:",
+      "description": "Polaprezinc is approved as prescription medication for gastric ulcers in Japan and some Asian countries, used as supplement elsewhere"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

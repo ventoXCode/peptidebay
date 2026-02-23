@@ -1,0 +1,106 @@
+{
+  "slug": "hydrafinil",
+  "url": "https://dopamine.club/substances/hydrafinil/",
+  "scrapedAt": "2026-02-12T16:08:36.666Z",
+  "title": "HYDRAFINIL",
+  "description": "Hydrafinil (9-Fluorenol, Fluorenol) is a eugeroic compound structurally related to modafinil and adrafinil, marketed as a wakefulness-promoting nootropic. Unlike its predecessors, hydrafinil has not been studied in human clinical trials and its safety profile remains questionable, with some research suggesting potential DNA mutagenic properties. It is primarily used by individuals seeking cognitive enhancement, focus, and wakefulness without FDA approval or established medical use.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative, with most experienced users warning against hydrafinil due to its unproven safety profile, lack of human clinical trials, potential DNA mutations, harsh side effects (particularly severe headaches), and short duration of effectiveness (3-4 hours). Users consistently recommend avoiding it in favor of better-studied alternatives like modafinil."
+  },
+  "effects": [
+    {
+      "label": "Short Duration:",
+      "description": "Most users report only 3-5 hours of effective wakefulness, requiring multiple daily doses"
+    },
+    {
+      "label": "Inconsistent Results:",
+      "description": "Many users report minimal or no noticeable effects, particularly compared to modafinil"
+    },
+    {
+      "label": "Safety Concerns:",
+      "description": "Multiple users cite research indicating potential DNA mutations and lack of human clinical trials as major drawbacks"
+    },
+    {
+      "label": "Poor Risk-Benefit Ratio:",
+      "description": "Experienced users consistently recommend switching to proven alternatives like modafinil or armodafinil"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Range:",
+      "description": "38-100mg per dose, with users taking 2-3 doses daily to maintain effects"
+    },
+    {
+      "label": "Starting Dose:",
+      "description": "80mg mentioned as a trial dose, though dosage recommendations are sparse and inconsistent"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Typically used on an as-needed basis rather than daily due to safety concerns"
+    },
+    {
+      "label": "Water Intake:",
+      "description": "Users recommend drinking approximately 4L of water daily to minimize severe headaches"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Severe Headaches:",
+      "description": "The most commonly reported side effect, described as 'wicked' and difficult to manage"
+    },
+    {
+      "label": "Short Effect Window:",
+      "description": "Brief 3-5 hour duration requiring multiple daily doses"
+    },
+    {
+      "label": "Increased Nausea:",
+      "description": "When combined with other substances, particularly DXM"
+    },
+    {
+      "label": "Unknown Long-term Risks:",
+      "description": "Potential DNA mutagenic effects and lack of safety data in humans"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Limited Sources:",
+      "description": "Available from select research chemical vendors, though many previous sources have closed"
+    },
+    {
+      "label": "Research Chemical Status:",
+      "description": "Sold as an unregulated research chemical, not approved for human consumption"
+    },
+    {
+      "label": "Safety Verification Issues:",
+      "description": "Users express concern about purchasing unknown chemicals from unknown suppliers without quality control"
+    }
+  ],
+  "related": [
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "CAFFEINE",
+      "slug": "caffeine"
+    },
+    {
+      "name": "PHENOTROPIL",
+      "slug": "phenotropil"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    }
+  ]
+}

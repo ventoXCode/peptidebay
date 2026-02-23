@@ -1,0 +1,137 @@
+{
+  "slug": "astaxanthin",
+  "url": "https://dopamine.club/substances/astaxanthin/",
+  "scrapedAt": "2026-02-12T16:05:56.096Z",
+  "title": "ASTAXANTHIN",
+  "description": "Astaxanthin is a xanthophyll carotenoid naturally synthesized by microalgae, bacteria, and yeasts, known for its potent antioxidant properties—reported to be up to 6,000 times stronger than vitamin C. It works by scavenging free radicals without converting to vitamin A, crossing the blood-brain barrier and accumulating in skin, eyes, and other tissues to protect against oxidative stress and UV damage. Primarily used for skin health, eye protection, and anti-aging benefits.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Exploring astaxanthin: a comprehensive review on its applications, health benefits, and biological activities",
+      "summary": "Comprehensive review documenting astaxanthin's wide-ranging health benefits including antioxidant, anti-inflammatory, and neuroprotective properties across multiple systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40359479/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Astaxanthin Supplementation on Skin Health: A Systematic Review of Clinical Studies",
+      "summary": "Systematic review of clinical trials showing astaxanthin supplementation improves skin moisture, elasticity, wrinkles, and provides protection against UV-induced damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32202443/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Systematic Review and Meta-Analysis on the Effects of Astaxanthin on Human Skin Ageing",
+      "summary": "Meta-analysis demonstrating significant improvements in skin texture, wrinkle depth, moisture content, and elasticity with astaxanthin supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34578794/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Role of Astaxanthin as a Nutraceutical in Health and Age-Related Conditions",
+      "summary": "Review examining astaxanthin's therapeutic potential in age-related diseases through antioxidant, anti-inflammatory, and mitochondrial protection mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36363994/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Astaxanthin in Skin Health, Repair, and Disease: A Comprehensive Review",
+      "summary": "Comprehensive analysis of astaxanthin's effects on skin oxidative stress markers, showing it reduces ROS and improves epithelial proliferation and differentiation homeostasis.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC5946307/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users overwhelmingly report noticeable benefits for skin health, sun protection, workout recovery, and eye health. Many consider it essential after experiencing deterioration when stopping, though some note subtle effects and question whether benefits justify the cost."
+  },
+  "effects": [
+    {
+      "label": "Onset Timeline:",
+      "description": "Skin benefits typically noticed within 2-4 weeks; eye improvements can occur within 1 month; full anti-aging effects may take 3+ months of consistent use"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects range from subtle to dramatic—some users report dramatic vision improvements while others notice minimal changes; fair-skinned individuals often report stronger sun protection effects"
+    },
+    {
+      "label": "Long-term Use Validation:",
+      "description": "Users who stopped after years of supplementation experienced rapid deterioration in skin, joints, and eye health, validating its protective effects"
+    },
+    {
+      "label": "Dosage-Response:",
+      "description": "Higher doses (12-24mg) show more pronounced effects than standard 4mg doses, particularly for skin and eye benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "4-12mg daily is most common, with 12mg being the sweet spot for noticeable benefits without excessive cost"
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users report better results with 16mg for initial weeks then maintaining at 8mg daily"
+    },
+    {
+      "label": "High Dose Protocol:",
+      "description": "24mg daily used by some for enhanced skin benefits, though this is considered aggressive; no serious toxicity reported at this level"
+    },
+    {
+      "label": "Administration:",
+      "description": "Must be taken with fat/largest meal for absorption as it's fat-soluble; timing with food significantly impacts effectiveness"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Skin Discoloration:",
+      "description": "Fair-skinned users may develop orange/carrot-like skin tone at higher doses (12mg+), which reverses upon cessation within 1-3 months"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Very few serious side effects reported even at high doses; generally well-tolerated long-term"
+    },
+    {
+      "label": "Nitric Oxide Depletion:",
+      "description": "Some sources suggest it may reduce nitric oxide levels affecting circulation, though user reports don't strongly confirm this"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Rare reports of no effect or mild digestive issues, but overwhelmingly considered safe and side-effect-free"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Many major retailers brands test poorly for actual astaxanthin content; reputable brands like quality brands, NOW, and quality brands recommended"
+    },
+    {
+      "label": "Cost Consideration:",
+      "description": "Quality products range $20-40/month for 12mg daily; users debate cost-effectiveness but most find benefits justify expense for long-term use"
+    },
+    {
+      "label": "Testing Concerns:",
+      "description": "2023 testing showed many brands contain wrong amounts or none at all; stick to established, third-party tested brands from specialty retailers"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    }
+  ]
+}

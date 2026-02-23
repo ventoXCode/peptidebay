@@ -1,0 +1,103 @@
+{
+  "slug": "dimiracetam",
+  "url": "https://dopamine.club/substances/dimiracetam/",
+  "scrapedAt": "2026-02-12T16:07:15.425Z",
+  "title": "DIMIRACETAM",
+  "description": "Dimiracetam is a bicyclic 2-pyrrolidinone derivative and a member of the nootropic racetam family that acts as a glutamate modulator. Originally developed for cognitive enhancement, it has demonstrated unique potential in clinical research for its neuroprotective properties and its ability to alleviate neuropathic pain.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Broad spectrum and prolonged efficacy of dimiracetam in models of neuropathic pain",
+      "summary": "This study found that dimiracetam provides significant and long-lasting relief from neuropathic pain caused by nerve injury or chemotherapy without inducing tolerance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24486381/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of oxiracetam in patients with vascular cognitive impairment: A multicenter, randomized, double-blinded, placebo-controlled, phase IV clinical trial",
+      "summary": "While focusing on a related racetam, this research highlights the clinical efficacy of this chemical class in treating cognitive decline and memory impairment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36724841/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally view Dimiracetam favorably, specifically highlighting its unique dual-purpose as both a focus-enhancing nootropic and a tool for managing chronic nerve pain."
+  },
+  "effects": [
+    {
+      "label": "Pain Management:",
+      "description": "Highly effective for long-term neuropathic pain with a low risk of developing tolerance compared to traditional analgesics"
+    },
+    {
+      "label": "Cognitive Support:",
+      "description": "Moderate effectiveness for memory and focus, often described as more sustainable than stimulants"
+    },
+    {
+      "label": "Prolonged Action:",
+      "description": "Clinical models suggest its effects persist for a significant duration even after the compound has cleared the system"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Typical anecdotal reports suggest 200mg to 600mg per day, often split into two doses"
+    },
+    {
+      "label": "Pain Protocol:",
+      "description": "Research models often utilize higher repeated doses to achieve maximum antineuropathic efficacy"
+    },
+    {
+      "label": "Stacking:",
+      "description": "Often combined with a choline source (like Alpha-GPC) to prevent the headaches associated with racetam use"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Like other racetams, it may cause mild headaches if choline levels in the brain are depleted"
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Some users report difficulty sleeping if taken too late in the evening due to its stimulatory cognitive effects"
+    },
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Occasional reports of mild nausea or stomach upset when taken on an empty stomach"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Status:",
+      "description": "Largely available as a research chemical or through specialized nootropic vendors rather than mainstream retail"
+    },
+    {
+      "label": "Legality:",
+      "description": "Generally sold as a dietary supplement or research compound depending on local jurisdiction"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

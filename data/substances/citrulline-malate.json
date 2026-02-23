@@ -1,0 +1,155 @@
+{
+  "slug": "citrulline-malate",
+  "url": "https://dopamine.club/substances/citrulline-malate/",
+  "scrapedAt": "2026-02-12T16:06:47.918Z",
+  "title": "CITRULLINE MALATE",
+  "description": "Citrulline malate is a compound combining the amino acid L-citrulline with malate (malic acid), typically in a 2:1 or 1:1 ratio. It works by enhancing nitric oxide production to improve blood flow, supporting the urea cycle to reduce ammonia buildup, and potentially increasing ATP production through malate's role in the Krebs cycle. Primarily used as an ergogenic aid for resistance training and high-intensity exercise performance.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A critical review of citrulline malate supplementation and exercise performance",
+      "summary": "Review concludes that evidence for CM's effectiveness remains ambiguous due to methodological discrepancies including dosing strategies, quality control issues with citrulline:malate ratios, and varying test protocols. More well-controlled studies with highly repeatable protocols are needed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34417881/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Acute Effect of Citrulline Malate on Repetition Performance During Strength Training: A Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis of 8 studies with 137 participants found CM supplementation significantly increased total repetitions performed before muscular failure, with benefits observed across multiple upper and lower body exercises.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34010809/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Citrulline Malate Supplementation on Muscle Strength in Resistance-Trained Adults: A Systematic Review and Meta-Analysis",
+      "summary": "Systematic review examining CM's effects on muscle strength variables found unclear and misleading findings in the literature, highlighting the need for better-controlled research to elucidate ergogenic impact.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34176406/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Citrulline Supplementation on Exercise Performance in Humans: A Review of the Current Literature",
+      "summary": "Comprehensive review examining L-citrulline's effects on aerobic and anaerobic performance, vascular function, and potential synergistic effects with other ingredients. Suggests potential ergogenic value but notes need for more research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31977835/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Acute Citrulline-Malate Supplementation and High-Intensity Cycling Performance",
+      "summary": "Double-blind crossover study with 10 well-trained males found 12g CM consumed 60 minutes pre-exercise affected acid-base balance but results on performance improvements were mixed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26808848/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Acute Citrulline Malate Supplementation on CrossFit Exercise Performance",
+      "summary": "Randomized controlled crossover trial examined CM supplementation effects on CrossFit-specific performance metrics in trained athletes, contributing to literature on sport-specific applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39408204/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Citrulline Malate Does Not Improve Muscle Recovery after Resistance Exercise in Untrained Young Adult Men",
+      "summary": "Study found that CM supplementation did not significantly improve muscle recovery markers or reduce soreness following resistance exercise in untrained individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29057836/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Malate or Not? Acute Effects of L-Citrulline Versus Citrulline Malate on Neuromuscular Performance",
+      "summary": "Double-blind crossover trial with 43 trained adults compared pure L-citrulline versus citrulline malate to determine whether malate provides additive ergogenic effects when combined with citrulline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39662304/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences show genuinely mixed results, with some reporting noticeable improvements in training volume and muscle pumps while others find minimal to no benefits. Effectiveness appears highly individual and dependent on proper dosing, training status, and product quality."
+  },
+  "effects": [
+    {
+      "label": "Training Status Matters:",
+      "description": "Research suggests benefits may be more pronounced in trained individuals compared to untrained subjects, though results remain inconsistent"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "User experiences show high individual variation in response, with some reporting significant benefits while others notice no difference from placebo"
+    },
+    {
+      "label": "Dose-Dependent Effects:",
+      "description": "Meta-analyses indicate that proper dosing (typically 8g+ of actual citrulline malate) is critical for performance benefits"
+    },
+    {
+      "label": "Quality Control Issues:",
+      "description": "Recent research reveals significant problems with manufacturer-stated citrulline:malate ratios, potentially explaining inconsistent results across studies and user experiences"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Acute Pre-Workout:",
+      "description": "Most common protocol is 6-12g taken 60 minutes before exercise for acute performance enhancement"
+    },
+    {
+      "label": "Standard Single Dose:",
+      "description": "8g appears to be the most frequently studied and recommended acute dose based on research literature"
+    },
+    {
+      "label": "Ratio Considerations:",
+      "description": "Products should ideally contain 2:1 citrulline:malate ratio, though actual ratios often differ from label claims"
+    },
+    {
+      "label": "Timing Window:",
+      "description": "Taking 45-60 minutes pre-workout allows for peak blood levels during exercise, though some users experiment with splitting doses"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Most commonly reported side effect includes stomach upset, bloating, or diarrhea, particularly at higher doses or in sensitive individuals"
+    },
+    {
+      "label": "Minimal Serious Effects:",
+      "description": "Generally well-tolerated with few serious adverse effects reported in research or user experiences"
+    },
+    {
+      "label": "Taste Issues:",
+      "description": "Users frequently mention unpleasant taste when using unflavored powder forms"
+    },
+    {
+      "label": "Individual Tolerance:",
+      "description": "Some individuals report no side effects even at high doses, while others experience GI issues at standard dosing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily purchased from supplement retailers, online vendors, and often included in pre-workout formulations"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Recent research highlights significant quality control issues with actual citrulline:malate ratios not matching label claims across manufacturers"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Fully legal and unregulated as a dietary supplement in most countries with no prescription required"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

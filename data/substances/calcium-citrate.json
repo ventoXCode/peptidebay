@@ -1,0 +1,127 @@
+{
+  "slug": "calcium-citrate",
+  "url": "https://dopamine.club/substances/calcium-citrate/",
+  "scrapedAt": "2026-02-12T16:06:20.696Z",
+  "title": "CALCIUM CITRATE",
+  "description": "Calcium citrate is a highly bioavailable form of calcium supplementation that does not require stomach acid for absorption, making it suitable for fasting administration and individuals with low stomach acid. It provides elemental calcium bound to citric acid and is commonly used to address calcium deficiency, though recent evidence questions its efficacy in fracture prevention in community-dwelling adults.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Meta-analysis of calcium bioavailability: a comparison of calcium citrate with calcium carbonate",
+      "summary": "Meta-analysis comparing calcium citrate to calcium carbonate found that calcium citrate demonstrates superior bioavailability, particularly in fasting states and in individuals with reduced gastric acid production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11329115/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A comparative study of calcium absorption following a single serving administration of calcium carbonate powder versus calcium citrate tablets in healthy premenopausal women",
+      "summary": "Study in premenopausal women demonstrated that calcium citrate tablets showed comparable absorption to calcium carbonate powder, with both forms effectively raising serum calcium levels.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3999951/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Acute effects of calcium citrate with or without a meal, calcium-fortified juice and a dairy product meal on serum calcium and phosphate: a randomised cross-over trial",
+      "summary": "Randomized trial examining acute effects found that calcium supplements produce different serum calcium responses compared to dietary calcium, potentially explaining differences in cardiovascular risk profiles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25851635/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Calcium Supplementation- Efficacy and Safety",
+      "summary": "Comprehensive review concludes that calcium supplements do not prevent fractures in community-dwelling adults and may increase cardiovascular risk by 10-20%, with gastrointestinal side effects and renal calculi being common adverse events.",
+      "url": "https://link.springer.com/article/10.1007/s11914-025-00904-7",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Recent research reveals significant concerns about calcium supplementation efficacy and safety, with evidence showing limited fracture prevention benefits and potential cardiovascular risks, though calcium citrate maintains advantages in bioavailability over other forms."
+  },
+  "effects": [
+    {
+      "label": "Fracture Prevention:",
+      "description": "Large body of trial evidence shows calcium supplements do not prevent fractures in community-dwelling adults"
+    },
+    {
+      "label": "Absorption Efficiency:",
+      "description": "Calcium citrate demonstrates effective absorption without requiring stomach acid, beneficial for elderly or those on acid-suppressing medications"
+    },
+    {
+      "label": "Cardiovascular Concerns:",
+      "description": "Meta-analyses suggest 10-20% increased risk of myocardial infarction with calcium supplementation"
+    },
+    {
+      "label": "Limited Clinical Role:",
+      "description": "Current evidence suggests minimal role in osteoporosis prevention or treatment when used with modern bone medicines"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Single Serving Studies:",
+      "description": "Research typically examines single doses ranging from standard supplemental amounts"
+    },
+    {
+      "label": "Timing Independence:",
+      "description": "Can be taken with or without food due to acid-independent absorption"
+    },
+    {
+      "label": "Bolus Effect:",
+      "description": "Single large doses produce acute physiological changes lasting several hours"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Chronic supplementation associated with cumulative cardiovascular and renal risks"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Common side effects including digestive disturbances, sometimes serious in nature"
+    },
+    {
+      "label": "Kidney Stones:",
+      "description": "Increased risk of renal calculi formation with supplementation"
+    },
+    {
+      "label": "Cardiovascular Risk:",
+      "description": "Elevated myocardial infarction risk compared to dietary calcium intake"
+    },
+    {
+      "label": "Vascular Calcification:",
+      "description": "Acute increases in blood calcification propensity following supplementation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widespread Availability:",
+      "description": "Calcium citrate is readily available as an over-the-counter nutritional supplement"
+    },
+    {
+      "label": "Form Preference:",
+      "description": "Often recommended over calcium carbonate for individuals with absorption concerns or those taking acid-suppressing medications"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "s-acetyl-glutathione",
+  "url": "https://dopamine.club/substances/s-acetyl-glutathione/",
+  "scrapedAt": "2026-02-12T16:11:05.652Z",
+  "title": "S-ACETYL GLUTATHIONE",
+  "description": "S-Acetyl Glutathione (SAG) is a modified form of glutathione where an acetyl group is attached to the sulfur atom, making it more stable and bioavailable than regular glutathione. Unlike oral glutathione which is largely broken down in the digestive system, SAG can cross cell membranes intact and be converted to active glutathione inside cells. It is primarily used as an antioxidant supplement to support cellular defense against oxidative stress and maintain glutathione levels in the body.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Safety assessment of S-Acetyl Glutathione for use in foods and dietary supplements",
+      "summary": "Comprehensive toxicological studies showed SAG is safe for use in foods and dietary supplements, with no genotoxic activity and a NOAEL of 1500 mg/kg/day in rats with no adverse effects on organs or physiological functions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39892735/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of N-acetylcysteine, oral glutathione (GSH) and a novel sublingual form of GSH on oxidative stress markers: A comparative crossover study",
+      "summary": "Study comparing different glutathione forms found that sublingual GSH delivery showed improved bioavailability and effects on oxidative stress markers compared to oral glutathione.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26262996/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of oral glutathione supplementation on systemic oxidative stress biomarkers in human volunteers",
+      "summary": "Clinical trial demonstrated that oral glutathione supplementation can increase systemic glutathione levels and reduce oxidative stress biomarkers in healthy human volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21875351/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glutathione Homeostasis and Functions: Potential Targets for Medical Interventions",
+      "summary": "Comprehensive review detailing glutathione's critical roles in protecting against reactive oxygen species, eliminating toxicants, metal homeostasis, and its relationships with various pathologies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22500213/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are genuinely divided, with some reporting noticeable benefits for detoxification and antioxidant support, while others report minimal perceptible effects or uncertainty about its efficacy compared to NAC or liposomal glutathione."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability Debate:",
+      "description": "While SAG is marketed as more bioavailable than regular glutathione, users debate whether it's superior to alternatives like NAC or liposomal glutathione"
+    },
+    {
+      "label": "Long-term vs Acute:",
+      "description": "Most users acknowledge SAG as a long-term cellular support supplement rather than one with immediately noticeable effects"
+    },
+    {
+      "label": "Comparison to Alternatives:",
+      "description": "Many users question whether SAG justifies its higher cost compared to NAC, which is a glutathione precursor"
+    },
+    {
+      "label": "Research Support:",
+      "description": "Users cite limited human studies specifically on SAG compared to other glutathione-boosting compounds"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Common doses mentioned are 200-500mg daily, often taken on an empty stomach for better absorption"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Users typically take SAG in the morning or early afternoon to avoid potential sleep interference"
+    },
+    {
+      "label": "Cycling Approach:",
+      "description": "Some users cycle SAG or alternate with other glutathione precursors like NAC"
+    },
+    {
+      "label": "Sublingual Option:",
+      "description": "While not specifically SAG, users discuss sublingual glutathione as potentially more effective than standard oral forms"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal to no side effects at standard doses"
+    },
+    {
+      "label": "Digestive Sensitivity:",
+      "description": "Some users report mild stomach discomfort, particularly when taken without food"
+    },
+    {
+      "label": "Cost Consideration:",
+      "description": "High price point relative to alternatives is frequently mentioned as a drawback"
+    },
+    {
+      "label": "Unknown Long-term Effects:",
+      "description": "Users express some uncertainty about long-term supplementation effects due to limited human data"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Specialty Supplement:",
+      "description": "SAG is available from specialized supplement retailers and typically more expensive than NAC or regular glutathione"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize the importance of purchasing from reputable brands with third-party testing due to stability concerns"
+    },
+    {
+      "label": "Alternative Forms:",
+      "description": "Many users discuss exploring liposomal glutathione or NAC as potentially more cost-effective or better-studied alternatives"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

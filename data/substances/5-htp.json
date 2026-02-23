@@ -1,0 +1,142 @@
+{
+  "slug": "5-htp",
+  "url": "https://dopamine.club/substances/5-htp/",
+  "scrapedAt": "2026-02-12T16:05:18.368Z",
+  "title": "5-HTP",
+  "description": "5-Hydroxytryptophan (5-HTP) is a naturally occurring amino acid and chemical precursor to serotonin. It is commonly used to support mood, sleep quality, and appetite regulation by increasing serotonin levels in the brain.",
+  "categories": [
+    "Supplement",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "5-Hydroxytryptophan (5-HTP): Natural Occurrence, Analysis, Biosynthesis, Biotechnology, Physiology and Toxicology",
+      "summary": "Comprehensive review covering 5-HTP's role in neurological and metabolic health, discussing its production and uses in treating depression and anxiety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33375373/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tryptophan-enriched diet or 5-hydroxytryptophan supplementation given in a randomized controlled trial impacts social cognition",
+      "summary": "Study found 5-HTP influences social cognition, particularly in interpreting moral and emotional cues, with increased empathy-related brain activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34737364/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The impact of 5-hydroxytryptophan supplementation on sleep quality and gut microbiota composition in older adults",
+      "summary": "Twelve-week trial demonstrated 5-HTP improved sleep quality and increased microbiota diversity in older adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38309227/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Advances in the Microbial Synthesis of 5-Hydroxytryptophan",
+      "summary": "Review discussing recent advancements in microbial methods for 5-HTP production, improving biosynthesis efficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33634088/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Simultaneous determination of 5-hydroxytryptophan and 3-O-methyldopa in dried blood spot by UPLC-MS/MS",
+      "summary": "Study developed a diagnostic method to measure 5-HTP, aiding detection of L-amino acid decarboxylase deficiency.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1570023221004803",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Amines and the rat exocrine pancreas: Effects of receptor blockers on turnover of L-5HTP",
+      "summary": "Research studied 5-HTP metabolism in the pancreas, showing changes in serotonin accumulation with receptor blockers.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0021519819320360",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Analgesic effects of N-acetyl-5HTP-5HTP amide are not directly related to brain serotonin levels",
+      "summary": "Synthetic 5-HTP dipeptide increased pain thresholds in rats through an alternate pathway independent of serotonin.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/002432057990506X",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "HVA and 5HIAA CSF measurements and 5HTP trials in some patients with involuntary movements",
+      "summary": "5-HTP trials showed selective therapeutic benefit in specific myoclonus conditions while worsening symptoms in other movement types.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0022510X73901378",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Effect of L-5HTP on Tremorine- or Oxotremorine-Induced Tremor in Mice and Rats",
+      "summary": "Study examined 5-HTP's potential for managing tremors and muscle rigidity, relevant to Parkinson's research.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0021519819319961",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive effects on mood and sleep, though some experience digestive side effects initially."
+  },
+  "effects": [
+    {
+      "label": "Variable Response:",
+      "description": "Effectiveness varies significantly among individuals, with some experiencing dramatic improvements and others noticing minimal change."
+    },
+    {
+      "label": "Works Best With Cofactors:",
+      "description": "Users report better results when combining with B6 and other cofactors that support serotonin synthesis."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "50-300mg daily, often taken in divided doses."
+    },
+    {
+      "label": "Timing:",
+      "description": "Usually taken with meals or before bed depending on the desired effect."
+    },
+    {
+      "label": "Start Low:",
+      "description": "New users often start at 50mg and gradually increase to assess tolerance."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Nausea and digestive discomfort are common initially but often subside."
+    },
+    {
+      "label": "Serotonin Syndrome Risk:",
+      "description": "Should not be combined with SSRIs or other serotonergic medications."
+    },
+    {
+      "label": "Drowsiness:",
+      "description": "May cause drowsiness, particularly at higher doses."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in most supplement stores and online retailers."
+    },
+    {
+      "label": "Affordable:",
+      "description": "Generally inexpensive compared to many nootropics."
+    }
+  ],
+  "related": [
+    {
+      "name": "Agmatine",
+      "slug": "agmatine"
+    },
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "L-Theanine",
+      "slug": "l-theanine"
+    },
+    {
+      "name": "SARCOSINE",
+      "slug": "sarcosine"
+    },
+    {
+      "name": "THEACRINE",
+      "slug": "theacrine"
+    }
+  ]
+}

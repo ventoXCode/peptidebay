@@ -1,0 +1,155 @@
+{
+  "slug": "vinpocetine",
+  "url": "https://dopamine.club/substances/vinpocetine/",
+  "scrapedAt": "2026-02-12T16:12:09.852Z",
+  "title": "VINPOCETINE",
+  "description": "Vinpocetine is a semi-synthetic derivative of the alkaloid vincamine, extracted from the periwinkle plant. It acts as a phosphodiesterase inhibitor and cerebral vasodilator, enhancing blood flow to the brain and providing neuroprotective effects. Originally developed for treating cerebrovascular disorders like stroke and dementia, it's now widely available as a dietary supplement marketed for cognitive enhancement and memory improvement.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Vinpocetine (A comprehensive profile)",
+      "summary": "A comprehensive review detailing vinpocetine's multi-action properties for treating neurological disorders like Alzheimer's and Parkinson's disease, along with its anti-inflammatory, analgesic, and antioxidant effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35396012/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An update on vinpocetine: New discoveries and clinical implications",
+      "summary": "Research reveals novel therapeutic effects of vinpocetine including anti-inflammation, protection against vascular remodeling, and benefits for cardiovascular health beyond its traditional cerebrovascular uses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29183836/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of vinpocetine in cerebrovascular diseases",
+      "summary": "Clinical studies demonstrate vinpocetine's cerebral blood-flow enhancing and neuroprotective effects through multiple mechanisms, with good safety profile for long-term use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21857073/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vinpocetine and Lactobacillus Attenuated Rotenone-Induced Parkinson's Disease",
+      "summary": "Study shows vinpocetine helped restore dopamine synthesis and reduced oxidative stress, neuroinflammation, and Lewy body formation in a rat model of Parkinson's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39954133/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of vinpocetine on embryonic heart rate in vitro",
+      "summary": "Research found vinpocetine induced concentration-dependent embryonic bradycardia, with effects occurring at levels unlikely to be reached in humans taking normal supplement doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37753450/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vinpocetine improved neuropsychiatric and epileptic outcomes in a patient with a GABRA1 loss-of-function variant",
+      "summary": "Case report demonstrates vinpocetine successfully improved both seizure control and neuropsychiatric symptoms in a patient with a specific genetic variant affecting GABA function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37434477/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Updates of Recent Vinpocetine Research in Treating Cardiovascular Diseases",
+      "summary": "Review highlights vinpocetine's expanding therapeutic potential for cardiovascular conditions including atherosclerosis, obesity, and pathological cardiac remodeling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32832931/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Embryo-fetal development studies with the dietary supplement vinpocetine in the rat and rabbit",
+      "summary": "Safety study revealed dose-dependent fetal mortality and cardiovascular malformations in animal models, leading to FDA advisories against use during pregnancy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29460393/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report generally positive experiences with vinpocetine for focus and cognitive enhancement, but responses vary significantly between individuals. Many users include it in successful nootropic stacks, though some report minimal effects or prefer other alternatives."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "User responses range from highly positive to minimal effects, suggesting significant individual differences in metabolism or sensitivity"
+    },
+    {
+      "label": "Stack Synergy:",
+      "description": "Most effective when combined with other nootropics like Alpha-GPC, piracetam, or choline sources rather than used alone"
+    },
+    {
+      "label": "Subtle Effects:",
+      "description": "Users often describe vinpocetine's benefits as more subtle compared to stimulants, with effects on focus and mental clarity rather than energy"
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "Some users report consistent benefits with regular use over months, particularly for cognitive maintenance"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most users take 10mg doses, typically 1-3 times daily for a total of 10-30mg per day"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken with meals to improve absorption, with some users preferring evening doses to avoid interaction with stimulants"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users cycle vinpocetine or use it only on weekdays to prevent potential tolerance"
+    },
+    {
+      "label": "Stacking Ratios:",
+      "description": "When combined with other nootropics, users typically maintain the 10mg dose while adjusting other compounds"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Some users report headaches, particularly when not taking adequate choline sources alongside vinpocetine"
+    },
+    {
+      "label": "Breathing Issues:",
+      "description": "A few users reported difficulty breathing, leading them to discontinue use"
+    },
+    {
+      "label": "Cardiovascular Effects:",
+      "description": "Research shows potential for heart rate changes, though serious effects are rare at supplement doses"
+    },
+    {
+      "label": "Pregnancy Concerns:",
+      "description": "Animal studies show significant reproductive toxicity, making it unsuitable for pregnant or nursing women"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Available as a dietary supplement in the US despite FDA concerns about its drug-like properties and lack of approval"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Users recommend purchasing from reputable suppliers due to quality and potency variations between manufacturers"
+    },
+    {
+      "label": "International Access:",
+      "description": "Availability varies by country, with some regions having restrictions or requiring importation"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

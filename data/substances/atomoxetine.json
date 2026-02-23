@@ -1,0 +1,143 @@
+{
+  "slug": "atomoxetine",
+  "url": "https://dopamine.club/substances/atomoxetine/",
+  "scrapedAt": "2026-02-12T16:05:58.720Z",
+  "title": "ATOMOXETINE",
+  "description": "Atomoxetine (Strattera) is a selective norepinephrine reuptake inhibitor (NRI) approved for the treatment of attention-deficit/hyperactivity disorder (ADHD) in children, adolescents, and adults. Unlike stimulant medications, it works by increasing norepinephrine levels in the brain, improving attention, reducing impulsivity, and enhancing executive function. It is primarily metabolized by cytochrome P450 2D6 and requires several weeks to reach full therapeutic effect.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Attention-deficit-hyperactivity disorder: an update",
+      "summary": "Comprehensive review showing that drug therapy including atomoxetine is effective for all age groups with ADHD, though stimulants like methylphenidate and amphetamine remain the most effective first-line treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19476419/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An update on pharmacotherapy of autism spectrum disorder in children and adolescents",
+      "summary": "Evidence supports use of atomoxetine for ADHD symptoms in children and adolescents with autism spectrum disorder, though it does not address core autism symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29693461/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of stimulants and atomoxetine on emotional lability in adults: A systematic review and meta-analysis",
+      "summary": "Meta-analysis examining effects of atomoxetine on emotional lability symptoms in adults with ADHD, comparing its effects with those on core ADHD symptoms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28646732/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Assessment of probiotic strain Lactobacillus acidophilus LB supplementation as adjunctive management of attention-deficit hyperactivity disorder in children and adolescents",
+      "summary": "Randomized controlled trial showing probiotics as adjunctive therapy with atomoxetine may enhance ADHD symptom management and cognitive function in children and adolescents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37946220/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Metabolic Activation of Atomoxetine Mediated by Cytochrome P450 2D6",
+      "summary": "Study characterizing reactive metabolites of atomoxetine and potential mechanisms of hepatotoxicity, identifying glutathione and N-acetylcysteine conjugates in liver microsomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34431675/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Amphetamine positive urine toxicology screen secondary to atomoxetine",
+      "summary": "Case report documenting the first instance of atomoxetine causing false-positive amphetamine results on urine drug immunoassays, though not confirmed by gas chromatography-mass spectrometry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23424703/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative, with most reporting minimal effectiveness, significant emotional blunting and personality changes, and preference for alternative treatments. Common complaints include feeling 'robot-like,' cognitive fog, and the medication either doing nothing or making symptoms worse."
+  },
+  "effects": [
+    {
+      "label": "Poor Compared to Stimulants:",
+      "description": "Consistently rated as less effective than methylphenidate, amphetamines, or even modafinil for ADHD symptoms"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "A small subset reports positive effects when combined with other medications (bupropion, probiotics), but most find it unhelpful"
+    },
+    {
+      "label": "Executive Function:",
+      "description": "Limited improvement in executive dysfunction, motivation, or working memory compared to expectations"
+    },
+    {
+      "label": "Long-Term Tolerance:",
+      "description": "Even when initially effective, benefits may diminish over time without dosage adjustment"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Starting Dose:",
+      "description": "Typically initiated at 18mg or 40mg daily, with gradual titration based on response and tolerability"
+    },
+    {
+      "label": "Therapeutic Range:",
+      "description": "Common maintenance doses range from 40-80mg daily, though some require higher doses"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Can be taken once daily, though effects may not be noticeable for 4-6 weeks of consistent use"
+    },
+    {
+      "label": "Combination Protocols:",
+      "description": "Some users report better results combining with bupropion 150mg or adjunctive supplements like magnesium and omega-3s"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Personality Changes:",
+      "description": "Emotional numbing, apathy, and feeling 'dumb' or cognitively foggy are frequently reported"
+    },
+    {
+      "label": "Physical Effects:",
+      "description": "Restlessness, tension, TMJ from muscle tension, increased heart rate, and urinary retention in some users"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Can cause insomnia regardless of dosing time, with some reporting inability to sleep for extended periods"
+    },
+    {
+      "label": "Cardiovascular Concerns:",
+      "description": "May cause QT prolongation and increased cardiovascular burden, particularly at higher doses or in sensitive individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Available only by prescription in most countries; not available as an over-the-counter supplement"
+    },
+    {
+      "label": "Cost Concerns:",
+      "description": "Expensive without insurance ($200+ for refills mentioned), though generic versions and discount programs (GoodRx, CostPlus) may reduce costs"
+    },
+    {
+      "label": "Regional Restrictions:",
+      "description": "Availability and cost vary significantly by country; some users report difficulty accessing or affording the medication long-term"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CAFFEINE",
+      "slug": "caffeine"
+    }
+  ]
+}

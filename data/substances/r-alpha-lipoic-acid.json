@@ -1,0 +1,155 @@
+{
+  "slug": "r-alpha-lipoic-acid",
+  "url": "https://dopamine.club/substances/r-alpha-lipoic-acid/",
+  "scrapedAt": "2026-02-12T16:10:54.074Z",
+  "title": "R-ALPHA LIPOIC ACID",
+  "description": "R-Alpha Lipoic Acid (R-ALA) is the naturally occurring, biologically active form of alpha-lipoic acid, a powerful antioxidant and mitochondrial cofactor. It functions by neutralizing free radicals, chelating metals, regenerating other antioxidants (vitamins C, E, glutathione), and supporting mitochondrial energy production. Primary uses include managing diabetic neuropathy, reducing oxidative stress, improving glucose metabolism, and supporting cellular energy production.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Alpha-lipoic acid as a dietary supplement: molecular mechanisms and therapeutic potential",
+      "summary": "ALA improves glucose handling, increases eNOS activity, activates Phase II detoxification via Nrf2, and lowers inflammatory markers through NF-kappa B repression. Beneficial effects are achieved with low micromolar levels, suggesting therapeutic potential beyond strict antioxidant action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19664690/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-Lipoic Acid: Biological Mechanisms and Health Benefits",
+      "summary": "ALA exhibits antioxidant, anti-inflammatory, and metal-chelating properties with applications in neuroprotection, metabolic syndrome, and age-related conditions. The ALA/DHLA redox couple provides ideal antioxidant characteristics by functioning in both aqueous and lipid environments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39456481/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mitochondrial Dysfunction and Neurodegenerative Disorders: Role of Nutritional Supplementation",
+      "summary": "ALA is recommended as part of a combination protocol with CoQ10, B-vitamins, L-carnitine, and vitamin D for treating mitochondrial dysfunction in neurodegenerative disorders including Parkinson's, Alzheimer's, and ALS.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36293457/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-lipoic acid supplementation and diabetes",
+      "summary": "ALA improves glycemic control and reduces polyneuropathies associated with diabetes mellitus. It directly terminates free radicals, chelates metals, and increases cytosolic glutathione and vitamin C levels while protecting against cardiovascular disease risk factors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19019027/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-lipoic acid supplement in obesity treatment: A systematic review and meta-analysis of clinical trials",
+      "summary": "Meta-analysis demonstrates ALA supplementation has positive effects on anthropometric indices in obesity treatment. Effects are dose and duration-dependent with optimal results seen in cases of elevated triglycerides.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28629898/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "α-Lipoic acid as a triglyceride-lowering nutraceutical",
+      "summary": "ALA shows efficacy in lowering hypertriglyceridemia, particularly when blood triglycerides are markedly elevated. It is clinically proven safe and effective against diabetic polyneuropathies with a strong safety record.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26235242/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic Benefits of Alpha-Lipoic Acid Supplementation in Diabetes Mellitus: A Narrative Review",
+      "summary": "Clinical trials show ALA improves glucose metabolism, reduces oxidative stress, improves endothelial dysfunction, and decreases platelet reactivity in diabetes. It inhibits NF-kB, chelates metal ions, and induces AMPK expression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34939534/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of diet and non-pharmacologic supplements in the treatment of chronic neuropathic pain: A systematic review",
+      "summary": "Systematic review identifies ALA as an important dietary intervention for managing chronic neuropathic pain. Evidence supports its efficacy as an alternative to poorly tolerated pharmacological treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37654090/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report significant benefits for neuropathy, muscle cramps, energy, and cognitive function, with one dramatic case of 95% pain reduction from IV ALA after COVID-19. Most users find it effective when taken consistently, though some report timing challenges and concerns about heavy metal redistribution."
+  },
+  "effects": [
+    {
+      "label": "Diabetic Neuropathy:",
+      "description": "Research and user reports consistently show strong efficacy for diabetic nerve pain, considered one of the primary evidence-based applications"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Effectiveness is dose and duration-dependent, with 600mg being a common therapeutic dose and higher doses (1200mg) used initially for severe cases"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "R-ALA (stabilized as Na-R-ALA) is preferred over racemic ALA for better bioavailability and reduced side effects, though standard ALA still shows benefits"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Works best as part of mitochondrial support stacks with CoQ10, ALCAR, and B-vitamins rather than as a standalone supplement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "600mg once daily is the most commonly reported effective dose, typically taken in the morning on an empty stomach"
+    },
+    {
+      "label": "High Dose:",
+      "description": "1200mg daily (split or single dose) used for severe neuropathy or initial treatment, with users reporting good tolerance"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Best absorbed on empty stomach, but users report difficulty finding optimal timing due to short half-life and potential interactions"
+    },
+    {
+      "label": "Form Selection:",
+      "description": "240mg R-lipoic acid or 300mg timed-release ALA are alternative dosing strategies that some users prefer for sustained effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Heavy Metal Concerns:",
+      "description": "Users and practitioners warn about potential redistribution of heavy metals, particularly mercury, requiring proper chelation protocol following Dr. Cutler's method"
+    },
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Heartburn and stomach discomfort reported occasionally, usually short-lived and managed by taking on empty stomach"
+    },
+    {
+      "label": "Mineral Depletion:",
+      "description": "Can chelate copper and zinc, potentially causing deficiencies with long-term use; monitoring and supplementation may be needed"
+    },
+    {
+      "label": "Timing Challenges:",
+      "description": "Short half-life makes consistent dosing difficult, with some protocols recommending every 3-hour dosing for chelation purposes"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Brands:",
+      "description": "quality brands (timed release), quality brands, reputable suppliers (stabilized R-ALA powder and capsules) frequently mentioned and trusted by users"
+    },
+    {
+      "label": "Form Options:",
+      "description": "Available as standard ALA, R-ALA, Na-R-ALA (stabilized), timed-release formulations, and IV preparations for medical use"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Stabilized R-ALA forms are more expensive but preferred by experienced users for better bioavailability and fewer side effects"
+    }
+  ],
+  "related": [
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "HUMIC ACID",
+      "slug": "humic-acid"
+    },
+    {
+      "name": "MALIC ACID",
+      "slug": "malic-acid"
+    },
+    {
+      "name": "PYRUVIC ACID",
+      "slug": "pyruvic-acid"
+    },
+    {
+      "name": "ROSMARINIC ACID",
+      "slug": "rosmarinic-acid"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "lithium-orotate",
+  "url": "https://dopamine.club/substances/lithium-orotate/",
+  "scrapedAt": "2026-02-12T16:09:16.210Z",
+  "title": "LITHIUM OROTATE",
+  "description": "Lithium Orotate is a nutritional supplement combining lithium with orotic acid, marketed as a low-dose alternative to prescription lithium salts. It is proposed to support mood stabilization, reduce anxiety, and provide neuroprotective effects at doses typically containing 1-10mg of elemental lithium. The compound is suggested to have better cellular uptake than lithium carbonate, though clinical evidence for this remains limited.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A toxicological evaluation of lithium orotate",
+      "summary": "Safety study found lithium orotate has a narrow therapeutic window with potential toxicity concerns, though it has been marketed for decades as a supplemental lithium source with few recorded adverse events at typical supplement doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34146638/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Different pharmacokinetics of lithium orotate inform why it is more potent, effective, and less toxic than lithium carbonate in a mouse model of mania",
+      "summary": "Mouse study demonstrated lithium orotate was more potent and effective than lithium carbonate at lower doses with reduced adverse effects, potentially due to different pharmacokinetic properties and better tissue uptake.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37356352/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lithium deficiency and the onset of Alzheimer's disease",
+      "summary": "Research found endogenous lithium is dynamically regulated in the brain and contributes to cognitive preservation during aging, with lithium deficiency linked to increased amyloid deposition and tau accumulation in Alzheimer's disease models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40770094/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Survey Exploring People's Experiences With Lithium Bought as a Supplement",
+      "summary": "Survey of 211 participants found users reported perceived benefits for mood, anxiety, and cognitive effects from low-dose lithium supplements, though empirical neuropsychiatric evidence in humans remains limited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40152059/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lithium orotate: A superior option for lithium therapy?",
+      "summary": "Review suggests lithium orotate may cross the blood-brain barrier more readily than lithium carbonate, potentially allowing reduced dosage requirements and ameliorated toxicity concerns, though clinical evidence is limited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34196467/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lithium toxicity from an Internet dietary supplement",
+      "summary": "Case report documented mild acute lithium toxicity from intentional overdose of lithium orotate supplement, highlighting potential risks despite lower elemental lithium content compared to prescription forms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18072162/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Kidney function and lithium concentrations of rats given an injection of lithium orotate or lithium carbonate",
+      "summary": "Rat study found lithium orotate caused significantly lower kidney function and higher lithium concentrations in tissues compared to lithium carbonate, suggesting it may be inadvisable for patient treatment due to potential renal effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34690/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lithium orotate in the treatment of alcoholism and related conditions",
+      "summary": "Clinical practice study of 42 alcoholic patients treated with 150mg daily lithium orotate found it useful as a pharmacologic agent, with 10 patients having no relapse for 3-10 years during follow-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3718672/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Most users report significant benefits for mood stabilization, anxiety reduction, and mental calmness, often describing profound effects at low doses (1-10mg). While some users report no effects or mild side effects like lethargy at higher doses, the majority express strong satisfaction and describe it as transformative for mental health."
+  },
+  "effects": [
+    {
+      "label": "Rapid Onset:",
+      "description": "Many users report noticeable effects within 12-24 hours to a few days, which is unusually fast for mood supplements"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness varies widely, with some experiencing profound benefits while others report no effects or negative responses, possibly related to regional lithium levels in drinking water"
+    },
+    {
+      "label": "Dose Sensitivity:",
+      "description": "Users report significant differences between doses, with 1mg being effective for some while others require 5-10mg, and higher doses potentially causing lethargy or anhedonia"
+    },
+    {
+      "label": "Combination Effects:",
+      "description": "Often more effective when combined with other supplements like magnesium, with some users reporting synergistic benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low Dose (1mg):",
+      "description": "Commonly reported as effective for mood stabilization and anxiety with minimal side effects, recommended for long-term use and safety"
+    },
+    {
+      "label": "Moderate Dose (5mg):",
+      "description": "Popular starting dose that many users find effective for anxiety and mood, though some report it can cause lethargy if taken daily"
+    },
+    {
+      "label": "High Dose (10-20mg):",
+      "description": "Used by some for more severe mood conditions, but concerns exist about safety without blood monitoring at these levels"
+    },
+    {
+      "label": "Intermittent Dosing:",
+      "description": "Some users report better results taking it every other day or a few times per week rather than daily to avoid tolerance or lethargy"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Lethargy/Low Motivation:",
+      "description": "Higher doses or daily use can cause excessive calmness leading to reduced productivity and anhedonia in some users"
+    },
+    {
+      "label": "Emotional Blunting:",
+      "description": "Some report feeling too emotionally numb or having difficulty with introspection and positive self-talk"
+    },
+    {
+      "label": "Physical Symptoms:",
+      "description": "Rare reports of headaches, neck tension, tremors, and nausea at higher doses or in sensitive individuals"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Extreme variability in tolerance, with some experiencing side effects at doses as low as 0.25mg while others tolerate 10mg+ without issues"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold as an over-the-counter dietary supplement online and in health stores without prescription requirements"
+    },
+    {
+      "label": "Dosage Forms:",
+      "description": "Commonly available in 5mg tablets containing approximately 0.2mg elemental lithium per 5mg lithium orotate, with some brands offering 1mg, 10mg, or higher concentrations"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "No FDA regulation of supplements raises questions about consistency and quality control across different brands"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    }
+  ]
+}

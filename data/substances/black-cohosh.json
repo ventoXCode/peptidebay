@@ -1,0 +1,156 @@
+{
+  "slug": "black-cohosh",
+  "url": "https://dopamine.club/substances/black-cohosh/",
+  "scrapedAt": "2026-02-12T16:06:11.000Z",
+  "title": "BLACK COHOSH",
+  "description": "Black Cohosh (Actaea racemosa, formerly Cimicifuga racemosa) is a perennial herb native to North America, traditionally used for women's health concerns, particularly menopausal symptoms. While historically thought to have estrogenic properties, recent research indicates it does not bind to estrogen receptors or demonstrate true estrogenic activity. It is primarily marketed for relief of vasomotor symptoms like hot flashes, though clinical evidence for its effectiveness remains inconsistent.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Assessing the combined effects of Black Cohosh, Soy Isoflavones, and SDG Lignans on menopausal symptoms: a randomized, double-blind, placebo-controlled clinical trial",
+      "summary": "A 90-day trial in postmenopausal women showed significant improvements in Menopause Rating Scale scores across all domains when Black Cohosh was combined with soy isoflavones and SDG lignans compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40131516/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Review of black cohosh-induced toxicity and adverse clinical effects",
+      "summary": "Recent studies indicate Black Cohosh extract is not only ineffective for menopausal therapy but also induces genotoxicity through an aneugenic mode of action, with adverse effects ranging from mild reactions to acute liver damage and death.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40503925/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Black Cohosh Herbal Extract and Hematologic Alterations in B6C3F1/N Mice",
+      "summary": "A National Toxicology Program study revealed Black Cohosh extract caused dose-dependent non-regenerative anemia with macrocytosis and micronuclei in mice, consistent with megaloblastic anemia due to functional cobalamin deficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36373576/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Is black cohosh estrogenic?",
+      "summary": "New data indicates Black Cohosh extracts do not bind to estrogen receptors, do not up-regulate estrogen-dependent genes, and do not stimulate growth of estrogen-dependent tumors in animal models, disputing the estrogenic theory.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12822708/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Common Herbal Dietary Supplement-Drug Interactions",
+      "summary": "Black Cohosh is identified as having a low likelihood of drug interactions and can safely be taken with most medications with certain caveats, unlike supplements like St. John's wort and goldenseal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28762712/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Estimated Exposure to 6 Potentially Hepatotoxic Botanicals in US Adults",
+      "summary": "Black Cohosh was identified as one of the six most frequently reported hepatotoxic botanicals in the US, with increasing prevalence of use despite documented cases of liver toxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39102266/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of diet in managing menopausal symptoms: A narrative review",
+      "summary": "Review found that evidence for Black Cohosh efficacy in managing menopausal symptoms is inconsistent, and the overall quality of published clinical trials is low, requiring further high-quality research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36792552/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Black cohosh: an alternative therapy for menopause?",
+      "summary": "Review suggests Black Cohosh may be useful for hot flashes, sweating, insomnia, and anxiety, but a recent trial showed it was not effective for menopausal symptoms in breast cancer survivors taking tamoxifen, with at least 4-12 weeks of treatment required.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12557811/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 15,
+    "summary": "User discussion of Black Cohosh is extremely limited in the provided user data, with only minimal mentions in broader supplement discussions. The few references appear in lists alongside other herbs but without specific user experiences or endorsements, suggesting low popularity and minimal practical use among biohacking and supplement communities."
+  },
+  "effects": [
+    {
+      "label": "Inconsistent Clinical Results:",
+      "description": "Multiple reviews note that while some trials show benefits for menopausal symptoms, overall evidence quality is low and results are contradictory"
+    },
+    {
+      "label": "Limited Modern Evidence:",
+      "description": "Recent high-quality studies have failed to demonstrate clear efficacy, particularly in breast cancer survivors"
+    },
+    {
+      "label": "Treatment Duration:",
+      "description": "When effective, at least 4-12 weeks of continuous use may be required before therapeutic effects appear"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "May show better results when combined with other supplements like soy isoflavones and lignans rather than as monotherapy"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract Dose:",
+      "description": "40-80 mg per day of standardized extract (typically standardized to 27-deoxyactein)"
+    },
+    {
+      "label": "Long-term Use Concerns:",
+      "description": "Some sources recommend against prolonged use due to lack of long-term safety data"
+    },
+    {
+      "label": "Clinical Trial Dosing:",
+      "description": "Studies have used various doses with no clear consensus on optimal dosing"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Requires consistent daily use over weeks to months for potential benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hepatotoxicity Risk:",
+      "description": "Multiple case reports document liver damage ranging from mild elevation of liver enzymes to acute hepatitis, liver failure, and death"
+    },
+    {
+      "label": "Hematologic Effects:",
+      "description": "Animal studies show dose-dependent anemia, macrocytosis, and potential vitamin B12 interference"
+    },
+    {
+      "label": "Common Mild Effects:",
+      "description": "Dizziness, nausea, headache, rash, and vomiting reported with low frequency"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Rare but documented allergic reactions including skin sensitivity"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Regulatory Status:",
+      "description": "Classified as a dietary supplement in the US, not requiring FDA pre-market approval for safety or efficacy"
+    },
+    {
+      "label": "Quality Control Issues:",
+      "description": "Over 100 chemical constituents with variable composition between products, leading to inconsistent quality and potential for contamination or mislabeling"
+    },
+    {
+      "label": "Safety Warnings:",
+      "description": "Some sources recommend against use during breastfeeding and pregnancy due to lack of safety data, with contraindications for those with liver issues"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHASTE TREE (VITEX)",
+      "slug": "chaste-tree-vitex"
+    },
+    {
+      "name": "DONG QUAI",
+      "slug": "dong-quai"
+    },
+    {
+      "name": "Mucuna Pruriens",
+      "slug": "mucuna-pruriens"
+    },
+    {
+      "name": "RED CLOVER",
+      "slug": "red-clover"
+    },
+    {
+      "name": "ARTICHOKE EXTRACT",
+      "slug": "artichoke-extract"
+    }
+  ]
+}

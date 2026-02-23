@@ -1,0 +1,109 @@
+{
+  "slug": "cinsulin",
+  "url": "https://dopamine.club/substances/cinsulin/",
+  "scrapedAt": "2026-02-12T16:06:45.556Z",
+  "title": "CINSULIN",
+  "description": "Cinsulin is a dietary supplement formulation primarily composed of water-soluble cinnamon extract (Cinnulin PF) combined with chromium and often carnosine. It works by enhancing insulin sensitivity and potentiating insulin-mediated glucose uptake, making it a common intervention for managing blood sugar levels in pre-diabetic or metabolic syndrome contexts.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effect of cinnamon spice on continuously monitored glycemic response in adults with prediabetes: a 4-week randomized controlled crossover trial",
+      "summary": "Daily cinnamon supplementation significantly lowered 24-hour blood glucose concentrations and reduced glucose peaks in adults with obesity and prediabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38301991/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Dietary Supplement Containing Cinnamon, Chromium and Carnosine Decreases Fasting Plasma Glucose and Increases Lean Mass in Overweight or Obese Pre-Diabetic Subjects: A Randomized, Placebo-Controlled Trial",
+      "summary": "The combination of cinnamon, chromium, and carnosine significantly decreased fasting plasma glucose and helped increase lean body mass in overweight individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26406981/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cinnamon extract lowers glucose, insulin and cholesterol in people with elevated serum glucose",
+      "summary": "Water-soluble cinnamon extract was shown to improve glycemic indicators and lower cholesterol levels in patients with elevated serum glucose.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27774415/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users generally report high satisfaction with Cinsulin for stabilizing blood sugar levels and curbing sugar cravings, often viewing it as a safer, natural alternative to pharmaceutical glucose-lowering agents."
+  },
+  "effects": [
+    {
+      "label": "HbA1c Reduction:",
+      "description": "Users and studies indicate it is effective at lowering markers of long-term blood sugar levels in pre-diabetic individuals."
+    },
+    {
+      "label": "Synergistic Formula:",
+      "description": "The combination of chromium and cinnamon is noted as more effective than cinnamon alone for insulin signaling."
+    },
+    {
+      "label": "Fast-Acting:",
+      "description": "Some users notice improved energy stability and reduced 'brain fog' after meals within the first week of use."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Capsule:",
+      "description": "Most commercial brands recommend two capsules daily, providing roughly 500mg of cinnamon extract."
+    },
+    {
+      "label": "Pre-Meal Timing:",
+      "description": "Users suggest taking the supplement 15-30 minutes before high-carbohydrate meals for maximum effect."
+    },
+    {
+      "label": "Clinical Dosage:",
+      "description": "Research trials often utilize 4g of raw spice equivalent or specific concentrated water-soluble extracts."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hypoglycemia:",
+      "description": "Potential for blood sugar to drop too low if taken in conjunction with prescription diabetes medication."
+    },
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Minor reports of heartburn or mild stomach upset if taken without sufficient water."
+    },
+    {
+      "label": "Skin Flushing:",
+      "description": "Rarely reported, likely due to sensitivities to specific cinnamon compounds in non-water-soluble extracts."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Retail Availability:",
+      "description": "Widely available as an over-the-counter supplement in major retailers and online stores."
+    },
+    {
+      "label": "Extract Type:",
+      "description": "It is important to look for 'water-soluble' extracts (like Cinnulin PF) to avoid toxic coumarin found in whole cinnamon powder."
+    }
+  ],
+  "related": [
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "CYANIDIN",
+      "slug": "cyanidin"
+    }
+  ]
+}

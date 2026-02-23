@@ -1,0 +1,117 @@
+{
+  "slug": "pt-141",
+  "url": "https://dopamine.club/substances/pt-141/",
+  "scrapedAt": "2026-02-12T16:10:49.026Z",
+  "title": "PT-141",
+  "description": "PT-141 (Bremelanotide) is an FDA-approved peptide for treating hypoactive sexual desire disorder. It works through melanocortin receptors in the brain to increase sexual desire, making it unique among sexual health treatments.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Effect of bremelanotide on body weight of obese women",
+      "summary": "Bremelanotide reduced body weight and caloric intake in obese women in clinical trials, showing promise as a treatment for weight loss.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9314948/",
+      "source": "(Diabetes Obesity and Metabolism)"
+    },
+    {
+      "title": "Long-term safety and efficacy of bremelanotide for Hypoactive Sexual Desire Disorder",
+      "summary": "Study found that bremelanotide effectively improved sexual desire in premenopausal women with hypoactive sexual desire disorder over 52 weeks.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819023/",
+      "source": "(George Washington University)"
+    },
+    {
+      "title": "Bremelanotide for the treatment of Hypoactive Sexual Desire Disorder",
+      "summary": "In clinical trials, Bremelanotide significantly increased sexual desire and reduced distress in women with sexual dysfunction, showing a favorable safety profile.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6819021/",
+      "source": "(MacDonald Women's Hospital)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report significant increases in libido and sexual desire. Effects work differently than PDE5 inhibitors - targets desire rather than mechanics. Nausea common but manageable."
+  },
+  "effects": [
+    {
+      "label": "FDA Approved:",
+      "description": "Clinically validated efficacy."
+    },
+    {
+      "label": "Different Mechanism:",
+      "description": "Works when PDE5 inhibitors don't."
+    },
+    {
+      "label": "Psychological Desire:",
+      "description": "Enhances wanting, not just function."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "1.75mg subcutaneously as needed."
+    },
+    {
+      "label": "Timing:",
+      "description": "Administered 45 minutes before sexual activity."
+    },
+    {
+      "label": "Frequency:",
+      "description": "Not more than once in 24 hours."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Nausea:",
+      "description": "Very common, can be significant."
+    },
+    {
+      "label": "Flushing:",
+      "description": "Facial redness and warmth."
+    },
+    {
+      "label": "Blood Pressure:",
+      "description": "Transient increase possible."
+    },
+    {
+      "label": "Headache:",
+      "description": "Occasionally reported."
+    }
+  ],
+  "availability": [
+    {
+      "label": "FDA Approved:",
+      "description": "Available as Vyleesi by prescription."
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "Also available from peptide suppliers."
+    },
+    {
+      "label": "Higher Cost:",
+      "description": "Branded version is expensive."
+    }
+  ],
+  "related": [
+    {
+      "name": "GONADORELIN",
+      "slug": "gonadorelin"
+    },
+    {
+      "name": "HCG",
+      "slug": "hcg"
+    },
+    {
+      "name": "Kisspeptin",
+      "slug": "kisspeptin"
+    },
+    {
+      "name": "Melanotan 2",
+      "slug": "melanotan-2"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    }
+  ]
+}

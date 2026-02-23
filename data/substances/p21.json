@@ -1,0 +1,137 @@
+{
+  "slug": "p21",
+  "url": "https://dopamine.club/substances/p21/",
+  "scrapedAt": "2026-02-12T16:10:21.673Z",
+  "title": "P21",
+  "description": "P21 is a synthetic peptide derived from Cerebrolysin, a neurotrophic compound used to promote neurogenesis and cognitive enhancement. It works by increasing brain-derived neurotrophic factor (BDNF) and supporting the formation of new neurons and synapses. P21 is primarily used for memory enhancement, cognitive recovery, and neuroprotection, with applications in brain injury recovery and age-related cognitive decline.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Empagliflozin protects against heart failure with preserved ejection fraction partly by inhibiting the senescence-associated STAT1-STING axis",
+      "summary": "Empagliflozin reduced cardiac inflammation and aging in HFpEF mice by inhibiting the STAT1-STING pathway, with effects on aging markers p16 and p21, suggesting anti-senescence properties relevant to cardiovascular health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39044275/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dexpanthenol Promotes Cell Growth by Preventing Cell Senescence and Apoptosis in Cultured Human Hair Follicle Cells",
+      "summary": "Dexpanthenol enhanced cell viability in hair follicle cells by reducing senescence markers (p21/p16) and apoptosis markers, suggesting that p21 reduction is associated with improved cellular proliferation and anti-aging effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34698060/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-Tryptophan Produced by Bifidobacterium pseudocatenulatum NCU-08 Delays Aging in SAMP8 Mice by Activating the Sirt1/P53/P21/Rb Signaling Pathway",
+      "summary": "L-tryptophan from probiotic bacteria delayed aging in mice by modulating the Sirt1/p53/p21/Rb pathway, demonstrating that p21 regulation plays a critical role in anti-aging interventions and neurological function improvement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40643197/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Delineating the heterogeneity of senescence-induced-functional alterations in hepatocytes",
+      "summary": "Study characterized how different stressors induce cellular senescence in hepatocytes, with p21 identified as a key marker of senescence and cell cycle arrest, providing insights into organ-specific aging processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38684535/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "TRPM7 Deficiency Accelerates Vascular Senescence by Inhibiting H3K18 Lactylation",
+      "summary": "TRPM7 deficiency accelerated vascular aging by decreasing histone H3K18 lactylation, leading to increased p21 expression and reduced angiogenesis, highlighting p21's role in vascular senescence and aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41037021/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences with P21 are genuinely divided, with some reporting significant cognitive benefits and improved memory while others found minimal to no effects even at high doses. Effectiveness appears highly individual, and sourcing difficulties combined with high costs limit widespread positive consensus."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Response to P21 is highly individual, with approximately 50-60% of users reporting noticeable benefits while others experience minimal effects"
+    },
+    {
+      "label": "Synergistic Use:",
+      "description": "P21 appears most effective when combined with active learning, cognitive training, or other neurogenic compounds like Semax"
+    },
+    {
+      "label": "Timeframe:",
+      "description": "Benefits typically require consistent use for 2-4 weeks before becoming apparent, with some users needing longer"
+    },
+    {
+      "label": "Dose Response:",
+      "description": "Higher doses (2-5mg) may be necessary for some users to experience effects, though standard dosing (0.5-2mg) works for others"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Intranasal:",
+      "description": "0.5-2mg daily via nasal spray is the most commonly reported dosing method"
+    },
+    {
+      "label": "High Dose Protocol:",
+      "description": "Some users report using 2-5mg daily, though effectiveness at higher doses is debated"
+    },
+    {
+      "label": "Administration Route:",
+      "description": "Intranasal administration is most popular, though some users question if subcutaneous injection is more effective"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Most users take P21 continuously during periods of intensive learning or cognitive demand rather than daily long-term"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "The majority of users report no significant adverse effects from P21 supplementation"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Occasional mild headaches reported, particularly at higher doses or when combined with racetams"
+    },
+    {
+      "label": "Subtle Nature:",
+      "description": "Some users find the lack of immediate, noticeable effects frustrating when compared to stimulants"
+    },
+    {
+      "label": "No Tolerance:",
+      "description": "Users generally don't report tolerance development with continued use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Challenges:",
+      "description": "P21 availability is limited with Ceretropic (former major source) no longer carrying nasal formulations"
+    },
+    {
+      "label": "Cost Concerns:",
+      "description": "P21 is considered expensive relative to other nootropics, particularly for experimental use"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "P21 exists in a gray area as a research peptide, available for research purposes but not approved for human consumption"
+    }
+  ],
+  "related": [
+    {
+      "name": "IDRA-21",
+      "slug": "idra-21"
+    },
+    {
+      "name": "L-SERINE",
+      "slug": "l-serine"
+    },
+    {
+      "name": "N-ACETYL SEMAX",
+      "slug": "n-acetyl-semax"
+    },
+    {
+      "name": "NOBILETIN",
+      "slug": "nobiletin"
+    },
+    {
+      "name": "SOUVENAID",
+      "slug": "souvenaid"
+    }
+  ]
+}

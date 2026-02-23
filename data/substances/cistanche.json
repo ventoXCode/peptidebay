@@ -1,0 +1,114 @@
+{
+  "slug": "cistanche",
+  "url": "https://dopamine.club/substances/cistanche/",
+  "scrapedAt": "2026-02-12T16:06:46.088Z",
+  "title": "CISTANCHE",
+  "description": "Cistanche, specifically Cistanche deserticola and Cistanche tubulosa, is a parasitic desert plant rich in phenylethanoid glycosides like echinacoside and verbascoside. It functions as an adaptogen that modulates the neuroendocrine system, enhances antioxidant activity, and regulates sex hormone levels to improve reproductive and physical performance.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The role of Cistanches Herba and its ingredients in improving reproductive outcomes: A comprehensive review",
+      "summary": "This review finds that Cistanche effectively improves spermatogenic dysfunction and sex hormone regulation through anti-oxidative and anti-apoptotic mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38608447/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bioactive Components, Pharmacological Properties, and Applications of Cistanche deserticola Y. C. Ma: A Comprehensive Review",
+      "summary": "Researchers highlight Cistanche's roles in immunomodulation, neuroprotection, and liver protection, emphasizing its safety for use in functional foods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39812543/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Cistanche deserticola Y. Ma Supplementation on Muscle Strength and Recovery: A Randomized Controlled Trial",
+      "summary": "A clinical trial demonstrating that Cistanche supplementation significantly improves muscle strength and accelerates recovery following physical exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39339304/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users generally view Cistanche as a reliable natural testosterone and libido booster with the added benefit of reducing anxiety and improving focus."
+  },
+  "effects": [
+    {
+      "label": "Consistency:",
+      "description": "Highly regarded as one of the most effective herbal options for libido alongside Tongkat Ali."
+    },
+    {
+      "label": "Hormonal Optimization:",
+      "description": "Research and user bloodwork suggest it works well by increasing cholesterol transport for steroidogenesis."
+    },
+    {
+      "label": "Muscle Recovery:",
+      "description": "Effective for reducing post-workout fatigue and improving strength gains over time."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Users report increased effectiveness when paired with dietary cholesterol (like eggs) and other adaptogens."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "Most users suggest 200mg to 400mg of a high-percentage phenylethanoid extract daily."
+    },
+    {
+      "label": "Cycle Timing:",
+      "description": "Often taken daily, though some users prefer a 5-days-on, 2-days-off schedule to maintain sensitivity."
+    },
+    {
+      "label": "Cholesterol Pairing:",
+      "description": "A common community recommendation is to consume 2-3 whole eggs daily while supplementing to provide the raw materials for hormone production."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Occasional reports of loose stools or mild stomach upset when taken on an empty stomach."
+    },
+    {
+      "label": "Lowered Blood Pressure:",
+      "description": "Because it can reduce blood pressure, those on medication should exercise caution."
+    },
+    {
+      "label": "Increased Body Heat:",
+      "description": "Some users report feeling warmer or having an increased metabolic 'flush' after dosing."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Market Status:",
+      "description": "Widely available as a regulated health food supplement in Asia and as a dietary supplement in the US."
+    },
+    {
+      "label": "Sourcing quality:",
+      "description": "Users emphasize seeking extracts standardized for echinacoside (ECH) and acetoside/verbascoside for consistent results."
+    }
+  ],
+  "related": [
+    {
+      "name": "BORON",
+      "slug": "boron"
+    },
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    },
+    {
+      "name": "CATUABA",
+      "slug": "catuaba"
+    },
+    {
+      "name": "CHAGA MUSHROOM",
+      "slug": "chaga-mushroom"
+    },
+    {
+      "name": "CHLORELLA",
+      "slug": "chlorella"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "ergothioneine",
+  "url": "https://dopamine.club/substances/ergothioneine/",
+  "scrapedAt": "2026-02-12T16:07:40.781Z",
+  "title": "ERGOTHIONEINE",
+  "description": "Ergothioneine is a naturally occurring sulfur-containing amino acid and potent antioxidant that is primarily obtained through dietary sources like mushrooms and absorbed via the highly specific OCTN1 (ETT) transporter. It acts as a cytoprotective agent by accumulating in tissues subject to high oxidative stress, where it helps protect DNA, proteins, and lipids from damage while supporting mitochondrial function.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ergothioneine promotes longevity and healthy aging in male mice",
+      "summary": "Long-term oral supplementation in mice significantly extended lifespan and reduced age-related declines in movement velocity, cognitive function, and hippocampal neurogenesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38448711/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ergothioneine: A Stress Vitamin with Antiaging, Vascular, and Neuroprotective Roles?",
+      "summary": "This review analyzes ergothioneine's role as a potential 'longevity vitamin' that protects against oxidative stress-induced damage in vascular and neural systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34619979/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ergothioneine for cognitive health, longevity and healthy ageing: where are we now?",
+      "summary": "A comprehensive review of the current evidence supporting ergothioneine's ability to support brain health and mitigate cognitive decline in aging populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40968729/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ergothioneine as a functional nutraceutical: Mechanisms, bioavailability, and therapeutic implications",
+      "summary": "Researchers explore the compound's potent anti-inflammatory and cytoprotective properties, highlighting its unique transport mechanism into human cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40541582/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users overwhelmingly view Ergothioneine as a 'foundational' longevity supplement with high interest in its neuroprotective benefits and lack of acute side effects."
+  },
+  "effects": [
+    {
+      "label": "Cumulative Benefits:",
+      "description": "Users note that effects are subtle and build over months rather than providing an immediate 'rush.'"
+    },
+    {
+      "label": "Cognitive Maintenance:",
+      "description": "Highly effective in animal models for rescuing memory deficits and promoting hippocampal neurogenesis."
+    },
+    {
+      "label": "Biomarker Improvement:",
+      "description": "Research indicates significant suppression of markers for kidney stress and metabolic decline."
+    },
+    {
+      "label": "Transport Specificity:",
+      "description": "Exceptionally bioavailable due to the body's dedicated OCTN1 transporter, ensuring high cellular absorption."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Maintenance:",
+      "description": "5mg to 10mg daily is the most common dosage for general healthy aging."
+    },
+    {
+      "label": "Therapeutic Range:",
+      "description": "Some users and studies explore up to 25mg-30mg per day for targeted cognitive support."
+    },
+    {
+      "label": "Body Weight Scaling:",
+      "description": "Clinical studies in mice utilize 4-5 mg/kg, which translates to moderate human doses to achieve longevity effects."
+    },
+    {
+      "label": "Mushrooms as Source:",
+      "description": "Dietary intake of 100g of mushrooms periodically is suggested as a natural alternative to purified supplements."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Most users report zero acute side effects even with daily long-term administration."
+    },
+    {
+      "label": "Digestive Comfort:",
+      "description": "Unlike some antioxidants, it is generally well-tolerated by the stomach."
+    },
+    {
+      "label": "Unknown Long-term in Humans:",
+      "description": "While mouse data is positive, some users express caution regarding the lack of multi-decade human clinical trials."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Increasing Market:",
+      "description": "Widely available as a fermented or synthetic ingredient (e.g., ErgoActive) in high-end longevity brands."
+    },
+    {
+      "label": "Dietary Sources:",
+      "description": "Highest concentrations are found in specialty mushrooms like Porcini, Oyster, and Shiitake."
+    }
+  ],
+  "related": [
+    {
+      "name": "MYRICETIN",
+      "slug": "myricetin"
+    },
+    {
+      "name": "SPERMIDINE",
+      "slug": "spermidine"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

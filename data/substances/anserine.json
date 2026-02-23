@@ -1,0 +1,119 @@
+{
+  "slug": "anserine",
+  "url": "https://dopamine.club/substances/anserine/",
+  "scrapedAt": "2026-02-12T16:05:48.246Z",
+  "title": "ANSERINE",
+  "description": "Anserine is a histidine-containing dipeptide found naturally in chicken and other meats, closely related to carnosine. It functions as an antioxidant and may help buffer muscle pH during exercise, potentially reducing exercise-induced muscle damage and oxidative stress. Research suggests it may enhance athletic performance and support recovery when consumed through dietary sources or supplementation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Anserine Reverses Exercise-Induced Oxidative Stress and Preserves Cellular Homeostasis in Healthy Men",
+      "summary": "Study found that anserine supplementation effectively reduced oxidative stress markers following exercise and helped maintain cellular balance in healthy male subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32319492/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Optimized Curcumin, Pomegranate Extract, and Methylsulfonylmethane Reduce Acute, Systemic Inflammatory Response to a Half-Marathon Race",
+      "summary": "Combined supplementation including compounds that work synergistically with anserine-type effects reduced inflammatory markers following endurance running events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32619204/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report noticeable improvements in exercise performance and recovery, with one study showing a 5% increase in cycling power. The compound appears well-tolerated with minimal side effects when consumed through natural food sources like chicken soup."
+  },
+  "effects": [
+    {
+      "label": "Athletic Performance:",
+      "description": "Demonstrated measurable improvements in cycling power when consumed 40 minutes pre-exercise"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Effective at approximately 46.4 mg/kg body weight of histidine dipeptides (anserine + carnosine)"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Pre-exercise consumption (40 minutes prior) appears optimal for performance benefits"
+    },
+    {
+      "label": "Natural Sources:",
+      "description": "Chicken soup and meat-based sources provide bioavailable forms of anserine"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dose:",
+      "description": "46.4 mg per kilogram of body weight for performance enhancement"
+    },
+    {
+      "label": "Food-Based:",
+      "description": "One bowl of chicken soup consumed 40 minutes before exercise showed benefits"
+    },
+    {
+      "label": "Natural Intake:",
+      "description": "Regular consumption of chicken and meat products provides baseline dietary anserine"
+    },
+    {
+      "label": "Timing:",
+      "description": "Pre-exercise consumption appears more effective than post-exercise for immediate performance gains"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Studies and user reports indicate anserine is generally well-tolerated"
+    },
+    {
+      "label": "Food Source Safety:",
+      "description": "When consumed through natural sources like chicken soup, virtually no adverse effects reported"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Has a long history of safe consumption through dietary sources"
+    },
+    {
+      "label": "No Major Concerns:",
+      "description": "Research papers do not highlight significant safety issues at recommended doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Sources:",
+      "description": "Readily available through chicken, turkey, and other poultry products"
+    },
+    {
+      "label": "Supplementation:",
+      "description": "Can be obtained through carnosine/anserine supplements or chicken-based broths"
+    },
+    {
+      "label": "Natural Access:",
+      "description": "No prescription required; available through regular food consumption or over-the-counter supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "D-RIBOSE",
+      "slug": "d-ribose"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    },
+    {
+      "name": "L-CARNOSINE",
+      "slug": "l-carnosine"
+    }
+  ]
+}

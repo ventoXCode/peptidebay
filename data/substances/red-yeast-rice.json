@@ -1,0 +1,131 @@
+{
+  "slug": "red-yeast-rice",
+  "url": "https://dopamine.club/substances/red-yeast-rice/",
+  "scrapedAt": "2026-02-12T16:10:57.684Z",
+  "title": "RED YEAST RICE",
+  "description": "Red yeast rice is a traditional Chinese medicine produced by fermenting rice with Monascus purpureus yeast, containing monacolin K (chemically identical to lovastatin). It is primarily used to lower LDL cholesterol and reduce cardiovascular disease risk through its statin-like mechanism of action. The supplement has demonstrated efficacy in managing dyslipidemia and atherosclerosis in numerous clinical trials.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Red yeast rice for dyslipidaemias and cardiovascular risk reduction: A position paper of the International Lipid Expert Panel",
+      "summary": "Red yeast rice preparations containing monacolin K have been demonstrated to be safe and effective in reducing LDL cholesterol and cardiovascular events, with the International Lipid Expert Panel recognizing its role alongside conventional therapies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35870626/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety and Efficacy of the Consumption of the Nutraceutical Red Yeast Rice Extract for the Reduction of Hypercholesterolemia in Humans: A Systematic Review and Meta-Analysis",
+      "summary": "Systematic review and meta-analysis demonstrated encouraging results regarding the efficacy and safety of red yeast rice extract for reducing hypercholesterolemia in humans across multiple clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38794691/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Red Yeast Rice: A Systematic Review of the Traditional Uses, Chemistry, Pharmacology, and Quality Control",
+      "summary": "Comprehensive review identified over 101 chemical constituents in red yeast rice with broad pharmacological properties including hypolipidemic, anti-atherosclerotic, anti-cancer, neurocytoprotective, and anti-diabetic activities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31798468/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A systematic review of xuezhikang, an extract from red yeast rice, for coronary heart disease complicated by dyslipidemia",
+      "summary": "Systematic review evaluated the benefits and side effects of Xuezhikang (red yeast rice extract) for coronary heart disease patients with dyslipidemia, showing positive outcomes in lipid management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22567033/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely mixed, with no Reddit experiences provided in the dataset. Based solely on research literature, red yeast rice shows strong efficacy for cholesterol reduction but raises concerns about quality control, standardization, and potential statin-like side effects that limit universal recommendation."
+  },
+  "effects": [
+    {
+      "label": "Cholesterol Management:",
+      "description": "Well-established efficacy comparable to low-dose statins for hypercholesterolemia treatment"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "Effectiveness depends heavily on product quality and monacolin K standardization across brands"
+    },
+    {
+      "label": "Clinical Evidence:",
+      "description": "Multiple systematic reviews and meta-analyses support use for dyslipidemia and cardiovascular risk reduction"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Position papers from expert panels recognize both efficacy and safety profile for chronic use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Typical preparations contain 2.5-10mg monacolin K daily, equivalent to low-dose statin therapy"
+    },
+    {
+      "label": "Traditional Use:",
+      "description": "Chinese medicine applications use 600-2400mg of red yeast rice extract daily"
+    },
+    {
+      "label": "Timing:",
+      "description": "Generally taken with meals to improve absorption and reduce gastrointestinal effects"
+    },
+    {
+      "label": "Duration:",
+      "description": "Long-term daily use recommended for sustained cholesterol management and cardiovascular benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Muscle Effects:",
+      "description": "May cause myalgia or muscle-related side effects similar to pharmaceutical statins"
+    },
+    {
+      "label": "Liver Concerns:",
+      "description": "Potential for elevated liver enzymes requiring monitoring in some users"
+    },
+    {
+      "label": "Quality Control Issues:",
+      "description": "Contamination with citrinin (a mycotoxin) possible in poorly manufactured products"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Can interact with other medications metabolized by the same pathways as statins"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Regulatory Status:",
+      "description": "Available as a dietary supplement in many countries but regulated differently than prescription statins"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Significant variability in monacolin K content and purity between commercial products requires careful brand selection"
+    },
+    {
+      "label": "Standardization Importance:",
+      "description": "Choose products tested for citrinin contamination and standardized for monacolin K content"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    }
+  ]
+}

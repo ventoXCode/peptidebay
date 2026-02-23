@@ -1,0 +1,115 @@
+{
+  "slug": "banaba-leaf-extract",
+  "url": "https://dopamine.club/substances/banaba-leaf-extract/",
+  "scrapedAt": "2026-02-12T16:06:02.359Z",
+  "title": "BANABA LEAF EXTRACT",
+  "description": "Banaba (Lagerstroemia speciosa L.) is a medicinal plant extract containing corosolic acid and ellagitannins that facilitate glucose uptake by activating insulin receptors and glucose transporter proteins. It is primarily used to manage blood sugar levels, improve insulin sensitivity, and assist in metabolic health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "A review of the efficacy and safety of banaba (Lagerstroemia speciosa L.) and its constituents",
+      "summary": "This review confirms that corosolic acid and ellagitannins in banaba provide significant hypoglycemic effects and improve glucose metabolism in humans and animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22095937/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antiobesity activity of extracts from Lagerstroemia speciosa L. leaves on female KK-Ay mice",
+      "summary": "Research found that banaba leaf extract significantly reduced body weight gain and adipose tissue accumulation in diabetic and obese mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10737232/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A narrative review on the effects of banaba and chromium on prediabetes",
+      "summary": "The study suggests that banaba extract is a critical nutraceutical for metabolic regulation and preventing the progression from prediabetes to Type 2 diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40613623/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Co-Supplementation of Policosanol and Banaba Leaf Extract for Metabolic Health",
+      "summary": "This research explores the synergistic effects of combining banaba with other compounds to optimize glucose control and lipid profiles.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40868990/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally view Banaba as a highly effective, natural alternative for blood sugar regulation and metabolic Support, often stacking it with other longevity-focused supplements."
+  },
+  "effects": [
+    {
+      "label": "Prediabetes Support:",
+      "description": "Highly effective as a preventative measure for those with borderline high blood sugar."
+    },
+    {
+      "label": "Metabolic Synergy:",
+      "description": "Works effectively when paired with chromium or berberine for enhanced metabolic control."
+    },
+    {
+      "label": "Animal Model Success:",
+      "description": "Highly validated in diabetic mouse models for reducing triglyceride levels."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "Most supplements provide 32–48 mg of leaf extract standardized to 1% corosolic acid."
+    },
+    {
+      "label": "Common Range:",
+      "description": "User stacks often include 100–300 mg of whole leaf extract or specialized corosolic acid concentrations."
+    },
+    {
+      "label": "Timing:",
+      "description": "Best taken 15-30 minutes before carbohydrate-heavy meals to blunt glucose spikes."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hypoglycemia Risk:",
+      "description": "Users may experience dizziness or shakiness if taken in excess or without food."
+    },
+    {
+      "label": "GI Issues:",
+      "description": "Low frequency of reports regarding mild stomach upset in some users."
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential for additive effects when combined with prescribed diabetes medications like Metformin."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Market Presence:",
+      "description": "Widely available in single-ingredient capsules or metabolic health blends from reputable supplement brands."
+    },
+    {
+      "label": "Testing Reliability:",
+      "description": "Look for brands with third-party purity testing for consistent quality."
+    }
+  ],
+  "related": [
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "CINNAMON EXTRACT",
+      "slug": "cinnamon-extract"
+    },
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    }
+  ]
+}

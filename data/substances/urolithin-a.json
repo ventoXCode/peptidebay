@@ -1,0 +1,155 @@
+{
+  "slug": "urolithin-a",
+  "url": "https://dopamine.club/substances/urolithin-a/",
+  "scrapedAt": "2026-02-12T16:12:06.139Z",
+  "title": "UROLITHIN A",
+  "description": "Urolithin A is a gut microbiome-derived metabolite produced from ellagitannins and ellagic acid found in pomegranates and walnuts. It stimulates mitophagy (mitochondrial recycling), improving mitochondrial health and function by clearing damaged mitochondria and promoting biogenesis. Only ~30% of people naturally produce urolithin A, making supplementation a reliable alternative.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effect of Urolithin A Supplementation on Muscle Endurance and Mitochondrial Health in Older Adults: A Randomized Clinical Trial",
+      "summary": "In older adults (65-90 years), urolithin A supplementation improved muscle endurance and biomarkers of mitochondrial and cellular health in this double-blind, placebo-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35050355/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Urolithin A improves muscle strength, exercise performance, and biomarkers of mitochondrial health in a randomized trial in middle-aged adults",
+      "summary": "Middle-aged adults supplementing with urolithin A showed improvements in muscle strength, exercise performance, and enhanced mitochondrial function biomarkers compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35584623/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Assessment of Urolithin A effects on muscle endurance, strength, inflammation, oxidative stress, and protein metabolism in male athletes with resistance training: an 8-week randomized, double-blind, placebo-controlled study",
+      "summary": "In resistance-trained male athletes, 8 weeks of 1g daily urolithin A supplementation improved muscle endurance, reduced inflammation markers, and enhanced protein metabolism status.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39487653/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluating the Impact of Urolithin A Supplementation on Running Performance, Recovery, and Mitochondrial Biomarkers in Highly Trained Male Distance Runners",
+      "summary": "This trial in elite male distance runners evaluated urolithin A's effects on running performance, recovery metrics, and mitochondrial health biomarkers during training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40839339/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Urolithin A provides cardioprotection and mitochondrial quality enhancement preclinically and improves human cardiovascular health biomarkers",
+      "summary": "Urolithin A demonstrated cardioprotective effects through mitochondrial quality enhancement in preclinical models and improved cardiovascular health biomarkers in human trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40034121/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Induction of mitochondrial recycling reverts age-associated decline of the hematopoietic and immune systems",
+      "summary": "Urolithin A-induced mitochondrial recycling reversed age-related decline in hematopoietic and immune system function, suggesting anti-aging benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37653255/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Urolithin A reduces amyloid-beta load and improves cognitive deficits uncorrelated with plaque burden in a mouse model of Alzheimer's disease",
+      "summary": "In Alzheimer's mouse models, urolithin A reduced amyloid-beta plaque burden and improved cognitive deficits including spatial memory and exploratory behavior.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36576642/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Urolithin A Exhibits Antidepressant-like Effects by Modulating the AMPK/CREB/BDNF Pathway",
+      "summary": "Urolithin A demonstrated antidepressant-like effects in preclinical models by activating the AMPK/CREB/BDNF pathway, reducing immobility time in behavioral tests.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40732919/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report divided experiences with urolithin A, with some experiencing notable energy improvements and enhanced recovery, while others see no benefits despite the high cost. The primary complaint centers on price-to-benefit ratio rather than side effects."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly, likely due to differences in gut microbiome composition and natural urolithin A production capacity (~30% naturally produce it)"
+    },
+    {
+      "label": "Timeline for Results:",
+      "description": "Most users reporting benefits notice effects within 2-4 weeks, with subtle improvements in energy appearing first before more pronounced recovery benefits"
+    },
+    {
+      "label": "Age Dependency:",
+      "description": "Studies and user reports suggest stronger benefits in middle-aged and older adults (40+) compared to younger populations"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Multiple users note that doubling the standard dose (from 500mg to 1000mg) produces more noticeable effects, though at increased cost"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "500-1000mg daily is most commonly recommended, with clinical trials using doses in this range"
+    },
+    {
+      "label": "Timing:",
+      "description": "Morning or pre-workout timing preferred to avoid potential sleep disruption; some users report better results when taken with food"
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users suggest higher doses (1000-2000mg) initially for 2-4 weeks, then reducing to maintenance doses"
+    },
+    {
+      "label": "Alternative Sources:",
+      "description": "Pomegranate extract (standardized to ellagic acid) mentioned as cheaper alternative, though conversion to urolithin A depends on individual gut bacteria"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Issues:",
+      "description": "Vivid dreams and occasional insomnia reported, particularly when taken in evening or at higher doses"
+    },
+    {
+      "label": "Initial Fatigue:",
+      "description": "Some users report paradoxical tiredness in first week, possibly due to mitochondrial turnover process"
+    },
+    {
+      "label": "Digestive Effects:",
+      "description": "Minimal GI issues reported, though some note mild stomach discomfort when taken on empty stomach"
+    },
+    {
+      "label": "Cost Burden:",
+      "description": "While not a medical side effect, high cost (~$90-120/month) is consistently cited as the main drawback limiting long-term use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Considerations:",
+      "description": "Timeline/Mitopure holds patent and is most expensive but verified; quality brands Renual is licensed alternative; many generic brands flagged as potentially fake with suspicious reviews"
+    },
+    {
+      "label": "Third-Party Testing:",
+      "description": "Only 4 brands confirmed to pass independent lab testing: CodeAge Liposomal, Timeline Mitopure, quality brands Renual, and Neurogan Health Pro+"
+    },
+    {
+      "label": "Pricing Strategy:",
+      "description": "Watch for sales (Prime Day, Black Friday) where Timeline products often discounted 50%; subscription services may have predatory cancellation practices according to user reports"
+    }
+  ],
+  "related": [
+    {
+      "name": "TRIGONELLINE",
+      "slug": "trigonelline"
+    },
+    {
+      "name": "BORON",
+      "slug": "boron"
+    },
+    {
+      "name": "FAD",
+      "slug": "fad"
+    },
+    {
+      "name": "FMN",
+      "slug": "fmn"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

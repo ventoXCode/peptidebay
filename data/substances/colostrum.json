@@ -1,0 +1,131 @@
+{
+  "slug": "colostrum",
+  "url": "https://dopamine.club/substances/colostrum/",
+  "scrapedAt": "2026-02-12T16:06:53.446Z",
+  "title": "COLOSTRUM",
+  "description": "Bovine colostrum is the first milk produced by cows after giving birth, rich in immunoglobulins, growth factors, antimicrobial peptides, and bioactive compounds. It supports immune function, gut health, and tissue repair through its high concentration of antibodies (IgG, IgA), lactoferrin, growth factors (IGF-1, TGF-β), and other protective proteins. Traditionally consumed for centuries, it has gained modern attention as a nutraceutical for gastrointestinal healing, immune support, and athletic recovery.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Diverse Immune Effects of Bovine Colostrum and Benefits in Human Health and Disease",
+      "summary": "Bovine colostrum modulates immune function through immunoglobulins, lactoferrin, and growth factors, affecting lymphocyte, macrophage, and dendritic cell function beyond direct protein absorption.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34836054/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bovine Colostrum: Its Constituents and Uses",
+      "summary": "Review of colostrum's high levels of immunoglobulins, antimicrobial peptides, and growth factors, demonstrating therapeutic benefits across numerous preclinical and clinical studies for various medical conditions and wellbeing maintenance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33466360/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bovine Colostrum and Its Potential for Human Health and Nutrition",
+      "summary": "Comprehensive characterization of bovine colostrum's bioactive molecules including proteins, fats, glycans, and vitamins, with clinical evidence supporting applications in human nutrition and health beyond the neonatal period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34222916/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bioactive compounds, nutritional profile and health benefits of colostrum: a review",
+      "summary": "Clinical studies demonstrate therapeutic benefits of bovine colostrum for respiratory and gastrointestinal disorders through immunoglobulins, growth factors, and enzymes with high nutraceutical value.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36284005/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are genuinely divided, with no Reddit data provided to analyze specific user reports. Research evidence shows clear therapeutic potential, but without user testimonials, real-world effectiveness and tolerability remain uncertain."
+  },
+  "effects": [
+    {
+      "label": "Gastrointestinal Health:",
+      "description": "Strong evidence for treating inflammatory bowel disease, leaky gut syndrome, and gut barrier dysfunction"
+    },
+    {
+      "label": "Athletic Performance:",
+      "description": "Natural ergogenic aid improving muscle growth, recovery mechanisms, and immune function in athletes"
+    },
+    {
+      "label": "Pediatric Benefits:",
+      "description": "Supports infant growth, development, and immune system maturation with potential neurological benefits"
+    },
+    {
+      "label": "Processing Impact:",
+      "description": "Dairy processing technologies have enabled various applications beyond fresh colostrum while maintaining bioactivity"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "General Supplementation:",
+      "description": "Typical doses range from 10-20g daily for immune and gut health support"
+    },
+    {
+      "label": "Athletic Use:",
+      "description": "Higher doses of 20-60g daily commonly used around training for recovery benefits"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Often taken on empty stomach for better absorption, or split into multiple daily doses"
+    },
+    {
+      "label": "Quality Factors:",
+      "description": "First milking within 6-12 hours post-partum contains highest concentration of bioactive compounds"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "May cause bloating, gas, or mild gastrointestinal discomfort initially as gut adapts"
+    },
+    {
+      "label": "Dairy Sensitivity:",
+      "description": "Contraindicated for individuals with dairy allergies; lactose-intolerant individuals may tolerate processed versions"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Bioactive content varies significantly based on collection timing, processing method, and storage conditions"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most studies report minimal adverse effects when quality products are used appropriately"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as powders, capsules, and liquid extracts with varying processing methods affecting bioactivity"
+    },
+    {
+      "label": "Quality Standards:",
+      "description": "Look for products from first milking, third-party tested, and processed to preserve immunoglobulin content"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Widely available as dietary supplement with long history of human consumption and GRAS status in many countries"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "magnolia-bark",
+  "url": "https://dopamine.club/substances/magnolia-bark/",
+  "scrapedAt": "2026-02-12T16:09:25.431Z",
+  "title": "MAGNOLIA BARK",
+  "description": "Magnolia Bark extract, derived from Magnolia officinalis, contains bioactive compounds magnolol and honokiol that act as positive allosteric modulators of GABA-A receptors and exhibit anti-inflammatory properties. It has been traditionally used in Chinese medicine and is now commonly found in dietary supplements for anxiety reduction, sleep improvement, and stress management.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Biological activity and toxicity of the Chinese herb Magnolia officinalis Rehder & E. Wilson (Houpo) and its constituents",
+      "summary": "Comprehensive review showing magnolia bark has antioxidant, anti-inflammatory, antibiotic and antispasmodic effects, though mechanisms are not fully elucidated and clinical trials are limited",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28271656/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of the in vitro and in vivo genotoxicity of magnolia bark extract",
+      "summary": "Studies demonstrate that magnolia bark extract is not genotoxic in bacterial reverse mutation assays or in vivo micronucleus tests at all doses tested",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17692444/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of short-term and subchronic toxicity of magnolia bark extract in rats",
+      "summary": "90-day toxicity study in rats showed no mortality or treatment-related adverse effects at doses up to 240 mg/kg body weight per day, establishing safety profile",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17692445/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Growth-Promoting and Antioxidant Effects of Magnolia Bark Extract in Chickens Uninfected or Co-Infected with Clostridium perfringens and Eimeria maxima",
+      "summary": "Dietary supplementation with magnolia bark extract improved growth performance and demonstrated antioxidant properties in both healthy and infected chickens",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30019032/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of dietary magnolia bark extract supplementation in finishing pigs on the oxidative stability of meat",
+      "summary": "Supplementation at 0.33 mg/kg improved body weight gains and altered 278 intestinal metabolites, demonstrating antioxidant and anti-inflammatory benefits",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35934700/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "In vitro antimicrobial and antipro-inflammation potential of honokiol and magnolol against oral pathogens and macrophages",
+      "summary": "Honokiol and magnolol demonstrated antimicrobial activity against oral pathogens and anti-inflammatory effects in macrophages, supporting traditional medicinal uses",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32978046/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacokinetic and Metabolic Profiling of Key Active Components of Dietary Supplement Magnolia officinalis Extract",
+      "summary": "Study found poor oral bioavailability (<0.2%) of magnolol and honokiol primarily due to extensive first-pass metabolism, though compounds showed antiproliferation activities",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32348135/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report significant benefits for anxiety, sleep quality, and stress reduction, with most experiencing noticeable calming effects and improved sleep onset. Side effects are minimal when properly dosed, though some users report next-day drowsiness at higher doses."
+  },
+  "effects": [
+    {
+      "label": "Onset and Duration:",
+      "description": "Effects typically begin within 30-60 minutes and last 4-6 hours, making it suitable for both daytime anxiety and nighttime sleep support"
+    },
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Despite poor oral bioavailability (<0.2%), users still report strong therapeutic effects, particularly with standardized extracts containing 98% honokiol"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between users; works exceptionally well for some while others report minimal effects, suggesting genetic or metabolic differences"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Most effective when combined with lemon balm, L-theanine, or magnesium glycinate, with users reporting enhanced anxiolytic and sleep benefits from stacking"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Anxiety Dose:",
+      "description": "300-400mg of magnolia bark extract or 99% honokiol taken as needed, with effects typically felt within an hour"
+    },
+    {
+      "label": "Sleep Support:",
+      "description": "400-600mg taken 30-60 minutes before bed, often combined with other sleep aids like magnesium or glycine"
+    },
+    {
+      "label": "High Potency Extract:",
+      "description": "98-99% honokiol extracts used at lower doses (100-300mg) due to higher concentration of active compounds"
+    },
+    {
+      "label": "Cycling Considerations:",
+      "description": "Some users cycle on/off to prevent tolerance, though daily use appears well-tolerated by most without significant tolerance development"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Morning Drowsiness:",
+      "description": "Higher doses (>400mg) may cause next-day grogginess or extended drowsiness, particularly with evening use"
+    },
+    {
+      "label": "Vivid Dreams:",
+      "description": "Lemon balm combined with magnolia bark can produce unusually vivid or intense dreams in some users"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Generally well-tolerated with few reported side effects compared to pharmaceutical alternatives like benzodiazepines"
+    },
+    {
+      "label": "Digestive Sensitivity:",
+      "description": "Some users report mild gastrointestinal discomfort, though this is relatively uncommon"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in numerous commercial sleep and stress formulas, as well as standalone extracts from brands like reputable suppliers, quality brands, and quality brands"
+    },
+    {
+      "label": "Extract Standardization:",
+      "description": "Products vary significantly in honokiol/magnolol content; 98-99% honokiol extracts are considered most potent, while 2% extracts are less effective"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Legal as a dietary supplement in most countries with no prescription required, though quality varies significantly between manufacturers"
+    }
+  ],
+  "related": [
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    },
+    {
+      "name": "LEMON BALM",
+      "slug": "lemon-balm"
+    },
+    {
+      "name": "PASSIONFLOWER",
+      "slug": "passionflower"
+    },
+    {
+      "name": "SCUTELLARIA",
+      "slug": "scutellaria"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    }
+  ]
+}

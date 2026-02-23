@@ -1,0 +1,131 @@
+{
+  "slug": "bromelain",
+  "url": "https://dopamine.club/substances/bromelain/",
+  "scrapedAt": "2026-02-12T16:06:15.910Z",
+  "title": "BROMELAIN",
+  "description": "Bromelain is a mixture of proteolytic enzymes and other compounds (phosphatases, glucosidases, peroxidases, cellulases) extracted from pineapple stems and fruit. It exhibits anti-inflammatory, fibrinolytic, antiedematous, and antithrombotic properties, and is notably absorbed systemically in functionally intact form without losing proteolytic activity. Bromelain is used both topically for wound healing and orally for digestive support, sinusitis, inflammation, and post-surgical recovery.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Exploring the Therapeutic Potential of Bromelain: Applications, Benefits, and Mechanisms",
+      "summary": "Comprehensive review examining bromelain's anti-inflammatory, antithrombotic, and wound healing properties, confirming its therapeutic applications across multiple conditions with good safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38999867/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Properties and Therapeutic Application of Bromelain: A Review",
+      "summary": "Detailed analysis showing bromelain is substantially absorbed in the body without losing proteolytic activity and demonstrates various fibrinolytic, antiedematous, antithrombotic, and anti-inflammatory effects without major side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23304525/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of bromelain: A systematic review and meta-analysis",
+      "summary": "Systematic review and meta-analysis evaluating bromelain's clinical efficacy and safety profile across multiple therapeutic applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37157782/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bromelain supplementation and inflammatory markers: A systematic review of clinical trials",
+      "summary": "Clinical trials review demonstrating bromelain's effectiveness in reducing inflammatory parameters both as monotherapy and in combination treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36889788/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with bromelain, particularly for sinus/mucus issues, inflammation reduction, and scar tissue breakdown. Most users combine it with other supplements (quercetin, zinc) and report noticeable benefits, though some experience digestive side effects or reactions when first starting."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Most effective when combined with quercetin for immune support or anti-inflammatory purposes; bromelain enhances quercetin absorption"
+    },
+    {
+      "label": "Rapid Onset:",
+      "description": "Many users report feeling effects within 1-2 hours for sinus/respiratory issues, though anti-inflammatory benefits may take several weeks"
+    },
+    {
+      "label": "Targeted Application:",
+      "description": "Heat application to affected areas may enhance effectiveness for localized inflammation and scar tissue breakdown"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly; some users find it transformative while others report minimal benefits, particularly for inflammatory conditions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "500mg 1-2 times daily, often paired with 500mg quercetin and taken away from food for systemic effects"
+    },
+    {
+      "label": "COVID/Immune Protocol:",
+      "description": "800mg quercetin with bromelain taken 1-2 times daily as part of comprehensive immune stack"
+    },
+    {
+      "label": "Scar Tissue Protocol:",
+      "description": "500-1000mg taken on empty stomach for maximum proteolytic activity, sometimes with heat application to target area"
+    },
+    {
+      "label": "Timing:",
+      "description": "Most effective when taken between meals (empty stomach) for systemic/anti-inflammatory effects; with meals for digestive support"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Distress:",
+      "description": "Some users report severe stomach upset, nausea, sweating, and anxiety, particularly with higher doses or sensitivity to pineapple compounds"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Potential for allergic reactions in those sensitive to pineapple; can cause increased heart rate and symptoms mimicking anxiety"
+    },
+    {
+      "label": "Blood Thinning:",
+      "description": "May increase bleeding; users report this effect during menstruation or in combination with other blood-thinning supplements"
+    },
+    {
+      "label": "Methylation Issues:",
+      "description": "Users with COMT gene variants report adverse reactions unless paired with methylated B vitamins and SAM-e to support methylation pathways"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Pairing:",
+      "description": "Widely available combined with quercetin in single supplements; this combination is preferred for enhanced absorption and synergistic effects"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Users recommend purchasing from reputable brands with third-party testing; often found in specialty supplement stores rather than general retailers"
+    },
+    {
+      "label": "Affordability:",
+      "description": "Generally inexpensive as a standalone supplement, though quality formulations with enhanced absorption may cost more"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    },
+    {
+      "name": "PROTEASE",
+      "slug": "protease"
+    },
+    {
+      "name": "SERRAPEPTASE",
+      "slug": "serrapeptase"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    }
+  ]
+}

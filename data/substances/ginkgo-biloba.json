@@ -1,0 +1,155 @@
+{
+  "slug": "ginkgo-biloba",
+  "url": "https://dopamine.club/substances/ginkgo-biloba/",
+  "scrapedAt": "2026-02-12T16:08:03.681Z",
+  "title": "GINKGO BILOBA",
+  "description": "Ginkgo biloba is an herbal extract derived from the leaves of the Ginkgo tree, containing flavonoids and terpene lactones as primary active compounds. It works primarily through antioxidant mechanisms and vasodilation to improve blood flow, particularly cerebral circulation. Commonly used for cognitive enhancement, memory support, and management of age-related cognitive decline, though efficacy remains controversial in clinical research.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Neuroprotective and Antioxidant Effect of Ginkgo biloba Extract Against AD and Other Neurological Disorders",
+      "summary": "Review of Ginkgo biloba extract as one of the most investigated herbal remedies for cognitive disorders and Alzheimer's disease, though its efficacy in prevention and treatment of dementia remains controversial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31376068/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Review of Ginkgo biloba-induced toxicity, from experimental studies to human case reports",
+      "summary": "Comprehensive review showing Ginkgo biloba caused carcinogenic activity in rodent studies and raised concerns about potential health risks due to widespread human exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28055331/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Warfarin and food, herbal or dietary supplement interactions: A systematic review",
+      "summary": "Systematic review identifying Ginkgo biloba as having potential bleeding interactions when used with anticoagulants like warfarin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32478963/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements and bleeding",
+      "summary": "Study found Ginkgo biloba is associated with bleeding risk in patients on anticoagulants, but no evidence of bleeding risk independent of anticoagulant use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36304597/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective Potential of Ginkgo biloba Against an ADHD-like Condition",
+      "summary": "Research suggests Ginkgo biloba may modulate dopamine, serotonin, and other neurotransmitter systems, showing potential benefits for ADHD-like symptoms through novel molecular mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32329705/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginkgo biloba supplement abates lead-induced endothelial and testicular dysfunction in Wistar rats",
+      "summary": "Animal study demonstrated Ginkgo biloba supplementation protected against lead toxicity by up-regulating protective proteins and down-regulating oxidative stress and inflammatory reactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37224746/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Treatment with Ginkgo biloba supplement modulates oxidative disturbances, inflammation and vascular functions",
+      "summary": "Study in hypothyroid mice showed Ginkgo biloba treatment modulated oxidative stress, inflammation, and vascular function through endothelin-1/NO signaling pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36226765/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective effects of Ginkgo biloba supplementation on clinical outcomes in metabolic dysfunction-associated steatotic liver disease",
+      "summary": "Recent study found Ginkgo biloba supplementation showed protective effects on overall survival and reduced incidence of cardiovascular and renal outcomes in patients with metabolic liver disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40435579/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences with Ginkgo biloba are genuinely mixed, with some reporting rapid benefits for erectile dysfunction and cognitive function, while many others report minimal or no noticeable effects even after months of use. Safety concerns about bleeding risks and long-term toxicity are frequently mentioned alongside positive anecdotal reports."
+  },
+  "effects": [
+    {
+      "label": "Response Variability:",
+      "description": "Effectiveness appears highly individual, with some users experiencing dramatic benefits while others notice no effects even after 3-4 months of consistent use"
+    },
+    {
+      "label": "Stacking Benefits:",
+      "description": "Ginkgo appears more effective when combined with other nootropics (Alpha-GPC, Lion's Mane, Ashwagandha) rather than as a standalone supplement"
+    },
+    {
+      "label": "Long-Term Use:",
+      "description": "Many users question its value after extended use, with several reporting they would eliminate it from their stack to reduce costs without significant loss of benefits"
+    },
+    {
+      "label": "Specific Use Cases:",
+      "description": "Most effective reports come from users addressing specific circulation issues (ED, cold extremities) rather than general cognitive enhancement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most commonly used at 120mg daily, with some users taking up to 200mg for enhanced effects"
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Some users report success with 60mg taken 3 times daily (180mg total) for acute benefits"
+    },
+    {
+      "label": "Timing:",
+      "description": "Generally taken in the morning or with meals; concerns about taking at night due to potential stimulating effects"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Several experienced users recommend cycling rather than continuous daily use, suggesting Ginkgo should not be taken long-term"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Bleeding Risk:",
+      "description": "Multiple warnings about increased bleeding risk, especially when combined with blood thinners, NSAIDs, or other anticoagulants"
+    },
+    {
+      "label": "Neurotransmitter Effects:",
+      "description": "Some users report feeling it increases serotonin/dopamine, potentially causing anxiety or unwanted stimulation"
+    },
+    {
+      "label": "MAOI Interaction:",
+      "description": "Concerns raised that Ginkgo acts as an MAOI and may interact with psychiatric medications, reducing their effectiveness"
+    },
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Most users report Ginkgo is well-tolerated with few acute side effects, though long-term safety concerns exist from rodent carcinogenicity studies"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily obtained at health food stores, pharmacies, and online retailers as an over-the-counter supplement"
+    },
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Users emphasize importance of standardized extracts with verified flavonoid and terpenoid content; cheaper brands may be ineffective"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally affordable, but users question value for money when effects are minimal, with many considering it expendable from supplement stacks"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

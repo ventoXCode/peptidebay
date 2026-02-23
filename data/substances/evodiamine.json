@@ -1,0 +1,149 @@
+{
+  "slug": "evodiamine",
+  "url": "https://dopamine.club/substances/evodiamine/",
+  "scrapedAt": "2026-02-12T16:07:42.663Z",
+  "title": "EVODIAMINE",
+  "description": "Evodiamine is a bioactive alkaloid extracted from Evodia rutaecarpa (Wu-Zhu-Yu), a traditional Chinese medicinal fruit. It acts as a vanilloid receptor agonist and has demonstrated thermogenic properties, affecting metabolic pathways involved in lipid metabolism and energy expenditure. Primarily studied for its anti-cancer effects and potential as a weight loss agent, though its clinical application is limited by poor bioavailability and metabolism concerns.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Capsaicin-like anti-obese activities of evodiamine from fruits of Evodia rutaecarpa, a vanilloid receptor agonist",
+      "summary": "Evodiamine demonstrated weight loss effects comparable to capsaicin in mice, significantly reducing perirenal and epididymal fat mass, serum free fatty acids, and liver lipid levels when supplemented at 0.02-0.03% of diet, without the peppery taste of capsaicin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11582540/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Long-term effects of evodiamine on expressions of lipogenesis and lipolysis genes in mouse adipose and liver tissues",
+      "summary": "Evodiamine supplementation (0.02-0.06% of diet) significantly reduced body weight gain and rectal temperature in mice in a dose-dependent manner, while modulating expression of genes involved in lipid metabolism including PPAR-gamma.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24634125/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Capsaicin and evodiamine ingestion does not augment energy expenditure and fat oxidation at rest or after moderately-intense exercise",
+      "summary": "Human study found that 500mg evodiamine supplementation did not significantly increase energy expenditure, thermogenesis, or fat oxidation at rest or following moderate exercise in 11 male subjects, contradicting animal study findings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24267043/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Novel interactomics approach identifies ABCA1 as direct target of evodiamine, which increases macrophage cholesterol efflux",
+      "summary": "Research identified ABCA1 as a direct molecular target of evodiamine, demonstrating its ability to increase cholesterol efflux from macrophages, providing mechanistic insight into its lipid metabolism effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30038271/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Metabolic activation of the indoloquinazoline alkaloids evodiamine and rutaecarpine by human liver microsomes: dehydrogenation and inactivation of cytochrome P450 3A4",
+      "summary": "Study revealed evodiamine undergoes metabolic activation in human liver forming reactive metabolites that bind to proteins and inactivate CYP3A4, raising concerns about potential toxicity and drug interactions with long-term use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24696463/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antiproliferative Effects of Alkaloid Evodiamine and Its Derivatives",
+      "summary": "Comprehensive review of evodiamine's anti-cancer properties, demonstrating multitargeting antiproliferative activity through inhibition of topoisomerases, tubulin, and other proteins, though clinical application is limited by poor bioavailability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30380774/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Research progress on evodiamine, a bioactive alkaloid of Evodiae fructus: Focus on its anti-cancer activity and bioavailability",
+      "summary": "Review highlighting evodiamine's anticancer effects through inhibition of cell proliferation, invasion and metastasis, while noting challenges with poor bioavailability and potential toxicity from metabolism that limit clinical application.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34630681/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely mixed with limited direct experiences. Most Reddit mentions occur in proprietary blends where evodiamine is one of many ingredients, making isolated effects difficult to assess. The one human clinical trial showing no thermogenic effect contradicts animal studies, contributing to uncertainty about real-world effectiveness."
+  },
+  "effects": [
+    {
+      "label": "Animal vs Human Disparity:",
+      "description": "Strong weight loss effects in rodent studies at 0.02-0.06% of diet do not translate to measurable thermogenic effects in human trials"
+    },
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Poor absorption and extensive first-pass metabolism limit effectiveness, with research ongoing into improved delivery systems"
+    },
+    {
+      "label": "Insufficient Human Data:",
+      "description": "Lack of robust clinical trials and standalone user experiences make effectiveness for weight loss or other uses uncertain"
+    },
+    {
+      "label": "Part of Blends:",
+      "description": "Most commonly found in proprietary fat burner formulations where individual contribution cannot be isolated"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Human studies used 500mg single doses without thermogenic effect; animal studies used 0.02-0.06% of diet"
+    },
+    {
+      "label": "Commercial Products:",
+      "description": "Typically included at 25-50mg in proprietary fat burner blends, well below research doses"
+    },
+    {
+      "label": "No Established Protocol:",
+      "description": "Lack of successful human trials means no evidence-based dosing recommendations exist"
+    },
+    {
+      "label": "Safety Concerns:",
+      "description": "Higher doses may increase risk of CYP3A4 inhibition and reactive metabolite formation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Metabolic Toxicity:",
+      "description": "Forms reactive metabolites that can bind to cellular proteins and inhibit CYP3A4 enzyme, raising long-term safety concerns"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May interact with medications metabolized by CYP3A4 due to enzyme inhibition"
+    },
+    {
+      "label": "Unknown Long-term Effects:",
+      "description": "Limited human safety data makes chronic supplementation risks unclear"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Short-term human studies report no significant adverse effects at tested doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Supplement Status:",
+      "description": "Available as ingredient in fat burner supplements and proprietary blends in US and other markets"
+    },
+    {
+      "label": "Limited Standalone Products:",
+      "description": "Rarely sold as isolated evodiamine; most commonly found combined with other thermogenic compounds"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "As with many alkaloid supplements, purity and dosing accuracy may vary between manufacturers"
+    }
+  ],
+  "related": [
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    }
+  ]
+}

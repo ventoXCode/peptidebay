@@ -1,0 +1,138 @@
+{
+  "slug": "nigella-sativa",
+  "url": "https://dopamine.club/substances/nigella-sativa/",
+  "scrapedAt": "2026-02-12T16:10:12.955Z",
+  "title": "NIGELLA SATIVA",
+  "description": "Nigella sativa, commonly known as black cumin or black seed, is a medicinal herb containing the potent bioactive compound thymoquinone, which exerts anti-inflammatory, antioxidant, and immunomodulatory effects. It is primarily used as a dietary supplement to support immune health, manage metabolic disorders like diabetes, and reduce chronic inflammation.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Black Cumin (Nigella sativa L.): A Comprehensive Review on Phytochemistry, Health Benefits, Molecular Pharmacology, and Safety",
+      "summary": "A broad review detailing the plant's therapeutic potential against chronic illnesses including cardiovascular disorders, diabetes, and inflammatory conditions via its rich bioactive profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34073784/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Black Seed (Nigella sativa): A Favourable Alternative Therapy for Inflammatory and Immune System Disorders",
+      "summary": "This review confirms that black seed modulates key inflammatory mediators like TNF-α and NF-kB, making it a viable therapy for immune-dysregulation and inflammatory disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35972596/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nigella sativa: A Dietary Supplement as an Immune-Modulator on the Basis of Bioactive Components",
+      "summary": "A systematic study identifying new bioactive compounds in the seeds that contribute specifically to its antibacterial and immune-regulating properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34485368/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparative effects of nutraceuticals on body weight in adults with overweight or obesity: A systematic review and network meta-analysis",
+      "summary": "A meta-analysis of 111 trials ranking Nigella sativa among effective nutraceuticals for weight loss and body mass index reduction in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37778464/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Nigella sativa oil supplement on risk factors for cardiovascular diseases in patients with type 2 diabetes mellitus",
+      "summary": "Clinical evidence showing that black seed oil supplementation improves glycemic control and reduces cardiovascular risk factors in diabetic patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32510754/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users widely report significant benefits for mood stabilization, anxiety reduction, and seasonal allergy relief, with many considering it a staple for general well-being."
+  },
+  "effects": [
+    {
+      "label": "Clinical Consistency:",
+      "description": "Metanalyses confirm its efficacy for weight loss, glycemic control in diabetics, and asthma management."
+    },
+    {
+      "label": "Viral Clearance:",
+      "description": "Research suggests it may expedite the clearance of viral infections when paired with honey or taken as an oil."
+    },
+    {
+      "label": "Weight Management:",
+      "description": "Ranked as one of the more effective natural supplements for reducing BMI in overweight populations."
+    },
+    {
+      "label": "Nootropic Potential:",
+      "description": "Some users find it effective for focus and managing mild ADHD symptoms when stacked with other adaptogens."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Capsule Dose:",
+      "description": "Commonly taken as 500mg capsules, often three times daily for general health."
+    },
+    {
+      "label": "Liquid Oil Protocol:",
+      "description": "Users suggest starting with 1/2 teaspoon twice daily, gradually increasing to a full tablespoon."
+    },
+    {
+      "label": "Therapeutic Window:",
+      "description": "Most research focuses on doses between 1-3 grams of powder or 2-5ml of oil daily."
+    },
+    {
+      "label": "Stacking Timing:",
+      "description": "Often taken in the afternoon (3-4 PM) to bridge the gap between morning energy boosters and evening relaxation aids."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Upset:",
+      "description": "Some users report 'black seed burps' or mild stomach discomfort when taking the liquid oil form."
+    },
+    {
+      "label": "Contact Dermatitis:",
+      "description": "Topical application of the oil can cause allergic skin reactions in sensitive individuals."
+    },
+    {
+      "label": "Blood Thinning:",
+      "description": "Due to its effects on circulation, it may have mild anti-coagulant properties that require caution before surgery."
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May inhibit CYP3A4 enzymes, potentially slowing the metabolism of certain medications like benzodiazepines."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Widely available as an over-the-counter dietary supplement in oil, capsule, and raw seed form."
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Users emphasize the importance of high-quality 'cold-pressed' oils to ensure thymoquinone content is preserved."
+    },
+    {
+      "label": "Global Tradition:",
+      "description": "Primarily sourced from Egypt, Turkey, and India, where it has deep historical use in traditional medicine."
+    }
+  ],
+  "related": [
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    },
+    {
+      "name": "CHAGA MUSHROOM",
+      "slug": "chaga-mushroom"
+    },
+    {
+      "name": "CHLORELLA",
+      "slug": "chlorella"
+    },
+    {
+      "name": "CLITORIA TERNATEA",
+      "slug": "clitoria-ternatea"
+    },
+    {
+      "name": "CONVOLVULUS PLURICAULIS",
+      "slug": "convolvulus-pluricaulis"
+    }
+  ]
+}

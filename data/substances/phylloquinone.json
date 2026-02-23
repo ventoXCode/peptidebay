@@ -1,0 +1,119 @@
+{
+  "slug": "phylloquinone",
+  "url": "https://dopamine.club/substances/phylloquinone/",
+  "scrapedAt": "2026-02-12T16:10:38.394Z",
+  "title": "PHYLLOQUINONE",
+  "description": "Phylloquinone (Vitamin K1) is a fat-soluble vitamin essential for blood clotting and bone metabolism, functioning as a coenzyme for vitamin K-dependent carboxylase. Found primarily in green leafy vegetables, it plays critical roles in synthesizing clotting factors like prothrombin, regulating vascular calcification through proteins like matrix Gla-protein (MGP), and may support brain health through sphingolipid biosynthesis and ferroptosis inhibition.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vitamin K Properties in Stroke and Alzheimer's Disease: A Narrative Review",
+      "summary": "Vitamin K deficiency increases risk of hemorrhages, atherosclerosis, and neurodegeneration, while adequate levels may benefit both vascular and cerebral health through sphingolipid biosynthesis and ferroptosis inhibition pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40269655/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin K - Sources, Physiological Role, Kinetics, Deficiency, Detection, Therapeutic Use, and Toxicity",
+      "summary": "Comprehensive review of vitamin K's role in coagulation, bone metabolism, tissue calcification, and antioxidant activity, with phylloquinone being the main dietary form concentrated in green leafy vegetables.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34472618/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users show moderate awareness of vitamin K's importance, particularly when combined with vitamin D, though discussions focus more on dosing concerns and multivitamin formulations rather than standalone benefits. Most view it as a necessary but unremarkable component of supplement regimens."
+  },
+  "effects": [
+    {
+      "label": "Primary Function:",
+      "description": "Highly effective for blood clotting function with well-established physiological role"
+    },
+    {
+      "label": "Cardiovascular Benefits:",
+      "description": "Shows promise for reducing atherosclerosis and vascular calcification in research"
+    },
+    {
+      "label": "Brain Health:",
+      "description": "Emerging evidence suggests dual benefits for vascular and cerebral health"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Often combined with vitamin D for enhanced bone and cardiovascular benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Minimum Effective Dose:",
+      "description": "50 mcg of phylloquinone (K1) satisfies recommended daily intake"
+    },
+    {
+      "label": "Maximum Safe Dose:",
+      "description": "Up to 1,000 mcg vitamin K1 considered safe for most individuals"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often formulated with 200-1,500 mcg K1 alongside vitamin D and K2 forms"
+    },
+    {
+      "label": "Dietary Sources:",
+      "description": "Green leafy vegetables provide primary dietary phylloquinone"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Anticoagulant Interactions:",
+      "description": "Can interfere with warfarin and similar anticoagulants requiring consistent intake monitoring"
+    },
+    {
+      "label": "Minimal Toxicity:",
+      "description": "Generally well-tolerated with low toxicity risk at recommended doses"
+    },
+    {
+      "label": "No Common Complaints:",
+      "description": "Users rarely report negative effects from vitamin K1 supplementation"
+    },
+    {
+      "label": "Dosing Concerns:",
+      "description": "Some users express hesitation about high-dose formulations in multivitamins"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Wide Availability:",
+      "description": "Found in most multivitamins and vitamin D+K combination products"
+    },
+    {
+      "label": "Dietary Sources:",
+      "description": "Abundantly available in green leafy vegetables as primary natural source"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Commonly available as standalone K1 or in K1+K2 complex formulations"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    }
+  ]
+}

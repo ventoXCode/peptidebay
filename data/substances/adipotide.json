@@ -1,0 +1,115 @@
+{
+  "slug": "adipotide",
+  "url": "https://dopamine.club/substances/adipotide/",
+  "scrapedAt": "2026-02-12T16:05:24.124Z",
+  "title": "ADIPOTIDE",
+  "description": "Adipotide is a peptidomimetic compound designed to induce targeted apoptosis in the blood vessels of white adipose tissue by binding to specific receptors in the fat-cell vasculature. By cutting off the blood supply to fat cells, it causes them to die and be resorbed, leading to rapid reductions in body weight and improved insulin sensitivity.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "A Peptidomimetic Targeting White Fat Causes Weight Loss and Improved Insulin Resistance in Obese Monkeys",
+      "summary": "This study demonstrated that Adipotide treatment in obese monkeys led to significant weight loss, reduction in white fat volume via MRI, and improved insulin resistance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22072711/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Peptide designed to elicit apoptosis in adipose tissue endothelium reduces food intake and body weight",
+      "summary": "Research in rodents showed that targeting the adipose vasculature not only reduces fat mass but also suppresses appetite and alters the neuroendocrine system to favor lower body weight.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20103704/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rapid and Weight-Independent Improvement of Glucose Tolerance Induced by a Peptide Designed to Elicit Apoptosis in Adipose Tissue Endothelium",
+      "summary": "Findings indicate that Adipotide provides metabolic benefits and improves glucose tolerance very rapidly, sometimes even before significant weight loss occurs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22923472/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Reversal of obesity by targeted ablation of adipose tissue",
+      "summary": "The foundational study using phage display to identify the CKGGRAKDC peptide sequence, proving that targeted destruction of fat-supporting blood vessels reverses obesity in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15133506/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users are polarized; while the fat loss is described as uniquely rapid and visible, the high incidence of kidney-related side effects and the experimental nature of the compound create significant hesitation."
+  },
+  "effects": [
+    {
+      "label": "Speed of Results:",
+      "description": "Adipotide is noted for working faster than traditional peptides, with measurable changes often occurring within initial weeks."
+    },
+    {
+      "label": "Primate Translation:",
+      "description": "Unlike many fat burners, Adipotide's effectiveness was specifically proven in non-human primates, increasing user confidence in its biological potency."
+    },
+    {
+      "label": "Weight Independence:",
+      "description": "Metabolic improvements often manifest even before significant scale weight is lost."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Experimental Range:",
+      "description": "Common user discussions mention ranges of 4.3 mg/kg based on primate studies, though human enthusiasts often use much lower 'micro-doses' to mitigate risk."
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Usually taken in short cycles (e.g., 28 days) followed by long breaks to monitor kidney health."
+    },
+    {
+      "label": "Subcutaneous Injection:",
+      "description": "Administered via daily subcutaneous injections to maintain steady plasma levels."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Renal Toxicity:",
+      "description": "The most significant concern is proximal tubule dysfunction, often manifesting as changes in hydration and kidney markers."
+    },
+    {
+      "label": "Increased Thirst:",
+      "description": "Users frequently report extreme polydipsia (excessive thirst) and the need for high fluid intake."
+    },
+    {
+      "label": "Lethargy:",
+      "description": "Some users experience significant fatigue during the treatment cycle as the body processes the apoptotic cell debris."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical Status:",
+      "description": "Strictly sold as a research chemical and not approved by the FDA for human consumption."
+    },
+    {
+      "label": "Sourcing Risk:",
+      "description": "Due to its complexity, users warn of high-priced but low-purity 'fake' batches from unreliable vendors."
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "CAGRILINTIDE",
+      "slug": "cagrilintide"
+    },
+    {
+      "name": "CAGRISEMA",
+      "slug": "cagrisema"
+    },
+    {
+      "name": "CHITOSAN",
+      "slug": "chitosan"
+    }
+  ]
+}

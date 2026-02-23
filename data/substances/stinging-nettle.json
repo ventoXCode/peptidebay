@@ -1,0 +1,155 @@
+{
+  "slug": "stinging-nettle",
+  "url": "https://dopamine.club/substances/stinging-nettle/",
+  "scrapedAt": "2026-02-12T16:11:32.860Z",
+  "title": "STINGING NETTLE",
+  "description": "Stinging Nettle (Urtica dioica) is a perennial herbaceous plant traditionally used as a medicinal vegetable for treating allergies, urinary tract issues, inflammation, and benign prostatic hyperplasia (BPH). It contains bioactive compounds including phenolic acids, flavonoids, lignans, sterols, and minerals that contribute to its anti-inflammatory, antihistamine, and antioxidant properties. The plant works through multiple mechanisms including 5α-reductase inhibition, histamine modulation, and immune system support.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Nutritional and pharmacological importance of stinging nettle (Urtica dioica L.): A review",
+      "summary": "Comprehensive review highlighting stinging nettle's rich phytochemical profile including sterols, fatty acids, alkaloids, terpenoids, flavonoids, and lignans, which contribute to anti-inflammatory, hypoglycemic, antiurolithiatic, neuroprotective, and antioxidant properties with broad pharmacological applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35879899/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chemical Composition and Immuno-Modulatory Effects of Urtica dioica L. (Stinging Nettle) Extracts",
+      "summary": "Study identified that nettle herb extracts contain phenolic acids and flavonol glycosides while root extracts contain lignans, showing selective inhibition of cyclooxygenase and lipoxygenase pathways with root extracts better at inhibiting thromboxane production and herb extracts showing superior anti-inflammatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28544187/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Plants for the Prevention and Management of Kidney Stones: Preclinical and Clinical Evidence and Molecular Mechanisms",
+      "summary": "Review examining stinging nettle among other medicinal plants for kidney stone prevention, highlighting its antiurolithiatic properties and traditional use in urinary tract disease management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29518971/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutraceutical treatment and prevention of benign prostatic hyperplasia and prostate cancer",
+      "summary": "Review identifying Urtica dioica as one of the most studied medicinal plants for prostate diseases alongside Serenoa repens and Pygeum africanum, demonstrating anti-androgenic, anti-estrogenic, antiproliferative, antioxidant and anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31577095/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Stinging Nettle (Urtica dioica): An Unusual Case of Galactorrhea",
+      "summary": "Case report of a 30-year-old woman who developed galactorrhea after consuming stinging nettle supplements, suggesting potential effects on prolactin levels and highlighting the need for awareness of unintended hormonal effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34876549/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "In Vitro Bioactivities of Food Grade Extracts from Yarrow and Stinging Nettle Leaves",
+      "summary": "Study tested food-grade optimized extracts of Finnish stinging nettle for bioactive properties, demonstrating potential applications in functional foods and supplements with effects on bacterial growth and bioactive compound content.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36370293/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of dietary stinging nettle (Urtica dioica) on hormone stress and selected serum biochemical parameters of broilers subjected to chronic heat stress",
+      "summary": "Study showed that dietary supplementation with 2-4% stinging nettle reduced serum cortisol, total cholesterol, and improved stress response in heat-stressed broilers, suggesting potential stress-modulating and anti-inflammatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35023316/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Urtica dioica (Stinging Nettle): A Neglected Plant With Emerging Growth Promoter/Immunostimulant Properties for Farmed Fish",
+      "summary": "Review highlighting stinging nettle's potential as a cost-effective dietary supplement for enhancing growth and stimulating immunity in farmed fish, with emerging evidence of immunostimulant properties despite being traditionally considered a weed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29632497/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Users report mixed experiences with stinging nettle, with many finding it helpful for histamine issues, allergies, and prostate health when combined with other supplements, though some report it doesn't work as a standalone treatment. Common consensus is that it's generally well-tolerated with minimal side effects, but effectiveness varies significantly between individuals and depends heavily on proper dosing and combination with other supplements."
+  },
+  "effects": [
+    {
+      "label": "Combination Synergy:",
+      "description": "Most effective when used in combination with other supplements (quercetin for histamine, saw palmetto for prostate) rather than as a standalone supplement"
+    },
+    {
+      "label": "Histamine Modulation:",
+      "description": "Mixed results for histamine intolerance - some users find relief while others report no benefit, suggesting individual variation in response"
+    },
+    {
+      "label": "Prostate Support:",
+      "description": "Generally positive feedback when used in prostate health formulas, particularly for reducing frequent urination, though clinical evidence shows milder results than pharmaceutical options"
+    },
+    {
+      "label": "Nutrient Density:",
+      "description": "Research confirms high mineral content (calcium, iron, potassium, magnesium) and bioactive compounds, supporting use as a nutritional supplement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Allergic Rhinitis:",
+      "description": "600mg dried nettle leaf per day taken in three divided doses based on clinical research"
+    },
+    {
+      "label": "Prostate Health:",
+      "description": "360mg aqueous root extract daily in 3 divided doses for up to 6 months, or up to 1,200mg methanol root extract daily"
+    },
+    {
+      "label": "Tea Preparation:",
+      "description": "Users report success with nettle tea/infusions for histamine and general health support, though specific concentrations vary"
+    },
+    {
+      "label": "Supplement Stacks:",
+      "description": "Commonly included at 200-400mg in combination prostate formulas alongside saw palmetto and pygeum"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Topical Reactions:",
+      "description": "Can cause urticaria (hives) when applied topically; one case report of allergic skin rash in breastfed infant when applied to mother's nipple"
+    },
+    {
+      "label": "Hormonal Effects:",
+      "description": "Case report of galactorrhea (unexpected milk production) suggests potential effects on prolactin levels"
+    },
+    {
+      "label": "Gastrointestinal:",
+      "description": "Generally well-tolerated orally, with minimal reported digestive issues in user experiences"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Should be used cautiously with anticoagulants and in pregnancy/breastfeeding; avoid topical application while nursing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in various forms including dried leaf powder, root extract, teas, and combination supplements at health food stores and online retailers"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "As a dietary supplement, not subject to extensive FDA pre-market approval; users recommend choosing products from reputable manufacturers with third-party testing"
+    },
+    {
+      "label": "Dosage Forms:",
+      "description": "Available as capsules, tablets, tinctures, dried herb for tea, and fresh leaves for juice preparation (wild harvesting requires proper plant identification)"
+    }
+  ],
+  "related": [
+    {
+      "name": "SANDALWOOD",
+      "slug": "sandalwood"
+    },
+    {
+      "name": "Kratom",
+      "slug": "kratom"
+    },
+    {
+      "name": "OLIVE LEAF EXTRACT",
+      "slug": "olive-leaf-extract"
+    },
+    {
+      "name": "REHMANNIA",
+      "slug": "rehmannia"
+    },
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    }
+  ]
+}

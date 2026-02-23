@@ -1,0 +1,155 @@
+{
+  "slug": "magnesium-orotate",
+  "url": "https://dopamine.club/substances/magnesium-orotate/",
+  "scrapedAt": "2026-02-12T16:09:23.970Z",
+  "title": "MAGNESIUM OROTATE",
+  "description": "Magnesium orotate is a magnesium salt of orotic acid that provides both magnesium supplementation and metabolic support through orotic acid's role in pyrimidine biosynthesis. Unlike readily dissociable magnesium salts, it has minimal laxative effects and may enhance cellular ATP and energy-rich phosphate production. It is primarily studied for cardiovascular health, depression, and conditions involving magnesium deficiency or metabolic stress.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Probiotics and magnesium orotate for the treatment of major depressive disorder: a randomised double blind controlled trial",
+      "summary": "A combination of probiotics, magnesium orotate, and coenzyme Q10 significantly reduced major depressive episodes over 8 weeks compared to placebo, with additional benefits for anxiety and stress symptoms in 120 adults with MDD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39242786/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A combination of probiotics and magnesium orotate attenuate depression in a small SSRI resistant cohort: an intestinal anti-inflammatory response is suggested",
+      "summary": "In 12 SSRI-resistant depression patients, adding probiotics and magnesium orotate to standard treatment resulted in clinically significant improvements in depression scores and quality of life, possibly through intestinal anti-inflammatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28155119/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Magnesium orotate in severe congestive heart failure (MACH)",
+      "summary": "In 79 patients with severe heart failure (NYHA IV), magnesium orotate treatment for one year improved survival rate to 75.7% versus 51.6% with placebo and improved clinical symptoms in 38.5% of patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19367681/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of magnesium orotate on exercise tolerance in patients with coronary heart disease",
+      "summary": "In 14 coronary heart disease patients, magnesium orotate treatment significantly decreased left ventricular end-systolic volume, increased ejection fraction, and improved exercise duration compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9794089/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Magnesium orotate--experimental and clinical evidence",
+      "summary": "Magnesium orotate is poorly soluble in water and lacks laxative effects unlike other magnesium salts, while orotic acid improves myocardial energy status by stimulating glycogen and ATP synthesis, making it particularly useful for magnesium depletion in cardiac patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16366126/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Magnesium Orotate, Benfotiamine and a Combination of Vitamins on Mitochondrial and Cholinergic Function in the TgF344-AD Rat Model of Alzheimer's Disease",
+      "summary": "A combination containing magnesium orotate restored mitochondrial complex I and oxidative phosphorylation deficits in Alzheimer's disease model rats, though effects in wild-type rats were minimal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34959619/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Meta-analysis of clinical trials of cardiovascular effects of magnesium orotate",
+      "summary": "Meta-analysis of 19 randomized trials (1,190 total patients) found magnesium orotate significantly reduced risks of hypomagnesemia and various cardiovascular conditions when taken at average doses of 1,878 mg/day for 4.2 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26281202/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Magnesium Orotate and the Microbiome-Gut-Brain Axis Modulation: New Approaches in Psychological Comorbidities of Gastrointestinal Functional Disorders",
+      "summary": "Review article discusses magnesium orotate's potential as adjuvant therapy for gastrointestinal disorders with psychological comorbidities through modulation of the gut-brain axis and effects on dysbiosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35458129/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User feedback is extremely limited for magnesium orotate specifically, with most magnesium discussions focusing on other forms like glycinate or threonate. The compound appears underutilized and under-discussed in supplement communities despite strong clinical research, suggesting limited real-world user experiences are available."
+  },
+  "effects": [
+    {
+      "label": "Depression Treatment:",
+      "description": "Demonstrated significant efficacy in both general MDD and SSRI-resistant depression when combined with probiotics, with benefits appearing within 4-8 weeks"
+    },
+    {
+      "label": "Cardiac Conditions:",
+      "description": "Particularly effective for severe congestive heart failure (75% vs 52% survival), coronary heart disease, and improving exercise capacity in cardiac patients"
+    },
+    {
+      "label": "Superior Bioavailability:",
+      "description": "Orotic acid component acts as a 'magnesium-fixing agent' by providing ATP binding sites, potentially improving intracellular magnesium retention"
+    },
+    {
+      "label": "Combination Benefits:",
+      "description": "Works synergistically with probiotics for mental health applications and shows enhanced effects when combined with other metabolic cofactors"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Cardiovascular Dose:",
+      "description": "3,000-6,000 mg daily (typically 6,000 mg for first month, then 3,000 mg maintenance) used in heart failure studies"
+    },
+    {
+      "label": "Depression Protocol:",
+      "description": "Part of combination therapy with probiotics, specific magnesium orotate doses in studies ranged from standard supplemental amounts"
+    },
+    {
+      "label": "Duration:",
+      "description": "Clinical trials typically ran 8 weeks to 12 months, with benefits appearing within 4 weeks for depression and sustained over long-term use for cardiac conditions"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "EFSA notes that 6,100 mg/day provides approximately 400 mg elemental magnesium, which exceeds the 250 mg/day UL for supplemental magnesium alone"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal GI Effects:",
+      "description": "Unlike readily dissociable magnesium salts, does not bind gastric acid significantly and exhibits minimal laxative effects due to poor water solubility"
+    },
+    {
+      "label": "Orotic Acid Concerns:",
+      "description": "High doses (5,000 mg/day orotic acid from 6,100 mg magnesium orotate) may exceed recommended limits, though clinical trials showed good tolerability"
+    },
+    {
+      "label": "Limited Adverse Events:",
+      "description": "Clinical trials report minimal side effects, with most studies noting good tolerance even at high doses over extended periods"
+    },
+    {
+      "label": "Magnesium Excess:",
+      "description": "Potential for exceeding upper limits when using therapeutic doses, though this appears well-tolerated in cardiac patient populations"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Clinical vs Retail:",
+      "description": "Widely used in European clinical settings (particularly Germany and Russia) but less commonly available or discussed in US supplement markets compared to magnesium glycinate or threonate"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Recognized as a novel food by EFSA with safety evaluations completed, though concerns noted about exceeding supplemental magnesium upper limits at therapeutic doses"
+    },
+    {
+      "label": "Limited Consumer Awareness:",
+      "description": "Despite strong clinical evidence, appears underutilized in general supplement communities with minimal User feedback compared to other magnesium forms"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "D-RIBOSE",
+      "slug": "d-ribose"
+    },
+    {
+      "name": "DAIDZEIN",
+      "slug": "daidzein"
+    }
+  ]
+}

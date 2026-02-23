@@ -1,0 +1,119 @@
+{
+  "slug": "hgh-fragment-176-191",
+  "url": "https://dopamine.club/substances/hgh-fragment-176-191/",
+  "scrapedAt": "2026-02-12T16:08:23.151Z",
+  "title": "HGH FRAGMENT 176-191",
+  "description": "HGH Fragment 176-191 is a synthetic peptide consisting of amino acids 176-191 from the C-terminal region of human growth hormone. Research indicates it produces hyperglycemic effects and reduces insulin sensitivity, though it is commonly used off-label for lipolysis (fat burning) purposes. The peptide requires the correct amino acid sequence and physical configuration to maintain biological activity.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Human Growth Hormone Fragment 176-191 Peptide Enhances the Toxicity of Doxorubicin-Loaded Chitosan Nanoparticles Against MCF-7 Breast Cancer Cells",
+      "summary": "This 2022 study investigated HGH Fragment 176-191 in combination with doxorubicin-loaded nanoparticles, finding enhanced cytotoxic effects against MCF-7 breast cancer cells, suggesting potential applications in cancer treatment research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35783198/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hyperglycemic action of synthetic C-terminal fragments of human growth hormone",
+      "summary": "This 1978 study demonstrated that HGH fragments 172-191 through 178-191 produced short-lived increases in blood glucose and sustained rises in plasma insulin, while also significantly reducing insulin sensitivity in rats at a dose of 5 nmol/kg body weight.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/645904/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "Users express significant concerns about Fragment 176-191, with most discussions focusing on product quality issues (peptides not dissolving), questionable sourcing, and minimal standalone effectiveness. The peptide is often dismissed or criticized when mentioned in broader discussions, with users labeling certain practices involving it as 'junkie-level stupidity' and questioning the legitimacy of products containing it."
+  },
+  "effects": [
+    {
+      "label": "Questionable Results:",
+      "description": "Users rarely report concrete fat loss results from Fragment 176-191 specifically, with most positive weight loss outcomes attributed to other compounds in their stacks"
+    },
+    {
+      "label": "Dosing Challenges:",
+      "description": "Multiple users struggle with proper reconstitution and calculating accurate doses, indicating practical implementation difficulties"
+    },
+    {
+      "label": "Research-Practice Gap:",
+      "description": "While marketed for fat loss, research actually demonstrates hyperglycemic and insulin-reducing effects rather than direct lipolytic benefits"
+    },
+    {
+      "label": "Preference for Alternatives:",
+      "description": "Experienced users often recommend alternatives like CJC-1295, Tesamorelin, or actual GH secretagogues over Fragment 176-191, suggesting limited confidence in its effectiveness"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Range:",
+      "description": "Users report doses of 100-250 mcg injected 1-2 times daily, though some protocols mention up to 250mg (likely an error or confusion with mcg)"
+    },
+    {
+      "label": "Timing Protocol:",
+      "description": "Most commonly administered before bed or upon waking, with some users splitting doses throughout the day"
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Users typically plan 8-12 week cycles when Fragment 176-191 is included in peptide protocols"
+    },
+    {
+      "label": "Combination Use:",
+      "description": "Rarely used alone; typically combined with other peptides like Ipamorelin, CJC-1295/MOD GRF 1-29 in mixed preparations at 5mg ratios"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Dissolution Issues:",
+      "description": "Multiple users report peptides not fully dissolving in bacteriostatic water, leaving residues or particles that raise safety concerns"
+    },
+    {
+      "label": "Appetite Changes:",
+      "description": "Some users report appetite returning and bloating when using Fragment 176-191 in combination with other compounds"
+    },
+    {
+      "label": "Blood Sugar Effects:",
+      "description": "Research indicates hyperglycemic action and reduced insulin sensitivity, though users don't commonly report monitoring these parameters"
+    },
+    {
+      "label": "Product Quality Concerns:",
+      "description": "Users report potential selective scamming and empty vials from certain suppliers, particularly European gray-market sources"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Gray Market Sourcing:",
+      "description": "Fragment 176-191 is primarily available through gray-market peptide suppliers, often in pre-mixed combinations with other peptides"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users express significant skepticism about product authenticity and purity, with recommendations to avoid 'sketchy sites' and stick with more reliable suppliers"
+    },
+    {
+      "label": "Legal Ambiguity:",
+      "description": "Users in Europe question the legality of ordering peptides online without prescriptions, with uncertainty about customs clearance and regulatory status"
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "CAGRILINTIDE",
+      "slug": "cagrilintide"
+    },
+    {
+      "name": "CAGRISEMA",
+      "slug": "cagrisema"
+    }
+  ]
+}

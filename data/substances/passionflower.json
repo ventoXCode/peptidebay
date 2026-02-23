@@ -1,0 +1,149 @@
+{
+  "slug": "passionflower",
+  "url": "https://dopamine.club/substances/passionflower/",
+  "scrapedAt": "2026-02-12T16:10:30.994Z",
+  "title": "PASSIONFLOWER",
+  "description": "Passionflower (Passiflora incarnata) is a botanical supplement traditionally used for relief of mental stress, anxiety, and sleep disorders. It appears to work through GABAergic mechanisms, potentially acting as a GABA receptor agonist or modulator, which produces calming and anxiolytic effects. The above-ground plant material contains flavonoids and other bioactive compounds that contribute to its sedative and stress-reducing properties.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Nip it in the Bud: Botanicals for Anxiety - a Practical Prescriber's Guide",
+      "summary": "Review of botanical medicines for anxiety found passionflower to be possibly safe and possibly effective for treating anxiety disorders, though lavender appeared to have better available evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36048322/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutritional and herbal supplements for anxiety and anxiety-related disorders: systematic review",
+      "summary": "Systematic review examined herbal supplements for anxiety including passionflower, finding interest in natural anxiolytic treatments with lower risk of adverse effects compared to prescription medications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20929532/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Herbal and dietary supplements for treatment of anxiety disorders",
+      "summary": "Review found small or inconsistent effects for passionflower in anxiety treatment studies, with physicians advised not to encourage its use based on limited evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17853630/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Formulations of dietary supplements and herbal extracts for relaxation and anxiolytic action: Relarian",
+      "summary": "Review discusses passionflower as an anxiolytic agent reported to reduce insomnia and hysteria, likely acting through GABA receptor mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19865069/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Medicinal Plants for Child Mental Health: Clinical Insights, Active Compounds, and Perspectives for Rational Use",
+      "summary": "Evaluation of herbal medicines including passionflower for mental health symptoms in children and adolescents, exploring pharmacological basis of activity for anxiety and mood disturbances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41007011/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Is It Possible to Mitigate Fear of Fireworks in Dogs? A Study on the Behavioural and Physiological Effects of a Psychoactive Supplement",
+      "summary": "Randomized controlled study found a supplement containing tryptophan, valerian, and passiflora helped reduce fear responses in dogs exposed to fireworks after long-term treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38612264/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Passionflower (Passiflora incarnata): Quality of Food Supplements Versus Registered Herbal Medicinal Products",
+      "summary": "Quality analysis revealed significant differences between food supplements and registered medicinal products, with five food supplements failing identity tests while registered products met specifications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40245939/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 52,
+    "summary": "User experiences with passionflower are genuinely divided. While some users report it works well for relaxation and sleep when combined with other supplements, many specifically list it among supplements that didn't work for them or caused unpleasant effects like nightmares and strange sensations."
+  },
+  "effects": [
+    {
+      "label": "Inconsistent Results:",
+      "description": "Passionflower frequently appears on user lists of supplements that 'do not work' alongside valerian and chamomile"
+    },
+    {
+      "label": "Better in Combinations:",
+      "description": "Most positive reports involve passionflower as part of multi-ingredient formulas rather than as a standalone supplement"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Research shows significant quality variation between brands, with many food supplements failing identity tests"
+    },
+    {
+      "label": "Modest Evidence:",
+      "description": "Scientific literature describes effects as 'small or inconsistent' with physicians advised not to encourage use based on current evidence"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Extract Forms:",
+      "description": "Users typically encounter passionflower in pre-formulated blends rather than standalone products with specific dosing"
+    },
+    {
+      "label": "Tincture Format:",
+      "description": "One user mentions using a passionflower tincture as part of their daily routine alongside other supplements"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Commonly found in drinks and supplements at 50mg extract alongside L-theanine, valerian, and other calming herbs"
+    },
+    {
+      "label": "Avoid Excessive Use:",
+      "description": "Users warn against taking too much for too many consecutive days due to nightmare and psychological side effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Nightmares and Disturbing Dreams:",
+      "description": "Multiple users report 'horrific nightmares' when taking passionflower, especially at higher doses or for consecutive days"
+    },
+    {
+      "label": "Psychological Effects:",
+      "description": "Reports of feeling 'weird as hell' and strange sensations that some users find unpleasant"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Noted as contraindicated with psychiatric medications and may interact with antipsychotics"
+    },
+    {
+      "label": "Psychosis Concerns:",
+      "description": "One user specifically questioned whether passionflower in their stack could be triggering psychotic symptoms"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in many over-the-counter sleep and anxiety formulas at supplement stores and online retailers"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "Research shows significant quality differences between food supplements and registered medicinal products, with many failing purity tests"
+    },
+    {
+      "label": "Combination Formulas:",
+      "description": "Most commonly encountered in pre-made stacks with other calming herbs rather than as isolated supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    },
+    {
+      "name": "LEMON BALM",
+      "slug": "lemon-balm"
+    },
+    {
+      "name": "MAGNOLIA BARK",
+      "slug": "magnolia-bark"
+    },
+    {
+      "name": "SCUTELLARIA",
+      "slug": "scutellaria"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    }
+  ]
+}

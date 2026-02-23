@@ -1,0 +1,120 @@
+{
+  "slug": "chlorella",
+  "url": "https://dopamine.club/substances/chlorella/",
+  "scrapedAt": "2026-02-12T16:06:39.764Z",
+  "title": "CHLORELLA",
+  "description": "Chlorella is a genus of green unicellular algae rich in chlorophyll, proteins, and essential micronutrients like Vitamin B12 and D. It works by inhibiting the intestinal absorption of dietary lipids and promoting the detoxification of heavy metals, primarily used to support cardiovascular health and nutritional density.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effect of Chlorella supplementation on cardiovascular risk factors: A meta-analysis of randomized controlled trials",
+      "summary": "A meta-analysis of 19 trials found that Chlorella significantly reduces total cholesterol, LDL-C, blood pressure, and fasting blood glucose, particularly at doses above 4g/day.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29037536/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of daily Chlorella consumption on serum lipid and carotenoid profiles in mildly hypercholesterolemic adults: a double-blinded, randomized, placebo-controlled study",
+      "summary": "Daily intake of 5g of Chlorella led to significant reductions in triglycerides and improvements in serum carotenoid levels, suggesting a lipid-lowering effect.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24920270/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potential of Chlorella as a Dietary Supplement to Promote Human Health",
+      "summary": "This review highlights Chlorella's unique ability to provide plant-based B12 and D vitamins while supporting immune function and anti-aging through antioxidant properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32825362/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beneficial effect of Chlorella pyrenoidosa drink on healthy subjects: A randomized, placebo-controlled, double-blind, cross-over clinical trial",
+      "summary": "Clinical evidence suggests that Chlorella drinks can provide metabolic benefits and support general wellness in healthy individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33818833/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users generally view Chlorella as a high-quality 'superfood' staple for detoxing and anti-aging, though they express significant concerns regarding heavy metal contamination and the need for third-party testing."
+  },
+  "effects": [
+    {
+      "label": "Cardiovascular Health:",
+      "description": "Most effective when taken at doses higher than 4g/day for at least 8 weeks."
+    },
+    {
+      "label": "Aesthetic Benefits:",
+      "description": "Users include it in stacks for 'anti-aging aesthetics' to improve skin elasticity and health."
+    },
+    {
+      "label": "Industrial Recovery:",
+      "description": "Reported as effective for physical recovery in workers with high-stress, physical factory jobs."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Standard:",
+      "description": "4g to 5g per day is the most commonly researched dose for significant lipid and blood pressure improvements."
+    },
+    {
+      "label": "Starter Dose:",
+      "description": "Users often start with smaller amounts (1-2g) to assess digestive tolerance."
+    },
+    {
+      "label": "Consistent Routine:",
+      "description": "Long-term daily intake (8+ weeks) is required for measurable cardiovascular changes."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Upset:",
+      "description": "Some users report mild bloating or changes in bowel movements when first starting."
+    },
+    {
+      "label": "Contamination Risk:",
+      "description": "High risk of heavy metal accumulation if the algae is grown in polluted waters."
+    },
+    {
+      "label": "Sensitive Interactions:",
+      "description": "May interact with blood-thinning medications due to high Vitamin K content."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Concerns:",
+      "description": "Users prioritize brands like NOW or Sun Chlorella that provide 3rd-party verification for purity."
+    },
+    {
+      "label": "Form Factors:",
+      "description": "Widely available in tablets, powder, and increasingly in concentrated liquid/drink forms."
+    },
+    {
+      "label": "Quality Tiering:",
+      "description": "Generally considered a mid-to-high priced supplement when opting for verified, heavy-metal-free sources."
+    }
+  ],
+  "related": [
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    },
+    {
+      "name": "CHAGA MUSHROOM",
+      "slug": "chaga-mushroom"
+    },
+    {
+      "name": "CISTANCHE",
+      "slug": "cistanche"
+    },
+    {
+      "name": "ECHINACEA",
+      "slug": "echinacea"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    }
+  ]
+}

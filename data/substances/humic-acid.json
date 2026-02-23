@@ -1,0 +1,125 @@
+{
+  "slug": "humic-acid",
+  "url": "https://dopamine.club/substances/humic-acid/",
+  "scrapedAt": "2026-02-12T16:08:33.832Z",
+  "title": "HUMIC ACID",
+  "description": "Humic acid is a complex organic compound derived from the decomposition of plant and animal matter through a process called humification. It exhibits antioxidant, anti-inflammatory, chelating, and adsorption properties, working by binding to toxins and heavy metals while modulating immune responses. Primarily used for detoxification, gastrointestinal support, and as an antiviral and anti-inflammatory agent.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Therapeutic Efficiency of Humic Acids in Intoxications",
+      "summary": "Review demonstrating humic acids' effectiveness in detoxification through chelating properties, ability to bind heavy metals and mycotoxins, and antioxidant capacity in treating various intoxications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37109500/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical review of humic acid as an antiviral: Leadup to translational applications in clinical humeomics",
+      "summary": "Clinical review establishing humic substances' antiviral properties and potential therapeutic applications, introducing the field of clinical humeomics for healthcare providers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36712657/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Antiinflammatory Properties of Humic Substances: A Mini Review",
+      "summary": "Mini review examining the anti-inflammatory mechanisms of humic substances and their therapeutic potential in inflammatory conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25732236/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "Limited user experience data available for comprehensive sentiment analysis. Current evidence suggests potential benefits but lacks substantial user feedback to establish clear consensus on effectiveness and practical use."
+  },
+  "effects": [
+    {
+      "label": "Heavy Metal Chelation:",
+      "description": "Strong evidence for binding and removing heavy metals from the body through polyelectrolyte properties"
+    },
+    {
+      "label": "Gastrointestinal Support:",
+      "description": "Effective for treating digestive tract conditions and binding toxins in the gut"
+    },
+    {
+      "label": "Immune Modulation:",
+      "description": "Shows promise in modulating immune responses and supporting overall immunity"
+    },
+    {
+      "label": "Broad Therapeutic Range:",
+      "description": "Applications span from detoxification to anti-inflammatory and antiviral uses"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Variable Dosing:",
+      "description": "Dosage depends on source, concentration, and intended use; no standardized human dosing established"
+    },
+    {
+      "label": "Product-Specific:",
+      "description": "Different formulations (liquid, powder, capsule) require manufacturer-specific dosing guidelines"
+    },
+    {
+      "label": "Veterinary Use:",
+      "description": "Well-established dosing protocols exist for livestock and animal applications"
+    },
+    {
+      "label": "Clinical Context:",
+      "description": "Therapeutic dosing should be determined based on specific condition being treated"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Research indicates humic acids are generally safe with minimal reported adverse effects"
+    },
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Potential for mild digestive changes when first starting supplementation"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Variability in product purity and composition may affect safety and efficacy"
+    },
+    {
+      "label": "Limited Long-term Data:",
+      "description": "Insufficient human research on extended use and potential long-term effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in various forms including supplements, soil amendments, and agricultural products"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Significant differences in purity, molecular weight, and composition between sources and brands"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally considered safe for agricultural and veterinary use; human supplement use less regulated"
+    }
+  ],
+  "related": [
+    {
+      "name": "ROSMARINIC ACID",
+      "slug": "rosmarinic-acid"
+    },
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "FERULIC ACID",
+      "slug": "ferulic-acid"
+    },
+    {
+      "name": "FULVIC ACID",
+      "slug": "fulvic-acid"
+    },
+    {
+      "name": "OLEIC ACID",
+      "slug": "oleic-acid"
+    }
+  ]
+}

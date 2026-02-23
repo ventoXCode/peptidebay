@@ -1,0 +1,131 @@
+{
+  "slug": "sodium-bicarbonate",
+  "url": "https://dopamine.club/substances/sodium-bicarbonate/",
+  "scrapedAt": "2026-02-12T16:11:21.045Z",
+  "title": "SODIUM BICARBONATE",
+  "description": "Sodium bicarbonate (baking soda) is an alkaline compound that buffers acid accumulation in muscles during high-intensity exercise by increasing blood bicarbonate levels. It acts as an extracellular buffer, helping delay fatigue by neutralizing hydrogen ions produced during anaerobic metabolism. Primarily used as an ergogenic aid for short-duration, high-intensity exercise lasting 30 seconds to 12 minutes.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "International Society of Sports Nutrition Position Stand: Sodium Bicarbonate and Exercise Performance",
+      "summary": "Comprehensive review confirming that 0.2-0.5 g/kg sodium bicarbonate improves performance in muscular endurance, combat sports, and high-intensity activities lasting 30 seconds to 12 minutes. Optimal single dose is 0.3 g/kg taken 60-180 minutes before exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34479516/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Sodium Bicarbonate Supplementation on Exercise Performance: An Umbrella Review",
+      "summary": "Meta-analysis of systematic reviews showing sodium bicarbonate significantly improves performance in single and multiple-bout high-intensity exercise across various sports and activities in both men and women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34774096/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sodium Bicarbonate Ingestion in a Fasted State Improves 16.1-km Cycling Time Trial Performance",
+      "summary": "Study found that 0.3 g/kg sodium bicarbonate in both gelatin and enteric capsules improved 16.1-km time trial performance by approximately 34-40 seconds compared to placebo, with enteric capsules causing fewer gastrointestinal side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37505092/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Acute and Multi-Day Low-Dose Sodium Bicarbonate Intake on High-Intensity Endurance Exercise Performance",
+      "summary": "Research comparing acute versus multi-day protocols found that both 0.2 g/kg acute and 0.2 g/kg/day for four days increased blood bicarbonate concentrations, with multi-day supplementation showing trends toward improved time-to-exhaustion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38421463/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report noticeable performance improvements in high-intensity exercise and recovery, particularly for endurance activities. While gastrointestinal side effects are commonly mentioned, most users find the benefits worthwhile when dosing is optimized and timing is individualized."
+  },
+  "effects": [
+    {
+      "label": "Exercise Duration:",
+      "description": "Most effective for activities lasting 30 seconds to 12 minutes, with diminishing returns for longer duration efforts"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effectiveness varies significantly based on timing relative to peak alkalosis (60-180 minutes pre-exercise), which differs between individuals"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Clear dose-dependent effects with 0.3 g/kg appearing optimal for single-dose protocols; higher doses don't provide additional benefits"
+    },
+    {
+      "label": "Delivery Method:",
+      "description": "Enteric-coated capsules reduce gastrointestinal distress compared to gelatin capsules or powder while maintaining efficacy"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Single Dose Protocol:",
+      "description": "0.2-0.3 g/kg body weight taken 60-180 minutes before exercise, with 0.3 g/kg considered optimal"
+    },
+    {
+      "label": "Multi-Day Protocol:",
+      "description": "0.4-0.5 g/kg per day divided into smaller doses (0.1-0.2 g/kg at breakfast, lunch, dinner) for 3-7 days before competition"
+    },
+    {
+      "label": "Tolerance Testing:",
+      "description": "Users recommend testing individual time-to-peak alkalosis and GI tolerance 1-2 weeks before important events"
+    },
+    {
+      "label": "Lower Maintenance:",
+      "description": "Some users report success with 0.2 g/kg for general training while reserving higher doses for competitions"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Most commonly reported issue including bloating, cramping, nausea, and diarrhea, particularly at higher doses or with rapid consumption"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "GI symptoms vary significantly between individuals, with some tolerating powder while others require enteric capsules"
+    },
+    {
+      "label": "Timing Sensitivity:",
+      "description": "Taking on empty stomach or too close to exercise increases likelihood of stomach upset and performance impairment"
+    },
+    {
+      "label": "Dose-Dependent:",
+      "description": "Side effects increase substantially above 0.3 g/kg, with minimal additional performance benefit from higher doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily sourced as pure baking soda from grocery stores at minimal cost, though pharmaceutical-grade capsules are preferred by many athletes"
+    },
+    {
+      "label": "Cost-Effective:",
+      "description": "Among the least expensive sports supplements, with pure sodium bicarbonate costing pennies per dose compared to commercial electrolyte products"
+    },
+    {
+      "label": "Form Options:",
+      "description": "Available as powder, gelatin capsules, and enteric-coated capsules, with users reporting better tolerance from enteric formulations despite higher cost"
+    }
+  ],
+  "related": [
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    },
+    {
+      "name": "L-CARNOSINE",
+      "slug": "l-carnosine"
+    },
+    {
+      "name": "MK-3984",
+      "slug": "mk-3984"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    }
+  ]
+}

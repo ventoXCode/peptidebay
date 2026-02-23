@@ -1,0 +1,143 @@
+{
+  "slug": "acetyl-l-carnitine",
+  "url": "https://dopamine.club/substances/acetyl-l-carnitine/",
+  "scrapedAt": "2026-02-12T16:05:21.444Z",
+  "title": "ACETYL-L-CARNITINE",
+  "description": "Acetyl-L-Carnitine (ALCAR) is an acetylated form of L-carnitine that plays a crucial role in energy metabolism by facilitating the transport of fatty acids into mitochondria for ATP production. It exhibits neuroprotective, neurotrophic, and antioxidant properties, and has demonstrated benefits in neuroinflammation, cognitive function, mood disorders, and painful neuropathies. ALCAR has higher bioavailability than standard L-carnitine and can cross the blood-brain barrier more effectively, making it particularly valuable for neurological applications.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "The neurobiology of acetyl-L-carnitine",
+      "summary": "ALCAR demonstrates neuroprotective, neurotrophic, antidepressive and analgesic effects in painful neuropathies, with antioxidant and anti-apoptotic activity. It shows promise in treating aging and neurodegenerative conditions by slowing mental deterioration and affecting synaptic transmission through gene expression modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27100509/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carnitine and Depression",
+      "summary": "Multiple studies show that acylcarnitine levels change significantly in depression patients compared to controls, and acetyl-L-carnitine supplementation appears beneficial for depression treatment. Evidence suggests relationships between carnitine and various mental health conditions including bipolar disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35369081/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Palmitoylethanolamide and acetyl-L-carnitine act synergistically with duloxetine and pregabalin in fibromyalgia: results of a randomised controlled study",
+      "summary": "A 24-week study found that adding PEA and acetyl-L-carnitine to existing fibromyalgia treatments (pregabalin and duloxetine) significantly improved pain scores and disease severity compared to continuing standard treatment alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37378482/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of diet and non-pharmacologic supplements in the treatment of chronic neuropathic pain: A systematic review",
+      "summary": "Systematic review examining dietary interventions and nutritional supplements for chronic neuropathic pain management, finding that certain supplements including acetyl-L-carnitine show promise where current pharmacological treatments are poorly tolerated or ineffective.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37654090/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Acetyl-l-carnitine is an anti-angiogenic agent targeting the VEGFR2 and CXCR4 pathways",
+      "summary": "Research demonstrates that ALCAR exhibits anti-angiogenic properties by targeting specific cellular pathways, suggesting potential protective roles against cancer beyond its metabolic functions. Studies showed decreased carnitine levels in prostate cancer patients, indicating possible protective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29678548/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutritional Interventions in the Management of Fibromyalgia Syndrome",
+      "summary": "Review examining nutritional approaches to fibromyalgia management, finding that while the role of dietary supplements remains controversial, clinical trials with certain supplements including acetyl-L-carnitine show promising results for symptom management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32825400/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User experiences with ALCAR are genuinely divided, with many reporting significant benefits for energy, mental clarity, and mood, particularly when combined with other supplements. However, a substantial portion of users report negligible effects, side effects like fishy body odor, or find oral bioavailability too poor to justify continued use without injection."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Oral ALCAR has poor bioavailability (less than 20%), with many users noting that intramuscular injection (500mg) is far more effective than high oral doses (4000mg+)"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Responses are highly variable - some users experience dramatic benefits while others notice no difference even after consistent use for months"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "ALCAR appears more effective when combined with other supplements like CoQ10, PQQ, R-lipoic acid, or as part of comprehensive stacks rather than standalone use"
+    },
+    {
+      "label": "Timeline for Effects:",
+      "description": "Benefits may take time to manifest as compounds bioaccumulate, with some users needing several weeks of consistent use before noticing improvements"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Oral Dose:",
+      "description": "500-1000mg taken 1-2 times daily is most commonly reported, often taken pre-workout or in the morning for energy benefits"
+    },
+    {
+      "label": "High Dose Protocol:",
+      "description": "Some users report taking up to 4000mg orally to compensate for poor bioavailability, though this is expensive and may cause side effects"
+    },
+    {
+      "label": "Injectable Dose:",
+      "description": "500-1000mg intramuscular injection daily reported as highly effective alternative to oral supplementation by experienced users"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "Several users suggest cycling ALCAR rather than continuous daily use, particularly when combined with other nootropics to prevent tolerance"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Fishy Body Odor:",
+      "description": "Most commonly reported side effect is a distinctive fishy smell in sweat, breath, and urine, which can be socially problematic and cause discontinuation"
+    },
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Some users report stomach upset, nausea, or increased appetite/overeating when taking ALCAR, particularly at higher doses"
+    },
+    {
+      "label": "Libido Changes:",
+      "description": "Mixed reports on sexual effects - some users report increased libido and stronger erections, while others note no change or negative impacts"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "When taken too late in the day, some users report restlessness or difficulty sleeping due to increased energy levels"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "ALCAR is readily available from numerous supplement retailers, with powder form being more cost-effective than capsules despite taste issues"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of quality sources; powder form is often criticized for poor taste, so capsules are recommended for palatability"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Powder form costs approximately 70 cents per serving in bulk, making it relatively affordable, though injectable forms require compounding or prescription access"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "APOAEQUORIN",
+      "slug": "apoaequorin"
+    }
+  ]
+}

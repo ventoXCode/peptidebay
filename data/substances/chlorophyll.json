@@ -1,0 +1,143 @@
+{
+  "slug": "chlorophyll",
+  "url": "https://dopamine.club/substances/chlorophyll/",
+  "scrapedAt": "2026-02-12T16:06:41.091Z",
+  "title": "CHLOROPHYLL",
+  "description": "Chlorophyll is the green pigment found in plants that enables photosynthesis and is structurally similar to hemoglobin in human blood. As a dietary supplement, chlorophyll (often as chlorophyllin or from sources like Chlorella and Spirulina) is consumed for its antioxidant properties, potential detoxification effects, and various health benefits including immune support and anti-inflammatory effects.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Enhancing Health Benefits through Chlorophylls and Chlorophyll-Rich Agro-Food: A Comprehensive Review",
+      "summary": "Comprehensive review of chlorophyll's health benefits including antioxidant, anti-inflammatory, and potential therapeutic applications from chlorophyll-rich foods and supplements.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37513218/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chlorella",
+      "summary": "Chlorella (a chlorophyll-rich microalgae) contains nutrients including carotenes, protein, vitamins, and chlorophyll; generally well tolerated but can cause gastrointestinal symptoms and is safe during breastfeeding.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30000882/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chlorophyll Supplementation in Early Life Prevents Diet-Induced Obesity and Modulates Gut Microbiota in Mice",
+      "summary": "Study found that chlorophyll supplementation effectively retarded weight gain, improved glucose tolerance, reduced inflammation, and modulated gut microbiota in high-fat diet-fed mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31338957/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Microalgae as food and supplement",
+      "summary": "Review of microalgae including Chlorella and Spirulina as nutrient-dense foods containing significant amounts of protein, chlorophyll, carotenoids, vitamins, and minerals with potential probiotic health-enhancing compounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1741951/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Food and drug industry applications of microalgae Spirulina platensis: A Review",
+      "summary": "Spirulina platensis, rich in chlorophyll and other nutrients (55-70% protein, minerals, vitamins), has been used as a nutritional supplement for decades including by NASA for astronauts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36720046/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic Application of Betalains: A Review",
+      "summary": "Review of natural food colorants including chlorophylls, noting their use in modern food manufacture and potential therapeutic applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32957510/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 60,
+    "summary": "User sentiment is mixed, with chlorophyll-containing supplements (green powders, Spirulina, Chlorella) receiving both praise for nutritional benefits and criticism for quality concerns including heavy metal contamination. Users generally prefer whole food sources over processed supplements."
+  },
+  "effects": [
+    {
+      "label": "Whole Food vs Supplements:",
+      "description": "Mediterranean and plant-rich diets emphasizing chlorophyll-containing vegetables show strongest evidence for health benefits"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Independent testing reveals some commercial green powders contain concerning levels of lead (2+ micrograms per serving) and heavy metals"
+    },
+    {
+      "label": "Microalgae Sources:",
+      "description": "Chlorella and Spirulina are well-studied chlorophyll sources with documented nutritional benefits and generally good safety profiles"
+    },
+    {
+      "label": "Lifestyle Integration:",
+      "description": "Effectiveness depends heavily on overall dietary patterns rather than supplementation alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Food Sources:",
+      "description": "Daily intake through leafy greens, vegetables, and microalgae as part of Mediterranean or plant-based diet patterns"
+    },
+    {
+      "label": "Chlorella Supplementation:",
+      "description": "Typically consumed as whole food supplement with monitoring for individual tolerance"
+    },
+    {
+      "label": "Green Powders:",
+      "description": "Single serving (10-12g) daily, though quality and contamination vary significantly by brand"
+    },
+    {
+      "label": "Spirulina:",
+      "description": "Used safely as nutritional supplement with doses varying based on product and individual needs"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Can cause nausea, diarrhea, abdominal cramping, flatulence, and green-colored stools"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Reported cases of asthma and anaphylaxis in sensitive individuals, particularly with Chlorella"
+    },
+    {
+      "label": "Photosensitivity:",
+      "description": "Increased sun sensitivity has been documented following chlorophyll ingestion"
+    },
+    {
+      "label": "Contamination Risks:",
+      "description": "Commercial supplements may contain heavy metals (lead) and quality varies widely between brands"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Sources:",
+      "description": "Widely available through leafy greens, vegetables, herbs, and whole food sources"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as liquid chlorophyll, chlorophyllin supplements, and in microalgae products (Chlorella, Spirulina)"
+    },
+    {
+      "label": "Quality Verification:",
+      "description": "Independent third-party testing recommended due to contamination concerns; whole food sources preferred over processed green powders"
+    }
+  ],
+  "related": [
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "CHLOROGENIC ACID",
+      "slug": "chlorogenic-acid"
+    },
+    {
+      "name": "CINNAMON EXTRACT",
+      "slug": "cinnamon-extract"
+    },
+    {
+      "name": "CYANIDIN",
+      "slug": "cyanidin"
+    }
+  ]
+}

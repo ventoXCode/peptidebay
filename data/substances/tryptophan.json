@@ -1,0 +1,155 @@
+{
+  "slug": "tryptophan",
+  "url": "https://dopamine.club/substances/tryptophan/",
+  "scrapedAt": "2026-02-12T16:11:55.419Z",
+  "title": "TRYPTOPHAN",
+  "description": "L-Tryptophan is an essential amino acid that serves as a precursor to serotonin and melatonin, playing a crucial role in mood regulation, sleep quality, and neurotransmitter synthesis. It works by crossing the blood-brain barrier where it converts to 5-HTP and subsequently to serotonin, influencing emotional well-being, sleep patterns, and stress response. Research supports its use for improving sleep quality, reducing anxiety and depression symptoms, and enhancing mood in healthy individuals.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "The impact of tryptophan supplementation on sleep quality: a systematic review, meta-analysis, and meta-regression",
+      "summary": "Meta-analysis found that tryptophan supplementation significantly reduced wake after sleep onset by 81 minutes per gram, with doses ≥1g showing superior effects compared to lower doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33942088/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A systematic review of the effect of L-tryptophan supplementation on mood and emotional functioning",
+      "summary": "Review of 11 RCTs showed that taking 0.14-3g of tryptophan daily effectively decreased anxiety and increased positive mood in healthy individuals, with four studies demonstrating significant improvements in negative feelings and happiness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32272859/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "How important is tryptophan in human health?",
+      "summary": "Comprehensive review highlighting tryptophan's crucial role in treating depression, sleep disorders, cognitive function, and anxiety through its relationship with serotonin and melatonin synthesis, while emphasizing its importance in the brain-gut axis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28799778/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tryptophan-enriched diet or 5-hydroxytryptophan supplementation given in a randomized controlled trial impacts social cognition on a neural and behavioral level",
+      "summary": "Randomized controlled trial demonstrated that tryptophan supplementation significantly improved social cognition, emotional understanding, and impulse control at both neural and behavioral levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34737364/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Diet on Sleep: A Narrative Review",
+      "summary": "Narrative review confirmed tryptophan's role in promoting sleep through increased serotonin production, with dietary tryptophan intake being one of the most studied nutrients for improving sleep quality.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32230944/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tryptophan catabolites from microbiota engage aryl hydrocarbon receptor and balance mucosal reactivity via interleukin-22",
+      "summary": "Study revealed that gut microbiota metabolize tryptophan into compounds that activate immune receptors and regulate intestinal inflammation, demonstrating tryptophan's role in the microbiota-gut-brain axis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23973224/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Involvement of the microbiota-gut-brain axis in chronic restraint stress: disturbances of the kynurenine metabolic pathway in both the gut and brain",
+      "summary": "Research showed that chronic stress disrupts tryptophan metabolism in both the gut and brain, highlighting the importance of the tryptophan-kynurenine pathway in stress-related neuropsychiatric disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33535879/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Inflammatory Depression-Mechanisms and Non-Pharmacological Interventions",
+      "summary": "Review discussed how inflammation alters tryptophan metabolism and contributes to depression, with tryptophan depletion being linked to reduced serotonin synthesis in inflammatory depression subtypes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33561973/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User experiences with tryptophan are genuinely split - many report significant improvements in sleep quality, anxiety reduction, and mood enhancement, while others experience side effects like poor sleep quality, GI issues, or find it energizing rather than calming. Effectiveness appears highly individual with timing and dosage being critical factors."
+  },
+  "effects": [
+    {
+      "label": "Timing Matters:",
+      "description": "Effectiveness heavily depends on when it's taken - some users need morning dosing due to energizing effects, while others require nighttime dosing for sleep benefits"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Research and users indicate that doses ≥1g are more effective than lower doses, with typical ranges of 500mg-3g showing varying results based on individual biochemistry"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Success rates are highly variable - some users report complete resolution of anxiety and sleep issues, while others experience no benefit or paradoxical effects"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Many users report better results when stacking tryptophan with magnesium, B-vitamins, or other sleep aids rather than using it alone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most users and studies utilize 500mg-2g daily, with research suggesting doses ≥1g are more effective for sleep improvements"
+    },
+    {
+      "label": "Timing Protocols:",
+      "description": "Common approaches include 500mg before bed for sleep, or morning dosing for mood support when energizing effects occur"
+    },
+    {
+      "label": "Empty Stomach:",
+      "description": "Users emphasize taking tryptophan away from protein sources to avoid amino acid competition for absorption"
+    },
+    {
+      "label": "Conservative Starting:",
+      "description": "Many recommend starting with 500mg and gradually increasing to assess individual response and avoid side effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disruption:",
+      "description": "Paradoxically, some users report insomnia, restless sleep, or early morning waking when taking tryptophan intended for sleep improvement"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "GI problems including acid reflux, GERD, nausea, and stomach discomfort are commonly reported, particularly with 5-HTP conversion"
+    },
+    {
+      "label": "Energizing/Stimulating:",
+      "description": "Multiple users describe feeling wired or anxious rather than calm, experiencing effects similar to SSRI medications"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Several users report that tryptophan stops working after weeks or months of consistent use, requiring breaks to restore effectiveness"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Tryptophan is easily accessible as an over-the-counter supplement in various brands and forms, with capsules being most common"
+    },
+    {
+      "label": "Dosage Limitations:",
+      "description": "Many commercial products contain only 500mg per capsule, requiring multiple pills to reach clinically effective doses, which can be costly"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users recommend choosing reputable brands and being aware that some formulations combine tryptophan with other ingredients that may affect tolerability"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Bromantane",
+      "slug": "bromantane"
+    },
+    {
+      "name": "EMOXYPINE",
+      "slug": "emoxypine"
+    },
+    {
+      "name": "GABA",
+      "slug": "gaba"
+    }
+  ]
+}

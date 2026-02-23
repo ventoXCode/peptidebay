@@ -1,0 +1,156 @@
+{
+  "slug": "creatine-monohydrate",
+  "url": "https://dopamine.club/substances/creatine-monohydrate/",
+  "scrapedAt": "2026-02-12T16:06:58.958Z",
+  "title": "CREATINE MONOHYDRATE",
+  "description": "Creatine monohydrate is a naturally occurring compound that enhances the body's ability to produce ATP (adenosine triphosphate), the primary energy currency of cells. It works by increasing phosphocreatine stores in muscles and brain tissue, providing rapid energy for high-intensity activities and supporting cellular energy metabolism. Primarily used for improving exercise performance, muscle growth, and cognitive function, it is one of the most researched and evidence-backed supplements available.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show?",
+      "summary": "Comprehensive review addressing safety and efficacy of creatine, confirming it as one of the most well-studied supplements with established benefits for muscle performance and minimal adverse effects when used appropriately.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33557850/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Creatine Supplementation on Brain Function and Health",
+      "summary": "Evidence shows creatine supplementation increases brain creatine stores and may improve cognitive function and memory, particularly in aging adults and during metabolic stress like sleep deprivation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35267907/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral creatine monohydrate supplementation improves brain performance: a double-blind, placebo-controlled, cross-over trial",
+      "summary": "Study found that 5g daily creatine supplementation for six weeks significantly improved working memory and intelligence test scores in young adults, demonstrating measurable cognitive benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14561278/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of creatine supplementation on memory in healthy individuals: a systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis of randomized controlled trials demonstrates that creatine supplementation has positive effects on memory performance in healthy individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35984306/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Creatine for Exercise and Sports Performance, with Recovery Considerations for Healthy Populations",
+      "summary": "Extensive review confirms creatine supplementation consistently improves performance in short-duration, high-intensity exercise and enhances training adaptations with minimal side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34199588/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Heads Up for Creatine Supplementation and its Potential Applications for Brain Health and Function",
+      "summary": "Review highlights emerging evidence for creatine's neuroprotective effects and potential benefits for cognitive function, mood, and brain health beyond athletic performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37368234/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Adverse effects of creatine supplementation: fact or fiction?",
+      "summary": "Comprehensive safety review found creatine supplementation is generally well-tolerated with few adverse effects, contradicting media reports of health risks while noting occasional gastrointestinal issues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10999421/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Creatine supplementation improves performance, but is it safe? Double-blind placebo-controlled study",
+      "summary": "Study evaluated 41 biochemical parameters and renal function markers, finding creatine supplementation caused no adverse events while improving performance and body weight in resistance training practitioners.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32597619/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report predominantly positive experiences with creatine, particularly noting improvements in gym performance, mental clarity, energy, and cognitive function. While some users experience side effects like sleep disturbances, bloating, or digestive issues, the majority find it effective and well-tolerated, with many considering it a foundational supplement in their stack."
+  },
+  "effects": [
+    {
+      "label": "High Efficacy for Most:",
+      "description": "Majority of users report noticeable benefits within 2-4 weeks, with creatine considered one of the most effective and reliable supplements available"
+    },
+    {
+      "label": "Individual Response Variation:",
+      "description": "Approximately 20-30% of users report minimal effects or are non-responders, while others (especially vegetarians with low baseline stores) see dramatic improvements"
+    },
+    {
+      "label": "Cognitive Benefits Emerging:",
+      "description": "Newer research supports mental performance benefits, with many users confirming improvements in focus and cognitive endurance previously unknown to them"
+    },
+    {
+      "label": "Baseline Dependent:",
+      "description": "Users with already high dietary creatine intake (meat eaters) may see less dramatic effects compared to vegetarians or those with lower baseline stores"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "5g daily is the most commonly recommended and used dose, with no loading phase necessary for most users"
+    },
+    {
+      "label": "Loading Phase Optional:",
+      "description": "Some users do 20g daily (4x5g doses) for 5-7 days followed by 5g maintenance, but many skip loading with similar long-term results"
+    },
+    {
+      "label": "Lower Doses for Sensitive Users:",
+      "description": "2.5-3g daily works for some who experience side effects at 5g, particularly those sensitive to sleep or digestive issues"
+    },
+    {
+      "label": "Higher Doses for Cognitive Benefits:",
+      "description": "Some users report taking 10-20g daily for enhanced cognitive effects, especially after poor sleep, though research on optimal cognitive dosing is still emerging"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sleep Disturbances:",
+      "description": "Commonly reported insomnia, reduced deep sleep, early waking, and restlessness in approximately 15-20% of users, often resolved by timing or dose adjustment"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Bloating, gas, stomach cramping, and occasional diarrhea reported, particularly at higher doses or when taken on empty stomach"
+    },
+    {
+      "label": "Water Retention & Bloating:",
+      "description": "Expected muscle water retention is desired, but some experience uncomfortable facial or general bloating and increased sweating"
+    },
+    {
+      "label": "Muscle Cramps:",
+      "description": "Some users report increased muscle cramping, particularly charley horses, which may be mitigated with increased electrolyte intake and proper hydration"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available & Affordable:",
+      "description": "Creatine monohydrate is inexpensive ($0.10-0.25 per serving) and available from numerous brands, with bulk powder being most cost-effective"
+    },
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Users recommend Creapure (German-made) or third-party tested brands to avoid cheap Chinese sources that may contain impurities or solvents; bulk suppliers has mixed reviews"
+    },
+    {
+      "label": "Form Considerations:",
+      "description": "Monohydrate powder is gold standard and most researched; other forms (HCL, ethyl ester, gummies) are more expensive with no proven superiority, though some find HCL reduces bloating"
+    }
+  ],
+  "related": [
+    {
+      "name": "BETA-ALANINE",
+      "slug": "beta-alanine"
+    },
+    {
+      "name": "PQQ",
+      "slug": "pqq"
+    },
+    {
+      "name": "ALPHA LIPOIC ACID",
+      "slug": "alpha-lipoic-acid"
+    },
+    {
+      "name": "CHOLINE BITARTRATE",
+      "slug": "choline-bitartrate"
+    },
+    {
+      "name": "COQ10",
+      "slug": "coq10"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "biotin",
+  "url": "https://dopamine.club/substances/biotin/",
+  "scrapedAt": "2026-02-12T16:06:09.666Z",
+  "title": "BIOTIN",
+  "description": "Biotin (vitamin B7) is a water-soluble B-vitamin that functions as a coenzyme for five carboxylases involved in the metabolism of fatty acids, glucose, and amino acids. It plays essential roles in cell growth, gene regulation, and protein synthesis, particularly in the production of keratin. While deficiency is rare, biotin is widely supplemented for its purported benefits to hair, skin, and nail health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Serum Biotin Levels in Women Complaining of Hair Loss",
+      "summary": "Study of 541 women with hair loss found that 38% had biotin deficiency, suggesting biotin supplementation may be beneficial in deficient individuals with hair concerns.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26817486/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biotin supplementation in pregnancy - a randomized controlled trial",
+      "summary": "Randomized trial found that biotin supplementation during pregnancy increased maternal biotin status but did not significantly affect pregnancy outcomes or neonatal biotin status.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28802269/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biotin interference in immunoassays for thyroid hormone",
+      "summary": "High-dose biotin supplementation can cause false results in laboratory tests that use biotin-streptavidin technology, potentially leading to misdiagnosis of thyroid conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29412223/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A review of the use of biotin for hair loss",
+      "summary": "Comprehensive review concluded that biotin supplementation benefits individuals with documented biotin deficiency or certain genetic disorders, but evidence is lacking for benefits in healthy individuals without deficiency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28879195/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biotin status: recent advances",
+      "summary": "Review of biotin assessment methods found that marginal biotin deficiency may occur in pregnancy and that reliable biotin status markers include urinary biotin excretion and specific metabolites.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28701385/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with biotin are genuinely divided - some report modest improvements in hair and nail quality after several months, while many others see no noticeable benefits despite consistent supplementation, with the main concern being acne breakouts in susceptible individuals."
+  },
+  "effects": [
+    {
+      "label": "Response Time:",
+      "description": "Users who notice benefits typically report waiting 3-6 months for visible hair/nail changes due to slow growth cycles"
+    },
+    {
+      "label": "Deficiency-Dependent:",
+      "description": "Evidence suggests biotin is most effective in individuals with actual biotin deficiency rather than those with adequate status"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Responses are highly variable, with approximately half of users reporting no noticeable benefits even after extended use"
+    },
+    {
+      "label": "Limited Research:",
+      "description": "Controlled studies show minimal benefit in healthy individuals without deficiency, despite widespread marketing claims"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "5,000-10,000 mcg (5-10 mg) daily is most commonly used, far exceeding the 30 mcg adequate intake recommendation"
+    },
+    {
+      "label": "High Dose:",
+      "description": "Some users take up to 10,000 mcg daily for hair/nail benefits, though higher doses don't necessarily produce better results"
+    },
+    {
+      "label": "Duration:",
+      "description": "Most users suggest trying for at least 3-6 months before evaluating effectiveness due to hair growth cycles"
+    },
+    {
+      "label": "Lab Interference:",
+      "description": "High doses (>5 mg) can interfere with thyroid and other laboratory tests; inform healthcare providers before testing"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Acne Breakouts:",
+      "description": "Most commonly reported side effect, particularly cystic acne on face, chest, and back in susceptible individuals"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report mild stomach upset or changes in bowel movements at higher doses"
+    },
+    {
+      "label": "Lab Test Interference:",
+      "description": "High-dose biotin can cause false results in blood tests using biotin-streptavidin technology, including thyroid panels"
+    },
+    {
+      "label": "Minimal Serious Effects:",
+      "description": "Generally well-tolerated with few serious adverse effects reported at typical supplemental doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold over-the-counter in pharmacies, health food stores, and online retailers without prescription requirements"
+    },
+    {
+      "label": "Cost:",
+      "description": "Relatively inexpensive supplement, with monthly supplies typically costing $10-20 for standard doses"
+    },
+    {
+      "label": "Forms:",
+      "description": "Available as standalone supplements or combined with other hair/nail support nutrients in multi-ingredient formulations"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    }
+  ]
+}

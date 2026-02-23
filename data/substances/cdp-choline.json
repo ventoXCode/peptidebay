@@ -1,0 +1,155 @@
+{
+  "slug": "cdp-choline",
+  "url": "https://dopamine.club/substances/cdp-choline/",
+  "scrapedAt": "2026-02-12T16:06:27.000Z",
+  "title": "CDP-CHOLINE",
+  "description": "CDP-Choline (Citicoline, cytidine 5'-diphosphocholine) is a naturally occurring compound that serves as a precursor to both choline and cytidine, which are essential for phosphatidylcholine synthesis and acetylcholine production. It readily crosses the blood-brain barrier and has been extensively studied for its neuroprotective properties, cognitive enhancement effects, and potential therapeutic applications in stroke, traumatic brain injury, mild cognitive impairment, and neurodegenerative conditions. CDP-Choline supports membrane repair, increases cerebral blood flow, and modulates multiple neurotransmitter systems including dopaminergic and cholinergic pathways.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Citicoline and Memory Function in Healthy Older Adults: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial",
+      "summary": "A 12-week trial with 100 adults aged 50-85 found that 500mg daily citicoline significantly improved memory function in healthy elderly people with age-associated memory impairment, with no safety concerns reported.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33978188/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Is Citicoline Effective in Preventing and Slowing Down Dementia?-A Systematic Review and a Meta-Analysis",
+      "summary": "This systematic review and meta-analysis concluded that citicoline has been proven to be useful in preventing dementia progression and enhancing cognitive functions, though its exact role in clinical practice requires further definition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36678257/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Application of Citicoline in Neurological Disorders: A Systematic Review",
+      "summary": "Review of 47 studies found citicoline prevents dementia progression, enhances cognitive functions in healthy individuals, improves stroke prognosis, and stimulates nerve regeneration in animal models, demonstrating wide-ranging neuroprotective effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33053828/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Choline supplements: An update",
+      "summary": "Comprehensive review examining different forms of choline supplementation including CDP-choline, confirming these compounds represent an effective strategy for boosting memory and enhancing cognitive function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36950691/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "CDP-choline: effects of the procholine supplement on sensory gating and executive function in healthy volunteers stratified for low, medium and high P50 suppression",
+      "summary": "Study examining CDP-choline's effects on sensory gating found it acts as a selective α7 nicotinic receptor agonist, though results varied based on baseline suppression levels in healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25315828/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary CDP-choline supplementation prevents memory impairment caused by impoverished environmental conditions in rats",
+      "summary": "Animal study demonstrated that approximately 500mg/kg/day CDP-choline protected against hippocampal-dependent memory deficits in rats raised in impoverished conditions, suggesting protective effects against environmental stressors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15647594/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of Citicoline in Patients With Mild Cognitive Impairment",
+      "summary": "Review concludes citicoline shows consistent improvement in cognitive function in patients with mild cognitive impairment, especially of vascular origin, through diverse neuroprotective mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36818199/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Citicoline: A Superior Form of Choline?",
+      "summary": "Analysis comparing citicoline to other choline forms found it is significantly less toxic than choline on a molar mass basis while serving as an effective source of both choline and cytidine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31336819/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with CDP-Choline for cognitive enhancement, anxiety reduction, and dopamine system support. While some note it's not as potent as prescription medications, most find it provides noticeable benefits for focus, mood, and mental clarity with minimal side effects when dosed appropriately."
+  },
+  "effects": [
+    {
+      "label": "Moderate Efficacy:",
+      "description": "Generally considered effective but not as powerful as prescription medications; works well as part of comprehensive stacks"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies significantly between users; some report profound effects while others notice minimal benefits"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Most effective when combined with other compounds like uridine, omega-3s, or racetams rather than as a standalone supplement"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Benefits typically develop gradually over weeks rather than immediately, though some users report acute effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most commonly used at 250-500mg daily, with some users taking up to 1000mg divided into multiple doses"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Often taken in the morning or early afternoon; has a long half-life (approximately 70 hours) requiring time to assess optimal dosing"
+    },
+    {
+      "label": "Cycling Debate:",
+      "description": "Some users report needing to cycle to prevent tolerance, while others use it continuously without issues"
+    },
+    {
+      "label": "Weight Adjustment:",
+      "description": "Heavier individuals sometimes adjust doses upward (500-1000mg for 90+ kg body weight)"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Depression Risk:",
+      "description": "Some users report increased depression or flat affect, particularly at higher doses or with prolonged use"
+    },
+    {
+      "label": "Cholinergic Effects:",
+      "description": "Occasional reports of headaches, which may indicate need for dose adjustment or are related to acetylcholine levels"
+    },
+    {
+      "label": "Stimulation vs. Sedation:",
+      "description": "Can be more stimulating than Alpha-GPC for some users, potentially interfering with sleep if taken too late"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal to no side effects at standard doses, with safety confirmed across multiple studies"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold as a dietary supplement (not prescription) in most markets; available from multiple reputable vendors"
+    },
+    {
+      "label": "Brand Considerations:",
+      "description": "Users recommend purchasing from established, reputable supplement companies with third-party testing"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally considered expensive compared to basic choline sources, with some users noting €300-600/month supplement budgets that include CDP-Choline"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    },
+    {
+      "name": "CEREBROPROTEIN HYDROLYSATE",
+      "slug": "cerebroprotein-hydrolysate"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "memantine",
+  "url": "https://dopamine.club/substances/memantine/",
+  "scrapedAt": "2026-02-12T16:09:30.889Z",
+  "title": "MEMANTINE",
+  "description": "Memantine is an uncompetitive NMDA (N-methyl-D-aspartate) receptor antagonist with moderate affinity and voltage-dependent action. It is FDA-approved for the treatment of moderate to severe Alzheimer's disease, where it provides neuroprotective effects by modulating glutamate neurotransmission. The compound works by blocking excessive NMDA receptor activation while allowing normal physiological signaling to occur.",
+  "categories": [
+    "Medicine"
+  ],
+  "research": [
+    {
+      "title": "Memantine: a review of studies into its safety and efficacy in treating Alzheimer's disease and other dementias",
+      "summary": "Comprehensive review confirming memantine's safety and efficacy in treating moderate to severe Alzheimer's disease as monotherapy or in combination with cholinesterase inhibitors, with benefits also shown in vascular dementia and mixed dementia cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19851512/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Memantine for the Treatment of Dementia: A Review on its Current and Future Applications",
+      "summary": "Review showing memantine as the second most commonly used dementia drug worldwide, with current research exploring applications beyond Alzheimer's including potential benefits for cognitive enhancement and neuroprotection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29562540/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Basic information about memantine and its treatment of Alzheimer's disease",
+      "summary": "Analysis confirming memantine's role as a noncompetitive NMDA receptor antagonist that can relieve symptoms but cannot reverse Alzheimer's disease progression, used clinically since 1989.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37786758/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Memantine: A Comprehensive Review of Safety and Efficacy",
+      "summary": "Comprehensive safety review showing memantine's mechanism extends beyond Alzheimer's to potentially treat conditions involving disturbed glutamate neurotransmission including obesity, schizophrenia, depression, and pain disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19236221/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A systematic review and meta-analysis of memantine for chronic pain",
+      "summary": "Meta-analysis examining memantine's NMDA receptor antagonism for pain management, showing analgesic properties in preclinical and small clinical studies for chronic pain prevention and reduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30848504/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Concomitant memantine and Lactobacillus plantarum treatment attenuates cognitive impairments in APP/PS1 mice",
+      "summary": "Animal study showing combination treatment with memantine and probiotics ameliorated cognitive deterioration, decreased amyloid beta levels, and protected neuronal integrity in Alzheimer's disease model mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31907339/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Reimagining cholinergic therapy for Alzheimer's disease",
+      "summary": "Review positioning memantine as a key NMDA antagonist therapy for Alzheimer's that can provide modest disease course-modifying effects when combined with cholinesterase inhibitors as part of comprehensive care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35289363/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User experiences with memantine are genuinely divided - while some report life-changing benefits for ADHD, depression, and anxiety at low doses (2.5-5mg), others report severe side effects including cognitive impairment, anhedonia, and difficult withdrawal symptoms. Success appears highly dependent on individual response, dosing protocols, and intended use case."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Effectiveness varies dramatically by dose - low doses (2.5-5mg) generally produce therapeutic benefits while higher doses often cause cognitive impairment and dissociation"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Strong responders report transformative effects while non-responders or poor metabolizers experience minimal benefits or adverse reactions, suggesting genetic or metabolic factors"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Benefits often take weeks to manifest fully, with initial side effects (dizziness, drowsiness) typically resolving within days to weeks of consistent use"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Long-term users report maintaining benefits at stable doses, though some experience diminishing returns or need to cycle off periodically"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low Dose Protocol:",
+      "description": "2.5-5mg daily is the most commonly recommended starting dose for nootropic/psychiatric use, significantly lower than clinical Alzheimer's doses (10-20mg)"
+    },
+    {
+      "label": "Titration Schedule:",
+      "description": "Most successful users start at 1.25mg and increase slowly over weeks to avoid side effects, with many finding their optimal dose between 5-10mg daily"
+    },
+    {
+      "label": "Cycling Approach:",
+      "description": "Some users take memantine 5 days on/2 days off or every other day to prevent tolerance and reduce side effects"
+    },
+    {
+      "label": "Tapering Caution:",
+      "description": "Users report difficult withdrawal when discontinuing, recommending very gradual tapering (reducing by 1-2mg every 1-2 weeks) rather than cold turkey cessation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cognitive Impairment:",
+      "description": "Higher doses commonly cause brain fog, reduced verbal fluency, slowed mental processing, and memory difficulties that can persist for months after discontinuation"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Insomnia and disrupted sleep architecture reported frequently, particularly when combined with other medications or taken later in the day"
+    },
+    {
+      "label": "Withdrawal Symptoms:",
+      "description": "Discontinuation can cause tinnitus, severe anxiety, muscle tension, brain fog, and dread that may last weeks, requiring careful tapering protocols"
+    },
+    {
+      "label": "Nutrient Depletion:",
+      "description": "Some users report that memantine may deplete trace minerals or interact negatively with cholinergic supplements, requiring mineral supplementation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Status:",
+      "description": "Memantine is FDA-approved and requires prescription in most countries, though some users report obtaining it through online nootropics sources or international pharmacies"
+    },
+    {
+      "label": "Off-Label Use:",
+      "description": "Widely used off-label for ADHD, depression, anxiety, and substance withdrawal despite limited clinical trial data for these applications"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Prescription memantine can be expensive without insurance coverage, leading some users to seek generic versions or alternative sources"
+    }
+  ],
+  "related": [
+    {
+      "name": "IVERMECTIN",
+      "slug": "ivermectin"
+    },
+    {
+      "name": "RAPAMYCIN",
+      "slug": "rapamycin"
+    },
+    {
+      "name": "TESTOSTERONE",
+      "slug": "testosterone"
+    },
+    {
+      "name": "TOREMIFENE",
+      "slug": "toremifene"
+    },
+    {
+      "name": "Armodafinil",
+      "slug": "armodafinil"
+    }
+  ]
+}

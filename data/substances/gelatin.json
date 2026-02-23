@@ -1,0 +1,143 @@
+{
+  "slug": "gelatin",
+  "url": "https://dopamine.club/substances/gelatin/",
+  "scrapedAt": "2026-02-12T16:07:58.369Z",
+  "title": "GELATIN",
+  "description": "Gelatin is a protein derived from collagen through partial hydrolysis, providing amino acids like glycine, proline, and hydroxyproline that serve as building blocks for connective tissue synthesis. When combined with vitamin C and consumed around exercise or physical activity, gelatin supplementation can enhance collagen synthesis in tendons, ligaments, and other connective tissues. It is primarily used for joint health, tendon recovery, and skin health support.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Vitamin C-enriched gelatin supplementation before intermittent activity augments collagen synthesis",
+      "summary": "Gelatin (15g) combined with vitamin C (50mg) taken one hour before intermittent activity significantly increased amino-terminal propeptide of collagen I in blood, indicating enhanced collagen synthesis in connective tissues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27852613/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of collagen peptide supplementation on body composition, collagen synthesis, and recovery from joint injury and exercise: a systematic review",
+      "summary": "Systematic review found collagen peptides most beneficial for improving joint functionality and reducing joint pain, with certain improvements in body composition, strength, and muscle recovery also present.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34491424/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Collagen peptides supplementation improves function, pain, and physical and mental outcomes in active adults",
+      "summary": "Collagen peptide supplementation in active adults demonstrated improvements in pain management, physical function, and activities of daily living, targeting both inflammation and joint health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37551682/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bone Broth Unlikely to Provide Reliable Concentrations of Collagen Precursors Compared With Supplemental Sources of Collagen Used in Collagen Research",
+      "summary": "Research indicates that bone broth does not provide reliable or sufficient concentrations of collagen precursors compared to standardized gelatin or collagen supplements used in clinical studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29893587/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ingestion of bioactive collagen hydrolysates enhance facial skin moisture and elasticity and reduce facial ageing signs in a randomised double-blind placebo-controlled clinical study",
+      "summary": "Bioactive collagen hydrolysates improved skin moisture, elasticity, and reduced visible aging signs in a controlled clinical trial, demonstrating benefits beyond joint health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26840887/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Breaking down, starting up: can a vitamin C-enriched gelatin supplement before exercise increase collagen synthesis?",
+      "summary": "Commentary discussing the mechanisms by which vitamin C-enriched gelatin before exercise may enhance collagen synthesis and support connective tissue repair and adaptation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28003207/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with gelatin supplementation, particularly when combined with vitamin C and taken before activity for joint and tendon health. Most find it effective for recovery and injury prevention, though some note the need for consistent use over weeks to months to see benefits."
+  },
+  "effects": [
+    {
+      "label": "Timing Matters:",
+      "description": "Most effective when taken 30-60 minutes before exercise or physical activity to maximize collagen synthesis during tissue remodeling"
+    },
+    {
+      "label": "Vitamin C Synergy:",
+      "description": "Significantly more effective when combined with 50-100mg vitamin C, as it's required for collagen hydroxylation"
+    },
+    {
+      "label": "Gradual Benefits:",
+      "description": "Effects typically emerge after 4-12 weeks of consistent use rather than immediate results"
+    },
+    {
+      "label": "Activity Dependent:",
+      "description": "Works best when combined with appropriate mechanical loading through exercise or movement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "10-15g of gelatin powder taken 30-60 minutes before exercise or physical activity"
+    },
+    {
+      "label": "Vitamin C Addition:",
+      "description": "50-100mg vitamin C recommended alongside gelatin to optimize collagen synthesis"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Daily supplementation appears more effective than sporadic use for joint and tendon health"
+    },
+    {
+      "label": "Hydrolyzed Forms:",
+      "description": "Collagen peptides (hydrolyzed gelatin) at similar doses may be easier to digest and mix than standard gelatin"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report bloating, gas, or stomach discomfort, particularly with higher doses or on empty stomach"
+    },
+    {
+      "label": "Texture/Palatability:",
+      "description": "Standard gelatin can be difficult to mix and has unpleasant texture; flavored or hydrolyzed versions better tolerated"
+    },
+    {
+      "label": "Minimal Serious Effects:",
+      "description": "Generally well-tolerated with few significant adverse effects reported in studies or user experiences"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies significantly between individuals, with some seeing dramatic benefits and others minimal effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Gelatin supplements sold as powder, capsules, or hydrolyzed collagen peptides through various retailers and online sources"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Grass-fed, marine, and conventional sources available; quality and amino acid profiles may vary between brands"
+    },
+    {
+      "label": "Bone Broth Alternative:",
+      "description": "While popular, bone broth provides inconsistent and typically insufficient collagen content compared to standardized supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "COLLAGEN TYPE II",
+      "slug": "collagen-type-ii"
+    },
+    {
+      "name": "DIOSMIN",
+      "slug": "diosmin"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "slug": "gotu-kola",
+  "url": "https://dopamine.club/substances/gotu-kola/",
+  "scrapedAt": "2026-02-12T16:08:14.097Z",
+  "title": "GOTU KOLA",
+  "description": "Centella asiatica, commonly known as Gotu Kola, is a traditional Ayurvedic herb used as a neuroprotective brain tonic that enhances cognitive function through the upregulation of BDNF and antioxidant activity. It is primarily utilized to improve memory, manage anxiety, and facilitate skin and vascular repair by modulating triterpene levels and inflammatory pathways.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effectiveness of Gotu Kola Extract 750 mg and 1000 mg Compared with Folic Acid 3 mg in Improving Vascular Cognitive Impairment after Stroke",
+      "summary": "This study found that Gotu Kola extract was effective in improving cognitive function in patients with vascular cognitive impairment following a stroke.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27340413/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Centella asiatica (L.) Urb. on cognitive function and mood related outcomes: A Systematic Review and Meta-analysis",
+      "summary": "A meta-analysis indicating that while evidence for specific cognitive domains is limited, Gotu Kola significantly improves mood by increasing alertness and decreasing anger.",
+      "url": "https://www.nature.com/articles/s41598-017-09823-9",
+      "source": "(Nature)"
+    },
+    {
+      "title": "Centella asiatica (Gotu kola) ethanol extract up-regulates hippocampal brain-derived neurotrophic factor (BDNF), tyrosine kinase B (TrkB) and extracellular signal-regulated protein kinase 1/2 (ERK1/2) signaling",
+      "summary": "Animal research showing Gotu Kola can increase BDNF levels, which supports neuronal health and may explain its neuroprotective and cognitive-enhancing effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31998466/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Centella asiatica (L.) Urban: From Traditional Medicine to Modern Medicine with Neuroprotective Potential",
+      "summary": "A comprehensive review of Gotu Kola's traditional use as a brain tonic and its modern pharmacological potential for treating neurological disorders.",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3359802/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "The majority of users report reliable benefits for anxiety relief and mood stabilization, with many recommending it as a milder alternative to pharmaceutical options."
+  },
+  "effects": [
+    {
+      "label": "Stroke Recovery:",
+      "description": "Research indicates it is as effective as folic acid in treating post-stroke cognitive impairment."
+    },
+    {
+      "label": "Emotional Regulation:",
+      "description": "Meta-analysis confirms its ability to improve alertness and alleviate feelings of anger."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Often reported to work better when stacked with other nootropics like Bacopa monnieri."
+    },
+    {
+      "label": "Skin and Vascular Health:",
+      "description": "Clinically recognized for its ability to improve mitochondrial function and collagen synthesis."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "Research often utilizes dosages between 750 mg and 1000 mg for cognitive repair."
+    },
+    {
+      "label": "Triterpene Standardization:",
+      "description": "Users recommend looking for extracts standardized to 10%–40% triterpenes for consistent effects."
+    },
+    {
+      "label": "Daily Maintenance:",
+      "description": "Common anecdotal dosing ranges from 400 mg to 500 mg taken once or twice daily."
+    },
+    {
+      "label": "Tea Form:",
+      "description": "Often consumed as a traditional tea, though effects are reported as milder than concentrated extracts."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Some users experience mild nausea or stomach upset when taking high doses on an empty stomach."
+    },
+    {
+      "label": "Drowsiness:",
+      "description": "While many find it alert-inducing, a minority of users report feeling overly relaxed or lethargic."
+    },
+    {
+      "label": "Hepatotoxicity Risk:",
+      "description": "Though rare and typically associated with excessive usage, monitoring liver enzymes is occasionally recommended."
+    },
+    {
+      "label": "Contact Dermatitis:",
+      "description": "Topical application may cause skin irritation in sensitive individuals."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Global Sourcing:",
+      "description": "widely available as an over-the-counter supplement in most countries, including the US and EU."
+    },
+    {
+      "label": "Form Variety:",
+      "description": "Found in capsules, powders, tinctures, and topical creams for both internal and external healing."
+    }
+  ],
+  "related": [
+    {
+      "name": "CLITORIA TERNATEA",
+      "slug": "clitoria-ternatea"
+    },
+    {
+      "name": "CONVOLVULUS PLURICAULIS",
+      "slug": "convolvulus-pluricaulis"
+    },
+    {
+      "name": "RAPASTINEL",
+      "slug": "rapastinel"
+    },
+    {
+      "name": "CATUABA",
+      "slug": "catuaba"
+    },
+    {
+      "name": "CELASTRUS PANICULATUS",
+      "slug": "celastrus-paniculatus"
+    }
+  ]
+}

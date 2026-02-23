@@ -1,0 +1,143 @@
+{
+  "slug": "l-glutamine",
+  "url": "https://dopamine.club/substances/l-glutamine/",
+  "scrapedAt": "2026-02-12T16:09:05.039Z",
+  "title": "L-GLUTAMINE",
+  "description": "L-Glutamine is the most abundant free amino acid in the human body, serving as a crucial fuel source and nitrogen donor for rapidly dividing cells, particularly in the intestinal lining and immune system. It plays a vital role in maintaining gut barrier integrity, supporting immune function, and facilitating tissue repair, with supplementation commonly used to address intestinal permeability (leaky gut), support recovery from intense exercise, and aid in mucosal healing during cancer therapy.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Supplementation of L-glutamine enhanced mucosal immunity and improved hormonal status of combat-sport athletes",
+      "summary": "Three-week supplementation with L-glutamine (0.3g/kg body weight) in combat athletes significantly improved mucosal immunity markers, reduced upper respiratory tract infection rates, and enhanced hormonal balance following intensive training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38193521/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glutamine for Amelioration of Radiation and Chemotherapy Associated Mucositis during Cancer Therapy",
+      "summary": "Oral glutamine supplementation (10g/day) combined with disaccharides reduces painful mucosal symptoms, ulceration, and tissue damage associated with chemotherapy and radiation in cancer patients, promoting better nutrition and quality of life.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32512833/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Randomised placebo-controlled trial of dietary glutamine supplements for postinfectious irritable bowel syndrome",
+      "summary": "Glutamine supplementation (5g three times daily for 8 weeks) significantly reduced IBS symptom severity scores and improved intestinal permeability in patients with postinfectious IBS-D, with benefits sustained at follow-up.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30108163/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A systematic review and meta-analysis of clinical trials on the effects of glutamine supplementation on gut permeability in adults",
+      "summary": "Meta-analysis shows glutamine supplementation can improve intestinal permeability markers in various clinical populations, though effects vary based on dosage, duration, and underlying condition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39397201/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of glutamine supplementation on athletic performance, body composition, and immune function: A systematic review and a meta-analysis of clinical trials",
+      "summary": "Systematic review found glutamine supplementation provides modest benefits for immune function and may reduce infection rates in athletes, though effects on performance and body composition were inconsistent.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29784526/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-Glutamine Supplementation Improves the Benefits of Combined-Exercise Training on Oral Redox Balance and Inflammatory Status in Elderly Individuals",
+      "summary": "L-glutamine supplementation combined with aerobic-resistance exercise enhanced antioxidant status and reduced inflammatory markers in elderly participants compared to exercise alone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32411324/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User experiences are genuinely mixed, with many reporting significant gut healing benefits and improved recovery, while others experience no effects or concerning side effects including anxiety, depression, and mental health impacts. Success appears highly individual and dependent on underlying conditions."
+  },
+  "effects": [
+    {
+      "label": "Gut Health Efficacy:",
+      "description": "Most effective for intestinal issues when combined with other interventions (psyllium husk, bone broth, probiotics, fasting) rather than as standalone treatment"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Results are highly variable - works excellently for some users with gut issues while providing zero benefit to others even after months of use"
+    },
+    {
+      "label": "Dosage Sensitivity:",
+      "description": "Higher doses (15-20g daily) appear more effective for gut healing, while lower doses (5g) may be sufficient for general recovery support"
+    },
+    {
+      "label": "Timeline:",
+      "description": "Benefits for gut healing typically require 2-3 months minimum, though some users report no improvement even after 12 months of consistent use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "5g taken three times daily (15g total) is most commonly recommended for gut healing and IBS, often on empty stomach"
+    },
+    {
+      "label": "Athletic Recovery:",
+      "description": "0.3g/kg body weight (typically 15-20g for average adult) divided into doses, often post-workout"
+    },
+    {
+      "label": "Timing:",
+      "description": "Best taken on empty stomach, frequently mentioned alongside bone broth in morning or before bed for gut healing"
+    },
+    {
+      "label": "Duration:",
+      "description": "Protocols typically range from 8 weeks to 12 months depending on condition, with reassessment recommended every 2-3 months"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mental Health Impact:",
+      "description": "Notable number of users report anxiety, depression, depersonalization, PTSD flashbacks, and emotional numbness, particularly those sensitive to glutamate/GABA imbalances"
+    },
+    {
+      "label": "No Effect:",
+      "description": "Common complaint that glutamine produces zero noticeable benefits even after months of consistent supplementation"
+    },
+    {
+      "label": "Glutamate Sensitivity:",
+      "description": "Users with existing GABA/glutamate issues report worsening anxiety, tight chest, tinnitus, and sleep disturbances"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "For majority who don't experience mental effects, side effects are minimal with proper dosing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily accessible from major supplement retailers, online platforms, and health food stores in powder and capsule forms"
+    },
+    {
+      "label": "Brand Considerations:",
+      "description": "Users recommend quality brands, quality brands, and pharmaceutical-grade brands; concerns about counterfeit supplements from online retailers noted"
+    },
+    {
+      "label": "Cost-Effective:",
+      "description": "Relatively inexpensive amino acid, with powder form offering best value per gram compared to capsules or proprietary blends"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

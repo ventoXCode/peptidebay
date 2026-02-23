@@ -1,0 +1,131 @@
+{
+  "slug": "limonene",
+  "url": "https://dopamine.club/substances/limonene/",
+  "scrapedAt": "2026-02-12T16:09:12.108Z",
+  "title": "LIMONENE",
+  "description": "D-Limonene is a naturally occurring monoterpene found primarily in citrus fruit peels, particularly oranges, where it comprises up to 90% of the essential oil content. It acts as a 5-HT1A receptor agonist, demonstrates anti-inflammatory and antioxidant properties, and functions by improving gastric motility and protecting the esophageal lining. Primarily used for treating gastroesophageal reflux disease (GERD), it also shows promise for mood enhancement, anxiety reduction, and various therapeutic applications including antibacterial and anticancer effects.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Pharmacological Effects and Potential Applications of Limonene From Citrus Plants: A Review",
+      "summary": "Comprehensive review demonstrating that limonene has multiple pharmacological effects including antibacterial, anticancer, analgesic, immune regulation, neuroprotection, antioxidant, anti-inflammatory properties, and applications in treating metabolic diseases.",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/1934578X241254229",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "D-limonene: A multifunctional compound with potent therapeutic effects",
+      "summary": "Study confirming d-limonene as a multifunctional compound with demonstrated potent therapeutic effects across multiple biological systems including digestive, nervous, and immune systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33289132/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "D-Limonene: safety and clinical applications",
+      "summary": "Clinical review establishing the safety profile and various clinical applications of d-limonene, particularly for gastrointestinal disorders and as an adjunct therapeutic agent.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18072821/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "D-limonene Inhibits Pentylenetetrazole-Induced Seizure via Adenosine A2A Receptor Modulation on GABAergic Neuronal Activity",
+      "summary": "Research demonstrating that d-limonene modulates adenosine A2A receptors and GABAergic activity, showing neuroprotective effects and potential anti-seizure properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33291789/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report highly positive experiences with d-limonene, particularly for GERD relief, mood improvement, and anxiety reduction. The majority found it effective within days to weeks, with minimal side effects, though availability concerns exist due to discontinued products from major brands like quality brands."
+  },
+  "effects": [
+    {
+      "label": "GERD Treatment:",
+      "description": "Highly effective for most users, with many able to discontinue PPIs (proton pump inhibitors) entirely after starting d-limonene"
+    },
+    {
+      "label": "Onset Time:",
+      "description": "Effects typically noticed within 1-2 weeks, with some users experiencing benefits within days"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "While most report positive results, effectiveness varies and some users find it stops working or requires dose adjustment"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Often used alongside other supplements like DGL licorice, slippery elm, and melatonin for enhanced digestive support"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "500mg-1000mg daily, typically taken 30 minutes before meals or before bed"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Most users take once daily, some split into two doses for severe symptoms"
+    },
+    {
+      "label": "Duration:",
+      "description": "Can be used continuously for months, with some users reporting long-term success over years"
+    },
+    {
+      "label": "Adjustment:",
+      "description": "Users often start at 500mg and increase to 1000mg if needed based on symptom response"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Orange-Scented Effects:",
+      "description": "Burps and occasionally stool may smell like oranges, which some find unpleasant"
+    },
+    {
+      "label": "Digestive Changes:",
+      "description": "High doses (1g+) can cause orange-scented stool, indicating significant GI presence"
+    },
+    {
+      "label": "Sleep Effects:",
+      "description": "Conflicting reports - some experience improved sleep, while rare cases report insomnia after prolonged use"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Overall very well-tolerated with few serious side effects reported"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supply Issues:",
+      "description": "Major discontinuation by quality brands has created sourcing challenges, particularly in Europe"
+    },
+    {
+      "label": "Alternative Sources:",
+      "description": "Users recommend Orange Burps brand from online retailers or making homemade extract from orange peels using vodka/water or olive oil"
+    },
+    {
+      "label": "DIY Options:",
+      "description": "Several users successfully make their own by blending and cooking orange peels with alcohol or oil for 15-20 minutes"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "HYPERFORIN",
+      "slug": "hyperforin"
+    },
+    {
+      "name": "HYPERICIN",
+      "slug": "hypericin"
+    }
+  ]
+}

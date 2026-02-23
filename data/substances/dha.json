@@ -1,0 +1,119 @@
+{
+  "slug": "dha",
+  "url": "https://dopamine.club/substances/dha/",
+  "scrapedAt": "2026-02-12T16:07:06.498Z",
+  "title": "DHA",
+  "description": "Docosahexaenoic acid (DHA) is a primary omega-3 long-chain polyunsaturated fatty acid that serves as a structural component of the human brain, cerebral cortex, and retina. It modulates cell membrane fluidity and signaling pathways, playing a critical role in neurodevelopment, ocular function, and the prevention of cardiovascular and neurodegenerative diseases.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Health benefits of docosahexaenoic acid and its bioavailability: A review",
+      "summary": "This review confirms DHA's essential role in fetal development, cardiovascular health, and the improvement of cognitive function throughout all life stages.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34532031/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Docosahexaenoic acid (DHA): An essential nutrient and a nutraceutical for brain health and diseases",
+      "summary": "DHA is identified as a critical nutrient for maintaining brain structure and function, showing potential in managing neurological disorders and improving cognitive performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28314621/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users overwhelmingly view DHA as a foundational health supplement, frequently citing its benefits for mental clarity, mood stabilization, and as a core component of fertility and longevity stacks."
+  },
+  "effects": [
+    {
+      "label": "Long-term Consistency:",
+      "description": "Most users note that benefits for mood and memory require several weeks or months of consistent daily use to become apparent."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Effectiveness appears boosted when stacked with Vitamin D, K, and EPA for cardiovascular and hormonal health."
+    },
+    {
+      "label": "Structural Foundation:",
+      "description": "Unlike acute stimulants, DHA is perceived as a 'maintenance' supplement that supports the physical structure of the brain and eyes."
+    },
+    {
+      "label": "Hormonal Support:",
+      "description": "While not a testosterone booster on its own, it is frequently included in successful protocols for optimizing natural hormone levels."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "A common clinical and user recommendation is approximately 400mg to 1000mg of DHA per day."
+    },
+    {
+      "label": "Fish Oil Ratios:",
+      "description": "Many users aim for a combined EPA/DHA intake, such as an 800mg EPA to 400mg DHA ratio for general wellness."
+    },
+    {
+      "label": "Fertility Protocols:",
+      "description": "Higher dosages are often reported by users preparing for IVF or looking to improve reproductive health."
+    },
+    {
+      "label": "Bioavailability Focus:",
+      "description": "Users recommend taking DHA with a fat-containing meal to maximize absorption."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Some users report 'fishy burps' or mild indigestion, often mitigated by using enteric-coated capsules."
+    },
+    {
+      "label": "Blood Thinning:",
+      "description": "At high doses, users note the potential for increased bleeding time, which may interact with certain medications."
+    },
+    {
+      "label": "Sensory Issues:",
+      "description": "A small subset of users finds the smell or taste of oxidized lower-quality oils off-putting."
+    },
+    {
+      "label": "Brain Fog (Rare):",
+      "description": "Occasional reports of paradoxical brain fog if the ratio between EPA and DHA is not balanced for the individual's needs."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter:",
+      "description": "Widely available globally as a dietary supplement in softgel or liquid form."
+    },
+    {
+      "label": "Source Variation:",
+      "description": "Available from fish oil, krill oil, or vegan-friendly algal oil (which is the primary source for fish themselves)."
+    },
+    {
+      "label": "Quality Testing:",
+      "description": "Users emphasize sourcing from reputable brands that provide third-party testing for heavy metals and oxidation levels."
+    }
+  ],
+  "related": [
+    {
+      "name": "TUDCA",
+      "slug": "tudca"
+    },
+    {
+      "name": "COCOA FLAVANOLS",
+      "slug": "cocoa-flavanols"
+    },
+    {
+      "name": "ERGOTHIONEINE",
+      "slug": "ergothioneine"
+    },
+    {
+      "name": "MYRICETIN",
+      "slug": "myricetin"
+    },
+    {
+      "name": "N-ACETYL SEMAX",
+      "slug": "n-acetyl-semax"
+    }
+  ]
+}

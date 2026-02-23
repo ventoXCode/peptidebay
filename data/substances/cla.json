@@ -1,0 +1,125 @@
+{
+  "slug": "cla",
+  "url": "https://dopamine.club/substances/cla/",
+  "scrapedAt": "2026-02-12T16:06:49.750Z",
+  "title": "CLA",
+  "description": "Conjugated Linoleic Acid (CLA) is a naturally occurring fatty acid found in meat and dairy products that acts on PPAR receptors to potentially influence fat metabolism. Despite theoretical mechanisms suggesting fat loss benefits, clinical evidence shows CLA has weak effects on PPAR receptors and produces minimal to no appreciable fat loss in humans, with some studies showing concerns about liver health and insulin sensitivity at higher doses.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Pros and cons of CLA consumption: an insight from clinical evidences",
+      "summary": "Systematic review of clinical evidence showing CLA supplementation has mixed effects, with some potential benefits but also notable concerns about metabolic side effects including impacts on insulin sensitivity and liver health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25663152/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Association of foods enriched in conjugated linoleic acid (CLA) and CLA supplements with lipid profile in human studies: a systematic review and meta-analysis",
+      "summary": "Meta-analysis examining CLA's effects on blood lipid profiles found inconsistent results across studies, with some evidence of unfavorable changes in lipid markers in certain populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25379623/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The efficacy of long-term conjugated linoleic acid (CLA) supplementation on body composition in overweight and obese individuals: a systematic review and meta-analysis of randomized clinical trials",
+      "summary": "Comprehensive meta-analysis of long-term CLA supplementation trials in overweight/obese individuals showing minimal to modest effects on body composition, with most studies finding clinically insignificant fat loss results.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21990002/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 25,
+    "summary": "User experiences overwhelmingly indicate CLA is ineffective for fat loss, with multiple users reporting no results despite extended use. Common consensus is that CLA is not worth taking, with users frequently grouping it with other ineffective fat-burning supplements."
+  },
+  "effects": [
+    {
+      "label": "Weight Loss Ineffectiveness:",
+      "description": "Multiple users and research studies confirm CLA does not produce meaningful fat loss despite marketing claims"
+    },
+    {
+      "label": "Better Alternatives Exist:",
+      "description": "Users recommend focusing on diet, exercise, and proven interventions rather than wasting money on CLA"
+    },
+    {
+      "label": "Stacking Disappointment:",
+      "description": "When combined with other supplements like L-carnitine and alpha yohimbine, users still report no fat loss results"
+    },
+    {
+      "label": "Research-Practice Gap:",
+      "description": "Despite theoretical mechanisms, real-world application shows CLA fails to deliver on promised benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Commercial Dose:",
+      "description": "Products commonly provide 3-6 grams per day, though research suggests this amount is ineffective"
+    },
+    {
+      "label": "Duration Trials:",
+      "description": "Users report taking CLA for weeks to months with no visible results across various dosing protocols"
+    },
+    {
+      "label": "Cycling Unnecessary:",
+      "description": "Since effectiveness is minimal, cycling protocols do not appear to improve outcomes"
+    },
+    {
+      "label": "Cost-Benefit Analysis:",
+      "description": "Given lack of results, any dose represents poor value compared to dietary improvements"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Metabolic Concerns:",
+      "description": "Research indicates potential negative effects on insulin sensitivity and liver enzymes with prolonged use"
+    },
+    {
+      "label": "Lipid Profile Changes:",
+      "description": "Some studies show unfavorable alterations in blood lipid markers"
+    },
+    {
+      "label": "Minimal Acute Effects:",
+      "description": "Users generally do not report significant side effects, likely due to minimal biological activity"
+    },
+    {
+      "label": "Resource Waste:",
+      "description": "Primary 'side effect' is wasted money on an ineffective supplement when funds could support better interventions"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "CLA is sold at most supplement retailers including GNC and online platforms, often in combination with other ingredients"
+    },
+    {
+      "label": "Marketing vs Reality:",
+      "description": "Heavy marketing presence does not align with actual effectiveness, leading to consumer disappointment"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Different brands offer varying formulations (some with pomegranate seed oil), but effectiveness remains consistently poor across products"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    }
+  ]
+}

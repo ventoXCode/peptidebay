@@ -1,0 +1,155 @@
+{
+  "slug": "anandamide",
+  "url": "https://dopamine.club/substances/anandamide/",
+  "scrapedAt": "2026-02-12T16:05:46.065Z",
+  "title": "ANANDAMIDE",
+  "description": "Anandamide (AEA) is an endogenous cannabinoid neurotransmitter that binds to CB1 and CB2 receptors in the endocannabinoid system. It plays a crucial role in regulating mood, pain, appetite, memory, and immune function, earning the name 'bliss molecule' for its role in feelings of well-being and happiness.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Care and feeding of the endocannabinoid system: a systematic review of potential clinical interventions that upregulate the endocannabinoid system",
+      "summary": "This systematic review identified clinical interventions that can enhance the endocannabinoid system by upregulating cannabinoid receptors, increasing ligand synthesis, or inhibiting ligand degradation, particularly relevant for conditions associated with endocannabinoid deficiency syndrome including migraine, fibromyalgia, and psychological disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24622769/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Targeting the endocannabinoid system with microbial interventions to improve gut integrity",
+      "summary": "The endocannabinoid system regulates intestinal barrier integrity, and targeting it through microbial interventions may help address disorders like inflammatory bowel disease, obesity, and major depressive disorder by reducing inflammation and bacterial metabolite translocation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33186639/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Quality of Life and a Surveillant Endocannabinoid System",
+      "summary": "The endocannabinoid system is a major brain modulatory network regulating homeostasis, development, learning, memory, mood, and energy metabolism, with loss of ECS control potentially affecting mood disorders, obesity, and overall quality of life.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34776851/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vaccenic acid suppresses intestinal inflammation by increasing anandamide and related N-acylethanolamines in the JCR:LA-cp rat",
+      "summary": "Vaccenic acid supplementation increased anandamide levels and suppressed intestinal inflammation, demonstrating that dietary interventions can modulate the endocannabinoid system to reduce inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26891736/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exercise as an adjunctive treatment for cannabis use disorder",
+      "summary": "Exercise may serve as an effective adjunctive treatment for cannabis use disorder by modulating the endocannabinoid system, particularly through effects on anandamide and related endocannabinoids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27314543/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anandamide inhibits the growth of colorectal cancer cells through CB1 and lipid rafts",
+      "summary": "Anandamide demonstrated anti-proliferative and pro-apoptotic effects on colorectal cancer cells through CB1 receptor and lipid raft mechanisms, suggesting potential therapeutic applications in cancer treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21575494/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "N-Acyl amines of docosahexaenoic acid and other n-3 polyunsatured fatty acids - from fishy endocannabinoids to potential leads",
+      "summary": "Omega-3 fatty acid consumption affects anandamide synthesis and stimulates formation of specific endocannabinoid-related conjugates with overlapping biological activities, providing promising leads for inflammatory and neurological disorder treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23088259/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Endocannabinoid involvement in beneficial effects of caloric restriction in a rodent model of comorbid depression and epilepsy",
+      "summary": "Caloric restriction produced beneficial effects in depression and epilepsy models through modulation of the endocannabinoid system, including effects on anandamide levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39645180/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report positive experiences with anandamide supplementation, particularly for mood enhancement and social anxiety reduction. Most combine it with CBD to prevent rapid breakdown, with effects described as calming and mood-lifting without significant side effects when properly dosed."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Effect:",
+      "description": "Most effective when combined with CBD (50-100mg) or other FAAH inhibitors to prevent rapid degradation and extend duration of effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects appear highly variable between users, with some experiencing profound benefits while others notice minimal impact"
+    },
+    {
+      "label": "Cannabis Substitution:",
+      "description": "Some users successfully use anandamide to reduce nighttime THC consumption while maintaining similar relaxation effects"
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Users typically start with 160mg doses, with some products like Anaquell QR providing standardized formulations"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most users report taking 160mg of anandamide, often from commercial products like Anaquell QR"
+    },
+    {
+      "label": "CBD Combination:",
+      "description": "Users typically combine with 50-100mg CBD to inhibit FAAH enzyme and extend anandamide's half-life"
+    },
+    {
+      "label": "Frequency:",
+      "description": "Generally taken once or twice daily, with some users taking in evening for mood and sleep support"
+    },
+    {
+      "label": "Stacking Protocol:",
+      "description": "Often combined with PEA (palmitoylethanolamide) 250-1250mg, kanna extract 50mg, and theobromine 60mg for enhanced effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reports:",
+      "description": "Very few side effects reported at standard doses, suggesting good tolerability for most users"
+    },
+    {
+      "label": "Rapid Degradation:",
+      "description": "Without FAAH inhibitors like CBD, anandamide breaks down quickly in the body, limiting effectiveness"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Some users may experience different responses to cannabis-like compounds due to endocannabinoid system variations"
+    },
+    {
+      "label": "Long-term Unknown:",
+      "description": "Limited data on long-term supplementation effects, though endogenous anandamide is naturally produced by the body"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Commercial Products:",
+      "description": "Available in branded supplements like Anaquell QR, which provide standardized anandamide doses"
+    },
+    {
+      "label": "Supplement Market:",
+      "description": "Can be purchased from specialized nootropic and supplement vendors, though less common than other cannabinoid-related supplements"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Generally legal as a dietary supplement in most jurisdictions, unlike THC which is federally restricted in many areas"
+    }
+  ],
+  "related": [
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "GLA",
+      "slug": "gla"
+    },
+    {
+      "name": "HYPERFORIN",
+      "slug": "hyperforin"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "epicatechin",
+  "url": "https://dopamine.club/substances/epicatechin/",
+  "scrapedAt": "2026-02-12T16:07:38.884Z",
+  "title": "EPICATECHIN",
+  "description": "Epicatechin is a monomeric flavanol found in cocoa, tea, apples, and berries that primarily improves vascular function by increasing nitric oxide (NO) bioavailability. It has been shown to enhance blood flow, improve endothelial function, and may support muscle growth by inhibiting myostatin, a protein that limits muscle development.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "(–)-Epicatechin mediates beneficial effects of flavanol-rich cocoa on vascular function in humans",
+      "summary": "Study demonstrated that epicatechin and its metabolite epicatechin-7-O-glucuronide independently predicted vascular effects after cocoa ingestion, with oral administration of pure epicatechin closely emulating acute vascular benefits including enhanced flow-mediated vasodilation through NO-dependent mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16418283/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of the pure flavonoids epicatechin and quercetin on vascular function and cardiometabolic health: a randomized, double-blind, placebo-controlled, crossover trial",
+      "summary": "Randomized controlled trial examining the isolated effects of pure epicatechin on vascular function and cardiometabolic parameters in humans, providing evidence for its role independent of other cocoa compounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25934864/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Impact of Epicatechin on Human Cognition: The Role of Cerebral Blood Flow",
+      "summary": "Review examining how epicatechin's effects on cerebral blood flow may contribute to cognitive benefits, supporting the connection between flavanol consumption and improved brain function through vascular mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30060538/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User experiences with epicatechin are genuinely divided, with some reporting noticeable improvements in muscle pumps and vascularity, while others find minimal to no effects. The lack of substantial User feedback suggests limited widespread adoption or dramatic results."
+  },
+  "effects": [
+    {
+      "label": "Acute Effects:",
+      "description": "Most effective for immediate improvements in vascular function and blood flow within hours of consumption"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response appears highly variable, with some individuals experiencing pronounced effects while others notice minimal changes"
+    },
+    {
+      "label": "Dose-Dependent:",
+      "description": "Research indicates clear dose-response relationship for vascular benefits, with higher doses producing more pronounced effects"
+    },
+    {
+      "label": "Chronic Use:",
+      "description": "Long-term benefits require consistent daily intake, with effects on muscle growth and cardiovascular health accumulating over weeks to months"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Research Dose:",
+      "description": "Clinical studies typically use 50-200mg of pure epicatechin daily for vascular benefits"
+    },
+    {
+      "label": "Cocoa-Derived Dosing:",
+      "description": "Equivalent to approximately 1-2g of high-flavanol cocoa extract or 20-40g of high-quality dark chocolate"
+    },
+    {
+      "label": "Timing:",
+      "description": "Best absorbed on empty stomach or with minimal fat, though some protocols use twice-daily divided doses"
+    },
+    {
+      "label": "Duration:",
+      "description": "Most studies examine acute effects or interventions lasting 4-12 weeks for sustained benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Generally well-tolerated with few adverse effects in clinical trials at standard doses"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users may experience mild gastrointestinal discomfort at higher doses"
+    },
+    {
+      "label": "Blood Pressure:",
+      "description": "Potential for mild blood pressure lowering effects due to vasodilation, which may be beneficial or concerning depending on baseline"
+    },
+    {
+      "label": "No Major Concerns:",
+      "description": "Research indicates excellent safety profile with no serious adverse events in healthy populations"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Form:",
+      "description": "Available as isolated epicatechin supplements from various manufacturers, though quality and purity may vary"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "Naturally abundant in dark chocolate, cocoa powder, green tea, and certain fruits, providing alternative consumption methods"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Completely legal and unrestricted as a dietary supplement in most countries with no regulatory concerns"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    }
+  ]
+}

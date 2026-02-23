@@ -1,0 +1,162 @@
+{
+  "slug": "maca",
+  "url": "https://dopamine.club/substances/maca/",
+  "scrapedAt": "2026-02-12T16:09:21.808Z",
+  "title": "MACA",
+  "description": "Maca (Lepidium meyenii/peruvianum) is a root vegetable native to the Peruvian Andes, traditionally used as a dietary supplement for its effects on energy, fertility, and sexual function. It contains unique bioactive compounds including macamides, macaenes, and glucosinolates, with different colored phenotypes (black, red, yellow) having varying phytochemical profiles and effects. Research suggests maca may influence hormonal balance, physical performance, and reproductive health through multiple mechanisms including antioxidant activity and modulation of the endocrine system.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Exploring the chemical and pharmacological variability of Lepidium meyenii: a comprehensive review of the effects of maca",
+      "summary": "Comprehensive review of maca's chemical composition showing variability based on ecotypes, growth conditions, and processing, with key bioactive compounds including macamides, macaenes, and glucosinolates contributing to its diverse health effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38440178/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Not All Maca Is Created Equal: A Review of Colors, Nutrition, Phytochemicals, and Clinical Uses",
+      "summary": "Review highlighting that different maca phenotypes (colors) have distinct phytochemical profiles and clinical applications, with over 10 different types having varying effects on estrogen promotion and other health outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38398854/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lepidium meyenii (Maca) in male reproduction",
+      "summary": "Review of studies demonstrating maca's effects on male fertility including improvements in semen quality, sexual behavior, and management of male genital tract disorders through its bioactive metabolites.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31805775/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Black Maca supplement on isokinetics muscular performance of elite women's handball players",
+      "summary": "Placebo-controlled crossover study showing that 4 weeks of black maca supplementation (2,500 mg concentrated extract) improved isokinetic muscular performance in elite female athletes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38187794/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Optimizing Testosterone Levels and Fertility Outcomes: A Case Series on the Impact of Lepidium peruvianum (Maca-OG) in Andropause and Sperm Dysfunction",
+      "summary": "Case series demonstrating that concentrated, gelatinized maca improved total testosterone levels and fertility outcomes in men with andropause and sperm dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39651557/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of Maca (Lepidium meyenii Walp) on Cellular Oxidative Stress: A Systematic Review and Meta-Analysis",
+      "summary": "Meta-analysis showing maca's antioxidant effects through reduction of oxidative stress markers, attributed to bioactive components including macamides and their anti-inflammatory actions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39334705/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cyclophosphamide-induced male subfertility in mice: An assessment of the potential benefits of Maca supplement",
+      "summary": "Animal study demonstrating that maca supplementation (500-1000 mg/kg) mitigated chemotherapy-induced gonadal toxicity, oxidative stress, and subfertility in male mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29047156/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of oral black Maca (Lepidium meyenii) supplementation on semen quality and refrigerated storage stability in subfertile and normofertile dogs",
+      "summary": "Study showing that oral black maca supplementation (75 mg/kg) improved sperm quality parameters and testosterone concentrations in both subfertile and normofertile dogs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40315173/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Peruvian Maca (Lepidium peruvianum): Phytochemical and Genetic Differences in Three Maca Phenotypes",
+      "summary": "Laboratory analysis showing distinct glucosinolate levels and genetic profiles between black, red, and yellow maca phenotypes, with yellow containing the highest glucosinolate content.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26508907/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences with maca are genuinely divided—many report noticeable libido and energy improvements, particularly with black maca, while a significant portion experience no benefits or develop tolerance requiring dose increases. Users frequently note that effects are subtle compared to pharmaceutical options and that brand quality matters substantially."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Responses are highly individual—some users experience dramatic effects while others notice nothing, possibly related to baseline hormone levels and phenotype selection"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Multiple users report that maca's libido effects diminish over time, requiring dose escalation or cycling to maintain benefits"
+    },
+    {
+      "label": "Color Matters:",
+      "description": "Black maca is most frequently mentioned for libido and athletic performance, while users note different phenotypes have varying effects on hormones and energy"
+    },
+    {
+      "label": "Modest Compared to Pharmaceuticals:",
+      "description": "Users consistently note that while maca may help, effects are subtle compared to prescription medications like TRT or PDE5 inhibitors for sexual function"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most users take 500-3000 mg daily, with 1000-2000 mg being the most common effective dose mentioned"
+    },
+    {
+      "label": "Concentrated Extracts:",
+      "description": "Studies and case reports use 2,500 mg of concentrated/gelatinized extract, which users report as more effective than raw powder"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically taken in the morning on an empty stomach for energy effects, though some users take divided doses throughout the day"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Users suggest cycling on and off (such as 5 days on, 2 days off, or taking periodic breaks) to prevent tolerance and maintain effectiveness"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Stomach discomfort, bloating, and gas are commonly reported, particularly with red maca or non-gelatinized forms"
+    },
+    {
+      "label": "Hormonal Effects:",
+      "description": "Some users report acne, mood changes, or feelings of being overstimulated, particularly at higher doses or with wrong phenotype selection"
+    },
+    {
+      "label": "Tolerance Building:",
+      "description": "Rapid tolerance development requiring dose increases is frequently mentioned as limiting long-term effectiveness"
+    },
+    {
+      "label": "Minimal Serious Effects:",
+      "description": "Overall side effect profile is mild, with most users able to discontinue without withdrawal symptoms if issues occur"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Critical:",
+      "description": "Users emphasize that source and brand matter significantly, with recommendations for reputable suppliers offering gelatinized Peruvian sources with third-party testing"
+    },
+    {
+      "label": "Phenotype Selection:",
+      "description": "Different colors (black, red, yellow) are available with different effects—black for libido/performance, red for hormonal balance, yellow for general use"
+    },
+    {
+      "label": "Legal and Accessible:",
+      "description": "Widely available as an over-the-counter supplement without prescription, sold as powder, capsules, and concentrated extracts through various retailers"
+    }
+  ],
+  "related": [
+    {
+      "name": "TONGKAT ALI (EURYCOMA)",
+      "slug": "tongkat-ali-eurycoma"
+    },
+    {
+      "name": "Cordyceps",
+      "slug": "cordyceps"
+    },
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "FADOGIA AGRESTIS",
+      "slug": "fadogia-agrestis"
+    },
+    {
+      "name": "FENUGREEK",
+      "slug": "fenugreek"
+    }
+  ]
+}

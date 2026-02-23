@@ -1,0 +1,155 @@
+{
+  "slug": "fisetin",
+  "url": "https://dopamine.club/substances/fisetin/",
+  "scrapedAt": "2026-02-12T16:07:48.815Z",
+  "title": "FISETIN",
+  "description": "Fisetin is a naturally occurring flavonoid found in fruits and vegetables (strawberries, apples, grapes) with senolytic properties, meaning it selectively eliminates senescent 'zombie' cells that accumulate with aging. It works through multiple mechanisms including mTORC1 pathway modulation, reduction of oxidative stress and inflammation, and SASP (senescence-associated secretory phenotype) factor inhibition. Primary research applications focus on anti-aging, neuroprotection, and metabolic health.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Intermittent Supplementation With Fisetin Improves Physical Function and Decreases Cellular Senescence in Skeletal Muscle With Aging: A Comparison to Genetic Clearance of Senescent Cells and Synthetic Senolytic Approaches",
+      "summary": "Oral intermittent fisetin treatment (1 week on-2 weeks off-1 week on) improved frailty and grip strength in old mice by reducing cellular senescence and SASP-related inflammation in skeletal muscle.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40437670/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Intermittent supplementation with fisetin improves arterial function in old mice by decreasing cellular senescence",
+      "summary": "Intermittent fisetin supplementation improved endothelial function and reduced vascular cell senescence and inflammation markers in aged mice, demonstrating benefits for cardiovascular health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38062873/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fisetin from Dietary Supplement to a Drug Candidate: An Assessment of Potential",
+      "summary": "Comprehensive review identifying fisetin's neurotrophic, anti-inflammatory, anti-carcinogenic, and anti-diabetic properties, while noting challenges with water solubility and oral bioavailability requiring novel delivery systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38716552/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fisetin-In Search of Better Bioavailability-From Macro to Nano Modifications: A Review",
+      "summary": "Review demonstrating that nanotechnology-based delivery methods can significantly improve fisetin's limited water solubility, poor absorption, and low bioavailability to enhance therapeutic efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37762460/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fisetin, a potential caloric restriction mimetic, attenuates senescence biomarkers in rat erythrocytes",
+      "summary": "Fisetin supplementation (15 mg/kg) for 6 weeks in aged rats suppressed aging-induced increases in reactive oxygen species, cell death, and oxidative damage markers, functioning as a caloric restriction mimetic.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30624963/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fisetin regulates obesity by targeting mTORC1 signaling",
+      "summary": "Fisetin prevented diet-induced obesity by inhibiting mTORC1 signaling in an Akt-dependent manner, reducing adipocyte differentiation and lipid accumulation in cell culture and animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23517912/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Inhibition mechanism of fisetin on acetylcholinesterase and its synergistic effect with galantamine",
+      "summary": "Fisetin demonstrated mixed-mode inhibition of acetylcholinesterase (IC50 = 8.88 μM) with potential synergistic effects when combined with galantamine, suggesting benefits for Alzheimer's disease treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37769468/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Regulatory effects of fisetin on microglial activation",
+      "summary": "Fisetin reduced neuroinflammation by modulating microglial activation and inflammatory mediator production, demonstrating neuroprotective potential through anti-inflammatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24972270/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report predominantly positive experiences with fisetin for longevity and anti-aging purposes, with multiple accounts of improved joint pain, cognitive function, and even unexpected benefits like hair color restoration. Most users tolerate high-dose senolytic protocols well with minimal side effects, though some note general tiredness initially."
+  },
+  "effects": [
+    {
+      "label": "Senolytic Protocol Success:",
+      "description": "Mayo Clinic protocol (20mg/kg for 2 days) appears well-tolerated and effective for many users targeting cellular senescence"
+    },
+    {
+      "label": "Bioavailability Challenges:",
+      "description": "Research confirms poor water solubility and absorption issues, though users report benefits even with standard supplements when dosed appropriately"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Users commonly stack fisetin with quercetin for enhanced senolytic effects, and with other longevity compounds like resveratrol, NMN, and metformin"
+    },
+    {
+      "label": "Timeline for Results:",
+      "description": "Physical benefits like joint pain reduction reported within weeks to months; cognitive effects may be noticed sooner"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Mayo Clinic Senolytic Protocol:",
+      "description": "20 mg/kg body weight daily for 2 consecutive days per month, requiring 1.5-2 grams for average adult (15-20 capsules of 100mg)"
+    },
+    {
+      "label": "Maintenance Dosing:",
+      "description": "Some users take lower daily doses (100-500mg) between high-dose cycles or as continuous supplementation"
+    },
+    {
+      "label": "Intermittent Schedule:",
+      "description": "1 week on, 2 weeks off, 1 week on pattern mentioned in research and adopted by some biohackers for sustained senolytic effects"
+    },
+    {
+      "label": "Combination Dosing:",
+      "description": "When stacked with quercetin, users typically maintain similar high-dose ratios for both compounds during senolytic days"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Mild Fatigue:",
+      "description": "Most common side effect is temporary tiredness or lethargy after first day of high-dose protocol, typically resolving by second day"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Majority of users report no adverse effects even at very high senolytic doses (2+ grams daily)"
+    },
+    {
+      "label": "Minimal Gastrointestinal Issues:",
+      "description": "Unlike many supplements, fisetin appears to cause few digestive complaints even at high doses"
+    },
+    {
+      "label": "Unknown Long-term Effects:",
+      "description": "As a relatively new biohacking intervention, long-term safety data from human use remains limited"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Multiple brands offer fisetin supplements (quality brands commonly mentioned), available without prescription as dietary supplement"
+    },
+    {
+      "label": "Dosage Form Challenges:",
+      "description": "Standard capsules are 100mg, requiring consumption of 15-20 capsules for senolytic protocols, leading some users to seek bulk powder forms"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Users emphasize importance of choosing reputable brands due to bioavailability concerns and lack of standardization in supplement industry"
+    }
+  ],
+  "related": [
+    {
+      "name": "KAEMPFEROL",
+      "slug": "kaempferol"
+    },
+    {
+      "name": "XANTHOHUMOL",
+      "slug": "xanthohumol"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

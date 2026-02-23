@@ -1,0 +1,130 @@
+{
+  "slug": "ghrp-6",
+  "url": "https://dopamine.club/substances/ghrp-6/",
+  "scrapedAt": "2026-02-12T16:08:02.042Z",
+  "title": "GHRP-6",
+  "description": "GHRP-6 is a growth hormone releasing peptide that strongly stimulates appetite and GH release through ghrelin receptor activation. It's known for producing the most significant hunger increase among GHRPs, making it useful for those seeking to gain weight.",
+  "categories": [
+    "Peptide",
+    "GH"
+  ],
+  "research": [
+    {
+      "title": "GHRP-2, a GHS-R agonist, directly acts on myocytes to attenuate dexamethasone-induced expressions of muscle-specific ubiquitin ligases",
+      "summary": "GHRP-2 directly reduces Atrogin-1 and MuRF1 mRNA levels in myocytes via ghrelin receptors, potentially mitigating muscle wasting.",
+      "url": "https://doi.org/10.1016/j.lfs.2007.11.019",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Growth hormone releasing peptide (GHRP-6) stimulates phosphatidylinositol turnover in human pituitary somatotroph cells",
+      "summary": "GHRP-6 activates the phosphatidylinositol second messenger system to stimulate GH secretion in pituitary somatotrophs.",
+      "url": "https://doi.org/10.1677/JME.0.0140135",
+      "source": "(Bioscientifica)"
+    },
+    {
+      "title": "Growth hormone releasing peptide-6 (GHRP-6) prevents doxorubicin-induced myocardial and extra-myocardial damages by activating prosurvival mechanisms",
+      "summary": "GHRP-6 administration alongside doxorubicin prevents cardiac and systemic damage, preserving function and reducing mortality in rats.",
+      "url": "https://doi.org/10.3389/fphar.2024.1402138",
+      "source": "(Frontiers)"
+    },
+    {
+      "title": "Pharmacokinetic study of Growth Hormone-Releasing Peptide 6 (GHRP-6) in nine male healthy volunteers",
+      "summary": "GHRP-6 demonstrates dose-dependent bi-exponential kinetics with distribution and elimination half-lives of approximately 7.6 and 2.5 hours respectively.",
+      "url": "https://doi.org/10.1016/j.ejps.2012.10.006",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Growth hormone-releasing effect of oral growth hormone-releasing peptide 6 (GHRP-6) administration in children with short stature",
+      "summary": "Oral GHRP-6 effectively stimulates GH secretion in children with normal short stature, matching intravenous GHRH effects.",
+      "url": "https://doi.org/10.1530/EJE.0.1330425",
+      "source": "(Oxford Academic)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users seeking weight gain appreciate the strong appetite stimulation. Those wanting GH benefits without hunger often prefer GHRP-2 or Ipamorelin instead."
+  },
+  "effects": [
+    {
+      "label": "Predictable GH Increase:",
+      "description": "Reliable hormone elevation."
+    },
+    {
+      "label": "Best for Bulking:",
+      "description": "Ideal for those wanting to gain weight."
+    },
+    {
+      "label": "Synergy with GHRH:",
+      "description": "Combine with CJC-1295 for amplified effects."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "100-300mcg per injection, 2-3 times daily."
+    },
+    {
+      "label": "Empty Stomach:",
+      "description": "Must be taken fasted for best results."
+    },
+    {
+      "label": "Timing:",
+      "description": "Often before meals to coincide with appetite stimulation."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Extreme Hunger:",
+      "description": "Can be overwhelming; plan meals accordingly."
+    },
+    {
+      "label": "Water Retention:",
+      "description": "Bloating common, especially initially."
+    },
+    {
+      "label": "Cortisol Elevation:",
+      "description": "Raises cortisol more than other GHRPs."
+    },
+    {
+      "label": "Blood Sugar Effects:",
+      "description": "May impact glucose metabolism."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Cost Effective:",
+      "description": "Generally one of the more affordable GHRPs."
+    },
+    {
+      "label": "Common Availability:",
+      "description": "Widely stocked by most peptide vendors."
+    }
+  ],
+  "related": [
+    {
+      "name": "CJC-1295",
+      "slug": "cjc-1295"
+    },
+    {
+      "name": "CJC+DAC",
+      "slug": "cjc-dac"
+    },
+    {
+      "name": "GHRP-2",
+      "slug": "ghrp-2"
+    },
+    {
+      "name": "IBUTAMOREN (MK-677)",
+      "slug": "ibutamoren-mk-677"
+    },
+    {
+      "name": "Ipamorelin",
+      "slug": "ipamorelin"
+    }
+  ]
+}

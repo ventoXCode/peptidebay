@@ -1,0 +1,161 @@
+{
+  "slug": "xanthohumol",
+  "url": "https://dopamine.club/substances/xanthohumol/",
+  "scrapedAt": "2026-02-12T16:13:10.099Z",
+  "title": "XANTHOHUMOL",
+  "description": "Xanthohumol is a prenylated flavonoid compound derived from hops (Humulus lupulus) with potent antioxidant, anti-inflammatory, and neuroprotective properties. It works primarily by regulating the Nrf2/NF-κB/mTOR/AKT pathways, reducing oxidative stress, inhibiting inflammation, and potentially protecting against neurodegenerative diseases and metabolic disorders. Research suggests benefits for cognitive function, metabolic health, and disease prevention, though human clinical data remains limited.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Antioxidant Potential of Xanthohumol in Disease Prevention: Evidence from Human and Animal Studies",
+      "summary": "Comprehensive review showing xanthohumol's strong antioxidant and anti-inflammatory effects through regulation of key cellular pathways, with potential for preventing cancer and neurodegenerative diseases, though some risks exist in certain disease states like advanced prostate cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39765887/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Xanthohumol improved cognitive flexibility in young mice",
+      "summary": "Study demonstrated that xanthohumol supplementation improved cognitive flexibility and reversed age-related changes in protein palmitoylation status in brain tissue, suggesting potential neuroprotective benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25192637/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective effect of xanthohumol against age-related brain damage",
+      "summary": "Research found xanthohumol protected against age-related brain damage through antioxidant mechanisms, reducing oxidative stress markers and improving mitochondrial function in aging brain tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28950154/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Xanthohumol protects neuron from cerebral ischemia injury in experimental stroke",
+      "summary": "Animal studies showed xanthohumol provided neuroprotection in stroke models through antioxidant effects, reducing brain damage and improving outcomes following ischemic injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32108303/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Xanthohumol inhibits tau protein aggregation and protects cells against tau aggregates",
+      "summary": "Study found xanthohumol directly inhibits tau protein aggregation and disaggregates tau fibrils, protecting cells from tau-induced apoptosis with potential implications for Alzheimer's disease prevention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31793596/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Xanthohumol Requires the Intestinal Microbiota to Improve Glucose Metabolism in Diet-Induced Obese Mice",
+      "summary": "Research demonstrated that xanthohumol's beneficial effects on glucose metabolism and obesity are mediated through the gut microbiome, with effects being lost in microbiota-depleted animals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34496124/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Xanthohumol microbiome and signature in healthy adults (the XMaS trial): a phase I triple-masked, placebo-controlled clinical trial",
+      "summary": "Phase I clinical trial examining the safety and tolerability of xanthohumol supplementation in healthy adults, with focus on microbiome effects and metabolic markers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33028396/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Xanthohumol feeding does not impair organ function and homoeostasis in mice",
+      "summary": "Safety study found that high-dose xanthohumol supplementation (1000 mg/kg body weight) for 3 weeks showed no signs of toxicity or organ damage in mice, supporting its safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20427021/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Xanthohumol, a hop-derived prenylated flavonoid, promotes macrophage reverse cholesterol transport",
+      "summary": "Study showed xanthohumol increased reverse cholesterol transport in a hamster model, potentially contributing to its anti-atherosclerotic effects and cardiovascular benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28501703/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Limited direct User feedback exists about xanthohumol specifically, though it appears in supplement research contexts. Users show interest in emerging compounds like xanthohumol for cognitive and longevity benefits, but lack extensive anecdotal experience with this particular flavonoid compared to more mainstream supplements."
+  },
+  "effects": [
+    {
+      "label": "Cognitive Enhancement:",
+      "description": "Animal studies show consistent improvements in cognitive flexibility and protection against age-related brain damage, though human data is limited"
+    },
+    {
+      "label": "Microbiome Dependent:",
+      "description": "Effectiveness for metabolic benefits appears dependent on intact gut microbiota, suggesting variable individual responses"
+    },
+    {
+      "label": "Tau Aggregation:",
+      "description": "In vitro studies show promise for Alzheimer's prevention through direct tau protein interaction, but clinical translation uncertain"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Extensive animal studies show good safety at high doses with no organ toxicity, supported by Phase I human trial data"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use doses equivalent to several hundred milligrams in humans when adjusted for body weight"
+    },
+    {
+      "label": "Clinical Trial:",
+      "description": "Human Phase I trial examined safety and tolerability, though specific dosing protocols not widely discussed in available data"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Available in dietary supplements and medical foods, often combined with other hop-derived compounds"
+    },
+    {
+      "label": "Loading Protocol:",
+      "description": "Limited evidence for specific dosing strategies; safety studies suggest high doses are well-tolerated"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Animal safety studies at very high doses (1000 mg/kg) showed no significant adverse effects or organ damage"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects may vary based on gut microbiome composition and metabolic status"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential effects on CYP3A11 enzyme expression suggest possible interactions with medications metabolized by this pathway"
+    },
+    {
+      "label": "Long-term Safety:",
+      "description": "Good safety profile in animal studies, but limited long-term human data available from clinical trials"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Supplements:",
+      "description": "Available as ingredient in various supplements and medical foods, though not FDA-approved as therapeutic drug"
+    },
+    {
+      "label": "Hop Source:",
+      "description": "Naturally present in hops (Humulus lupulus), particularly in female flowers, also found in hop-enriched beers"
+    },
+    {
+      "label": "Research Grade:",
+      "description": "Available for research purposes, with Phase I clinical trials demonstrating feasibility of human supplementation"
+    }
+  ],
+  "related": [
+    {
+      "name": "FISETIN",
+      "slug": "fisetin"
+    },
+    {
+      "name": "KAEMPFEROL",
+      "slug": "kaempferol"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

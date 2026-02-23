@@ -1,0 +1,115 @@
+{
+  "slug": "doliracetam",
+  "url": "https://dopamine.club/substances/doliracetam/",
+  "scrapedAt": "2026-02-12T16:07:17.506Z",
+  "title": "DOLIRACETAM",
+  "description": "Doliracetam is a cyclic GABA derivative and nootropic agent within the racetam family, structurally related to substances like piracetam and oxiracetam. It is primarily researched for its potential to modulate cholinergic and glutamatergic neurotransmission, aiming to restore cell membrane fluidity and improve cognitive function in organic brain syndromes.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "CNS pharmacology and clinical therapeutic effects of oxiracetam",
+      "summary": "This study explores the clinical therapeutic effects and neurophysiological changes associated with oxiracetam, a close structural analog of doliracetam, in healthy volunteers and patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3594458/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of oxiracetam (ISF 2522) in patients with organic brain syndrome",
+      "summary": "A double-blind study comparing the effects of cyclic GABA derivatives on cognitive performance and brain wave patterns in patients with organic brain syndrome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3897895/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Piracetam: A Review of Pharmacological Properties and Clinical Uses",
+      "summary": "Reviews the mechanism of action for racetams, highlighting how they restoration of cell membrane fluidity can modulate neurotransmitter systems to improve memory and learning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16007238/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Increase in the power of human memory in normal man through the use of drugs",
+      "summary": "Research findings indicating that racetam-class drugs can facilitate learning and increase the power of human memory in healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/826948/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Users generally view Doliracetam as a niche or 'forgotten' racetam with mild effects compared to newer analogs, leading to split opinions on its utility."
+  },
+  "effects": [
+    {
+      "label": "Subtle Action:",
+      "description": "Many users find the effects too subtle to notice without consistent daily dosing over 1-2 weeks."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Reported to be significantly more effective when combined with a choline source."
+    },
+    {
+      "label": "Diminishing Returns:",
+      "description": "Long-term users suggest that tolerance can build if the compound is not cycled."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Common user reports suggest starting at 400mg to 800mg twice daily."
+    },
+    {
+      "label": "Choline Pairing:",
+      "description": "Most regimens include 300mg of Alpha-GPC or CDP-Choline to prevent headaches."
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users recommend a higher initial dose to reach steady-state plasma levels faster."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Choline Headaches:",
+      "description": "A common 'racetam headache' occurs if acetylcholine levels are not replenished."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Taken late in the day, the mild stimulating effects can interfere with sleep quality."
+    },
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Occasional reports of nausea or stomach upset when taken on an empty stomach."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Challenges:",
+      "description": "Often difficult to find through domestic supplement vendors, requiring specialized nootropic suppliers."
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally sold as a research chemical or dietary supplement ingredient, depending on jurisdiction."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

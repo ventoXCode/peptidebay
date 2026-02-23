@@ -1,0 +1,150 @@
+{
+  "slug": "berberine",
+  "url": "https://dopamine.club/substances/berberine/",
+  "scrapedAt": "2026-02-12T16:06:04.805Z",
+  "title": "BERBERINE",
+  "description": "Berberine is a natural alkaloid compound extracted from various plants including Berberis species, traditionally used in Chinese and Ayurvedic medicine. It works primarily by activating AMP-activated protein kinase (AMPK), improving insulin sensitivity, regulating glucose metabolism, and modulating gut microbiota. Berberine is commonly used for managing blood sugar levels, supporting metabolic health, reducing cholesterol, and has shown antimicrobial and anti-inflammatory properties comparable to metformin in some studies.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Efficacy of berberine in patients with type 2 diabetes mellitus",
+      "summary": "Berberine showed hypoglycemic effects similar to metformin, significantly reducing HbA1c from 9.5% to 7.5%, fasting blood glucose, postprandial glucose, and plasma triglycerides in type 2 diabetes patients over 3 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18442638/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gut microbiome-related effects of berberine and probiotics on type 2 diabetes (the PREMOTE study)",
+      "summary": "Large-scale study demonstrating berberine's effects on type 2 diabetes are mediated through gut microbiome modulation, with combined berberine and probiotic treatment showing enhanced metabolic benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33024120/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of berberine supplementation on obesity parameters, inflammation and liver function enzymes: A systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis confirmed berberine's effectiveness in reducing obesity parameters, inflammatory markers (CRP), and improving liver function enzymes across multiple randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32690176/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Combined berberine and probiotic treatment as an effective regimen for improving postprandial hyperlipidemia in type 2 diabetes patients: a double blinded placebo controlled randomized study",
+      "summary": "Double-blind RCT showing berberine combined with probiotics significantly improved postprandial lipid metabolism in type 2 diabetes patients, suggesting synergistic effects through gut microbiome modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34923903/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Berberine Phospholipid Is an Effective Insulin Sensitizer and Improves Metabolic and Hormonal Disorders in Women with Polycystic Ovary Syndrome",
+      "summary": "Berberine phospholipid formulation demonstrated significant insulin-sensitizing effects and improved metabolic and hormonal parameters in women with PCOS over the study period.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34684666/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A network meta-analysis on the comparative effect of nutraceuticals on lipid profile in adults",
+      "summary": "Network meta-analysis found berberine among the most effective nutraceuticals for reducing plasma total and LDL cholesterol levels by 3-25% in hypercholesterolemic patients depending on dosage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38659110/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The efficacy and safety of berberine in combination with cinnamon supplementation in patients with type 2 diabetes: a randomized clinical trial",
+      "summary": "Randomized trial demonstrated berberine combined with cinnamon supplementation was safe and effective for improving glycemic control in type 2 diabetes patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39998703/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report predominantly positive experiences with berberine, particularly for blood sugar control, weight loss, reduced food cravings, and improved metabolic health. While some users experience gastrointestinal side effects, most find it highly effective and consider it one of their most valuable supplements."
+  },
+  "effects": [
+    {
+      "label": "Metabolic Impact:",
+      "description": "Highly effective for users with insulin resistance, prediabetes, PCOS, or metabolic syndrome; effects are more pronounced in those with existing metabolic dysfunction versus healthy individuals"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Works exceptionally well for 70-80% of users, but 20-30% report minimal effects or intolerance; effectiveness appears linked to baseline metabolic health and gut microbiome composition"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Most effective when taken 15-30 minutes before meals; some users note reduced exercise performance if taken too close to workouts due to glucose blunting effects"
+    },
+    {
+      "label": "Comparison to Pharmaceuticals:",
+      "description": "Users frequently compare effectiveness favorably to metformin for blood sugar control, with some finding berberine equally or more effective with fewer side effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "500mg taken 2-3 times daily before meals (total 1000-1500mg/day) is most commonly reported effective dose"
+    },
+    {
+      "label": "Starting Low:",
+      "description": "Users recommend starting with 500mg once daily for first week to assess tolerance, then gradually increasing to avoid gastrointestinal upset"
+    },
+    {
+      "label": "Cycling Strategy:",
+      "description": "Some advanced users cycle berberine (e.g., 5 days on, 2 days off, or taking breaks every few months) to prevent tolerance and maintain gut microbiome diversity"
+    },
+    {
+      "label": "Timing Optimization:",
+      "description": "Taking 15-30 minutes before meals maximizes glucose control effects; avoid taking within 4 hours of intense workouts to preserve exercise performance"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "30-40% of users report initial digestive issues including diarrhea, constipation, flatulence, or abdominal discomfort, typically resolving within 1-2 weeks"
+    },
+    {
+      "label": "Severe Reactions:",
+      "description": "Small percentage (5-10%) experience intense nausea, simultaneous vomiting and diarrhea, or severe stomach cramping requiring discontinuation"
+    },
+    {
+      "label": "Microbiome Impact:",
+      "description": "Strong antimicrobial effects can disrupt gut bacteria balance; users recommend taking probiotics or fermented foods to maintain beneficial bacteria"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Can potentiate blood pressure medications causing hypotension, interacts poorly with statins causing muscle cramps, and should be avoided with certain medications; medical consultation recommended"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Readily available over-the-counter in supplement stores, online retailers, and health food stores in the United States without prescription"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of third-party tested brands (USP, NSF, ConsumerLab certified) due to significant quality variation"
+    },
+    {
+      "label": "Formulation Types:",
+      "description": "Available as standard berberine HCl (most common), berberine phospholipid complex (better absorption but more expensive), and combined formulations with probiotics or other metabolic support ingredients"
+    }
+  ],
+  "related": [
+    {
+      "name": "ARTICHOKE EXTRACT",
+      "slug": "artichoke-extract"
+    },
+    {
+      "name": "EGCG (GREEN TEA EXTRACT)",
+      "slug": "egcg-green-tea-extract"
+    },
+    {
+      "name": "PTEROSTILBENE",
+      "slug": "pterostilbene"
+    },
+    {
+      "name": "QUERCETIN",
+      "slug": "quercetin"
+    },
+    {
+      "name": "RESVERATROL",
+      "slug": "resveratrol"
+    }
+  ]
+}

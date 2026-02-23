@@ -1,0 +1,149 @@
+{
+  "slug": "serrapeptase",
+  "url": "https://dopamine.club/substances/serrapeptase/",
+  "scrapedAt": "2026-02-12T16:11:15.098Z",
+  "title": "SERRAPEPTASE",
+  "description": "Serrapeptase is a proteolytic enzyme derived from the bacteria Serratia marcescens, originally found in the digestive system of silkworms. It works by breaking down proteins, fibrin, and biofilms, exhibiting anti-inflammatory, anti-edemic, fibrinolytic, and analgesic properties. Primarily used for reducing inflammation, swelling, pain, and breaking down scar tissue in various therapeutic applications.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Serratiopeptidase: Insights into the therapeutic applications",
+      "summary": "Comprehensive review validating serratiopeptidase's anti-inflammatory, anti-biofilm, analgesic, anti-edemic, and fibrinolytic properties through in vitro, in vivo, and clinical studies, though noting need for more safety and mechanism data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33134103/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Serratiopeptidase: a systematic review of the existing evidence",
+      "summary": "Systematic review examining serratiopeptidase's use across multiple medical specialties for anti-inflammatory, anti-edemic, and analgesic effects, finding some evidence but calling for more rigorous clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23380245/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of the proteolytic enzyme serrapeptase on swelling, pain and trismus after surgical extraction of mandibular third molars",
+      "summary": "Randomized double-blind study showing significant reduction in cheek swelling when serrapeptase (5mg) was combined with paracetamol after third molar surgery compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18272344/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of serrapeptase on ankle sprain cases: A single center prospective comparative study",
+      "summary": "Study of 76 patients showing serrapeptase (5mg, three times daily) significantly reduced pain and edema in Grade II ankle sprains, with efficacy comparable to paracetamol but with fewer side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39324023/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluating the efficacy of curcumin plus serratiopeptidase formulation in inflammatory acne: a quasi-experimental study",
+      "summary": "Study of 50 patients found combined oral curcumin and serratiopeptidase significantly improved inflammatory acne lesions when used as adjunct therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40661790/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "In vitro and in silico evaluation of the serrapeptase effect on biofilm and amyloids of Pseudomonas aeruginosa",
+      "summary": "Research demonstrating serrapeptase's ability to break down biofilms and amyloid structures in Pseudomonas aeruginosa, suggesting potential applications beyond inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37741938/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Serrapeptase and nattokinase intervention for relieving Alzheimer's disease pathophysiology in rat model",
+      "summary": "Animal study showing serrapeptase and nattokinase modulated brain inflammation markers, neurotrophic factors, and reduced neuronal degeneration in aluminum-induced Alzheimer's-like pathology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23821590/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report predominantly positive experiences with serrapeptase, particularly for reducing inflammation, breaking down scar tissue, and relieving chronic pain. While some report unexpected side effects or interactions with fillers, the majority find it effective for musculoskeletal issues, sinusitis, and post-surgical recovery."
+  },
+  "effects": [
+    {
+      "label": "Chronic Conditions:",
+      "description": "Particularly effective for long-standing scar tissue, chronic sinusitis (reported 10-year sufferers finding relief), and post-surgical adhesions"
+    },
+    {
+      "label": "Onset Time:",
+      "description": "Effects typically noticed within 1-3 days for acute issues, with chronic conditions showing improvement after 1-2 weeks of consistent use"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Often more effective when combined with nattokinase, bromelain, or curcumin for enhanced anti-inflammatory and fibrinolytic effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly between users, with some experiencing dramatic results while others see minimal benefit, suggesting individual biochemistry plays a role"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Anti-Inflammatory:",
+      "description": "80,000-120,000 SPU once daily on empty stomach, typically 30-40 minutes before eating"
+    },
+    {
+      "label": "Acute Conditions:",
+      "description": "Higher doses of 120,000-250,000 SPU daily for short-term use (ankle sprains, post-surgical swelling)"
+    },
+    {
+      "label": "Chronic Use:",
+      "description": "100,000-120,000 SPU daily for ongoing conditions like sinusitis or scar tissue, with some users taking 5 days on, 2 days off"
+    },
+    {
+      "label": "Timing Critical:",
+      "description": "Must be taken on empty stomach (at least 30 minutes before food) for systemic effects rather than digestive action"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Filler Dissolution:",
+      "description": "Multiple reports of serrapeptase breaking down hyaluronic acid dermal fillers, causing unexpected facial changes"
+    },
+    {
+      "label": "Inflammatory Release:",
+      "description": "Some users experience temporary worsening of symptoms, facial twitching, or spasms, possibly from biofilm disruption and toxin release"
+    },
+    {
+      "label": "Coordination Issues:",
+      "description": "One user reported significant disruption to hand-eye coordination when taking serrapeptase regularly"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report no significant side effects when taking appropriate doses, with safety profile considered better than NSAIDs"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Brands:",
+      "description": "quality brands, Physician's Naturals, and Serrakor NK (combination with nattokinase) frequently mentioned as reliable sources"
+    },
+    {
+      "label": "Dosage Variation:",
+      "description": "Available in wide range of potencies from 40,000 to 250,000 SPU, requiring careful attention to unit strength when comparing products"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of enteric-coated formulations to survive stomach acid and reach systemic circulation"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    },
+    {
+      "name": "PROTEASE",
+      "slug": "protease"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    }
+  ]
+}

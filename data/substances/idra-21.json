@@ -1,0 +1,133 @@
+{
+  "slug": "idra-21",
+  "url": "https://dopamine.club/substances/idra-21/",
+  "scrapedAt": "2026-02-12T16:08:47.423Z",
+  "title": "IDRA-21",
+  "description": "IDRA-21 is a benzothiadiazine derivative and a positive allosteric modulator of the glutamatergic AMPA receptor. It works by attenuating the rapid desensitization of these receptors, thereby increasing excitatory synaptic strength and promoting long-term potentiation in the brain.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The effects of IDRA 21, a positive modulator of the AMPA receptor, on delayed matching performance by young and aged rhesus monkeys",
+      "summary": "This study found that IDRA-21 significantly improved task accuracy in monkeys for up to 48 hours after a single dose, highlighting its potential for long-lasting cognitive enhancement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14654093/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "7-Chloro-3-methyl-3,4-dihydro-2H-1,2,4-benzothiadiazine S,S-dioxide (IDRA 21), a congener of aniracetam, potently abates pharmacologically induced cognitive impairments in patas monkeys",
+      "summary": "Researchers demonstrated that IDRA-21 effectively reverses learning deficits induced by GABA-enhancing drugs like alprazolam.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7644474/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of the AMPA receptor modulator IDRA 21 on LTP in hippocampal slices",
+      "summary": "The study suggests IDRA-21 promotes long-term potentiation (LTP), the cellular basis for memory, by enhancing AMPA receptor-mediated currents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8930991/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "7-Chloro-3-methyl-3-4-dihydro-2H-1,2,4 benzothiadiazine S,S-dioxide (IDRA 21): a benzothiadiazine derivative that enhances cognition by attenuating AMPA receptor desensitization",
+      "summary": "Research in rats showed that oral administration of IDRA-21 significantly improved performance in water maze tasks and passive avoidance tests.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7815345/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The diazoxide derivative IDRA 21 enhances ischemic hippocampal neuron injury",
+      "summary": "This critical study warns that IDRA-21 can worsen neuronal damage following a stroke or global ischemia due to excessive AMPA receptor activation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9585363/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Users generally report significant memory and focus benefits, but a high level of caution exists regarding potential excitotoxicity and long-term safety."
+  },
+  "effects": [
+    {
+      "label": "Potency:",
+      "description": "Frequently compared to aniracetam but regarded as significantly more potent (up to 10-30 times)."
+    },
+    {
+      "label": "Synergy with Other Nootropics:",
+      "description": "Often stacked with PRL-8-53 or Racetams to maximize memory retention for exams."
+    },
+    {
+      "label": "Task Difficulty:",
+      "description": "Research suggests it is most effective at improving performance on complex or 'difficult' cognitive tasks rather than simple ones."
+    },
+    {
+      "label": "Variable Response:",
+      "description": "While highly effective for some, others find the stimulation 'weird' or unsettling compared to traditional stimulants."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Oral Dose:",
+      "description": "Most users report taking between 5mg and 10mg per day."
+    },
+    {
+      "label": "Frequency:",
+      "description": "Due to the long half-life (noted in research as up to 48 hours), many users dose every 2-3 days rather than daily."
+    },
+    {
+      "label": "Microdosing:",
+      "description": "Some users start as low as 3mg to assess sensitivity and mitigate the risk of over-excitation."
+    },
+    {
+      "label": "Intranasal Use:",
+      "description": "A few users experiment with 10mg intranasaly, though there is no formal research supporting this route."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Excitotoxicity Risk:",
+      "description": "The primary concern is permanent neuronal damage if taken during high-stress states, stroke, or seizures."
+    },
+    {
+      "label": "Scalp Tingling:",
+      "description": "A common user-reported sensation described as an electric or vibrating feeling on the scalp."
+    },
+    {
+      "label": "Headaches:",
+      "description": "Some users report pressure or 'brain fog' if Choline levels are not managed while using AMPA modulators."
+    },
+    {
+      "label": "Increased Ischemic Damage:",
+      "description": "Scientific evidence indicates it can worsen brain damage during oxygen-deprived events like a stroke."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical Status:",
+      "description": "Primarily sold through specialized nootropic sources as a research compound rather than a dietary supplement."
+    },
+    {
+      "label": "Regulatory:",
+      "description": "Not FDA-approved for human consumption; strictly categorized as a laboratory research chemical in many regions."
+    }
+  ],
+  "related": [
+    {
+      "name": "L-SERINE",
+      "slug": "l-serine"
+    },
+    {
+      "name": "N-ACETYL SEMAX",
+      "slug": "n-acetyl-semax"
+    },
+    {
+      "name": "NOBILETIN",
+      "slug": "nobiletin"
+    },
+    {
+      "name": "P21",
+      "slug": "p21"
+    },
+    {
+      "name": "SOUVENAID",
+      "slug": "souvenaid"
+    }
+  ]
+}

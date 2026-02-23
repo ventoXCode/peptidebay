@@ -1,0 +1,121 @@
+{
+  "slug": "gonadorelin",
+  "url": "https://dopamine.club/substances/gonadorelin/",
+  "scrapedAt": "2026-02-12T16:08:13.317Z",
+  "title": "GONADORELIN",
+  "description": "Gonadorelin is a synthetic decapeptide and a pharmaceutical-grade analogue of the naturally occurring gonadotropin-releasing hormone (GnRH). It works by stimulating the anterior pituitary gland to release luteinizing hormone (LH) and follicle-stimulating hormone (FSH), making it a primary tool for diagnosing pituitary dysfunction and inducing ovulation or spermatogenesis.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Ganirelix",
+      "summary": "This study examines a GnRH antagonist derivative used to block LH surges during IVF, achieving a significant pregnancy rate of over 40% with daily subcutaneous administration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10718102/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Modulatory effects of gonadorelin on GABA-induced depolarization and GABA-activated current in rat spinal ganglion neurons",
+      "summary": "Researchers found that gonadorelin exerts an inhibitory effect on GABA-induced currents in sensory neurons, suggesting potential roles in neurological modulation beyond reproduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8737448/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of gonadorelin, lecirelin, and buserelin on LH surge, ovulation, and progesterone in cattle",
+      "summary": "Comparative clinical trials demonstrated that gonadorelin effectively triggers an LH surge and subsequent ovulation within specific windows following administration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25890780/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of gonadorelin on gonadotropin expression, plasma sex steroid concentrations and ovarian follicle dynamics in mature tambaqui",
+      "summary": "This study highlights gonadorelin's ability to induce ovulation and strip spawning in species that typically fail to spawn in captive environments by modulating molecular mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40645558/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Gonadorelin and erythropoiesis",
+      "summary": "Early research suggests a link between gonadorelin administration and the stimulation of red blood cell production, potentially through indirect hormonal pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7006547/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users are largely divided; while it is effectively used in clinical fertility settings, fitness enthusiasts often find it inferior to HCG for testosterone recovery due to its very short half-life and the requirement for frequent dosing."
+  },
+  "effects": [
+    {
+      "label": "Short Half-Life:",
+      "description": "The drug's efficacy is limited by a very short metabolic life, often requiring pulsatile or very frequent administration."
+    },
+    {
+      "label": "Clinical Utility:",
+      "description": "Highly effective for diagnostic testing of the hypothalamic-pituitary-gonadal axis."
+    },
+    {
+      "label": "TRT Recovery:",
+      "description": "Viewed by many as less effective than HCG for maintaining testicular volume because it does not provide the steady stimulation needed."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Subcutaneous Injection:",
+      "description": "Typically administered at 0.25 mg/day in fertility protocols to suppress premature LH surges."
+    },
+    {
+      "label": "Pulsatile Delivery:",
+      "description": "In specific clinical cases, doses are delivered via an automated pump every 90-120 minutes to mimic natural GnRH release."
+    },
+    {
+      "label": "Diagnostic Dose:",
+      "description": "Often administered as a single 100 mcg bolus to evaluate pituitary response."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Local redness, swelling, or pain at the site of subcutaneous administration is common."
+    },
+    {
+      "label": "Systemic Symptoms:",
+      "description": "Some users report malaise, headache, nausea, and fatigue following treatment."
+    },
+    {
+      "label": "Hormonal Fluctuations:",
+      "description": "Potential for mood swings or hot flashes as hormone levels spike and fall rapidly."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Only:",
+      "description": "Strictly regulated as a medical pharmaceutical, typically sourced via fertility clinics or HRT specialists."
+    },
+    {
+      "label": "Veterinary Use:",
+      "description": "Widely available and commonly used in livestock management for estrus synchronization."
+    }
+  ],
+  "related": [
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    },
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "ARA-290",
+      "slug": "ara-290"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "BPC-157",
+      "slug": "bpc-157"
+    }
+  ]
+}

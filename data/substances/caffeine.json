@@ -1,0 +1,155 @@
+{
+  "slug": "caffeine",
+  "url": "https://dopamine.club/substances/caffeine/",
+  "scrapedAt": "2026-02-12T16:06:17.807Z",
+  "title": "CAFFEINE",
+  "description": "Caffeine is a trimethylxanthine stimulant that acts as an adenosine receptor antagonist in the central nervous system, promoting alertness and reducing fatigue. It is one of the most widely consumed psychoactive substances globally, found naturally in coffee, tea, and other beverages, and is well-established as an ergogenic aid that enhances physical performance, cognitive function, and endurance across various athletic and cognitive tasks.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Common questions and misconceptions about caffeine supplementation: what does the scientific evidence really show?",
+      "summary": "Comprehensive review addressing common questions about caffeine supplementation, examining scientific evidence for its effects on performance and clarifying misconceptions about optimal use, timing, and dosing strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38466174/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Exercise and sport performance with low doses of caffeine",
+      "summary": "Low doses of caffeine (<3 mg/kg body mass, ~200mg) are ergogenic with few side effects, appearing to work through central nervous system alterations rather than peripheral mechanisms, improving vigilance, alertness, and cognitive processes during exercise.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25355191/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Caffeine and sport",
+      "summary": "Caffeine supplementation improves high-intensity endurance exercise, explosive efforts, resistance exercise, team sports and combat sports, though individual variation exists in ergogenic response; multiple ingestion forms are effective with capsules, water, or gum being optimal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37722778/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Can caffeine improve your performance? Psychophysiological effects - A systematic review",
+      "summary": "Systematic review found 37.5% of studies showed favorable ergogenic effects, 50% found partial effects; caffeine supplementation shows potential benefits for psychophysiological performance though results are mixed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38666339/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Risk or benefit? Side effects of caffeine supplementation in sport: a systematic review",
+      "summary": "Systematic review of caffeine's side effects in sport contexts, examining the balance between performance benefits and potential adverse effects to determine optimal risk-benefit profiles for athletic supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35380245/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Caffeine Supplementation and Physical Performance, Muscle Damage and Perception of Fatigue in Soccer Players: A Systematic Review",
+      "summary": "Review examining caffeine's effects specifically in soccer players, finding benefits for physical performance and reduced perception of fatigue, with applications for team sport contexts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30791576/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Multi-Ingredient Pre-Workout Supplement and Caffeine on Bench Press Performance: A Single-Blind Cross-Over Study",
+      "summary": "Study comparing multi-ingredient pre-workout supplements containing caffeine versus caffeine alone on bench press performance, examining the effectiveness of combined versus isolated caffeine supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35565718/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Creatine and Caffeine: Considerations for Concurrent Supplementation",
+      "summary": "Review examining potential interactions between creatine and caffeine supplementation, suggesting conflicting evidence that caffeine may blunt creatine's ergogenic effects, possibly through opposing effects on muscle relaxation time.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26219105/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally view caffeine positively as an effective cognitive and physical performance enhancer, with many reporting it as essential for focus, energy, and productivity. However, a significant subset experiences anxiety, sleep disruption, and dependency issues, leading some to reduce or eliminate intake despite recognizing its benefits."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Response to caffeine is highly individualized, with some users thriving on 3-5 cups daily while others experience severe anxiety from even small amounts"
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Long-term daily users report diminishing returns and increased dependence, with many needing breaks to restore sensitivity and effectiveness"
+    },
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Low doses (100-200mg) appear effective for cognitive benefits with fewer side effects than higher doses, particularly when combined with L-theanine"
+    },
+    {
+      "label": "Context-Dependent Benefits:",
+      "description": "Effectiveness varies by use case—consistent benefits for endurance and high-intensity exercise, mixed results for strength training, and reliable improvements in cognitive tasks"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low Dose Protocol:",
+      "description": "100-200mg (1-2 cups of coffee) provides cognitive benefits with minimal side effects for most users, particularly effective when combined with 200mg L-theanine"
+    },
+    {
+      "label": "Moderate Performance Dose:",
+      "description": "3-5 mg/kg body weight (~200-400mg for average adult) is the research-supported range for athletic performance enhancement"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Users report optimal effects when consumed 30-60 minutes before activity, with a cutoff of 6-8 hours before bedtime for sleep-sensitive individuals"
+    },
+    {
+      "label": "Cycling Strategy:",
+      "description": "Many successful long-term users cycle intake (5 days on, 2 days off, or periodic tolerance breaks) to maintain effectiveness and prevent dependency"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Anxiety and Jitters:",
+      "description": "Commonly reported, particularly at higher doses or in sensitive individuals; often manifests as heart palpitations, racing thoughts, and social anxiety"
+    },
+    {
+      "label": "Sleep Disruption:",
+      "description": "Even early-day consumption can reduce sleep quality, increase nighttime awakenings, and reduce deep sleep percentages, with effects lasting 6-12 hours depending on metabolism"
+    },
+    {
+      "label": "Dependency and Withdrawal:",
+      "description": "Daily users report withdrawal symptoms (headaches, fatigue, brain fog) when stopping, with many feeling unable to function normally without caffeine"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Acid reflux, stomach upset, and increased cortisol/stress response reported by subset of users, particularly on empty stomach or with high doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Accessible through coffee, tea, energy drinks, supplements (pills, powders), and pre-workout formulations; legal and unregulated in most contexts"
+    },
+    {
+      "label": "Supplement Forms:",
+      "description": "Anhydrous caffeine pills provide precise dosing (typically 100-200mg), while coffee and tea offer variable amounts with additional compounds like L-theanine in green tea"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Users recommend standardized supplements or known coffee sources for consistent effects; energy drinks often contain excessive doses and added ingredients with unclear interactions"
+    }
+  ],
+  "related": [
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "HYDRAFINIL",
+      "slug": "hydrafinil"
+    },
+    {
+      "name": "PHENOTROPIL",
+      "slug": "phenotropil"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    }
+  ]
+}

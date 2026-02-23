@@ -1,0 +1,155 @@
+{
+  "slug": "zinc-carnosine",
+  "url": "https://dopamine.club/substances/zinc-carnosine/",
+  "scrapedAt": "2026-02-12T16:13:12.719Z",
+  "title": "ZINC CARNOSINE",
+  "description": "Zinc carnosine (also known as polaprezinc) is a chelated compound combining zinc and L-carnosine, a dipeptide. It works by providing both zinc supplementation and carnosine's antioxidant, anti-inflammatory properties, with particular affinity for gastrointestinal mucosa where it promotes healing and protects epithelial integrity. Primarily used for gastric ulcers, gut permeability issues, and as a zinc supplement with enhanced bioavailability.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Zinc carnosine, a health food supplement that stabilises small bowel integrity and stimulates gut repair processes",
+      "summary": "Zinc carnosine demonstrated pro-migratory and proliferative effects on gut epithelial cells in vitro, reduced indomethacin-induced gut damage in animal models, and prevented NSAID-induced increases in gut permeability in healthy volunteers by approximately threefold.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16777920/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc carnosine works with bovine colostrum in truncating heavy exercise-induced increase in gut permeability in healthy volunteers",
+      "summary": "In athletes, zinc carnosine combined with bovine colostrum significantly reduced exercise-induced gut permeability (lactulose:rhamnose ratio decreased by 70%) compared to placebo, demonstrating protective effects against exercise-induced intestinal damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27357095/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of zinc carnosine in the treatment of colorectal cancer and its potential in combination with immunotherapy in vivo",
+      "summary": "Zinc carnosine inhibited proliferation, invasion, and migration of colorectal cancer cells in vitro and demonstrated anti-tumor effects in mouse models, with potential to enhance immunotherapy effectiveness by modulating the tumor immune microenvironment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36375474/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc, Carnosine, and Neurodegenerative Diseases",
+      "summary": "Review discusses the protective effects of zinc-carnosine complex against neurodegenerative diseases including Alzheimer's and vascular dementia, highlighting its antioxidant, metal-chelating, anti-glycation, and neuroprotective properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29382141/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc L-Carnosine Protects CCD-18co Cells from L-Buthionine Sulfoximine-Induced Oxidative Stress via the Induction of Metallothionein and Superoxide Dismutase 1 Expression",
+      "summary": "Zinc carnosine protected colon fibroblast cells from oxidative stress by inducing metallothionein and superoxide dismutase 1 expression, demonstrating cellular protective mechanisms against oxidative damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32146577/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Drug repositioning of polaprezinc for bone fracture healing",
+      "summary": "Polaprezinc (zinc carnosine) enhanced osteogenic differentiation of mesenchymal stem cells and accelerated bone fracture healing in mouse models, suggesting potential applications in skeletal tissue engineering and fracture treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35577977/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Polaprezinc (Zinc-L-Carnosine Complex) as an Add-on Therapy for Binge Eating Disorder and Bulimia Nervosa, and the Possible Involvement of Zinc Deficiency in These Conditions",
+      "summary": "In a pilot study, polaprezinc (150 mg/day) as add-on therapy significantly reduced binge eating episodes and improved zinc deficiency symptoms in patients with binge eating disorder and bulimia nervosa over 16 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33044355/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A comparison of the cellular actions of polaprezinc (zinc-L-carnosine) and ZnCl2",
+      "summary": "Polaprezinc and zinc chloride showed similar effects on intracellular zinc levels and cellular thiol content, but polaprezinc caused significantly less cell death under oxidative stress conditions, suggesting superior safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22683432/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with zinc carnosine, particularly for gut health, immune support, and reducing illness frequency. While some report benefits for stomach issues and exercise recovery, the compound appears most valued for its protective effects on gastrointestinal mucosa and immune function when used appropriately."
+  },
+  "effects": [
+    {
+      "label": "Gut-Specific Benefits:",
+      "description": "Most effective for gastrointestinal applications, with strong research support for healing peptic ulcers, reducing gut permeability, and protecting intestinal lining from NSAID damage"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works best when combined with other nutrients (vitamin D, magnesium) for immune support, or with bovine colostrum for exercise-induced gut protection"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly based on baseline zinc status and specific health conditions, with those having gut issues or zinc deficiency reporting most benefit"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Research and user reports suggest benefits accumulate over weeks to months rather than immediate effects, particularly for chronic gut conditions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most commonly 75-150 mg daily (containing 17-34 mg elemental zinc), with research using 150 mg (polaprezinc) showing efficacy for various conditions"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken 30 minutes before meals for gut protection, or separated from phytate-containing foods to maximize zinc absorption"
+    },
+    {
+      "label": "Duration:",
+      "description": "Studies show safety for continuous use up to 16 weeks, though some users report taking it for months to years for chronic gut issues"
+    },
+    {
+      "label": "Copper Balance:",
+      "description": "Important to monitor copper status with prolonged use, as zinc can deplete copper; some users supplement copper separately or cycle zinc intake"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Copper Depletion:",
+      "description": "Extended high-dose use (>25 mg elemental zinc daily) can cause copper deficiency, leading to anemia, neurological issues, and fatigue if not balanced"
+    },
+    {
+      "label": "Digestive Changes:",
+      "description": "Some users report initial nausea or stomach upset, though this is less common than with other zinc forms due to the carnosine chelation"
+    },
+    {
+      "label": "Mineral Interactions:",
+      "description": "Can interfere with absorption of other minerals if not properly timed; zinc and copper compete for absorption pathways"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Small subset of users report increased irritability or mood changes with zinc supplementation, possibly related to copper-zinc balance disruption"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Users emphasize importance of verified brands due to concerns about heavy metal contamination in cheaper supplements, with Japanese brands (original polaprezinc) often preferred"
+    },
+    {
+      "label": "Forms and Names:",
+      "description": "Available as zinc carnosine, zinc L-carnosine, or polaprezinc (brand name); widely available as over-the-counter supplement in most countries"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally more expensive than basic zinc supplements due to chelation process, but users report better tolerability and targeted gut benefits justify higher cost for those with GI issues"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "epitalon",
+  "url": "https://dopamine.club/substances/epitalon/",
+  "scrapedAt": "2026-02-12T16:07:39.492Z",
+  "title": "EPITALON",
+  "description": "Epitalon (Epithalon) is a synthetic tetrapeptide that activates telomerase, potentially lengthening telomeres and extending cellular lifespan. Developed by Vladimir Khavinson, it's used primarily for anti-aging and longevity purposes.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "AEDG Peptide (Epitalon) Stimulates Gene Expression and Protein Synthesis during Neurogenesis",
+      "summary": "Study showing AEDG peptide enhances pineal gland, retina, and brain function while extending lifespan and reducing cancer risk.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7037223/",
+      "source": "(Saint Petersburg Institute of Bioregulation and Gerontology)"
+    },
+    {
+      "title": "Effect of Epitalon on biomarkers of aging, life span and spontaneous tumor incidence in female Swiss-derived SHR mice",
+      "summary": "Research documenting how Epitalon slowed estrous decline, reduced chromosomal aberrations, extended lifespan in final survivors, inhibited leukemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14501183/",
+      "source": "(Department of Carcinogenesis and Oncogerontology)"
+    },
+    {
+      "title": "Effect of epitalon on the lifespan increase in Drosophila melanogaster",
+      "summary": "Research finding synthetic peptide extended fruit fly lifespan 11-16% at extremely low concentrations, demonstrating potent antioxidant properties.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0047637400002177",
+      "source": "(St. Petersburg Institute of Bioregulation and Gerontology)"
+    },
+    {
+      "title": "Epitalon protects against post-ovulatory aging-related damage of mouse oocytes in vitro",
+      "summary": "Investigation showing Epitalon improved oocyte quality by reducing oxidative stress, spindle defects, and apoptosis.",
+      "url": "https://www.aging-us.com/article/204007/text",
+      "source": "(Department of Biochemistry and Molecular Biology)"
+    },
+    {
+      "title": "Epitalon and colon carcinogenesis in rats: Proliferative activity and apoptosis in colon tumors and mucosa",
+      "summary": "Research demonstrating continuous Epitalon treatment significantly inhibited tumor cell division and increased programmed cell death.",
+      "url": "https://www.spandidos-publications.com/10.3892/ijmm.12.4.473",
+      "source": "(Laboratory of Experimental Medicine)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users interested in longevity report improved energy, sleep quality, and general well-being. Effects on aging are difficult to measure subjectively. Popular in the anti-aging community."
+  },
+  "effects": [
+    {
+      "label": "Difficult to Measure:",
+      "description": "Anti-aging effects hard to assess short-term."
+    },
+    {
+      "label": "Subjective Improvements:",
+      "description": "Many report feeling better and more energetic."
+    },
+    {
+      "label": "Long-Term Approach:",
+      "description": "Benefits may manifest over extended use periods."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "10mg daily for 10-20 days, cycled 1-2 times per year."
+    },
+    {
+      "label": "Subcutaneous Injection:",
+      "description": "Typically administered via injection."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Usually done in courses rather than continuous use."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Safe:",
+      "description": "Few side effects reported at standard doses."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Minor irritation possible."
+    },
+    {
+      "label": "Unknown Long-Term:",
+      "description": "Long-term safety data limited."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Russian Origin:",
+      "description": "Originally developed in Russia."
+    },
+    {
+      "label": "Specialized Sourcing:",
+      "description": "Not as common as some other peptides."
+    }
+  ],
+  "related": [
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARDIOGEN",
+      "slug": "cardiogen"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    }
+  ]
+}

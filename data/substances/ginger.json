@@ -1,0 +1,156 @@
+{
+  "slug": "ginger",
+  "url": "https://dopamine.club/substances/ginger/",
+  "scrapedAt": "2026-02-12T16:08:02.896Z",
+  "title": "GINGER",
+  "description": "Ginger (Zingiber officinale) is a rhizome containing bioactive compounds called gingerols and shogaols that possess anti-inflammatory, antioxidant, and antiemetic properties. It is commonly used as a dietary supplement for nausea, digestive issues, inflammation, and pain management. Ginger is generally recognized as safe (GRAS) and has been used medicinally for centuries in various cultures.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Gingerols and shogaols: Important nutraceutical principles from ginger",
+      "summary": "Gingerols are the major bioactive compounds in ginger responsible for its medicinal properties, including relief from nausea, arthritis, and pain. These compounds are thermally labile and convert to shogaols through dehydration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26228533/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Ginger Intake on Chemotherapy-Induced Nausea and Vomiting: A Systematic Review of Randomized Clinical Trials",
+      "summary": "This systematic review evaluated ginger supplementation as an adjuvant treatment for chemotherapy-induced nausea and vomiting, finding evidence supporting its effectiveness in managing these common side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36501010/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Does ginger supplementation lower blood pressure? A systematic review and meta-analysis of clinical trials",
+      "summary": "Meta-analysis of clinical trials examined the efficacy of ginger supplementation on blood pressure, providing evidence for its potential cardiovascular benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30972845/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of ginger intake on weight loss and metabolic profiles among overweight and obese subjects: A systematic review and meta-analysis of randomized controlled trials",
+      "summary": "This systematic review found that ginger intake may have beneficial effects on weight loss, glycemic control, and lipid profiles in overweight and obese individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29393665/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginger and Testosterone",
+      "summary": "Multiple in-vivo studies demonstrate that ginger supplementation enhances testosterone production in males, particularly under oxidative stress conditions, primarily by supporting luteinizing hormone production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30360442/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginger supplement significantly reduced length of hospital stay in individuals with COVID-19",
+      "summary": "A clinical trial found that ginger supplementation significantly reduced hospital stay duration in COVID-19 patients compared to controls.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36578045/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ginger (LiverTox)",
+      "summary": "Comprehensive review confirms ginger is generally recognized as safe (GRAS) and has not been linked to liver enzyme elevations or clinically apparent liver injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38381909/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Warfarin and food, herbal or dietary supplement interactions: A systematic review",
+      "summary": "Systematic review of 149 articles identified potential interactions between warfarin and various herbs and supplements, including ginger, which may affect bleeding risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32478963/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users consistently report significant benefits from ginger for joint pain, inflammation, and overall well-being. Multiple testimonials describe dramatic improvements in arthritis symptoms and mobility, with many users combining it with turmeric for enhanced anti-inflammatory effects."
+  },
+  "effects": [
+    {
+      "label": "Rapid Action:",
+      "description": "Users report noticeable improvements in joint mobility and stiffness within days to weeks of regular consumption"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Most effective when combined with turmeric and black pepper, with users consistently stacking these three for inflammation"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Works better for some conditions than others; highly effective for joint issues but results vary for hormonal and metabolic benefits"
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "Users maintaining daily ginger intake for months report sustained improvements without tolerance development"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Fresh Ginger Tea:",
+      "description": "Most common method involves cutting fresh ginger root and steeping in hot water or green tea, often multiple times daily"
+    },
+    {
+      "label": "Powder Form:",
+      "description": "Users report taking 1-2 grams of ginger powder daily, often combined with other supplements in capsule form"
+    },
+    {
+      "label": "High-Dose Protocol:",
+      "description": "Some users grate fresh ginger (3+ grams) and consume it directly or in concentrated tea for maximum anti-inflammatory effect"
+    },
+    {
+      "label": "With Black Pepper and Fat:",
+      "description": "Users emphasize taking ginger with black pepper and healthy fats to enhance bioavailability and absorption"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Bleeding Risk:",
+      "description": "Research indicates potential increased bleeding risk when combined with anticoagulants like warfarin, requiring medical supervision"
+    },
+    {
+      "label": "Gastric Issues:",
+      "description": "Some users report mild digestive discomfort or heartburn with high doses, particularly on an empty stomach"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May interact with blood thinners and other medications; users advised to consult healthcare providers before combining"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Generally well-tolerated with most users reporting no significant side effects at standard supplemental doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Fresh ginger root readily accessible at grocery stores; supplement forms available at pharmacies and online retailers"
+    },
+    {
+      "label": "GRAS Status:",
+      "description": "Generally recognized as safe by FDA with no prescription required; can be used as both food and supplement"
+    },
+    {
+      "label": "Cost-Effective:",
+      "description": "Users note ginger is inexpensive compared to pharmaceutical anti-inflammatories, with fresh root being the most economical option"
+    }
+  ],
+  "related": [
+    {
+      "name": "TURMERIC (CURCUMIN)",
+      "slug": "turmeric-curcumin"
+    },
+    {
+      "name": "Cordyceps",
+      "slug": "cordyceps"
+    },
+    {
+      "name": "DONG QUAI",
+      "slug": "dong-quai"
+    },
+    {
+      "name": "MILK THISTLE",
+      "slug": "milk-thistle"
+    },
+    {
+      "name": "SAW PALMETTO",
+      "slug": "saw-palmetto"
+    }
+  ]
+}

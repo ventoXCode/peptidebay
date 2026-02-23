@@ -1,0 +1,149 @@
+{
+  "slug": "hydergine",
+  "url": "https://dopamine.club/substances/hydergine/",
+  "scrapedAt": "2026-02-12T16:08:36.121Z",
+  "title": "HYDERGINE",
+  "description": "Hydergine (ergoloid mesylates, co-dergocrine) is an ergot alkaloid derivative primarily studied for treating dementia and age-related cognitive decline. It works by interacting with multiple neurotransmitter systems including dopamine, serotonin, and norepinephrine receptors, and may enhance cerebral blood flow and oxygen metabolism. Historically used since the 1970s, its efficacy remains uncertain with meta-analyses showing modest benefits at best.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Hydergine for dementia",
+      "summary": "Cochrane meta-analysis found hydergine showed overall modest efficacy compared to placebo, but statistical evidence for efficacy in Alzheimer's patients was so weak that one additional negative trial would eliminate significance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11405961/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hydergine: interaction with the neurotransmitter systems in the central nervous system",
+      "summary": "Biochemical studies showed hydergine has mixed agonist/antagonist properties at alpha-adrenoceptors, dopamine D1/D2 receptors, and serotonin receptors, influencing central monoaminergic systems in a dualistic manner.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2869188/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of hydergine on the MAO activity of the aged and adult rat brain",
+      "summary": "In aged rats, hydergine significantly decreased monoamine oxidase (MAO) levels in hippocampus and hypothalamus, with effects more pronounced in aged versus adult animals in certain brain regions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8998407/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of long-term Hydergine administration on lipofuscin accumulation in senescent rat brain",
+      "summary": "Six months of hydergine treatment in aged rats caused significant dose-related decreases in lipofuscin (age pigment) accumulation in pyramidal and Purkinje neurons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3220260/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Muscarinic cholinergic receptors in the hippocampus of the aged rat: effects of long-term hydergine administration",
+      "summary": "Long-term hydergine treatment restored the density of muscarinic cholinergic receptors in aged rat hippocampus that had declined with age, primarily in CA1-CA2 fields.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2730238/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of an ergot alkaloid derivative (Hydergine) on aspects of psychomotor performance, arousal, and cognitive processing ability",
+      "summary": "12 mg daily hydergine for two weeks produced significant effects on CNS activity and cognitive performance in volunteers, with some effects not appearing until two weeks of medication and continuing after withdrawal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/536469/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of long-term ergoloid mesylates ('Hydergine') administration in healthy pensioners: 5-year results",
+      "summary": "Five-year controlled study in healthy elderly found hydergine was well tolerated with trends toward reduced cardiac symptoms, fewer pathological ECG findings, and improvement in subjective complaints compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3780290/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences with hydergine are genuinely divided: some report it as completely ineffective despite extended use, while others describe modest potentiating effects when combined with other nootropics. The majority of mentions show users either trying it without noticeable results or using small doses as part of complex stacks rather than as a standalone supplement."
+  },
+  "effects": [
+    {
+      "label": "Historical Use:",
+      "description": "Commonly mentioned in older nootropic literature and protocols, but appears less popular than modern alternatives like racetams or modafinil"
+    },
+    {
+      "label": "Dosage Sensitivity:",
+      "description": "Users taking 1-9mg daily with varying results; higher doses (9mg) mentioned in complex stacks but not extensively discussed"
+    },
+    {
+      "label": "Combination Dependency:",
+      "description": "Most positive reports involve hydergine as part of multi-supplement stacks rather than standalone use, suggesting limited independent efficacy"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Dramatic differences in response, with some users calling it a 'miracle' while others report zero effects after extended trials"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "1-1.5mg taken 1-3 times daily appears most common in user reports and supplement protocols"
+    },
+    {
+      "label": "Higher Doses:",
+      "description": "9mg daily mentioned in advanced stacks, often split into multiple doses throughout the day"
+    },
+    {
+      "label": "Duration:",
+      "description": "Users report trying for weeks to months before assessing effectiveness; some protocols suggest 2+ weeks needed for effects"
+    },
+    {
+      "label": "Liquid Form:",
+      "description": "Hydergine liquid mentioned as an alternative to tablets, though specific dosing less frequently discussed"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Sedation/Drowsiness:",
+      "description": "Multiple users report increased sleepiness, lack of motivation, or feeling tired when taking hydergine"
+    },
+    {
+      "label": "No Effects:",
+      "description": "A significant portion of users report zero noticeable effects, positive or negative, even after extended use"
+    },
+    {
+      "label": "Fibrosis Risk:",
+      "description": "One knowledgeable user mentions fibrosis as a potential risk with long-term use, though details limited"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Research and long-term user reports indicate few serious adverse effects at standard doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Limited Sources:",
+      "description": "Users report difficulty finding hydergine compared to more common nootropics, with some noting it's 'pricey' relative to alternatives"
+    },
+    {
+      "label": "Prescription Status:",
+      "description": "Availability varies by country; some users source from international suppliers or nootropics vendors"
+    },
+    {
+      "label": "Declining Popularity:",
+      "description": "Mentioned less frequently than historical accounts would suggest, with users often noting it as 'old school' or part of vintage protocols"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "APOAEQUORIN",
+      "slug": "apoaequorin"
+    }
+  ]
+}

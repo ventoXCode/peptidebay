@@ -1,0 +1,160 @@
+{
+  "slug": "semax",
+  "url": "https://dopamine.club/substances/semax/",
+  "scrapedAt": "2026-02-12T16:11:13.705Z",
+  "title": "SEMAX",
+  "description": "Semax is a Russian peptide derived from ACTH with potent nootropic and neuroprotective effects. It increases BDNF, enhances cognitive function, and is approved in Russia for stroke, cognitive disorders, and peptic ulcers.",
+  "categories": [
+    "Peptide",
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "The efficacy of semax in the tretament of patients at different stages of ischemic stroke",
+      "summary": "Early rehabilitation and semax administration increased BDNF levels in post-stroke patients, improving motor performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29798983/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effectiveness of semax in acute period of hemispheric ischemic stroke",
+      "summary": "Semax at doses of 12-18 mg improved neurological function and motor skills in acute ischemic stroke patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11517472/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Semax, synthetic ACTH(4–10) analogue, attenuates behavioural and neurochemical alterations following early-life fluvoxamine exposure",
+      "summary": "Semax mitigated behavioral and biochemical complications from neonatal SSRI exposure in rats.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0143417920301323",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Semax, an ACTH4-10 peptide analog with high affinity for copper(II) ion and protective ability against metal induced cell toxicity",
+      "summary": "Semax binds metal ions and reduces copper-induced toxicity in nerve cells.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0162013414002505",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Influence of the N-terminus acetylation of Semax on copper(II) and zinc(II) coordination",
+      "summary": "Acetyl-modified Semax altered metal ion binding but may have potential future applications in cancer therapies.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0162013416302392",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Semax, an analogue of adrenocorticotropin (4–10), for the treatment of attention-deficit hyperactivity disorder",
+      "summary": "Researchers propose Semax as an alternative to psychostimulants for ADHD treatment.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0306987706005391",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Degradation of ACTH/MSH(4–10) and its synthetic analog semax by rat serum enzymes",
+      "summary": "Aminopeptidases and angiotensin-converting enzyme primarily degrade Semax in rat serum.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0196978193901376",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Semax as a Universal Drug for Therapy and Research",
+      "summary": "Review analyzing 1980-2016 data on Semax's benefits including anxiety reduction and cognitive enhancement.",
+      "url": "https://link.springer.com/article/10.1134/S1062359018060055",
+      "source": "(Institute of Molecular Genetics)"
+    },
+    {
+      "title": "Meta-analysis: Semax effectiveness in the acute period of stroke",
+      "summary": "Semax significantly reduced stroke severity and improved mobility compared to placebo.",
+      "url": "https://journals.eco-vector.com/2078-1962/article/view/609445",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Experimental Substantiation of Application of Semax as a Modulator of Immune Reaction",
+      "summary": "Semax effectively restored immune balance in socially stressed laboratory animals.",
+      "url": "https://link.springer.com/article/10.1007/s10517-019-04434-y",
+      "source": "(Astrakhan State Medical University)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Highly effective for focus and mental clarity. Users report significant cognitive enhancement and neuroprotection. More stimulating than selank; some prefer combining both."
+  },
+  "effects": [
+    {
+      "label": "Fast Acting:",
+      "description": "Effects often felt within 30 minutes intranasally."
+    },
+    {
+      "label": "Reliable Results:",
+      "description": "Consistent cognitive enhancement."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Often combined with selank for balanced effects."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "200-600mcg intranasally, 1-3 times daily."
+    },
+    {
+      "label": "N-Acetyl Semax:",
+      "description": "More potent variant requiring lower doses."
+    },
+    {
+      "label": "Subcutaneous:",
+      "description": "Can also be injected."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Safe:",
+      "description": "Few side effects reported."
+    },
+    {
+      "label": "Nasal Irritation:",
+      "description": "Minor with intranasal use."
+    },
+    {
+      "label": "Stimulation:",
+      "description": "May be too stimulating for some users."
+    },
+    {
+      "label": "Hair Loss:",
+      "description": "Rare reports; may be from BDNF effects on hair cycle."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Russian Medication:",
+      "description": "Approved and widely used in Russia."
+    },
+    {
+      "label": "Multiple Forms:",
+      "description": "Available as standard semax or N-Acetyl variant."
+    }
+  ],
+  "related": [
+    {
+      "name": "Selank",
+      "slug": "selank"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "GINSENOSIDE RG1",
+      "slug": "ginsenoside-rg1"
+    },
+    {
+      "name": "Cerebrolysin",
+      "slug": "cerebrolysin"
+    }
+  ]
+}

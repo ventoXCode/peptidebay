@@ -1,0 +1,116 @@
+{
+  "slug": "catuaba",
+  "url": "https://dopamine.club/substances/catuaba/",
+  "scrapedAt": "2026-02-12T16:06:26.460Z",
+  "title": "CATUABA",
+  "description": "Catuaba is a traditional Brazilian herbal tonic primarily derived from the bark of Trichilia catigua, known for its stimulant and adaptogenic properties. It exerts neuroprotective and antidepressant-like effects by modulating the dopaminergic and serotonergic systems, specifically inhibiting the reuptake and increasing the release of these neurotransmitters.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Antidepressant-like effects of Trichilia catigua (Catuaba) extract: evidence for dopaminergic-mediated mechanisms",
+      "summary": "This study demonstrates that Trichilia catigua produces significant antidepressant-like effects in rodents by inhibiting the uptake and increasing the release of serotonin and especially dopamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15991001/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacological and neurochemical evidence for antidepressant-like effects of the herbal product Catuama",
+      "summary": "Research on Catuama, which contains Trichilia catigua, found it effectively inhibits the synaptosomal uptake of noradrenaline, serotonin, and dopamine, suggesting utility for managing mild depressive states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15312083/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antioxidant, anticholinesterase and antifatigue effects of Trichilia catigua (catuaba)",
+      "summary": "The hydroalcoholic extract of the bark showed potent antioxidant and anticholinesterase activity and was found to partially reduce physical fatigue induced by exercise in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29871626/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The exposure to Trichilia catigua (catuaba) crude extract impairs fertility of adult female rats but does not cause reproductive damage to male offspring",
+      "summary": "A toxicological study found that while generally safe for males, high exposure to catuaba bark extract may impair fertility in female subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25792016/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users generally view Catuaba as a highly effective herbal stimulant and aphrodisiac, often comparing its focus-enhancing properties to mild pharmaceutical stimulants."
+  },
+  "effects": [
+    {
+      "label": "Dopaminergic Modulation:",
+      "description": "Effectively acts as a dopamine reuptake inhibitor, which users report helps with motivation and ADHD-like symptoms."
+    },
+    {
+      "label": "Physical Fatigue:",
+      "description": "Scientific and anecdotal evidence supports its use in reducing recovery time and physical exhaustion."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Highly effective when stacked with other adaptogens like Muira Puama or Cordyceps for enhanced stamina."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "A common dose reported is 500mg of a 4:1 extract once or twice daily."
+    },
+    {
+      "label": "Traditional Tea:",
+      "description": "Enthusiasts often use shredded bark in narrow quantities steeped as a decoction for immediate stimulant effects."
+    },
+    {
+      "label": "Stacking Dose:",
+      "description": "When used in complex focus stacks, users often scale back to 250-500mg to avoid over-stimulation."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Increased Libido:",
+      "description": "While generally a benefit, some users avoid it when attempting 'NoFap' or hormone regulation due to high potency."
+    },
+    {
+      "label": "Female Fertility Concerns:",
+      "description": "Research suggests potential negative impacts on female fertility, warranting caution for women."
+    },
+    {
+      "label": "Over-stimulation:",
+      "description": "In high doses, it may cause restlessness or interfere with sleep if taken late in the day."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing:",
+      "description": "Widely available through bulk suppliers and health food retailers, often sold as 'Catuaba Bark'."
+    },
+    {
+      "label": "Species Varieties:",
+      "description": "Caution is advised as 'Catuaba' can refer to several different plants; Trichilia catigua is the most chemically validated species."
+    }
+  ],
+  "related": [
+    {
+      "name": "CISTANCHE",
+      "slug": "cistanche"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    },
+    {
+      "name": "GOTU KOLA",
+      "slug": "gotu-kola"
+    },
+    {
+      "name": "GUARANA",
+      "slug": "guarana"
+    },
+    {
+      "name": "MACA",
+      "slug": "maca"
+    }
+  ]
+}

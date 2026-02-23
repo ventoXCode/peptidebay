@@ -1,0 +1,119 @@
+{
+  "slug": "magnesium-citrate",
+  "url": "https://dopamine.club/substances/magnesium-citrate/",
+  "scrapedAt": "2026-02-12T16:09:22.370Z",
+  "title": "MAGNESIUM CITRATE",
+  "description": "Magnesium citrate is an organic magnesium salt that combines magnesium with citric acid, commonly used as a dietary supplement and occasional laxative. It works by increasing magnesium bioavailability in the body, supporting over 300 enzymatic reactions including energy production, nerve function, muscle contraction, and blood pressure regulation. Due to its osmotic laxative properties, it also draws water into the intestines to promote bowel movements.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Higher bioavailability of magnesium citrate as compared to magnesium oxide shown by evaluation of urinary excretion and serum levels after single-dose administration in a randomized cross-over study",
+      "summary": "Magnesium citrate demonstrated significantly higher bioavailability compared to magnesium oxide, with greater urinary excretion and serum levels following single-dose administration in healthy subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28088476/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Magnesium Citrate, Magnesium Oxide, and Magnesium Sulfate Supplementation on Arterial Stiffness: A Randomized, Double-Blind, Placebo-Controlled Intervention Trial",
+      "summary": "24-week supplementation with 450mg/day magnesium citrate did not significantly affect arterial stiffness or blood pressure in overweight subjects, though it effectively increased plasma and urinary magnesium levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35289192/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report positive experiences with magnesium citrate for improving sleep quality, reducing muscle cramps, and managing stress. Most appreciate its better absorption compared to oxide, though some experience digestive side effects at higher doses."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability:",
+      "description": "Consistently praised as one of the most absorbable forms of magnesium, superior to oxide and comparable to glycinate"
+    },
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Effectiveness varies by individual needs; deficient users report more dramatic improvements than those with adequate baseline levels"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Most effective when taken in evening for sleep benefits, though some prefer splitting doses throughout the day"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies significantly based on baseline magnesium status, diet, and specific health conditions being addressed"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most users take 200-400mg of elemental magnesium daily, with 300mg being the most commonly reported effective dose"
+    },
+    {
+      "label": "Sleep Dosing:",
+      "description": "200-300mg taken 30-60 minutes before bedtime is commonly recommended for sleep quality improvements"
+    },
+    {
+      "label": "Laxative Threshold:",
+      "description": "Doses above 400-500mg often cause loose stools; users recommend starting low and gradually increasing to assess tolerance"
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Some users prefer dividing total daily dose into 2-3 smaller amounts to minimize digestive effects while maintaining benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Most common side effect is loose stools or diarrhea, particularly at doses above 400mg or when taken on empty stomach"
+    },
+    {
+      "label": "Initial Adjustment:",
+      "description": "Some users experience temporary stomach discomfort, bloating, or cramping during first few days of supplementation"
+    },
+    {
+      "label": "Individual Tolerance:",
+      "description": "Laxative effect threshold varies significantly between individuals; some tolerate 600mg while others react to 200mg"
+    },
+    {
+      "label": "Timing-Related:",
+      "description": "Taking with food typically reduces digestive side effects, though may slightly decrease absorption rate"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily purchased over-the-counter at pharmacies, health food stores, and online retailers without prescription"
+    },
+    {
+      "label": "Cost-Effective:",
+      "description": "Generally inexpensive compared to other magnesium forms, with good quality brands available at reasonable prices"
+    },
+    {
+      "label": "Form Options:",
+      "description": "Available in tablets, capsules, powders, and liquid solutions; powder form often preferred for dose flexibility and faster absorption"
+    }
+  ],
+  "related": [
+    {
+      "name": "MAGNESIUM GLYCINATE",
+      "slug": "magnesium-glycinate"
+    },
+    {
+      "name": "MAGNESIUM TAURATE",
+      "slug": "magnesium-taurate"
+    },
+    {
+      "name": "MAGNESIUM L-THREONATE",
+      "slug": "magnesium-l-threonate"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "carvacrol",
+  "url": "https://dopamine.club/substances/carvacrol/",
+  "scrapedAt": "2026-02-12T16:06:24.843Z",
+  "title": "CARVACROL",
+  "description": "Carvacrol is a monoterpenoid phenol found naturally in essential oils of oregano, thyme, and other plants. It exhibits broad-spectrum antimicrobial activity against bacteria and fungi, along with anti-inflammatory and antioxidant properties through modulation of immune pathways and reduction of pro-inflammatory cytokines.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Carvacrol and human health: A comprehensive review",
+      "summary": "Carvacrol demonstrates multiple bioactivities including antimicrobial, antioxidant, and anti-inflammatory properties that make it potentially useful for clinical applications across various health conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29744941/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic application of carvacrol: A comprehensive review",
+      "summary": "Carvacrol exerts strong anti-inflammatory effects by inducing antioxidant enzymes (SOD, GPx, GR, CAT), preventing lipid peroxidation, and reducing pro-inflammatory cytokine levels while modulating LPS-induced immune responses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36348778/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carvacrol—A Natural Phenolic Compound with Antimicrobial Properties",
+      "summary": "Research confirms carvacrol's potent antimicrobial effects against numerous bacterial and fungal strains, demonstrating efficacy both alone and in combination with other compounds for controlling pathogens.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37107798/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Carvacrol: From Ancient Flavoring to Neuromodulatory Agent",
+      "summary": "Beyond its traditional use as a flavoring agent, carvacrol shows neuromodulatory properties and potential therapeutic applications in neurological conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23708230/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "Limited direct user feedback available for carvacrol as a standalone supplement. Research literature is positive regarding antimicrobial and anti-inflammatory properties, but consumer experience data is insufficient for definitive sentiment analysis."
+  },
+  "effects": [
+    {
+      "label": "Antimicrobial Efficacy:",
+      "description": "Strong evidence for effectiveness against various bacterial and fungal strains in research settings"
+    },
+    {
+      "label": "Anti-inflammatory Action:",
+      "description": "Well-documented reduction of inflammatory markers and cytokines in experimental models"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Generally considered safe with limited toxicity data in humans"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Enhanced effectiveness when combined with other natural compounds"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dosing:",
+      "description": "Studies utilize varying concentrations depending on application and target organism"
+    },
+    {
+      "label": "Essential Oil Form:",
+      "description": "Typically consumed as component of oregano or thyme essential oils rather than isolated compound"
+    },
+    {
+      "label": "Concentration Matters:",
+      "description": "Antimicrobial effects are dose-dependent with higher concentrations showing greater efficacy"
+    },
+    {
+      "label": "Human Data Limited:",
+      "description": "Specific dosage recommendations for supplementation not well-established in clinical literature"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Toxicity Data:",
+      "description": "Limited information on adverse effects in humans at supplemental doses"
+    },
+    {
+      "label": "Metabolic Pathways:",
+      "description": "Knowledge of human metabolism and degradation pathways is incomplete"
+    },
+    {
+      "label": "Phenolic Compound Concerns:",
+      "description": "Potential for environmental contamination and degradation products requires consideration"
+    },
+    {
+      "label": "Safety Assessment:",
+      "description": "More clinical data needed to establish comprehensive safety profile"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Natural Sources:",
+      "description": "Found in oregano, thyme, and other herb essential oils widely available commercially"
+    },
+    {
+      "label": "Isolated Form:",
+      "description": "Pure carvacrol available from specialty chemical and supplement suppliers"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Generally recognized as safe (GRAS) as a food flavoring agent"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "DANDELION ROOT",
+      "slug": "dandelion-root"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "l-carnosine",
+  "url": "https://dopamine.club/substances/l-carnosine/",
+  "scrapedAt": "2026-02-12T16:09:03.188Z",
+  "title": "L-CARNOSINE",
+  "description": "L-Carnosine is a naturally occurring dipeptide composed of beta-alanine and histidine, found primarily in skeletal muscle and brain tissue. It functions as a pH buffer, antioxidant, and anti-glycation agent with metal ion chelating properties. While L-carnosine itself can be supplemented, beta-alanine supplementation is more common for athletic performance as it increases intramuscular carnosine levels by addressing the rate-limiting precursor.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Carnosine and Beta-Alanine Supplementation in Human Medicine: Narrative Review and Critical Assessment",
+      "summary": "Reviews carnosine's wide-ranging effects including anti-inflammatory, antioxidant, antiglycation, and immunomodulatory properties, with applications across multiple areas of human medicine beyond athletic performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37049610/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis",
+      "summary": "Meta-analysis of 360 participants showed beta-alanine supplementation significantly improved exercise outcomes compared to placebo, with a median effect size of 0.374 versus 0.108 for placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27797728/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of beta-alanine supplementation on muscle carnosine and exercise performance",
+      "summary": "Beta-alanine supplementation increases muscle carnosine content and total muscle buffer capacity, improving performance during multiple bouts of high-intensity exercise and single bouts lasting more than 60 seconds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20479615/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "International society of sports nutrition position stand: Beta-Alanine",
+      "summary": "Official position stand reviewing beta-alanine's mechanism as a substrate for carnosine synthesis, recommending 2-6g daily in divided doses to minimize paresthesia for improving high-intensity exercise performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26175657/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of β-alanine supplementation on exercise performance: a meta-analysis",
+      "summary": "Preliminary quantitative meta-analysis of 15 studies found beta-alanine improved exercise measures significantly more than placebo, particularly for high-intensity activities relying on anaerobic glycolysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22270875/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Zinc carnosine: Frontiers advances of supplement for cancer therapy",
+      "summary": "Reviews zinc-L-carnosine's potential therapeutic applications in cancer treatment, noting its unique properties when combined with zinc for gastrointestinal protection and healing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35605299/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Histidine in Health and Disease: Metabolism, Physiological Importance, and Use as a Supplement",
+      "summary": "Comprehensive review of histidine's role in carnosine synthesis and other histidine-containing dipeptides, highlighting the amino acid's importance in proton buffering, antioxidant activity, and various physiological functions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32235743/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Maternal supplementation of L-carnosine improves reflexive motor behaviors in mice offspring",
+      "summary": "Animal study showing prenatal L-carnosine supplementation at various doses improved reflexive motor behaviors in offspring and increased antioxidant markers while reducing oxidative stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37088351/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report predominantly positive experiences with L-carnosine and zinc-L-carnosine, particularly for gut health, energy, and mental clarity. While beta-alanine's tingling sensation is noted, most users appreciate its performance benefits with minimal side effects when properly dosed."
+  },
+  "effects": [
+    {
+      "label": "Gut Health Applications:",
+      "description": "Zinc-L-carnosine (75mg doses) consistently reported as highly effective for various stomach issues, acid reflux, and leaky gut repair when combined with other gut-healing protocols"
+    },
+    {
+      "label": "Exercise Performance:",
+      "description": "Beta-alanine shows reliable benefits for repeated high-intensity efforts and activities relying on anaerobic glycolysis, particularly effective for sports with 40-60 second bursts"
+    },
+    {
+      "label": "Dosage-Dependent Results:",
+      "description": "Effects appear more pronounced with consistent supplementation over weeks to months rather than acute dosing"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies significantly between individuals, with some experiencing dramatic benefits while others notice minimal effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "L-Carnosine Direct:",
+      "description": "500mg per day commonly reported for cognitive and energy benefits, with effects noticed relatively quickly"
+    },
+    {
+      "label": "Beta-Alanine:",
+      "description": "2-6g daily in divided doses to minimize tingling (paresthesia), often found in pre-workout supplements at 2-3g per serving"
+    },
+    {
+      "label": "Zinc-L-Carnosine:",
+      "description": "75mg (providing approximately 16mg zinc) taken on empty stomach, typically 30-60 minutes before meals for gut health"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Zinc-carnosine best taken before meals; beta-alanine often split into multiple doses throughout the day to reduce side effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Paresthesia/Tingling:",
+      "description": "Beta-alanine causes characteristic tingling sensation in skin, which can be minimized by dividing doses or using sustained-release formulations"
+    },
+    {
+      "label": "Copper Depletion:",
+      "description": "Long-term zinc-L-carnosine supplementation may cause copper deficiency; users recommend monitoring levels and balancing with copper supplementation"
+    },
+    {
+      "label": "Taurine Competition:",
+      "description": "Some research suggests beta-alanine may deplete taurine levels due to shared transport mechanisms, though clinical significance is debated"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal side effects with proper dosing, particularly with zinc-carnosine and L-carnosine forms"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available Forms:",
+      "description": "Beta-alanine commonly found in pre-workout supplements; L-carnosine and zinc-L-carnosine available as standalone supplements from various manufacturers"
+    },
+    {
+      "label": "Brand Recommendations:",
+      "description": "PepZin GI is a trademarked form of zinc-L-carnosine frequently recommended; quality brands and quality brands mentioned positively for gut health formulations"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Zinc-L-carnosine generally affordable for gut protocols; beta-alanine very economical as bulk powder or in pre-workout blends"
+    }
+  ],
+  "related": [
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    },
+    {
+      "name": "MK-3984",
+      "slug": "mk-3984"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "slug": "sodium-bicarbonate"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    }
+  ]
+}

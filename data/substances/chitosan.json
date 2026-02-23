@@ -1,0 +1,155 @@
+{
+  "slug": "chitosan",
+  "url": "https://dopamine.club/substances/chitosan/",
+  "scrapedAt": "2026-02-12T16:06:39.223Z",
+  "title": "CHITOSAN",
+  "description": "Chitosan is a natural biopolymer derived from chitin (found in shellfish shells) through deacetylation. It works primarily by binding to negatively charged molecules like fats, phosphorus, and bile acids in the digestive tract, preventing their absorption. Chitosan is commonly used as a dietary supplement for weight management, cholesterol reduction, and phosphorus control in kidney disease patients.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Effectiveness of Chitosan as a Dietary Supplement in Lowering Cholesterol in Murine Models: A Meta-Analysis",
+      "summary": "Meta-analysis of 34 studies found chitosan supplementation significantly lowered body weight, blood triglycerides, and total cholesterol in murine models, proving effective for managing lifestyle-related diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33435383/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chitosan for overweight or obesity",
+      "summary": "Cochrane systematic review evaluated chitosan as a treatment for overweight and obesity, finding it to be a widely available dietary supplement with disputed efficacy requiring further high-quality research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18646097/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The dietary supplement chitosan lowers serum phosphorus in a hemodialysis patient not tolerating prescription medications",
+      "summary": "Case report showed 3.5g daily chitosan successfully controlled serum phosphorus levels for one year in a dialysis patient, binding 16-41mg phosphorus per gram, comparable to prescription phosphorus binders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34231314/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of chitosan supplementation on liver function, hepatic steatosis predictors, and metabolic indicators in adults with non-alcoholic fatty liver disease",
+      "summary": "Randomized controlled trial evaluated chitosan's effects on liver function and metabolic markers in NAFLD patients, demonstrating potential therapeutic benefits for managing non-alcoholic fatty liver disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40025618/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacokinetic Comparison of Chitosan-Derived and Biofermentation-Derived Glucosamine in Nutritional Supplement for Bone Health",
+      "summary": "Study compared pharmacokinetics of chitosan-derived versus biofermentation-derived glucosamine supplements, finding both sources viable for nutritional supplementation supporting joint health and osteoarthritis management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35956389/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Stability enhancement of mulberry-extracted anthocyanin using alginate/chitosan microencapsulation for food supplement application",
+      "summary": "Research demonstrated alginate/chitosan beads effectively encapsulate and protect anthocyanins, enhancing their stability and bioavailability for use in dietary supplements and functional foods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28599580/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of chitosan on restoring spermatogenesis in mice: Insights from gut microbiota and multi-omics analysis",
+      "summary": "Study found chitosan treatment improved testicular function and reshaped gut microbiota composition in mice with impaired spermatogenesis, primarily by modulating docosahexaenoic acid transport and tight junction proteins.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40263850/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Warfarin and food, herbal or dietary supplement interactions: A systematic review",
+      "summary": "Systematic review identified 78 herbs and dietary supplements that interact with warfarin, emphasizing the need for transparency and caution when combining supplements with anticoagulant medications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32478963/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "Users show limited direct discussion of chitosan, with most mentions appearing in broader supplement lists for weight loss and cholesterol management. The few specific references suggest modest interest in its lipid-binding properties, but without strong user testimonials or widespread adoption."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Research demonstrates measurable effects on cholesterol, triglycerides, and phosphorus binding, with meta-analyses showing statistical significance in animal models"
+    },
+    {
+      "label": "Weight Loss Results:",
+      "description": "Effectiveness for weight loss remains disputed with mixed evidence; Cochrane review notes limited high-quality data supporting obesity treatment claims"
+    },
+    {
+      "label": "Dosage-Dependent Response:",
+      "description": "Case reports show 3.5g daily doses effectively controlled phosphorus levels, suggesting higher doses may be needed for clinical benefits"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Limited user feedback suggests response varies significantly, with effectiveness potentially dependent on diet composition and metabolic factors"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Weight Loss Range:",
+      "description": "Commonly marketed at 160mg in combination formulas, though research suggests this may be subtherapeutic for meaningful effects"
+    },
+    {
+      "label": "Phosphorus Control:",
+      "description": "Clinical case used 3.5g daily with meals, binding 16-41mg phosphorus per gram of chitosan consumed"
+    },
+    {
+      "label": "Cholesterol Management:",
+      "description": "Studies typically evaluate 1-3g daily doses for lipid-lowering effects, taken with meals to bind dietary fats"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Most effective when taken with meals to bind fats, cholesterol, and other negatively charged molecules during digestion"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Potential for digestive discomfort due to chitosan's binding properties and high fiber content, though specific user reports limited"
+    },
+    {
+      "label": "Nutrient Depletion:",
+      "description": "May bind fat-soluble vitamins (A, D, E, K) and minerals, requiring careful timing or supplementation to prevent deficiencies"
+    },
+    {
+      "label": "Shellfish Allergy:",
+      "description": "Derived from crustacean shells, posing significant allergy risk for individuals with shellfish sensitivities"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Can interfere with absorption of medications, particularly fat-soluble drugs and anticoagulants like warfarin"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter Access:",
+      "description": "Widely available as dietary supplement in health stores and online retailers without prescription requirements"
+    },
+    {
+      "label": "Source Variations:",
+      "description": "Available in both chitosan-derived and biofermentation-derived forms, with comparable pharmacokinetics for therapeutic applications"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Limited discussion of purity standards or testing; consumers should seek pharmaceutical-grade chitosan for consistent results"
+    }
+  ],
+  "related": [
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "CAGRILINTIDE",
+      "slug": "cagrilintide"
+    },
+    {
+      "name": "CAGRISEMA",
+      "slug": "cagrisema"
+    }
+  ]
+}

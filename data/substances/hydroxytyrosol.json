@@ -1,0 +1,125 @@
+{
+  "slug": "hydroxytyrosol",
+  "url": "https://dopamine.club/substances/hydroxytyrosol/",
+  "scrapedAt": "2026-02-12T16:08:37.471Z",
+  "title": "HYDROXYTYROSOL",
+  "description": "Hydroxytyrosol is a potent phenolic antioxidant compound primarily found in olive oil and olive leaves, known for its high bioavailability and ability to cross the blood-brain barrier. It functions by protecting cells from oxidative damage, reducing inflammation, and supporting cardiovascular health through cholesterol protection and improved endothelial function. According to EFSA, just 5mg daily can help protect LDL cholesterol from oxidation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Hydroxytyrosol, a Promising Supplement in the Management of Human Stroke: An Exploratory Study",
+      "summary": "Daily administration of 15mg hydroxytyrosol for 45 days after stroke showed favorable effects on glycated hemoglobin, blood pressure, oxidative stress markers, and neurological outcomes in human patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38732018/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hydroxytyrosol: A natural compound with promising pharmacological effects",
+      "summary": "Comprehensive review highlighting hydroxytyrosol's bioavailability, antioxidant properties, lack of toxicity, and potential therapeutic applications across multiple health conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31884046/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Randomized Double-Blind Prospective Human Study on Hydroxytyrosol and Human Obesity",
+      "summary": "Clinical trial investigating hydroxytyrosol's effects on obesity markers and metabolic parameters in humans through controlled supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35406139/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally view hydroxytyrosol positively as an underrated antioxidant with promising cardiovascular and longevity benefits, particularly when standardized in supplement form. Most discussions focus on its potential rather than personal negative experiences, with interest centered on proper dosing and comparison to other polyphenols."
+  },
+  "effects": [
+    {
+      "label": "Standardization Required:",
+      "description": "Users note difficulty getting therapeutic doses from olive oil alone, requiring 30-50ml of high-phenolic EVOO daily"
+    },
+    {
+      "label": "EFSA Threshold:",
+      "description": "5mg daily is the established effective dose for cholesterol oxidation protection, achievable through supplements"
+    },
+    {
+      "label": "Bioavailability Advantage:",
+      "description": "Well-absorbed compared to other polyphenols, with ability to reach brain tissue"
+    },
+    {
+      "label": "Underrated Status:",
+      "description": "Frequently described as overlooked compared to resveratrol, curcumin, and green tea polyphenols despite comparable or superior antioxidant capacity"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "5-15mg daily appears in research and user discussions as effective range"
+    },
+    {
+      "label": "Clinical Studies:",
+      "description": "15mg daily used in stroke management studies with positive outcomes"
+    },
+    {
+      "label": "Olive Oil Equivalence:",
+      "description": "Users calculate needing excessive olive oil consumption to reach supplement-equivalent doses"
+    },
+    {
+      "label": "Combination Protocols:",
+      "description": "Often stacked with other antioxidants like CoQ10, PQQ, and resveratrol in longevity-focused regimens"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Olive Leaf Extract Reactions:",
+      "description": "Some users report severe gastrointestinal distress with olive leaf extract containing hydroxytyrosol, including nausea and diarrhea"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Reactions appear highly individual, with some experiencing violent illness from olive-derived supplements"
+    },
+    {
+      "label": "Antioxidant Overload Concerns:",
+      "description": "Users question whether excessive antioxidant intake from multiple supplements may interfere with beneficial cellular processes"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Pure hydroxytyrosol at recommended doses shows minimal side effects in clinical studies"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as standardized hydroxytyrosol capsules from various brands, with Olivea frequently mentioned by users"
+    },
+    {
+      "label": "Olive Oil Source:",
+      "description": "High-phenolic extra virgin olive oils provide natural source but with variable concentrations"
+    },
+    {
+      "label": "Olive Leaf Extract:",
+      "description": "Alternative source but may contain other compounds causing adverse reactions in sensitive individuals"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

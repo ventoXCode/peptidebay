@@ -1,0 +1,156 @@
+{
+  "slug": "fenugreek",
+  "url": "https://dopamine.club/substances/fenugreek/",
+  "scrapedAt": "2026-02-12T16:07:47.227Z",
+  "title": "FENUGREEK",
+  "description": "Fenugreek (Trigonella foenum-graecum) is an herb whose seeds contain bioactive compounds including saponins, diosgenin, 4-hydroxyisoleucine, and various flavonoids. It has been traditionally used to support testosterone levels, milk production in nursing mothers, blood sugar control, and exercise performance. The mechanism appears to involve modulation of hormone levels, insulin sensitivity, and potential inhibition of 5-alpha reductase.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effect of fenugreek extract supplement on testosterone levels in male: A meta-analysis of clinical trials",
+      "summary": "Meta-analysis of 4 randomized trials found that fenugreek extract supplementation has a significant positive effect on total serum testosterone levels in men.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32048383/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Examining the Effects of Herbs on Testosterone Concentrations in Men: A Systematic Review",
+      "summary": "Systematic review of 32 studies identified fenugreek seed extracts and ashwagandha as having the most positive effects on testosterone concentrations in men among 13 herbs examined.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33150931/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Withania somnifera and Trigonella foenum-graecum as ingredients of testosterone-boosting supplements: Possible clinical implications",
+      "summary": "Review found that Trigonella foenum-graecum seed extracts significantly increase testosterone levels in men through mechanisms that may affect the hypothalamic-pituitary-gonadal axis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38628109/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fenugreek and Its Effects on Muscle Performance: A Systematic Review",
+      "summary": "Review of 6 RCTs found that 4 studies showed fenugreek supplementation significantly improved muscle strength, endurance, lean body mass, and reduced body fat.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36983608/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of a novel extract of fenugreek seeds in alleviating vasomotor symptoms and depression in perimenopausal women",
+      "summary": "Randomized controlled trial of 48 women found 250mg twice daily of standardized fenugreek extract significantly improved hot flashes (25.9%), night sweats (26.5%), depression (31.8%), and insomnia (21.6%) while balancing hormone levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33025616/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Integration of molecular docking, molecular dynamics and network pharmacology to explore the multi-target pharmacology of fenugreek against diabetes",
+      "summary": "Network pharmacology analysis identified 19 active compounds in fenugreek including diosgenin, luteolin, and quercetin that work through multiple pathways to regulate blood glucose and diabetes-related targets.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37257051/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements and bleeding",
+      "summary": "Literature review found that fenugreek, when used with anticoagulants, is associated with increased bleeding risk, though no evidence exists for bleeding risk when used independently of anticoagulants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36304597/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Ribociclib-Induced hepatotoxicity exacerbated by fenugreek supplement use: A case report",
+      "summary": "Case report documented grade III hepatotoxicity in a patient taking ribociclib that was potentially exacerbated by concurrent fenugreek supplement use, highlighting possible drug-supplement interactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40388649/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Users report mixed experiences with fenugreek, with some noting benefits for testosterone, libido, and muscle performance, while others report minimal effects or the distinctive maple syrup body odor. The supplement appears more effective for some individuals than others, and concerns exist about potential liver effects and interactions with other supplements."
+  },
+  "effects": [
+    {
+      "label": "Individual Response:",
+      "description": "Effectiveness varies considerably between users, with some reporting noticeable benefits while others experience no changes despite consistent use"
+    },
+    {
+      "label": "Extract vs Whole:",
+      "description": "Standardized extracts with high saponin content (like Testofen) appear more effective for testosterone than plain fenugreek powder, which may increase estrogen and prolactin instead"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Benefits typically require consistent use for several weeks to months, with some users reporting initial effects that diminish over time"
+    },
+    {
+      "label": "Complementary Approach:",
+      "description": "Works best when combined with proper sleep, exercise, and nutrition rather than as a standalone solution for low testosterone"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "250-500mg of standardized fenugreek extract taken twice daily is commonly used in studies and reported by users"
+    },
+    {
+      "label": "Whole Seed:",
+      "description": "Users taking whole fenugreek powder typically use 5-10g daily, though this form may be less effective for testosterone"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users report taking it 5 days on, 2 days off, or cycling several weeks on and off to maintain effectiveness"
+    },
+    {
+      "label": "With Food:",
+      "description": "Generally taken with meals to improve absorption and reduce potential gastrointestinal discomfort"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Maple Syrup Odor:",
+      "description": "The most commonly reported side effect - body, sweat, and urine develop a strong maple syrup smell that only resolves after discontinuation"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Users report gas, bloating, diarrhea, and general gastrointestinal discomfort, especially at higher doses"
+    },
+    {
+      "label": "Potential Liver Stress:",
+      "description": "Case reports and user experiences suggest possible hepatotoxicity when combined with certain medications or taken in high doses long-term"
+    },
+    {
+      "label": "Hormonal Effects:",
+      "description": "May increase estrogen and prolactin in some users rather than testosterone, particularly with non-standardized forms"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold as both whole seeds and standardized extracts in health stores and online, with brands like Nature's Value, Testofen, and various generic options commonly used"
+    },
+    {
+      "label": "Extract Quality Matters:",
+      "description": "Users emphasize choosing standardized extracts with documented saponin content (typically 50%) for testosterone effects rather than generic powder forms"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generally affordable, though standardized extracts and proprietary blends like Testofen command premium prices compared to basic fenugreek powder"
+    }
+  ],
+  "related": [
+    {
+      "name": "FADOGIA AGRESTIS",
+      "slug": "fadogia-agrestis"
+    },
+    {
+      "name": "TONGKAT ALI (EURYCOMA)",
+      "slug": "tongkat-ali-eurycoma"
+    },
+    {
+      "name": "HORNY GOAT WEED (EPIMEDIUM)",
+      "slug": "horny-goat-weed-epimedium"
+    },
+    {
+      "name": "MACA",
+      "slug": "maca"
+    },
+    {
+      "name": "Mucuna Pruriens",
+      "slug": "mucuna-pruriens"
+    }
+  ]
+}

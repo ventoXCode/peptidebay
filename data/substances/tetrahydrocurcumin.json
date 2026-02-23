@@ -1,0 +1,157 @@
+{
+  "slug": "tetrahydrocurcumin",
+  "url": "https://dopamine.club/substances/tetrahydrocurcumin/",
+  "scrapedAt": "2026-02-12T16:11:39.626Z",
+  "title": "TETRAHYDROCURCUMIN",
+  "description": "Tetrahydrocurcumin (THC) is a major metabolite of curcumin with enhanced bioavailability, water solubility, and chemical stability compared to its parent compound. It exerts potent antioxidant, anti-inflammatory, and neuroprotective effects by reducing oxidative stress, modulating inflammatory pathways, and protecting mitochondrial function. THC has demonstrated therapeutic potential for cardiovascular health, metabolic dysfunction, neurodegenerative diseases, and age-related conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Positive Tetrahydrocurcumin-Associated Brain-Related Metabolomic Implications",
+      "summary": "THC demonstrates strong antioxidant properties and effectively reduces amyloid β aggregates in various brain dysfunction models including traumatic brain injury, ischemia-reperfusion injury, Alzheimer's disease, and Parkinson's disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37175144/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutraceutical activation of Sirt1: a review",
+      "summary": "Tetrahydrocurcumin is identified as a nutraceutical that enhances Sirt1 synthesis and protein expression, contributing to anti-aging effects and improved healthspan similar to calorie restriction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36522127/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tetrahydrocurcumin alleviates hypertension, aortic stiffening and oxidative stress in rats with nitric oxide deficiency",
+      "summary": "THC at 50-100 mg/kg significantly reduced blood pressure, peripheral vascular resistance, and aortic stiffness while improving oxidative stress markers in hypertensive rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22072109/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tetrahydrocurcumin-Related Vascular Protection: An Overview of the Findings from Animal Disease Models",
+      "summary": "THC demonstrates preventive effects on vascular dysfunction and hypertension development through improvements in hemodynamic status, aortic elasticity, and reduction of oxidative stress in various animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36014335/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of tetrahydrocurcumin in disease prevention and treatment",
+      "summary": "Comprehensive review highlighting THC's important roles in prevention and treatment of various diseases, with enhanced bioavailability compared to curcumin from herbal medicine and dietary sources.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38836693/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tetrahydrocurcumin Ameliorates Skin Inflammation by Modulating Autophagy in High-Fat Diet-Induced Obese Mice",
+      "summary": "THC demonstrated anti-inflammatory and antioxidant effects by modulating autophagy processes in skin tissue of obese mice, addressing obesity-induced chronic low-grade inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34222477/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tetrahydrocurcumin Enhances Islet Cell Function and Attenuates Apoptosis in Mouse Islets",
+      "summary": "THC treatment enhanced islet cell function and reduced apoptosis before transplantation, demonstrating antioxidant and anti-inflammatory activities that protect against ischemic damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30401410/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tetrahydrocurcumin: effect on chloroquine-mediated oxidative damage in rat kidney",
+      "summary": "Oral administration of THC at 80 mg/kg significantly prevented chloroquine-induced nephrotoxicity by decreasing lipid peroxidation and increasing antioxidant levels in kidney tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17076682/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of TurmiZn, a Metallic Complex of Curcuminoids-Tetrahydrocurcumin and Zinc on Bioavailability, Antioxidant, and Cytokine Modulation Capability",
+      "summary": "A curcuminoid-THC-zinc complex showed 2-3 fold increase in bioavailability compared to curcumin and THC alone, with enhanced antioxidant capability and inflammatory cytokine inhibition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36838654/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User feedback discussions show limited direct experience with tetrahydrocurcumin specifically, with most users discussing curcumin or turmeric. Users acknowledge THC's superior bioavailability compared to regular curcumin, but there is minimal anecdotal evidence about its standalone effects or benefits."
+  },
+  "effects": [
+    {
+      "label": "Enhanced Bioavailability:",
+      "description": "Demonstrated 2-3 fold better absorption compared to standard curcumin in multiple studies"
+    },
+    {
+      "label": "Dose-Dependent Effects:",
+      "description": "Both upregulation and downregulation of certain enzymes depends on concentration used"
+    },
+    {
+      "label": "Superior Stability:",
+      "description": "Greater water solubility and chemical stability compared to curcumin while maintaining therapeutic benefits"
+    },
+    {
+      "label": "Metabolite Advantage:",
+      "description": "Acts as an active metabolite of curcumin with similar or enhanced biological activities"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Animal Model Range:",
+      "description": "Studies used 50-100 mg/kg body weight with significant therapeutic effects observed"
+    },
+    {
+      "label": "Human Supplement Form:",
+      "description": "Often combined with curcumin in formulations or metal complexes for enhanced delivery"
+    },
+    {
+      "label": "Concentration Effects:",
+      "description": "40µM showed limited proliferation effects in cell studies, while 80 mg/kg was effective for nephroprotection"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits observed with both short-term (2-5 weeks) and longer-term administration in animal studies"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Trace Mineral Depletion:",
+      "description": "Potential for zinc, copper, and selenium depletion with long-term curcuminoid use based on NAC-related reports"
+    },
+    {
+      "label": "Digestive Interactions:",
+      "description": "Can affect pepsin function and enzyme activity in concentration-dependent manner"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "Most safety profiles derived from animal studies with minimal long-term human clinical data"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "No major adverse effects reported in animal studies at therapeutic doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Forms:",
+      "description": "Available as standalone ingredient or combined with curcumin, often with bioavailability enhancers like piperine or metal chelates"
+    },
+    {
+      "label": "Research Focus:",
+      "description": "More commonly studied in research settings than widely marketed as standalone consumer supplement compared to curcumin"
+    }
+  ],
+  "related": [
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    },
+    {
+      "name": "GAMMA-TOCOPHEROL",
+      "slug": "gamma-tocopherol"
+    },
+    {
+      "name": "OLEUROPEIN",
+      "slug": "oleuropein"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    },
+    {
+      "name": "RUTIN",
+      "slug": "rutin"
+    }
+  ]
+}

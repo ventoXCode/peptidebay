@@ -1,0 +1,149 @@
+{
+  "slug": "msm",
+  "url": "https://dopamine.club/substances/msm/",
+  "scrapedAt": "2026-02-12T16:09:38.005Z",
+  "title": "MSM",
+  "description": "Methylsulfonylmethane (MSM) is an organosulfur compound naturally found in plants and animals that serves as a source of bioavailable sulfur. It functions primarily as an anti-inflammatory agent by modulating inflammatory pathways and oxidative stress, while also supporting collagen synthesis and joint tissue health. MSM is commonly used as a dietary supplement for joint pain, osteoarthritis, skin health, and general inflammation reduction.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Methylsulfonylmethane: Applications and Safety of a Novel Dietary Supplement",
+      "summary": "Comprehensive review found MSM improves inflammation, joint/muscle pain, oxidative stress, and antioxidant capacity, with dosages up to 4 grams daily being well-tolerated with few side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28300758/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Methylsulfonylmethane (MSM), an organosulfur compound, is effective against obesity-induced metabolic disorders in mice",
+      "summary": "Animal study demonstrated MSM's effectiveness in reducing metabolic disorders associated with obesity through anti-inflammatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27621186/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of a supplement combination on hand pain among people with symptomatic hand osteoarthritis",
+      "summary": "Clinical trial evaluated MSM as part of a supplement combination for hand osteoarthritis pain relief in patients with symptomatic joint disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33617972/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of dietary supplements for treating knee osteoarthritis: a systematic review and network meta-analysis",
+      "summary": "Network meta-analysis comparing various dietary supplements including MSM for knee osteoarthritis found potential benefits for pain reduction and joint function improvement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40123938/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nail Supplements: When, How, and Why?",
+      "summary": "Review found that MSM along with biotin, collagen peptides, and other supplements can improve nail clinical appearance, strength, and reduce brittleness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40176998/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Methyl-sulfonyl-methane (MSM)-induced acute angle closure",
+      "summary": "Case report of a rare adverse event where MSM supplementation was associated with bilateral acute angle closure glaucoma that resolved after discontinuation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24240884/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Methylsulfonylmethane sensitizes endometrial cancer cells to doxorubicin",
+      "summary": "Laboratory study found MSM can enhance the effectiveness of chemotherapy drug doxorubicin in endometrial cancer cells by inducing apoptosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32562081/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users report consistently positive experiences with MSM, particularly for joint pain relief, hair and nail growth, and skin improvements. The majority describe long-lasting benefits even after discontinuation, with minimal side effects when properly hydrated."
+  },
+  "effects": [
+    {
+      "label": "Joint Support:",
+      "description": "Highly effective for joint pain and osteoarthritis, particularly when combined with glucosamine, chondroitin, and collagen supplements"
+    },
+    {
+      "label": "Long-lasting Results:",
+      "description": "Many users report that benefits to joints persist for years after discontinuing MSM, suggesting potential structural improvements"
+    },
+    {
+      "label": "Hair and Beauty:",
+      "description": "Consistently effective for cosmetic benefits including hair growth, nail strength, and skin health, typically noticeable within 2-4 weeks"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Some users experience no benefits or gastrointestinal issues, while others report dramatic improvements, suggesting genetic or metabolic variation in response"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "1000mg daily is commonly used and effective for joint pain and general health benefits"
+    },
+    {
+      "label": "High Dose:",
+      "description": "Some users take up to 10g daily for more severe joint issues, though this requires increased water intake to prevent headaches"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken once daily in the morning, with vitamin C recommended to assist absorption"
+    },
+    {
+      "label": "With Food:",
+      "description": "Can be taken with or without food, though some users prefer taking it with meals to reduce potential stomach upset"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Some users experience bloating, gas, or stomach upset, though others report MSM actually calms their gut"
+    },
+    {
+      "label": "Excessive Thirst:",
+      "description": "Higher doses (10g+) cause intense thirst and dry mouth, requiring significantly increased water intake"
+    },
+    {
+      "label": "Unwanted Hair Growth:",
+      "description": "Some users report increased hair growth in unexpected areas including face, torso, and stomach"
+    },
+    {
+      "label": "Rare Reactions:",
+      "description": "Isolated case reports of acute angle closure glaucoma in susceptible individuals, though this is extremely uncommon"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "MSM is readily available over-the-counter at health stores, online retailers, and pharmacies at affordable prices"
+    },
+    {
+      "label": "GRAS Status:",
+      "description": "Recognized as Generally Recognized As Safe by regulatory authorities, with dosages up to 4g daily considered safe for most individuals"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Frequently sold in combination with glucosamine, chondroitin, and hyaluronic acid for joint health formulations"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "COLLAGEN TYPE II",
+      "slug": "collagen-type-ii"
+    },
+    {
+      "name": "DIOSMIN",
+      "slug": "diosmin"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "fucoxanthin",
+  "url": "https://dopamine.club/substances/fucoxanthin/",
+  "scrapedAt": "2026-02-12T16:07:53.128Z",
+  "title": "FUCOXANTHIN",
+  "description": "Fucoxanthin is a marine carotenoid found primarily in brown seaweeds and diatoms that exhibits unique antioxidant properties. Research suggests it may support metabolic health through effects on adipose tissue, increasing energy expenditure and promoting fat oxidation, particularly through its metabolites fucoxanthinol and amarouciaxanthin A. Studies indicate potential benefits for weight management, liver health, and antioxidant protection.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Fucoxanthin, a Marine Carotenoid Present in Brown Seaweeds and Diatoms: Metabolism and Bioactivities Relevant to Human Health",
+      "summary": "Comprehensive review showing fucoxanthin has remarkable biological properties including antioxidant, anti-inflammatory, anticancer, anti-obese, antidiabetic effects and protective effects on liver and blood vessels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22072997/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Health benefits of fucoxanthin in the prevention of chronic diseases",
+      "summary": "Study demonstrates fucoxanthin's potential health benefits for preventing chronic diseases including cancer, obesity, diabetes mellitus, and liver disease, with strong antioxidant and anti-inflammatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31931174/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-Obesity Activity of the Marine Carotenoid Fucoxanthin",
+      "summary": "Research on fucoxanthin's anti-obesity effects showing it can help reduce body weight and fat accumulation through multiple metabolic pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25871295/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fucoxanthin and lipid metabolism: A minireview",
+      "summary": "Review examining fucoxanthin's effects on lipid metabolism, showing potential for reducing adiposity and improving metabolic parameters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26141943/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "Users report mixed experiences with fucoxanthin, with some noting modest weight loss benefits when combined with diet and exercise, while others see minimal to no effects. The high cost and long time required to see results (4-6 weeks loading period) are common concerns."
+  },
+  "effects": [
+    {
+      "label": "Timeline:",
+      "description": "Requires 4-6 week loading period before effects become noticeable, making it difficult for users to isolate its impact"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects appear more pronounced in obese post-menopausal women based on research, with varying results in other populations"
+    },
+    {
+      "label": "Combination Required:",
+      "description": "Most effective when used alongside caloric restriction, exercise, and other lifestyle interventions rather than as standalone supplement"
+    },
+    {
+      "label": "Modest Results:",
+      "description": "Users report weight changes of 5-6 pounds over several months, suggesting subtle rather than dramatic effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "200mg per serving is common in commercial products, often taken 2-3 times daily with meals"
+    },
+    {
+      "label": "Research Doses:",
+      "description": "Studies used 8mg/day for significant metabolic effects, though commercial products often contain higher doses"
+    },
+    {
+      "label": "Fat Required:",
+      "description": "Should be taken with dietary fat or fish oil for optimal absorption as it is fat-soluble"
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "4-6 week loading period recommended before assessing effectiveness, with some users cycling use"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Iodine Content:",
+      "description": "Brown seaweed source may provide significant iodine, requiring monitoring if taking other iodine supplements"
+    },
+    {
+      "label": "Heavy Metal Concerns:",
+      "description": "Potential for contamination from seaweed sources with heavy metals requires choosing reputable brands"
+    },
+    {
+      "label": "Skin Discoloration:",
+      "description": "Some users combining with other carotenoids report orange/brown skin tinting, particularly in palms"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Generally well-tolerated with no significant negative side effects reported in studies or user experiences"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Cost Barrier:",
+      "description": "Frequently cited as expensive, with users noting it falls into 'nice to try but cost-prohibitive' category"
+    },
+    {
+      "label": "Brand Options:",
+      "description": "quality brands Foundation and other reputable brands offer standardized Xanthigen extract used in studies"
+    },
+    {
+      "label": "Sales Opportunities:",
+      "description": "Users recommend buying during sales to make cost more manageable for long-term use"
+    }
+  ],
+  "related": [
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "BUTYRATE",
+      "slug": "butyrate"
+    },
+    {
+      "name": "CINSULIN",
+      "slug": "cinsulin"
+    }
+  ]
+}

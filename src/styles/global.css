@@ -1,0 +1,202 @@
+@import './animations.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Default dark mode */
+  html {
+    color-scheme: dark;
+  }
+  
+  body {
+    @apply bg-industrial-950 text-industrial-50 font-body antialiased;
+    background-image: 
+      linear-gradient(to bottom, rgba(13, 13, 13, 0.95), rgba(13, 13, 13, 0.98)),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49' viewBox='0 0 28 49'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%2300ff9d' fill-opacity='0.03'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    @apply bg-industrial-900;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    @apply bg-industrial-600 rounded;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-chem-green;
+  }
+
+  /* Selection styling */
+  ::selection {
+    @apply bg-chem-green/30 text-white;
+  }
+}
+
+@layer components {
+  /* Periodic Table Cell - Substance Card */
+  .element-card {
+    @apply relative bg-industrial-800 border border-industrial-600 p-4 
+           transition-all duration-300 cursor-pointer
+           hover:border-chem-green hover:shadow-glow-green-sm;
+    clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 8px 100%, 0 calc(100% - 8px));
+  }
+  
+  .element-card::before {
+    content: '';
+    @apply absolute top-0 left-0 w-1 h-full bg-chem-green opacity-0 
+           transition-opacity duration-300;
+  }
+  
+  .element-card:hover::before {
+    @apply opacity-100;
+  }
+
+  /* Industrial Panel */
+  .industrial-panel {
+    @apply bg-industrial-800 border-2 border-industrial-600 p-6 relative;
+    box-shadow: 
+      inset 2px 2px 0 rgba(255, 255, 255, 0.05),
+      inset -2px -2px 0 rgba(0, 0, 0, 0.3),
+      4px 4px 0 rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Corner rivets */
+  .industrial-panel::before,
+  .industrial-panel::after {
+    content: '';
+    @apply absolute w-3 h-3 bg-industrial-500 rounded-full border border-industrial-600;
+    box-shadow: inset 1px 1px 2px rgba(255, 255, 255, 0.2);
+  }
+  
+  .industrial-panel::before {
+    @apply top-3 left-3;
+  }
+  
+  .industrial-panel::after {
+    @apply top-3 right-3;
+  }
+
+  /* Chemistry Green Glow Text */
+  .text-glow-green {
+    @apply text-chem-green;
+    text-shadow: 0 0 10px rgba(0, 255, 157, 0.5), 0 0 20px rgba(0, 255, 157, 0.3);
+  }
+
+  /* Hazard Warning Stripe */
+  .hazard-stripe {
+    background: repeating-linear-gradient(
+      -45deg,
+      transparent,
+      transparent 10px,
+      rgba(255, 183, 0, 0.1) 10px,
+      rgba(255, 183, 0, 0.1) 20px
+    );
+  }
+
+  /* Lab Button */
+  .btn-lab {
+    @apply px-6 py-3 font-heading font-semibold uppercase tracking-wider
+           bg-industrial-700 border-2 border-industrial-500
+           transition-all duration-200 relative overflow-hidden;
+    box-shadow: 
+      inset 1px 1px 0 rgba(255, 255, 255, 0.1),
+      inset -1px -1px 0 rgba(0, 0, 0, 0.2),
+      2px 2px 0 rgba(0, 0, 0, 0.5);
+  }
+  
+  .btn-lab:hover {
+    @apply border-chem-green text-chem-green;
+    box-shadow: 
+      inset 1px 1px 0 rgba(0, 255, 157, 0.1),
+      inset -1px -1px 0 rgba(0, 0, 0, 0.2),
+      2px 2px 0 rgba(0, 0, 0, 0.5),
+      0 0 15px rgba(0, 255, 157, 0.3);
+  }
+
+  /* Search Input - Lab Equipment Style */
+  .search-lab {
+    @apply w-full bg-industrial-900 border-2 border-industrial-600 
+           px-4 py-3 font-mono text-lg
+           placeholder:text-industrial-400
+           focus:border-chem-green focus:outline-none focus:shadow-glow-green-sm
+           transition-all duration-200;
+  }
+
+  /* Category Pill - Hazard Label Style */
+  .category-pill {
+    @apply inline-flex items-center gap-2 px-3 py-1 
+           text-sm font-semibold uppercase tracking-wide
+           border-l-4 transition-all duration-200 whitespace-nowrap;
+  }
+
+  /* Accordion - Lab Notebook Style */
+  .accordion-lab {
+    @apply bg-industrial-800 border border-industrial-600;
+  }
+  
+  .accordion-lab summary {
+    @apply cursor-pointer p-4 font-heading font-semibold
+           hover:bg-industrial-700 transition-colors duration-200
+           list-none flex items-center justify-between;
+  }
+  
+  .accordion-lab summary::marker {
+    display: none;
+  }
+  
+  .accordion-lab summary::after {
+    content: '▸';
+    @apply text-chem-green transition-transform duration-200;
+  }
+  
+  .accordion-lab[open] summary::after {
+    @apply rotate-90;
+  }
+
+  /* Sentiment Bar - LED Meter */
+  .led-meter {
+    @apply h-2 bg-industrial-900 rounded overflow-hidden;
+  }
+  
+  .led-meter-fill {
+    @apply h-full transition-all duration-500;
+    box-shadow: 0 0 10px currentColor;
+  }
+
+  /* Noise texture overlay */
+  .noise-overlay {
+    position: relative;
+  }
+  
+  .noise-overlay::after {
+    content: '';
+    @apply absolute inset-0 pointer-events-none opacity-[0.03];
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  }
+}
+
+@layer utilities {
+  /* Glowing border animation */
+  .animate-glow-border {
+    animation: glow-border 2s ease-in-out infinite;
+  }
+  
+  @keyframes glow-border {
+    0%, 100% { border-color: theme('colors.industrial.600'); }
+    50% { border-color: theme('colors.chem.green'); }
+  }
+
+  /* Scratched metal texture */
+  .texture-scratched {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Cfilter id='a'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.05' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23a)' opacity='0.1'/%3E%3C/svg%3E");
+  }
+}

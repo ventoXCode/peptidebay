@@ -1,0 +1,147 @@
+{
+  "slug": "noopept",
+  "url": "https://dopamine.club/substances/noopept/",
+  "scrapedAt": "2026-02-12T16:10:14.211Z",
+  "title": "NOOPEPT",
+  "description": "Noopept is a potent synthetic nootropic developed in Russia, approximately 1000x more potent than piracetam by weight. It enhances memory, learning, and provides neuroprotective effects through BDNF and NGF modulation.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Noopept in the treatment of mild cognitive impairment in patients with stroke",
+      "summary": "Study of 60 stroke patients treated with noopept 20 mg daily for 12 months showed significant cognitive improvements after 2 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22500312/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical and electroencephalographic characteristic of noopept in patients with mild cognitive impairment",
+      "summary": "Research examined noopept's impact on brain activity, finding increased alpha- and beta-rhythm power while reducing delta-rhythm power.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19008801/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of nootropic dipeptide noopept on CA1 pyramidal neurons involves α7AChRs",
+      "summary": "Noopept enhances hippocampal neuron activity by boosting inhibitory interneuron firing through nicotinic acetylcholine receptors.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304394022004591",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Effects of noopept on cognitive functions and pubertal process in rats with diabetes",
+      "summary": "Noopept normalized delayed puberty and reduced blood glucose levels in diabetic rats, improving insulin resistance markers.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0024320519306253",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "QbD-driven development of dissolving microneedle patch loaded with ultradeformable liposomes encapsulated Noopept",
+      "summary": "Development of transdermal microneedle delivery system for noopept showed enhanced bioavailability and skin penetration.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0928098721002104",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Neuroprotective and Nootropic Drug Noopept Rescues α-Synuclein Amyloid Cytotoxicity",
+      "summary": "Noopept mitigates harmful effects of α-synuclein linked to Parkinson's disease by promoting safer aggregation forms.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022283611010849",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Novel nootropic dipeptide Noopept increases inhibitory synaptic transmission in CA1 pyramidal cells",
+      "summary": "Research found noopept increases inhibitory signal frequency in hippocampal brain cells through activation of specific inhibitory neurons.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0304394010004313",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Noopept stimulates the expression of NGF and BDNF in rat hippocampus",
+      "summary": "Noopept increases neurotrophic factor expression in the hippocampus, potentially enhancing cognitive functions.",
+      "url": "https://link.springer.com/article/10.1007/s10517-008-0297-x",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users appreciate its potency and cognitive benefits. Some report anxiety reduction while others experience increased stimulation. Individual response varies significantly."
+  },
+  "effects": [
+    {
+      "label": "Highly Potent:",
+      "description": "Active at very low doses (10-30mg)."
+    },
+    {
+      "label": "Fast Onset:",
+      "description": "Effects often felt within an hour."
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response can be stimulating or calming."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "10-30mg daily, often divided into 2-3 doses."
+    },
+    {
+      "label": "Sublingual:",
+      "description": "Can be taken sublingually for faster onset."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some cycle to maintain sensitivity."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Irritability:",
+      "description": "Some users report increased irritability."
+    },
+    {
+      "label": "Brain Fog:",
+      "description": "Paradoxically, some experience this at wrong doses."
+    },
+    {
+      "label": "Headaches:",
+      "description": "Possible, often from inadequate choline."
+    },
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Most users have minimal issues."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from nootropic vendors."
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Unscheduled in most countries."
+    },
+    {
+      "label": "Affordable:",
+      "description": "Very cost-effective due to low dosing."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "grape-seed-extract",
+  "url": "https://dopamine.club/substances/grape-seed-extract/",
+  "scrapedAt": "2026-02-12T16:08:14.642Z",
+  "title": "GRAPE SEED EXTRACT",
+  "description": "Grape seed extract (GSE) is a dietary supplement derived from grape seeds containing proanthocyanidins, powerful antioxidant compounds. It works by neutralizing free radicals, reducing inflammation, and improving blood vessel function through enhanced nitric oxide production. Primary applications include cardiovascular support, blood pressure management, and antioxidant protection.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The effect of grape seed extract supplementation on oxidative stress and inflammation: A systematic review and meta-analysis of controlled trials",
+      "summary": "Systematic review and meta-analysis demonstrating that GSE supplementation significantly reduces oxidative stress markers and inflammatory markers in controlled trials, supporting its antioxidant and anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34107109/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Grape Seed Extract Positively Modulates Blood Pressure and Perceived Stress: A Randomized, Double-Blind, Placebo-Controlled Study in Healthy Volunteers",
+      "summary": "Randomized controlled trial showing that 300mg/day GSE for 16 weeks significantly reduced blood pressure and improved perceived stress levels in healthy volunteers compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33602131/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Grape Seed Extract Supplementation on Endothelial Function and Endurance Performance in Basketball Players",
+      "summary": "Study in elite athletes demonstrating that chronic GSE supplementation improves endothelial function and blood flow, with potential benefits for exercise performance through enhanced vascular health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36361103/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely mixed with limited available feedback. While research demonstrates cardiovascular and antioxidant benefits, there is insufficient Reddit user data to establish clear patterns of subjective effectiveness or user satisfaction with the supplement."
+  },
+  "effects": [
+    {
+      "label": "Cardiovascular Benefits:",
+      "description": "Strong evidence for improving endothelial function, blood flow, and reducing blood pressure in clinical trials"
+    },
+    {
+      "label": "Antioxidant Activity:",
+      "description": "Well-documented reduction in oxidative stress markers across multiple studies with consistent positive results"
+    },
+    {
+      "label": "Stress Modulation:",
+      "description": "Emerging evidence for reducing perceived stress levels alongside blood pressure improvements"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects may be more pronounced in individuals with pre-existing cardiovascular risk factors or oxidative stress"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "300mg per day is the most commonly studied and effective dosage in clinical trials"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits typically observed after 8-16 weeks of consistent supplementation"
+    },
+    {
+      "label": "Timing:",
+      "description": "Can be taken once daily, timing appears less critical than consistency"
+    },
+    {
+      "label": "Standardization:",
+      "description": "Look for extracts standardized to 95% proanthocyanidins for reliable potency"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "General Tolerability:",
+      "description": "Well-tolerated in clinical studies with minimal reported adverse effects"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Occasional mild gastrointestinal discomfort reported at higher doses"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "May interact with blood thinners due to antiplatelet effects"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Generally recognized as safe with no serious adverse events in controlled trials"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Market:",
+      "description": "Widely available as standardized extracts through various supplement retailers and online stores"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Important to choose products standardized for proanthocyanidin content to ensure effectiveness"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Legal and unregulated as a dietary supplement in most countries with no prescription required"
+    }
+  ],
+  "related": [
+    {
+      "name": "CINNAMON EXTRACT",
+      "slug": "cinnamon-extract"
+    },
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    },
+    {
+      "name": "THYMUS EXTRACT",
+      "slug": "thymus-extract"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "artemisinin",
+  "url": "https://dopamine.club/substances/artemisinin/",
+  "scrapedAt": "2026-02-12T16:05:53.695Z",
+  "title": "ARTEMISININ",
+  "description": "Artemisinin is a sesquiterpene lactone compound extracted from Artemisia annua (sweet wormwood), originally developed as an antimalarial drug. It works through its unique endoperoxide bridge, which generates reactive oxygen species (ROS) and carbon-centered radicals that damage cellular components. Beyond malaria treatment, research indicates potential applications in cancer therapy, immunomodulation, metabolic disorders, viral infections, and neuroprotection through mechanisms including ferroptosis induction, autophagy modulation, and Nrf2 pathway activation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Artemisinin and Its Derivatives from Molecular Mechanisms to Clinical Applications: New Horizons Beyond Antimalarials",
+      "summary": "Comprehensive review demonstrating artemisinin's antitumor effects through oxidative stress induction, cell cycle arrest, and apoptosis triggering, plus immunomodulatory and metabolic regulation properties beyond antimalarial use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Artemisinin and its derivatives throughout the therapeutic mechanisms and clinical potential",
+      "summary": "Review highlighting artemisinin's broad pharmacological activities including anticancer, antiviral, anti-inflammatory, and renoprotective properties, with applications extending to metabolic syndrome, fibrosis, and SARS-CoV-2 treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Medicinal and mechanistic overview of artemisinin in the treatment of human diseases",
+      "summary": "Analysis of artemisinin's therapeutic potential for malaria, cancer, viral infections, bacterial infections, and cardiovascular diseases, with detailed pharmacokinetic and pharmacological properties based on in vitro and in vivo studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Artemisinin ameliorates cognitive decline by inhibiting hippocampal neuronal ferroptosis via Nrf2 activation in T2DM mice",
+      "summary": "Study demonstrating artemisinin (40 mg/kg) reversed cognitive impairments in diabetic mice by activating Nrf2 pathways to inhibit neuronal ferroptosis and reduce oxidative stress in the hippocampus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dried Leaf Artemisia Annua Improves Bioavailability of Artemisinin via Cytochrome P450 Inhibition",
+      "summary": "Research showing whole dried leaf Artemisia annua improves artemisinin bioavailability through cytochrome P450 enzyme inhibition, potentially enhancing therapeutic efficacy compared to isolated artemisinin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User sentiment is mixed with limited direct discussion of artemisinin. It appears in combination immune support formulas and antioxidant regimens, with users generally viewing it positively as part of broader supplement protocols. However, there's minimal standalone user experience data, and concerns exist about optimal dosing and potential interactions when combined with multiple liposomal antioxidants."
+  },
+  "effects": [
+    {
+      "label": "Limited Standalone Data:",
+      "description": "Most user reports involve artemisinin in combination products rather than as a single supplement"
+    },
+    {
+      "label": "Research-Practice Gap:",
+      "description": "Strong scientific evidence for antimalarial and potential anticancer effects, but minimal consumer-level experience reports"
+    },
+    {
+      "label": "Dosage Uncertainty:",
+      "description": "Users express concern about appropriate dosing, particularly with liposomal formulations and combinations"
+    },
+    {
+      "label": "Bioavailability Considerations:",
+      "description": "Research suggests whole plant extracts may offer better absorption than isolated compounds"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies used 40 mg/kg, but human equivalent doses are not clearly established in user communities"
+    },
+    {
+      "label": "Combination Formulas:",
+      "description": "Typically included at unspecified amounts in multi-ingredient immune support products"
+    },
+    {
+      "label": "Liposomal Concerns:",
+      "description": "Users question whether liposomal forms require lower doses due to enhanced absorption"
+    },
+    {
+      "label": "Lack of Consensus:",
+      "description": "No clear standard dosing recommendations emerge from user discussions"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal User Reports:",
+      "description": "Very few direct side effect reports in consumer forums, possibly due to limited standalone use"
+    },
+    {
+      "label": "Combination Concerns:",
+      "description": "Users worry about interactions when stacking multiple liposomal antioxidants including artemisinin"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Generally considered safe based on long antimalarial use history, though long-term supplementation data is limited"
+    },
+    {
+      "label": "Antioxidant Overload:",
+      "description": "Theoretical concerns about excessive antioxidant intake when combined with multiple similar compounds"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Options:",
+      "description": "Zazzee mentioned as one available brand, though user feedback on quality is minimal"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Commonly found in multi-ingredient immune support formulas with quercetin, zinc, vitamin C, and elderberry"
+    },
+    {
+      "label": "Liposomal Forms:",
+      "description": "Available in liposomal formulations, though optimal sourcing and pricing information is sparse"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

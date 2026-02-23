@@ -1,0 +1,155 @@
+{
+  "slug": "spermidine",
+  "url": "https://dopamine.club/substances/spermidine/",
+  "scrapedAt": "2026-02-12T16:11:24.138Z",
+  "title": "SPERMIDINE",
+  "description": "Spermidine is a naturally occurring polyamine compound found in various foods and produced by the body that acts as a potent autophagy inducer. It works by stimulating cellular cleanup processes, protecting against age-related decline, and supporting cardiovascular, cognitive, and metabolic health. Research suggests it may extend lifespan and reduce mortality risk through its effects on cellular maintenance and anti-inflammatory mechanisms.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Spermidine in health and disease",
+      "summary": "Comprehensive review identifying spermidine as a caloric restriction mimetic that delays aging and protects from age-associated diseases by inducing autophagy and cellular renewal processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29371440/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Spermidine Supplementation on Cognition and Biomarkers in Older Adults With Subjective Cognitive Decline: A Randomized Clinical Trial",
+      "summary": "Clinical trial in older adults showing spermidine supplementation improved cognitive performance and various biomarkers in participants with subjective cognitive decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35616942/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary spermidine improves cognitive function",
+      "summary": "Study demonstrating that dietary spermidine supplementation enhances cognitive function through mechanisms involving autophagy and neuroprotection in animal models and human observations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33852843/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Spermidine delays aging in humans",
+      "summary": "Epidemiological evidence showing higher dietary spermidine intake correlates with reduced mortality risk equivalent to being 5.7 years younger in biological age.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30388439/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Spermidine is essential for fasting-mediated autophagy and longevity",
+      "summary": "Research demonstrating spermidine's critical role in mediating the autophagy-inducing and lifespan-extending effects of fasting and caloric restriction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39117797/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Spermidine reduces neuroinflammation and soluble amyloid beta in an Alzheimer's disease mouse model",
+      "summary": "Animal study showing spermidine reduced neuroinflammation and amyloid-beta accumulation, suggesting potential protective effects against Alzheimer's disease pathology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35780157/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety and tolerability of spermidine supplementation in mice and older adults with subjective cognitive decline",
+      "summary": "Safety study confirming spermidine supplementation is well-tolerated in older adults with minimal adverse effects, supporting its viability for long-term use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29371440/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective Role of Spermidine in Colitis and Colon Carcinogenesis",
+      "summary": "Research demonstrating spermidine's protective effects against inflammatory bowel disease and colon cancer development through anti-inflammatory mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34767785/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with spermidine supplementation, particularly for longevity and cognitive benefits, though effects are subtle and take time. Most users take it as part of a comprehensive longevity stack rather than for immediate noticeable effects."
+  },
+  "effects": [
+    {
+      "label": "Longevity Marker:",
+      "description": "Studies show strongest correlation with reduced mortality among 146 nutrients tested, with effects comparable to being 5.7 years younger"
+    },
+    {
+      "label": "Dietary vs Supplemental:",
+      "description": "Research emphasizes dietary sources (mushrooms, beans, wheat germ) may be more effective than high-dose supplementation"
+    },
+    {
+      "label": "Gradual Impact:",
+      "description": "Users typically don't notice dramatic short-term effects, with benefits appearing over weeks to months of consistent use"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Often combined with other longevity supplements (NMN, resveratrol) as part of comprehensive anti-aging protocols"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Supplemental Dose:",
+      "description": "1-10mg daily from supplements, with most commercial products containing 1-10mg per serving"
+    },
+    {
+      "label": "David Sinclair Protocol:",
+      "description": "Referenced taking 1g daily, though this appears to be a misstatement as studies use 1-2mg ranges"
+    },
+    {
+      "label": "Dietary Sources:",
+      "description": "2 tablespoons wheat germ provides approximately 6-12mg, making food sources highly cost-effective"
+    },
+    {
+      "label": "Clinical Study Doses:",
+      "description": "Human trials typically use 1.2mg daily with positive results on cognition and biomarkers"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Increased Body Heat:",
+      "description": "Common reported side effect requiring some users to microdose to avoid intense warming sensation"
+    },
+    {
+      "label": "Exercise Odor:",
+      "description": "Some users report unusual body odor during intense exercise on days they take spermidine"
+    },
+    {
+      "label": "Sleep Disturbance:",
+      "description": "Higher doses may cause sleep issues in sensitive individuals, leading users to take lower amounts"
+    },
+    {
+      "label": "Minimal Serious Effects:",
+      "description": "Generally well-tolerated with safety studies confirming low risk profile in long-term use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Multiple Brands:",
+      "description": "Available from DoNotAge (8-16mg), Primeadine (lower dose with wheat germ), DoubleWood (10mg), and other supplement companies"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Relatively expensive compared to obtaining spermidine from dietary sources like wheat germ, mushrooms, or beans"
+    },
+    {
+      "label": "Food Sources Preferred:",
+      "description": "Many users and researchers recommend getting spermidine from whole food sources rather than isolated supplements for better efficacy"
+    }
+  ],
+  "related": [
+    {
+      "name": "ERGOTHIONEINE",
+      "slug": "ergothioneine"
+    },
+    {
+      "name": "MYRICETIN",
+      "slug": "myricetin"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    }
+  ]
+}

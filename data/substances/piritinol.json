@@ -1,0 +1,149 @@
+{
+  "slug": "piritinol",
+  "url": "https://dopamine.club/substances/piritinol/",
+  "scrapedAt": "2026-02-12T16:10:42.490Z",
+  "title": "PIRITINOL",
+  "description": "Piritinol (also known as pyrithioxin or pyritinol) is a nootropic compound consisting of two pyridoxine (vitamin B6) molecules bound by a disulfide bridge. It acts as a cerebro-protective agent that has been studied primarily for cognitive enhancement in organic brain syndrome, Alzheimer's disease, and age-related cognitive decline. The compound appears to influence cholinergic neurotransmission and may increase acetylcholine levels in the brain, though its exact mechanism of action remains under investigation.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Psychopharmacological effects of pyritinol in normal volunteers",
+      "summary": "A double-blind study in 12 healthy volunteers found that pyritinol (600-1200mg) produced significant improvements in Critical Flicker Fusion and Choice Reaction Time tests, with no significant side effects, suggesting cognitive enhancement effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2135070/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of the chronic administration of pyrithioxin on behaviour and cholinergic function in young and aged rats",
+      "summary": "Chronic pyrithioxin administration (200-600 mg/kg over 6 weeks) enhanced passive avoidance retention in both young and old rats, and improved sensitivity to foot shock and water maze retention in aged animals, without affecting locomotor activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22159136/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Long-term effects of phosphatidylserine, pyritinol, and cognitive training in Alzheimer's disease. A neuropsychological, EEG, and PET investigation",
+      "summary": "In 70 Alzheimer's patients treated for 6 months, the combination of cognitive training with pyritinol (2x600mg/day) showed effects on brain function measures, though neuropsychological improvements were best documented at 8-16 weeks and faded toward treatment end.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8038871/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dose-effect relationship of orally administered Pyritinol in the chronic organic brain syndrome",
+      "summary": "A study of 161 patients with chronic organic brain syndrome found that treatment success rate increased significantly with higher doses and longer treatment duration, suggesting that recommended daily doses should be exceeded in severe cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/672767/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of nootropic drugs on brain cholinergic and dopaminergic transmission",
+      "summary": "Six-day administration of pyritinol (50mg/kg/day) in rats increased high-affinity choline uptake in the hippocampus without changing striatal dopamine levels, suggesting enhancement of acetylcholine synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3035858/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Drug-induced pemphigus",
+      "summary": "A literature review identified pyritinol as responsible for 4 cases of drug-induced pemphigus, with superficial pemphigus seen in about 75% of cases, though prognosis was better than non-drug-induced pemphigus under immunosuppressive therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3521113/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Adverse effects profile of sulfhydryl compounds in man",
+      "summary": "Compounds with active sulfhydryl groups (including pyritinol) share a distinctive adverse reaction pattern including alterations in taste perception, mucocutaneous lesions, proteinuria, and pemphigus, though these reactions occur with variable frequency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2937293/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "Based on research literature, piritinol appears to have limited modern clinical use due to concerning side effects, particularly drug-induced pemphigus and other sulfhydryl-related adverse reactions. While older studies showed some cognitive benefits in brain dysfunction and aging, the compound is rarely discussed in current nootropic communities and has been largely superseded by safer alternatives."
+  },
+  "effects": [
+    {
+      "label": "Dose-Response Relationship:",
+      "description": "Higher doses (600-1200mg daily) appear more effective than lower doses, with success rates increasing with both dose and duration of treatment"
+    },
+    {
+      "label": "Time Course:",
+      "description": "Cognitive benefits may peak at 8-16 weeks of treatment and potentially fade with longer-term use beyond 6 months"
+    },
+    {
+      "label": "Population Specificity:",
+      "description": "Appears more effective in populations with existing cognitive impairment (organic brain syndrome, Alzheimer's, aging) than as a general cognitive enhancer"
+    },
+    {
+      "label": "Limited Modern Use:",
+      "description": "Rarely used in current clinical practice compared to when initially studied in the 1970s-1990s, suggesting limited practical effectiveness or safety concerns"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Clinical Dose:",
+      "description": "600mg twice daily (1200mg total) was commonly used in Alzheimer's and cognitive impairment studies"
+    },
+    {
+      "label": "Acute Testing Dose:",
+      "description": "600-1200mg single doses used in healthy volunteer studies to assess cognitive effects"
+    },
+    {
+      "label": "Flexible Dosing:",
+      "description": "Literature suggests doses should be increased in severe cases or when immediate improvement is not seen, though specific upper limits not well-defined"
+    },
+    {
+      "label": "Chronic Administration:",
+      "description": "Studies used treatment periods ranging from 6 days to 6 months, with longer durations generally showing better outcomes initially"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Drug-Induced Pemphigus:",
+      "description": "A serious autoimmune skin condition characterized by blistering, reported in multiple cases, typically superficial pemphigus associated with autoimmune disorders"
+    },
+    {
+      "label": "Sulfhydryl-Related Reactions:",
+      "description": "Alterations in taste perception, mucocutaneous lesions, oral ulcers, and rash due to the active sulfhydryl group in the compound's structure"
+    },
+    {
+      "label": "Hematologic Effects:",
+      "description": "Rare occurrences of neutropenia and thrombocytopenia reported with sulfhydryl compounds as a class"
+    },
+    {
+      "label": "Proteinuria:",
+      "description": "Potential for immune-complex membranous glomerulopathy leading to protein in urine, requiring monitoring during long-term use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Historical Use:",
+      "description": "Primarily used in European countries (particularly Germany) during the 1970s-1990s, with limited current availability in most markets"
+    },
+    {
+      "label": "Prescription Status:",
+      "description": "When available, typically requires prescription due to documented adverse effect profile and need for medical supervision"
+    },
+    {
+      "label": "Modern Alternatives:",
+      "description": "Largely replaced by safer nootropic compounds in current practice, explaining its absence from contemporary supplement discussions"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    }
+  ]
+}

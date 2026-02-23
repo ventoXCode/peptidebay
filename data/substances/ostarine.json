@@ -1,0 +1,108 @@
+{
+  "slug": "ostarine",
+  "url": "https://dopamine.club/substances/ostarine/",
+  "scrapedAt": "2026-02-12T16:10:19.270Z",
+  "title": "OSTARINE",
+  "description": "Ostarine, also known as Enobasarm, is a non-steroidal Selective Androgen Receptor Modulator (SARM) designed to bind to androgen receptors in muscle and bone tissue specifically. It aims to provide anabolic benefits, such as increased muscle mass and bone density, while minimizing the androgenic side effects typical of traditional anabolic steroids.",
+  "categories": [
+    "SARM",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Ostarine increases lean body mass and improves physical performance in healthy elderly subjects: Implications for cancer cachexia patients",
+      "summary": "In a Phase II trial, Ostarine dose-dependently increased lean body mass and significantly improved physical performance on a stair-climb test in elderly men and postmenopausal women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19852734/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "In Vitro and In Vivo Human Metabolism of Ostarine, a Selective Androgen Receptor Modulator and Doping Agent",
+      "summary": "Research identifies the metabolic pathways of Ostarine in humans, noting its widespread use as a performance-enhancing agent by athletes despite not being approved for human consumption.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39063049/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "While users acknowledge its effectiveness for muscle retention during 'cuts,' there is significant concern regarding rapid onset of sexual dysfunction and the necessity of Post Cycle Therapy (PCT)."
+  },
+  "effects": [
+    {
+      "label": "Anabolic Strength:",
+      "description": "Many experienced users find its muscle-building potency relatively weak compared to steroids or stronger SARMs like LGD-4033."
+    },
+    {
+      "label": "Impact on Novices:",
+      "description": "Significant gains are often attributed to Ostarine in beginners, though veterans suggest these may be achievable through better training alone."
+    },
+    {
+      "label": "Recomping:",
+      "description": "Highly effective for 'body recomposition' (losing fat while maintaining muscle) when combined with strict dieting."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Dose:",
+      "description": "Significant increases in lean body mass were observed in trials at only 3mg per day."
+    },
+    {
+      "label": "Bodybuilding Standard:",
+      "description": "Recreational users typically range between 10mg and 25mg daily for 6-8 week cycles."
+    },
+    {
+      "label": "Microdosing Recommendation:",
+      "description": "Some community members advocate for 1-3mg to minimize HPTA suppression while still receiving minor recovery benefits."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "HPTA Suppression:",
+      "description": "Can cause a significant drop in natural testosterone, leading to lethargy and mood changes."
+    },
+    {
+      "label": "Sexual Dysfunction:",
+      "description": "Users report rapid onset of erectile dysfunction and reduced ejaculate volume, sometimes within days of starting."
+    },
+    {
+      "label": "Liver Stress:",
+      "description": "Although 'selective,' instances of severe cholestatic jaundice have been linked to SARM use in recreational settings."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Legal Status:",
+      "description": "Sold as a 'research chemical' or 'not for human consumption' rather than a dietary supplement."
+    },
+    {
+      "label": "Doping Control:",
+      "description": "Explicitly banned by WADA and most professional sports organizations."
+    },
+    {
+      "label": "Quality Control:",
+      "description": "Many products sold as Ostarine may be contaminated or contain different compounds entirely, necessitating third-party lab testing."
+    }
+  ],
+  "related": [
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "ARGININE",
+      "slug": "arginine"
+    },
+    {
+      "name": "BCAAS",
+      "slug": "bcaas"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    },
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "dimethylglycine",
+  "url": "https://dopamine.club/substances/dimethylglycine/",
+  "scrapedAt": "2026-02-12T16:07:14.888Z",
+  "title": "DIMETHYLGLYCINE",
+  "description": "Dimethylglycine (DMG) is a tertiary amino acid derivative of glycine that occurs naturally in plant and animal cells. It functions as a methyl donor in metabolic processes, similar to trimethylglycine (TMG) and choline, and is claimed to enhance oxygen utilization and act as an antioxidant. DMG has been marketed as a dietary supplement for immune support, athletic performance, and various neurological conditions, though clinical evidence for most benefits remains limited.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Immunomodulating properties of dimethylglycine in humans",
+      "summary": "A double-blind, placebo-controlled study found that DMG administration significantly increased both humoral and cell-mediated immune responses in humans, suggesting potential immunostimulant effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/6163829/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "N,N-Dimethylglycine in patients with progressive multiple sclerosis: result of a pilot double-blind, placebo, controlled randomized clinical trial",
+      "summary": "A one-year pilot study of 30 patients with progressive MS found no treatment effects of DMG on disability, fatigue, cognitive function, or gait parameters compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34030717/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A double-blind, placebo-controlled, crossover pilot trial of low dose dimethylglycine in patients with autistic disorder",
+      "summary": "A crossover trial found no significant beneficial effects of DMG supplementation on behavioral symptoms in patients with autism spectrum disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10425581/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely mixed with limited direct discussion of DMG. Most mentions occur within broader supplement stacks, with users uncertain about its specific benefits and some explicitly questioning whether to continue taking it versus other methylation supplements like TMG or choline."
+  },
+  "effects": [
+    {
+      "label": "Limited User Feedback:",
+      "description": "Very few Reddit users specifically discuss DMG benefits, mostly appearing in large supplement stacks"
+    },
+    {
+      "label": "Redundancy with Other Supplements:",
+      "description": "Users note DMG is interchangeable with TMG and choline, questioning need for separate supplementation"
+    },
+    {
+      "label": "Mixed Research Results:",
+      "description": "Studies show some immune benefits but no effects in MS or autism trials"
+    },
+    {
+      "label": "Unclear Advantages:",
+      "description": "Users and researchers struggle to identify clear situations where DMG outperforms similar methylation supplements"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Dose:",
+      "description": "125mg daily mentioned in user stacks, though clinical studies used higher doses"
+    },
+    {
+      "label": "Research Doses:",
+      "description": "Studies have used 300-600mg or more for specific conditions"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken with food based on user reports"
+    },
+    {
+      "label": "Cycling:",
+      "description": "No specific cycling protocols mentioned by users"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reporting:",
+      "description": "Very few side effects specifically attributed to DMG in user discussions"
+    },
+    {
+      "label": "Stack Complexity:",
+      "description": "Users taking DMG with many other supplements find it difficult to isolate effects"
+    },
+    {
+      "label": "General Tolerance:",
+      "description": "No significant adverse effects reported in clinical trials"
+    },
+    {
+      "label": "Unknown Long-term Effects:",
+      "description": "Limited data on extended use beyond research trial periods"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Marketed as a dietary supplement since 1974, available over-the-counter"
+    },
+    {
+      "label": "Brand Recognition:",
+      "description": "quality brands and other major supplement companies produce DMG products"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Users taking extensive stacks often question whether DMG is worth continuing versus more established alternatives"
+    }
+  ],
+  "related": [
+    {
+      "name": "COPPER",
+      "slug": "copper"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "ELEUTHERO",
+      "slug": "eleuthero"
+    },
+    {
+      "name": "IODINE",
+      "slug": "iodine"
+    },
+    {
+      "name": "IRON BISGLYCINATE",
+      "slug": "iron-bisglycinate"
+    }
+  ]
+}

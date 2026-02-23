@@ -1,0 +1,131 @@
+{
+  "slug": "9-me-bc",
+  "url": "https://dopamine.club/substances/9-me-bc/",
+  "scrapedAt": "2026-02-12T16:05:19.154Z",
+  "title": "9-ME-BC",
+  "description": "9-Methyl-β-carboline (9-Me-BC) is a β-carboline alkaloid that acts as a reversible monoamine oxidase (MAO) inhibitor and stimulates the expression of neurotrophic factors. Research shows it promotes dopaminergic neuron differentiation, protects against neurotoxicity, and increases dopamine levels in the hippocampus, leading to cognitive enhancement and neuronal regeneration.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "9-Methyl-β-carboline-induced cognitive enhancement is associated with elevated hippocampal dopamine levels and dendritic and synaptic proliferation",
+      "summary": "Ten days of 9-Me-BC treatment improved spatial learning in rats, elevated hippocampal dopamine levels, and resulted in more complex dendritic trees and higher spine density in neurons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22380576/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The exceptional properties of 9-methyl-beta-carboline: stimulation, protection and regeneration of dopaminergic neurons coupled with anti-inflammatory effects",
+      "summary": "9-Me-BC demonstrated a unique tetrad of effects including stimulation of tyrosine hydroxylase expression, protection against neurotoxins, regeneration after chronic toxicity, and anti-inflammatory properties in dopaminergic neurons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20374418/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "9-Methyl-β-carboline inhibits monoamine oxidase activity and stimulates the expression of neurotrophic factors by astrocytes",
+      "summary": "9-Me-BC acts as a reversible MAO inhibitor and stimulates astrocytes to produce neurotrophic factors, suggesting neuroprotective mechanisms relevant to neurodegenerative diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32285253/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "9-Methyl-beta-carboline up-regulates the appearance of differentiated dopaminergic neurones in primary mesencephalic culture",
+      "summary": "Treatment with 9-Me-BC increased the number of differentiated dopaminergic neurons, reduced cell death markers, decreased inflammation-related gene expression, and increased ATP content in mesencephalic cultures.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17913302/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users report positive experiences with 9-Me-BC for dopamine system restoration, particularly after stimulant use, with noticeable improvements in mood, motivation, energy, and cognitive function. Most users recommend it highly for ADHD and former drug abusers, though some express concerns about safety data and potential neurotoxic metabolites."
+  },
+  "effects": [
+    {
+      "label": "Timeline:",
+      "description": "Effects typically become noticeable after 9-10 days of consistent use, with some users reporting benefits lasting beyond the treatment period"
+    },
+    {
+      "label": "ADHD Management:",
+      "description": "Multiple users successfully used it as an alternative or supplement to prescription ADHD medications, with particular success in repairing dopamine systems damaged by long-term stimulant use"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Most effective when used in limited cycles (6-10 weeks) rather than continuous supplementation, particularly when combined with supportive supplements like NALT and uridine"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Highly praised by those recovering from stimulant abuse, but limited data on effectiveness for users without dopaminergic dysfunction"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Sublingual Administration:",
+      "description": "Preferred route of administration with better effects than oral, placed under tongue for 10-15 minutes while avoiding swallowing"
+    },
+    {
+      "label": "Minimal Dosing:",
+      "description": "Very small amounts needed - users describe amounts that would cover half a dime, though exact measurements vary and scales are recommended"
+    },
+    {
+      "label": "Duration:",
+      "description": "Typical cycles range from 10 days to 6-10 weeks, with 90-day protocols mentioned for dopamine system repair"
+    },
+    {
+      "label": "Timing:",
+      "description": "Generally taken once daily, with some users splitting into multiple smaller doses throughout the day"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "MAO Interaction Concerns:",
+      "description": "As an MAO inhibitor, potential dangerous interactions with certain drugs and supplements, particularly those affecting serotonin"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Users express concern about lack of long-term human safety studies and potential neurotoxic metabolites mentioned in research"
+    },
+    {
+      "label": "Panic Reactions:",
+      "description": "At least one report of panic attack symptoms when combined with other supplements (kanna), highlighting interaction risks"
+    },
+    {
+      "label": "Contraindications:",
+      "description": "Should not be combined with bromantane or high-dose modafinil; careful stacking required due to MAO-inhibiting properties"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical Status:",
+      "description": "Available primarily through nootropics vendors as a research chemical, not approved for human consumption by regulatory agencies"
+    },
+    {
+      "label": "Vendor Sources:",
+      "description": "Commonly purchased from specialized nootropics suppliers, typically in powder form"
+    },
+    {
+      "label": "Legal Gray Area:",
+      "description": "Exists in regulatory gray zone - available for purchase but not approved as a dietary supplement or medication"
+    }
+  ],
+  "related": [
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    },
+    {
+      "name": "CEREBROPROTEIN HYDROLYSATE",
+      "slug": "cerebroprotein-hydrolysate"
+    }
+  ]
+}

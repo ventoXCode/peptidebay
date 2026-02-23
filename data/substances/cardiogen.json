@@ -1,0 +1,90 @@
+{
+  "slug": "cardiogen",
+  "url": "https://dopamine.club/substances/cardiogen/",
+  "scrapedAt": "2026-02-12T16:06:22.223Z",
+  "title": "CARDIOGEN",
+  "description": "Cardiogen is a bioregulatory tetrapeptide (Ala-Glu-Asp-Arg) designed to support cardiovascular health by stimulating fibroblast proliferation and protein synthesis in the heart muscle. It works by regulating the expression of genes involved in myocardial remodeling and cellular repair, primarily used for recovery from cardiac injury and the prevention of age-related heart tissue degradation.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User data for Cardiogen is extremely limited in the provided context, but general peptide sentiment suggests high efficacy for tissue repair with significant barrier to entry regarding sourcing and administration."
+  },
+  "effects": [
+    {
+      "label": "Specific Action:",
+      "description": "Highly targeted toward cardiovascular tissue with minimal impact on other organ systems."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Often considered more effective when combined with other bioregulators like Epitalon."
+    },
+    {
+      "label": "Long-term Utility:",
+      "description": "Primarily viewed as a preventative or restorative aid for chronic conditions rather than an acute performance enhancer."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Injectable Protocol:",
+      "description": "Commonly cited at 1-5mg daily via subcutaneous injection for 10-20 days."
+    },
+    {
+      "label": "Oral Administration:",
+      "description": "Available in capsule form, though generally considered to have lower bioavailability than injectable versions."
+    },
+    {
+      "label": "Cycle Frequency:",
+      "description": "Often used in periodic cycles (2-3 times per year) rather than continuous maintenance."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Injection Site Reaction:",
+      "description": "Mild redness or soreness at the subcutaneous administration site."
+    },
+    {
+      "label": "Blood Pressure Fluctuations:",
+      "description": "Rare anecdotal reports of temporary changes in blood pressure during the start of a cycle."
+    },
+    {
+      "label": "Hypersensitivity:",
+      "description": "Potential for minor allergic reactions as with any foreign peptide sequence."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemicals:",
+      "description": "Sold primarily through online peptide vendors labeled 'for research purposes only'."
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Not currently FDA-approved for medical treatment in the United States, though used clinically in other regions like Russia."
+    }
+  ],
+  "related": [
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    },
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    },
+    {
+      "name": "FOXO4-DRI",
+      "slug": "foxo4-dri"
+    },
+    {
+      "name": "GHK-Cu",
+      "slug": "ghk-cu"
+    },
+    {
+      "name": "HUMAN RELAXIN-2",
+      "slug": "human-relaxin-2"
+    }
+  ]
+}

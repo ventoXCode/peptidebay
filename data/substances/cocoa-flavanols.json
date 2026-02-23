@@ -1,0 +1,125 @@
+{
+  "slug": "cocoa-flavanols",
+  "url": "https://dopamine.club/substances/cocoa-flavanols/",
+  "scrapedAt": "2026-02-12T16:06:50.861Z",
+  "title": "COCOA FLAVANOLS",
+  "description": "Cocoa flavanols are a group of bioactive plant compounds, specifically flavanones and proanthocyanidins, that enhance nitric oxide bioavailability and improve vascular function. They are primarily used to support cardiovascular health, reduce systemic inflammation, and protect against skin photo-aging by improving dermal blood flow.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effect of cocoa flavanol supplementation for the prevention of cardiovascular disease events: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial",
+      "summary": "This large-scale trial found that while cocoa extract did not significantly reduce total cardiovascular events, it resulted in a 27% reduction in cardiovascular death.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35293358/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cocoa supplements show surprising anti-aging potential",
+      "summary": "Recent data from the COSMOS trial indicates that daily cocoa extract reduces hsCRP, a key marker of inflammation and aging-related cardiovascular risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26581682/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cocoa Flavanol Supplementation and Risk of Age-Related Macular Degeneration: An Ancillary Study of the COSMOS Randomized Clinical Trial",
+      "summary": "This 2025 study investigated whether the improved blood flow from cocoa flavanols could prevent the development or progression of age-related macular degeneration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40146119/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cocoa Flavanol Supplementation Influences Skin Conditions of Photo-Aged Women",
+      "summary": "A 24-week study demonstrated that cocoa flavanols significantly improved skin elasticity and reduced the progression of wrinkles in moderately photo-aged skin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26581682/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Impact of cocoa flavanols on human health",
+      "summary": "A comprehensive review highlighting how these compounds improve endothelial function and exert antioxidant effects across various physiological systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33722594/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users report high satisfaction with cocoa flavanols for noticeable mood enhancement and cardiovascular support, with many citing it as a core component of longevity stacks."
+  },
+  "effects": [
+    {
+      "label": "Longevity Strategy:",
+      "description": "Included in high-profile longevity protocols (like Bryan Johnson's) for its data-backed heart protection."
+    },
+    {
+      "label": "Inflammaging:",
+      "description": "Highly effective at reducing markers like hsCRP that signal age-related inflammatory decline."
+    },
+    {
+      "label": "Vascular Flow:",
+      "description": "Scientifically validated to improve choroidal and peripheral blood circulation."
+    },
+    {
+      "label": "Mood Consistency:",
+      "description": "Many users find it more reliable for daily mood stability than typical multivitamins."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Daily Protocol:",
+      "description": "500 mg per day of cocoa flavanols is the standard dose used in the major COSMOS clinical trials."
+    },
+    {
+      "label": "Split Dosing:",
+      "description": "Popular protocols, such as those used by biohackers, suggest 500 mg twice daily (1,000 mg total)."
+    },
+    {
+      "label": "Epicatechin Content:",
+      "description": "Effective extracts typically specify at least 80 mg of (-)-epicatechin within the total flavanol count."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Stimulant Sensitivity:",
+      "description": "While lower than chocolate, some concentrated extracts may contain trace caffeine/theobromine causing mild jitters."
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "High doses of concentrated cocoa extract can cause mild stomach upset in sensitive individuals."
+    },
+    {
+      "label": "Heavy Metal Risk:",
+      "description": "Users express concern regarding cadmium and lead levels in poorly sourced cocoa products."
+    }
+  ],
+  "availability": [
+    {
+      "label": "OTC Supplement:",
+      "description": "Widely available as a dietary supplement in capsule or powder form."
+    },
+    {
+      "label": "Ingredient Purity:",
+      "description": "Sourcing is critical, as Dutch-processing (alkalization) of cocoa destroys the majority of beneficial flavanols."
+    }
+  ],
+  "related": [
+    {
+      "name": "DHA",
+      "slug": "dha"
+    },
+    {
+      "name": "OMEGA-3",
+      "slug": "omega-3"
+    },
+    {
+      "name": "TREMELLA",
+      "slug": "tremella"
+    },
+    {
+      "name": "TUDCA",
+      "slug": "tudca"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    }
+  ]
+}

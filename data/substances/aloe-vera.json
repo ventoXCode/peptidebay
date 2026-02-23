@@ -1,0 +1,125 @@
+{
+  "slug": "aloe-vera",
+  "url": "https://dopamine.club/substances/aloe-vera/",
+  "scrapedAt": "2026-02-12T16:05:35.884Z",
+  "title": "ALOE VERA",
+  "description": "Aloe vera is a succulent plant containing over 200 bioactive compounds including polysaccharides, anthraquinones, vitamins, and enzymes with demonstrated anti-inflammatory, antioxidant, and wound-healing properties. Its gel and latex components modulate immune function, promote tissue repair through enhanced collagen synthesis, and provide digestive support through soothing effects on the gastrointestinal tract. Primarily used topically for skin conditions and wound healing, and orally for digestive health and metabolic support.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Aloe vera: Potential candidate in health management via modulation of biological activities",
+      "summary": "Comprehensive review documenting Aloe vera's diverse therapeutic properties including antimicrobial, anti-inflammatory, antioxidant, and immunomodulatory effects across multiple health conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26392709/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of biological properties and clinical effectiveness of Aloe vera: A systematic review",
+      "summary": "Systematic analysis confirming Aloe vera's clinical effectiveness in wound healing, dermatological conditions, and gastrointestinal disorders through its rich phytochemical profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26151005/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The green healer: an updated review on the phytochemical profile and therapeutic potential of Aloe vera",
+      "summary": "Recent scientific evidence shows Aloe vera's bioactive compounds provide significant anti-inflammatory, antioxidant, and antibacterial effects, with validated applications in metabolic disorders and wound healing, reducing healing times by up to 40% in burn cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Users report mixed experiences with Aloe vera, with some finding benefit for digestive issues like GERD and gastritis when combined with other supplements, while others note minimal effectiveness as a standalone treatment. Generally viewed as a safe, supportive supplement rather than a primary therapeutic intervention."
+  },
+  "effects": [
+    {
+      "label": "Supportive Role:",
+      "description": "Most effective when combined with other treatments rather than as standalone therapy for digestive conditions"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Responses vary significantly, with some users experiencing relief while others notice no substantial benefit"
+    },
+    {
+      "label": "Complementary Treatment:",
+      "description": "Often used alongside prescription medications (PPIs, H2 blockers) and other supplements like DGL and slippery elm"
+    },
+    {
+      "label": "Limited Standalone Efficacy:",
+      "description": "Generally not powerful enough to address chronic conditions independently based on user reports"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Digestive Dose:",
+      "description": "1800mg in capsule form commonly mentioned for gastrointestinal and urinary support"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Users report confusion about optimal timing, with product labels recommending pre-meal administration"
+    },
+    {
+      "label": "Juice vs Capsules:",
+      "description": "Aloe vera juice and gel soft gels both used, though specific dosing varies by preparation"
+    },
+    {
+      "label": "Combination Dosing:",
+      "description": "Frequently taken with multiple other supplements, making isolated dose-response difficult to determine"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported Issues:",
+      "description": "Very few side effects mentioned in user discussions, suggesting good tolerability"
+    },
+    {
+      "label": "Laxative Effects:",
+      "description": "Anthraquinone content can cause digestive issues at high doses, though not commonly reported at standard supplemental doses"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Some users may experience increased digestive discomfort rather than relief"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Limited discussion of interactions, though users taking multiple medications show concern about supplement combinations"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily accessible in various forms including capsules, gel softgels, and juice from mainstream retailers"
+    },
+    {
+      "label": "Cost-Effective:",
+      "description": "Generally inexpensive supplement, not mentioned as a financial burden compared to other digestive health products"
+    },
+    {
+      "label": "Multiple Formulations:",
+      "description": "Available as standalone supplement or combined with other digestive support ingredients in commercial products"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    }
+  ]
+}

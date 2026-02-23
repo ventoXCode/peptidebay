@@ -1,0 +1,125 @@
+{
+  "slug": "adamax",
+  "url": "https://dopamine.club/substances/adamax/",
+  "scrapedAt": "2026-02-12T16:05:22.773Z",
+  "title": "ADAMAX",
+  "description": "Adamax is an advanced nootropic peptide derived from Semax, featuring modifications including an acetyl group and an adamantane group that enhance its bioavailability and stability. It works primarily by increasing Brain-Derived Neurotrophic Factor (BDNF) levels and enhancing TrkB receptor sensitivity in the hippocampus, supporting improved cognitive function, neuroprotection, and neurogenesis. Adamax is designed to cross the blood-brain barrier more efficiently than standard Semax, offering extended cognitive enhancement effects.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Mine Gas Concentration Forecasting Model Based on an Optimized BiGRU Network",
+      "summary": "Study demonstrated that the Adamax optimization algorithm achieved the best forecasting results when applied to bidirectional gated recurrent unit neural networks, showing superior performance compared to other optimization algorithms in complex prediction tasks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33195909/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Research on furniture image classification based on MobileNetNAK",
+      "summary": "Research showed that the Adamax optimizer accelerated model convergence and reduced overfitting risk by adaptively adjusting learning rates, demonstrating effectiveness in complex classification tasks when integrated with neural networks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40989412/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Diagnosis of Autism Spectrum Disorders in Young Children Based on Resting-State Functional Magnetic Resonance Imaging Data Using Convolutional Neural Networks",
+      "summary": "Study utilized Adamax optimization in convolutional neural networks for medical diagnosis, demonstrating its capability in handling complex neural network training with improved accuracy and stability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30963340/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report genuine interest in Adamax as an improved Semax alternative with enhanced bioavailability, but experiences are limited due to its recent release and limited availability. Those seeking information express curiosity about its cognitive benefits, though few detailed user experiences exist compared to standard Semax formulations."
+  },
+  "effects": [
+    {
+      "label": "Potency vs Semax:",
+      "description": "Generally considered more advanced and potent than standard Semax, N-Acetyl Semax, and Amidate forms"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Enhanced absorption and blood-brain barrier penetration due to acetyl and adamantane modifications"
+    },
+    {
+      "label": "Limited Anecdotes:",
+      "description": "Fewer user reports available due to recent release and Ceretropic closure shortly after introduction"
+    },
+    {
+      "label": "Stacking Potential:",
+      "description": "Users report potential for synergistic effects when combined with stimulants like dextroamphetamine for ADHD"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Cycling Protocol:",
+      "description": "Users discuss cycling with other stimulants (e.g., Wednesday dosing in weekly rotation with PPAP, phenylpiracetam, noopept)"
+    },
+    {
+      "label": "Comparison to Semax:",
+      "description": "Dosing follows similar protocols to standard Semax formulations, though specific Adamax dosing guidance is limited"
+    },
+    {
+      "label": "Route of Administration:",
+      "description": "Available in both nasal spray and subcutaneous injection forms, with injections reportedly providing stronger and longer effects"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Optimal dosing appears to require personal experimentation due to limited standardized protocols"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Limited Safety Data:",
+      "description": "Very few user reports of side effects due to recent introduction and limited widespread use"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Potential concerns about interactions with medications like bupropion, though theoretical risks appear minimal"
+    },
+    {
+      "label": "Variable Response:",
+      "description": "Some users report Semax occasionally not working, suggesting potential for inconsistent effects"
+    },
+    {
+      "label": "Unknown Long-term Effects:",
+      "description": "Lack of long-term human safety data compared to more established Semax formulations"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Limited Access:",
+      "description": "Originally released by Ceretropic shortly before company closure, making it difficult to source reliably"
+    },
+    {
+      "label": "Sourcing Challenges:",
+      "description": "Users express difficulty finding reputable suppliers compared to standard Semax formulations"
+    },
+    {
+      "label": "Information Scarcity:",
+      "description": "Limited available information and user experiences compared to more established nootropic peptides"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    },
+    {
+      "name": "CEBARACETAM",
+      "slug": "cebaracetam"
+    },
+    {
+      "name": "CEREBROPROTEIN HYDROLYSATE",
+      "slug": "cerebroprotein-hydrolysate"
+    }
+  ]
+}

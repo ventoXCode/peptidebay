@@ -1,0 +1,150 @@
+{
+  "slug": "rhodiola-rosea",
+  "url": "https://dopamine.club/substances/rhodiola-rosea/",
+  "scrapedAt": "2026-02-12T16:11:02.176Z",
+  "title": "RHODIOLA ROSEA",
+  "description": "Rhodiola Rosea is an adaptogenic herb native to cold, high-altitude regions that has been used for centuries in traditional medicine to combat fatigue and enhance resilience to stress. It works primarily through active compounds called rosavins and salidroside, which modulate stress hormones (particularly cortisol), support neurotransmitter function, and provide antioxidant and anti-inflammatory effects. It is primarily used to reduce mental and physical fatigue, improve stress response, enhance mood, and support cognitive function.",
+  "categories": [
+    "Herb",
+    "Adaptogen"
+  ],
+  "research": [
+    {
+      "title": "Rhodiola rosea as an adaptogen to enhance exercise performance: a review of the literature",
+      "summary": "Acute supplementation with approximately 200mg of Rhodiola Rosea (containing 1% salidroside and 3% rosavin) taken 60 minutes before exercise may improve time-to-exhaustion and time trial performance in recreationally active individuals, though benefits from chronic supplementation are less documented.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37641937/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Rhodiola Rosea Supplementation on Exercise and Sport: A Systematic Review",
+      "summary": "This systematic review of 13 studies with 263 participants found mixed results for Rhodiola's effects on exercise performance, with some studies showing benefits for endurance and muscle damage reduction while others showed no significant effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35464040/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rhodiola rosea supplementation on sports performance: A systematic review of randomized controlled trials",
+      "summary": "Analysis of randomized controlled trials suggests Rhodiola rosea may have modest effects on reducing muscle damage and improving physical performance, though methodological limitations exist in current research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37495266/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rhodiola rosea L.: an herb with anti-stress, anti-aging, and immunostimulating properties for cancer chemoprevention",
+      "summary": "Beyond its stress-protective properties, Rhodiola rosea extracts demonstrate anti-aging, anti-inflammatory, immunostimulating, DNA repair, and anti-cancer effects in various model systems, primarily mediated through compounds like salidroside.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30393593/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effectiveness of Rhodiola rosea L. Preparations in Alleviating Various Aspects of Life-Stress Symptoms and Stress-Induced Conditions",
+      "summary": "Clinical evidence suggests Rhodiola rosea preparations are effective in alleviating symptoms of life stress and stress-induced conditions with minimal side effects, supporting its traditional use as an adaptogen.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35745023/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rhodiola Rosea: A Versatile Adaptogen",
+      "summary": "Rhodiola rosea extracts favorably affect neurotransmitter levels, central nervous system activity, and cardiovascular function, and are used to stimulate the nervous system, decrease depression, enhance work performance, and eliminate fatigue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33430554/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Does Rhodiola rosea possess ergogenic properties?",
+      "summary": "Studies conducted in Eastern Europe suggest Rhodiola rosea may improve cognitive function, reduce mental fatigue, and enhance endurance performance, though Western studies have shown mixed results with some demonstrating antioxidant properties but inconsistent ergogenic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16948486/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "User sentiment is genuinely mixed, with many reporting positive effects on stress, mood, and energy when combined with other supplements, but effectiveness varies significantly between individuals. Some users report minimal to no effects, while others find it helpful for reducing anxiety and improving energy, with concerns about quality variation between brands and limited standalone efficacy."
+  },
+  "effects": [
+    {
+      "label": "Variable Individual Response:",
+      "description": "Effectiveness appears highly individual, with some users experiencing significant benefits while others report minimal effects, suggesting genetic or biochemical factors play a role"
+    },
+    {
+      "label": "Combination Benefits:",
+      "description": "Many users report better results when Rhodiola is combined with other supplements (like L-tyrosine, magnesium, or omega-3) rather than taken alone"
+    },
+    {
+      "label": "Short-Term vs Long-Term:",
+      "description": "Some users note that Rhodiola may work initially but effects can diminish over time, suggesting potential tolerance development or need for cycling"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Users emphasize the importance of standardized extracts (3% rosavins, 1% salidroside) and reputable brands, with concerns about product quality variation affecting outcomes"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Acute Dose:",
+      "description": "Most research and users reference 200-500mg taken 60 minutes before activity, with standardized extracts containing 3% rosavins and 1% salidroside"
+    },
+    {
+      "label": "Daily Maintenance:",
+      "description": "Users typically report taking 250-500mg daily, often in the morning, though some split doses throughout the day"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Several informed users mention cycling Rhodiola rather than continuous daily use to maintain effectiveness and prevent tolerance"
+    },
+    {
+      "label": "Starting Low:",
+      "description": "Some users recommend starting with lower doses (200mg) to assess individual response before increasing"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Drowsiness:",
+      "description": "Some users report feeling sleepy or sedated rather than energized, particularly when combined with other cortisol-lowering supplements"
+    },
+    {
+      "label": "Interaction Concerns:",
+      "description": "Users note potential interactions with SSRIs and other medications that affect serotonin, with warnings about taking it alongside antidepressants"
+    },
+    {
+      "label": "Minimal Standalone Effects:",
+      "description": "Many users report that Rhodiola alone doesn't provide dramatic benefits, leading to questions about cost-effectiveness"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Side effects and responses vary widely, with some experiencing no issues while others report stomach upset or paradoxical effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Rhodiola is readily available from numerous supplement manufacturers and online retailers, though quality varies significantly between brands"
+    },
+    {
+      "label": "Standardization Important:",
+      "description": "Users emphasize purchasing standardized extracts (3% rosavins, 1% salidroside) from reputable sources like reputable suppliers to ensure consistency and quality"
+    },
+    {
+      "label": "Third-Party Testing Concerns:",
+      "description": "Some users express frustration with brands that claim third-party testing but won't provide certificates of analysis, leading to concerns about heavy metal contamination in herbal products"
+    }
+  ],
+  "related": [
+    {
+      "name": "JIAOGULAN",
+      "slug": "jiaogulan"
+    },
+    {
+      "name": "CATUABA",
+      "slug": "catuaba"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    },
+    {
+      "name": "Kratom",
+      "slug": "kratom"
+    }
+  ]
+}

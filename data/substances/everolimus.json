@@ -1,0 +1,105 @@
+{
+  "slug": "everolimus",
+  "url": "https://dopamine.club/substances/everolimus/",
+  "scrapedAt": "2026-02-12T16:07:42.116Z",
+  "title": "EVEROLIMUS",
+  "description": "Everolimus is a semi-synthetic derivative of rapamycin that acts as a potent inhibitor of the mechanistic target of rapamycin (mTOR) complex 1. It is primarily used clinically for its immunosuppressant and anti-proliferative properties, though it is increasingly studied for its potential to modulate biological aging and enhance healthspan.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Long-Term Use of Everolimus in Patients with Tuberous Sclerosis Complex: Final Results from the EXIST-1 Study",
+      "summary": "This study demonstrated that long-term everolimus use leads to sustained reductions in tumor volume and safely manages multi-system manifestations over several years.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27351628/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally view everolimus as a more bioavailable or manageable alternative to rapamycin for longevity, reporting high satisfaction with its dosing profile despite standard mTOR inhibitor side effects."
+  },
+  "effects": [
+    {
+      "label": "Sustained Efficacy:",
+      "description": "Long-term clinical data shows that beneficial effects on tumor reduction and lesion control are maintained over 4+ years."
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Evidence suggests everolimus has better oral bioavailability and a shorter half-life than sirolimus, allowing for more precise dosing."
+    },
+    {
+      "label": "Geroprotection:",
+      "description": "Research indicates it is a leading pharmacological agent for extending maximal lifespan and improving healthspan in mammalian models."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Starting Dose:",
+      "description": "4.5 mg/m2/day titrated to achieve a target blood trough of 5–15 ng/mL for medical conditions."
+    },
+    {
+      "label": "Longevity Protocol:",
+      "description": "Users often transition to intermittent weekly dosing (e.g., 5-10mg once weekly) to minimize chronic immune suppression."
+    },
+    {
+      "label": "Individualized Monitoring:",
+      "description": "Bioavailability varies significantly between individuals, making routine blood level testing essential for safety."
+    },
+    {
+      "label": "Formulation Differences:",
+      "description": "Commercial tablets have significantly higher bioavailability (roughly 3x) compared to some compounded versions."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Stomatitis:",
+      "description": "Inflammatory sores in the mouth are the most frequently reported side effect, occurring in over 40% of patients."
+    },
+    {
+      "label": "Mouth Ulceration:",
+      "description": "Small, painful ulcers that typically decrease in frequency as the body adapts to the compound."
+    },
+    {
+      "label": "Dyslipidemia:",
+      "description": "Potential for increased blood lipid and glucose levels, requiring periodic metabolic panels."
+    },
+    {
+      "label": "Dermatological Issues:",
+      "description": "While it can clear lesions, some users experience acne-like rashes or thin skin."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Requirement:",
+      "description": "Everolimus is an FDA-approved medication requiring a prescription, usually for TSC or oncology."
+    },
+    {
+      "label": "Longevity Access:",
+      "description": "Often sourced off-label through specialized longevity clinics or via international pharmacies for anti-aging purposes."
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

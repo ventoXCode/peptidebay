@@ -1,0 +1,125 @@
+{
+  "slug": "nobiletin",
+  "url": "https://dopamine.club/substances/nobiletin/",
+  "scrapedAt": "2026-02-12T16:10:13.680Z",
+  "title": "NOBILETIN",
+  "description": "Nobiletin is a polymethoxylated flavonoid extracted from citrus peels that has demonstrated neuroprotective, anti-inflammatory, and metabolic benefits in preclinical studies. It works by modulating circadian clock proteins, reducing amyloid-beta accumulation, enhancing cAMP/PKA signaling, and providing antioxidant protection. Primary research focuses on cognitive enhancement, memory improvement, and potential therapeutic applications in neurodegenerative diseases.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Nobiletin, a citrus flavonoid, improves cognitive impairment and reduces soluble Aβ levels in a triple transgenic mouse model of Alzheimer's disease (3XTg-AD)",
+      "summary": "Nobiletin reduced soluble amyloid-beta oligomers and improved cognitive impairment in a triple transgenic Alzheimer's mouse model, suggesting potential therapeutic benefits for memory and cognitive function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25913833/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nobiletin, a citrus flavonoid, improves memory impairment and Abeta pathology in a transgenic mouse model of Alzheimer's disease",
+      "summary": "Nobiletin enhanced cAMP/PKA/CREB signaling and reduced amyloid-beta pathology in transgenic mice, demonstrating memory-improving effects through multiple molecular pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18544674/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nobiletin prevents amyloid β1-40-induced cognitive impairment via inhibition of neuroinflammation and oxidative/nitrosative stress",
+      "summary": "Nobiletin protected against amyloid-beta induced cognitive deficits by reducing neuroinflammation and oxidative stress, supporting its anti-inflammatory and antioxidant mechanisms in the brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35294678/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "User experiences are limited with minimal User feedback available. The compound shows strong preclinical evidence but lacks substantial real-world user feedback to establish clear sentiment patterns."
+  },
+  "effects": [
+    {
+      "label": "Animal Model Success:",
+      "description": "Consistently shows cognitive benefits in transgenic mouse models of Alzheimer's disease with measurable reduction in pathological markers"
+    },
+    {
+      "label": "Multiple Mechanisms:",
+      "description": "Works through various pathways including cAMP/PKA signaling, antioxidant activity, and circadian clock modulation for comprehensive neuroprotection"
+    },
+    {
+      "label": "Blood-Brain Barrier:",
+      "description": "High lipid solubility and bioavailability allow effective penetration into the central nervous system"
+    },
+    {
+      "label": "Human Evidence Gap:",
+      "description": "While preclinical data is promising, limited human clinical trials exist to confirm effectiveness in people"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies typically use doses ranging from 10-50 mg/kg body weight, though human equivalent doses remain to be established"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "High fat solubility suggests potential benefits from taking with fatty meals to enhance absorption"
+    },
+    {
+      "label": "Chronic Administration:",
+      "description": "Studies show benefits with sustained daily dosing rather than acute single-dose effects"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Preclinical studies indicate low toxicity even at higher doses, though long-term human safety data is limited"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Preclinical studies characterize nobiletin as having low toxicity with few adverse effects observed"
+    },
+    {
+      "label": "Unknown Human Profile:",
+      "description": "Lack of extensive human trials means side effect profile in people remains largely undocumented"
+    },
+    {
+      "label": "Potential Drug Interactions:",
+      "description": "As a flavonoid, may interact with cytochrome P450 enzymes affecting medication metabolism"
+    },
+    {
+      "label": "Long-term Safety Unknown:",
+      "description": "Insufficient data on effects of prolonged human supplementation"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Citrus Source:",
+      "description": "Naturally found in citrus fruit peels, particularly tangerine and sweet orange peels"
+    },
+    {
+      "label": "Supplement Form:",
+      "description": "Available as isolated compound supplements though less common than other nootropics"
+    },
+    {
+      "label": "Research Chemical:",
+      "description": "Often obtained through research chemical suppliers due to limited mainstream supplement availability"
+    }
+  ],
+  "related": [
+    {
+      "name": "DHA",
+      "slug": "dha"
+    },
+    {
+      "name": "ERGOTHIONEINE",
+      "slug": "ergothioneine"
+    },
+    {
+      "name": "FISETIN",
+      "slug": "fisetin"
+    },
+    {
+      "name": "IDRA-21",
+      "slug": "idra-21"
+    },
+    {
+      "name": "KAEMPFEROL",
+      "slug": "kaempferol"
+    }
+  ]
+}

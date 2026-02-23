@@ -1,0 +1,131 @@
+{
+  "slug": "glycerol",
+  "url": "https://dopamine.club/substances/glycerol/",
+  "scrapedAt": "2026-02-12T16:08:12.022Z",
+  "title": "GLYCEROL",
+  "description": "Glycerol is a three-carbon sugar alcohol that acts as an osmotic agent to enhance fluid retention in the body. When consumed with adequate fluids, it creates a hyperhydrated state by drawing and retaining water in the intravascular and intracellular spaces, which can improve endurance performance, thermoregulation, and muscle pumps during exercise.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Guidelines for Glycerol Use in Hyperhydration and Rehydration Associated with Exercise",
+      "summary": "Endurance athletes intending to hyperhydrate with glycerol should ingest 1.2 g/kg bodyweight in 26 mL/kg bodyweight of fluid over 60 minutes, 30 minutes prior to exercise. Glycerol ingestion before, during, or following exercise is likely to improve hydration state and performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20109028/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glycerol: Biochemistry, Pharmacokinetics and Clinical and Practical Applications",
+      "summary": "Comprehensive review of glycerol's mechanism as a hyperhydrating agent through osmotic gradient creation in circulation, examining its pharmacokinetics and applications in athletic performance and medical settings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9802172/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effect of Glycerol Supplements on Aerobic and Anaerobic Performance of Athletes and Sedentary Subjects",
+      "summary": "Study comparing glycerol supplementation effects on both trained athletes and sedentary individuals, finding improvements in both aerobic endurance capacity and anaerobic performance measures when properly dosed.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23487412/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Glycerol Use in Hyperhydration and Rehydration: Scientific Update",
+      "summary": "Updated scientific review examining the efficacy of glycerol for both pre-exercise hyperhydration protocols and post-exercise rehydration strategies, confirming benefits for maintaining plasma volume and delaying dehydration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23075560/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report significant improvements in muscle pumps, vascularity, and workout performance with glycerol supplementation. Most users recommend it as a core non-stimulant pre-workout ingredient, though some note difficulty with sourcing quality products and occasional gastrointestinal discomfort."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Effectiveness strongly correlates with proper dosing protocol (1.0-1.2g/kg bodyweight) combined with adequate fluid intake"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "Glycerol monostearate (65% glycerol) and pure glycerol powder show better results than lower-concentration forms"
+    },
+    {
+      "label": "Timing Critical:",
+      "description": "Most effective when consumed 30-60 minutes pre-workout with substantial water intake (20-26 mL/kg bodyweight)"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies significantly based on hydration status, exercise intensity, and environmental conditions (heat, humidity)"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Pre-Workout Hyperhydration:",
+      "description": "1.0-1.2g glycerol per kg bodyweight consumed with 20-26 mL fluid per kg bodyweight, 30-60 minutes before exercise"
+    },
+    {
+      "label": "During Exercise:",
+      "description": "0.125g/kg bodyweight in 5 mL/kg fluid volume to delay dehydration during prolonged sessions"
+    },
+    {
+      "label": "Post-Exercise Rehydration:",
+      "description": "1.0g/kg bodyweight added to each 1.5L of rehydration fluid to accelerate plasma volume restoration"
+    },
+    {
+      "label": "Practical Dosing:",
+      "description": "For average 80kg individual, approximately 80-100g glycerol powder mixed with 1.5-2L water pre-workout"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Distress:",
+      "description": "Some users report nausea, bloating, or stomach discomfort, particularly with higher doses or insufficient acclimation period"
+    },
+    {
+      "label": "Light-Headedness:",
+      "description": "Occasional reports of dizziness or feeling off-balance, especially when not consumed with adequate fluids"
+    },
+    {
+      "label": "Frequent Urination:",
+      "description": "While glycerol promotes fluid retention, some users still experience increased urination, particularly during initial adaptation"
+    },
+    {
+      "label": "Headaches:",
+      "description": "Rare reports of headaches, possibly related to rapid fluid shifts or electrolyte imbalances when not properly hydrated"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Specialized Sourcing:",
+      "description": "Available primarily through sports nutrition retailers and bulk supplement suppliers; less common than other pre-workout ingredients"
+    },
+    {
+      "label": "Form Variations:",
+      "description": "Available as glycerol monostearate powder (65% glycerol), pure glycerol powder, or in proprietary pre-workout formulations"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of purchasing from reputable brands due to variability in product purity and concentration"
+    }
+  ],
+  "related": [
+    {
+      "name": "L-CARNOSINE",
+      "slug": "l-carnosine"
+    },
+    {
+      "name": "MK-3984",
+      "slug": "mk-3984"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "slug": "sodium-bicarbonate"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    }
+  ]
+}

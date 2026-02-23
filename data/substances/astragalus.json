@@ -1,0 +1,155 @@
+{
+  "slug": "astragalus",
+  "url": "https://dopamine.club/substances/astragalus/",
+  "scrapedAt": "2026-02-12T16:05:57.282Z",
+  "title": "ASTRAGALUS",
+  "description": "Astragalus (Astragalus membranaceus) is an adaptogenic herb used in traditional Chinese medicine, containing bioactive polysaccharides, saponins, and flavonoids. It modulates immune function, supports cellular health through telomere protection and gut microbiota regulation, and exhibits anti-inflammatory and antioxidant properties. Primary uses include immune support, cardiovascular health, and anti-aging interventions.",
+  "categories": [
+    "Adaptogen"
+  ],
+  "research": [
+    {
+      "title": "A Natural Astragalus-Based Nutritional Supplement Lengthens Telomeres in a Middle-Aged Population: A Randomized, Double-Blind, Placebo-Controlled Study",
+      "summary": "A 6-month randomized controlled trial found that Astragalus-based supplementation significantly lengthened telomeres in healthy middle-aged adults (mean age 56.1 years), suggesting potential anti-aging effects through genomic integrity maintenance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39275278/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Structural characterization and anti-inflammatory activity of polysaccharides from Astragalus membranaceus",
+      "summary": "Research identified two distinct polysaccharides (APS-A1 and APS-B1) from Astragalus with characterized molecular structures and demonstrated anti-inflammatory properties, providing mechanistic understanding of its therapeutic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37054858/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Dietary Astragalus Polysaccharide Supplementation on the Th17/Treg Balance and the Gut Microbiota of Broiler Chickens Challenged With Necrotic Enteritis",
+      "summary": "Astragalus polysaccharide (200 ppm) supplementation improved immune balance, reduced inflammatory markers, and modulated gut microbiota composition in an infection challenge model, demonstrating immunomodulatory and gut health benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35265068/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Astragalus polysaccharide (APS) supplement in beagle dogs after castration: Effects on the haematology and serum chemistry profiles, immune response, and oxidative stress status",
+      "summary": "An 8-week study with APS supplementation (400-800 mg/kg) showed improvements in hematology profiles, immune response markers, and oxidative stress status in dogs post-surgery, supporting its role in enhancing natural defense mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36583959/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral Astragalus polysaccharide alleviates adenine-induced kidney injury by regulating gut microbiota-short-chain fatty acids-kidney G protein-coupled receptors axis",
+      "summary": "Astragalus polysaccharide protected against chronic kidney disease by modulating gut microbiota composition, increasing beneficial bacteria and short-chain fatty acid production, demonstrating a gut-kidney axis mechanism of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39603250/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Astragalus polysaccharide alleviates mastitis disrupted by Staphylococcus aureus infection by regulating gut microbiota and SCFAs metabolism",
+      "summary": "APS treatment reduced inflammation and oxidative stress while protecting tissue barriers during bacterial infection by regulating gut microbiota and short-chain fatty acid metabolism, highlighting systemic immune benefits through gut modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39647752/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Desulfovibrio vulgaris, a potent acetic acid-producing bacterium, attenuates nonalcoholic fatty liver disease in mice",
+      "summary": "Study demonstrated that Astragalus-derived polysaccharides can modulate specific gut bacteria to produce beneficial metabolites, showing therapeutic potential for metabolic conditions like NAFLD through microbiome regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34125646/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Astragalus species: Insights on its chemical composition toward pharmacological applications",
+      "summary": "Comprehensive review detailing the chemical composition of Astragalus species including polysaccharides, saponins, and flavonoids, providing scientific basis for its diverse pharmacological applications in traditional and modern medicine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33325585/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report Astragalus as a generally safe and well-tolerated herb with mild benefits for immunity and energy, though effects are subtle compared to more potent supplements. Many include it in stacks but few report dramatic standalone benefits, with some questioning its necessity versus more evidence-based options."
+  },
+  "effects": [
+    {
+      "label": "Subtle Effects:",
+      "description": "Most users report mild, gradual benefits rather than immediate or dramatic changes, leading some to question its value"
+    },
+    {
+      "label": "Synergistic Use:",
+      "description": "Appears most effective when combined with other supplements (quercetin, adaptogens, rhodiola) rather than standalone"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies considerably between users, with some reporting no noticeable benefits even after months of use"
+    },
+    {
+      "label": "Bioavailability Enhancement:",
+      "description": "Research suggests Astragalus polysaccharides may enhance absorption of other compounds like quercetin by 68-fold"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "550-1000mg daily is commonly used, often from root extract capsules"
+    },
+    {
+      "label": "Polysaccharide Form:",
+      "description": "200-400 mg/kg body weight used in research, equivalent to moderate supplementation in humans"
+    },
+    {
+      "label": "Cycling Protocol:",
+      "description": "Some users take monthly or rotate with other adaptogens rather than daily continuous use"
+    },
+    {
+      "label": "Combined Formulas:",
+      "description": "Often found in adaptogen blends at 100mg alongside other herbs like rhodiola and ginseng"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report no significant side effects, making it one of the safer herbs in supplement stacks"
+    },
+    {
+      "label": "Mild GI Effects:",
+      "description": "Some reports of mild gastrointestinal irritation when taken on empty stomach or at higher doses"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users note that cheaper brands may contain contaminants or inactive ingredients, emphasizing need for reputable sources"
+    },
+    {
+      "label": "Minimal Interactions:",
+      "description": "Few reported interactions with other supplements, though careful stacking still recommended"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in most supplement retailers, health food stores, and online platforms as capsules, powders, or tinctures"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Significant differences between brands noted by users, with recommendations for standardized extracts from reputable manufacturers"
+    },
+    {
+      "label": "Cost Consideration:",
+      "description": "Generally inexpensive compared to other supplements, though some users question value-for-money given subtle effects"
+    }
+  ],
+  "related": [
+    {
+      "name": "ASHITABA",
+      "slug": "ashitaba"
+    },
+    {
+      "name": "ASTRAGALOSIDE IV",
+      "slug": "astragaloside-iv"
+    },
+    {
+      "name": "AGARIKON MUSHROOM",
+      "slug": "agarikon-mushroom"
+    },
+    {
+      "name": "ANDROGRAPHIS",
+      "slug": "andrographis"
+    },
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "gdf-11",
+  "url": "https://dopamine.club/substances/gdf-11/",
+  "scrapedAt": "2026-02-12T16:07:57.538Z",
+  "title": "GDF-11",
+  "description": "Growth differentiation factor 11 (GDF-11) is a protein in the TGF-β superfamily that acts as a negative regulator of erythropoiesis and plays a critical role in embryonic development and tissue homeostasis. It functions as a ligand for activin type II receptors, and while historically debated as a 'rejuvenation factor,' current research focuses on its role in inhibiting red blood cell maturation and its association with aging-related physiological changes.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Activin Receptor II Ligand Traps: New Treatment Paradigm for Low-Risk MDS",
+      "summary": "This review identifies GDF-11 as a negative regulator of terminal erythroid differentiation and explores how trapping this ligand can treat anemia in myelodysplastic syndromes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31203517/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Elritercept, a modified activin receptor IIA ligand trap, increased erythropoiesis and thrombopoiesis in a phase 1 trial",
+      "summary": "Clinical study showing that inhibiting GDF-11 and related ligands can safely increase the production of red blood cells and platelets in humans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39437803/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "GDF11 is increased in patients with aplastic anemia",
+      "summary": "Research findings show that high levels of GDF-11 are significantly correlated with impaired red blood cell production in patients with aplastic anemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30727851/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lifelong exercise, but not short-term high-intensity interval training, increases GDF11, a marker of successful aging",
+      "summary": "Preliminary evidence suggesting that GDF-11 levels are higher in older men who have maintained lifelong exercise habits compared to sedentary peers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28701523/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Age Trends in Growth and Differentiation Factor-11 and Myostatin Levels in Healthy Men",
+      "summary": "A study using advanced mass spectrometry to clarify the relationship between GDF-11, aging, and muscle growth regulators in healthy males.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34037752/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "Scientific consensus is split; while research suggests GDF-11 inhibition treats blood disorders, early 'anti-aging' claims are heavily debated, and user community interest centers on its role as a biomarker rather than a direct supplement."
+  },
+  "effects": [
+    {
+      "label": "Blood Disorders:",
+      "description": "Highly effective target for treating MDS-related anemia via ligand trap drugs like Luspatercept."
+    },
+    {
+      "label": "Rejuvenation Debate:",
+      "description": "Evidence for its role as a 'fountain of youth' remains controversial with conflicting results in animal and human trials."
+    },
+    {
+      "label": "Exercise Synergy:",
+      "description": "Shows long-term sensitivity to exercise habits rather than short-term high-intensity training."
+    },
+    {
+      "label": "Cancer Prognostic:",
+      "description": "High levels are unfortunately associated with shorter survival in specific cancers like uveal melanoma."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Inhibition:",
+      "description": "In trials, GDF-11 inhibitors are dosed between 0.05 to 4.5 mg/kg for therapeutic effect."
+    },
+    {
+      "label": "Natural Promotion:",
+      "description": "No direct supplemental dose exists; lifelong resistance training is the primary documented way to influence levels."
+    },
+    {
+      "label": "Monitoring:",
+      "description": "Blood assessment via LC-MS/MS is required to accurately determine endogenous levels."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Anemia Risk:",
+      "description": "Excessive natural levels or over-expression can lead to suppressed red blood cell counts."
+    },
+    {
+      "label": "Oncogenic Potential:",
+      "description": "Upregulation is linked to poor outcomes in certain malignant conditions."
+    },
+    {
+      "label": "Erythrocytosis:",
+      "description": "In therapeutic contexts, blocking GDF-11 can lead to abnormally high red blood cell or platelet counts."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Only:",
+      "description": "Therapeutic agents targeting GDF-11 (like Luspatercept) are strictly prescription-only for blood disorders."
+    },
+    {
+      "label": "Peptide Markets:",
+      "description": "Often found in research-only peptide stores, though human data for direct GDF-11 peptide self-administration is largely lacking."
+    }
+  ],
+  "related": [
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "ACE-031",
+      "slug": "ace-031"
+    },
+    {
+      "name": "ACE-083",
+      "slug": "ace-083"
+    },
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    }
+  ]
+}

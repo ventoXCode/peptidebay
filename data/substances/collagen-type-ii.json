@@ -1,0 +1,143 @@
+{
+  "slug": "collagen-type-ii",
+  "url": "https://dopamine.club/substances/collagen-type-ii/",
+  "scrapedAt": "2026-02-12T16:06:52.905Z",
+  "title": "COLLAGEN TYPE II",
+  "description": "Collagen Type II is the primary structural protein found in cartilage, particularly articular (joint) cartilage. Undenatured type II collagen (UC-II) works through oral tolerance mechanisms in the gut-associated lymphoid tissue, helping to modulate immune responses and reduce inflammation in joints. It is primarily used as a supplement for osteoarthritis and joint health, with research showing it may help reduce pain and improve joint function.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Safety and efficacy of undenatured type II collagen in the treatment of osteoarthritis of the knee: a clinical trial",
+      "summary": "Clinical trial demonstrating that undenatured type II collagen is effective in treating knee osteoarthritis, showing improvements in pain relief and joint function with good safety profile.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19847319/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and tolerability of an undenatured type II collagen supplement in modulating knee osteoarthritis symptoms: a multicenter randomized, double-blind, placebo-controlled study",
+      "summary": "Multicenter randomized controlled trial showing UC-II supplementation significantly improved knee osteoarthritis symptoms including pain reduction and functional improvements compared to placebo.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4731911/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tolerogenic nanoparticles induce type II collagen-specific regulatory T cells and ameliorate osteoarthritis",
+      "summary": "Study demonstrating that type II collagen can induce regulatory T cells that help modulate immune responses and reduce osteoarthritis progression through tolerogenic mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36427299/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Water-soluble undenatured type II collagen ameliorates collagen-induced arthritis in mice",
+      "summary": "Animal study showing water-soluble UC-II effectively reduced arthritis symptoms in mice, supporting its anti-inflammatory and immunomodulatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24175655/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of orally administered undenatured type II collagen against arthritic inflammatory diseases: a mechanistic exploration",
+      "summary": "Mechanistic study explaining how oral UC-II works through gut-associated lymphoid tissue to suppress autoimmune pathologies and reduce inflammation in arthritis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12837047/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oral Administration of Protease-Soluble Chicken Type II Collagen Ameliorates Anterior Cruciate Ligament Transection-Induced Osteoarthritis in Rats",
+      "summary": "Animal research demonstrating that oral type II collagen supplementation reduced osteoarthritis progression in rats following ACL injury.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37630779/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences are genuinely split, with some reporting significant improvements in joint pain and mobility after several weeks of use, while others report minimal to no benefits. Effectiveness appears highly individual, with better results reported for mild to moderate osteoarthritis compared to severe cases."
+  },
+  "effects": [
+    {
+      "label": "Time-Dependent:",
+      "description": "Most positive results appear after 6-12 weeks of consistent daily use, not immediate"
+    },
+    {
+      "label": "Mild to Moderate Cases:",
+      "description": "Better outcomes reported for early-stage osteoarthritis compared to advanced joint deterioration"
+    },
+    {
+      "label": "Combined Formulations:",
+      "description": "Products combining UC-II with hydrolyzed collagen or other joint supplements may not show additional benefits over UC-II alone"
+    },
+    {
+      "label": "Placebo Response:",
+      "description": "Some clinical trials show strong placebo effects, making it difficult to definitively attribute all benefits to the supplement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "40mg of undenatured type II collagen (UC-II) daily is the most commonly studied and recommended amount"
+    },
+    {
+      "label": "Timing:",
+      "description": "Best taken on empty stomach for optimal absorption, though specific timing appears less critical than consistency"
+    },
+    {
+      "label": "Duration:",
+      "description": "Minimum 8-12 weeks recommended to assess effectiveness before discontinuing"
+    },
+    {
+      "label": "Combined Products:",
+      "description": "When combined with glucosamine and chondroitin, typical formulations provide 40mg UC-II alongside 1500mg glucosamine and 1200mg chondroitin"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most studies and users report minimal to no adverse effects"
+    },
+    {
+      "label": "Mild GI Effects:",
+      "description": "Occasional reports of digestive discomfort, though rare"
+    },
+    {
+      "label": "No Major Safety Concerns:",
+      "description": "Clinical trials consistently show good safety profiles with extended use"
+    },
+    {
+      "label": "Allergen Considerations:",
+      "description": "Sourced from chicken or fish cartilage, potential concern for those with related allergies"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in health stores and online retailers as standalone UC-II or in combination joint formulas"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Branded UC-II (like UC-II brand from InterHealth) appears more consistently studied than generic type II collagen products"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Sold as dietary supplement, no prescription required in most countries"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "DIOSMIN",
+      "slug": "diosmin"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    },
+    {
+      "name": "GELATIN",
+      "slug": "gelatin"
+    }
+  ]
+}

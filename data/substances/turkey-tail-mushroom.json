@@ -1,0 +1,131 @@
+{
+  "slug": "turkey-tail-mushroom",
+  "url": "https://dopamine.club/substances/turkey-tail-mushroom/",
+  "scrapedAt": "2026-02-12T16:11:57.014Z",
+  "title": "TURKEY TAIL MUSHROOM",
+  "description": "Turkey Tail mushroom (Trametes versicolor) is a medicinal fungus containing polysaccharopeptides (PSP and PSK), beta-glucans, and phenolic compounds with immunomodulating properties. It has been extensively studied for its anticancer effects, particularly in supporting conventional cancer treatment, and for enhancing immune function through activation of various immune cell types. The mushroom also demonstrates antioxidant, antimicrobial, and anti-inflammatory activities through its bioactive constituents.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Medicinal potential of Turkey tail mushroom (Trametes versicolor): A comprehensive review",
+      "summary": "Comprehensive review documenting Turkey tail's anticancer, antioxidant, antimicrobial, antiaging, hepatoprotective, and anti-diabetic properties, with particular emphasis on polysaccharopeptides PSP and PSK and their effects on cancer cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Turkey tail mushroom (Trametes versicolor): an edible macrofungi with immense medicinal properties",
+      "summary": "Reviews the β-glucan polysaccharides responsible for antioxidant, neuroprotection, hypolipidemic, immune-modulating, and anticancer effects, along with wound healing, antidiabetic, antimicrobial, and anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Control of oral human papillomavirus (HPV) by medicinal mushrooms, Trametes versicolor and Ganoderma lucidum: a preliminary clinical trial",
+      "summary": "Preliminary clinical trial investigating the efficacy of Trametes versicolor and Ganoderma lucidum in clearing oral HPV serotypes 16 and 18, showing potential antiviral effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25271984/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Medicinal Mushrooms, Probiotics and Combination of Natural Compounds in the Management of HPV",
+      "summary": "Recent 2025 study examining medicinal mushrooms including Turkey tail for HPV management, comparing viral clearance and lesion resolution outcomes in combination therapies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40733559/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with Turkey tail, particularly for immune support and HPV clearance when combined with other supplements. While some users experience digestive issues (especially with certain brands), most incorporate it successfully into broader health protocols with noticeable benefits."
+  },
+  "effects": [
+    {
+      "label": "HPV Clearance:",
+      "description": "Multiple users in high-quality protocols report including turkey tail as part of successful HPV clearance regimens, though always combined with other interventions"
+    },
+    {
+      "label": "Brand Quality Matters:",
+      "description": "Host Defense brand specifically mentioned by users, with notable differences in tolerability between brands suggesting quality variation"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Appears most effective when combined with other immune-supporting supplements rather than as standalone intervention"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Significant variation in digestive tolerance, with some users experiencing immediate GI distress while others have no issues"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "Users typically take 2 capsules daily of commercial preparations (Host Defense brand commonly referenced)"
+    },
+    {
+      "label": "Stacking Context:",
+      "description": "Often combined with reishi, probiotics, AHCC, and other immune modulators in comprehensive protocols"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Some users note better tolerance when taken with food or as part of morning supplement routine"
+    },
+    {
+      "label": "Mushroom Blends:",
+      "description": "Frequently consumed as part of multi-mushroom complexes (like Peak02) rather than isolated turkey tail"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Upset:",
+      "description": "Most commonly reported side effect is diarrhea or IBS flare-ups, particularly in those with pre-existing gut sensitivity"
+    },
+    {
+      "label": "Individual Sensitivity:",
+      "description": "Some users report immediate negative reactions including nausea and increased bowel movements, while others have no issues"
+    },
+    {
+      "label": "Die-Off Reactions:",
+      "description": "Possible Herxheimer-type reactions reported when combined with antimicrobial protocols, suggesting microbial shifts"
+    },
+    {
+      "label": "Quality-Dependent Issues:",
+      "description": "Side effects appear more common with lower-quality or China-sourced mushroom products versus reputable brands"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Easily sourced from supplement retailers, health food stores, and online platforms with various brands offering capsules and powders"
+    },
+    {
+      "label": "Brand Quality Concerns:",
+      "description": "Users emphasize importance of sourcing from reputable brands, with warnings about cheap Chinese-manufactured products on platforms like Temu"
+    },
+    {
+      "label": "Mushroom Coffee Products:",
+      "description": "Available in trendy mushroom coffee blends (like Ryze), though users question efficacy and quality of these convenience formats"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

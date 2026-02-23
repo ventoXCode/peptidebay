@@ -1,0 +1,113 @@
+{
+  "slug": "lemon-balm",
+  "url": "https://dopamine.club/substances/lemon-balm/",
+  "scrapedAt": "2026-02-12T16:09:10.495Z",
+  "title": "LEMON BALM",
+  "description": "Lemon balm (Melissa officinalis) is a perennial herb in the mint family known for its high content of rosmarinic acid, which increases GABA activity by inhibiting the enzyme GABA transaminase. It is primarily used as a mild sedative and cognitive enhancer, functioning as an anxiolytic and acetylcholinesterase inhibitor to promote relaxation and mental clarity.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "Clinical Efficacy and Tolerability of Lemon Balm (Melissa officinalis L.) in Psychological Well-Being: A Review",
+      "summary": "A comprehensive review confirming that lemon balm significantly supports psychological health, particularly in reducing anxiety and improving overall well-being.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39458539/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Attenuation of Laboratory-Induced Stress in Humans After Acute Administration of Melissa officinalis (Lemon Balm)",
+      "summary": "This study demonstrated that a 600mg dose of lemon balm reduced laboratory-induced stress and improved self-rated calmness and mood.",
+      "url": "https://api.semanticscholar.org/CorpusID:18692834",
+      "source": "(Semantic Scholar)"
+    },
+    {
+      "title": "Modulation of Mood and Cognitive Performance Following Acute Administration of Single Doses of Melissa Officinalis",
+      "summary": "Research found that standardized extracts can improve cognitive performance and mood, suggesting potential as an adjunct therapy for neurodegenerative conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12888775/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "The majority of users report success using lemon balm for acute anxiety and racing thoughts, often preferring it over stronger sedatives for its 'subtle' but effective calming nature."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Potential:",
+      "description": "Highly effective when stacked with L-Theanine or Lavender; often cited as more reliable than Valerian root for some."
+    },
+    {
+      "label": "Mild for Chronic Issues:",
+      "description": "While effective for mild anxiety, users with severe insomnia or cortisol-driven early waking often found it too weak to solve the problem alone."
+    },
+    {
+      "label": "Acute vs Chronic:",
+      "description": "Users report immediate benefits for stress, but some notice a slight buildup in efficacy over a few weeks for mood stability."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Herbal Tea:",
+      "description": "One cup of strong tea before bed is a common entry point for those avoiding extracts."
+    },
+    {
+      "label": "Standardized Extract:",
+      "description": "300mg to 600mg daily is the common clinical and user range for anxiety management."
+    },
+    {
+      "label": "Sleep-Specific Dose:",
+      "description": "200mg to 300mg of concentrated extract (like Cyracos) taken 30-60 minutes before bedtime."
+    },
+    {
+      "label": "Emergency Use:",
+      "description": "Some users keep a high-dose tincture for acute panic or high-stress workplace interactions."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Morning Groginess:",
+      "description": "Occasionally reported if taken in very high doses or combined with other strong sedatives."
+    },
+    {
+      "label": "Mild Lethargy:",
+      "description": "Some users feel 'too chill' or unmotivated if taken in the morning during high-focus work."
+    },
+    {
+      "label": "Dependency Concerns:",
+      "description": "Rare, but some users worry about long-term GABA-A receptor downregulation, though evidence for this is sparse compared to benzos."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found as a common tea, tincture, or encapsulated extract in most health food stores."
+    },
+    {
+      "label": "General Safety:",
+      "description": "Generally recognized as safe (GRAS) and available over-the-counter globally without restriction."
+    }
+  ],
+  "related": [
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    },
+    {
+      "name": "MAGNOLIA BARK",
+      "slug": "magnolia-bark"
+    },
+    {
+      "name": "PASSIONFLOWER",
+      "slug": "passionflower"
+    },
+    {
+      "name": "SCUTELLARIA",
+      "slug": "scutellaria"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    }
+  ]
+}

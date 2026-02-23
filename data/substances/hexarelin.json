@@ -1,0 +1,136 @@
+{
+  "slug": "hexarelin",
+  "url": "https://dopamine.club/substances/hexarelin/",
+  "scrapedAt": "2026-02-12T16:08:22.387Z",
+  "title": "HEXARELIN",
+  "description": "Hexarelin is one of the most potent growth hormone releasing peptides, producing strong GH pulses through ghrelin receptor activation. It also has cardioprotective properties and may support heart health independent of GH release.",
+  "categories": [
+    "Peptide",
+    "GH"
+  ],
+  "research": [
+    {
+      "title": "Growth hormone-releasing activity of hexarelin, a new synthetic hexapeptide, after intravenous, subcutaneous, intranasal, and oral administration in man",
+      "summary": "Hexarelin effectively stimulates growth hormone secretion in humans through multiple administration routes.",
+      "url": "https://doi.org/10.1210/JCEM.78.3.8126144",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "Hexarelin attenuates atherosclerosis via inhibiting LOX-1-NF-κB signaling pathway-mediated macrophage ox-LDL uptake in ApoE -/- mice",
+      "summary": "Hexarelin reduces atherosclerosis progression in mice by modulating lipids and suppressing macrophage oxidized LDL uptake.",
+      "url": "https://doi.org/10.1016/j.peptides.2019.170122",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The cardiovascular action of hexarelin",
+      "summary": "Hexarelin demonstrates cardioprotective effects through growth hormone secretagogue receptor binding.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4178518/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hexarelin Modulation of MAPK and PI3K/Akt Pathways in Neuro-2A Cells Inhibits Hydrogen Peroxide—Induced Apoptotic Toxicity",
+      "summary": "Hexarelin provides neuroprotective effects by preventing hydrogen peroxide-induced cell damage.",
+      "url": "https://doi.org/10.3390/ph14050444",
+      "source": "(MDPI)"
+    },
+    {
+      "title": "Hexarelin, a growth hormone secretagogue, protects the isolated rat heart from ventricular dysfunction produced by exposure to calcium-free medium",
+      "summary": "Hexarelin protects rat heart tissue from calcium-paradox damage by restoring electrolyte balance.",
+      "url": "https://doi.org/10.1006/PHRS.2000.0665",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Hexarelin, a Growth Hormone Secretagogue, Improves Lipid Metabolic Aberrations in Nonobese Insulin‐Resistant Male MKR Mice",
+      "summary": "Hexarelin treatment corrects glucose intolerance, reduces triglycerides, and normalizes body composition.",
+      "url": "https://doi.org/10.1210/en.2017-00168",
+      "source": "(Oxford Academy)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report strong GH effects and some note cardiac benefits. However, rapid desensitization can occur, limiting long-term use. Often used in shorter cycles."
+  },
+  "effects": [
+    {
+      "label": "High Potency:",
+      "description": "Strong effects but prone to desensitization."
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Receptors can downregulate with continued use."
+    },
+    {
+      "label": "Cycling Required:",
+      "description": "Short cycles with breaks maintain effectiveness."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "100-200mcg per injection, 2-3 times daily."
+    },
+    {
+      "label": "Short Cycles:",
+      "description": "4-8 weeks on, then equal time off."
+    },
+    {
+      "label": "Subcutaneous:",
+      "description": "Administered via subcutaneous injection."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Cortisol/Prolactin:",
+      "description": "Can raise both hormones more than other GHRPs."
+    },
+    {
+      "label": "Desensitization:",
+      "description": "Rapid tolerance development with continuous use."
+    },
+    {
+      "label": "Water Retention:",
+      "description": "Bloating possible, especially initially."
+    },
+    {
+      "label": "Hunger:",
+      "description": "Appetite stimulation less than GHRP-6."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Less Common:",
+      "description": "Not as widely stocked as GHRP-2 or GHRP-6."
+    },
+    {
+      "label": "Quality Important:",
+      "description": "Ensure reputable sourcing."
+    }
+  ],
+  "related": [
+    {
+      "name": "CJC-1295",
+      "slug": "cjc-1295"
+    },
+    {
+      "name": "CJC+DAC",
+      "slug": "cjc-dac"
+    },
+    {
+      "name": "GHRP-2",
+      "slug": "ghrp-2"
+    },
+    {
+      "name": "GHRP-6",
+      "slug": "ghrp-6"
+    },
+    {
+      "name": "IBUTAMOREN (MK-677)",
+      "slug": "ibutamoren-mk-677"
+    }
+  ]
+}

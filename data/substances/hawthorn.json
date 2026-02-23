@@ -1,0 +1,137 @@
+{
+  "slug": "hawthorn",
+  "url": "https://dopamine.club/substances/hawthorn/",
+  "scrapedAt": "2026-02-12T16:08:20.788Z",
+  "title": "HAWTHORN",
+  "description": "Hawthorn (Crataegus species) is a medicinal plant containing flavonoids, oligomeric proanthocyanidins, and other bioactive compounds primarily used for cardiovascular support. It works by improving heart function, increasing blood flow, and providing antioxidant effects, with primary applications in treating chronic heart failure and hypertension. The extract is derived from the leaves, flowers, and fruits of the hawthorn plant.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Hawthorn extract for treating chronic heart failure",
+      "summary": "Meta-analysis of 14 randomized controlled trials showed hawthorn extract improves heart failure symptoms and cardiac function when used alongside conventional treatments, with benefits in exercise tolerance and symptom reduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18254076/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Food Applications and Potential Health Benefits of Hawthorn",
+      "summary": "Comprehensive review found hawthorn rich in polyphenols, flavonoids, and triterpenoids demonstrates antioxidant, anti-inflammatory, anticancer, cardiovascular protective, and digestive enhancing properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36140986/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hawthorn (Crataegus spp.) in the treatment of cardiovascular disease",
+      "summary": "Review of hawthorn's cardiovascular applications found evidence for benefits in treating heart failure, hypertension, and hyperlipidemia through mechanisms including vasodilation and positive inotropic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22096318/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplements and bleeding",
+      "summary": "Hawthorn supplementation was identified as strongly associated with surgical bleeding independent of anticoagulants, suggesting caution in perioperative settings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36304597/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Hawthorn extract inhibited the PI3k/Akt pathway to prolong the lifespan of Drosophila melanogaster",
+      "summary": "Animal study demonstrated hawthorn extract's antioxidant properties may contribute to longevity benefits through inhibition of the PI3k/Akt signaling pathway.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35383968/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report moderate benefits for cardiovascular health and blood pressure management, but experiences vary significantly. Some found it effective for hypertension while others developed allergies or saw minimal effects, with concerns about bleeding risk and individual response variability."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness varies significantly between users, with some experiencing strong benefits while others see minimal impact"
+    },
+    {
+      "label": "Duration Required:",
+      "description": "Users who took hawthorn for extended periods (years) reported better results than short-term users"
+    },
+    {
+      "label": "Allergy Development:",
+      "description": "Notable risk of developing allergies after prolonged use, forcing some users to discontinue"
+    },
+    {
+      "label": "Combination Benefits:",
+      "description": "Often used successfully alongside other cardiovascular supplements like CoQ10, olive leaf, and black seed oil"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "300mg taken 3 times daily (900mg total) commonly mentioned for cardiovascular benefits"
+    },
+    {
+      "label": "Extract Strength:",
+      "description": "Most users take standardized hawthorn berry or leaf/flower extracts rather than raw herb"
+    },
+    {
+      "label": "Timing:",
+      "description": "Typically taken with meals to improve absorption and reduce potential gastrointestinal effects"
+    },
+    {
+      "label": "Long-term Use:",
+      "description": "Many users report taking hawthorn for years, though allergy development risk increases with duration"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Allergic Reactions:",
+      "description": "Several users report developing allergies after prolonged use, requiring discontinuation"
+    },
+    {
+      "label": "Bleeding Risk:",
+      "description": "Research indicates strong association with increased bleeding, particularly concerning for surgery or when combined with anticoagulants"
+    },
+    {
+      "label": "Brain Fog:",
+      "description": "Some users report mild cognitive cloudiness when combining hawthorn with multiple adaptogens"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users experience minimal side effects when used alone at recommended doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Commonly found in health food stores, supplement shops like Vitamin Shoppe, and online retailers"
+    },
+    {
+      "label": "Extract Forms:",
+      "description": "Available as capsules, tablets, tinctures, and tea preparations from various manufacturers"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users emphasize importance of standardized extracts with verified active ingredient content for consistent effects"
+    }
+  ],
+  "related": [
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    },
+    {
+      "name": "HONOKIOL",
+      "slug": "honokiol"
+    },
+    {
+      "name": "KAVA",
+      "slug": "kava"
+    },
+    {
+      "name": "LAVENDER",
+      "slug": "lavender"
+    }
+  ]
+}

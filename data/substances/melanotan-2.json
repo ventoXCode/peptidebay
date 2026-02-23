@@ -1,0 +1,133 @@
+{
+  "slug": "melanotan-2",
+  "url": "https://dopamine.club/substances/melanotan-2/",
+  "scrapedAt": "2026-02-12T16:09:29.608Z",
+  "title": "MELANOTAN 2",
+  "description": "Melanotan 2 is a synthetic peptide that stimulates melanin production for tanning, increases libido, and may suppress appetite. It acts on melanocortin receptors and produces faster, more pronounced effects than MT-1.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Melanotan II: a possible cause of renal infarction: review of the literature and case report",
+      "summary": "Examines renal infarction as a rare complication potentially induced by Melanotan II, reviewing mechanisms including blood clot formation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31953620/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Melanotan-II reverses memory impairment induced by a short-term HF diet",
+      "summary": "Demonstrates that Melanotan-II reversed negative neurobehavioral effects caused by high-fat diet in zebrafish models.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0753332223009204",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Melanocortin receptor agonist melanotan-II microinjected in the nucleus accumbens decreases appetitive and consumptive responding for food",
+      "summary": "Found that melanotan-II injection reduced food intake motivation in mice without causing adverse effects.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0143417922000646",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The potent melanocortin receptor agonist melanotan-II promotes peripheral nerve regeneration and has neuroprotective properties in the rat",
+      "summary": "Tested melanotan-II for nerve recovery in rats, finding significant sensory function improvement and cisplatin toxicity protection.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S001429990202945X",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "The protective effects of the melanocortin receptor agonist, melanotan-II, against binge-like ethanol drinking are facilitated by deletion of the MC3 receptor in mice",
+      "summary": "Found melanotan-II successfully reduces binge alcohol consumption through specific receptor mechanisms.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0143417913000917",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Popular for tanning and libido effects. Users report fast results but more side effects than MT-1. Concerns about mole changes and long-term safety exist."
+  },
+  "effects": [
+    {
+      "label": "Fast Acting:",
+      "description": "Visible tanning within days to weeks."
+    },
+    {
+      "label": "Potent Libido Effects:",
+      "description": "Very noticeable sexual enhancement."
+    },
+    {
+      "label": "Variable Tanning:",
+      "description": "Results depend on baseline skin tone."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Starting Dose:",
+      "description": "0.25mg to assess tolerance."
+    },
+    {
+      "label": "Typical Range:",
+      "description": "0.5-1mg per injection."
+    },
+    {
+      "label": "Loading/Maintenance:",
+      "description": "Higher frequency initially, then reduced."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Nausea:",
+      "description": "Very common, especially initially."
+    },
+    {
+      "label": "Flushing:",
+      "description": "Facial flushing after injection."
+    },
+    {
+      "label": "Mole Changes:",
+      "description": "Darkening and potential changes to moles."
+    },
+    {
+      "label": "Spontaneous Erections:",
+      "description": "Can be inconvenient."
+    },
+    {
+      "label": "Blood Pressure:",
+      "description": "May affect cardiovascular system."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Not Approved:",
+      "description": "Not FDA approved for any indication."
+    },
+    {
+      "label": "Widely Used:",
+      "description": "Popular despite safety concerns."
+    }
+  ],
+  "related": [
+    {
+      "name": "GONADORELIN",
+      "slug": "gonadorelin"
+    },
+    {
+      "name": "HCG",
+      "slug": "hcg"
+    },
+    {
+      "name": "Kisspeptin",
+      "slug": "kisspeptin"
+    },
+    {
+      "name": "PT-141",
+      "slug": "pt-141"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    }
+  ]
+}

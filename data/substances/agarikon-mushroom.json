@@ -1,0 +1,161 @@
+{
+  "slug": "agarikon-mushroom",
+  "url": "https://dopamine.club/substances/agarikon-mushroom/",
+  "scrapedAt": "2026-02-12T16:05:25.898Z",
+  "title": "AGARIKON MUSHROOM",
+  "description": "Agarikon (Fomitopsis officinalis) is a rare arboreal medicinal mushroom historically used in traditional European and Asian medicine for its anti-inflammatory, antimicrobial, and immunostimulatory properties. It contains bioactive compounds including triterpenoids, polysaccharides, organic acids, and chlorinated coumarins that demonstrate effects on oxidative stress, immune modulation, and neuroprotection. Research shows potential applications in cancer treatment, anxiety reduction, and antimicrobial activity, particularly against Mycobacterium tuberculosis.",
+  "categories": [
+    "Adaptogen"
+  ],
+  "research": [
+    {
+      "title": "Effects of dietary supplementation with arboreal medicinal mushrooms on stress coping strategies, depressive and anxiety-like behavior of rats",
+      "summary": "Dietary supplementation with Fomitopsis officinalis (100-500 mg/kg) showed dose-dependent anxiolytic and antidepressant-like properties in rats, comparable to fluoxetine in reducing anxiety-like behaviors and improving stress-coping strategies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40974039/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Dietary Supplementation with In Vitro-Cultivated Arboreal Medicinal Mushrooms on Long-Term Memory and Anxiety-Like Behavior of Male Mice",
+      "summary": "F. officinalis supplementation improved long-term memory and modulated anxiety-like behavior in mice, demonstrating neuroprotective effects similar to other arboreal medicinal mushrooms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37183918/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Anti-oxidant and Anticancerous Effect of Fomitopsis officinalis Mushroom on Hepatocellular Carcinoma Cells In Vitro through NF-kB Pathway",
+      "summary": "Six fractions of F. officinalis demonstrated significant antioxidant and anticancer activities against hepatocellular carcinoma cells through NF-kB pathway modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34102992/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A fungal polysaccharide from Fomitopsis officinalis as a multi-target molecule to combat cancer",
+      "summary": "A polysaccharide extracted from F. officinalis showed multi-target anticancer effects, demonstrating potential as a natural-sourced anti-tumor therapeutic agent.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38788870/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Chlorinated coumarins from the polypore mushroom Fomitopsis officinalis and their activity against Mycobacterium tuberculosis",
+      "summary": "Two chlorinated coumarins isolated from F. officinalis showed potent antimicrobial activity with lowest MICs specifically against the Mycobacterium tuberculosis complex.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24087924/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fomitopsis officinalis: Spatial Metabolomic Variations Affect Functional Components and Biological Activities",
+      "summary": "Different parts of F. officinalis fruiting bodies (pileus and hymenophore) contain varying metabolomic profiles that significantly affect their functional components and biological activities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37107128/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fortified Mycelium of Fomitopsis officinalis as a Source of Biologically Active Substances Effective in the Prevention of Civilization Diseases",
+      "summary": "F. officinalis mycelium fortified with zinc and magnesium salts showed enhanced bioactive substance content, demonstrating potential for preventing metabolic and inflammatory diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34591396/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Medicinal potential of mycelium and fruiting bodies of an arboreal mushroom Fomitopsis officinalis in therapy of lifestyle diseases",
+      "summary": "Both mycelium and fruiting bodies of F. officinalis contain therapeutic compounds effective against lifestyle-related diseases, with applications in metabolic and inflammatory conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33208786/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fomitopsis officinalis: a Species of Arboreal Mushroom with Promising Biological and Medicinal Properties",
+      "summary": "Comprehensive review highlighting F. officinalis' unique composition of triterpenoids, polysaccharides, and organic acids with anti-inflammatory, antimicrobial, and immunostimulatory properties, though the species is now endangered due to historical overharvesting.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32271491/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally view medicinal mushroom complexes containing Agarikon positively, particularly reporting benefits for anxiety, stress reduction, and immune support. Most users incorporate mushroom supplements into broader wellness stacks and appreciate their adaptogenic properties, though specific Agarikon-only experiences are limited in the discussions."
+  },
+  "effects": [
+    {
+      "label": "Dose-Dependent Response:",
+      "description": "Research shows effectiveness at 100-500 mg/kg doses in animal studies, with higher doses producing more pronounced anxiolytic effects"
+    },
+    {
+      "label": "Consistency Required:",
+      "description": "Multiple studies and users emphasize the need for regular, long-term supplementation rather than acute dosing for optimal benefits"
+    },
+    {
+      "label": "Whole Mushroom Benefits:",
+      "description": "Both fruiting bodies and mycelium contain therapeutic compounds, though concentrations and bioactive profiles vary between parts"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Often combined with other medicinal mushrooms (Lion's Mane, Reishi, Cordyceps) in commercial formulations for enhanced adaptogenic effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Doses:",
+      "description": "Animal studies utilized 100-500 mg/kg doses, with effects comparable to pharmaceutical anxiolytics at higher ranges"
+    },
+    {
+      "label": "Commercial Products:",
+      "description": "Mushroom complex supplements typically contain 300-600mg of various mushroom extracts per serving"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "Some users report taking mushroom supplements daily without cycling, though long-term safety data is limited"
+    },
+    {
+      "label": "Extract vs. Powder:",
+      "description": "Standardized extracts may be more potent than whole mushroom powders, requiring attention to product specifications"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Research and user reports indicate minimal side effects when taken at recommended doses"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users note concerns about potency and authenticity in some commercial mushroom supplements using proprietary blends"
+    },
+    {
+      "label": "Digestive Effects:",
+      "description": "Some users report mild gastrointestinal changes when first starting mushroom supplements"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "Limited data on long-term use and potential interactions with other supplements or medications"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Endangered Status:",
+      "description": "F. officinalis is endangered in some regions due to historical overharvesting and habitat loss, making wild specimens rare"
+    },
+    {
+      "label": "Cultivated Sources:",
+      "description": "In vitro cultivation methods have been developed to produce mycelium biomass for supplementation without depleting wild populations"
+    },
+    {
+      "label": "Commercial Availability:",
+      "description": "Most commonly found in multi-mushroom complex supplements rather than single-ingredient Agarikon products, with varying quality between brands"
+    }
+  ],
+  "related": [
+    {
+      "name": "ASTRAGALOSIDE IV",
+      "slug": "astragaloside-iv"
+    },
+    {
+      "name": "ANDROGRAPHIS",
+      "slug": "andrographis"
+    },
+    {
+      "name": "ASHITABA",
+      "slug": "ashitaba"
+    },
+    {
+      "name": "ASTRAGALUS",
+      "slug": "astragalus"
+    },
+    {
+      "name": "CLITORIA TERNATEA",
+      "slug": "clitoria-ternatea"
+    }
+  ]
+}

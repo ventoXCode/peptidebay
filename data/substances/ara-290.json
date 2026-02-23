@@ -1,0 +1,119 @@
+{
+  "slug": "ara-290",
+  "url": "https://dopamine.club/substances/ara-290/",
+  "scrapedAt": "2026-02-12T16:05:51.024Z",
+  "title": "ARA-290",
+  "description": "ARA-290 (cibinetide) is a synthetic peptide derived from erythropoietin (EPO) that selectively activates the innate repair receptor. It promotes tissue repair and has neuroprotective properties without the blood-building effects of EPO.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Safety and Efficacy of ARA 290 in Sarcoidosis Patients with Symptoms of Small Fiber Neuropathy",
+      "summary": "Investigated safety and effectiveness of ARA 290 in reducing small fiber neuropathy symptoms in 22 sarcoidosis patients, showing significant symptom improvement.",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3563705/",
+      "source": "(Leiden University Medical Center)"
+    },
+    {
+      "title": "ARA 290, a Nonerythropoietic Peptide Engineered from Erythropoietin, Improves Metabolic Control and Neuropathic Symptoms in Patients with Type 2 Diabetes",
+      "summary": "Found ARA 290 improved blood sugar levels, lipid profiles, and reduced neuropathic pain in type 2 diabetes patients.",
+      "url": "https://molmed.biomedcentral.com/articles/10.2119/molmed.2014.00215",
+      "source": "(Araim Pharmaceuticals)"
+    },
+    {
+      "title": "Nonerythropoietic Erythropoietin Mimetic Peptide ARA290 Ameliorates Chronic Stress-Induced Depression-Like Behavior and Inflammation in Mice",
+      "summary": "Demonstrated ARA290 reduces depression-like behavior in stressed mice similar to fluoxetine via anti-inflammatory effects.",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.896601/full",
+      "source": "(Beijing Institute of Basic Medical Sciences)"
+    },
+    {
+      "title": "The erythropoietin analog ARA 290 for treatment of sarcoidosis-induced chronic neuropathic pain",
+      "summary": "Reviews ARA 290 as promising treatment for sarcoidosis-induced debilitating neuropathic pain.",
+      "url": "https://www.tandfonline.com/doi/full/10.1517/21678707.2013.719289",
+      "source": "(Leiden University Medical Center)"
+    },
+    {
+      "title": "ARA 290, a Peptide Derived from the Tertiary Structure of Erythropoietin, Produces Long-Term Relief of Neuropathic Pain",
+      "summary": "Explored ARA290 effects on neuropathic pain in rats, finding dose-dependent pain reduction by decreasing inflammatory cell activity.",
+      "url": "https://journals.sagepub.com/doi/10.1186/1744-8069-10-13",
+      "source": "(Leiden University Medical Center)"
+    },
+    {
+      "title": "ARA290, a non-erythropoietic EPO derivative, attenuates renal ischemia/reperfusion injury",
+      "summary": "Found ARA290 improved kidney function and reduced tissue damage in pigs after induced kidney injury.",
+      "url": "https://translational-medicine.biomedcentral.com/articles/10.1186/1479-5876-11-9",
+      "source": "(University of Groningen)"
+    }
+  ],
+  "sentiment": {
+    "positive": 60,
+    "summary": "Limited user reports, but those with neuropathy report significant symptom improvement. More commonly used in clinical settings than by individual biohackers."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Strong clinical trial data for neuropathy conditions."
+    },
+    {
+      "label": "Targeted Action:",
+      "description": "Works specifically on tissue repair pathways."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Clinical Dosing:",
+      "description": "4mg subcutaneous injection, typically 3 times per week."
+    },
+    {
+      "label": "Research Use:",
+      "description": "Dosing may vary in research contexts."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Few adverse effects reported in clinical trials."
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Minor irritation at injection site possible."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Primarily available through research chemical suppliers."
+    },
+    {
+      "label": "Clinical Trials:",
+      "description": "Has been used in formal clinical trials."
+    },
+    {
+      "label": "Specialized Sourcing:",
+      "description": "Not as widely available as other peptides."
+    }
+  ],
+  "related": [
+    {
+      "name": "CARTALAX",
+      "slug": "cartalax"
+    },
+    {
+      "name": "WOLVERINE STACK",
+      "slug": "wolverine-stack"
+    },
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    },
+    {
+      "name": "AHK (TRIPEPTIDE-3)",
+      "slug": "ahk-tripeptide-3"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    }
+  ]
+}

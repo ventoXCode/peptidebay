@@ -1,0 +1,141 @@
+{
+  "slug": "rapamycin",
+  "url": "https://dopamine.club/substances/rapamycin/",
+  "scrapedAt": "2026-02-12T16:10:55.633Z",
+  "title": "RAPAMYCIN",
+  "description": "Rapamycin (Sirolimus) is an mTOR (mechanistic target of rapamycin) inhibitor originally developed as an immunosuppressant for organ transplant patients. It works by suppressing mTORC1 signaling, which regulates cell growth, protein synthesis, and autophagy. Research shows it consistently extends lifespan in animal models and may have anti-aging effects in humans, though it also carries potential risks including immune suppression and metabolic effects.",
+  "categories": [
+    "Medicine"
+  ],
+  "research": [
+    {
+      "title": "Rapamycin, the only drug that consistently demonstrated to increase mammalian longevity. An update",
+      "summary": "Comprehensive review confirming rapamycin is the only drug that has consistently demonstrated lifespan extension across multiple mammalian species in rigorous testing protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37011714/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fasting and rapamycin: diabetes versus benevolent glucose intolerance",
+      "summary": "Discusses how rapamycin can induce a form of glucose intolerance similar to fasting that may be benevolent rather than harmful, while also improving insulin sensitivity and reducing diabetic complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31391855/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rapamycin as a potential repurpose drug candidate for the treatment of COVID-19",
+      "summary": "Explores rapamycin's potential therapeutic benefits for COVID-19 through immune modulation, mitochondrial support, and anti-inflammatory effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33031791/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmaceutical Intervention of Aging",
+      "summary": "Reviews rapamycin alongside other compounds like metformin and resveratrol as promising pharmacological interventions targeting aging pathways and age-related diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30232763/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Regulatory effects of hemp seed/evening primrose oil supplement in comparison with rapamycin on mTORC2 and IL-10 genes in experimental autoimmune encephalomyelitis",
+      "summary": "Compares rapamycin's effects with dietary supplements on immune regulation and gene expression in an autoimmune disease model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30936931/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User sentiment is genuinely divided on rapamycin. While many are interested in its longevity potential and some report positive experiences with Long COVID, there are significant concerns about side effects, immune suppression risks, and recent studies showing potential acceleration of epigenetic aging. Bryan Johnson's decision to discontinue it after 5 years has further dampened enthusiasm."
+  },
+  "effects": [
+    {
+      "label": "Animal Evidence Strong:",
+      "description": "Rapamycin is the only drug consistently shown to extend lifespan across multiple mammalian species in rigorous testing"
+    },
+    {
+      "label": "Human Data Limited:",
+      "description": "Human longevity data is still emerging, with some concerning recent findings about epigenetic aging acceleration"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effects appear highly variable between individuals, with some reporting benefits for energy and recovery while others experience negative effects"
+    },
+    {
+      "label": "Dosing Matters:",
+      "description": "Intermittent dosing (e.g., once weekly) may provide benefits while reducing side effects compared to daily use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low-Dose Weekly:",
+      "description": "Some users and practitioners recommend intermittent dosing (e.g., once per week) for anti-aging purposes rather than daily"
+    },
+    {
+      "label": "Standard Medical Dose:",
+      "description": "Typical transplant doses are much higher (1-5mg daily) than what's being explored for longevity"
+    },
+    {
+      "label": "Everolimus Alternative:",
+      "description": "Some use everolimus as a similar mTOR inhibitor with different pharmacokinetics"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Many suggest taking breaks or cycling to minimize immune suppression and other side effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Immune Suppression:",
+      "description": "Primary concern is suppression of immune function, which can increase infection risk especially with long-term use"
+    },
+    {
+      "label": "Glucose Metabolism:",
+      "description": "Can cause glucose intolerance or insulin resistance in some users, though effects may be benign and similar to fasting"
+    },
+    {
+      "label": "Epigenetic Concerns:",
+      "description": "Recent study showed potential acceleration of aging across 16 epigenetic clocks, leading prominent users like Bryan Johnson to discontinue"
+    },
+    {
+      "label": "Mouth Sores:",
+      "description": "Commonly reported side effect includes canker sores and oral ulcers with regular use"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Rapamycin is a prescription medication in most countries, typically used for organ transplant patients"
+    },
+    {
+      "label": "Off-Label Use:",
+      "description": "Some doctors prescribe it off-label for longevity purposes, often through concierge or telehealth services"
+    },
+    {
+      "label": "International Sourcing:",
+      "description": "Some users report obtaining it from pharmacies in countries like India where prescription requirements may be less stringent"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Generic rapamycin (sirolimus) is relatively affordable compared to many longevity interventions when obtained through legitimate channels"
+    }
+  ],
+  "related": [
+    {
+      "name": "IVERMECTIN",
+      "slug": "ivermectin"
+    },
+    {
+      "name": "TOREMIFENE",
+      "slug": "toremifene"
+    },
+    {
+      "name": "MEMANTINE",
+      "slug": "memantine"
+    },
+    {
+      "name": "TESTOSTERONE",
+      "slug": "testosterone"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "follistatin-344",
+  "url": "https://dopamine.club/substances/follistatin-344/",
+  "scrapedAt": "2026-02-12T16:07:50.526Z",
+  "title": "FOLLISTATIN 344",
+  "description": "Follistatin 344 is a glycoprotein that acts as a potent inhibitor of the TGF-β superfamily, specifically binding to and neutralizing myostatin and activins. By inhibiting myostatin, a protein that limits muscle growth, it promotes significant muscle hypertrophy and has shown potential in reducing adipose tissue mass.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Systemic administration of Follistatin288 increases muscle mass and reduces fat accumulation in mice",
+      "summary": "This study demonstrates that systemic administration of follistatin increases lean body mass, promotes muscle fiber hypertrophy, and significantly decreases body fat mass.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23942360/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Follistatin-derived peptide expression in muscle decreases adipose tissue mass and prevents hepatic steatosis",
+      "summary": "Research indicates that follistatin-derived peptides can effectively reduce fat accumulation and protect against fatty liver disease while promoting muscle growth.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21191141/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Discovery of a follistatin-derived myostatin inhibitory peptide",
+      "summary": "This paper identifies the specific N-terminal domain of follistatin responsible for inhibiting myostatin, providing a target for treating muscle atrophic diseases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31874826/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Follistatin: a multifunctional regulatory protein",
+      "summary": "A comprehensive review of follistatin's diverse roles in reproductive systems and its critical affinity for activin and myostatin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9799587/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally report impressive muscle gains, but opinions are split due to high costs, short-lived results after cessation, and concerns regarding the authenticity of available products."
+  },
+  "effects": [
+    {
+      "label": "Myostatin Inhibition:",
+      "description": "Highly effective at temporarily overriding genetic limits on muscle growth."
+    },
+    {
+      "label": "Cycle Longevity:",
+      "description": "Effectiveness often peaks early; many users find gains are difficult to maintain without continued use or strict training."
+    },
+    {
+      "label": "Potency Issues:",
+      "description": "User consensus suggests that many 'Follistatin' products on the market are underdosed or fake, leading to inconsistent results."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Cycle:",
+      "description": "100mcg to 300mcg per day is frequently cited by experienced users."
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users suggest a higher initial dose for 10 days followed by a maintenance period."
+    },
+    {
+      "label": "Site Injection:",
+      "description": "There is debate among users whether localized injections provide better results in specific muscle groups versus systemic effects."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Tendon Weakness:",
+      "description": "Research suggests muscle growth may outpace tendon strength, leading to potential injury."
+    },
+    {
+      "label": "Joint Pain:",
+      "description": "Some users report increased stiffness or discomfort in joints during peak muscle growth phases."
+    },
+    {
+      "label": "Appetite Fluctuations:",
+      "description": "Significant shifts in hunger levels are common as metabolism changes."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemicals:",
+      "description": "Primarily sold through research chemical vendors and not approved for human consumption by the FDA."
+    },
+    {
+      "label": "Legality:",
+      "description": "Generally legal to purchase as a lab-grade chemical in most jurisdictions, but banned by WADA and most professional sports organizations."
+    }
+  ],
+  "related": [
+    {
+      "name": "GHRELIN",
+      "slug": "ghrelin"
+    },
+    {
+      "name": "MODIFIED GRF 1-29",
+      "slug": "modified-grf-1-29"
+    },
+    {
+      "name": "WOLVERINE STACK",
+      "slug": "wolverine-stack"
+    },
+    {
+      "name": "ACE-031",
+      "slug": "ace-031"
+    },
+    {
+      "name": "ACE-083",
+      "slug": "ace-083"
+    }
+  ]
+}

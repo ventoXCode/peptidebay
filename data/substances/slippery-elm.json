@@ -1,0 +1,131 @@
+{
+  "slug": "slippery-elm",
+  "url": "https://dopamine.club/substances/slippery-elm/",
+  "scrapedAt": "2026-02-12T16:11:19.427Z",
+  "title": "SLIPPERY ELM",
+  "description": "Slippery elm (Ulmus rubra) is a tree native to North America whose inner bark contains mucilage, a gel-forming polysaccharide that provides demulcent and emollient properties. The mucilage coats and soothes mucous membranes, making it traditionally used for gastrointestinal disorders, sore throat, cough, and inflammatory conditions. It works by forming a protective layer over irritated tissues and may support gut barrier function.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Herbal formula improves upper and lower gastrointestinal symptoms and gut health in Australian adults with digestive disorders",
+      "summary": "A 16-week study found that a herbal formula containing slippery elm (along with curcumin, Aloe vera, guar gum, pectin, peppermint oil, and glutamine) was tolerable and effective for improving gastrointestinal symptoms in adults with digestive disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32151878/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Medical nutrition therapy as a potential complementary treatment for psoriasis--five case reports",
+      "summary": "A dietary regimen including fiber supplements and slippery elm was evaluated in five patients with chronic plaque psoriasis, showing potential benefits as part of a comprehensive nutritional protocol addressing gut health and inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15387720/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "KCNQ5 activation by tannins mediates vasorelaxant effects of barks used in Native American botanical medicine",
+      "summary": "Research showed that bark extracts including slippery elm activated KCNQ5 voltage-gated potassium channels and induced vasorelaxation in rat mesenteric arteries, though slippery elm was among the less efficacious barks tested for this specific mechanism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35997997/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Iranian Traditional Medicine (ITM) and Natural Remedies for Treatment of the Common Cold and Flu",
+      "summary": "A review of traditional medicine identified slippery elm as one of the most important expectorant medicinal plants for cold and flu, and as a recommended immunostimulant, though clinical trials are needed to confirm efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38047364/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 68,
+    "summary": "Users report moderate benefits for digestive issues like gastritis, acid reflux, and gut healing, with slippery elm being a common component in gut support protocols. However, many note it provides temporary relief rather than complete healing, and some find it ineffective alone, requiring combination with other supplements or interventions."
+  },
+  "effects": [
+    {
+      "label": "Symptomatic Relief:",
+      "description": "Users report it helps manage symptoms but rarely resolves underlying conditions completely on its own"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Most effective when combined with other gut-healing supplements like L-glutamine, marshmallow root, DGL, or zinc carnosine"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Results vary significantly, with some finding substantial benefit while others notice minimal effects"
+    },
+    {
+      "label": "Long-term Use:",
+      "description": "Many users require ongoing use for symptom management rather than achieving complete resolution after short-term treatment"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Commonly taken as capsules or powder, often 1-2 capsules with meals or as directed on product labels"
+    },
+    {
+      "label": "Tea Preparation:",
+      "description": "Can be consumed as a tea or gruel made from powder mixed with water to form a gel-like consistency"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often recommended before meals or at bedtime for digestive issues, multiple times daily for acute symptoms"
+    },
+    {
+      "label": "Duration:",
+      "description": "Used both short-term for acute issues and long-term for chronic digestive conditions, with some users taking it for months to years"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Absorption Interference:",
+      "description": "The mucilage coating may theoretically reduce absorption of medications and nutrients when taken simultaneously"
+    },
+    {
+      "label": "Minimal Direct Side Effects:",
+      "description": "Generally well-tolerated with few reported adverse reactions in user experiences"
+    },
+    {
+      "label": "Texture Issues:",
+      "description": "Some users find the gel-like consistency unpleasant or difficult to consume"
+    },
+    {
+      "label": "Limited Efficacy Alone:",
+      "description": "Many report disappointment when used as a standalone treatment without addressing root causes"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold as powder, capsules, and tea by numerous supplement brands and health food stores"
+    },
+    {
+      "label": "Brand Variation:",
+      "description": "Users report differences in quality and effectiveness between brands, with texture and consistency varying by source"
+    },
+    {
+      "label": "Organic Options:",
+      "description": "Available in organic and wildcrafted forms, though prices can vary significantly between suppliers"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

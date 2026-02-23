@@ -1,0 +1,155 @@
+{
+  "slug": "cinnamon-extract",
+  "url": "https://dopamine.club/substances/cinnamon-extract/",
+  "scrapedAt": "2026-02-12T16:06:44.768Z",
+  "title": "CINNAMON EXTRACT",
+  "description": "Cinnamon extract is a concentrated form of bioactive compounds derived from cinnamon bark (Cinnamomum species), primarily containing polyphenols like cinnamaldehyde and proanthocyanidins. It works by improving insulin sensitivity, reducing inflammation through modulation of inflammatory markers, and providing antioxidant effects. Primarily used for blood sugar management, cholesterol reduction, and metabolic health support.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of Cinnamomum zeylanicum (Ceylon cinnamon) extract on lipid profile, glucose levels and its safety in adults: A randomized, double-blind, controlled trial",
+      "summary": "Ceylon cinnamon extract significantly reduced LDL cholesterol and improved other lipid parameters and glucose levels in adults with elevated LDL, demonstrating safety and efficacy for metabolic health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39854533/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cinnamon extract lowers glucose, insulin and cholesterol in people with elevated serum glucose",
+      "summary": "Cinnamon extract supplementation significantly reduced fasting glucose, insulin levels, and cholesterol in individuals with elevated blood sugar, with 137 participants completing the randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27774415/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of cinnamon supplementation on metabolic biomarkers in individuals with type 2 diabetes: a systematic review and meta-analysis",
+      "summary": "Meta-analysis of randomized controlled trials showed cinnamon supplementation improved multiple metabolic biomarkers including glucose, lipid profile, and HbA1c in type 2 diabetes patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38917435/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cinnamon extract improves fasting blood glucose and glycosylated hemoglobin level in Chinese patients with type 2 diabetes",
+      "summary": "Double-blind study of 66 Chinese patients showed cinnamon extract at both 120mg and 360mg daily significantly reduced HbA1c, fasting glucose, and triglyceride levels over 3 months.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22749176/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cinnamon extract improves insulin sensitivity in the brain and lowers liver fat in mouse models of obesity",
+      "summary": "Animal study demonstrated cinnamon extract improved brain insulin sensitivity and reduced hepatic fat accumulation in obese mice, suggesting neuroprotective and metabolic benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24643026/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cinnamon Polyphenol Extract Inhibits Hyperlipidemia and Inflammation by Modulation of Transcription Factors in High-Fat Diet-Fed Rats",
+      "summary": "Cinnamon polyphenol extract reduced body weight, visceral fat, liver weight, glucose, insulin, lipid profile, and inflammatory markers in rats fed a high-fat diet.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28396714/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of cinnamon supplementation on blood pressure, oxidative stress, and inflammatory biomarkers in adults: An umbrella review of meta-analyses",
+      "summary": "Umbrella review of meta-analyses found cinnamon supplementation had positive effects on blood pressure, oxidative stress markers, and inflammatory biomarkers in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39299867/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Dietary Components on Mast Cells: Possible Use as Nutraceuticals for Allergies",
+      "summary": "Review identified cinnamon extract as one of the most effective dietary supplements for suppressing allergic mediator release from mast cells and improving allergic rhinitis symptoms in clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37998337/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report cinnamon extract as a beneficial supplement for metabolic health, with multiple biohackers including it in their longevity and health optimization protocols. It appears particularly valued for its evidence-based approach to blood sugar and cholesterol management."
+  },
+  "effects": [
+    {
+      "label": "Type 2 Diabetes Management:",
+      "description": "Multiple RCTs show significant efficacy in reducing HbA1c and fasting glucose in diabetic patients, making it a well-supported supplement"
+    },
+    {
+      "label": "Dosage-Dependent Response:",
+      "description": "Studies show both low-dose (120mg) and high-dose (360mg) extracts are effective, with benefits occurring within 3 months of supplementation"
+    },
+    {
+      "label": "Species Matters:",
+      "description": "Ceylon cinnamon (Cinnamomum zeylanicum) is generally preferred over Cassia varieties due to lower coumarin content and better safety profile"
+    },
+    {
+      "label": "Complementary to Conventional Treatment:",
+      "description": "Works effectively alongside standard diabetes medications like gliclazide without adverse interactions"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract Dose:",
+      "description": "120-360mg daily of standardized extract shown effective in clinical trials, typically taken in divided doses"
+    },
+    {
+      "label": "Powder Alternative:",
+      "description": "1-6 grams of cinnamon powder daily used in some studies, though extract forms provide more consistent concentrations"
+    },
+    {
+      "label": "Timing:",
+      "description": "Most effective when taken with or before meals to help manage postprandial glucose spikes"
+    },
+    {
+      "label": "Duration:",
+      "description": "Benefits typically observed after 2-3 months of consistent supplementation, with some users reporting effects within weeks"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Safe:",
+      "description": "Most studies report cinnamon extract as well-tolerated with minimal side effects when used at recommended doses"
+    },
+    {
+      "label": "Gastrointestinal Effects:",
+      "description": "Some users report mild digestive discomfort, though less common with extract forms versus raw powder"
+    },
+    {
+      "label": "Liver Concerns:",
+      "description": "High-dose cassia cinnamon (due to coumarin content) may cause liver issues in susceptible individuals; Ceylon cinnamon preferred for long-term use"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Rare cases of allergic reactions reported, particularly with topical applications or in sensitive individuals"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Cinnamon extract supplements readily available from mainstream supplement retailers and online vendors in various forms"
+    },
+    {
+      "label": "Species Identification:",
+      "description": "Products often don't clearly specify Ceylon vs. Cassia cinnamon; consumers should verify the species for safety"
+    },
+    {
+      "label": "Standardization Important:",
+      "description": "Look for standardized extracts with verified polyphenol or cinnamaldehyde content for consistent effects"
+    }
+  ],
+  "related": [
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "GRAPE SEED EXTRACT",
+      "slug": "grape-seed-extract"
+    },
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    }
+  ]
+}

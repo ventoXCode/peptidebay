@@ -1,0 +1,131 @@
+{
+  "slug": "amylase",
+  "url": "https://dopamine.club/substances/amylase/",
+  "scrapedAt": "2026-02-12T16:05:45.504Z",
+  "title": "AMYLASE",
+  "description": "Amylase is a digestive enzyme primarily secreted by the pancreas and salivary glands that breaks down complex carbohydrates (starches) into simpler sugars like glucose and maltose. It plays a crucial role in carbohydrate digestion and is commonly used as a diagnostic marker for pancreatic and salivary gland disorders, as well as a supplemental enzyme to aid digestion in individuals with enzyme deficiencies or malabsorption issues.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Amylase - StatPearls",
+      "summary": "Comprehensive review describing amylase as a digestive enzyme that breaks down glycosidic bonds in starch molecules, with clinical applications in diagnosing pancreatic, salivary, and intestinal diseases as well as metabolic conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32491670/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Salivary Amylase: Digestion and Metabolic Syndrome",
+      "summary": "Research examining the relationship between salivary amylase activity, carbohydrate digestion, and metabolic syndrome, suggesting individual variations in amylase levels may influence metabolic health outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27640169/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Alpha-amylase as molecular target for treatment of diabetes mellitus: A comprehensive review",
+      "summary": "Review investigating alpha-amylase inhibition as a therapeutic strategy for managing diabetes by reducing postprandial hyperglycemia and controlling blood glucose levels through delayed carbohydrate digestion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34173346/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clinical applications of amylase: Novel perspectives",
+      "summary": "Exploration of expanding clinical roles for amylase beyond diagnostic applications, including potential therapeutic uses in cancer treatment, infection management, and wound healing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27117578/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences with amylase-containing digestive enzyme supplements show moderate positive results for reducing bloating and improving digestion in specific cases like food intolerances, though many users question the necessity of supplementation for those without enzyme deficiencies. The consensus suggests targeted use rather than general supplementation."
+  },
+  "effects": [
+    {
+      "label": "Condition-Specific:",
+      "description": "Most effective for individuals with diagnosed enzyme deficiencies, lactose intolerance, or specific digestive disorders rather than general population"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies significantly based on underlying digestive health, with some users experiencing dramatic improvements while others notice no change"
+    },
+    {
+      "label": "Temporary Relief:",
+      "description": "Often provides symptomatic relief rather than addressing root causes of digestive issues"
+    },
+    {
+      "label": "Marketing Skepticism:",
+      "description": "Users question whether supplementation is necessary for those with normal pancreatic function, viewing some products as marketing-driven rather than evidence-based"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Meal-Specific Dosing:",
+      "description": "Users typically take digestive enzyme supplements containing amylase immediately before or with meals that contain problematic foods"
+    },
+    {
+      "label": "Product-Dependent:",
+      "description": "Dosing varies widely by product formulation, with combination enzymes (protease, lipase, amylase) being more common than isolated amylase"
+    },
+    {
+      "label": "As-Needed Basis:",
+      "description": "Most users report taking enzymes only when consuming trigger foods rather than with every meal"
+    },
+    {
+      "label": "Brand Recommendations:",
+      "description": "quality brands and quality brands brands mentioned specifically as effective formulations"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Users report very few adverse effects from amylase-containing digestive enzymes when taken as directed"
+    },
+    {
+      "label": "Dependency Concerns:",
+      "description": "Some worry about potential long-term reliance on enzyme supplementation affecting natural enzyme production"
+    },
+    {
+      "label": "Individual Reactions:",
+      "description": "Rare cases of users reporting that enzyme supplements worsened symptoms rather than improved them"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "Limited discussion of interactions, though elevated amylase and lipase noted in context of GLP-1 medications"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Amylase is commonly found in over-the-counter digestive enzyme supplements available at most retailers and online"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Typically sold as part of multi-enzyme formulations rather than as isolated amylase supplements"
+    },
+    {
+      "label": "Prescription Testing:",
+      "description": "Amylase blood tests used diagnostically are standard medical tests ordered by physicians for pancreatic evaluation"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

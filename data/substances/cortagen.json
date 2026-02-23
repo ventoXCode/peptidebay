@@ -1,0 +1,103 @@
+{
+  "slug": "cortagen",
+  "url": "https://dopamine.club/substances/cortagen/",
+  "scrapedAt": "2026-02-12T16:06:57.854Z",
+  "title": "CORTAGEN",
+  "description": "Cortagen (Ala-Glu-Asp-Pro) is a synthetic tetrapeptide bioregulator derived from the brain cortex that influences gene expression and nervous system homeostasis. It is primarily used to support neuroregeneration, improve cerebrovascular function, and regulate inflammatory responses within the central nervous system.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Elucidation of the effect of brain cortex tetrapeptide Cortagen on gene expression in mouse heart by microarray",
+      "summary": "This study demonstrated that Cortagen regulates the expression of over 100 genes in cardiac tissue, suggesting significant systemic bioregulatory effects beyond the brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15159690/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Peptides Acting as Cognitive Enhancers",
+      "summary": "Research reviews how peptides like Cortagen improve synaptic function and enhance learning and memory by optimizing biological processes in the nervous system.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29030286/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally report high satisfaction with Cortagen for cognitive recovery and nerve repair, often noting a lack of acute side effects compared to traditional stimulants."
+  },
+  "effects": [
+    {
+      "label": "Post-Traumatic Recovery:",
+      "description": "Highly effective for normalizing nerve function following trauma or ischemic events"
+    },
+    {
+      "label": "Gene Expression:",
+      "description": "Proven to alter the expression of 110+ genes involved in various functional categories"
+    },
+    {
+      "label": "Systemic Reach:",
+      "description": "While targeting the brain, it shows significant biological activity in cardiac and immune tissues"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Course:",
+      "description": "Often administered as a daily injection (subcutaneous or intramuscular) for 5-10 consecutive days"
+    },
+    {
+      "label": "Cycle Frequency:",
+      "description": "Typically used in short 'burst' cycles 2-3 times per year rather than chronic daily use"
+    },
+    {
+      "label": "Research Dose:",
+      "description": "Common research protocols utilize 5mg to 10mg daily for short-term bioregulation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Widely regarded as having a very high safety profile with few reported adverse reactions"
+    },
+    {
+      "label": "Injection Site Irritation:",
+      "description": "Minor redness or soreness at the site of administration is occasionally noted"
+    },
+    {
+      "label": "Wakefulness:",
+      "description": "Some users report mild changes in sleep patterns if administered too late in the day"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Sold globally through specialized peptide vendors specifically for laboratory and research use"
+    },
+    {
+      "label": "Legality:",
+      "description": "Generally unscheduled but subject for use by licensed professionals in most jurisdictions"
+    }
+  ],
+  "related": [
+    {
+      "name": "CHONLUTEN",
+      "slug": "chonluten"
+    },
+    {
+      "name": "HUMANIN",
+      "slug": "humanin"
+    },
+    {
+      "name": "LL-37",
+      "slug": "ll-37"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "AHK-CU",
+      "slug": "ahk-cu"
+    }
+  ]
+}

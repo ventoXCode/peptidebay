@@ -1,0 +1,149 @@
+{
+  "slug": "beta-carotene",
+  "url": "https://dopamine.club/substances/beta-carotene/",
+  "scrapedAt": "2026-02-12T16:06:06.438Z",
+  "title": "BETA-CAROTENE",
+  "description": "Beta-carotene is a provitamin A carotenoid that the body converts to vitamin A (retinol), essential for vision, immune function, and cellular health. It acts as an antioxidant in vitro, though its health benefits appear primarily linked to dietary intake from fruits and vegetables rather than high-dose supplementation. Clinical trials have shown that high-dose beta-carotene supplements (20-30mg daily) may increase lung cancer risk in smokers and asbestos workers, while typical dietary amounts are considered safe.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "β-Carotene Supplementation and Risk of Cardiovascular Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "summary": "Meta-analysis of 182,788 individuals found that beta-carotene supplementation slightly increased cardiovascular incidence and was associated with increased cardiovascular mortality, particularly when given alone rather than in combination with other antioxidants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35334942/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Association between β-carotene supplementation and risk of cancer: A systematic review and meta-analysis",
+      "summary": "Systematic review found beta-carotene supplementation was not protective against primary cancer and may increase risk of lung and stomach cancers in smokers and asbestos workers, particularly at higher doses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36715090/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of Beta-Carotene in Lung Cancer Primary Chemoprevention: A Systematic Review with Meta-Analysis and Meta-Regression",
+      "summary": "Meta-analysis of 167,141 participants showed beta-carotene supplementation was associated with increased lung cancer risk (RR=1.16), with effects more pronounced among smokers and asbestos workers (RR=1.21).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35405977/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Investigating the relationship between β-carotene intake from diet and supplements, smoking, and lung cancer risk",
+      "summary": "Study found that dietary beta-carotene from typical food sources is associated with cancer risk reductions, but high-dose supplements (20-30mg) increased lung cancer incidence in heavy smokers in clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39522798/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beta-carotene in multivitamins and the possible risk of lung cancer among smokers versus former smokers: a meta-analysis",
+      "summary": "Meta-analysis found that among current smokers, beta-carotene supplementation was associated with increased lung cancer risk at doses of 20-30mg daily, while no significant effect was found in non-smokers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18429004/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sunscreen and prevention of skin aging: a randomized trial",
+      "summary": "Randomized trial found that daily sunscreen use retarded skin aging, while 30mg daily beta-carotene supplements showed no effect on preventing photoaging over 4 years.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23732711/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Low β-carotene bioaccessibility and bioavailability from high fat, dairy-based meal",
+      "summary": "Study found surprisingly low bioavailability of supplemental beta-carotene (15mg) when consumed with a high-fat dairy meal, with negligible postprandial increase in plasma concentrations despite high dose.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38753174/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly negative, with strong warnings against supplementation especially for smokers. Most informed users caution against isolated beta-carotene supplements due to cancer risks documented in clinical trials, recommending food sources or broad-spectrum carotenoid supplements instead."
+  },
+  "effects": [
+    {
+      "label": "Dietary vs Supplemental:",
+      "description": "Beta-carotene from food sources appears beneficial for health outcomes, while high-dose isolated supplements show harmful effects in clinical trials"
+    },
+    {
+      "label": "Population-Specific Risks:",
+      "description": "Smokers, former smokers, and asbestos workers face significantly increased cancer risk from supplementation"
+    },
+    {
+      "label": "Conversion Inefficiency:",
+      "description": "Many users note genetic variations (like poor BCO1 enzyme function) affect conversion to vitamin A, making dietary retinol from animal sources more reliable"
+    },
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Research shows surprisingly low absorption of supplemental beta-carotene even at high doses, questioning effectiveness"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Dangerous Range:",
+      "description": "Clinical trials used 20-30mg daily and found increased cancer risk; this dose should be avoided especially by smokers"
+    },
+    {
+      "label": "Tanning Protocols:",
+      "description": "Users attempting skin tanning typically use 6-25mg daily, though this carries potential health risks"
+    },
+    {
+      "label": "Safe Upper Limit:",
+      "description": "FDA recommends not exceeding 10,000 IU (3,000 mcg) daily of preformed vitamin A; beta-carotene conversion varies"
+    },
+    {
+      "label": "Food-Based Approach:",
+      "description": "Most experts recommend obtaining beta-carotene through diet rather than supplements for safety"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Increased Cancer Risk:",
+      "description": "Meta-analyses consistently show 16-21% increased lung cancer risk in smokers taking 20-30mg daily"
+    },
+    {
+      "label": "Cardiovascular Harm:",
+      "description": "Studies found 12% increased cardiovascular mortality with supplementation"
+    },
+    {
+      "label": "Orange Skin Discoloration:",
+      "description": "High doses can cause carotenodermia (orange-tinted skin), particularly visible on palms and soles"
+    },
+    {
+      "label": "Prooxidant Effects:",
+      "description": "At high doses or in smokers, beta-carotene may act as a prooxidant rather than antioxidant, promoting cellular damage"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Forms:",
+      "description": "Widely available as standalone supplements or in multivitamins, typically at 6-25mg per serving"
+    },
+    {
+      "label": "Safety Warnings:",
+      "description": "Many informed users and health professionals recommend avoiding isolated beta-carotene supplements, especially for smokers"
+    },
+    {
+      "label": "Alternative Sources:",
+      "description": "Broad-spectrum carotenoid supplements from food sources or mixed carotenoids (including lutein, zeaxanthin, lycopene) considered safer than isolated beta-carotene"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    },
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    }
+  ]
+}

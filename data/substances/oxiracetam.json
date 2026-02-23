@@ -1,0 +1,142 @@
+{
+  "slug": "oxiracetam",
+  "url": "https://dopamine.club/substances/oxiracetam/",
+  "scrapedAt": "2026-02-12T16:10:20.336Z",
+  "title": "OXIRACETAM",
+  "description": "Oxiracetam is a racetam nootropic known for its stimulating cognitive enhancement. It improves memory, focus, and logical thinking while providing mild stimulation. Often considered the 'speedy' racetam.",
+  "categories": [
+    "Nootropic",
+    "Racetam"
+  ],
+  "research": [
+    {
+      "title": "Co-administration of Nanowired Oxiracetam and Neprilysin with Monoclonal Antibodies to Amyloid Beta Peptide and p-Tau Thwarted Exacerbation of Brain Pathology in Concussive Head Injury at Hot Environment",
+      "summary": "Heat exposure worsens concussion-related brain injury. Combining oxiracetam with specific antibodies and enzymes significantly enhanced neuroprotection under elevated temperatures.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37480464/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety, tolerability, and pharmacokinetics of oral (S)-oxiracetam in Chinese healthy volunteers",
+      "summary": "The (S)-oxiracetam variant was safe and well-tolerated in healthy Chinese participants, demonstrating favorable absorption and dose-proportional exposure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37898393/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oxiracetam in dementia: a double-blind, placebo-controlled study",
+      "summary": "Over 12 weeks, oxiracetam improved quality of life and specific cognitive domains compared to placebo, though some participants experienced mild adverse events.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1414239/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oxiracetam in the treatment of primary degenerative and multi-infarct dementia",
+      "summary": "Among 289 participants with various dementia types, oxiracetam treatment produced measurable improvements on dementia rating scales with minimal adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2693996/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Oxiracetam in the treatment of multi-infarct dementia and primary degenerative dementia",
+      "summary": "Testing on 73 patients demonstrated significant word fluency improvements in both patient groups, though daily functioning declined in primary degenerative dementia cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2521069/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Oxiracetam and Physical Activity in Preventing Post-Stroke Cognitive Decline",
+      "summary": "Oxiracetam did not meaningfully prevent post-stroke cognitive decline, whereas regular exercise maintained cognitive performance and improved quality-of-life measures.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666245024001521",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Bone Marrow Stromal Cells Combined with Oxiracetam Influences the Expression of B-cell Lymphoma 2 in Rats with Ischemic Stroke",
+      "summary": "Combining bone marrow stromal cells with oxiracetam enhanced neurological recovery in stroke-affected rats by increasing protective protein expression and reducing cell death.",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1052305714002821",
+      "source": "(ScienceDirect)"
+    }
+  ],
+  "sentiment": {
+    "positive": 70,
+    "summary": "Users appreciate its focus-enhancing and mildly stimulating effects. Popular for studying and work requiring logical analysis. More stimulating than piracetam."
+  },
+  "effects": [
+    {
+      "label": "Consistent Effects:",
+      "description": "Reliable cognitive enhancement for most users."
+    },
+    {
+      "label": "More Stimulating:",
+      "description": "Provides more noticeable 'boost' than piracetam."
+    },
+    {
+      "label": "Choline Synergy:",
+      "description": "Works best with adequate choline intake."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "800-2400mg daily, divided into 2-3 doses."
+    },
+    {
+      "label": "Higher Doses:",
+      "description": "Generally requires more than piracetam."
+    },
+    {
+      "label": "With Food:",
+      "description": "Can be taken with or without food."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Headaches:",
+      "description": "Common if choline intake inadequate."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "May disrupt sleep if taken late."
+    },
+    {
+      "label": "Overstimulation:",
+      "description": "Some find it too stimulating."
+    },
+    {
+      "label": "Generally Safe:",
+      "description": "Well-tolerated at normal doses."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from nootropic vendors."
+    },
+    {
+      "label": "Prescription in Europe:",
+      "description": "Available by prescription in some countries."
+    },
+    {
+      "label": "Moderate Cost:",
+      "description": "Mid-range pricing among racetams."
+    }
+  ],
+  "related": [
+    {
+      "name": "Aniracetam",
+      "slug": "aniracetam"
+    },
+    {
+      "name": "COLURACETAM",
+      "slug": "coluracetam"
+    },
+    {
+      "name": "NEFIRACETAM",
+      "slug": "nefiracetam"
+    },
+    {
+      "name": "Phenylpiracetam",
+      "slug": "phenylpiracetam"
+    },
+    {
+      "name": "Piracetam",
+      "slug": "piracetam"
+    }
+  ]
+}

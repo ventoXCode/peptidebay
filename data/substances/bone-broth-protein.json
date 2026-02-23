@@ -1,0 +1,131 @@
+{
+  "slug": "bone-broth-protein",
+  "url": "https://dopamine.club/substances/bone-broth-protein/",
+  "scrapedAt": "2026-02-12T16:06:12.080Z",
+  "title": "BONE BROTH PROTEIN",
+  "description": "Bone broth protein is a powder or liquid supplement made by simmering animal bones (typically chicken or beef) to extract collagen, amino acids (particularly glycine, proline, and hydroxyproline), and minerals. The collagen content is promoted for joint, skin, and gut health support, though actual concentrations vary significantly between products and preparation methods. Research shows bone broth provides lower and less reliable amino acid concentrations compared to standardized collagen supplements.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Bone Broth Unlikely to Provide Reliable Concentrations of Collagen Precursors Compared With Supplemental Sources of Collagen Used in Collagen Research",
+      "summary": "Analysis of bone broth found amino acid concentrations (hydroxyproline, glycine, proline) were significantly lower than therapeutic doses of reference collagen supplements, with large variability in content depending on preparation method.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29893587/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Enriched Chicken Bone Broth as a Dietary Supplement Reduces Nociception and Sensitization Associated with Prolonged Jaw Opening",
+      "summary": "Enriched chicken bone broth demonstrated anti-inflammatory properties and significantly reduced pain responses and protein kinase A expression in a rat model of temporomandibular disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29509826/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective Effect of Enriched Chicken Bone Broth as a Dietary Supplement in a Model of Migraine Mediated by Early Life Stress",
+      "summary": "Dietary supplementation with chicken bone broth attenuated trigeminal nociception and reduced neuronal sensitization in a stress-induced migraine model, suggesting neuroprotective benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32326809/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Plasma Amino Acid Concentrations After the Ingestion of Dairy and Collagen Proteins, in Healthy Active Males",
+      "summary": "Study characterized bioavailability of amino acids from various collagen sources including bone broth, finding significant differences in maximum concentrations, timing, and total exposure compared to dairy proteins.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31681789/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 55,
+    "summary": "User sentiment is genuinely mixed, with bone broth showing promise for specific applications like joint support and gut health, but significant concerns exist about inconsistent quality, variable amino acid content between products, and uncertainty about whether it provides meaningful benefits over standardized collagen supplements."
+  },
+  "effects": [
+    {
+      "label": "Variable Quality:",
+      "description": "Research shows amino acid content varies dramatically between brands and preparation methods, making effectiveness unpredictable"
+    },
+    {
+      "label": "Lower Concentrations:",
+      "description": "Studies confirm bone broth provides significantly lower collagen precursors than standardized supplements, requiring larger volumes for equivalent effects"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Effectiveness appears highly individual, with some users reporting benefits while others notice minimal impact"
+    },
+    {
+      "label": "Time to Results:",
+      "description": "Users who report benefits typically note effects only after several weeks to months of consistent consumption"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Daily Consumption:",
+      "description": "Most protocols involve 1-2 cups (8-16 oz) of liquid bone broth or 1-2 scoops of powder daily"
+    },
+    {
+      "label": "Protein Content:",
+      "description": "Products typically provide 3-13 grams of protein per serving, with wide variation in collagen-specific amino acids"
+    },
+    {
+      "label": "Timing Flexibility:",
+      "description": "Can be consumed at any time, though some users prefer morning or post-workout for potential recovery benefits"
+    },
+    {
+      "label": "Sodium Consideration:",
+      "description": "Salt content ranges from ~100mg to 800mg per serving depending on product, requiring monitoring for those limiting sodium intake"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report bloating, gas, or stomach discomfort, particularly when first introducing bone broth"
+    },
+    {
+      "label": "High Sodium:",
+      "description": "Products with added salt may contribute to water retention or blood pressure concerns in sensitive individuals"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Consumer testing revealed some products contained 62% less protein and 75% more sodium than labeled"
+    },
+    {
+      "label": "Lead Contamination Risk:",
+      "description": "While recent tests showed products passed heavy metal limits, bone-based products theoretically carry accumulation risk"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Sold as liquid broths in grocery stores and health food stores, or as powdered supplements online and in specialty retailers"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Independent testing shows significant inconsistency between brands, with some failing to meet label claims for protein content"
+    },
+    {
+      "label": "Price Range:",
+      "description": "Cost per equivalent amount of collagen varies dramatically from $0.61 to $9.99, with homemade broth offering most economical option"
+    }
+  ],
+  "related": [
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    },
+    {
+      "name": "PROTEASE",
+      "slug": "protease"
+    },
+    {
+      "name": "SERRAPEPTASE",
+      "slug": "serrapeptase"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    }
+  ]
+}

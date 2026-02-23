@@ -1,0 +1,149 @@
+{
+  "slug": "pea",
+  "url": "https://dopamine.club/substances/pea/",
+  "scrapedAt": "2026-02-12T16:10:31.534Z",
+  "title": "PEA",
+  "description": "Palmitoylethanolamide (PEA) is an endogenous fatty acid amide with anti-inflammatory, analgesic, and neuroprotective properties. It primarily acts by activating peroxisome proliferator-activated receptor alpha (PPAR-α) and modulating mast cells and glial cells, reducing neuroinflammation and chronic pain. PEA is naturally produced in the body and found in foods like egg yolk and peanuts, commonly used as a nutraceutical for pain management and inflammatory conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Palmitoylethanolamide: A Natural Compound for Health Management",
+      "summary": "Comprehensive review documenting PEA's anti-inflammatory, analgesic, antimicrobial, immunomodulatory and neuroprotective effects with good tolerability and no side effects in humans. Advanced delivery systems have overcome poor bioavailability issues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34069940/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Palmitoylethanolamide: A Natural Body-Own Anti-Inflammatory Agent, Effective and Safe against Influenza and Common Cold",
+      "summary": "Research showing PEA is effective and safe for treating influenza and common cold through its anti-inflammatory mechanisms, with over 50 years of research supporting its physiological properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24066256/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Palmitoylethanolamide (PEA) as a Potential Therapeutic Agent in Alzheimer's Disease",
+      "summary": "Preclinical studies indicate PEA has potential in Alzheimer's disease treatment through neuroprotective mechanisms. PEA is already licensed as a nutraceutical with proven safety and tolerability, especially for analgesic and anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31396087/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and Safety of the Combination of Palmitoylethanolamide, Superoxide Dismutase, Alpha Lipoic Acid, Vitamins B12, B1, B6, E, Mg, Zn and Nicotinamide for 6 Months in People with Diabetic Neuropathy",
+      "summary": "Six-month study in 73 diabetic neuropathy patients showed PEA combination significantly improved neuropathic symptoms with good safety profile and tolerability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39339645/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Palmitoylethanolamide supplementation for human health: A state-of-the-art systematic review of Randomized Controlled Trials in patient populations",
+      "summary": "Systematic review of 47 RCTs showed strongest evidence for PEA's impact on pain management and general wellbeing, especially in ultramicronized/micronized formulations, with good tolerability and disease-modifying potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38762187/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Palmitoylethanolamide in Postmenopausal Metabolic Syndrome: Current Evidence and Clinical Perspectives",
+      "summary": "Review exploring PEA's potential in managing postmenopausal metabolic syndrome through activation of PPAR-α receptors, addressing inflammation, insulin resistance, and related metabolic alterations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39770936/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of a Food Supplement, Based on Co-Micronized Palmitoylethanolamide (PEA)-Rutin and Hydroxytyrosol, in Metabolic Syndrome Patients: Preliminary Results",
+      "summary": "Clinical trial showed ultramicronized PEA combined with rutin and hydroxytyrosol acted on adipose tissue and central nervous system to improve metabolic syndrome markers with good tolerability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39940271/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 82,
+    "summary": "Users report overwhelmingly positive experiences with PEA, particularly for cannabis withdrawal symptoms and chronic pain management. The compound is consistently praised for eliminating withdrawal symptoms and reducing inflammation with minimal to no side effects, though some users note dehydration as a concern."
+  },
+  "effects": [
+    {
+      "label": "Withdrawal Management:",
+      "description": "Described as 'insanely effective' for severe cannabinoid withdrawal, eliminating symptoms that would typically last weeks to months"
+    },
+    {
+      "label": "Formulation Matters:",
+      "description": "Ultramicronized, micronized, or cold-water dispersible formulations show significantly better results than standard forms due to improved bioavailability"
+    },
+    {
+      "label": "Rapid Onset:",
+      "description": "Many users report noticeable effects within 1-3 days of use, with full benefits emerging over 1-2 weeks"
+    },
+    {
+      "label": "Versatile Applications:",
+      "description": "Effective both as monotherapy and in combination with other supplements for various conditions including metabolic syndrome, neuropathy, and chronic inflammatory disorders"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "300-500mg taken 2-3 times daily is most commonly reported for pain and inflammation management"
+    },
+    {
+      "label": "Cannabis Withdrawal:",
+      "description": "500mg three times daily (1500mg total) effectively eliminates withdrawal symptoms when quitting heavy THC use"
+    },
+    {
+      "label": "Timing:",
+      "description": "Best taken with meals, particularly evening doses 3-4 hours before bedtime for sleep-related benefits"
+    },
+    {
+      "label": "Duration:",
+      "description": "Users report sustained benefits with daily use over months without tolerance development, though some cycle usage"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Dehydration:",
+      "description": "Most commonly reported side effect, requiring increased water intake during supplementation"
+    },
+    {
+      "label": "Grogginess:",
+      "description": "Some users experience morning grogginess, particularly at higher doses or when taken too close to bedtime"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Generally described as very well-tolerated with significantly fewer side effects compared to prescription alternatives"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Most users report zero side effects, while a small minority experience mild digestive changes or fatigue"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Quality Concerns:",
+      "description": "Users struggle to find reputable brands, with limited availability from trusted supplement companies like quality brands, NOW, and quality brands"
+    },
+    {
+      "label": "Formulation Preference:",
+      "description": "Liposomal and micronized formulations from specialty retailers like Renue by Science are preferred for better absorption and effectiveness"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Described as relatively affordable compared to prescription medications, with single tubes lasting several months to over a year depending on dosage"
+    }
+  ],
+  "related": [
+    {
+      "name": "VIP PEPTIDE",
+      "slug": "vip-peptide"
+    },
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "BAICALIN",
+      "slug": "baicalin"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    }
+  ]
+}

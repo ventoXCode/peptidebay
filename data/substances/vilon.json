@@ -1,0 +1,155 @@
+{
+  "slug": "vilon",
+  "url": "https://dopamine.club/substances/vilon/",
+  "scrapedAt": "2026-02-12T16:12:09.127Z",
+  "title": "VILON",
+  "description": "Vilon is a synthetic dipeptide bioregulator consisting of lysine and glutamic acid (Lys-Glu) that acts as an immunomodulator and geroprotective agent. It primarily functions by activating gene expression through chromatin deheterochromatinization, enhancing T-cell differentiation, and stimulating digestive enzyme activity. Vilon has been studied for applications in cancer therapy, immune system support, anti-aging interventions, and improving intestinal function in elderly populations.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Bioregulator Vilon-induced reactivation of chromatin in cultured lymphocytes from old people",
+      "summary": "Vilon induced chromatin deheterochromatinization in lymphocytes from elderly individuals, reactivating ribosomal genes and releasing repressed genes while preserving structural heterochromatin integrity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15105581/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of vilon on biological age and lifespan in mice",
+      "summary": "Subcutaneous Vilon administration increased physical activity and endurance, prolonged lifespan, and prevented spontaneous neoplasm development in female CBA mice without adverse effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11140587/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Application of peptide bioregulator in complex treatment of elderly cancer patients",
+      "summary": "Vilon inclusion in cancer treatment schemes increased 2-year survival rates, prevented post-operative complications, and improved quality of life in elderly patients with stage III rectal and colon cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16075684/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Immunomodulating effects of Vilon and its analogue in the culture of human and animal thymus cells",
+      "summary": "Vilon increased CD5 lymphocyte differentiation marker expression in thymic cells and induced T-cell precursor differentiation towards CD4+ T-helpers, demonstrating immunomodulatory and antiallergic activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23486604/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of short peptides on lymphocyte chromatin in senile subjects",
+      "summary": "Vilon activated ribosome genes, induced chromatin decondensation, and released genes repressed by age-specific heterochromatinization in leukocytes of individuals aged 75-88 years.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15085253/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of the dipeptide vilon on activity of digestive enzyme in rats of various ages",
+      "summary": "Oral Vilon administration increased digestive enzyme activity in the gastrointestinal tract, with most pronounced effects in 11-month-old rats, diminishing age-related differences in enzyme function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11586413/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of short peptides on thymocyte blast transformation and signal transduction along the sphingomyelin pathway",
+      "summary": "Vilon produced the most potent comitogenic effect on thymocyte proliferation and significantly stimulated sphingomyelinase activity in mouse thymocyte membranes compared to other peptides tested.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12420072/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Immunohistochemical and morphometric analysis of effects of vilon and epithalon on functional morphology of radiosensitive organs",
+      "summary": "Vilon stimulated thymocyte proliferative activity and enhanced stem cell proliferative potential in the intestine, promoting post-radiation recovery of critical organs in irradiated rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11427924/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "Limited English-language user discussions on Vilon. This Khavinson peptide is primarily used in Russia and Eastern European countries for immune system support."
+  },
+  "effects": [
+    {
+      "label": "Anti-Aging Applications:",
+      "description": "Effectively reverses age-related gene silencing and chromatin condensation in elderly subjects aged 75-88 years"
+    },
+    {
+      "label": "Cancer Therapy:",
+      "description": "Improved 2-year survival rates and quality of life when added to treatment regimens for elderly stage III colon/rectal cancer patients"
+    },
+    {
+      "label": "Radiation Protection:",
+      "description": "Stimulates post-radiation recovery of thymus and intestinal tissue in animal models exposed to 6 Gy gamma-irradiation"
+    },
+    {
+      "label": "Age-Related Improvement:",
+      "description": "Most pronounced benefits observed in older animals and humans, diminishing age-related functional differences"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dosing:",
+      "description": "1 mg/kg subcutaneous injection used in animal longevity studies with positive outcomes"
+    },
+    {
+      "label": "Cancer Treatment Protocol:",
+      "description": "Applied as immunomodulator addition to standard radio/chemotherapy regimens in clinical oncology settings"
+    },
+    {
+      "label": "Oral Administration:",
+      "description": "Given per os (orally) for 1 month in studies examining digestive enzyme enhancement"
+    },
+    {
+      "label": "Culture Concentrations:",
+      "description": "5 ng/ml effective dose in tissue culture studies for stimulating apoptosis and cell proliferation"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Drug Interactions:",
+      "description": "Combined use with cyclophosphamide decreased survival in tumor-bearing mice; synchronous use with cytostatic drugs not recommended"
+    },
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Long-term administration showed no unfavorable effects on animal development in chronic studies"
+    },
+    {
+      "label": "Tissue Specificity:",
+      "description": "Effects are tissue-specific; primarily stimulates thymic tissue rather than having systemic broad-spectrum activity"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "No significant side effects reported in elderly cancer patients or aged subjects in clinical trials"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Status:",
+      "description": "Primarily available as research peptide; studied extensively in Russian medical institutions since early 2000s"
+    },
+    {
+      "label": "Clinical Use:",
+      "description": "Applied in specialized oncology and gerontology settings in Russia as adjuvant therapy for elderly cancer patients"
+    },
+    {
+      "label": "Synthetic Production:",
+      "description": "Manufactured as synthetic dipeptide (Lys-Glu) for consistent pharmaceutical quality and research applications"
+    }
+  ],
+  "related": [
+    {
+      "name": "Bronchogen",
+      "slug": "bronchogen"
+    },
+    {
+      "name": "CHONLUTEN",
+      "slug": "chonluten"
+    },
+    {
+      "name": "CORTAGEN",
+      "slug": "cortagen"
+    },
+    {
+      "name": "LL-37",
+      "slug": "ll-37"
+    },
+    {
+      "name": "THYMALIN",
+      "slug": "thymalin"
+    }
+  ]
+}

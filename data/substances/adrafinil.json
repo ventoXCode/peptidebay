@@ -1,0 +1,137 @@
+{
+  "slug": "adrafinil",
+  "url": "https://dopamine.club/substances/adrafinil/",
+  "scrapedAt": "2026-02-12T16:05:24.774Z",
+  "title": "ADRAFINIL",
+  "description": "Adrafinil is a eugeroic compound and prodrug to modafinil. It promotes wakefulness and alertness without the jittery effects of traditional stimulants. Metabolized in the liver to modafinil, it offers similar cognitive benefits.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Behavioral Activating Effects of Adrafinil in Aged Canines",
+      "summary": "Study demonstrates that adrafinil increases locomotor activity and directed sniffing in aged dogs, with variable individual responses.",
+      "url": "https://doi.org/10.1016/S0091-3057(00)00188-X",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Identification of adrafinil and its main metabolite modafinil in human hair",
+      "summary": "Research shows adrafinil and modafinil can be detected in human hair following single consumption, helping distinguish trafficking cases from self-use.",
+      "url": "https://doi.org/10.1080/20961790.2019.1704482",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "Adrafinil disrupts performance on a delayed nonmatching-to-position task in aged beagle dogs",
+      "summary": "Study reveals adrafinil significantly impairs working memory in aged dogs, potentially via increased noradrenergic transmission in prefrontal cortex.",
+      "url": "https://doi.org/10.1016/S0091-3057(03)00211-9",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Adrafinil: Effects on behavior and cognition in aged canines",
+      "summary": "Research characterizes adrafinil as a behavioral stimulant with cognitive enhancement potential in aged dogs, though mechanisms remain unclear.",
+      "url": "https://doi.org/10.1016/S0278-5846(00)00103-2",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Oral Administration of Adrafinil Improves Discrimination Learning in Aged Beagle Dogs",
+      "summary": "Investigation demonstrates adrafinil significantly enhances discrimination learning in aged dogs, possibly through enhanced vigilance and motivation.",
+      "url": "https://doi.org/10.1016/S0091-3057(00)00175-1",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Fluorescent zinc and copper complexes for detection of adrafinil",
+      "summary": "Fluorescent complexes provide detection method for adrafinil in paper-based microfluidic devices, useful for identifying banned performance-enhancing substances.",
+      "url": "https://doi.org/10.1039/c6cc03640f",
+      "source": "(Royal Society of Chemistry)"
+    },
+    {
+      "title": "Thermal degradation of modafinil analogs in GC injector",
+      "summary": "Analysis shows thermal degradation of modafinil and adrafinil compounds in gas chromatography injectors can produce unexpected byproducts.",
+      "url": "https://doi.org/10.1002/dta.2142",
+      "source": "(Analytical Science Journals)"
+    },
+    {
+      "title": "Comparison of the effects of adrafinil, propentofylline, and nicergoline on behavior in aged dogs",
+      "summary": "Research indicates adrafinil treatment may improve quality of life in aged dogs by increasing exploratory behavior and alertness.",
+      "url": "https://doi.org/10.2460/AJVR.2000.61.1410",
+      "source": "(AVMA Publications)"
+    },
+    {
+      "title": "Development and Validation of an Analytical Method to Identify Novel Modafinil Analogs",
+      "summary": "LC-HRMS method effectively identifies and quantifies novel modafinil analogs in dietary supplements, protecting consumers from undisclosed active ingredients.",
+      "url": "https://doi.org/10.1080/19390211.2024.2417673",
+      "source": "(Taylor and Francis Online)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users appreciate its wakefulness-promoting effects, though many prefer modafinil directly due to concerns about liver metabolism."
+  },
+  "effects": [
+    {
+      "label": "Individual Variation:",
+      "description": "Response varies based on liver enzyme activity and metabolism."
+    },
+    {
+      "label": "Tolerance Development:",
+      "description": "Some users report diminishing effects with regular use."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "300-600mg per day, usually taken in the morning."
+    },
+    {
+      "label": "Avoid Daily Use:",
+      "description": "Due to liver metabolism concerns, many cycle usage or use intermittently."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Liver Strain:",
+      "description": "Long-term use may stress the liver; liver function monitoring is recommended."
+    },
+    {
+      "label": "Headaches:",
+      "description": "Some users report headaches, often mitigated by staying hydrated."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "Taking too late in the day can disrupt sleep."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Unscheduled:",
+      "description": "Legal in most countries without prescription."
+    },
+    {
+      "label": "Online Vendors:",
+      "description": "Available from various nootropic suppliers."
+    }
+  ],
+  "related": [
+    {
+      "name": "CAFFEINE",
+      "slug": "caffeine"
+    },
+    {
+      "name": "HYDRAFINIL",
+      "slug": "hydrafinil"
+    },
+    {
+      "name": "PHENOTROPIL",
+      "slug": "phenotropil"
+    },
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    }
+  ]
+}

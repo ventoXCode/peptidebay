@@ -1,0 +1,116 @@
+{
+  "slug": "clitoria-ternatea",
+  "url": "https://dopamine.club/substances/clitoria-ternatea/",
+  "scrapedAt": "2026-02-12T16:06:50.283Z",
+  "title": "CLITORIA TERNATEA",
+  "description": "Clitoria ternatea, commonly known as Butterfly Pea or Shankhpushpi, is a perennial leguminous herb rich in anthocyanins, flavonol glycosides, and triterpenoids. It functions primarily as a nootropic and adaptogen by modulating neurotransmitters and enhancing hippocampal long-term potentiation to improve cognitive function and stress resilience.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Clitoria ternatea L. root extract ameliorated the cognitive and hippocampal long-term potentiation deficits induced by chronic cerebral hypoperfusion in the rat",
+      "summary": "This study demonstrates that root extracts can restore memory function and strengthen synaptic plasticity in the hippocampus, particularly in models of cognitive decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29920356/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Clitorienolactones and Isoflavonoids of Clitorea ternatea Roots Alleviate Stress-Like Symptoms in a Reserpine-Induced Zebrafish Model",
+      "summary": "Research identified specific lactones and isoflavonoids that effectively reduce physiological stress behaviors and restore neurochemical balance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34299411/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Age dependent neuroprotective effects of medhya rasayana prepared from Clitoria ternatea Linn. in stress induced rat brain",
+      "summary": "The plant shows significant neuroprotective properties against stress-induced brain aging by reducing oxidative markers and supporting neuronal health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27469198/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Ayurvedic medicine Clitoria ternatea--from traditional use to scientific assessment",
+      "summary": "A comprehensive review confirming the plant's wide-ranging pharmacological activities, including nootropic, anxiolytic, and anticonvulsant effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18926895/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally value Clitoria ternatea as a reliable component of traditional cognitive stacks, noting its calming yet brain-boosting effects without the heavy sedation of other herbs."
+  },
+  "effects": [
+    {
+      "label": "Nootropic Potency:",
+      "description": "Highly effective when used as part of a 'Medhya Rasayana' (brain tonic) formula"
+    },
+    {
+      "label": "Stress Reduction:",
+      "description": "Proven effective in animal models for reversing stress-like symptoms including lethargy"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Works well when combined with other adaptogens like Ashwagandha and Bacopa"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Traditional Extract:",
+      "description": "Common dosages in mixed formulas range around 112.5 mg of root powder or extract"
+    },
+    {
+      "label": "Root vs Flower:",
+      "description": "Roots are traditionally more concentrated for cognitive benefits, while flowers are used for antioxidant teas"
+    },
+    {
+      "label": "Standard Preparation:",
+      "description": "Often consumed as 'Shankhapushpi' syrup or capsules in Ayurvedic medicine"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Upset:",
+      "description": "Some users may experience mild indigestion if taken on an empty stomach"
+    },
+    {
+      "label": "Sedative Potential:",
+      "description": "High doses may act as a mild tranquilizer or sedative in sensitive individuals"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Caution is advised when combining with prescription anticonvulsants or sedatives"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Traditional Availability:",
+      "description": "Widely available in Asian markets and health stores as 'Butterfly Pea' tea or powder"
+    },
+    {
+      "label": "Supplement Form:",
+      "description": "Frequently found in complex Ayurvedic 'Manomitram' or focus-oriented stacks"
+    }
+  ],
+  "related": [
+    {
+      "name": "CONVOLVULUS PLURICAULIS",
+      "slug": "convolvulus-pluricaulis"
+    },
+    {
+      "name": "CELASTRUS PANICULATUS",
+      "slug": "celastrus-paniculatus"
+    },
+    {
+      "name": "GOTU KOLA",
+      "slug": "gotu-kola"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    },
+    {
+      "name": "NIGELLA SATIVA",
+      "slug": "nigella-sativa"
+    }
+  ]
+}

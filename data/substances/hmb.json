@@ -1,0 +1,125 @@
+{
+  "slug": "hmb",
+  "url": "https://dopamine.club/substances/hmb/",
+  "scrapedAt": "2026-02-12T16:08:23.967Z",
+  "title": "HMB",
+  "description": "Beta-hydroxy-beta-methylbutyrate (HMB) is a metabolite of the amino acid leucine that helps reduce muscle protein breakdown and may enhance muscle protein synthesis. It is primarily used as an ergogenic aid by athletes and fitness enthusiasts to reduce exercise-induced muscle damage, decrease DOMS (delayed onset muscle soreness), and support muscle preservation during caloric restriction.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of beta-hydroxy-beta-methylbutyrate (HMB) on exercise performance and body composition across varying levels of age, sex, and training experience: A review",
+      "summary": "Comprehensive review finding that HMB supplementation can improve exercise performance and body composition, particularly in untrained individuals and during periods of caloric restriction, though effects are less pronounced in experienced athletes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18173841/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An umbrella review of systematic reviews of β-hydroxy-β-methyl butyrate supplementation in ageing and clinical practice",
+      "summary": "Meta-analysis examining HMB's role in clinical and aging populations, showing potential benefits for muscle preservation and recovery in various patient populations and older adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35818771/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mechanism of Action and the Effect of Beta-Hydroxy-Beta-Methylbutyrate (HMB) Supplementation on Different Types of Physical Performance - A Systematic Review",
+      "summary": "Systematic review exploring HMB's mechanisms including reduced protein breakdown and enhanced synthesis, with evidence supporting its use for reducing muscle damage and improving recovery across different training modalities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31531146/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report significant reductions in DOMS (50-75% improvement) and enhanced recovery, with particular enthusiasm from natural lifters in their 30s and beyond. The supplement is viewed as a 'quality of life' enhancer rather than a muscle-building miracle, with users noting it's most valuable for those not on TRT or steroids."
+  },
+  "effects": [
+    {
+      "label": "Natural Athletes:",
+      "description": "Most effective for individuals not using TRT or anabolic steroids, with diminished benefits reported by those on hormone therapy"
+    },
+    {
+      "label": "Age Factor:",
+      "description": "Users in their 30s and beyond report the most dramatic quality-of-life improvements compared to younger athletes"
+    },
+    {
+      "label": "Training Response:",
+      "description": "Benefits appear within 2-3 weeks of consistent use, with noticeable reduction in next-day muscle soreness being the first observable effect"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "While majority report positive effects, some users note minimal impact on muscle growth despite improved recovery and reduced soreness"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "Most users take HMB daily during training periods without specific dosing details mentioned"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken as part of morning supplement stacks or pre-workout protocols"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users incorporate HMB into structured supplement cycles, though continuous use appears common"
+    },
+    {
+      "label": "Empty Stomach:",
+      "description": "When mentioned in detailed protocols, HMB is sometimes taken on an empty stomach for optimal absorption"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reports:",
+      "description": "Very few side effects mentioned across user experiences, with most reporting clean tolerance"
+    },
+    {
+      "label": "Hair Concerns:",
+      "description": "No specific HMB-related hair issues mentioned (unlike creatine which users cite for hair loss concerns)"
+    },
+    {
+      "label": "Emotional Blunting:",
+      "description": "Not reported with HMB (contrasting with ashwagandha which users describe as causing emotional numbness)"
+    },
+    {
+      "label": "Cost Consideration:",
+      "description": "Primary concern is expense rather than physical side effects, particularly in countries with lower average incomes"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Readily accessible through major supplement retailers and online sources including major retailers"
+    },
+    {
+      "label": "Cost Factor:",
+      "description": "Considered moderately expensive, particularly when stacking with multiple supplements, representing a significant portion of supplement budgets in some regions"
+    },
+    {
+      "label": "Quality Brands:",
+      "description": "Users purchase from established supplement companies without major concerns about contamination or quality issues commonly discussed with other supplements"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    }
+  ]
+}

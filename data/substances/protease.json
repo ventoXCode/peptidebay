@@ -1,0 +1,137 @@
+{
+  "slug": "protease",
+  "url": "https://dopamine.club/substances/protease/",
+  "scrapedAt": "2026-02-12T16:10:47.949Z",
+  "title": "PROTEASE",
+  "description": "Protease refers to a class of digestive enzymes that break down proteins into smaller peptides and amino acids. These enzymes are naturally produced by the body but are also available as supplements, often derived from sources like papaya (papain), pineapple (bromelain), or microbial fermentation. Protease supplements are primarily used to support protein digestion, reduce inflammation, and potentially aid in recovery from injury or exercise.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Analyzing Beneficial Effects of Nutritional Supplements on Intestinal Epithelial Barrier Functions During Experimental Colitis",
+      "summary": "Research demonstrates that nutritional supplements including digestive enzymes can support intestinal barrier function and reduce inflammation during experimental colitis, suggesting potential therapeutic applications for inflammatory bowel conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28570558/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Respiratory protease/antiprotease balance determines susceptibility to viral infection and can be modified by nutritional antioxidants",
+      "summary": "Study found that the balance between proteases and antiproteases in respiratory tissue affects viral infection susceptibility and can be influenced by nutritional interventions, highlighting the importance of protease regulation in immune function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25888573/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutritional Supplements in the Clinical Management of Tendinopathy: A Scoping Review",
+      "summary": "This scoping review evaluated various nutritional supplements including protease-containing formulations for treating tendinopathies, finding that certain enzyme blends showed promise in clinical management of tendon injuries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37146985/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potential Roles of Exogenous Proteases and Lipases as Prebiotics",
+      "summary": "Recent research suggests that exogenous digestive enzymes including proteases may function as prebiotics by modulating gut microbiota composition and supporting overall digestive health beyond their direct enzymatic activity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40077794/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Supplementation Containing Bromelain on the Side Effects of Oncological Treatment: Systematic Review",
+      "summary": "Systematic review found that bromelain (a protease enzyme) supplementation may help reduce side effects from cancer treatment by modulating inflammatory pathways, though more research is needed to establish optimal protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40372963/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users generally report positive experiences with protease supplements, particularly bromelain and papain, citing improvements in digestion, reduced bloating, and anti-inflammatory benefits. Most users found digestive enzymes helpful when taken with meals, though some reported initial adjustment periods or need to avoid taking on empty stomach."
+  },
+  "effects": [
+    {
+      "label": "Meal Timing Matters:",
+      "description": "Protease enzymes work best when taken with or immediately before meals rather than on an empty stomach, with users reporting nausea or stomach upset when taken too far in advance"
+    },
+    {
+      "label": "Individual Response Varies:",
+      "description": "While most users benefit from digestive enzymes, effectiveness depends on individual digestive capacity and whether actual enzyme deficiency exists"
+    },
+    {
+      "label": "High-Protein Diets:",
+      "description": "Users consuming 350-400g protein daily found particular benefit from enzyme supplementation to support digestion of large amounts of protein"
+    },
+    {
+      "label": "Brand Quality Important:",
+      "description": "Users emphasize choosing reputable brands with proper testing, as quality varies significantly between manufacturers"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Digestive Support:",
+      "description": "Most users take enzyme blends containing 45-75mg of various proteases (papain, bromelain) with each protein-heavy meal"
+    },
+    {
+      "label": "Therapeutic Doses:",
+      "description": "For anti-inflammatory purposes, users report taking 100,000+ SPU of serrapeptase or similar therapeutic doses between meals on an empty stomach"
+    },
+    {
+      "label": "With Meals:",
+      "description": "Consensus is to take digestive enzyme blends mid-meal or immediately before eating, not 30-60 minutes before as sometimes suggested"
+    },
+    {
+      "label": "Cycling:",
+      "description": "Some users cycle enzymes or take breaks on weekends to avoid potential dependency on supplemental enzymes for digestion"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Upset:",
+      "description": "Taking protease enzymes on an empty stomach can cause nausea, stomach acidity, and in extreme cases vomiting, particularly when combined with food intake"
+    },
+    {
+      "label": "Die-Off Reactions:",
+      "description": "Some users of serrapeptase report initial fatigue, achiness, and light-headedness attributed to biofilm breakdown and 'die-off' effects"
+    },
+    {
+      "label": "Increased Water Needs:",
+      "description": "Users note needing more water intake when taking protease supplements regularly"
+    },
+    {
+      "label": "Minimal Long-term Issues:",
+      "description": "When taken appropriately with meals, most users report no significant side effects with long-term use of digestive enzyme blends"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Protease supplements including bromelain, papain, and multi-enzyme blends are readily available from major supplement retailers and health food stores"
+    },
+    {
+      "label": "Quality Varies:",
+      "description": "Users recommend specific brands like quality brands, quality brands, and quality brands for quality and effectiveness, with caution about cheaper alternatives"
+    },
+    {
+      "label": "Over-the-Counter:",
+      "description": "All protease supplements are available without prescription, though users emphasize importance of third-party testing and reputable sourcing"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "EGGSHELL MEMBRANE",
+      "slug": "eggshell-membrane"
+    },
+    {
+      "name": "SERRAPEPTASE",
+      "slug": "serrapeptase"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    }
+  ]
+}

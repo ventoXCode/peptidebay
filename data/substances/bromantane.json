@@ -1,0 +1,131 @@
+{
+  "slug": "bromantane",
+  "url": "https://dopamine.club/substances/bromantane/",
+  "scrapedAt": "2026-02-12T16:06:15.367Z",
+  "title": "BROMANTANE",
+  "description": "Bromantane is a unique Russian compound that acts as both an actoprotector (enhancing physical performance) and an anxiolytic. It upregulates tyrosine hydroxylase and dopamine synthesis without direct receptor stimulation, providing stimulation without tolerance.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Effects of bromantane on offspring maturation and development of reflexes",
+      "summary": "Bromantane demonstrates no adverse effects on reproduction and offspring development, with no significant differences in offspring weight gain or nervous system development.",
+      "url": "https://doi.org/10.1016/S0892-0362(01)00119-2",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Effect of bromantane on the release and metabolism of dopamine in the striatum of freely moving rats",
+      "summary": "Bromantane increases dopamine release in the striatum of rats for 8 hours, slightly decreasing dopamine metabolites.",
+      "url": "https://doi.org/10.1007/BF02445840",
+      "source": "(Springer Nature)"
+    },
+    {
+      "title": "Analysis of bromantane pharmacological spectrum",
+      "summary": "Bromantane exhibits psychostimulatory and anxiolytic effects, with no effect on BALB/c mice and freezing prevention in C57B1/6 mice.",
+      "url": "https://doi.org/10.1007/BF02433415",
+      "source": "(Springer Nature)"
+    },
+    {
+      "title": "The effect of bromantane on the dopamin- and serotoninergic systems of the rat brain",
+      "summary": "Bromantane increases serotonin levels in the brain and affects dopamine levels, suggesting a role for the dopaminergic system in its pharmacological effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7580761/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The neuro- and psychophysiological effects of bromantane",
+      "summary": "Bromantane improves operators' functional state, promoting moderate vigilance and productive action while reducing tremors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10998997/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A quantitative pharmaco-electroencephalographic analysis of the action of bromantane",
+      "summary": "Bromantane demonstrates more marked and prolonged stimulant properties than other adamantane psychostimulants, with a two-phase effect lasting up to 8 hours.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8312546/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users praise its unique combination of stimulation and anxiety relief without tolerance buildup. Commonly used for motivation and physical performance enhancement."
+  },
+  "effects": [
+    {
+      "label": "Tolerance-Neutral:",
+      "description": "Doesn't seem to cause traditional stimulant tolerance."
+    },
+    {
+      "label": "Cumulative Benefits:",
+      "description": "Dopamine upregulation may persist after cessation."
+    },
+    {
+      "label": "Consistent Effects:",
+      "description": "Most users report reliable, predictable results."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "50-100mg daily."
+    },
+    {
+      "label": "Sublingual Option:",
+      "description": "Can be taken sublingually for faster onset."
+    },
+    {
+      "label": "Morning Dosing:",
+      "description": "Best taken in the morning due to mild stimulation."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well Tolerated:",
+      "description": "Few side effects reported."
+    },
+    {
+      "label": "Potential Stimulation:",
+      "description": "May cause restlessness in sensitive individuals."
+    },
+    {
+      "label": "Limited Research:",
+      "description": "Long-term safety data limited in Western literature."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from various research chemical suppliers."
+    },
+    {
+      "label": "Russian Origin:",
+      "description": "Originally developed in Russia as Ladasten."
+    },
+    {
+      "label": "International Shipping:",
+      "description": "May require international sourcing."
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "CAFFEINE",
+      "slug": "caffeine"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "kpv",
+  "url": "https://dopamine.club/substances/kpv/",
+  "scrapedAt": "2026-02-12T16:09:00.560Z",
+  "title": "KPV",
+  "description": "KPV (Lys-Pro-Val) is a naturally occurring tripeptide derived from the C-terminal sequence of alpha-melanocyte-stimulating hormone (alpha-MSH). It exerts potent anti-inflammatory and antimicrobial effects by inhibiting NF-kappaB signaling and modulating inflammatory cytokines, primarily used for gastrointestinal disorders and skin conditions.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Orally Targeted Delivery of Tripeptide KPV via Hyaluronic Acid-Functionalized Nanoparticles Efficiently Alleviates Ulcerative Colitis",
+      "summary": "This study demonstrates that KPV effectively attenuates inflammatory responses in the colon and can be successfully delivered via nanoparticles to treat ulcerative colitis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28143741/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of the COOH-terminal tripeptide alpha-MSH(11-13) on corneal epithelial wound healing: role of nitric oxide",
+      "summary": "KPV was found to facilitate the reparative processes and speed up wound healing in corneal epithelial tissues through its anti-inflammatory properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16965771/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lysine-Proline-Valine peptide mitigates fine dust-induced keratinocyte apoptosis and inflammation",
+      "summary": "Research shows KPV protects skin cells from oxidative damage and inflammation by modulating the MAPK/NF-κB pathway.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40073467/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A KPV-binding double-network hydrogel restores gut mucosal barrier in an inflamed colon",
+      "summary": "The study found that KPV-loaded hydrogels specifically adhere to inflamed colonic mucosa, restoring the gut barrier and reducing localized inflammation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35245681/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Inhibitory effects of the peptide (CKPV)2 on endotoxin-induced host reactions",
+      "summary": "KPV and its dimer exhibit significant anti-inflammatory effects by reducing TNF-alpha production in response to bacterial endotoxins.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16413580/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users report significant success in managing chronic inflammatory conditions like eczema and IBS, often describing rapid relief from redness and itching when other treatments failed."
+  },
+  "effects": [
+    {
+      "label": "Speed of Action:",
+      "description": "Skin-related improvements are often noted within 3 to 10 days of starting a cycle."
+    },
+    {
+      "label": "Targeted Delivery:",
+      "description": "Research indicates KPV is most effective when delivered via specialized carriers (nanoparticles or hydrogels) for gut conditions."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Often stacked with BPC-157 for enhanced healing of the mucosal lining and connective tissues."
+    },
+    {
+      "label": "Inflammatory Focus:",
+      "description": "Highly effective at reducing CRP and BUN levels in chronic disease states when combined with dietary management."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Subcutaneous Injection:",
+      "description": "A common user dosage is 0.5mg (500mcg) pinned daily for 10-20 day cycles."
+    },
+    {
+      "label": "Oral Supplementation:",
+      "description": "Often found in multi-strain probiotic capsules containing 45 billion CFU for metabolic and kidney health."
+    },
+    {
+      "label": "Topical Application:",
+      "description": "Research suggest concentrations of 1-10 mg/ml are effective for localized tissue healing."
+    },
+    {
+      "label": "Stacked Dosing:",
+      "description": "Frequently included in complex 'recovery' stacks at approximately 3.175mg per week."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported:",
+      "description": "Users generally report high tolerance with few acute side effects compared to traditional steroids."
+    },
+    {
+      "label": "Appetite Suppression:",
+      "description": "Some users mention feeling 'over' meals quickly, though this is often associated with other peptides in a stack like Retatrutide."
+    },
+    {
+      "label": "Potential Herxheimer Reaction:",
+      "description": "In certain gut protocols, shifts in microbiota can cause temporary metabolic distress."
+    },
+    {
+      "label": "Injection Site Irritation:",
+      "description": "Standard risk associated with subcutaneous administration of peptides."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemicals:",
+      "description": "Primarily sourced through peptide sources rather than standard supplement retailers."
+    },
+    {
+      "label": "Combining Agents:",
+      "description": "Frequently sold in formulations mixed with BPC-157 ARG or HCL for gut health."
+    }
+  ],
+  "related": [
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    }
+  ]
+}

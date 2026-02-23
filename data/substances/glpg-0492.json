@@ -1,0 +1,113 @@
+{
+  "slug": "glpg-0492",
+  "url": "https://dopamine.club/substances/glpg-0492/",
+  "scrapedAt": "2026-02-12T16:08:09.167Z",
+  "title": "GLPG-0492",
+  "description": "GLPG-0492 is a non-steroidal selective androgen receptor modulator (SARM) designed to bind to the androgen receptor with high affinity while exhibiting tissue-selective anabolic activity. It was originally developed to treat muscle-wasting conditions and muscular dystrophy by stimulating muscle growth and Improving performance with reduced androgenic effects on reproductive organs.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "Characterization of GLPG0492, a selective androgen receptor modulator, in a mouse model of hindlimb immobilization",
+      "summary": "This study found that GLPG-0492 effectively prevented muscle mass loss and preserved muscle fiber size in mice during periods of inactivity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25185887/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "GLPG0492, a novel selective androgen receptor modulator, improves muscle performance in the exercised-mdx mouse model of muscular dystrophy",
+      "summary": "Research demonstrated that GLPG-0492 improved diaphragm and limb muscle function and increased running performance in models of Duchenne muscular dystrophy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23523664/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparison of the three SARMs RAD-140, GLPG0492 and GSK-2881078 in two different in vitro bioassays, and in an in silico androgen receptor binding assay",
+      "summary": "This comparative analysis confirmed GLPG-0492's strong androgenic potential in prostate cells and provided molecular modeling of its binding to the androgen receptor.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30825507/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally view GLPG-0492 as an effective but 'mild' SARM compared to compounds like RAD-140, with many highlighting its niche status and relative obscurity in the current market."
+  },
+  "effects": [
+    {
+      "label": "Anabolic Selectivity:",
+      "description": "Demonstrates a high ratio of muscle-to-prostate activity, reducing the risk of androgenic side effects"
+    },
+    {
+      "label": "Recovery Speed:",
+      "description": "Users report faster recovery times between training sessions and reduced muscle soreness"
+    },
+    {
+      "label": "Mild Potency:",
+      "description": "Often considered less 'explosive' for mass building than LGD-4033 but easier to manage in terms of side effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Range:",
+      "description": "Most anecdotal reports suggest a daily total of 5mg to 15mg taken once per day"
+    },
+    {
+      "label": "Starting Dose:",
+      "description": "Users often recommend starting at 5mg to assess individual tolerance before increasing"
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Standard cycles typically last 8 to 12 weeks followed by appropriate post-cycle therapy"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormonal Suppression:",
+      "description": "Like most SARMs, it can cause a temporary reduction in natural testosterone levels, especially at higher doses"
+    },
+    {
+      "label": "Lipid Changes:",
+      "description": "Potential for a slight reduction in HDL (good cholesterol) during the cycle"
+    },
+    {
+      "label": "Liver Enzymes:",
+      "description": "Rare reports of mild elevations in liver enzymes, though generally considered less hepatotoxic than oral steroids"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Difficulty:",
+      "description": "Less commonly available than mainstream SARMs like Ostarine, often requiring specialized research chemical suppliers"
+    },
+    {
+      "label": "WADA Status:",
+      "description": "Explicitly listed as a prohibited substance in competitive sports under the S1.2 Anabolic Agents category"
+    },
+    {
+      "label": "Research Status:",
+      "description": "Development appears to have stalled in clinical phases, leaving it primarily in the 'research chemical' market"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    },
+    {
+      "name": "GSK-2849466",
+      "slug": "gsk-2849466"
+    },
+    {
+      "name": "GSK-2881078",
+      "slug": "gsk-2881078"
+    },
+    {
+      "name": "GSK-971086",
+      "slug": "gsk-971086"
+    }
+  ]
+}

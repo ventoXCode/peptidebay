@@ -1,0 +1,125 @@
+{
+  "slug": "hypericin",
+  "url": "https://dopamine.club/substances/hypericin/",
+  "scrapedAt": "2026-02-12T16:08:39.009Z",
+  "title": "HYPERICIN",
+  "description": "Hypericin is a naphthodianthrone compound found in St. John's Wort (Hypericum perforatum), primarily used for treating mild to moderate depression. It acts as a weak MAO-A and MAO-B inhibitor, has affinity for sigma receptors, modulates HPA axis function, and antagonizes several receptors including GABA-A/B and benzodiazepine receptors. Often combined with hyperforin, another active constituent that inhibits reuptake of serotonin, dopamine, and norepinephrine.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effect of Hypericum perforatum (St John's Wort) in Major Depressive Disorder",
+      "summary": "Clinical trial by the Hypericum Depression Trial Study Group examining the efficacy of St John's Wort extract for treating major depression, comparing it to placebo and standard antidepressants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11939867/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "St John's wort (Hypericum perforatum L.): a review of its chemistry, pharmacology and clinical properties",
+      "summary": "Comprehensive review of hypericin and hyperforin chemistry, mechanisms of action including MAO inhibition and receptor interactions, and clinical applications for depression treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11370698/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "St. John's wort (Hypericum perforatum): a review of the current pharmacological, toxicological, and clinical literature",
+      "summary": "Extensive review covering pharmacological mechanisms, potential toxicity concerns including photosensitivity, and clinical efficacy data for depression and anxiety disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11243487/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users report moderate effectiveness for mild to moderate depression and anxiety, with benefits appearing after 2-4 weeks of consistent use. However, concerns about eye damage from hypericin, drug interactions, and inconsistent results between brands create hesitation, leading to genuinely mixed experiences."
+  },
+  "effects": [
+    {
+      "label": "Delayed Onset:",
+      "description": "Benefits typically require 2-4 weeks of consistent daily use before noticeable effects appear, similar to prescription antidepressants"
+    },
+    {
+      "label": "Extract Variability:",
+      "description": "Effectiveness varies significantly between brands and extract types, with hypericin-standardized (0.3%) and hyperforin-standardized (2%) formulations showing different results"
+    },
+    {
+      "label": "Mild to Moderate Cases:",
+      "description": "Most effective for mild to moderate depression and anxiety; users with severe depression report limited benefits"
+    },
+    {
+      "label": "Individual Response:",
+      "description": "Highly variable individual responses, with some users experiencing significant benefits while others report minimal or no effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "900mg per day divided into three 300mg doses, standardized to 0.3% hypericin, is the most commonly referenced effective dosage"
+    },
+    {
+      "label": "Higher Doses:",
+      "description": "Some users report better results with 1800mg daily (in divided doses), though this increases side effect risk"
+    },
+    {
+      "label": "Hyperforin Formulations:",
+      "description": "Perika and similar brands standardized to 2% hyperforin (6mg) are mentioned as potentially safer alternatives regarding eye concerns"
+    },
+    {
+      "label": "Consistency Required:",
+      "description": "Daily consistent dosing for at least 2-4 weeks is necessary before assessing effectiveness"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Photosensitivity and Eye Concerns:",
+      "description": "Major worry about hypericin causing retinal damage or cataracts with light exposure, though risk with hyperforin formulations appears lower"
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Significant interactions with medications including SSRIs, birth control, and various prescription drugs due to effects on liver enzymes"
+    },
+    {
+      "label": "Digestive Issues:",
+      "description": "Some users report appetite changes, nausea, or gastrointestinal discomfort, particularly when starting"
+    },
+    {
+      "label": "Cognitive Effects:",
+      "description": "Reports of brain fog, restlessness, impatience, or difficulty focusing in some users, especially in early weeks"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available OTC:",
+      "description": "Readily available over-the-counter at health stores and online retailers without prescription"
+    },
+    {
+      "label": "Brand Quality Varies:",
+      "description": "quality brands, quality brands (Perika), and standardized pharmaceutical-grade extracts are most commonly recommended for consistent potency"
+    },
+    {
+      "label": "Standardization Important:",
+      "description": "Users emphasize choosing products standardized to either 0.3% hypericin or 2% hyperforin for reliable effects"
+    }
+  ],
+  "related": [
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "FENNEL",
+      "slug": "fennel"
+    },
+    {
+      "name": "HYPERFORIN",
+      "slug": "hyperforin"
+    },
+    {
+      "name": "LIMONENE",
+      "slug": "limonene"
+    }
+  ]
+}

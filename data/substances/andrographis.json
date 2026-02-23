@@ -1,0 +1,143 @@
+{
+  "slug": "andrographis",
+  "url": "https://dopamine.club/substances/andrographis/",
+  "scrapedAt": "2026-02-12T16:05:46.921Z",
+  "title": "ANDROGRAPHIS",
+  "description": "Andrographis paniculata, also known as 'King of Bitters,' is a medicinal plant traditionally used in Ayurvedic and Chinese medicine. Its primary active compound, andrographolide, demonstrates antiviral, anti-inflammatory, and immune-modulating properties by interfering with viral replication pathways and regulating inflammatory cytokines. It is primarily used for respiratory infections, immune support, and inflammatory conditions.",
+  "categories": [
+    "Adaptogen"
+  ],
+  "research": [
+    {
+      "title": "Andrographolide as a potent and promising antiviral agent",
+      "summary": "Andrographolide demonstrates broad antiviral activity with low cytotoxicity, preventing viral spread and transmission by interfering with cell signaling pathways, making it cost-effective and promising for fighting viral infections.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33039055/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mechanistic Evidence of Andrographis paniculata in the Treatment of Acute, Uncomplicated Respiratory Tract Infections",
+      "summary": "Systematic review demonstrates Andrographis has promising clinical effects in treating uncomplicated acute upper respiratory tract infections, with evidence of antimicrobial activity and potential to reduce inappropriate antibiotic use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37765014/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "An Andrographis paniculata extract prevents house dust mite-induced airway inflammation, remodeling, and hyperreactivity",
+      "summary": "Standardized Andrographis extract demonstrated protective anti-inflammatory effects in a mouse asthma model by regulating Th1/Th2 gene expression and preventing airway inflammation and remodeling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37652197/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Herbal Medicines for the Treatment of Active Ulcerative Colitis: A Systematic Review and Meta-Analysis",
+      "summary": "Systematic review evaluating randomized controlled trials of herbal medicines including Andrographis for treating active ulcerative colitis, examining clinical response and remission outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38612967/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases",
+      "summary": "Comprehensive review of CAM treatments including Andrographis for inflammatory bowel diseases, evaluating evidence for efficacy and safety in Crohn's disease and ulcerative colitis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25518050/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The role of dietary supplements in inflammatory bowel disease: a systematic review",
+      "summary": "Systematic review assessing dietary supplements including Andrographis paniculata for IBD management, evaluating evidence for food supplementation effectiveness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27769076/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report Andrographis as highly effective for shortening illness duration and preventing colds/flu, with many describing it as a 'game changer' for immune support. While some users note it should be used acutely rather than long-term, the overwhelming majority report positive experiences with minimal side effects when used appropriately."
+  },
+  "effects": [
+    {
+      "label": "Acute Illness:",
+      "description": "Most effective when taken at first sign of cold/flu symptoms, with users reporting 3-5x daily dosing during active infections for best results"
+    },
+    {
+      "label": "Preventive Use:",
+      "description": "Users report success using it preventively during cold/flu season, though most recommend cycling rather than continuous long-term use"
+    },
+    {
+      "label": "Combination Therapy:",
+      "description": "Often stacked with echinacea, olive leaf extract, vitamin C, and zinc for enhanced immune support during illness"
+    },
+    {
+      "label": "Research Validation:",
+      "description": "Multiple systematic reviews and clinical studies support its antimicrobial and anti-inflammatory properties, particularly for respiratory infections"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Acute Illness:",
+      "description": "500mg taken 3-5 times daily during active cold/flu symptoms for maximum effectiveness"
+    },
+    {
+      "label": "Preventive:",
+      "description": "500mg once or twice daily during high-risk periods or cold/flu season"
+    },
+    {
+      "label": "Standardization:",
+      "description": "Most effective products are standardized to andrographolide content, with research using extracts containing 10-50mg andrographolides"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Users and practitioners suggest not using continuously long-term, instead cycling on/off or using only when needed"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Blood Pressure Effects:",
+      "description": "Can lower blood pressure and heart rate, potentially causing lethargy if used excessively or in combination with other blood pressure-lowering supplements"
+    },
+    {
+      "label": "Acne/Hormonal Effects:",
+      "description": "Some users report forehead acne when taking Andrographis, possibly due to effects on testosterone or hormonal pathways"
+    },
+    {
+      "label": "Bleeding Risk:",
+      "description": "Research notes potential to slow blood clotting, important consideration before surgery or when combined with anticoagulants"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most users report minimal side effects when used at recommended doses, with low cytotoxicity noted in research"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Brand Recommendations:",
+      "description": "Users recommend reputable brands with third-party testing, though availability can vary"
+    },
+    {
+      "label": "Formulations:",
+      "description": "Available as capsules (most common), extracts, and powders, with standardized extracts being preferred for consistent dosing"
+    },
+    {
+      "label": "Price Point:",
+      "description": "Generally affordable, with budget brands like quality brands offering it in clearance sales for $2-3 per bottle, while premium brands like Gaia Herbs are more expensive but highly trusted"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARIKON MUSHROOM",
+      "slug": "agarikon-mushroom"
+    },
+    {
+      "name": "ASHITABA",
+      "slug": "ashitaba"
+    },
+    {
+      "name": "ASTRAGALOSIDE IV",
+      "slug": "astragaloside-iv"
+    },
+    {
+      "name": "ASTRAGALUS",
+      "slug": "astragalus"
+    },
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    }
+  ]
+}

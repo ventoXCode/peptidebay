@@ -1,0 +1,137 @@
+{
+  "slug": "beetroot-extract",
+  "url": "https://dopamine.club/substances/beetroot-extract/",
+  "scrapedAt": "2026-02-12T16:06:03.436Z",
+  "title": "BEETROOT EXTRACT",
+  "description": "Beetroot extract is a concentrated source of dietary nitrate (NO3-) that the body converts to nitric oxide (NO), a crucial molecule for vascular function. It primarily works by increasing nitric oxide bioavailability, which improves blood flow, reduces blood pressure, and enhances oxygen delivery to tissues. Commonly used for cardiovascular health support and athletic performance enhancement.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Inter-individual differences in the blood pressure lowering effects of dietary nitrate: a randomised double-blind placebo-controlled replicate crossover trial",
+      "summary": "Study investigated individual variation in blood pressure response to dietary nitrate supplementation, revealing significant inter-individual differences in how people respond to nitrate's blood pressure lowering effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39992469/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of beetroot inorganic nitrate supplementation on cardiovascular risk factors: A systematic review and meta-regression of randomized controlled trials",
+      "summary": "Meta-analysis found that beetroot inorganic nitrate supplementation significantly improves cardiovascular risk factors through its conversion to nitric oxide in the body.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34119659/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary nitrate provides sustained blood pressure lowering in hypertensive patients: a randomized, phase 2, double-blind, placebo-controlled study",
+      "summary": "Phase 2 clinical trial demonstrated that dietary nitrate from beetroot provides sustained reductions in blood pressure in hypertensive patients over extended periods.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25421976/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of inorganic nitrate and beetroot supplementation on endothelial function: a systematic review and meta-analysis",
+      "summary": "Systematic review found that beetroot supplementation improves endothelial function with effects reduced in older subjects and those with greater cardiometabolic risk, with benefits associated with nitrate dose.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25809302/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "12-week nitrate-rich beetroot extract supplementation improves lower limb vascular function and serum angiogenic potential in postmenopausal women",
+      "summary": "Long-term beetroot extract supplementation over 12 weeks improved microcirculation and lower limb vascular function in postmenopausal women, demonstrating benefits beyond short-term interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39262277/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are genuinely split, with some reporting noticeable cardiovascular and performance benefits while others experience minimal effects or unpleasant side effects. Effectiveness appears highly individual with significant variation in response rates."
+  },
+  "effects": [
+    {
+      "label": "Individual Response Variation:",
+      "description": "Significant inter-individual differences exist in how people respond to beetroot nitrate supplementation"
+    },
+    {
+      "label": "Dose-Dependent Effects:",
+      "description": "Benefits correlate with nitrate dose, with higher doses generally producing stronger vascular effects"
+    },
+    {
+      "label": "Age and Health Status:",
+      "description": "Effects are reduced in older individuals and those with greater cardiometabolic risk factors"
+    },
+    {
+      "label": "Sustained Benefits:",
+      "description": "Long-term supplementation (12+ weeks) appears necessary for maximal vascular and cardiovascular improvements"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "Most studies use 300-500mg of dietary nitrate, equivalent to 500-750ml beetroot juice or concentrated extracts"
+    },
+    {
+      "label": "Timing:",
+      "description": "Effects on blood pressure appear 2-3 hours post-consumption with sustained effects over days to weeks"
+    },
+    {
+      "label": "Duration:",
+      "description": "Short-term studies show acute effects while 12+ week protocols demonstrate cumulative vascular benefits"
+    },
+    {
+      "label": "Form Considerations:",
+      "description": "Concentrated extracts may provide consistent dosing compared to variable nitrate content in whole beetroot juice"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Gastrointestinal Issues:",
+      "description": "Some users report upset stomach, nausea, or digestive discomfort, particularly with higher doses"
+    },
+    {
+      "label": "Beeturia:",
+      "description": "Harmless red/pink discoloration of urine and occasionally stool due to betalain pigments"
+    },
+    {
+      "label": "Individual Tolerance:",
+      "description": "Wide variation in tolerability with some experiencing no side effects and others finding it unpleasant"
+    },
+    {
+      "label": "Blood Pressure Effects:",
+      "description": "Potential for excessive blood pressure lowering in those already on antihypertensive medications"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Beetroot extract and powder supplements are readily available through mainstream retailers and online"
+    },
+    {
+      "label": "Quality Variation:",
+      "description": "Standardized extracts with guaranteed nitrate content are preferable to ensure consistent dosing"
+    },
+    {
+      "label": "Natural Food Source:",
+      "description": "Whole beetroot juice and vegetables provide alternative sources though with variable nitrate content"
+    }
+  ],
+  "related": [
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "THYMUS EXTRACT",
+      "slug": "thymus-extract"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "CORDYCEPIN",
+      "slug": "cordycepin"
+    },
+    {
+      "name": "D-RIBOSE",
+      "slug": "d-ribose"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "apoaequorin",
+  "url": "https://dopamine.club/substances/apoaequorin/",
+  "scrapedAt": "2026-02-12T16:05:50.260Z",
+  "title": "APOAEQUORIN",
+  "description": "Apoaequorin is a recombinant calcium-binding protein originally isolated from the Aequorea victoria jellyfish, marketed as a dietary supplement under the brand name Prevagen. It belongs to the EF-hand calcium-binding protein family and is purported to regulate intracellular calcium levels in neurons, potentially supporting memory and cognitive function. The protein is generally recognized as safe with no reported liver toxicity, though clinical evidence for its cognitive benefits remains limited.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Effects of a Supplement Containing Apoaequorin on Verbal Learning in Older Adults in the Community",
+      "summary": "A randomized, double-blind, placebo-controlled trial of 218 adults aged 40-91 with memory concerns found that 90 days of apoaequorin supplementation showed some improvements in verbal learning and working memory using computerized cognitive assessments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26878676/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pretreatment with apoaequorin protects hippocampal CA1 neurons from oxygen-glucose deprivation",
+      "summary": "In vitro rat brain slice studies demonstrated that intra-hippocampal infusion of apoaequorin dose-dependently protected neurons from ischemic cell death following oxygen-glucose deprivation, suggesting neuroprotective properties through calcium regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24244400/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Apoaequorin differentially modulates fear memory in adult and aged rats",
+      "summary": "Research in rats showed that apoaequorin can modulate fear memory processing differently in adult versus aged animals, supporting the hypothesis that calcium-binding protein administration may influence cognitive function during aging.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32945630/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety assessment of Apoaequorin, a protein preparation: subchronic toxicity study in rats",
+      "summary": "A 90-day toxicity study in rats found no adverse effects from apoaequorin at doses up to 666.7 mg/kg body weight per day, establishing a No Observed Adverse Effect Level (NOAEL) and supporting its safety profile as a dietary supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23470325/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Computational comparison of a calcium-dependent jellyfish protein (apoaequorin) and calmodulin-cholesterol in short-term memory maintenance",
+      "summary": "Computational analysis revealed that apoaequorin contains three calcium-binding sites and four cholesterol-binding domains, with structural similarities to calmodulin that may support its role in memory reconsolidation through calcium-dependent kinase regulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28159636/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Over the Counter Supplements for Memory: A Review of Available Evidence",
+      "summary": "A comprehensive 2023 review of memory supplements found limited robust evidence for most over-the-counter products, highlighting the lack of FDA oversight and the need for critical evaluation of supplement claims including those for apoaequorin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37603263/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is largely skeptical with minimal direct discussion of apoaequorin in the provided user data. The limited references suggest users view it as an unproven supplement with questionable efficacy, and it appears in critical contexts regarding memory supplements lacking strong scientific support."
+  },
+  "effects": [
+    {
+      "label": "Limited Clinical Evidence:",
+      "description": "Only one published human trial with modest results; most evidence comes from animal and in vitro studies"
+    },
+    {
+      "label": "Questionable Bioavailability:",
+      "description": "As a protein supplement, unclear if apoaequorin survives digestion and crosses the blood-brain barrier effectively"
+    },
+    {
+      "label": "Regulatory Scrutiny:",
+      "description": "Has faced FTC complaints regarding advertising claims about memory improvement benefits"
+    },
+    {
+      "label": "Research-Practice Gap:",
+      "description": "Scientific plausibility exists but clinical translation remains poorly demonstrated"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Typically marketed at 10mg per day as found in Prevagen products"
+    },
+    {
+      "label": "Study Protocol:",
+      "description": "The Madison Memory Study used apoaequorin supplementation for 90 days to assess cognitive effects"
+    },
+    {
+      "label": "Safety Range:",
+      "description": "Animal studies showed safety up to 666.7 mg/kg body weight, though human doses are much lower"
+    },
+    {
+      "label": "No Established Optimal Dose:",
+      "description": "Lack of dose-response studies in humans means optimal dosing remains unknown"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reported Toxicity:",
+      "description": "No clinically apparent liver injury or serious adverse effects documented in safety studies"
+    },
+    {
+      "label": "Digestive Tolerance:",
+      "description": "As a protein supplement, generally well-tolerated with few gastrointestinal complaints"
+    },
+    {
+      "label": "Lack of Long-term Data:",
+      "description": "Limited information on effects of extended use beyond 90-day study periods"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Like other supplements, response may vary based on individual calcium metabolism and protein digestion"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter Access:",
+      "description": "Widely available as Prevagen in pharmacies and online without prescription"
+    },
+    {
+      "label": "FDA Status:",
+      "description": "Marketed as dietary supplement without FDA approval for safety or efficacy claims"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Relatively expensive compared to other nootropic supplements given limited evidence base"
+    }
+  ],
+  "related": [
+    {
+      "name": "9-ME-BC",
+      "slug": "9-me-bc"
+    },
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "ADAMAX",
+      "slug": "adamax"
+    },
+    {
+      "name": "ALPHA-GPC",
+      "slug": "alpha-gpc"
+    },
+    {
+      "name": "CDP-CHOLINE",
+      "slug": "cdp-choline"
+    }
+  ]
+}

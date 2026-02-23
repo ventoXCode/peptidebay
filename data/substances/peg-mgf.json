@@ -1,0 +1,131 @@
+{
+  "slug": "peg-mgf",
+  "url": "https://dopamine.club/substances/peg-mgf/",
+  "scrapedAt": "2026-02-12T16:10:32.379Z",
+  "title": "PEG-MGF",
+  "description": "PEG-MGF (Pegylated Mechano Growth Factor) is a synthetic peptide derivative of IGF-1 that has been modified with polyethylene glycol to extend its half-life from 5-7 minutes to 48-72 hours. It is designed to stimulate muscle cell proliferation and satellite cell activation, potentially promoting muscle growth and recovery. PEG-MGF is primarily used in bodybuilding and athletic contexts as a research peptide, though it remains largely unregulated and lacks extensive human clinical trials.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Acne related to dietary supplements",
+      "summary": "Multiple dietary supplements including muscle-building supplements may be contaminated with anabolic-androgenic steroids (AAS) and can cause or aggravate acne, with lesions typically resolving after discontinuation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32941710/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Prohibited Contaminants in Dietary Supplements",
+      "summary": "Poor manufacturing processes and intentional contamination with banned substances continue to occur in dietary supplements, with weight loss and muscle-building supplements posing greater contamination risks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28850291/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Supplements: A Gateway to Doping?",
+      "summary": "Athletes using dietary supplements face significant risk of unintentional doping due to contamination with prohibited substances, often lacking knowledge of supplement regulations and relying on unreliable information sources.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36839238/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Cardiovascular toxicity associated with supplement use",
+      "summary": "Various supplements have been associated with cardiovascular toxicity through adulteration, substitution, or intrinsic toxicity, with mechanisms including CNS stimulation, cardiac ion channel poisoning, and endocrine modulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40960841/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User sentiment is predominantly skeptical and cautious, with experienced biohackers warning against peptide use due to lack of regulation, unknown risks, and marginal benefits that don't justify injectable drugs without medical oversight. The consensus suggests traditional training methods provide 95% of results without the risks."
+  },
+  "effects": [
+    {
+      "label": "Limited Evidence:",
+      "description": "Information is inconsistent and scattered, with no controlled human clinical trials demonstrating clear efficacy"
+    },
+    {
+      "label": "Marginal Benefits:",
+      "description": "Experienced users estimate peptides contribute only 5% beyond proper diet, training, and rest"
+    },
+    {
+      "label": "Contamination Risk:",
+      "description": "Muscle-building supplements frequently contaminated with prohibited substances including anabolic steroids"
+    },
+    {
+      "label": "Risk-Benefit Profile:",
+      "description": "Medical experts strongly advise against use due to unknown long-term risks and minimal proven advantages"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "No Standardized Protocol:",
+      "description": "Lack of clinical research means no established safe or effective dosing guidelines exist"
+    },
+    {
+      "label": "Variable Regimens:",
+      "description": "Online sources provide conflicting information with doses ranging widely without scientific basis"
+    },
+    {
+      "label": "Injection Required:",
+      "description": "Typically administered via subcutaneous injection, adding complexity and infection risk"
+    },
+    {
+      "label": "Medical Oversight Absent:",
+      "description": "Dosing occurs without physician guidance in unregulated environments"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Contamination Effects:",
+      "description": "Risk of acne, hormonal disruption, and cardiovascular toxicity from adulterated products"
+    },
+    {
+      "label": "Unknown Long-Term Risks:",
+      "description": "Potential for irreversible off-target effects similar to IGF-1 compounds"
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Mild irritation at injection sites commonly reported"
+    },
+    {
+      "label": "Regulatory Concerns:",
+      "description": "Sold as research chemicals not approved for human consumption, with significant legal and health uncertainties"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Unregulated Market:",
+      "description": "Sold through online research chemical sources without FDA approval or quality control"
+    },
+    {
+      "label": "Legal Gray Area:",
+      "description": "Marketed for laboratory research only, not intended for human use according to sources"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Significant risk of contamination, underdosing, or complete absence of active ingredient due to lack of oversight"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "CITRULLINE MALATE",
+      "slug": "citrulline-malate"
+    },
+    {
+      "name": "COLOSTRUM",
+      "slug": "colostrum"
+    },
+    {
+      "name": "ECDYSTERONE",
+      "slug": "ecdysterone"
+    },
+    {
+      "name": "EPICATECHIN",
+      "slug": "epicatechin"
+    }
+  ]
+}

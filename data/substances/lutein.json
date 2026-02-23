@@ -1,0 +1,131 @@
+{
+  "slug": "lutein",
+  "url": "https://dopamine.club/substances/lutein/",
+  "scrapedAt": "2026-02-12T16:09:19.103Z",
+  "title": "LUTEIN",
+  "description": "Lutein is a carotenoid antioxidant that accumulates in the macula of the eye and various brain tissues, where it filters blue light and protects against oxidative damage. It is primarily obtained through dietary sources like leafy green vegetables, egg yolks, and supplements, and is well-established for supporting eye health, cognitive function, and reducing inflammation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Dietary Lutein and Cognitive Function in Adults: A Meta-Analysis of Randomized Controlled Trials",
+      "summary": "Meta-analysis found that dietary lutein supplementation significantly improved cognitive function in adults, particularly in domains of memory, processing speed, and verbal fluency.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34641336/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Green leafy vegetable and lutein intake and multiple health outcomes",
+      "summary": "Review of 24 meta-analyses covering 29 health outcomes showed that higher lutein and green leafy vegetable intake was associated with reduced risk of cardiovascular disease, cognitive decline, and age-related macular degeneration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34034049/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Intakes of Lutein, Zeaxanthin, and Other Carotenoids and Age-Related Macular Degeneration During 2 Decades of Prospective Follow-up",
+      "summary": "Large prospective study of over 100,000 participants found that higher dietary lutein and zeaxanthin intake was associated with 40% reduced risk of advanced age-related macular degeneration over 20 years.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26447482/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effects of lutein on cardiometabolic health across the life course: a systematic review and meta-analysis",
+      "summary": "Systematic review found that lutein intake and higher serum concentrations were associated with improved cardiovascular markers, reduced inflammation, and better metabolic health outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26762372/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently report positive experiences with lutein for eye health and cognitive function, with many noting reduced eye strain from screen use and improved visual comfort. The supplement is widely recommended alongside zeaxanthin with minimal side effects reported."
+  },
+  "effects": [
+    {
+      "label": "Eye Health:",
+      "description": "Highly effective for reducing digital eye strain and protecting against age-related macular degeneration, with effects often noticed within weeks"
+    },
+    {
+      "label": "Preventive Care:",
+      "description": "Strong evidence for long-term protective benefits against AMD progression (up to 30% reduction) when used consistently"
+    },
+    {
+      "label": "Brain Health:",
+      "description": "Emerging evidence shows lutein accumulates in brain tissue and may support cognitive function and memory, particularly in aging"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Works best when combined with zeaxanthin and other carotenoids; dietary sources (eggs, leafy greens) may be more effective than isolated supplements"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "10-20mg daily is most commonly recommended and used in research studies"
+    },
+    {
+      "label": "Eye Health Protocols:",
+      "description": "AREDS2 formula uses 10mg lutein with 2mg zeaxanthin for macular degeneration prevention"
+    },
+    {
+      "label": "High Dose:",
+      "description": "Some users and protocols use up to 20-40mg daily for therapeutic purposes without reported adverse effects"
+    },
+    {
+      "label": "Food Sources:",
+      "description": "One egg provides approximately 0.2mg lutein; 1 cup cooked kale provides 20-25mg"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Very few side effects reported by users or in research; considered extremely safe"
+    },
+    {
+      "label": "Skin Yellowing:",
+      "description": "At very high doses (rare), some users report slight yellowing of skin (carotenemia), which is harmless and reversible"
+    },
+    {
+      "label": "Digestive Tolerance:",
+      "description": "Generally well-tolerated with no gastrointestinal issues at recommended doses"
+    },
+    {
+      "label": "No Known Toxicity:",
+      "description": "No upper limit established due to lack of toxicity concerns even at high supplemental doses"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Brands:",
+      "description": "quality brands, quality brands, and quality brands are frequently mentioned as reliable sources for lutein supplements"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Often sold combined with zeaxanthin and sometimes other eye nutrients like astaxanthin or bilberry"
+    },
+    {
+      "label": "Widely Available:",
+      "description": "Easily accessible over-the-counter at most supplement retailers, health food stores, and online"
+    }
+  ],
+  "related": [
+    {
+      "name": "FISETIN",
+      "slug": "fisetin"
+    },
+    {
+      "name": "KAEMPFEROL",
+      "slug": "kaempferol"
+    },
+    {
+      "name": "NADH",
+      "slug": "nadh"
+    },
+    {
+      "name": "NOBILETIN",
+      "slug": "nobiletin"
+    },
+    {
+      "name": "OXALOACETATE",
+      "slug": "oxaloacetate"
+    }
+  ]
+}

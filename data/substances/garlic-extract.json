@@ -1,0 +1,155 @@
+{
+  "slug": "garlic-extract",
+  "url": "https://dopamine.club/substances/garlic-extract/",
+  "scrapedAt": "2026-02-12T16:07:56.799Z",
+  "title": "GARLIC EXTRACT",
+  "description": "Garlic extract is a concentrated supplement derived from garlic (Allium sativum) that contains bioactive compounds including allicin, S-allyl cysteine (SAC), and other organosulfur compounds. It works primarily through enhancing nitric oxide production, improving endothelial function, and providing antioxidant effects. Aged garlic extract (AGE) is commonly used for cardiovascular health, particularly for lowering blood pressure and cholesterol, as well as supporting immune function.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Garlic lowers blood pressure in hypertensive subjects, improves arterial stiffness and gut microbiota: A review and meta-analysis",
+      "summary": "Meta-analysis found that garlic supplements effectively reduced blood pressure in hypertensive patients similarly to first-line anti-hypertensive medications, while also improving arterial stiffness and gut microbiota composition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32010325/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Garlic Lowers Blood Pressure in Hypertensive Individuals, Regulates Serum Cholesterol, and Stimulates Immunity: An Updated Meta-analysis and Review",
+      "summary": "Updated meta-analysis of 20 trials with 970 participants showed garlic reduced systolic blood pressure by 5.1 mm Hg and diastolic by 2.5 mm Hg, with larger reductions (8.7/6.1 mm Hg) in hypertensive subjects, while also lowering cholesterol and enhancing immune function.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26764326/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Aged Garlic Extract Modifies Human Immunity",
+      "summary": "Randomized controlled trial of 120 participants found that 2.56g daily aged garlic extract for 90 days improved γδ-T and natural killer cell proliferation and activation, reducing cold and flu severity during winter season.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26764332/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antihypertensive Effects of an Optimized Aged Garlic Extract in Subjects with Grade I Hypertension and Antihypertensive Drug Therapy",
+      "summary": "Triple-blind controlled trial demonstrated that optimized aged garlic extract with low doses of S-allyl-cysteine effectively lowered blood pressure in Grade I hypertensive patients already on antihypertensive medication.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37612311/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of an Optimized Aged Garlic Extract on Cardiovascular Disease Risk Factors in Moderate Hypercholesterolemic Subjects",
+      "summary": "Randomized crossover trial found that optimized aged garlic extract significantly improved cardiovascular risk factors including cholesterol levels in subjects with moderate hypercholesterolemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35276835/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Aged garlic extract supplement helps relieve acute stress",
+      "summary": "Clinical study demonstrated that aged garlic extract supplementation helped reduce acute stress responses in participants, suggesting potential psychophysiological benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31305351/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Aged garlic extract supplementation modifies inflammation and immunity",
+      "summary": "Research showed that aged garlic extract supplementation reduced obesity-induced chronic inflammation and improved immune function markers in supplemented individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29576354/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Garlic and Heart Disease",
+      "summary": "Comprehensive review of double-blind randomized trials found garlic reduced blood pressure by 7-16/5-9 mm Hg and total cholesterol by 7.4-29.8 mg/dL, with aged garlic extract showing the most consistent cardiovascular benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26764327/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users consistently report benefits for cardiovascular health, immune support, and overall wellness with garlic extract supplementation. The most praised form is aged garlic extract (AGE), which is well-tolerated with minimal side effects compared to raw garlic, though some users note mild digestive issues or garlic odor."
+  },
+  "effects": [
+    {
+      "label": "Blood Pressure Reduction:",
+      "description": "Meta-analyses show 5-9 mm Hg reduction in general population, 8-9 mm Hg in hypertensive patients, comparable to first-line medications"
+    },
+    {
+      "label": "Cholesterol Lowering:",
+      "description": "Reduces total cholesterol by 7-30 mg/dL across multiple studies, with aged garlic extract showing most consistent results"
+    },
+    {
+      "label": "Immune Function:",
+      "description": "90-day supplementation significantly improves immune cell activity and reduces cold/flu symptoms during winter season"
+    },
+    {
+      "label": "Optimal Formulation:",
+      "description": "Aged garlic extract (AGE) demonstrates superior effectiveness and tolerability compared to raw garlic or other preparations"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "2.4-2.56g aged garlic extract daily, typically divided into doses throughout the day"
+    },
+    {
+      "label": "Blood Pressure Management:",
+      "description": "480-960mg aged garlic extract daily for hypertension, with effects appearing within 8-12 weeks"
+    },
+    {
+      "label": "Immune Support:",
+      "description": "2.56g daily for at least 45 days to see improvements in immune cell function"
+    },
+    {
+      "label": "Duration:",
+      "description": "Minimum 8-12 weeks recommended for cardiovascular benefits, 45-90 days for immune effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Issues:",
+      "description": "Mild gastrointestinal discomfort, bloating, or upset stomach reported in some users, especially with higher doses"
+    },
+    {
+      "label": "Garlic Odor:",
+      "description": "Body and breath odor may occur, though aged garlic extract produces less odor than raw garlic"
+    },
+    {
+      "label": "Blood Thinning:",
+      "description": "May enhance anticoagulant effects, requiring caution with blood-thinning medications"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most studies report good safety profile with minimal adverse effects when used appropriately"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in health stores, pharmacies, and online retailers; aged garlic extract (AGE) is the most studied and recommended form"
+    },
+    {
+      "label": "GRAS Status:",
+      "description": "Generally recognized as safe by FDA as a food flavoring and supplement, legally available without prescription"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Look for standardized aged garlic extract products with documented S-allyl cysteine content for consistent effects"
+    }
+  ],
+  "related": [
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "ROSE HIP EXTRACT",
+      "slug": "rose-hip-extract"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BITTER MELON EXTRACT",
+      "slug": "bitter-melon-extract"
+    },
+    {
+      "name": "CINNAMON EXTRACT",
+      "slug": "cinnamon-extract"
+    }
+  ]
+}

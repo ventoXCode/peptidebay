@@ -1,0 +1,155 @@
+{
+  "slug": "sapropterin",
+  "url": "https://dopamine.club/substances/sapropterin/",
+  "scrapedAt": "2026-02-12T16:11:08.545Z",
+  "title": "SAPROPTERIN",
+  "description": "Sapropterin dihydrochloride is a synthetic form of tetrahydrobiopterin (BH4), a cofactor for phenylalanine hydroxylase, the enzyme deficient in phenylketonuria (PKU). It works by enhancing residual enzyme activity to lower blood phenylalanine levels in responsive PKU patients, allowing increased dietary phenylalanine tolerance while maintaining metabolic control. Sapropterin is primarily used as an adjunct to dietary management in PKU patients who respond to BH4 supplementation.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Sapropterin dihydrochloride for phenylketonuria",
+      "summary": "Cochrane systematic review examining the safety and efficacy of sapropterin in lowering blood phenylalanine concentrations in PKU patients, with evidence supporting its use in responsive individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25812600/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy of sapropterin dihydrochloride in increasing phenylalanine tolerance in children with phenylketonuria: a phase III, randomized, double-blind, placebo-controlled study",
+      "summary": "Phase III trial demonstrating that sapropterin 20 mg/kg/day significantly increased phenylalanine tolerance in responsive children with PKU while maintaining adequate blood phenylalanine control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19261295/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Pharmacokinetics of sapropterin in patients with phenylketonuria",
+      "summary": "Study characterizing the pharmacokinetic properties of sapropterin in PKU patients, providing data on absorption, distribution, and dosing optimization for therapeutic use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19026037/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Sapropterin dihydrochloride: a new drug and a new concept in the management of phenylketonuria",
+      "summary": "Review describing sapropterin as a novel therapeutic option for PKU patients, showing durable blood phenylalanine reductions and increased dietary tolerance in responsive individuals, particularly those with milder forms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20830319/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Disorders of biopterin metabolism",
+      "summary": "Comprehensive review of BH4 deficiency disorders explaining how tetrahydrobiopterin serves as an essential cofactor for multiple hydroxylases and how its deficiency leads to neurological deterioration despite phenylalanine control.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19234759/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Genetic etiology and clinical challenges of phenylketonuria",
+      "summary": "Review of PKU genetics and treatment challenges, discussing dietary management alongside tetrahydrobiopterin supplementation as primary therapeutic approaches for preventing neurocognitive and developmental complications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35854334/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutrition in phenylketonuria",
+      "summary": "Overview of nutritional management in PKU describing how tetrahydrobiopterin supplementation complements dietary protein restriction and medical foods to manage phenylalanine levels and prevent brain damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39427751/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Current Advances and Material Innovations in the Search for Novel Treatments of Phenylketonuria",
+      "summary": "Review of PKU treatment innovations highlighting sapropterin as an oral therapy that improves metabolic control and allows increased dietary protein intake in milder PKU forms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38801163/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User experiences with BH4/sapropterin show cautiously positive results for treatment-resistant depression and low neurotransmitter production due to genetic mutations, though users report significant challenges with dosing, absorption, and practical use. Most discussion focuses on off-label use for mood and cognitive issues rather than PKU treatment."
+  },
+  "effects": [
+    {
+      "label": "Genetic Testing Important:",
+      "description": "Effectiveness strongly correlates with identified GCH1 mutations and confirmed BH4 pathway deficiencies through cerebrospinal fluid testing"
+    },
+    {
+      "label": "Responsive Phenotypes:",
+      "description": "Works best in PKU patients with residual enzyme activity and individuals with specific genetic variants affecting neurotransmitter synthesis"
+    },
+    {
+      "label": "Limited General Use:",
+      "description": "Evidence supports use primarily in diagnosed PKU or confirmed BH4 deficiency rather than general supplementation"
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "Case reports show sustained improvement in neurological and psychiatric symptoms when properly dosed for confirmed deficiencies"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "PKU Standard Dose:",
+      "description": "20 mg/kg/day is the established therapeutic dose for responsive phenylketonuria patients"
+    },
+    {
+      "label": "Off-label Lower Doses:",
+      "description": "Users report needing 20mg daily rather than the 100mg prescription tablets, requiring careful dose division"
+    },
+    {
+      "label": "Individual Titration:",
+      "description": "Optimal dose varies significantly based on genetic profile and specific pathway deficiency"
+    },
+    {
+      "label": "Stability Concerns:",
+      "description": "Crushed tablets degrade quickly in oxygen, requiring special storage methods like vacuum sealing or freezing for divided doses"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Dosage Sensitivity:",
+      "description": "Standard 100mg doses reported as excessively high for some users, causing unspecified adverse effects"
+    },
+    {
+      "label": "Absorption Challenges:",
+      "description": "Questions about bioavailability and need for alternative precursors like L-sepiapterin for better blood BH4 elevation"
+    },
+    {
+      "label": "Limited Safety Data:",
+      "description": "Few reports of side effects in user discussions, though clinical trials document generally good tolerability"
+    },
+    {
+      "label": "Interaction Unknowns:",
+      "description": "Users report difficulty finding information on drug interactions, with limited guidance from healthcare providers"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Prescription Required:",
+      "description": "Available as Kuvan brand medication requiring prescription, primarily for diagnosed PKU"
+    },
+    {
+      "label": "High Cost:",
+      "description": "Expensive pharmaceutical product not readily accessible for off-label experimentation"
+    },
+    {
+      "label": "Limited Information:",
+      "description": "Users report difficulty finding practical guidance on interactions, dosing adjustments, and long-term use from medical professionals"
+    }
+  ],
+  "related": [
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "ANANDAMIDE",
+      "slug": "anandamide"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "CHROMIUM PICOLINATE",
+      "slug": "chromium-picolinate"
+    }
+  ]
+}

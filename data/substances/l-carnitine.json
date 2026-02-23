@@ -1,0 +1,156 @@
+{
+  "slug": "l-carnitine",
+  "url": "https://dopamine.club/substances/l-carnitine/",
+  "scrapedAt": "2026-02-12T16:09:02.369Z",
+  "title": "L-CARNITINE",
+  "description": "L-Carnitine is a naturally occurring amino acid derivative that plays a crucial role in energy metabolism by transporting long-chain fatty acids into mitochondria for oxidation. It is synthesized in the body from lysine and methionine and is also obtained through diet, particularly from red meat and dairy products. L-Carnitine is commonly supplemented for weight loss, exercise performance, cognitive function, and cardiovascular health.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of l-carnitine supplementation on weight loss and body composition: A systematic review and meta-analysis of 37 randomized controlled clinical trials with dose-response analysis",
+      "summary": "Meta-analysis of 37 RCTs found that L-carnitine supplementation significantly reduces body weight and BMI, with effects varying by dosage and duration of supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32359762/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "l-Carnitine Supplementation in Recovery after Exercise",
+      "summary": "L-carnitine alleviates muscle injury, reduces markers of cellular damage and free radical formation, and attenuates muscle soreness following exercise by enhancing blood flow and oxygen supply to muscle tissue.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29534031/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of Acute and Chronic Oral l-Carnitine Supplementation on Exercise Performance Based on the Exercise Intensity: A Systematic Review",
+      "summary": "Systematic review examining L-carnitine's effects on exercise performance at different intensities, noting its role in fat metabolism and maintaining mitochondrial acetyl-CoA/CoA ratio.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34959912/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effects of L-Carnitine Supplementation on Weight Loss, Glycemic Control, and Cardiovascular Risk Factors in Patients With Type 2 Diabetes",
+      "summary": "Dose-response meta-analysis showing L-carnitine supplementation improves cardiometabolic markers including weight, glycemic control, and cardiovascular risk factors in type 2 diabetic patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38594107/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Beneficial effects of l-carnitine supplementation for weight management in overweight and obese adults: An updated systematic review and dose-response meta-analysis",
+      "summary": "Updated meta-analysis demonstrates beneficial effects of L-carnitine on weight management in overweight and obese adults, with significant reductions in body weight and BMI.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31743774/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The bright and the dark sides of L-carnitine supplementation: a systematic review",
+      "summary": "Review examining prolonged L-carnitine supplementation (12+ weeks) combined with carbohydrate intake shows metabolic benefits, but notes oral bioavailability challenges and potential side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32958033/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The effect of (L-)carnitine on weight loss in adults: a systematic review and meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis of 9 RCTs (n=911) found L-carnitine supplementation produces modest but statistically significant weight loss in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27335245/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-Carnitine in the Treatment of Psychiatric and Neurological Manifestations: A Systematic Review",
+      "summary": "Comprehensive review examining L-carnitine's therapeutic potential in nervous system disorders, showing variable effects across mental health and neurological conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38674921/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "User experiences with L-carnitine are genuinely divided, with approximately half reporting noticeable benefits for energy, focus, and fat loss when properly dosed (especially injectable), while the other half report minimal effects, unpleasant side effects like fishy body odor, or concerns about oral bioavailability and thyroid inhibition."
+  },
+  "effects": [
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Oral L-carnitine has only ~10% bioavailability; users report needing 4-6g oral doses to match effects of 400-600mg injectable doses"
+    },
+    {
+      "label": "Carbohydrate Synergy:",
+      "description": "Maximum effectiveness requires co-administration with 60g+ simple carbohydrates to drive insulin-mediated uptake into muscle tissue"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Benefits typically require consistent use for 2-4 weeks minimum, with some users reporting negligible effects even after months of supplementation"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness appears highly dependent on baseline diet, exercise routine, and individual metabolism, with deficient individuals seeing greater benefits"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Oral Standard Dose:",
+      "description": "2-4g daily split into doses, taken with carbohydrates; common recommendation is 1-2g twice daily with meals"
+    },
+    {
+      "label": "ALCAR for Cognition:",
+      "description": "500-1000mg acetyl-L-carnitine for cognitive and mood benefits, often taken in the morning"
+    },
+    {
+      "label": "Injectable Alternative:",
+      "description": "400-600mg daily intramuscular injection reported as significantly more effective due to higher bioavailability"
+    },
+    {
+      "label": "Pre-Workout Timing:",
+      "description": "Best results when taken 30-60 minutes before fasted cardio or exercise sessions for fat oxidation benefits"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Fishy Body Odor:",
+      "description": "Most commonly reported side effect is strong fishy smell in sweat and body odor, significant enough to cause many users to discontinue"
+    },
+    {
+      "label": "Thyroid Inhibition:",
+      "description": "Research shows L-carnitine acts as peripheral antagonist of thyroid hormones (T3/T4), potentially problematic for those with thyroid issues"
+    },
+    {
+      "label": "Libido Changes:",
+      "description": "Some users report decreased sex drive, though this effect is not consistently reported across users"
+    },
+    {
+      "label": "TMAO Concerns:",
+      "description": "Oral carnitine can increase TMAO levels, raising cardiovascular risk concerns, leading some to prefer injectable forms"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "L-carnitine is legal and available over-the-counter in various forms including L-carnitine tartrate, ALCAR (acetyl-L-carnitine), and glycine propionyl-L-carnitine"
+    },
+    {
+      "label": "Quality Variations:",
+      "description": "Users emphasize importance of quality brands with third-party testing; some budget brands reportedly have low actual content"
+    },
+    {
+      "label": "Injectable Access:",
+      "description": "Injectable L-carnitine requires prescription or gray-market sourcing, but users report significantly better results despite access challenges"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALPHA LIPOIC ACID",
+      "slug": "alpha-lipoic-acid"
+    },
+    {
+      "name": "BETA-ALANINE",
+      "slug": "beta-alanine"
+    },
+    {
+      "name": "CARNOSINE",
+      "slug": "carnosine"
+    },
+    {
+      "name": "COQ10",
+      "slug": "coq10"
+    },
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    }
+  ]
+}

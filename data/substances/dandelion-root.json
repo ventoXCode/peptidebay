@@ -1,0 +1,137 @@
+{
+  "slug": "dandelion-root",
+  "url": "https://dopamine.club/substances/dandelion-root/",
+  "scrapedAt": "2026-02-12T16:07:02.664Z",
+  "title": "DANDELION ROOT",
+  "description": "Dandelion root (Taraxacum officinale) is a traditional medicinal plant from the Asteraceae family, used for centuries in various cultures for its therapeutic properties. It contains bioactive compounds including sesquiterpenoids, caffeoylquinic acids, and flavonoids that contribute to its pharmacological effects. Primarily recognized for its diuretic, anti-inflammatory, antioxidant, and hepatoprotective properties, dandelion root is commonly used to support liver health, reduce water retention, and aid digestion.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Taraxacum—A review on its phytochemical and pharmacological profile",
+      "summary": "Comprehensive review documenting dandelion's traditional use for dyspepsia, liver complaints, and hepatitis, with evidence supporting diuretic, choleretic, anti-inflammatory, anti-oxidative, anti-carcinogenic, analgesic, anti-hyperglycemic, anti-coagulatory and prebiotic effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16920509/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Common dandelion: a review of its botanical, phytochemical and pharmacological profiles",
+      "summary": "Scientific investigation confirms dandelion's pharmacological potential with demonstrated antioxidant, antibacterial, anti-inflammatory, antiviral, cytotoxic, diuretic and hepatoprotective properties attributed to sesquiterpenoids, caffeoylquinic acids and flavonoids.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31270640/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dandelion (Taraxacum Genus): A Review of Chemical Constituents and Pharmacological Effects",
+      "summary": "Review of dandelion's chemical composition and therapeutic effects, confirming its traditional medicinal uses and identifying key bioactive compounds responsible for its health benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37446730/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The phytochemical and pharmacological profile of dandelion",
+      "summary": "Systematic analysis of dandelion's phytochemical constituents and their associated pharmacological activities, supporting its use in traditional medicine systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39180794/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dandelion (Taraxacum officinale): A Promising Source of Nutritional and Therapeutic Compounds",
+      "summary": "Evaluation of dandelion as a source of nutritional and therapeutic compounds, highlighting its potential applications in nutraceutical and phytopharmaceutical industries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38425109/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User feedback indicates limited effectiveness for dandelion root, with one user specifically mentioning trying it for bloating without success. The compound receives minimal positive discussion in biohacking communities compared to other supplements, and appears to be abandoned in favor of more effective alternatives."
+  },
+  "effects": [
+    {
+      "label": "Limited User Success:",
+      "description": "One user specifically reported trying dandelion root for bloating without satisfactory results, leading to exploration of other options"
+    },
+    {
+      "label": "Traditional vs Modern Use:",
+      "description": "Strong historical documentation of traditional medicinal use, but limited contemporary user validation in biohacking communities"
+    },
+    {
+      "label": "Research-Practice Gap:",
+      "description": "Scientific literature supports various pharmacological effects, but practical user experiences suggest modest real-world benefits"
+    },
+    {
+      "label": "Alternative Preference:",
+      "description": "Users appear to favor other supplements and interventions over dandelion root for similar health goals"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dosing:",
+      "description": "Research reviews discuss various preparations including extracts, teas, and capsules, though specific optimal dosing is not well-established in user communities"
+    },
+    {
+      "label": "Form Variations:",
+      "description": "Available as dried root, liquid extracts, capsules, and teas, with traditional preparations varying widely in concentration"
+    },
+    {
+      "label": "Duration Considerations:",
+      "description": "Limited user feedback on long-term use protocols or cycling recommendations"
+    },
+    {
+      "label": "Combination Approaches:",
+      "description": "Often used as part of broader herbal or supplement protocols rather than as a standalone intervention"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Diuretic Effects:",
+      "description": "Increased urination frequency, which may be undesirable for some users and require attention to hydration"
+    },
+    {
+      "label": "Digestive Sensitivity:",
+      "description": "Potential for mild gastrointestinal upset in some individuals, particularly with higher doses"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Possible allergic responses in individuals sensitive to plants in the Asteraceae family"
+    },
+    {
+      "label": "Limited Severe Effects:",
+      "description": "Generally well-tolerated with minimal serious adverse effects reported in research or user experiences"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Readily accessible as an over-the-counter supplement in various forms including capsules, teas, and extracts"
+    },
+    {
+      "label": "Quality Variability:",
+      "description": "As with many herbal supplements, product quality and active compound concentrations may vary significantly between manufacturers"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Fully legal and unregulated as a dietary supplement in most jurisdictions, with no prescription required"
+    }
+  ],
+  "related": [
+    {
+      "name": "BONE BROTH PROTEIN",
+      "slug": "bone-broth-protein"
+    },
+    {
+      "name": "BROMELAIN",
+      "slug": "bromelain"
+    },
+    {
+      "name": "CARVACROL",
+      "slug": "carvacrol"
+    },
+    {
+      "name": "CHOLECALCIFEROL",
+      "slug": "cholecalciferol"
+    },
+    {
+      "name": "COLCHICINE",
+      "slug": "colchicine"
+    }
+  ]
+}

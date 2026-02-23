@@ -1,0 +1,125 @@
+{
+  "slug": "menaquinone-7",
+  "url": "https://dopamine.club/substances/menaquinone-7/",
+  "scrapedAt": "2026-02-12T16:09:31.429Z",
+  "title": "MENAQUINONE-7",
+  "description": "Menaquinone-7 (MK-7) is a long-chain form of vitamin K2 with a half-life of approximately 3.5 days, primarily involved in activating proteins that regulate calcium metabolism and blood clotting. It functions as a cofactor for carboxylase enzymes that activate osteocalcin (for bone mineralization) and matrix Gla-protein (MGP) to prevent arterial calcification. MK-7 is naturally found in fermented foods like natto and is commonly supplemented alongside vitamin D3 to optimize calcium distribution in the body.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Three-year low-dose menaquinone-7 supplementation helps decrease bone loss in healthy postmenopausal women",
+      "summary": "Low-dose MK-7 supplementation significantly decreased age-related decline in bone mineral density and bone strength in postmenopausal women over three years, suggesting it may help prevent osteoporosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23525894/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Menaquinone-7 supplementation improves arterial stiffness in healthy postmenopausal women",
+      "summary": "Daily MK-7 supplementation for one year improved arterial stiffness and vascular health parameters in healthy postmenopausal women, demonstrating cardiovascular benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25694037/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Low-dose menaquinone-7 supplementation improved extra-hepatic vitamin K status, but had no effect on thrombin generation in healthy subjects",
+      "summary": "MK-7 supplementation dose-dependently improved vitamin K status and carboxylation of extra-hepatic vitamin K-dependent proteins without affecting blood coagulation in healthy individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22289649/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally acknowledge the theoretical benefits of MK-7 for bone and cardiovascular health, particularly when paired with vitamin D3, but many report uncertainty about whether it's actually working and express concerns about dosing, form quality, and occasional side effects like insomnia or tooth pain."
+  },
+  "effects": [
+    {
+      "label": "Evidence-Based Benefits:",
+      "description": "Research shows clear improvements in bone density and arterial stiffness in postmenopausal women, though benefits in healthy young adults are less established"
+    },
+    {
+      "label": "Long Half-Life:",
+      "description": "MK-7's 3.5-day half-life allows for every-other-day dosing and steady-state levels after approximately 17.5 days of consistent use"
+    },
+    {
+      "label": "Vitamin D Synergy:",
+      "description": "Most commonly used alongside vitamin D3 supplementation to optimize calcium metabolism, though the necessity in healthy individuals is debated"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Users frequently question whether supplements contain the bioactive all-trans form versus synthetic cis-isomers, with research showing many products contain significant impurities"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "100-200 mcg daily is the most common supplementation range, with research using 180 mcg showing benefits"
+    },
+    {
+      "label": "Alternate Day Dosing:",
+      "description": "Due to long half-life, some users take MK-7 every other day to reduce cost while maintaining adequate levels"
+    },
+    {
+      "label": "High-Dose Protocols:",
+      "description": "Some formulations contain 1,500+ mcg combined with MK-4, though necessity of such high doses is questioned"
+    },
+    {
+      "label": "Vitamin D Ratio:",
+      "description": "Users commonly pair 100-200 mcg MK-7 with 4,000-10,000 IU vitamin D3, though optimal ratios are debated"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Insomnia:",
+      "description": "Multiple users report sleep disturbances and inability to sleep when taking MK-7, particularly at night or with certain formulations"
+    },
+    {
+      "label": "Dental Pain:",
+      "description": "Some users experience tooth sensitivity or pain with specific high-dose or multi-menaquinone formulations"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Side effects appear highly individual, with some users tolerating certain brands while experiencing issues with others"
+    },
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "When side effects occur, they typically resolve within days of discontinuation, and most users report no adverse effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Brands:",
+      "description": "quality brands, quality brands, quality brands, quality brands, and quality brands are frequently mentioned brands with varying user preferences"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "MK-7 from natto is preferred by some users, while others experience better tolerance with synthetic forms; oil-based capsules versus tablets may affect absorption and tolerability"
+    },
+    {
+      "label": "Quality Verification:",
+      "description": "Users express concern about limited third-party testing availability (e.g., Labdoor) and the presence of cis-isomer impurities in many commercial products"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    }
+  ]
+}

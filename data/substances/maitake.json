@@ -1,0 +1,135 @@
+{
+  "slug": "maitake",
+  "url": "https://dopamine.club/substances/maitake/",
+  "scrapedAt": "2026-02-12T16:09:26.183Z",
+  "title": "MAITAKE",
+  "description": "Maitake (Grifola frondosa) is a medicinal mushroom rich in beta-glucan polysaccharides, particularly D-fraction and MD-fraction, which modulate immune function and support metabolic health. Research demonstrates its effects on immune system enhancement, blood sugar regulation, cardiovascular health, and potential anti-cancer properties through immunomodulation and antioxidant mechanisms.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Bioactive Ingredients and Medicinal Values of Grifola frondosa (Maitake)",
+      "summary": "Comprehensive review identifying beta-glucans, polysaccharides, and other bioactive compounds in Maitake that demonstrate immune-modulating, anti-tumor, antioxidant, and metabolic health benefits across multiple research studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33466429/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Positive modulation of a new reconstructed human gut microbiota by Maitake extract helpfully boosts the intestinal environment in vitro",
+      "summary": "Study found Maitake extract positively modulated gut microbiota, promoting beneficial bacteria (Lactobacillus and Bifidobacterium), producing beneficial metabolites like butyrate and propionate, and generating anti-inflammatory and antioxidant effects in intestinal cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38603593/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Maitake Mushroom Extracts Ameliorate Progressive Hypertension and Other Chronic Metabolic Perturbations in Aging Female Rats",
+      "summary": "Research demonstrated that Maitake extracts improved blood pressure, metabolic markers, and reduced age-related chronic health perturbations in aging rats, suggesting cardiovascular and metabolic benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20567593/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Maitake mushroom (Grifola frondosa): systematic review by the natural standard research collaboration",
+      "summary": "Systematic review evaluating clinical evidence for Maitake's traditional uses including immune support, cancer adjuvant therapy, and metabolic health, finding promising but limited human clinical data requiring further research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19476741/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users incorporate Maitake primarily as part of broader health and longevity protocols, with general positive sentiment about its immune and metabolic benefits. Most commonly taken in mushroom blends rather than as a standalone supplement, with no significant negative reports."
+  },
+  "effects": [
+    {
+      "label": "Complementary Role:",
+      "description": "Most effective when used as part of comprehensive health protocols including diet, exercise, and other supplements rather than as standalone intervention"
+    },
+    {
+      "label": "Long-term Benefits:",
+      "description": "Users incorporate Maitake for sustained health optimization and longevity rather than acute effects, with benefits accumulating over time"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Commonly stacked with other medicinal mushrooms (Reishi, Lion's Mane, Cordyceps, Chaga) in multi-mushroom formulations for broader benefits"
+    },
+    {
+      "label": "Research Limitations:",
+      "description": "While in vitro and animal studies show promising results, human clinical data remains limited according to systematic reviews"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Extract Dosing:",
+      "description": "Commonly found in mushroom complex supplements at 50-100mg per serving as part of multi-mushroom blends totaling several grams"
+    },
+    {
+      "label": "Whole Food Form:",
+      "description": "Bryan Johnson's protocol uses 50g of fresh Shiitake or Maitake mushrooms as part of daily vegetable meals"
+    },
+    {
+      "label": "Host Defense Blends:",
+      "description": "Popular brand formulations typically contain Maitake as one component of 6-7 mushroom species in standardized extracts"
+    },
+    {
+      "label": "Daily Consistency:",
+      "description": "Users report taking as part of daily supplement routines rather than cycling, integrated into long-term health protocols"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Reports:",
+      "description": "No significant side effects specifically attributed to Maitake mentioned in user discussions"
+    },
+    {
+      "label": "Digestive Tolerance:",
+      "description": "Generally well-tolerated when consumed as part of food or standardized extracts"
+    },
+    {
+      "label": "Interaction Potential:",
+      "description": "Users taking multiple supplements should be aware of potential interactions, though none specifically noted for Maitake"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "General supplement industry issues with proprietary blends containing minimal effective doses rather than Maitake-specific problems"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Brands:",
+      "description": "Host Defense is frequently mentioned brand for mushroom complex supplements containing Maitake"
+    },
+    {
+      "label": "Multiple Forms:",
+      "description": "Available as fresh mushrooms for culinary use, dried powder, and standardized extracts in capsule form"
+    },
+    {
+      "label": "Supplement Blends:",
+      "description": "Most commonly found combined with other medicinal mushrooms rather than sold as single-ingredient Maitake products"
+    },
+    {
+      "label": "Quality Verification:",
+      "description": "Users recommend researching brands for third-party testing and avoiding suspiciously cheap products from unverified sources"
+    }
+  ],
+  "related": [
+    {
+      "name": "AGARICUS BLAZEI",
+      "slug": "agaricus-blazei"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ASTAXANTHIN",
+      "slug": "astaxanthin"
+    },
+    {
+      "name": "ASTRAGALUS POLYSACCHARIDES",
+      "slug": "astragalus-polysaccharides"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

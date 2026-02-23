@@ -1,0 +1,159 @@
+{
+  "slug": "wolverine-stack",
+  "url": "https://dopamine.club/substances/wolverine-stack/",
+  "scrapedAt": "2026-02-12T16:13:09.362Z",
+  "title": "WOLVERINE STACK",
+  "description": "The Wolverine Stack is a popular peptide combination of BPC-157 and TB-500 used by athletes and biohackers for accelerated injury recovery and tissue healing. BPC-157 (Body Protection Compound) promotes angiogenesis, collagen formation, and growth factor modulation, while TB-500 (Thymosin Beta-4) enhances cell migration, reduces inflammation, and supports tissue regeneration. Note: While both peptides have been studied individually, no published research has tested them in combination - the Wolverine Stack protocol is entirely community-driven and anecdotal.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Gastric pentadecapeptide body protection compound BPC 157 and its role in accelerating musculoskeletal soft tissue healing",
+      "summary": "BPC-157 shows promise for accelerating healing of musculoskeletal soft tissue injuries through multiple mechanisms including angiogenesis and growth factor modulation, though clinical evidence remains limited to animal models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30915550/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration",
+      "summary": "BPC-157 significantly accelerated tendon healing in rat models by enhancing fibroblast outgrowth, cell survival under oxidative stress, and promoting cell migration in dose-dependent manner.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21030672/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Stable Gastric Pentadecapeptide BPC 157 and Wound Healing",
+      "summary": "BPC-157 demonstrated broad wound-healing effects across various tissue types including skin wounds, deep burns, and diabetic ulcers, with favorable safety profile and no reported toxicity at therapeutic doses in trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34267654/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "BPC 157 and blood vessels",
+      "summary": "BPC-157 acts as a potent angiomodulatory agent, optimizing vascular response to injury through multiple pathways including NO, VEGF, and FAK, leading to enhanced healing processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23782145/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians",
+      "summary": "Review of therapeutic peptides including BPC-157 for orthopaedic applications highlights growing market interest but emphasizes the need for more clinical evidence before widespread adoption in sports medicine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41476424/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+      "summary": "Peptides like BPC-157 show promise in modulating molecular pathways central to tissue regeneration and inflammation resolution, though clinical translation remains limited by lack of robust human trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41490200/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The anti-nociceptive effect of BPC-157 on the incisional pain model in rats",
+      "summary": "BPC-157 demonstrated significant anti-nociceptive effects in rat incisional pain models, suggesting potential applications for post-surgical or procedural pain management.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35449779/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Engineered Tandem Thymosin Peptide Promotes Corneal Wound Healing",
+      "summary": "Engineered thymosin beta-4 (TB-500) peptide significantly promotes wound healing through enhanced cell migration and tissue regeneration mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41235866/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Injectable Thymosin β4-Modified Hyaluronic Acid Hydrogel for Stem Cell Homing and Cranial Repair",
+      "summary": "TB-500 modified hydrogels promote stem cell homing and coupled neuronic-angiogenic-osteogenic repair, demonstrating multi-tissue regenerative potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40528381/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tβ4-Engineered Extracellular Vesicles Rescue Cell Senescence for Diabetic Wound Healing",
+      "summary": "Thymosin beta-4 engineered vesicles effectively rescue cellular senescence and accelerate diabetic wound healing through microneedle patch delivery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40279568/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "User sentiment is genuinely mixed with some reporting significant benefits for injury recovery and tissue healing, while others express concern about lack of regulation, unclear sourcing, and limited human clinical data. Many users note it's expensive and experimental but those who use it tend to report positive recovery outcomes."
+  },
+  "effects": [
+    {
+      "label": "No Combined Studies:",
+      "description": "No published research has tested BPC-157 and TB-500 together - each peptide has only been studied individually, making the Wolverine Stack entirely based on anecdotal community reports"
+    },
+    {
+      "label": "Animal vs Human Data:",
+      "description": "Strong preclinical evidence in animal models for both peptides separately, but limited human clinical trials make effectiveness in humans less certain"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Users report highly variable responses, with some experiencing dramatic healing benefits while others notice minimal effects"
+    },
+    {
+      "label": "Injury-Specific Results:",
+      "description": "Appears most effective for specific musculoskeletal injuries (tendon, ligament damage) rather than general wellness enhancement"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Common Injectable Dose:",
+      "description": "Research and anecdotal reports suggest 200-500mcg daily via subcutaneous or intramuscular injection"
+    },
+    {
+      "label": "Oral Administration:",
+      "description": "Some users take oral forms though absorption and bioavailability are questionable compared to injectable"
+    },
+    {
+      "label": "Cycle Length:",
+      "description": "Typical usage ranges from 4-8 weeks for acute injuries, with some extending to 12 weeks for chronic conditions"
+    },
+    {
+      "label": "Dosing Frequency:",
+      "description": "Most protocols involve once or twice daily administration for consistent tissue exposure"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Generally Well-Tolerated:",
+      "description": "Most research and user reports indicate minimal side effects at therapeutic doses, with LD50 not achieved in animal studies"
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Users report occasional mild irritation, redness, or discomfort at injection sites"
+    },
+    {
+      "label": "Unknown Long-Term Effects:",
+      "description": "Lack of long-term human studies means potential chronic use risks are unknown"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Unregulated market leads to concerns about peptide purity, potency, and contamination from various sources"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Not FDA Approved:",
+      "description": "BPC-157 and similar peptides are not approved for human therapeutic use by FDA or most regulatory agencies"
+    },
+    {
+      "label": "Research Chemical Status:",
+      "description": "Often sold as research chemicals with disclaimers against human consumption, creating legal gray area"
+    },
+    {
+      "label": "Online Sourcing:",
+      "description": "Primarily available through online peptide vendors with variable quality control and no regulatory oversight"
+    },
+    {
+      "label": "Cost Considerations:",
+      "description": "Users report significant expense ($50-200+ per month) depending on source, dose, and cycle length"
+    }
+  ],
+  "related": [
+    {
+      "name": "BPC-157",
+      "slug": "bpc-157"
+    },
+    {
+      "name": "TB-500",
+      "slug": "tb-500"
+    }
+  ]
+}

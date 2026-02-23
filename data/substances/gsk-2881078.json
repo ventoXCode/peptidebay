@@ -1,0 +1,103 @@
+{
+  "slug": "gsk-2881078",
+  "url": "https://dopamine.club/substances/gsk-2881078/",
+  "scrapedAt": "2026-02-12T16:08:16.197Z",
+  "title": "GSK-2881078",
+  "description": "GSK-2881078 is a nonsteroidal selective androgen receptor modulator (SARM) designed to target the androgen receptor with high affinity while minimizing impact on sebaceous glands and the prostate. It was developed to treat muscle wasting and functional limitations associated with chronic illness by promoting anabolic activity in skeletal muscle.",
+  "categories": [
+    "SARM"
+  ],
+  "research": [
+    {
+      "title": "GSK2881078, a SARM, Produces Dose-Dependent Increases in Lean Mass in Healthy Older Men and Women",
+      "summary": "This study demonstrated that GSK2881078 significantly increases lean body mass in a dose-dependent manner over 28 days in healthy older subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29982690/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety, pharmacokinetics and pharmacological effects of the selective androgen receptor modulator, GSK2881078, in healthy men and postmenopausal women",
+      "summary": "Clinical trials established that the compound is well-tolerated at low doses and effectively increases muscle mass without significant androgenic side effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28449232/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally acknowledge its potency for lean mass gains, but many express concern over its lengthy half-life and the potential for severe testosterone suppression compared to older SARMs."
+  },
+  "effects": [
+    {
+      "label": "Potency:",
+      "description": "Regarded as highly potent per milligram, often requiring much smaller doses than Ostarine or LGD-4033."
+    },
+    {
+      "label": "Nitrogen Retention:",
+      "description": "Highly effective at maintaining a positive nitrogen balance to prevent muscle breakdown."
+    },
+    {
+      "label": "Dose-Response:",
+      "description": "Shows a clear linear relationship between dosage and the amount of lean mass gained."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low Dose:",
+      "description": "0.5mg to 1mg is often cited for beginners due to the compound's high affinity and long half-life."
+    },
+    {
+      "label": "Standard Range:",
+      "description": "Most clinical evaluations and advanced users stay within the 2mg to 4mg per day range."
+    },
+    {
+      "label": "Half-Life Caution:",
+      "description": "Because it has a very long half-life, users note that steady-state levels take a long time to reach and even longer to clear."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hormonal Suppression:",
+      "description": "Significant reduction in endogenous testosterone and HDL cholesterol levels."
+    },
+    {
+      "label": "Liver Enzymes:",
+      "description": "Potential for mild to moderate elevations in ALT/AST levels during cycles."
+    },
+    {
+      "label": "SHBG Reduction:",
+      "description": "Often leads to a sharp decrease in Sex Hormone-Binding Globulin, increasing free hormone levels."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Only:",
+      "description": "Not approved by the FDA for human consumption and is sold primarily as a research chemical."
+    },
+    {
+      "label": "WADA Status:",
+      "description": "Explicitly banned by the World Anti-Doping Agency for use in competitive sports."
+    }
+  ],
+  "related": [
+    {
+      "name": "ANDARINE (S-4)",
+      "slug": "andarine-s-4"
+    },
+    {
+      "name": "BMS-564929",
+      "slug": "bms-564929"
+    },
+    {
+      "name": "GLPG-0492",
+      "slug": "glpg-0492"
+    },
+    {
+      "name": "GSK-2849466",
+      "slug": "gsk-2849466"
+    },
+    {
+      "name": "GSK-971086",
+      "slug": "gsk-971086"
+    }
+  ]
+}

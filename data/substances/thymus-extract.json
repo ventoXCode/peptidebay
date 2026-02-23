@@ -1,0 +1,137 @@
+{
+  "slug": "thymus-extract",
+  "url": "https://dopamine.club/substances/thymus-extract/",
+  "scrapedAt": "2026-02-12T16:11:42.516Z",
+  "title": "THYMUS EXTRACT",
+  "description": "Thymus Extract is a biological preparation derived from the thymus gland (typically from bovine sources) containing thymic peptides and hormones that regulate immune system function. These compounds, including thymosin alpha-1, thymosin beta-4, thymulin, and thymopoietin, stimulate T-cell differentiation and maturation, modulate natural killer cells and dendritic cells, and induce proinflammatory cytokine release. Thymus extracts are used to enhance immune function, particularly in cases of immunodeficiency, chronic infections, and as supportive therapy in cancer treatment.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Functional recovery following traumatic brain injury in rats is enhanced by oral supplementation with bovine thymus extract",
+      "summary": "Supplementation with bovine thymus extract significantly improved functional recovery and reduced neurological deficits in rats following traumatic brain injury, demonstrating potential neuroprotective and regenerative properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38315443/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of L-Carnitine and/or Calf Thymus Gland Extract Supplementation on Immunity, Antioxidant, Duodenal Histomorphometric, Growth, and Economic Performance of Japanese Quail",
+      "summary": "Calf thymus extract supplementation significantly improved immune parameters including phagocytic activity, lymphocyte percentage, and plasma glutathione levels while reducing mortality rates and improving growth performance in quail.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34822624/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Nutritional supplement containing a nuclear fraction of bovine thymus gland increases the circulating levels of spermidine",
+      "summary": "Bovine thymus gland supplementation effectively elevated circulating levels of spermidine, a polyamine associated with longevity and prevention of age-related diseases, demonstrating better bioavailability than plant-based sources.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40924744/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Thymus-neuroendocrine-liver pathway",
+      "summary": "Thymus extract supplementation restored liver antioxidant status, membrane function, and normalized hormonal profiles in thymectomized rats, suggesting the thymus influences liver function through neuroendocrine pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8145662/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of ginger extract and/or propolis extract on immune system parameters of vaccinated broilers",
+      "summary": "Natural extracts including thymus-supportive compounds improved immune responses, increased phagocytic activity, and enhanced antibody production when combined with vaccination protocols.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37506621/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User discussion of thymus extract is limited, with most references appearing in broader supplement stacks rather than standalone use. The compound is rarely mentioned directly by Reddit users, though scientific evidence supports immune-enhancing properties with minimal side effects reported in clinical studies."
+  },
+  "effects": [
+    {
+      "label": "Clinical Validation:",
+      "description": "Multiple animal and human studies demonstrate consistent immune-enhancing effects with improvements in white blood cell function and antibody production"
+    },
+    {
+      "label": "Therapeutic Safety:",
+      "description": "Long-term use shows no significant side effects in clinical trials, with thymus preparations considered safe even with extended supplementation"
+    },
+    {
+      "label": "Bioavailability:",
+      "description": "Oral administration of predigested thymus extracts shows effective absorption and systemic effects, particularly for nuclear fractions and polypeptide-rich preparations"
+    },
+    {
+      "label": "Broad Applications:",
+      "description": "Effective for preventing recurrent respiratory infections in children, supporting cancer patients with chemotherapy-induced leukopenia, and treating viral infections like hepatitis B"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Extract:",
+      "description": "Typical dosing ranges from 500-1000mg daily of thymus glandular extract, though specific preparations vary in concentration"
+    },
+    {
+      "label": "Polypeptide Preparations:",
+      "description": "Predigested thymus extract rich in thymus-derived polypeptides shows effectiveness at lower doses when standardized for active peptide content"
+    },
+    {
+      "label": "Timing:",
+      "description": "Often taken with meals for better absorption, particularly important for fat-soluble components and nuclear fractions"
+    },
+    {
+      "label": "Duration:",
+      "description": "Clinical studies show benefits with both short-term use (weeks to months) and long-term supplementation without tolerance development"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Adverse Effects:",
+      "description": "Clinical studies consistently report thymus extracts as well-tolerated with very few side effects even during long-term use"
+    },
+    {
+      "label": "Allergic Reactions:",
+      "description": "Rare cases of allergic reactions possible in individuals sensitive to bovine proteins or glandular preparations"
+    },
+    {
+      "label": "Immune Overstimulation:",
+      "description": "Theoretical concern about excessive immune activation in individuals with autoimmune conditions, though clinical evidence is limited"
+    },
+    {
+      "label": "Source Quality:",
+      "description": "Contamination concerns with glandular products emphasize importance of choosing pharmaceutical-grade thymus extracts from reputable sources"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Supplement Market:",
+      "description": "Available as glandular capsules, standardized extracts, and various proprietary formulations through health food stores and online retailers"
+    },
+    {
+      "label": "Source Variation:",
+      "description": "Quality varies significantly between products; pharmaceutical-grade preparations from New Zealand or European bovine sources generally preferred for safety and potency"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Classified as dietary supplements in most countries with less stringent regulation than pharmaceuticals, emphasizing importance of third-party testing and quality verification"
+    }
+  ],
+  "related": [
+    {
+      "name": "POMEGRANATE EXTRACT",
+      "slug": "pomegranate-extract"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    },
+    {
+      "name": "CINNAMON EXTRACT",
+      "slug": "cinnamon-extract"
+    },
+    {
+      "name": "GARLIC EXTRACT",
+      "slug": "garlic-extract"
+    },
+    {
+      "name": "GRAPE SEED EXTRACT",
+      "slug": "grape-seed-extract"
+    }
+  ]
+}

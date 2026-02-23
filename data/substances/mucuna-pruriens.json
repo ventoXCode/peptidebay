@@ -1,0 +1,112 @@
+{
+  "slug": "mucuna-pruriens",
+  "url": "https://dopamine.club/substances/mucuna-pruriens/",
+  "scrapedAt": "2026-02-12T16:09:38.548Z",
+  "title": "MUCUNA PRURIENS",
+  "description": "Mucuna pruriens (velvet bean) is a tropical legume that naturally contains L-DOPA, the direct precursor to dopamine. It's used for mood support, testosterone enhancement, and has traditional use in Ayurvedic medicine for vitality and reproductive health.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Mucuna pruriens and male fertility",
+      "summary": "Research shows Mucuna improves sperm quality and testosterone levels in infertile men.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18973898/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "L-DOPA content and effects",
+      "summary": "Studies demonstrate Mucuna pruriens effectively raises dopamine levels through its L-DOPA content.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15548480/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 70,
+    "summary": "Users report improved mood, motivation, and libido. Popular for natural dopamine support. Effects can be strong; some experience overstimulation."
+  },
+  "effects": [
+    {
+      "label": "Natural L-DOPA Source:",
+      "description": "Effective dopamine precursor."
+    },
+    {
+      "label": "Variable Potency:",
+      "description": "Standardized extracts most reliable."
+    },
+    {
+      "label": "Synergy:",
+      "description": "Works well with other adaptogens."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "100-500mg standardized extract (15-20% L-DOPA)."
+    },
+    {
+      "label": "Cycling:",
+      "description": "Many cycle to prevent tolerance."
+    },
+    {
+      "label": "Morning Dosing:",
+      "description": "Best taken in morning due to stimulating effects."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Overstimulation:",
+      "description": "Can cause agitation if dopamine raises too much."
+    },
+    {
+      "label": "Nausea:",
+      "description": "Possible, especially on empty stomach."
+    },
+    {
+      "label": "Insomnia:",
+      "description": "May disrupt sleep if taken late."
+    },
+    {
+      "label": "Drug Interactions:",
+      "description": "Avoid with MAOIs and dopamine medications."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Found in supplement stores and online."
+    },
+    {
+      "label": "Various Forms:",
+      "description": "Whole bean powder, standardized extracts."
+    },
+    {
+      "label": "Affordable:",
+      "description": "Reasonably priced supplement."
+    }
+  ],
+  "related": [
+    {
+      "name": "BLACK COHOSH",
+      "slug": "black-cohosh"
+    },
+    {
+      "name": "CHASTE TREE (VITEX)",
+      "slug": "chaste-tree-vitex"
+    },
+    {
+      "name": "DONG QUAI",
+      "slug": "dong-quai"
+    },
+    {
+      "name": "FADOGIA AGRESTIS",
+      "slug": "fadogia-agrestis"
+    },
+    {
+      "name": "FENUGREEK",
+      "slug": "fenugreek"
+    }
+  ]
+}

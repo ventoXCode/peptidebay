@@ -1,0 +1,167 @@
+{
+  "slug": "tesamorelin",
+  "url": "https://dopamine.club/substances/tesamorelin/",
+  "scrapedAt": "2026-02-12T16:11:38.297Z",
+  "title": "TESAMORELIN",
+  "description": "Tesamorelin is a synthetic growth hormone-releasing hormone (GHRH) analog that stimulates the pituitary gland to produce and release endogenous growth hormone, which in turn increases IGF-1 levels. It is FDA-approved specifically for reducing excess abdominal visceral fat in HIV-infected patients with lipodystrophy and has been studied for its effects on non-alcoholic fatty liver disease (NAFLD), body composition, and metabolic markers.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Effects of tesamorelin on non-alcoholic fatty liver disease in HIV: a randomised, double-blind, multicentre trial",
+      "summary": "A randomized controlled trial demonstrated that tesamorelin significantly reduced liver fat and prevented fibrosis progression in HIV-associated NAFLD over one year of treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31611038/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of tesamorelin on hepatic transcriptomic signatures in HIV-associated NAFLD",
+      "summary": "Research showed that tesamorelin reduced liver fat and prevented fibrosis progression while positively affecting hepatic gene expression patterns in people with HIV and NAFLD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32701508/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of tesamorelin (TH9507), a growth hormone-releasing factor analog, in human immunodeficiency virus-infected patients with excess abdominal fat: a pooled analysis of two multicenter, double-blind placebo-controlled phase 3 trials with safety extension data",
+      "summary": "Pooled analysis of 806 HIV patients showed tesamorelin 2mg daily significantly reduced visceral adipose tissue and improved lipid profiles compared to placebo over 26 weeks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20554713/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of tesamorelin on inflammatory markers in HIV patients with excess abdominal fat: relationship with visceral adipose reduction",
+      "summary": "Treatment with tesamorelin resulted in significant reductions in inflammatory markers, particularly tissue plasminogen activator antigen, which correlated with visceral fat reduction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21516030/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Long-term safety and effects of tesamorelin, a growth hormone-releasing factor analogue, in HIV patients with abdominal fat accumulation",
+      "summary": "A 52-week study demonstrated that tesamorelin was well tolerated long-term with sustained reductions in visceral fat and improvements in lipid profiles without clinically significant changes in glucose parameters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18690162/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of a growth hormone-releasing hormone analog on endogenous GH pulsatility and insulin sensitivity in healthy men",
+      "summary": "Tesamorelin 2mg daily for 2 weeks increased mean overnight growth hormone levels and GH pulse area in healthy men without significantly affecting insulin sensitivity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20943777/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Tesamorelin improves fat quality independent of changes in fat quantity",
+      "summary": "Research showed tesamorelin improved fat density (quality) on CT scans, indicating smaller, higher-quality adipocytes, independent of overall fat quantity changes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33756511/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Efficacy and safety of tesamorelin in people with HIV on integrase inhibitors",
+      "summary": "A randomized trial confirmed tesamorelin remains effective and safe for reducing visceral fat in people with HIV who are on modern integrase inhibitor-based antiretroviral regimens.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38905488/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of Tesamorelin on Neurocognitive Impairment in Persons With HIV and Abdominal Obesity",
+      "summary": "A 6-month trial found tesamorelin may mitigate neurocognitive impairment in virally suppressed people with HIV and abdominal obesity, potentially through reducing visceral fat and increasing IGF-1.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39813152/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety and metabolic effects of tesamorelin, a growth hormone-releasing factor analogue, in patients with type 2 diabetes: A randomized, placebo-controlled trial",
+      "summary": "A 12-week study in type 2 diabetics found no significant differences in insulin sensitivity, fasting glucose, or HbA1c with tesamorelin treatment, suggesting acceptable safety in this population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28617838/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 62,
+    "summary": "Users report significant benefits for visceral fat reduction and body recomposition when combined with proper diet and exercise, but concerns about cost, hunger stimulation, and potential metabolic side effects (particularly hypoglycemia and insulin resistance) create mixed experiences. Effectiveness appears highly individual with some reporting dramatic results while others experience adverse events."
+  },
+  "effects": [
+    {
+      "label": "Dosage-Dependent Response:",
+      "description": "Most users find the FDA-approved 2mg daily dose necessary for significant effects, with lower doses (250-500mcg) reported as largely ineffective"
+    },
+    {
+      "label": "Combination Synergy:",
+      "description": "Tesamorelin appears most effective when stacked with GLP-1 agonists (Tirzepatide, Retatrutide) for fat loss or combined with resistance training for body recomposition"
+    },
+    {
+      "label": "Timing Requirements:",
+      "description": "Users emphasize the importance of fasted administration at night for optimal effectiveness, with food intake significantly reducing absorption"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Approximately 70% of users report clinical response (≥8% VAT reduction) according to research, with remaining 30% experiencing minimal effects"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Protocol:",
+      "description": "2mg subcutaneously once daily before bedtime in a fasted state is the most commonly recommended and FDA-approved dosage"
+    },
+    {
+      "label": "Stacking Doses:",
+      "description": "When combined with Ipamorelin, typical protocols include 1-2mg Tesamorelin with 100-300mcg Ipamorelin, though some users question effectiveness of lower Tesamorelin doses"
+    },
+    {
+      "label": "Cycling Considerations:",
+      "description": "Some users report continuous use for 6-12 months, while others cycle on/off, with discontinuation leading to potential VAT regain"
+    },
+    {
+      "label": "Reconstitution:",
+      "description": "Each 2mg vial is typically reconstituted with bacteriostatic water for single-use administration, with users emphasizing proper storage and handling"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Reactive Hypoglycemia:",
+      "description": "Several users report severe blood sugar crashes, particularly when transitioning from low-carb diets to high-carb meals, with one case requiring hospitalization (blood sugar below 40)"
+    },
+    {
+      "label": "Insulin Resistance Risk:",
+      "description": "Concerns about long-term insulin resistance development mentioned in research and by users, particularly at higher doses or extended use"
+    },
+    {
+      "label": "Injection Site Reactions:",
+      "description": "Common reports of mild local reactions, though generally well-tolerated compared to other peptides"
+    },
+    {
+      "label": "Metabolic Stress:",
+      "description": "Users combining with other peptides (particularly GLP-1 agonists) report increased heart rate, anxiety, and metabolic strain requiring medical intervention in some cases"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Cost Concerns:",
+      "description": "Tesamorelin is frequently cited as expensive, with users seeking alternatives or lower doses due to budget constraints, particularly when not FDA-approved for their specific use"
+    },
+    {
+      "label": "Compounding Pharmacies:",
+      "description": "Many users source through online peptide providers or compounding pharmacies rather than traditional prescriptions, with emphasis on third-party testing (Janoshik) for verification"
+    },
+    {
+      "label": "Regional Access:",
+      "description": "Some users report difficulty finding blended formulations (e.g., Tesamorelin/Ipamorelin combinations) and must source components separately, particularly outside the US"
+    }
+  ],
+  "related": [
+    {
+      "name": "CASEIN PROTEIN",
+      "slug": "casein-protein"
+    },
+    {
+      "name": "IRISIN",
+      "slug": "irisin"
+    },
+    {
+      "name": "SR9009 (STENABOLIC)",
+      "slug": "sr9009-stenabolic"
+    },
+    {
+      "name": "BANABA LEAF EXTRACT",
+      "slug": "banaba-leaf-extract"
+    },
+    {
+      "name": "BETA-GLUCANS",
+      "slug": "beta-glucans"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "lion-s-mane",
+  "url": "https://dopamine.club/substances/lion-s-mane/",
+  "scrapedAt": "2026-02-12T16:09:13.572Z",
+  "title": "LION'S MANE",
+  "description": "Lion's Mane (Hericium erinaceus) is a medicinal mushroom containing bioactive compounds called erinacines and hericenones that stimulate nerve growth factor (NGF) production and demonstrate neuroprotective properties. It has been traditionally used in Chinese medicine and is now studied for cognitive enhancement, mood support, and potential treatment of neurodegenerative conditions. The mushroom exhibits antioxidant, anti-inflammatory, and immunomodulatory effects through its polysaccharide content.",
+  "categories": [
+    "Nootropic",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Acute and Chronic Effects of Lion's Mane Mushroom Supplementation on Cognitive Function, Stress and Mood in Young Adults: A Double-Blind, Parallel Groups, Pilot Study",
+      "summary": "A 28-day study of 1.8g daily Lion's Mane in healthy adults aged 18-45 showed improved performance on the Stroop task after a single dose (60 minutes) and a trend toward reduced subjective stress after chronic supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38004235/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neurotrophic and Neuroprotective Effects of Hericium erinaceus",
+      "summary": "Review confirming Lion's Mane's neuroprotective mechanisms include stimulating nerve growth factor release, regulating inflammation, reducing oxidative stress, and protecting nerve cells from apoptosis through erinacines and hericenones.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37958943/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Acute Effects of Naturally Occurring Guayusa Tea and Nordic Lion's Mane Extracts on Cognitive Performance",
+      "summary": "Single dose of 1g Nordic Lion's Mane significantly improved reaction time during N-Back tasks and Serial 7s attempts, as well as Go stimulus reaction time in cognitive testing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38140277/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Lion's Mane (Hericium erinaceus) Exerts Anxiolytic Effects in the rTg4510 Tau Mouse Model",
+      "summary": "In mice with tau pathology modeling Alzheimer's disease, 4.5 months of Lion's Mane supplementation showed significant anxiolytic effects, reducing anxiety-like behaviors in open field and elevated zero maze tests.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35877305/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Potential antidepressant effects of a dietary supplement from the chlorella and lion's mane mushroom complex in aged SAMP8 mice",
+      "summary": "A combined chlorella and Lion's Mane supplement demonstrated potential antidepressant effects in aged mice, suggesting mood-regulating properties of the mushroom complex.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36118772/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary Supplementation of Lion's Mane Medicinal Mushroom, Hericium erinaceus (Agaricomycetes), and Spatial Memory in Wild-Type Mice",
+      "summary": "Oral supplementation with Lion's Mane resulted in significant improvements in novelty-seeking behavior and novel object recognition in wild-type mice, supporting cognitive benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29953363/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Benefits, side effects, and uses of Hericium erinaceus as a supplement: a systematic review",
+      "summary": "Systematic review confirming Lion's Mane contains bioactive polysaccharides with neuroprotective, anti-tumor, antioxidant, and anti-inflammatory properties, with neural-stimulating activity from erinacines in mycelia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40959699/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences are genuinely polarized with roughly 50-60% reporting positive cognitive benefits like improved memory, focus, and reduced brain fog, while 40-50% report concerning side effects including anxiety, depersonalization, panic attacks, and in some cases severe long-term negative effects. Brand quality and individual biochemistry appear to be critical factors in outcomes."
+  },
+  "effects": [
+    {
+      "label": "Onset Time:",
+      "description": "Acute effects can be noticed within 60 minutes, but most cognitive benefits require 1-4 weeks of consistent daily use to become apparent"
+    },
+    {
+      "label": "Individual Variation:",
+      "description": "Effectiveness varies dramatically between individuals, with some experiencing life-changing benefits while others experience severe negative reactions from the same brands and dosages"
+    },
+    {
+      "label": "Baseline Matters:",
+      "description": "Users with existing cognitive issues, brain fog, or post-concussion symptoms report more noticeable improvements than healthy baseline individuals"
+    },
+    {
+      "label": "Quality Dependency:",
+      "description": "99% of supplements are sourced from Chinese manufacturers with inconsistent quality; brand reputation significantly impacts outcomes and safety"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Dose:",
+      "description": "Most users take 500-1000mg daily, typically from 8:1 extracts or whole fruiting body preparations, with morning dosing preferred"
+    },
+    {
+      "label": "High Dose Risk:",
+      "description": "Doses above 2000mg daily appear to increase risk of side effects including anxiety, panic, and sleep disturbances"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Many experienced users cycle Lion's Mane (5 days on, 2 days off, or periodic breaks) to maintain effectiveness and reduce side effect risk"
+    },
+    {
+      "label": "Start Low:",
+      "description": "New users consistently advise starting with 300-500mg to assess tolerance before increasing, as high initial doses correlate with negative reactions"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Anxiety and Panic:",
+      "description": "Significant subset of users (20-30%) report increased anxiety, panic attacks, dread, and feeling overwhelmed, sometimes severe enough to discontinue use"
+    },
+    {
+      "label": "Depersonalization/Derealization:",
+      "description": "Notable reports of feeling disconnected from reality, numbness, and depersonalization that can persist for days to weeks after discontinuation"
+    },
+    {
+      "label": "Nerve Tingling:",
+      "description": "Peripheral neuropathy symptoms including tingling, numbness, or pain in hands and feet, attributed to nerve growth factor effects"
+    },
+    {
+      "label": "Sexual Dysfunction:",
+      "description": "Some users report decreased libido and erectile dysfunction, with a dedicated recovery community (r/LionsManeRecovery) documenting severe long-term effects"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Quality Concerns:",
+      "description": "Most supplements contain mycelium with grain fillers rather than pure fruiting body extracts; third-party testing is rare and contamination with heavy metals (particularly lead) is a documented concern"
+    },
+    {
+      "label": "Product Quality:",
+      "description": "Users recommend 8:1 extracts from reputable brands with third-party testing; products containing primarily mycelium rather than fruiting body are frequently criticized"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Fully legal as a dietary supplement worldwide; available over-the-counter without prescription, though quality regulation is minimal"
+    }
+  ],
+  "related": [
+    {
+      "name": "GALANTAMINE",
+      "slug": "galantamine"
+    },
+    {
+      "name": "Huperzine A",
+      "slug": "huperzine-a"
+    },
+    {
+      "name": "CHOLINE BITARTRATE",
+      "slug": "choline-bitartrate"
+    },
+    {
+      "name": "CREATINE MONOHYDRATE",
+      "slug": "creatine-monohydrate"
+    },
+    {
+      "name": "PQQ",
+      "slug": "pqq"
+    }
+  ]
+}

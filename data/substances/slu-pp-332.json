@@ -1,0 +1,129 @@
+{
+  "slug": "slu-pp-332",
+  "url": "https://dopamine.club/substances/slu-pp-332/",
+  "scrapedAt": "2026-02-12T16:11:19.965Z",
+  "title": "SLU-PP-332",
+  "description": "SLU-PP-332 is a synthetic pan-ERR (estrogen-related receptor) agonist that acts as an exercise mimetic by activating metabolic pathways normally induced by physical activity. It enhances mitochondrial function, fatty acid metabolism, and aerobic capacity by targeting ERRα/β/γ receptors, potentially providing benefits for metabolic syndrome, cardiovascular health, and physical performance.",
+  "categories": [
+    "Nootropic"
+  ],
+  "research": [
+    {
+      "title": "Synthetic ERRα/β/γ Agonist Induces an ERRα-Dependent Acute Aerobic Exercise Response and Enhances Exercise Capacity",
+      "summary": "SLU-PP-332 activated ERR receptors to mimic acute aerobic exercise responses and significantly enhanced exercise capacity in animal models through ERRα-dependent pathways.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36988910/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "A Synthetic ERR Agonist Alleviates Metabolic Syndrome",
+      "summary": "The ERR agonist demonstrated effectiveness in reducing metabolic syndrome symptoms, suggesting potential as a pharmacological exercise mimetic for reducing premature death risk.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37739806/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Novel Pan-ERR Agonists Ameliorate Heart Failure Through Enhancing Cardiac Fatty Acid Metabolism and Mitochondrial Function",
+      "summary": "Pan-ERR agonists improved heart failure outcomes by enhancing cardiac fatty acid metabolism and mitochondrial function, showing therapeutic potential for cardiovascular conditions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37961903/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 45,
+    "summary": "User experiences are highly polarized with some reporting significant improvements in endurance, weight loss, and VO2 max, while others claim it's completely ineffective or a waste of money. Dosing confusion and sourcing issues contribute to inconsistent results."
+  },
+  "effects": [
+    {
+      "label": "Dosage Dependency:",
+      "description": "Effectiveness appears highly dose-dependent, with many suggesting initial recommendations of 200-600mcg are too low and 5-20mg daily may be needed"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Responses range from 'complete dud' to 'game-changer' with some users reporting zero effects while others experience dramatic improvements"
+    },
+    {
+      "label": "Bioavailability Issues:",
+      "description": "Low oral bioavailability is frequently cited as limiting effectiveness, with conversion ratios from animal studies suggesting 6-10x higher human doses needed"
+    },
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Works best when combined with actual exercise rather than as standalone supplement, particularly effective pre-cardio or pre-workout"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Low Range:",
+      "description": "200-600mcg daily taken in divided doses (morning, pre-workout, evening) reported in early user experiments"
+    },
+    {
+      "label": "Medium Range:",
+      "description": "1200-1800mcg daily (600mcg 2-3x daily) used by users reporting positive results in weight loss and endurance"
+    },
+    {
+      "label": "High Range:",
+      "description": "5-20mg daily suggested by experienced users who cite bioavailability issues and animal-to-human conversion ratios"
+    },
+    {
+      "label": "Timing:",
+      "description": "Most effective when taken pre-cardio or pre-workout, with some taking additional doses before bed; sublingual administration preferred over oral for powder form"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Night Sweats:",
+      "description": "Frequently reported increased sweating during sleep and exercise due to enhanced calorie burning and metabolic activity"
+    },
+    {
+      "label": "Withdrawal Fatigue:",
+      "description": "Users report feeling completely fatigued when skipping doses after regular use, suggesting dependency on the energy boost"
+    },
+    {
+      "label": "Temperature Regulation:",
+      "description": "Some users needed to keep windows open despite cold weather due to increased body heat from enhanced metabolism"
+    },
+    {
+      "label": "Minimal Serious Effects:",
+      "description": "Generally well-tolerated with no major adverse effects reported in animal trials or user experiences beyond increased sweating"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Challenges:",
+      "description": "Multiple users report difficulty finding legitimate sources, with concerns about bunk products and impurities in cheap powders"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Heavy metal contamination and inconsistent potency cited as major issues, leading some to seek liquid formulations over raw powder"
+    },
+    {
+      "label": "Cost Barrier:",
+      "description": "Described as 'very expensive' especially at higher effective doses, with users seeking bulk powder to reduce costs"
+    },
+    {
+      "label": "Legal Status:",
+      "description": "Available as research compound but quality and authenticity vary significantly between suppliers, with some users referencing specific vendor groups"
+    }
+  ],
+  "related": [
+    {
+      "name": "ACETYL-L-CARNITINE",
+      "slug": "acetyl-l-carnitine"
+    },
+    {
+      "name": "Adrafinil",
+      "slug": "adrafinil"
+    },
+    {
+      "name": "Bromantane",
+      "slug": "bromantane"
+    },
+    {
+      "name": "CAFFEINE",
+      "slug": "caffeine"
+    },
+    {
+      "name": "CORTEXIN",
+      "slug": "cortexin"
+    }
+  ]
+}

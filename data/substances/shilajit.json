@@ -1,0 +1,155 @@
+{
+  "slug": "shilajit",
+  "url": "https://dopamine.club/substances/shilajit/",
+  "scrapedAt": "2026-02-12T16:11:16.816Z",
+  "title": "SHILAJIT",
+  "description": "Shilajit is a natural resinous substance found primarily in the Himalayas, formed over centuries through decomposition of plant matter and containing fulvic acid as its primary active component along with trace minerals. It functions as an adaptogen and antioxidant, primarily by enhancing mitochondrial function, reducing oxidative stress, and providing bioavailable minerals. Clinical research demonstrates effectiveness for cognitive support, bone health, testosterone optimization, and energy metabolism.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Shilajit extract reduces oxidative stress, inflammation, and bone loss to dose-dependently preserve bone mineral density in postmenopausal women with osteopenia: A randomized, double-blind, placebo-controlled trial",
+      "summary": "In a 48-week trial of 60 postmenopausal women with osteopenia, shilajit extract (250mg and 500mg) significantly preserved bone mineral density while reducing oxidative stress, inflammation, and bone turnover markers compared to placebo, with dose-dependent effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35933897/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Shilajit: a natural phytocomplex with potential procognitive activity",
+      "summary": "Review indicating shilajit's fulvic acid blocks tau protein self-aggregation and may help prevent cognitive disorders associated with aging, positioning it as a promising nutraceutical for neurological applications including potential Alzheimer's therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22482077/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of 8 Weeks of Shilajit Supplementation on Serum Pro-c1α1, a Biomarker of Type 1 Collagen Synthesis: A Randomized Control Trial",
+      "summary": "Eight-week study in 35 recreationally trained men showed both 500mg and 1000mg daily shilajit doses increased serum pro-c1α1 (type 1 collagen synthesis biomarker), suggesting beneficial effects on connective tissue health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36546868/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Protective Roles of Shilajit in Modulating Resistin, Adiponectin, and Cytokines in Rats with Non-alcoholic Fatty Liver Disease",
+      "summary": "Animal study demonstrated shilajit supplementation improved markers of non-alcoholic fatty liver disease by favorably modulating adipokines and reducing inflammatory cytokines in high-fat diet-induced models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35258780/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Can nutraceuticals prevent Alzheimer's disease? Potential therapeutic role of a formulation containing shilajit and complex B vitamins",
+      "summary": "Clinical trial data in patients with mild Alzheimer's disease showed combination of shilajit with B-complex vitamins demonstrated potential therapeutic benefits, supporting its use as a preventive nutraceutical for cognitive decline.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23131823/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Skin Transcriptome of Middle-Aged Women Supplemented With Natural Herbo-mineral Shilajit Shows Induction of Microvascular and Extracellular Matrix Mechanisms",
+      "summary": "Gene expression analysis in middle-aged women taking shilajit revealed significant upregulation of extracellular matrix and microvascular-related genes in skin tissue, suggesting benefits for skin health and tissue repair.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31161927/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Evaluation of safety profile of black shilajit after 91 days repeated administration in rats",
+      "summary": "Ninety-one day toxicity study in rats at doses up to 5000mg/kg showed shilajit to be safe for long-term use with minimal organ changes only at highest doses, supporting its safety profile as a dietary supplement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23569899/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Shilajit: A panacea for high-altitude problems",
+      "summary": "Review of traditional and modern evidence suggests shilajit helps overcome high-altitude stress, tiredness, and chronic fatigue through its effects on nutrient transport, immune stimulation, and adaptation to environmental stressors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20532096/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report predominantly positive experiences with shilajit, particularly noting increased energy, improved libido, better focus, and enhanced recovery. While some users report no effects or concerns about quality/heavy metals, the majority who find authentic resin forms report noticeable benefits within days to weeks of consistent use."
+  },
+  "effects": [
+    {
+      "label": "Individual Response Variability:",
+      "description": "Effectiveness appears highly individual - some users experience dramatic benefits within days while others report minimal to no effects even with quality products"
+    },
+    {
+      "label": "Form Matters Significantly:",
+      "description": "Resin/tar form consistently receives better feedback than powders or capsules, with users emphasizing authentic resin dissolving cleanly in warm water as quality indicator"
+    },
+    {
+      "label": "Time to Effects:",
+      "description": "Most positive responders notice initial effects within 3-7 days, though full benefits may take 2-4 weeks of consistent use to manifest"
+    },
+    {
+      "label": "Quality Critical:",
+      "description": "Users emphasize importance of third-party testing for heavy metals and fulvic acid content, with significant variation in effectiveness between brands and sources"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Range:",
+      "description": "Most users find 250-500mg daily effective, with 500mg being most commonly recommended starting point for noticeable effects"
+    },
+    {
+      "label": "Timing Considerations:",
+      "description": "Morning dosing preferred to avoid potential sleep disruption in first-time users, though some find it promotes relaxation and use it before bed"
+    },
+    {
+      "label": "Cycling Recommendations:",
+      "description": "Mixed opinions on necessity - some cycle one month on/one month off to prevent tolerance, while others take continuously for years with maintained benefits"
+    },
+    {
+      "label": "Gradual Titration:",
+      "description": "Experienced users recommend starting at 100-150mg and increasing to 250-500mg over 1-2 weeks to assess individual tolerance and response"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Initial Sleep Disruption:",
+      "description": "Some users experience temporary insomnia or altered sleep patterns during first few days, which typically resolves with continued use or nighttime dosing adjustment"
+    },
+    {
+      "label": "Paradoxical Sedation:",
+      "description": "Subset of users report unexpected drowsiness rather than energy boost, suggesting individual biochemical variation in response"
+    },
+    {
+      "label": "Long-term Hormonal Effects:",
+      "description": "A few users report decreased libido after 3-4 months of continuous daily use, possibly related to estrogen suppression, which resolved after discontinuation"
+    },
+    {
+      "label": "Heavy Metal Concerns:",
+      "description": "Persistent worries about lead, thallium, and other heavy metal contamination in lower-quality products, emphasizing need for verified third-party testing"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Preferred Brands:",
+      "description": "reputable suppliers, authentic Himalayan sources frequently recommended; users strongly advise against purchases from unverified sources due to quality concerns"
+    },
+    {
+      "label": "Resin Premium:",
+      "description": "Authentic resin form costs more but considered worth premium for effectiveness; glass jar packaging, batch numbers, and COAs indicating fulvic acid content (60%+) are quality markers"
+    },
+    {
+      "label": "Sourcing Geography:",
+      "description": "Kashmir, Nepal, and specific Himalayan regions mentioned as preferred sources; users note significant quality differences based on origin and processing methods"
+    }
+  ],
+  "related": [
+    {
+      "name": "ALLITHIAMINE",
+      "slug": "allithiamine"
+    },
+    {
+      "name": "IDEBENONE",
+      "slug": "idebenone"
+    },
+    {
+      "name": "METHYLENE BLUE",
+      "slug": "methylene-blue"
+    },
+    {
+      "name": "NADH",
+      "slug": "nadh"
+    },
+    {
+      "name": "OXALOACETATE",
+      "slug": "oxaloacetate"
+    }
+  ]
+}

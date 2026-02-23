@@ -1,0 +1,104 @@
+{
+  "slug": "he-shou-wu",
+  "url": "https://dopamine.club/substances/he-shou-wu/",
+  "scrapedAt": "2026-02-12T16:08:21.855Z",
+  "title": "HE SHOU WU",
+  "description": "He Shou Wu (Polygonum multiflorum) is a traditional Chinese medicinal herb primarily utilized for its potential anti-aging and restorative properties. It is thought to work by regulating key melanogenesis pathways and mitochondrial apoptosis, traditionally used to treat hair graying and age-related vitality loss.",
+  "categories": [
+    "Adaptogen",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Mechanistic Studies on the Use of Polygonum multiflorum for the Treatment of Hair Graying",
+      "summary": "This study found that raw He Shou Wu promotes hair pigmentogenesis by increasing melanin content and regulating enzymes like tyrosinase, supporting its traditional use for blackening hair.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26640791/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Mechanisms of Heshouwuyin in regulating apoptosis of testicular cells in aging rats through mitochondrial pathway",
+      "summary": "Research suggests He Shou Wu-based formulas may protect against age-related cellular decline by regulating mitochondrial apoptosis pathways in reproductive tissues.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27586689/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 65,
+    "summary": "Users generally value the herb for hair and vitality benefits, but community consensus is cautious due to significant concerns regarding potential liver toxicity and the necessity of proper processing."
+  },
+  "effects": [
+    {
+      "label": "Processing Matters:",
+      "description": "Raw roots are effective for hair but higher in laxative compounds; 'prepared' (cured with black bean) versions are preferred for tonic effects."
+    },
+    {
+      "label": "Cumulative Results:",
+      "description": "Users note that benefits for hair color typically require consistent use over several months."
+    },
+    {
+      "label": "Variable Response:",
+      "description": "Effectiveness appears highly dependent on the quality of the extract and individual biochemistry."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Prepared Root Powder:",
+      "description": "Commonly taken in doses of 500mg to 1000mg daily in capsule or tea form."
+    },
+    {
+      "label": "Standardized Extracts:",
+      "description": "10:1 or 20:1 concentrated extracts are used at lower volumes, typically following manufacturer guidelines."
+    },
+    {
+      "label": "Traditional Decoction:",
+      "description": "Slices of the prepared root are simmered for 20-30 minutes to create a medicinal tea."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Hepatotoxicity:",
+      "description": "A major concern; excessive or improper use has been linked to drug-induced liver injury."
+    },
+    {
+      "label": "Digestive Upset:",
+      "description": "Raw versions can act as a potent laxative and cause abdominal cramping."
+    },
+    {
+      "label": "Estrogenic Potential:",
+      "description": "May have weak estrogen-like effects, requiring caution for those with hormone-sensitive conditions."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Sourcing Quality:",
+      "description": "Crucial to buy from reputable suppliers who provide heavy metal and authenticity testing."
+    },
+    {
+      "label": "Form Availability:",
+      "description": "Widely available as prepared (Sheng Shou Wu) or raw (He Shou Wu) powders, slices, and tinctures."
+    }
+  ],
+  "related": [
+    {
+      "name": "CAT",
+      "slug": "cat-s-claw"
+    },
+    {
+      "name": "CHAGA MUSHROOM",
+      "slug": "chaga-mushroom"
+    },
+    {
+      "name": "CHLORELLA",
+      "slug": "chlorella"
+    },
+    {
+      "name": "CISTANCHE",
+      "slug": "cistanche"
+    },
+    {
+      "name": "GINSENOSIDES",
+      "slug": "ginsenosides"
+    }
+  ]
+}

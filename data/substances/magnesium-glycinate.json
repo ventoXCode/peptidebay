@@ -1,0 +1,131 @@
+{
+  "slug": "magnesium-glycinate",
+  "url": "https://dopamine.club/substances/magnesium-glycinate/",
+  "scrapedAt": "2026-02-12T16:09:22.902Z",
+  "title": "MAGNESIUM GLYCINATE",
+  "description": "Magnesium Glycinate is a chelated form of magnesium bound to the amino acid glycine, designed for optimal absorption and bioavailability. It works by supplementing magnesium levels in the body, which is essential for hundreds of enzymatic reactions, muscle relaxation, neurotransmitter regulation, and sleep quality. This form is particularly valued for its high absorption rate and minimal gastrointestinal side effects compared to other magnesium compounds.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Dose-Dependent Absorption Profile of Different Magnesium Compounds",
+      "summary": "Research demonstrated that organic magnesium compounds, including magnesium glycinate, show better absorption profiles compared to inorganic magnesium compounds across different dosage levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30761462/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Bioavailability of magnesium diglycinate vs magnesium oxide in patients with ileal resection",
+      "summary": "In patients with impaired magnesium absorption, magnesium diglycinate showed substantially greater absorption (23.5% vs 11.8%) compared to magnesium oxide and was better tolerated by all patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7815675/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of chronic administration of magnesium supplement (magnesium glycinate) on male albino wistar rats' intestinal motility, body weight changes, food and water intake",
+      "summary": "Chronic administration of magnesium glycinate in rats showed effects on intestinal motility and physiological parameters, providing insights into long-term supplementation effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37636381/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Magnesium yields opposite effects on the nuclear and cytosolic cascades of apoptosis in different rat brain regions",
+      "summary": "Eight-week administration of magnesium glycinate and citrate showed complex effects on brain tissue, with reductions in certain apoptotic markers while increasing protective protein levels in different brain regions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36196701/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 58,
+    "summary": "User experiences are genuinely split between those who report transformative benefits for sleep, anxiety, and muscle relaxation, and those who experience paradoxical reactions including severe insomnia, anxiety, and vivid exhausting dreams. The glycine component appears to be the determining factor for individual responses."
+  },
+  "effects": [
+    {
+      "label": "Individual Variability:",
+      "description": "Effectiveness is highly dependent on individual biochemistry, particularly NMDA receptor sensitivity and glutamate regulation, with some users thriving while others experience severe adverse reactions"
+    },
+    {
+      "label": "Glycine Sensitivity:",
+      "description": "The glycine component acts as both an inhibitory and excitatory neurotransmitter, making it beneficial for some but agitating for others, especially those with altered NMDA receptor function or conditions like MCAS or Long COVID"
+    },
+    {
+      "label": "Time to Effect:",
+      "description": "Users who respond positively typically notice benefits within the first few nights, while those with negative reactions also experience symptoms quickly, making it easy to identify compatibility"
+    },
+    {
+      "label": "Comparison to Other Forms:",
+      "description": "Many users who react poorly to glycinate find success with magnesium threonate, malate, or taurate, suggesting the magnesium itself isn't the issue but rather the chelating agent"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Sleep Dose:",
+      "description": "200-450mg taken 1-3 hours before bedtime is most commonly reported, with 300-350mg being the sweet spot for most users"
+    },
+    {
+      "label": "Timing Matters:",
+      "description": "Taking too close to bedtime or too early can affect results; users experiencing stimulation often find morning dosing more appropriate or switch forms entirely"
+    },
+    {
+      "label": "Lower Doses for Testing:",
+      "description": "New users are advised to start with 100-200mg to assess tolerance before increasing, as some experience strong reactions even at low doses"
+    },
+    {
+      "label": "Cycling Recommended:",
+      "description": "Some users report diminishing returns or exhaustion from vivid dreams after continuous use, suggesting periodic breaks may be beneficial"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Insomnia and Hyperarousal:",
+      "description": "Significant number of users report severe insomnia, racing heart, increased anxiety, night sweats, and feeling 'wired' rather than relaxed, often lasting several days after stopping"
+    },
+    {
+      "label": "Exhausting Dream Activity:",
+      "description": "While many enjoy vivid dreams initially, they frequently become exhausting over time, with users waking feeling unrested despite adequate sleep duration"
+    },
+    {
+      "label": "Mineral Imbalances:",
+      "description": "Taking magnesium without adequate calcium can cause symptoms like eye twitching, and copper supplementation may be needed as magnesium can deplete it"
+    },
+    {
+      "label": "Mood Alterations:",
+      "description": "Some users report negative thinking, intrusive thoughts, depression, or emotional numbness, particularly when combined with other supplements or in those with specific genetic mutations"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Widely Available:",
+      "description": "Magnesium glycinate is readily available from numerous reputable brands with prices generally under $20-30 per bottle"
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Users emphasize choosing chelated forms and reputable brands, as absorption and side effect profiles can vary significantly between manufacturers"
+    },
+    {
+      "label": "Alternative Forms:",
+      "description": "When glycinate doesn't work, users successfully switch to threonate (for cognitive benefits), malate (for energy), taurate (for heart health), or citrate (though citrate has more GI effects)"
+    }
+  ],
+  "related": [
+    {
+      "name": "MAGNESIUM CITRATE",
+      "slug": "magnesium-citrate"
+    },
+    {
+      "name": "MAGNESIUM TAURATE",
+      "slug": "magnesium-taurate"
+    },
+    {
+      "name": "MAGNESIUM L-THREONATE",
+      "slug": "magnesium-l-threonate"
+    },
+    {
+      "name": "APIGENIN",
+      "slug": "apigenin"
+    },
+    {
+      "name": "CHAMOMILE",
+      "slug": "chamomile"
+    }
+  ]
+}

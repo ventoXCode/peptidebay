@@ -1,0 +1,136 @@
+{
+  "slug": "ghrp-2",
+  "url": "https://dopamine.club/substances/ghrp-2/",
+  "scrapedAt": "2026-02-12T16:08:01.295Z",
+  "title": "GHRP-2",
+  "description": "GHRP-2 (Growth Hormone Releasing Peptide-2) is a synthetic hexapeptide that stimulates growth hormone release through the ghrelin receptor. It provides reliable GH release and is popular for anti-aging, muscle building, and fat loss.",
+  "categories": [
+    "Peptide",
+    "GH"
+  ],
+  "research": [
+    {
+      "title": "GHRP-2 attenuates muscle atrophy markers in myocytes",
+      "summary": "GHRP-2 directly reduces Atrogin-1 and MuRF1 mRNA levels in muscle cells through ghrelin receptor activation, potentially preventing muscle degradation.",
+      "url": "https://doi.org/10.1016/j.lfs.2007.11.019",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "Identification of GHRP-2 in nutritional supplements",
+      "summary": "GHRP-2 was detected and quantified in over-the-counter supplements, raising performance enhancement concerns in elite sports contexts.",
+      "url": "https://doi.org/10.1002/dta.120",
+      "source": "(Wiley Analytical Science)"
+    },
+    {
+      "title": "GHRP-2 increases food intake in healthy men",
+      "summary": "Subcutaneous GHRP-2 administration increases appetite in humans similarly to ghrelin, providing insights into eating behavior mechanisms.",
+      "url": "https://doi.org/10.1210/JC.2004-1719",
+      "source": "(Oxford Academic)"
+    },
+    {
+      "title": "GHRP-2 vs GHRP-6 growth hormone release comparison",
+      "summary": "Both peptides stimulate GH release from rat pituitary cells through identical receptors despite structural differences.",
+      "url": "https://doi.org/10.1016/S0024-3205(96)00655-8",
+      "source": "(ScienceDirect)"
+    },
+    {
+      "title": "GHRP-2 and GHRH synergistic GH release in swine",
+      "summary": "Combined GHRP-2 and GHRH administration produces synergistic growth hormone stimulation, diminishing with repeated dosing.",
+      "url": "https://doi.org/10.2508/CHIKUSAN.72.315",
+      "source": "(J-Stage)"
+    },
+    {
+      "title": "GHRP-2 reduces oxidative stress but not atherosclerosis",
+      "summary": "GHRP-2 decreases vascular oxidative stress in ApoE-deficient mice without reducing atherosclerosis development.",
+      "url": "https://doi.org/10.1210/en.2009-0283",
+      "source": "(Oxford Academic)"
+    }
+  ],
+  "sentiment": {
+    "positive": 72,
+    "summary": "Users report improved sleep, recovery, and gradual body composition changes. Often combined with GHRH peptides for synergistic effects. Reliable and well-tolerated."
+  },
+  "effects": [
+    {
+      "label": "Reliable Results:",
+      "description": "Consistent GH release in most users."
+    },
+    {
+      "label": "Synergistic:",
+      "description": "Best results when combined with GHRH (CJC-1295)."
+    },
+    {
+      "label": "Gradual Changes:",
+      "description": "Body composition improvements take months."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Typical Range:",
+      "description": "100-300mcg per injection, 2-3 times daily."
+    },
+    {
+      "label": "Timing:",
+      "description": "Best on empty stomach, especially before bed."
+    },
+    {
+      "label": "Subcutaneous:",
+      "description": "Administered via subcutaneous injection."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Increased Hunger:",
+      "description": "Appetite stimulation common."
+    },
+    {
+      "label": "Water Retention:",
+      "description": "Temporary bloating possible."
+    },
+    {
+      "label": "Cortisol Increase:",
+      "description": "Slight elevation in cortisol levels."
+    },
+    {
+      "label": "Tingling/Flushing:",
+      "description": "Some experience temporary sensations."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Chemical:",
+      "description": "Available from peptide suppliers."
+    },
+    {
+      "label": "Quality Matters:",
+      "description": "Source from reputable vendors."
+    },
+    {
+      "label": "Moderate Cost:",
+      "description": "Mid-range pricing among GH peptides."
+    }
+  ],
+  "related": [
+    {
+      "name": "CJC-1295",
+      "slug": "cjc-1295"
+    },
+    {
+      "name": "CJC+DAC",
+      "slug": "cjc-dac"
+    },
+    {
+      "name": "GHRP-6",
+      "slug": "ghrp-6"
+    },
+    {
+      "name": "IBUTAMOREN (MK-677)",
+      "slug": "ibutamoren-mk-677"
+    },
+    {
+      "name": "Ipamorelin",
+      "slug": "ipamorelin"
+    }
+  ]
+}

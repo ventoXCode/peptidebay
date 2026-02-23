@@ -1,0 +1,155 @@
+{
+  "slug": "vitamin-k",
+  "url": "https://dopamine.club/substances/vitamin-k/",
+  "scrapedAt": "2026-02-12T16:13:06.635Z",
+  "title": "VITAMIN K",
+  "description": "Vitamin K is a fat-soluble vitamin essential for blood coagulation and bone metabolism, existing primarily as K1 (phylloquinone) from plants and K2 (menaquinones) from fermented foods and animal products. It activates proteins like osteocalcin and matrix Gla-protein (MGP) through carboxylation, facilitating calcium transport to bones and preventing vascular calcification. Vitamin K is used for bone health, cardiovascular protection, and reducing fracture risk, with K2 showing superior tissue distribution and bioavailability compared to K1.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "The Importance of Vitamin K and the Combination of Vitamins K and D for Calcium Metabolism and Bone Health: A Review",
+      "summary": "Vitamin K-dependent proteins like osteocalcin and MGP chelate and transport calcium to bones when properly carboxylated, reducing osteoporosis risk and improving bone quality when combined with vitamin D.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39125301/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The combination effect of vitamin K and vitamin D on human bone quality: a meta-analysis of randomized controlled trials",
+      "summary": "Meta-analysis of 971 subjects found vitamin K combined with vitamin D significantly increased total bone mineral density and decreased undercarboxylated osteocalcin, with K2 doses under 500μg daily showing optimal benefits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32219282/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin K: Double Bonds beyond Coagulation Insights into Differences between Vitamin K1 and K2 in Health and Disease",
+      "summary": "Review highlighting key differences between K1 and K2 vitamers in absorption, tissue distribution, and bioavailability, with implications for cardiovascular health, bone metabolism, and inflammation beyond coagulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30791399/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin K as a Diet Supplement with Impact in Human Health: Current Evidence in Age-Related Diseases",
+      "summary": "Vitamin K benefits extend beyond coagulation to reducing chronic inflammatory diseases including cardiovascular disease, osteoarthritis, dementia, cognitive impairment, and frailty in aging populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31947821/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Calcium, vitamin D, vitamin K2, and magnesium supplementation and skeletal health",
+      "summary": "VitK2 supplementation appears to improve bone quality and reduce fracture risk in osteoporotic patients, potentially enhancing the efficacy of calcium and vitamin D supplementation for skeletal health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32972636/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Interaction Between Dietary Vitamin K Intake and Anticoagulation by Vitamin K Antagonists: Is It Really True?: A Systematic Review",
+      "summary": "Systematic review questions the common belief that dietary vitamin K significantly interferes with warfarin therapy, finding limited evidence for restricting vitamin K-rich foods in patients on anticoagulants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26962786/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Investigating the Effects and Mechanisms of Combined Vitamin D and K Supplementation in Postmenopausal Women",
+      "summary": "Combined vitamin D and K supplementation shows promise for postmenopausal women in addressing cardiometabolic conditions, osteoporosis, and cardiovascular diseases through synergistic mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39064799/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Vitamin K Properties in Stroke and Alzheimer's Disease: A Janus Bifrons in Protection and Prevention",
+      "summary": "Vitamin K demonstrates dual protective roles in vascular and cerebral health through sphingolipid biosynthesis and ferroptosis inhibition, with implications for stroke prevention and neurodegenerative disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40076254/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 78,
+    "summary": "Users consistently recommend vitamin K, especially K2, as an essential cofactor for vitamin D supplementation, with widespread recognition of its importance for calcium metabolism and bone health. The supplement is viewed as safe, well-tolerated, and a necessary component of comprehensive vitamin stacks."
+  },
+  "effects": [
+    {
+      "label": "Synergistic Benefits:",
+      "description": "Overwhelmingly viewed as most effective when combined with vitamin D3 and magnesium rather than as standalone supplement"
+    },
+    {
+      "label": "Preventive Rather Than Acute:",
+      "description": "Users recognize K2 as long-term preventive supplement for bone and cardiovascular health with no immediate noticeable effects"
+    },
+    {
+      "label": "Form Matters:",
+      "description": "K2 (menaquinone) consistently preferred over K1, with MK-7 form mentioned as having longer half-life and better bioavailability"
+    },
+    {
+      "label": "Essential Cofactor Status:",
+      "description": "Widely considered mandatory addition to any vitamin D supplementation regimen above 2000-5000 IU daily"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Daily Dose:",
+      "description": "Most users take 45-200 mcg daily, with 100-120 mcg being most common recommendation"
+    },
+    {
+      "label": "Rhonda Patrick Protocol:",
+      "description": "45 mcg daily frequently cited as evidence-based dosage from respected researcher"
+    },
+    {
+      "label": "MK-4 vs MK-7:",
+      "description": "MK-4 typically dosed higher (1-45mg) for therapeutic use, while MK-7 effective at 100-200 mcg for maintenance"
+    },
+    {
+      "label": "Ratio to Vitamin D:",
+      "description": "Common recommendation of 100 mcg K2 per 5000-10000 IU vitamin D3 for optimal synergy"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Side Effects:",
+      "description": "Users report virtually no adverse effects at recommended dosages, making it one of safest supplements"
+    },
+    {
+      "label": "Anticoagulant Interactions:",
+      "description": "Awareness that K2 may interfere with warfarin/blood thinners, though dietary K intake concerns are often overstated"
+    },
+    {
+      "label": "No Toxicity Concerns:",
+      "description": "Unlike vitamin D, vitamin K has no upper tolerable limit established due to lack of toxicity at high doses"
+    },
+    {
+      "label": "Digestive Tolerance:",
+      "description": "Fat-soluble nature means best absorbed with meals containing fat, rarely causes GI issues"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Common Pairing Products:",
+      "description": "Widely available in combined D3+K2 formulations from most supplement brands, often with added magnesium"
+    },
+    {
+      "label": "Quality Considerations:",
+      "description": "Users recommend reputable brands with third-party testing for vitamin K formulations"
+    },
+    {
+      "label": "Form Preferences:",
+      "description": "MK-7 (menaquinone-7) most commonly available and recommended over K1 or synthetic forms for better absorption and longer half-life"
+    }
+  ],
+  "related": [
+    {
+      "name": "VITAMIN B3 (NIACIN)",
+      "slug": "vitamin-b3-niacin"
+    },
+    {
+      "name": "VITAMIN E",
+      "slug": "vitamin-e"
+    },
+    {
+      "name": "LIPOSOMAL VITAMIN C",
+      "slug": "liposomal-vitamin-c"
+    },
+    {
+      "name": "VITAMIN B COMPLEX",
+      "slug": "vitamin-b-complex"
+    },
+    {
+      "name": "VITAMIN B1 (THIAMINE)",
+      "slug": "vitamin-b1-thiamine"
+    }
+  ]
+}

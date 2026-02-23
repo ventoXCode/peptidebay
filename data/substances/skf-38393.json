@@ -1,0 +1,149 @@
+{
+  "slug": "skf-38393",
+  "url": "https://dopamine.club/substances/skf-38393/",
+  "scrapedAt": "2026-02-12T16:11:18.133Z",
+  "title": "SKF-38393",
+  "description": "SKF-38393 is a selective dopamine D1 receptor partial agonist used primarily in neuroscience research to study dopaminergic signaling pathways. It differentially stimulates D1 receptors compared to D2 receptors, producing distinct behavioral and neurochemical effects including grooming behavior and modulation of adenylyl cyclase activity. Unlike full dopamine agonists, SKF-38393 shows partial efficacy and has been studied for potential therapeutic applications in movement disorders and addiction.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Assessment of grooming and other behavioural responses to the D-1 dopamine receptor agonist SK & F 38393 and its R- and S-enantiomers in the intact adult rat",
+      "summary": "SKF-38393 stereoselectively promoted non-stereotyped behaviors including grooming, sniffing, and locomotion in rats, with the R-enantiomer being the active form. The drug did not induce typical dopamine-like stereotyped behavior, demonstrating D1-specific behavioral effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3110837/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "SKF 38393 reverses cocaine-conditioned place preference in mice",
+      "summary": "SKF-38393 successfully blocked cocaine-conditioned place preference in mice without affecting locomotor activity. This suggests partial D1 receptor activation may be useful for developing pharmacotherapies for cocaine addiction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22387069/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dopamine D1 receptors: efficacy of full (dihydrexidine) vs. partial (SKF38393) agonists in primates vs. rodents",
+      "summary": "SKF-38393 demonstrated partial agonist efficacy (approximately 40% relative to dopamine) in both rat and primate striatal tissue. The compound showed consistent partial efficacy across species, though with greater between-subject variation in primates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8245120/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Role of oxidative stress in defective renal dopamine D1 receptor-G protein coupling and function in old Fischer 344 rats",
+      "summary": "In aging rats with oxidative stress, SKF-38393 failed to stimulate G-proteins and adenylyl cyclase due to D1 receptor dysfunction. Antioxidant treatment (tempol) restored D1 receptor function and responsiveness to SKF-38393.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16757732/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Comparison of the discriminative-stimulus effects of SKF 38393 with those of other dopamine receptor agonists",
+      "summary": "Rats trained to discriminate SKF-38393 from vehicle showed that D1 full agonists substituted for SKF-38393, while D2 agonists and cocaine did not. This demonstrates SKF-38393 produces distinct D1-specific discriminative stimulus effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12799524/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neurophysiological investigation of effects of the D-1 agonist SKF 38393 on tonic activity of substantia nigra dopamine neurons",
+      "summary": "Unlike D2 agonists, SKF-38393 did not directly inhibit dopamine neuronal activity in anesthetized rats, suggesting D1 receptors do not mediate autoreceptor-like effects. Effects were only observed in non-anesthetized preparations, indicating complex indirect mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2975067/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Biphasic locomotor effects of the dopamine D1 agonist SKF 38393 and their attenuation in non-habituated mice",
+      "summary": "SKF-38393 produced dose-dependent locomotor stimulation in mice, with biphasic effects at high doses (initial depression followed by hyperlocomotion). Effects were attenuated by the D1 antagonist SCH 39166, confirming D1 receptor mediation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7870901/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 25,
+    "summary": "User discussions focus almost entirely on other supplements with no direct experiences reported for SKF-38393. The compound appears to be a research chemical with no established consumer supplement use, and the provided user data does not contain relevant user experiences with this specific compound."
+  },
+  "effects": [
+    {
+      "label": "Partial Agonism:",
+      "description": "Functions as a partial D1 agonist with approximately 40% efficacy relative to full dopamine stimulation"
+    },
+    {
+      "label": "Selectivity:",
+      "description": "Highly selective for D1 receptors over D2 receptors, producing distinct behavioral profiles"
+    },
+    {
+      "label": "Species Consistency:",
+      "description": "Demonstrates similar partial agonist properties across rodent and primate models"
+    },
+    {
+      "label": "Research Applications:",
+      "description": "Primarily effective as a research tool for studying D1 receptor function rather than therapeutic use"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Animal Research Doses:",
+      "description": "Studies typically use 3-300 mg/kg in rodents, with behavioral effects at 20-30 mg/kg"
+    },
+    {
+      "label": "Stereoselectivity:",
+      "description": "The R-enantiomer is the active form; racemic mixtures contain 50% inactive S-enantiomer"
+    },
+    {
+      "label": "Route-Dependent:",
+      "description": "Effects vary by administration route (intravenous, intraperitoneal, iontophoretic)"
+    },
+    {
+      "label": "No Human Dosing:",
+      "description": "No established safe or effective human dosing protocols exist in published literature"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Biphasic Effects:",
+      "description": "High doses can cause initial locomotor depression followed by hyperactivity"
+    },
+    {
+      "label": "Non-Typical Responses:",
+      "description": "Does not produce classic dopaminergic stereotypy, leading to unusual behavioral patterns"
+    },
+    {
+      "label": "Oxidative Stress Sensitivity:",
+      "description": "Effectiveness may be reduced in conditions of oxidative stress or aging"
+    },
+    {
+      "label": "Research Chemical Status:",
+      "description": "Not approved for human use; safety profile in humans unknown"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Research Use Only:",
+      "description": "Available exclusively as a research chemical for laboratory investigations"
+    },
+    {
+      "label": "Not Consumer Supplement:",
+      "description": "No legitimate supplement formulations exist for consumer purchase"
+    },
+    {
+      "label": "Regulatory Status:",
+      "description": "Not approved by FDA or other regulatory agencies for human consumption"
+    }
+  ],
+  "related": [
+    {
+      "name": "AMERICAN GINSENG",
+      "slug": "american-ginseng"
+    },
+    {
+      "name": "BAICALEIN",
+      "slug": "baicalein"
+    },
+    {
+      "name": "METHYLENE BLUE",
+      "slug": "methylene-blue"
+    },
+    {
+      "name": "N-ACETYL SEMAX",
+      "slug": "n-acetyl-semax"
+    },
+    {
+      "name": "VITAMIN B COMPLEX",
+      "slug": "vitamin-b-complex"
+    }
+  ]
+}

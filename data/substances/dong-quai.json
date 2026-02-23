@@ -1,0 +1,156 @@
+{
+  "slug": "dong-quai",
+  "url": "https://dopamine.club/substances/dong-quai/",
+  "scrapedAt": "2026-02-12T16:07:18.578Z",
+  "title": "DONG QUAI",
+  "description": "Dong Quai (Angelica sinensis) is a traditional Chinese medicinal herb containing compounds such as ligustilide, ferulic acid, and natural coumarin derivatives. It is commonly used in women's health for menstrual symptoms, menopausal complaints, and postpartum support, though it lacks robust clinical evidence for efficacy. The herb may interact with anticoagulant medications like warfarin and cause photosensitivity reactions.",
+  "categories": [
+    "Herb",
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Potentiation of warfarin by dong quai",
+      "summary": "A case report documented a 46-year-old woman on warfarin who experienced a greater than 2-fold elevation in prothrombin time and INR after taking dong quai concurrently for 4 weeks, suggesting a significant drug interaction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10417036/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Warfarin interactions with medicinal herbs",
+      "summary": "This review summarizes case reports of severe adverse effects including bleeding complications when dong quai is used with warfarin, highlighting the need for caution with anticoagulant therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25233607/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Botanicals and Their Bioactive Phytochemicals for Women's Health",
+      "summary": "Comprehensive review noting that dong quai is used for premenstrual syndrome and menopausal symptoms, though rigorous clinical trials have not been conducted to establish efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27677719/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Menopause: a review of botanical dietary supplements",
+      "summary": "Systematic review of botanical supplements for menopause found limited evidence supporting dong quai's effectiveness for hot flashes and menopausal symptoms, with most studies showing inconclusive results.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16414334/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Botanical modulation of menopausal symptoms: mechanisms of action",
+      "summary": "Review discusses potential mechanisms including serotonergic pathways by which dong quai may affect menopausal symptoms, though clinical data remains controversial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23408273/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dietary supplement-drug interactions",
+      "summary": "Review highlights case reports suggesting interaction between warfarin and dong quai, recommending counseling for patients at high risk of adverse interactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10531760/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Antithrombotic effects of naturally derived products on coagulation and platelet function",
+      "summary": "Dong quai is noted to have anticoagulant effects and potential to interact with warfarin, aspirin, and other blood thinners, requiring systematic study of its antiplatelet properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20617421/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Dong Quai (LactMed Database)",
+      "summary": "Database entry states dong quai has no generally recognized lactation-related uses and is best avoided during breastfeeding due to potential bleeding risks and photosensitivity reactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30000896/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 35,
+    "summary": "User discussions rarely mention dong quai specifically, and when referenced, it appears in multi-ingredient formulas that users are skeptical about. Scientific warnings about drug interactions and lack of efficacy evidence dominate the conversation, with no clear positive user testimonials found."
+  },
+  "effects": [
+    {
+      "label": "Limited Clinical Evidence:",
+      "description": "Rigorous clinical trials have not been conducted to establish efficacy for women's health claims"
+    },
+    {
+      "label": "Mixed Research Results:",
+      "description": "Studies show controversial and inconclusive data regarding effectiveness for menopausal symptoms"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Most commonly found in multi-ingredient formulas making it difficult to assess individual contribution"
+    },
+    {
+      "label": "Traditional Use vs. Evidence:",
+      "description": "Despite widespread traditional use in Chinese medicine, modern clinical validation is lacking"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "No Established Standard:",
+      "description": "Clinical research has not established effective or safe dosage ranges for specific conditions"
+    },
+    {
+      "label": "Combination Formulas:",
+      "description": "Typically included at 1000-1500mg in multi-ingredient women's health supplements, though efficacy of these amounts is unverified"
+    },
+    {
+      "label": "Duration Considerations:",
+      "description": "Traditional use suggests ongoing daily supplementation, but long-term safety data is limited"
+    },
+    {
+      "label": "Individual Variability:",
+      "description": "Lack of standardization in extracts and preparations makes dosing recommendations difficult"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Warfarin Interaction:",
+      "description": "Can cause significant increases in INR and bleeding risk when combined with anticoagulant medications"
+    },
+    {
+      "label": "Photosensitivity:",
+      "description": "May cause increased sensitivity to sunlight and photosensitivity reactions"
+    },
+    {
+      "label": "Bleeding Risk:",
+      "description": "Contains natural coumarins that may increase bleeding complications with antiplatelet drugs"
+    },
+    {
+      "label": "Pregnancy/Lactation Concerns:",
+      "description": "Recommended to avoid during breastfeeding and pregnancy due to safety concerns"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Dietary Supplement Status:",
+      "description": "Available without prescription as a dietary supplement in the US, not requiring FDA pre-market approval for safety or efficacy"
+    },
+    {
+      "label": "Combination Products:",
+      "description": "Most commonly found in multi-ingredient women's health formulas rather than as a standalone supplement"
+    },
+    {
+      "label": "Quality Concerns:",
+      "description": "Lack of standardization and potential contamination with mycotoxins reported in some products"
+    }
+  ],
+  "related": [
+    {
+      "name": "BLACK COHOSH",
+      "slug": "black-cohosh"
+    },
+    {
+      "name": "CHASTE TREE (VITEX)",
+      "slug": "chaste-tree-vitex"
+    },
+    {
+      "name": "Cordyceps",
+      "slug": "cordyceps"
+    },
+    {
+      "name": "GINGER",
+      "slug": "ginger"
+    },
+    {
+      "name": "MILK THISTLE",
+      "slug": "milk-thistle"
+    }
+  ]
+}

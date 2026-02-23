@@ -1,0 +1,157 @@
+{
+  "slug": "adiponectin",
+  "url": "https://dopamine.club/substances/adiponectin/",
+  "scrapedAt": "2026-02-12T16:05:23.320Z",
+  "title": "ADIPONECTIN",
+  "description": "Adiponectin is a hormone secreted by adipose tissue that plays crucial roles in regulating glucose levels, fatty acid breakdown, and insulin sensitivity. It acts through activation of AMP-activated protein kinase (AMPK) pathways and has anti-inflammatory, anti-diabetic, and cardioprotective properties. Low adiponectin levels are associated with obesity, type 2 diabetes, and cardiovascular disease.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "Adiponectin deficiency contributes to the development and progression of benign prostatic hyperplasia in obesity",
+      "summary": "Study found that adiponectin deficiency in obesity causally links to BPH development, and adiponectin supplementation protected obese mice from microscopic BPH by inhibiting the MEK-ERK-p90RSK pathway and promoting apoptosis in prostatic cells.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28256562/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Fish oil supplementation increases concentration of adiponectin in healthy dogs",
+      "summary": "Fish oil supplementation (220 mg/kg daily) significantly increased serum adiponectin concentrations by 3.4-5.3 µg/mL in healthy dogs without affecting body weight or fat percentage, suggesting omega-3s can boost adiponectin levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24611954/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The Effect of Omega-3 on Circulating Adiponectin in Adults With Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+      "summary": "Meta-analysis evaluating omega-3 fatty acid supplementation effects on adiponectin levels in type 2 diabetes patients, examining whether fish oil or EPA/DHA supplements can modulate this important metabolic hormone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29567080/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effects of green tea supplementation on serum concentrations of adiponectin in patients with type 2 diabetes mellitus: a systematic review and meta-analysis",
+      "summary": "Systematic review examined green tea supplementation effects on adiponectin in type 2 diabetes patients, as decreased adiponectin is associated with obesity-related diseases including insulin resistance and cardiovascular disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33216644/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Adiponectin stimulates angiogenesis in response to tissue ischemia through stimulation of amp-activated protein kinase signaling",
+      "summary": "Research demonstrated that adiponectin promotes angiogenesis and tissue repair through AMPK activation, with adiponectin-knockout mice showing impaired ischemic limb recovery that was reversed by adiponectin supplementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15123726/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Development of arterial calcification in adiponectin-deficient mice: adiponectin regulates arterial calcification",
+      "summary": "Study found that adiponectin-deficient mice developed arterial calcification, which was attenuated by adiponectin supplementation through p38 MAPK pathway activation, suggesting adiponectin protects against vascular calcification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19257834/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Adiponectin Attenuates Streptozotocin-Induced Tau Hyperphosphorylation and Cognitive Deficits by Rescuing PI3K/Akt/GSK-3β Pathway",
+      "summary": "Adiponectin supplementation significantly restored cognitive function and attenuated tau hyperphosphorylation in diabetic rat models by activating the PI3K/Akt/GSK-3β pathway, suggesting neuroprotective effects against diabetes-related brain damage.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29098530/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Adiponectin alleviates contractile dysfunction of genioglossus in rats exposed to chronic intermittent hypoxia",
+      "summary": "Adiponectin supplementation (10 µg twice weekly) significantly improved genioglossal muscle function in rats exposed to chronic intermittent hypoxia, suggesting potential benefits for sleep apnea-related muscle dysfunction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24033946/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Effect of dietary lipids on circulating adiponectin: a systematic review with meta-analysis of randomised controlled trials",
+      "summary": "Comprehensive meta-analysis of 53 RCTs examining how different dietary lipid interventions affect adiponectin concentrations, providing insights into nutritional strategies for modulating this important metabolic hormone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25192422/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "User discussions around adiponectin-boosting supplements are generally positive, with multiple users reporting significant weight loss benefits (513 calories/day in some studies) and metabolic improvements. Natural substances that increase adiponectin like omega-3s, green tea, and specific herbal formulations receive favorable feedback for their effectiveness and safety profile."
+  },
+  "effects": [
+    {
+      "label": "Weight Loss Enhancement:",
+      "description": "Most effective in overweight/obese individuals with adiponectin deficiency; normal-weight individuals have baseline adequate levels and see minimal benefit from supplementation attempts"
+    },
+    {
+      "label": "Synergistic Effects:",
+      "description": "Adiponectin-boosting compounds work best when combined with caloric restriction and regular exercise (20-30 minutes daily walking minimum), with minimal effects when used alone"
+    },
+    {
+      "label": "Natural Boosters:",
+      "description": "Omega-3 fish oil, green tea extract, curcumin, and specific herbal formulations (Meratrim) have proven effective at increasing adiponectin levels in clinical trials"
+    },
+    {
+      "label": "Context-Dependent:",
+      "description": "In chronic kidney disease and advanced metabolic conditions, high adiponectin may represent a compensatory response rather than causative benefit, making interpretation context-sensitive"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Fish Oil Protocol:",
+      "description": "220 mg/kg daily or standard omega-3 supplementation shown to increase adiponectin by 3.4-5.3 µg/mL without side effects"
+    },
+    {
+      "label": "Meratrim Formulation:",
+      "description": "400 mg twice daily of Sphaeranthus indicus and Garcinia mangostana extract shown effective in obesity studies with proper macronutrient ratios (60% carbs, 25% fat, 15% protein)"
+    },
+    {
+      "label": "Green Tea Extract:",
+      "description": "Various doses studied in type 2 diabetes populations for adiponectin modulation, with systematic reviews supporting efficacy"
+    },
+    {
+      "label": "Direct Supplementation:",
+      "description": "Animal studies used 10 µg adiponectin twice weekly intravenously; human direct supplementation protocols not well-established in available research"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Direct Toxicity:",
+      "description": "Natural adiponectin-boosting supplements like fish oil and green tea show excellent safety profiles with long histories of use"
+    },
+    {
+      "label": "Individual Response Variation:",
+      "description": "Some users report that adiponectin-boosting compounds only work under specific conditions (calorie deficit, exercise), with no effect when these conditions aren't met"
+    },
+    {
+      "label": "Kidney Considerations:",
+      "description": "In chronic kidney disease, elevated adiponectin may indicate disease severity rather than protection; supplementation strategies should be medically supervised in renal patients"
+    },
+    {
+      "label": "Interaction Concerns:",
+      "description": "Compounds affecting adiponectin also influence insulin sensitivity and glucose metabolism, requiring monitoring in diabetic patients on medication"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Indirect Boosting:",
+      "description": "Adiponectin itself is not commonly available as a direct supplement; users increase levels through proven natural compounds like omega-3s, curcumin, green tea extract, and specific herbal formulations"
+    },
+    {
+      "label": "Research Use:",
+      "description": "Direct adiponectin supplementation is primarily used in research settings via adenovirus-mediated delivery or intravenous administration in animal models, not commercially available for human use"
+    }
+  ],
+  "related": [
+    {
+      "name": "GLP-1",
+      "slug": "glp-1"
+    },
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    },
+    {
+      "name": "AOD-9604",
+      "slug": "aod-9604"
+    },
+    {
+      "name": "B7-33",
+      "slug": "b7-33"
+    }
+  ]
+}

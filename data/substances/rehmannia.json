@@ -1,0 +1,133 @@
+{
+  "slug": "rehmannia",
+  "url": "https://dopamine.club/substances/rehmannia/",
+  "scrapedAt": "2026-02-12T16:10:58.216Z",
+  "title": "REHMANNIA",
+  "description": "Rehmannia, primarily Rehmannia glutinosa, is a traditional Chinese herb that functions as a 'Yin' tonic to support adrenal, kidney, and bone health. It contains bioactives like catalpol and polysaccharides that exhibit significant antioxidant, anti-inflammatory, and neuroprotective properties by modulating signaling pathways like AKT/mTOR and Wnt.",
+  "categories": [
+    "Herb"
+  ],
+  "research": [
+    {
+      "title": "A Root-Based Combination Supplement Containing Pueraria lobata and Rehmannia glutinosa and Exercise Preserve Bone Mass in Ovariectomized Rats Fed a High-Fat Diet",
+      "summary": "This study found that Rehmannia extracts combined with exercise significantly preserve bone microarchitecture and decrease bone loss markers in models of postmenopausal osteoporosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26319677/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Review of the effects of the traditional Chinese medicine Rehmannia Six Formula on diabetes mellitus and its complications",
+      "summary": "Research indicates that Rehmannia-based formulas have beneficial effects on blood glucose levels and help prevent diabetic complications like neuropathy and nephropathy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21631896/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Neuroprotective effects of Rehmannia glutinosa polysaccharide on chronic constant light-induced oxidative stress and autophagic cell death",
+      "summary": "Polysaccharides from Rehmannia show anti-anxiety and cognitive protection effects by reducing hippocampal neuron damage and oxidative stress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38286367/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Rehmannia glutinosa exhibits anti-aging effect through maintaining the quiescence and decreasing the senescence of hematopoietic stem cells",
+      "summary": "The herb demonstrated anti-aging properties by slowing the senescence of stem cells and maintaining their regenerative capacity over time.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30891565/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Study of the Effect of Neutral Polysaccharides from Rehmannia glutinosa on Lifespan of Caenorhabditis elegans",
+      "summary": "Polysaccharide fractions from Rehmannia were shown to extend lifespan and delay senescence by activating antioxidant enzymatic systems.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31847478/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users generally view Rehmannia as a potent 'kidney tonic' and anxiolytic, often reporting improved hormone balance and stress resilience, though it is frequently taken in herbal blends rather than in isolation."
+  },
+  "effects": [
+    {
+      "label": "Bone Health:",
+      "description": "Highly effective in animal models for preventing bone mineral density loss during menopause."
+    },
+    {
+      "label": "Anti-Aging:",
+      "description": "Validated through multiple studies showing lifespan extension in simple organisms and stem cell protection in mammals."
+    },
+    {
+      "label": "Preparation Matters:",
+      "description": "The effects of 'Prepared' (steamed) Rehmannia differ from 'Raw' Rehmannia, particularly regarding its impact on digestion and glucose metabolism."
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "Effectiveness is often enhanced when paired with other herbs like Ginseng (Liangyi paste) or Pueraria lobata."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standardized Extracts:",
+      "description": "Clinical animal models often utilize doses between 100mg/kg to 400mg/kg body weight."
+    },
+    {
+      "label": "Root Powder:",
+      "description": "Common carp studies used a 4% prepared root powder concentration in diet for microbiota benefits."
+    },
+    {
+      "label": "Traditional Formulations:",
+      "description": "Often consumed as part of the 'Rehmannia Six Formula' (Liuwei Dihuang Wan) rather than a standalone extract."
+    },
+    {
+      "label": "Hairy Root Cultures:",
+      "description": "Laboratory production focuses on optimizing catalpol content, which can reach up to 0.7% dry weight."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Digestive Sensitivity:",
+      "description": "Crude or raw forms can sometimes cause loose stools or digestive upset if not properly prepared."
+    },
+    {
+      "label": "Sedation:",
+      "description": "While beneficial for anxiety, some users report excessive tiredness when taken during the day."
+    },
+    {
+      "label": "Hypoglycemia Risk:",
+      "description": "Due to its blood-sugar-lowering effects, it may interact with diabetic medications."
+    },
+    {
+      "label": "Microbiome Shifts:",
+      "description": "Long-term use can significantly alter intestinal flora, potentially increasing beneficial Firmicutes."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Herbal Sourcing:",
+      "description": "Widely available in traditional Chinese pharmacies as either 'Sheng Di Huang' (Raw) or 'Shu Di Huang' (Prepared)."
+    },
+    {
+      "label": "Supplement Formats:",
+      "description": "Commonly found in 'Kidney Support' or 'Adrenal Support' capsules and complex liquid tinctures."
+    }
+  ],
+  "related": [
+    {
+      "name": "OLIVE LEAF EXTRACT",
+      "slug": "olive-leaf-extract"
+    },
+    {
+      "name": "JUJUBE",
+      "slug": "jujube"
+    },
+    {
+      "name": "KANNA",
+      "slug": "kanna"
+    },
+    {
+      "name": "LEMON BALM",
+      "slug": "lemon-balm"
+    },
+    {
+      "name": "MAGNOLIA BARK",
+      "slug": "magnolia-bark"
+    }
+  ]
+}

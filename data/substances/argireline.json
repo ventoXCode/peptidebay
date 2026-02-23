@@ -1,0 +1,155 @@
+{
+  "slug": "argireline",
+  "url": "https://dopamine.club/substances/argireline/",
+  "scrapedAt": "2026-02-12T16:05:52.125Z",
+  "title": "ARGIRELINE",
+  "description": "Argireline (acetyl hexapeptide-8) is a synthetic peptide derived from the N-terminal end of SNAP-25 protein that works as a topical alternative to botulinum toxin. It inhibits neurotransmitter release at the neuromuscular junction, reducing muscle contraction and preventing wrinkle formation when applied to the skin.",
+  "categories": [
+    "Peptide"
+  ],
+  "research": [
+    {
+      "title": "The anti-wrinkle efficacy of argireline, a synthetic hexapeptide, in Chinese subjects: a randomized, placebo-controlled study",
+      "summary": "A randomized trial of 60 Chinese subjects found that topical argireline applied twice daily for 4 weeks achieved 48.9% total anti-wrinkle efficiency with notable reduction in wrinkle depth compared to placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23417317/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The anti-wrinkle efficacy of Argireline",
+      "summary": "In aged mice induced by D-galactose, topical argireline applied twice daily for 6 weeks improved skin histology by increasing type I collagen fibers and decreasing type III collagen fibers, demonstrating skin rejuvenation effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23464592/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Investigating the effects of Argireline in a skin serum containing hyaluronic acids on skin surface wrinkles using the Visia® Complexion Analysis camera system",
+      "summary": "A double-blind study of 19 female participants using objective facial imaging found that argireline-containing serum applied twice daily showed measurable effects on skin surface wrinkles when compared to placebo-treated facial sides.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38024099/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Enhanced Skin Permeation of Anti-wrinkle Peptides via Molecular Modification",
+      "summary": "Research found that while argireline demonstrates anti-wrinkle efficacy up to 48% with 4 weeks of twice-daily treatment, its large molecular weight and hydrophilicity limit skin permeation, leading to investigations of molecular modifications to enhance absorption.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29371611/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "The study of cellular cytotoxicity of argireline - an anti-aging peptide",
+      "summary": "Cytotoxicity testing on multiple cell lines (HEK-293, IMR-32, and primary skin fibroblasts) using formazan-based assays found argireline to be relatively safe with minimal antiproliferative effects at tested concentrations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24644551/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Public Interest in Acetyl Hexapeptide-8: Longitudinal Analysis",
+      "summary": "Analysis of Google search trends from 2013-2023 showed substantial increases in public interest in argireline in 2022, with the peptide emerging as a cost-effective, over-the-counter alternative to botulinum neurotoxin treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38376906/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Skin scars and wrinkles temporary camouflage in dermatology and oncoesthetics: focus on acetyl hexapeptide-8",
+      "summary": "A retrospective study of 26 patients using gel cream containing 10% argireline demonstrated improved skin quality parameters including hydration, elasticity, and sebum production, with clinical improvement in masking skin imperfections.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33151254/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "3D-bioengineered model of human skeletal muscle tissue with phenotypic features of aging for drug testing purposes",
+      "summary": "A 3D-bioengineered skeletal muscle model demonstrated that argireline and other anti-aging compounds could be effectively tested for their effects on muscle tissue differentiation, functionality, and force generation in aging models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34284359/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 75,
+    "summary": "Users discussing anti-aging routines consistently include argireline as part of effective topical skincare regimens alongside retinol, vitamin C, and hyaluronic acid. Users report incorporating it into their preventative skincare strategies with no reported negative experiences in the available discussions."
+  },
+  "effects": [
+    {
+      "label": "Clinical Evidence:",
+      "description": "Multiple randomized controlled trials demonstrate measurable anti-wrinkle effects, particularly for periorbital lines and facial wrinkles"
+    },
+    {
+      "label": "Application Duration:",
+      "description": "Visible improvements typically observed after 4-6 weeks of consistent twice-daily topical application"
+    },
+    {
+      "label": "Permeation Limitations:",
+      "description": "Large molecular weight and hydrophilic nature limit skin penetration, though formulations with penetration enhancers show improved efficacy"
+    },
+    {
+      "label": "Safety Profile:",
+      "description": "Cytotoxicity studies and clinical trials confirm good tolerability with minimal adverse effects when used topically"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Topical Concentration:",
+      "description": "Studies typically use formulations containing 0.125% to 10% acetyl hexapeptide-8 concentration"
+    },
+    {
+      "label": "Application Frequency:",
+      "description": "Twice-daily application (morning and evening) is the standard protocol in clinical studies"
+    },
+    {
+      "label": "Treatment Duration:",
+      "description": "Minimum 4-week treatment period recommended for visible results, with 6-week protocols showing enhanced effects"
+    },
+    {
+      "label": "Combination Formulas:",
+      "description": "Often combined with hyaluronic acid, peptides, and other anti-aging ingredients for synergistic effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Oxidation Concern:",
+      "description": "Methionine residue in argireline sequence can undergo oxidation, affecting product stability and potentially efficacy"
+    },
+    {
+      "label": "Minimal Adverse Events:",
+      "description": "Clinical trials report good tolerability with no significant safety concerns at recommended concentrations"
+    },
+    {
+      "label": "Formulation Stability:",
+      "description": "Product stability depends on proper formulation and storage to prevent peptide oxidation"
+    },
+    {
+      "label": "No Systemic Effects:",
+      "description": "As a topical agent with limited penetration, systemic side effects are not reported in literature"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Over-the-Counter Access:",
+      "description": "Available in numerous cosmetic creams, serums, and skincare products without prescription requirement"
+    },
+    {
+      "label": "Market Popularity:",
+      "description": "Increasing consumer interest as evidenced by substantial Google search volume growth, particularly in 2022"
+    },
+    {
+      "label": "Quality Variance:",
+      "description": "Available in various formulations and concentrations across different cosmetic brands, requiring careful product selection for optimal efficacy"
+    }
+  ],
+  "related": [
+    {
+      "name": "A4 AMYLOID BETA",
+      "slug": "a4-amyloid-beta"
+    },
+    {
+      "name": "ACE-031",
+      "slug": "ace-031"
+    },
+    {
+      "name": "ACE-083",
+      "slug": "ace-083"
+    },
+    {
+      "name": "ADIPONECTIN",
+      "slug": "adiponectin"
+    },
+    {
+      "name": "ADIPOTIDE",
+      "slug": "adipotide"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "mk-3984",
+  "url": "https://dopamine.club/substances/mk-3984/",
+  "scrapedAt": "2026-02-12T16:09:35.697Z",
+  "title": "MK-3984",
+  "description": "MK-3984 is a form of creatine, an organic compound that facilitates the recycling of adenosine triphosphate (ATP) in muscular and brain tissue. It is primarily used to enhance high-intensity exercise performance, support muscle mass accretion, and improve cognitive processing during periods of fatigue or physiological stress.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+      "summary": "This comprehensive review confirms that creatine is the most effective ergogenic supplement for increasing high-intensity exercise capacity and lean body mass.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "Safety of creatine supplementation: analysis of the prevalence of reported side effects in clinical trials and adverse event reports",
+      "summary": "Analyses of clinical data show that long-term supplementation of up to 30g per day for five years is safe and well-tolerated in healthy individuals.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40198156/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 85,
+    "summary": "Users report significant improvements in physical stamina and cognitive recovery, particularly when addressing chronic fatigue, with very few reporting negative effects at standard doses."
+  },
+  "effects": [
+    {
+      "label": "Exercise Performance:",
+      "description": "Consistently effective for improving high-intensity, short-duration tasks."
+    },
+    {
+      "label": "Injury Prevention:",
+      "description": "Research indicates it helps reduce the frequency and severity of sports-related injuries."
+    },
+    {
+      "label": "Thermoregulation:",
+      "description": "Users and research note better tolerance to exercising in heat."
+    },
+    {
+      "label": "Fatigue Mitigation:",
+      "description": "Highly effective for those suffering from chronic fatigue or sleep deprivation symptoms."
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Standard Maintenance:",
+      "description": "3 to 5 grams daily is the most common long-term dose for general health and sports."
+    },
+    {
+      "label": "Loading Phase:",
+      "description": "Some users utilize 20 grams daily for 5-7 days to saturate muscle stores rapidly."
+    },
+    {
+      "label": "High Dose Protocol:",
+      "description": "Up to 15-30 grams daily has been used in clinical or extreme fatigue scenarios under supervision."
+    },
+    {
+      "label": "Consistency:",
+      "description": "Effectiveness is cumulative; missing days significantly reduces the benefit compared to daily intake."
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Weight Gain:",
+      "description": "Primarily due to increased intracellular water retention in the muscles."
+    },
+    {
+      "label": "Digestive Discomfort:",
+      "description": "Occasionally reported if taken in large doses on an empty stomach."
+    },
+    {
+      "label": "Kidney Stress:",
+      "description": "Only a concern in individuals with pre-existing renal disease; no effect on healthy kidneys."
+    },
+    {
+      "label": "Cramping:",
+      "description": "Rare, typically mitigated by maintaining adequate hydration."
+    }
+  ],
+  "availability": [
+    {
+      "label": "Regulatory Status:",
+      "description": "Widely legal and sold as a dietary supplement in most countries."
+    },
+    {
+      "label": "Form Factor:",
+      "description": "Most commonly available as Monohydrate powder, which is the most researched form."
+    }
+  ],
+  "related": [
+    {
+      "name": "GLYCEROL",
+      "slug": "glycerol"
+    },
+    {
+      "name": "L-CARNOSINE",
+      "slug": "l-carnosine"
+    },
+    {
+      "name": "SODIUM BICARBONATE",
+      "slug": "sodium-bicarbonate"
+    },
+    {
+      "name": "ANSERINE",
+      "slug": "anserine"
+    },
+    {
+      "name": "BEETROOT EXTRACT",
+      "slug": "beetroot-extract"
+    }
+  ]
+}

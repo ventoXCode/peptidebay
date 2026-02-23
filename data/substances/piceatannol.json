@@ -1,0 +1,119 @@
+{
+  "slug": "piceatannol",
+  "url": "https://dopamine.club/substances/piceatannol/",
+  "scrapedAt": "2026-02-12T16:10:39.754Z",
+  "title": "PICEATANNOL",
+  "description": "Piceatannol is a natural polyphenolic compound and hydroxylated analog of resveratrol found in various plants, particularly grapes and passion fruit. It functions primarily by promoting nitric oxide release through phosphorylation of endothelial nitric oxide synthase (eNOS), improving vascular function and blood flow. Research suggests it has potential cardiovascular benefits, anti-inflammatory properties, and arginase inhibitory activity.",
+  "categories": [
+    "Supplement"
+  ],
+  "research": [
+    {
+      "title": "Piceatannol, a natural hydroxylated analog of resveratrol, promotes nitric oxide release through phosphorylation of endothelial nitric oxide synthase in human endothelial cells",
+      "summary": "Study demonstrates that piceatannol enhances nitric oxide production by activating endothelial nitric oxide synthase, suggesting cardiovascular benefits similar to or potentially exceeding those of resveratrol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26367737/",
+      "source": "(PubMed)"
+    },
+    {
+      "title": "l-Citrulline Supplementation: Impact on Cardiometabolic Health",
+      "summary": "Research shows l-citrulline supplementation mildly reduces blood pressure and improves cardiovascular markers through enhanced arginine availability and nitric oxide production, relevant to piceatannol's mechanism of action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30029482/",
+      "source": "(PubMed)"
+    }
+  ],
+  "sentiment": {
+    "positive": 50,
+    "summary": "Limited direct user experience with piceatannol specifically, though related compounds like l-citrulline and l-arginine show positive feedback for cardiovascular and performance benefits. Users report improvements in blood flow, energy, and recovery when using nitric oxide-promoting supplements with similar mechanisms."
+  },
+  "effects": [
+    {
+      "label": "Mechanism Similarity:",
+      "description": "Works through similar pathways as well-studied compounds like l-citrulline and l-arginine, which show consistent benefits in research"
+    },
+    {
+      "label": "Resveratrol Analog:",
+      "description": "As a hydroxylated analog of resveratrol, may offer similar or enhanced benefits with different bioavailability profile"
+    },
+    {
+      "label": "Limited Human Data:",
+      "description": "While mechanism is well-established, direct human studies on piceatannol specifically are limited compared to related compounds"
+    },
+    {
+      "label": "Synergistic Potential:",
+      "description": "May work well in combination with other nitric oxide precursors based on similar compound research"
+    }
+  ],
+  "effectiveness": [],
+  "dosage": [
+    {
+      "label": "Research Dosing:",
+      "description": "Scientific studies typically examine effects at cellular and tissue levels rather than specific oral supplement dosages"
+    },
+    {
+      "label": "Comparative Compounds:",
+      "description": "Related compounds like l-citrulline are effective at 3-6g daily, l-arginine at similar doses"
+    },
+    {
+      "label": "No Established Standard:",
+      "description": "Specific piceatannol dosing guidelines for humans are not well-established in current research"
+    },
+    {
+      "label": "Natural Sources:",
+      "description": "Found in grapes and passion fruit, though supplemental forms likely needed for therapeutic effects"
+    }
+  ],
+  "sideEffects": [
+    {
+      "label": "Minimal Direct Reports:",
+      "description": "Limited user experience data specific to piceatannol makes side effect profile unclear"
+    },
+    {
+      "label": "Related Compound Effects:",
+      "description": "L-arginine can cause gastrointestinal discomfort at higher doses; piceatannol may have similar potential"
+    },
+    {
+      "label": "Blood Pressure Effects:",
+      "description": "Compounds affecting nitric oxide production can lower blood pressure, requiring monitoring in hypotensive individuals"
+    },
+    {
+      "label": "Unknown Long-term Safety:",
+      "description": "Lack of extensive human trials means long-term safety profile remains to be established"
+    }
+  ],
+  "availability": [
+    {
+      "label": "Limited Commercial Products:",
+      "description": "Not widely available as standalone supplement compared to resveratrol or l-citrulline"
+    },
+    {
+      "label": "Natural Source Alternative:",
+      "description": "Can be obtained through dietary sources like grapes, though concentrations may be insufficient for therapeutic effects"
+    },
+    {
+      "label": "Research Chemical Status:",
+      "description": "Primarily available through specialty supplement or research chemical suppliers rather than mainstream retailers"
+    }
+  ],
+  "related": [
+    {
+      "name": "L-CITRULLINE",
+      "slug": "l-citrulline"
+    },
+    {
+      "name": "PROPIONYL-L-CARNITINE",
+      "slug": "propionyl-l-carnitine"
+    },
+    {
+      "name": "ALOE VERA",
+      "slug": "aloe-vera"
+    },
+    {
+      "name": "ALPHA-KETOGLUTARATE (AKG)",
+      "slug": "alpha-ketoglutarate-akg"
+    },
+    {
+      "name": "ALPHA-TOCOPHEROL",
+      "slug": "alpha-tocopherol"
+    }
+  ]
+}
