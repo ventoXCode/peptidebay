@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="PeptideBay – The comprehensive, searchable reference for peptides and supplements. Dosages, benefits, side effects, and research status all in one place." />
+  <title>PeptideBay – Peptide &amp; Supplement Reference Guide</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ── Header ── -->
+  <header>
+    <h1>Peptide<span>Bay</span></h1>
+    <p class="tagline">Everything you need to know about peptides and supplements — benefits, dosages, side effects, and research status, all in one place.</p>
+  </header>
+
+  <!-- ── Stats bar ── -->
+  <div class="stats-bar">
+    <div class="stat">
+      <div class="num" id="statPeptides">0</div>
+      <div class="lbl">Peptides</div>
+    </div>
+    <div class="stat">
+      <div class="num" id="statSupplements">0</div>
+      <div class="lbl">Supplements</div>
+    </div>
+    <div class="stat">
+      <div class="num" id="statCategories">0</div>
+      <div class="lbl">Categories</div>
+    </div>
+    <div class="stat">
+      <div class="num" id="statTotal">0</div>
+      <div class="lbl">Total Entries</div>
+    </div>
+  </div>
+
+  <!-- ── Controls ── -->
+  <div class="controls" role="search">
+    <div class="search-wrap">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+      <input
+        type="search"
+        id="searchInput"
+        placeholder="Search peptides, supplements, benefits, tags…"
+        aria-label="Search entries"
+      />
+    </div>
+
+    <div class="filter-group" role="group" aria-label="Filter by type">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="peptide">Peptides</button>
+      <button class="filter-btn" data-filter="supplement">Supplements</button>
+    </div>
+
+    <select id="categoryFilter" aria-label="Filter by category">
+      <option value="all">All Categories</option>
+    </select>
+
+    <span class="results-count" id="resultsCount" aria-live="polite"></span>
+  </div>
+
+  <!-- ── Main grid ── -->
+  <main>
+    <div class="grid" id="grid" role="list"></div>
+  </main>
+
+  <!-- ── Footer ── -->
+  <footer>
+    <p>PeptideBay is a reference guide compiling publicly available research on peptides and supplements.</p>
+    <div class="disclaimer">
+      ⚠️ <strong>Disclaimer:</strong> This website is for informational and educational purposes only. It does not constitute medical advice. Always consult a qualified healthcare professional before starting any peptide, supplement, or medication. Many peptides listed are research compounds not approved for human use in certain jurisdictions.
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+  <script>
+    // Populate stat counters
+    document.addEventListener("DOMContentLoaded", () => {
+      const peptideCount = allData.filter(d => d.category === "peptide").length;
+      const supplementCount = allData.filter(d => d.category === "supplement").length;
+      const categoryCount = new Set(allData.map(d => d.subcategory)).size;
+      document.getElementById("statPeptides").textContent = peptideCount;
+      document.getElementById("statSupplements").textContent = supplementCount;
+      document.getElementById("statCategories").textContent = categoryCount;
+      document.getElementById("statTotal").textContent = allData.length;
+    });
+  </script>
+</body>
+</html>
