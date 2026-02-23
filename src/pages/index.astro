@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../utils/paths';
 ---
 
 <BaseLayout title="Home" description="Comprehensive peptide and research compound database with dosing guidelines, research papers, and user experiences.">
@@ -36,7 +37,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       
       <!-- Search bar -->
       <div class="max-w-xl mx-auto mb-12">
-        <form action="/database" method="get" class="relative">
+        <form action={withBase('database')} method="get" class="relative">
           <input 
             type="text" 
             name="q" 
@@ -54,19 +55,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       
       <!-- Quick category buttons -->
       <div class="flex flex-wrap justify-center gap-3">
-        <a href="/database?category=peptide" class="category-pill bg-industrial-800/50 border-peptide hover:bg-peptide/10 hover:border-peptide">
+        <a href={withBase('database?category=peptide')} class="category-pill bg-industrial-800/50 border-peptide hover:bg-peptide/10 hover:border-peptide">
           <span class="w-2 h-2 rounded-full bg-peptide"></span>
           Peptides
         </a>
-        <a href="/database?category=nootropic" class="category-pill bg-industrial-800/50 border-nootropic hover:bg-nootropic/10 hover:border-nootropic">
+        <a href={withBase('database?category=nootropic')} class="category-pill bg-industrial-800/50 border-nootropic hover:bg-nootropic/10 hover:border-nootropic">
           <span class="w-2 h-2 rounded-full bg-nootropic"></span>
           Nootropics
         </a>
-        <a href="/database?category=supplement" class="category-pill bg-industrial-800/50 border-supplement hover:bg-supplement/10 hover:border-supplement">
+        <a href={withBase('database?category=supplement')} class="category-pill bg-industrial-800/50 border-supplement hover:bg-supplement/10 hover:border-supplement">
           <span class="w-2 h-2 rounded-full bg-supplement"></span>
           Supplements
         </a>
-        <a href="/database?category=sarm" class="category-pill bg-industrial-800/50 border-sarm hover:bg-sarm/10 hover:border-sarm">
+        <a href={withBase('database?category=sarm')} class="category-pill bg-industrial-800/50 border-sarm hover:bg-sarm/10 hover:border-sarm">
           <span class="w-2 h-2 rounded-full bg-sarm"></span>
           SARMs
         </a>
@@ -109,7 +110,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         </h2>
         <p class="text-industrial-400 mt-2">Popular research peptides and their profiles</p>
       </div>
-      <a href="/database" class="btn-lab hidden sm:inline-block">
+      <a href={withBase('database')} class="btn-lab hidden sm:inline-block">
         View All →
       </a>
     </div>
@@ -117,7 +118,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <!-- Featured compound cards - Periodic table style -->
     <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
       <!-- BPC-157 -->
-      <a href="/substances/bpc-157" class="element-card group hover:scale-105 transition-transform">
+      <a href={withBase('substances/bpc-157')} class="element-card group hover:scale-105 transition-transform">
         <div class="text-xs text-peptide font-mono mb-1">015</div>
         <div class="text-4xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors mb-2">
           BPC
@@ -133,7 +134,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </a>
       
       <!-- TB-500 -->
-      <a href="/substances/tb-500" class="element-card group hover:scale-105 transition-transform">
+      <a href={withBase('substances/tb-500')} class="element-card group hover:scale-105 transition-transform">
         <div class="text-xs text-peptide font-mono mb-1">016</div>
         <div class="text-4xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors mb-2">
           TB
@@ -149,7 +150,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </a>
       
       <!-- CJC-1295 -->
-      <a href="/substances/cjc-1295" class="element-card group hover:scale-105 transition-transform">
+      <a href={withBase('substances/cjc-1295')} class="element-card group hover:scale-105 transition-transform">
         <div class="text-xs text-peptide font-mono mb-1">017</div>
         <div class="text-4xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors mb-2">
           CJC
@@ -165,7 +166,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </a>
       
       <!-- Semaglutide -->
-      <a href="/substances/semaglutide" class="element-card group hover:scale-105 transition-transform">
+      <a href={withBase('substances/semaglutide')} class="element-card group hover:scale-105 transition-transform">
         <div class="text-xs text-glp font-mono mb-1">GLP</div>
         <div class="text-4xl font-substance font-bold text-industrial-100 group-hover:text-chem-green transition-colors mb-2">
           SEM
@@ -182,7 +183,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </div>
     
     <div class="mt-8 text-center sm:hidden">
-      <a href="/database" class="btn-lab">
+      <a href={withBase('database')} class="btn-lab">
         View All Compounds →
       </a>
     </div>
@@ -197,23 +198,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </h2>
     
     <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
-      <a href="/database?category=peptide" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+      <a href={withBase('database?category=peptide')} class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
         <div class="text-2xl font-heading font-bold text-peptide mb-1">Peptides</div>
         <div class="text-xs text-industrial-400 font-mono">72 compounds</div>
       </a>
-      <a href="/database?category=supplement" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+      <a href={withBase('database?category=supplement')} class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
         <div class="text-2xl font-heading font-bold text-supplement mb-1">Supplements</div>
         <div class="text-xs text-industrial-400 font-mono">279 compounds</div>
       </a>
-      <a href="/database?category=nootropic" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+      <a href={withBase('database?category=nootropic')} class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
         <div class="text-2xl font-heading font-bold text-nootropic mb-1">Nootropics</div>
         <div class="text-xs text-industrial-400 font-mono">71 compounds</div>
       </a>
-      <a href="/database?category=sarm" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+      <a href={withBase('database?category=sarm')} class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
         <div class="text-2xl font-heading font-bold text-sarm mb-1">SARMs</div>
         <div class="text-xs text-industrial-400 font-mono">13 compounds</div>
       </a>
-      <a href="/database?category=adaptogen" class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
+      <a href={withBase('database?category=adaptogen')} class="industrial-panel p-4 text-center hover:border-chem-green transition-colors group">
         <div class="text-2xl font-heading font-bold text-adaptogen mb-1">Adaptogens</div>
         <div class="text-xs text-industrial-400 font-mono">20 compounds</div>
       </a>
@@ -231,7 +232,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <p class="text-industrial-300 mb-8">
         Access comprehensive compound profiles with dosing protocols, peer-reviewed research, and aggregated user experiences. All data compiled for research purposes.
       </p>
-      <a href="/database" class="btn-lab inline-block text-lg px-8 py-4">
+      <a href={withBase('database')} class="btn-lab inline-block text-lg px-8 py-4">
         Enter The Lab →
       </a>
     </div>

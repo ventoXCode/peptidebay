@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import substances from '../../../data/substances.json';
-import { getCollection } from 'astro:content';
+import { withBase } from '../../utils/paths';
 
 // Get all substance slugs for static paths
 export function getStaticPaths() {
@@ -55,12 +55,12 @@ function getSymbol(name: string): string {
 <nav class="bg-industrial-900/50 border-b border-industrial-800">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
     <ol class="flex items-center gap-2 text-sm">
-      <li><a href="/" class="text-industrial-400 hover:text-chem-green transition-colors">Home</a></li>
+      <li><a href={withBase()} class="text-industrial-400 hover:text-chem-green transition-colors">Home</a></li>
       <li class="text-industrial-600">/</li>
-      <li><a href="/database" class="text-industrial-400 hover:text-chem-green transition-colors">The Lab</a></li>
+      <li><a href={withBase('database')} class="text-industrial-400 hover:text-chem-green transition-colors">The Lab</a></li>
       <li class="text-industrial-600">/</li>
       <li class="text-industrial-600">/</li>
-      <li><a href={`/database?category=${primaryCategory.toLowerCase()}`} class="text-industrial-400 hover:text-chem-green transition-colors">{primaryCategory}</a></li>
+      <li><a href={withBase(`database?category=${primaryCategory.toLowerCase()}`)} class="text-industrial-400 hover:text-chem-green transition-colors">{primaryCategory}</a></li>
       <li class="text-industrial-600">/</li>
       <li class="text-chem-green font-medium">{substance.title}</li>
     </ol>
@@ -261,7 +261,7 @@ function getSymbol(name: string): string {
             <div class="flex flex-wrap gap-3">
               {details.related.map(rel => (
                 <a 
-                  href={`/substances/${rel.slug}`}
+                  href={withBase(`substances/${rel.slug}`)}
                   class="btn-lab py-2 px-4 text-sm inline-flex items-center gap-2"
                 >
                   {rel.name}

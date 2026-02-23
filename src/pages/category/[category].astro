@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import substances from '../../../data/substances.json';
+import { withBase } from '../../utils/paths';
 
 export function getStaticPaths() {
   // Define categories inside getStaticPaths
@@ -49,9 +50,9 @@ const otherCategories = allCategories.filter((c: {slug: string, name: string, co
 <nav class="bg-industrial-900/50 border-b border-industrial-800">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
     <ol class="flex items-center gap-2 text-sm">
-      <li><a href="/" class="text-industrial-400 hover:text-chem-green transition-colors">Home</a></li>
+      <li><a href={withBase()} class="text-industrial-400 hover:text-chem-green transition-colors">Home</a></li>
       <li class="text-industrial-600">/</li>
-      <li><a href="/database" class="text-industrial-400 hover:text-chem-green transition-colors">The Lab</a></li>
+      <li><a href={withBase('database')} class="text-industrial-400 hover:text-chem-green transition-colors">The Lab</a></li>
       <li class="text-industrial-600">/</li>
       <li class="font-medium" style={`color: ${categoryColor}`}>{categoryName}</li>
     </ol>
@@ -107,7 +108,7 @@ const otherCategories = allCategories.filter((c: {slug: string, name: string, co
         
         return (
           <a 
-            href={`/substances/${substance.slug}`}
+            href={withBase(`substances/${substance.slug}`)}
             class="substance-card element-card group"
             data-title={substance.title.toLowerCase()}
             style={`animation-delay: ${(index % 30) * 30}ms; --cat-color: ${categoryColor}`}
@@ -149,7 +150,7 @@ const otherCategories = allCategories.filter((c: {slug: string, name: string, co
       <div class="flex flex-wrap gap-3">
         {otherCategories.map(cat => (
           <a 
-            href={`/category/${cat.slug}`}
+            href={withBase(`category/${cat.slug}`)}
             class="category-pill bg-industrial-800/50 border-industrial-600 hover:bg-industrial-700/50 transition-colors"
             style={`border-left-color: ${cat.color}`}
           >

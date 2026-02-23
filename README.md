@@ -46,6 +46,17 @@ Open `http://localhost:4321`.
 | `npm run preview` | Preview production build locally |
 | `npm run scrape` | Run scraper utility |
 
+## Deploy to GitHub Pages
+
+This repo includes an auto-deploy workflow at `.github/workflows/deploy-pages.yml`.
+
+1. Push to `main`.
+2. In GitHub, open `Settings -> Pages`.
+3. Set **Source** to **GitHub Actions**.
+4. Wait for the `Deploy to GitHub Pages` workflow to finish.
+5. Your live URL will be:
+   - `https://<github-username>.github.io/peptidebay/`
+
 ## Data Pipeline
 
 Scraper entrypoint: `scripts/scraper.js`

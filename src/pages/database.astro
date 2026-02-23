@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import substances from '../../data/substances.json';
+import { withBase } from '../utils/paths';
 
 // Category colors - using hex values for inline styles
 const categoryColors: Record<string, string> = {
@@ -123,7 +124,7 @@ function getCategoryColor(cat: string): string {
         
         return (
           <a 
-            href={`/substances/${substance.slug}`}
+            href={withBase(`substances/${substance.slug}`)}
             class="substance-card element-card group"
             data-title={substance.title.toLowerCase()}
             data-primary-category={primaryCat.toLowerCase()}

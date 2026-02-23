@@ -2,8 +2,12 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
+const site = process.env.SITE_URL || 'https://peptidebay.shop';
+const base = process.env.BASE_PATH || '/';
+
 export default defineConfig({
-  site: 'https://peptidebay.shop',
+  site,
+  base,
   integrations: [
     tailwind(),
     sitemap({
